@@ -1,0 +1,54 @@
+{
+  "id": "2025-how-to-train-your-dragon-ultimate-plasma-blast-nightfury",
+  "year": 2025,
+  "name": "How To Train Your Dragon Ultimate Plasma Blast Nightfury",
+  "price_eur": 37.99,
+  "price_text": "€37.99",
+  "retailers": [
+    {
+      "name": "Beattys of Loughrea",
+      "url": "https://www.beattys.ie/products/dreamworks-dragons-plasma-blast-nightfury"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.beattys.ie/products/dreamworks-dragons-plasma-blast-nightfury"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "e_zYvfmm5UY",
+      "channel": "NA",
+      "duration": 809.0,
+      "title": "How To Train Your Dragon Live Action Ultimate Plasma Blast Toothless - Toy Review"
+    },
+    {
+      "id": "vivdC0S5Qxc",
+      "channel": "NA",
+      "duration": 27.0,
+      "title": "HOW TO TRAIN YOUR DRAGON: ULTIMATE PLASMA BLAST TOOTHLESS"
+    },
+    {
+      "id": "T0VluCRrGrk",
+      "channel": "NA",
+      "duration": 770.0,
+      "title": "PLASMA BLAST TOOTHLESS! How to Train your Dragon Ultimate Plasma Blast Toothless Review!!!"
+    },
+    {
+      "id": "g_NjhA2Xts8",
+      "channel": "NA",
+      "duration": 761.0,
+      "title": "Ultimate Plasma Blast Toothless unboxing and review!"
+    },
+    {
+      "id": "tUCaB-VwFy0",
+      "channel": "NA",
+      "duration": 309.0,
+      "title": "Ultimate Plasma Blast Toothless Figure Review"
+    }
+  ]
+}

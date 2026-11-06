@@ -1,0 +1,57 @@
+{
+  "id": "2025-byowave-proteus-controller-kit",
+  "year": 2025,
+  "name": "ByoWave Proteus Controller Kit",
+  "price_eur": 129.99,
+  "price_text": "€129.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/gaming-accessories/pc-accessories/byowave-proteus-controller-kit-the-ultimate-customizable-gaming-experience-xbox-and-pc/p/235356"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/gaming-accessories/pc-accessories/byowave-proteus-controller-kit-the-ultimate-customizable-gaming-experience-xbox-and-pc/p/235356",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oRLmc6Gd628",
+      "channel": "ByoWave",
+      "duration": 404.0,
+      "title": "One Handed Joystick Style Tutorial | Proteus Controller"
+    },
+    {
+      "id": "s1h4xWxedtY",
+      "channel": "CNET",
+      "duration": 461.0,
+      "title": "Proteus Modular Gaming Controller Review: A Customizable Controller Designed for Xbox"
+    },
+    {
+      "id": "-VSgACAnG5A",
+      "channel": "ByoWave",
+      "duration": 624.0,
+      "title": "Proteus Software Tutorial | Proteus Controller & Proteus Builder"
+    },
+    {
+      "id": "UW_O_jNE8Hs",
+      "channel": "ByoWave",
+      "duration": 256.0,
+      "title": "Get Started │Proteus Controller"
+    },
+    {
+      "id": "DLaoSG-Ffko",
+      "channel": "ByoWave",
+      "duration": 144.0,
+      "title": "Getting Started with the Proteus Builder | Proteus Builder"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-rubens-baby-baby-esm",
+  "year": 2022,
+  "name": "Rubens Baby Baby Esmé",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Micki Of Sweden",
+      "url": "http://mickiofsweden.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mickiofsweden.com/",
+      "title": "Köp leksaker online | Micki | Skapar leenden sedan 1944",
+      "description": "Köp populära leksaker från Lundby, Pippi, Bamse, Babblarna, Micki m.fl. Säker betalning. Snabb leverans. Säkra, roliga leksaker framtagna med omtanke!",
+      "image": "https://mickiofsweden.com/thumb/7874/1200x630/logo-footer-2.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Xu8xC0oLWKs",
+      "channel": "Baba Me",
+      "duration": 534.0,
+      "title": "Indigo Jamm Wooden Dolls Prams & Rubens Barn Dolls"
+    },
+    {
+      "id": "UbiDLirweb4",
+      "channel": "maxomorraworld",
+      "duration": 26.0,
+      "title": "Meet Max & Morra - Maxomorra x Rubens Barn Collab"
+    },
+    {
+      "id": "gI1Nmd_NZTE",
+      "channel": "Smart Smiles Toys",
+      "duration": 18.0,
+      "title": "Rubens Barn dolls are handmade of 100% organic cotton"
+    },
+    {
+      "id": "IWguA3EBmWg",
+      "channel": "Ruby Bonnie Granny",
+      "duration": 1210.0,
+      "title": "SQUISHY FOOD VS REAL FOOD CHALLENGE! Ruby and Bonnie"
+    },
+    {
+      "id": "ItsRzvc9HXk",
+      "channel": "Ruby Bonnie Granny",
+      "duration": 5091.0,
+      "title": "Ruby and Bonnie Elf on the Shelf Story Compilation series"
+    }
+  ]
+}

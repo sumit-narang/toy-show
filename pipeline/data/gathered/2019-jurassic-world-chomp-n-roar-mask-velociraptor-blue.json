@@ -1,0 +1,57 @@
+{
+  "id": "2019-jurassic-world-chomp-n-roar-mask-velociraptor-blue",
+  "year": 2019,
+  "name": "Jurassic World Chomp-n-Roar Mask Velociraptor Blue",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-chomp-n-roar-mask-velociraptor-blue-/p/165791"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-chomp-n-roar-mask-velociraptor-blue-/p/165791",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PvqqX9bdpfc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 85.0,
+      "title": "Jurassic World Chomp 'n Roar Mask Velociraptor Blue from Mattel"
+    },
+    {
+      "id": "cGjudIiMF5w",
+      "channel": "METHHOUSE",
+      "duration": 53.0,
+      "title": "JURASSIC WORLD CAMP CRETACEOUS VELOCIRAPTOR BLUE CHOMP N ROAR MASK MATTEL TOYS"
+    },
+    {
+      "id": "5AuXrgQdr4g",
+      "channel": "The Jurassic Park Collection",
+      "duration": 36.0,
+      "title": "Chomp & Roar Mask｜JURASSIC WORLD: FALLEN KINGDOM | Mattel"
+    },
+    {
+      "id": "p4BrelLEj88",
+      "channel": "konas2002",
+      "duration": 489.0,
+      "title": "Jurassic World Velociraptor “Blue” Chomp N Roar Mask and Claws ! || Toy Review || Konas2002"
+    },
+    {
+      "id": "MSnYauK_GyU",
+      "channel": "Angry Math Dude",
+      "duration": 138.0,
+      "title": "My Short Review of Jurassic World Velociraptor \"Blue\" Chomp 'N Roar Mask"
+    }
+  ]
+}

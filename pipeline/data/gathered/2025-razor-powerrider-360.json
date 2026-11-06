@@ -1,0 +1,54 @@
+{
+  "id": "2025-razor-powerrider-360",
+  "year": 2025,
+  "name": "Razor PowerRider 360",
+  "price_eur": 299.98,
+  "price_text": "€299.98",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/razor-powerrider-360"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/razor-powerrider-360"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d-P4NPxkrq8",
+      "channel": "RazorWorldwide",
+      "duration": 84.0,
+      "title": "360-degree Ride Electrified! Introducing PowerRider 360 from Razor"
+    },
+    {
+      "id": "wxxypOdXw9Q",
+      "channel": "RazorWorldwide",
+      "duration": 94.0,
+      "title": "Razor PowerRider 360 Ride Video"
+    },
+    {
+      "id": "t6CJhX1zY7U",
+      "channel": "RazorWorldwide",
+      "duration": 32.0,
+      "title": "Introducing the New Razor PowerRider 360!"
+    },
+    {
+      "id": "XvX3cYZmJfQ",
+      "channel": "DIY with Duy",
+      "duration": 4536.0,
+      "title": "How to make a fast Razor Power Rider 360. Motor, Battery, full throttle controller upgrade tutorial"
+    },
+    {
+      "id": "uylEfovy8UA",
+      "channel": "Should You Buy It",
+      "duration": 180.0,
+      "title": "Razor PowerRider 360 Trike Review: Should You Buy It?"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2021-ireland-the-people-the-places-the-stories",
+  "year": 2021,
+  "name": "Ireland: The People, The Places, The Stories",
+  "price_eur": 11.36,
+  "price_text": "€11.36",
+  "retailers": [
+    {
+      "name": "Kennys.ie",
+      "url": "https://www.kennys.ie/shop/Ireland-The-People-The-Places-The-Stories-with-a-foreword-by-Dara-Briain-Pierce-Rachel-O-Briain-Dara"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.kennys.ie/shop/Ireland-The-People-The-Places-The-Stories-with-a-foreword-by-Dara-Briain-Pierce-Rachel-O-Briain-Dara",
+      "title": "Ireland: The People, The Places, The Stories  with a foreword by Dara Ó Briain: 1",
+      "description": "Hardcover. Everything Ireland - a celebration of the Irish people, their rich culture and fascinating history.",
+      "image": "https://www.kennys.ie/products/full/9780702302411.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sg9d0GKwrHM",
+      "channel": "TRACKS - Travel Documentaries",
+      "duration": 3206.0,
+      "title": "Traversing Ireland's Incredibly Rich History And Culture | Hidden Ireland Documentary"
+    },
+    {
+      "id": "fV2gpP8xpzs",
+      "channel": "Beyond The Map - Documentary",
+      "duration": 986.0,
+      "title": "IRELAND: The Towns, Valleys and Coasts That Shaped the Island | Travel Documentary"
+    },
+    {
+      "id": "lSqLNBx5lvw",
+      "channel": "Emptied Ireland",
+      "duration": 956.0,
+      "title": "The Islands Ireland Were Forced To Abandon"
+    },
+    {
+      "id": "vDLvJMuR4UU",
+      "channel": "Discovering Eire",
+      "duration": 961.0,
+      "title": "10 Eerie Abandoned Places in Ireland (And Their Dark Stories)"
+    },
+    {
+      "id": "R7AyKHJO_rQ",
+      "channel": "The Irish Archive",
+      "duration": 1992.0,
+      "title": "101 Fascinating Things You Never Knew About Ireland: Its People, Places, History and Traditions"
+    }
+  ]
+}

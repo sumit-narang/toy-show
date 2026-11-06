@@ -1,0 +1,54 @@
+{
+  "id": "2025-rhythmic-gymnastics-ribbon",
+  "year": 2025,
+  "name": "Rhythmic Gymnastics Ribbon",
+  "price_eur": 24.0,
+  "price_text": "€24",
+  "retailers": [
+    {
+      "name": "Dance World",
+      "url": "https://danceworld.ie/products/rhythmic-gymnastics-ribbon-4102?variant=39781549310013"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://danceworld.ie/products/rhythmic-gymnastics-ribbon-4102?variant=39781549310013"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GSUGx3RJvJc",
+      "channel": "Olympic Games",
+      "duration": 247.0,
+      "title": "Wang Zilu - Ribbon Magic at the 2024 Olympics! 🎀✨ | Music Monday"
+    },
+    {
+      "id": "H45SADZKshw",
+      "channel": "Olympic Games",
+      "duration": 190.0,
+      "title": "Vida Carnaval! Spain's Rhythmic Gymnastics' team performs to Carlinhos Brown | Music Monday"
+    },
+    {
+      "id": "TufvpMwAJjk",
+      "channel": "Olympic Games",
+      "duration": 215.0,
+      "title": "Darya Dmitriyeva's Energetic Ribbon Performance at London 2012 | Music Monday"
+    },
+    {
+      "id": "qKiYcnv_FH0",
+      "channel": "World Gymnastics Channel",
+      "duration": 1564.0,
+      "title": "2018 Rhythmic Worlds, Sofia (BUL) – HIGHLIGHTS - Clubs+Ribbon Finals - We Are Gymnastics !"
+    },
+    {
+      "id": "oDngTR6Q5QU",
+      "channel": "Olympic Games",
+      "duration": 146.0,
+      "title": "Son Yeon Jae's \"Libertango\" in Rio 2016 | Rhythmic Gymnastics | Music Monday"
+    }
+  ]
+}

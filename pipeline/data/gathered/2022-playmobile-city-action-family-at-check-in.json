@@ -1,0 +1,57 @@
+{
+  "id": "2022-playmobile-city-action-family-at-check-in",
+  "year": 2022,
+  "name": "Playmobile City Action Family at Check-In",
+  "price_eur": null,
+  "price_text": "£12.63",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Playmobil-5399-Action-Family-Check/dp/B01EKBCWLO"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Playmobil-5399-Action-Family-Check/dp/B01EKBCWLO",
+      "title": "Amazon.co.uk",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LhWFanRUYkg",
+      "channel": "Dream Kids TV",
+      "duration": 473.0,
+      "title": "Playmobil Family at Check-in Building Set | Airport Check-in Playset | Playmobil Toys"
+    },
+    {
+      "id": "ZoKE6BL2adI",
+      "channel": "Joga comigo - Canal de Brinquedos em Português",
+      "duration": 433.0,
+      "title": "PLAYMOBIL FAMÍLIA FAZENDO CHECK-IN AUTOMÁTICO 5399 | Passagens aéreas confirmadas! | Demonstração"
+    },
+    {
+      "id": "48Jk62zaajM",
+      "channel": "The Izzys",
+      "duration": 919.0,
+      "title": "Cars ! Playmobil Police Headquarters! Fun Toys"
+    },
+    {
+      "id": "Z2jNtPC7DVw",
+      "channel": "NerdNewsToday",
+      "duration": 271.0,
+      "title": "Playmobil \"City Life\" & \"City Action\" Toys at NY Toy Fair 2018"
+    },
+    {
+      "id": "oUmTpxEG7uc",
+      "channel": "seratus1 unboxing",
+      "duration": 182.0,
+      "title": "Playmobil Familie am Check-in Automat seratus1 unboxing Neuheit 2016"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-soft-hands-warm-kisses-shea",
+  "year": 2017,
+  "name": "Soft Hands, Warm kisses (Shea)",
+  "price_eur": 11.95,
+  "price_text": "€11.95",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FHJ5mpGbk1A",
+      "channel": "BudgetGlam Babe",
+      "duration": 369.0,
+      "title": "The Body Shop Shea Soft Hands, Warm Kisses Duo | Skincare Saturday"
+    },
+    {
+      "id": "wblQZmDYomA",
+      "channel": "Sun TV",
+      "duration": 224.0,
+      "title": "Shake Yo Body | Video Song | Kanchana 3 | Raghava Lawrence | Vedika | Sun Pictures"
+    },
+    {
+      "id": "xsHzTAmqK1Q",
+      "channel": "Mary Joy Pajalla",
+      "duration": 22.0,
+      "title": "Asli & Ferhat || First Kiss || Siyah Beyaz Ask"
+    },
+    {
+      "id": "1XkcHVOoq-U",
+      "channel": "Ricky Martin",
+      "duration": 255.0,
+      "title": "Ricky Martin - She's All I Ever Had (Official Video)"
+    },
+    {
+      "id": "UelDrZ1aFeY",
+      "channel": "The Beatles",
+      "duration": 188.0,
+      "title": "The Beatles - Something"
+    }
+  ]
+}

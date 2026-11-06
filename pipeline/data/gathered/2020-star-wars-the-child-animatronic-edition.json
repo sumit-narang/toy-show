@@ -1,0 +1,53 @@
+{
+  "id": "2020-star-wars-the-child-animatronic-edition",
+  "year": 2020,
+  "name": "Star Wars The Child Animatronic Edition",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MxDOsxSfIOI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 150.0,
+      "title": "Star Wars The Child Animatronic Edition from Hasbro | Better known as \"Baby Yoda\""
+    },
+    {
+      "id": "nHTmzzt7pos",
+      "channel": "TTPM Toy Reviews",
+      "duration": 121.0,
+      "title": "Star Wars The Mandalorian The Child Animatronic | In-depth look and key features on baby yoda /Grogu"
+    },
+    {
+      "id": "jWOt_FM4NsE",
+      "channel": "Elden Reviews",
+      "duration": 90.0,
+      "title": "Star Wars The Child Animatronic Edition 7.2-Inch-Tall Toy Over 25 Sound & Motion Combinations"
+    },
+    {
+      "id": "XhaQrUsb2dI",
+      "channel": "Crabbok",
+      "duration": 593.0,
+      "title": "The Child - Animatronic Edition Toy Review"
+    },
+    {
+      "id": "sdgXPw4zY_I",
+      "channel": "Hasbro Australia",
+      "duration": 38.0,
+      "title": "Star Wars The Child Animatronic Edition"
+    }
+  ]
+}

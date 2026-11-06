@@ -1,0 +1,64 @@
+{
+  "id": "2017-120-piece-food-set",
+  "year": 2017,
+  "name": "120 Piece Food Set",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "78kx6osEAmQ",
+      "channel": "Made for Kids",
+      "duration": 29.0,
+      "title": "Toy - 120 Piece Food Set"
+    },
+    {
+      "id": "nfvSRrHgAhc",
+      "channel": "Teddy Playhouse",
+      "duration": 185.0,
+      "title": "Chad Valley 120 Piece Play Food Set  - Unboxing Video #Sainsbury's #Argos"
+    },
+    {
+      "id": "gF_KLEkbGLk",
+      "channel": "Amanda Naberhaus-Schwantes",
+      "duration": 67.0,
+      "title": "120 piece play food set for children"
+    },
+    {
+      "id": "a0sE4VOdAgc",
+      "channel": "Crystal Eberle",
+      "duration": 159.0,
+      "title": "Kangaroo  play food set 120 pieces"
+    },
+    {
+      "id": "7R7FD8MCziE",
+      "channel": "Millennial Mother of 5 Reviews",
+      "duration": 147.0,
+      "title": "Unboxing & Playing with JOYIN 135-Piece Play Food Set 🍎🍩 Ultimate Pretend Kitchen Toy for Kids!"
+    }
+  ]
+}

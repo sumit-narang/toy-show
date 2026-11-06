@@ -1,0 +1,57 @@
+{
+  "id": "2018-light-headed-hat-black-hat-with-bulb",
+  "year": 2018,
+  "name": "Light Headed Hat (Black Hat with Bulb)",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "The Silly Shop",
+      "url": "http://thesillyshop.ie/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://thesillyshop.ie/",
+      "title": "LetsHost - domain is registered",
+      "description": "LetsHost - Holding Page - Your Domain Has Been Successfully Registered!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "53e6pUgxWIg",
+      "channel": "TechBaffle",
+      "duration": 340.0,
+      "title": "Bright Idea or Bonkers? Light-Up 4x LED Rechargeable Beanie Hat"
+    },
+    {
+      "id": "Mcq_CP6DTQI",
+      "channel": "Unravel & Unwind CIC",
+      "duration": 99.0,
+      "title": "Beanie hat light, Recharging SD480P"
+    },
+    {
+      "id": "BAeZfQtsGPU",
+      "channel": "Vroom Broom Zoom",
+      "duration": 69.0,
+      "title": "5 LED Head light HeadLamp Cap Torch Bulb Outdoor: Online Shopping Reviews in One Minute"
+    },
+    {
+      "id": "hvShBaTmyVk",
+      "channel": "BlackJack Industrial",
+      "duration": 471.0,
+      "title": "Blackjack:Lift Hard Hats/Head Lamps"
+    },
+    {
+      "id": "8OtJ6IATQBc",
+      "channel": "JORESTECH",
+      "duration": 28.0,
+      "title": "Hard Hat Headlamp Clips"
+    }
+  ]
+}

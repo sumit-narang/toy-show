@@ -1,0 +1,54 @@
+{
+  "id": "2017-skellig-michael-jigsaw",
+  "year": 2017,
+  "name": "Skellig Michael Jigsaw",
+  "price_eur": 17.95,
+  "price_text": "€17.95",
+  "retailers": [
+    {
+      "name": "Goslinggiftsandgames.com",
+      "url": "http://Goslinggiftsandgames.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 409,
+      "final_url": "http://goslinggiftsandgames.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dXo_JXNelYA",
+      "channel": "National Monuments Service",
+      "duration": 302.0,
+      "title": "Sceilg Mhichíl"
+    },
+    {
+      "id": "g_0lk8BY0Vk",
+      "channel": "devinsupertramp",
+      "duration": 403.0,
+      "title": "Star Wars Island - Skellig Michael"
+    },
+    {
+      "id": "jo1XKqRYZ4M",
+      "channel": "Smithsonian Channel",
+      "duration": 88.0,
+      "title": "A Stunning & Dramatic Irish Island Once Inhabited by Monks"
+    },
+    {
+      "id": "P2s4stbS5a4",
+      "channel": "Smarthistory",
+      "duration": 369.0,
+      "title": "At the edge of the world, Skellig Michael"
+    },
+    {
+      "id": "dOrLSP-ulB0",
+      "channel": "MIXED BAG MEDIA LTD.",
+      "duration": 2560.0,
+      "title": "'The Edge of Europe' - The story of Skellig Michael Ireland"
+    }
+  ]
+}

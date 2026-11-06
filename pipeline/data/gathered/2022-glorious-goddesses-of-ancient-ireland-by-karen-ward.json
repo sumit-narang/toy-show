@@ -1,0 +1,30 @@
+{
+  "id": "2022-glorious-goddesses-of-ancient-ireland-by-karen-ward",
+  "year": 2022,
+  "name": "Glorious Goddesses of Ancient Ireland by Karen Ward",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Veritas",
+      "url": "https://www.veritasbooksonline.com/glorious-goddesses-9781800970038-46742/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.veritasbooksonline.com/glorious-goddesses-9781800970038-46742/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "scvnM_X9mZY",
+      "channel": "Soles to Soul Care for Trauma and AuDHD",
+      "duration": 872.0,
+      "title": "Dr Karen Ward on energy work and Sacred Ireland: Episode 20 of The Feel Better Every Day Podcast"
+    }
+  ]
+}

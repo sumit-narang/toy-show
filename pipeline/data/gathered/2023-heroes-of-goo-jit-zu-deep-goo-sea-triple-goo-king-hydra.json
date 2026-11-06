@@ -1,0 +1,54 @@
+{
+  "id": "2023-heroes-of-goo-jit-zu-deep-goo-sea-triple-goo-king-hydra",
+  "year": 2023,
+  "name": "Heroes of Goo Jit Zu Deep Goo Sea Triple Goo King Hydra",
+  "price_eur": 50.99,
+  "price_text": "€50.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/heroes-of-goo-jit-zu-deep-goo-sea--nbspking-hydra-3-in-1/1600887949.prd?Ntt=goo%20jit%20zu"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/heroes-of-goo-jit-zu-deep-goo-sea--nbspking-hydra-3-in-1/1600887949.prd?Ntt=goo%20jit%20zu"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CEXhJZ4NSUQ",
+      "channel": "TurboToyTime",
+      "duration": 662.0,
+      "title": "Father & Son MEGA MONSTER BATTLE / Deep Goo Sea Goo Jit Zu"
+    },
+    {
+      "id": "-kyz1ix0J-g",
+      "channel": "Goo Jitzu",
+      "duration": 669.0,
+      "title": "Heroes of Goo Jit Zu | EPISODE 10 | Gooing Under"
+    },
+    {
+      "id": "bOsOV9CTQsg",
+      "channel": "Goo Jitzu",
+      "duration": 30.0,
+      "title": "HEROES OF GOO JIT ZU | DEEP GOO SEA HERO RESCUE"
+    },
+    {
+      "id": "ggQAxHOZ6JU",
+      "channel": "AdventureFun!",
+      "duration": 2730.0,
+      "title": "Heroes of Goo Jit Zu Deep Sea Goo Series 9 Including King Hydra Adventure Fun Toy review!"
+    },
+    {
+      "id": "-jopm2e9U_Q",
+      "channel": "SquirrelStampede",
+      "duration": 1329.0,
+      "title": "Heroes of Goo Jit Zu King Hydra and Ultra Rare Exoshock Crab Unique Figures of Deep Goo Sea Review"
+    }
+  ]
+}

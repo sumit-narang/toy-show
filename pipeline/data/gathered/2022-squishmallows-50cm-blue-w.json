@@ -1,0 +1,57 @@
+{
+  "id": "2022-squishmallows-50cm-blue-w",
+  "year": 2022,
+  "name": "Squishmallows 50cm Blue W",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KD3osb5iuH8",
+      "channel": "TikTokTea",
+      "duration": 637.0,
+      "title": "squishmallow tiktoks that are the bomb💣"
+    },
+    {
+      "id": "uTjj6qAn8pg",
+      "channel": "Guinness World Records",
+      "duration": 327.0,
+      "title": "Largest Squishmallow Collection - Guinness World Records"
+    },
+    {
+      "id": "Zbn5D3SIJV8",
+      "channel": "SugarStar",
+      "duration": 7049.0,
+      "title": "OPENING *SO MANY* MYSTERY SQUISHMALLOWS! #squishmallows #unboxing"
+    },
+    {
+      "id": "DmJS0FlviSs",
+      "channel": "CJ’s Gaming Channel",
+      "duration": 227.0,
+      "title": "Pokémon 20\" Squishmallows from TARGET!"
+    },
+    {
+      "id": "wMWAqXuaIiw",
+      "channel": "Chlolivi",
+      "duration": 1377.0,
+      "title": "Walmart😱ONLY Easter🌷Squish Hunt! Finding 16inch🤍Belana?! • So Many COWS, Blind Capsules & DISO✨Haul!"
+    }
+  ]
+}

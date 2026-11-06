@@ -1,0 +1,60 @@
+{
+  "id": "2020-my-first-book-of-irish-wildlife",
+  "year": 2020,
+  "name": "My First Book of Irish Wildlife",
+  "price_eur": 18.99,
+  "price_text": "€18.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-great-irish-farm-book-darragh-mccullough-9780717188963"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-great-irish-farm-book-darragh-mccullough-9780717188963",
+      "title": "Buy The Great Irish Farm Book Book at Easons",
+      "description": "Everything your child needs to know about Irish farms!\n\nDid you know that there are almost 2,000,000 pigs in Ireland?\n\nAnd that sheep have rectangular pupils, which means they have amazing vision?\n\nWould you believe only 10 per cent of the milk produced in",
+      "image": null,
+      "ld_description": "Everything your child needs to know about Irish farms!\n\nDid you know that there are almost 2,000,000 pigs in Ireland?\n\nAnd that sheep have rectangular pupils, which means they have amazing vision?\n\nWould you believe only 10 per cent of the milk produced in Ireland is consumed here?\n\nAnd that hens are pregnant for 21 days, but a horse can be pregnant for up to 345 days?\n\nHow about the fact that despite our love of spuds, grass is Ireland's top crop, covering 3,700,000 hectares, while potatoes cover only 9,000 hectares?\n\nFrom the farmer's day to the changing of the seasons, from animals and crops to machinery and technology, and from ancient times to the modern day, The Great Irish Farm Book will take you on a fascinating journey through life on an Irish farm.\n\n \n\n'A beautifully produced, large-format hardback, it's a pleasure to dip in and out of its pages' Nadine O'Regan, Sunday Business Post\n\n \n\n'A wonderful reflection of the gorgeousness of Irish rural life' Damien O'Reilly, Irish Farmers Journal\n\n \n\n'This fascinating book, packed with facts, looks to the future with a strong emphasis on the importance of the environment, diversity and sustainability. Highly recommended.' Children's Books Ireland\n\n \n\n'It's illustrated beautifully by Sally Caulwell' Ryan Tubridy\n\n \n\n'Packed with facts about every aspect of Irish farming…it's perfectly pitched for fact-loving young readers.' Sarah Webb, Irish Independent Review\n\n \n\n'I always figure the sign of a good children's book is one th",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/18f57c24-ebbd-486a-90b4-46bf074ce09b/9780717188963_5643078897.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RS_nTkbitXs",
+      "channel": "Juanita Browne",
+      "duration": 65.0,
+      "title": "My First Book Of Irish Animals"
+    },
+    {
+      "id": "Jr4-D0lo59U",
+      "channel": "Juanita Browne",
+      "duration": 19.0,
+      "title": "My First Book of Irish Animals on the Late Late Toy Show"
+    },
+    {
+      "id": "LOJBExaBECI",
+      "channel": "Aga Grandowicz Wildlife Illustration",
+      "duration": 83.0,
+      "title": "‘Remarkable Creatures: a guide to some of Ireland’s disappearing animals' – book by Aga Grandowicz"
+    },
+    {
+      "id": "_PiRvJZLbyI",
+      "channel": "Bear Essentials",
+      "duration": 190.0,
+      "title": "Irish Wildlife Animal Workshop"
+    },
+    {
+      "id": "Ol-hWyuDcJY",
+      "channel": "OurShiningLights",
+      "duration": 60.0,
+      "title": "AYLA'S FAVOURITE ANIMAL BOOK"
+    }
+  ]
+}

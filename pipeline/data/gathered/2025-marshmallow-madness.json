@@ -1,0 +1,54 @@
+{
+  "id": "2025-marshmallow-madness",
+  "year": 2025,
+  "name": "Marshmallow Madness",
+  "price_eur": 19.0,
+  "price_text": "€19",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/marshmallow-madness-party-game/1601179343.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/marshmallow-madness-party-game/1601179343.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vyTgswXPrZU",
+      "channel": "Camp Lakebottom - Scholastic",
+      "duration": 1312.0,
+      "title": "Camp Lakebottom (HD - Full Episode) Marshmallow Madness/Suzi's Later"
+    },
+    {
+      "id": "Pm7dCwmYlHM",
+      "channel": "TasteoFail",
+      "duration": 46.0,
+      "title": "Marsh-Mellow-Madness HD"
+    },
+    {
+      "id": "DUXc99Ptjdc",
+      "channel": "The Entertainer",
+      "duration": 31.0,
+      "title": "Marshmallow Madness Game"
+    },
+    {
+      "id": "QelpRetOUbc",
+      "channel": "Vivid Toys and Games",
+      "duration": 31.0,
+      "title": "MarshMallow Madness"
+    },
+    {
+      "id": "eI9Re_NLG-E",
+      "channel": "Rancyz",
+      "duration": 58.0,
+      "title": "Madness Marshmellow!"
+    }
+  ]
+}

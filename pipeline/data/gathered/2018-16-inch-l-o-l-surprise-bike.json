@@ -1,0 +1,65 @@
+{
+  "id": "2018-16-inch-l-o-l-surprise-bike",
+  "year": 2018,
+  "name": "16 Inch L.O.L. Surprise! Bike",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bnGjxN4n3tw",
+      "channel": "ProAssembler",
+      "duration": 1178.0,
+      "title": "How To Assemble Schwinn 16 inch  LOL Surprise kids bike, single speed, pink"
+    },
+    {
+      "id": "q8ANj1AaAFQ",
+      "channel": "The Fas Life",
+      "duration": 54.0,
+      "title": "L.O.L Surprise! LOL Surprise kids bike, 16-inch wheel, Girls, Pink"
+    },
+    {
+      "id": "7qSplerCkCE",
+      "channel": "Frankie Smokey Honeycutt",
+      "duration": 693.0,
+      "title": "LOL surprise bike assembly"
+    },
+    {
+      "id": "x9VHaO_V5l0",
+      "channel": "Joe & Liz",
+      "duration": 327.0,
+      "title": "LOL Surprise Bike"
+    },
+    {
+      "id": "GgNqqTQrOhE",
+      "channel": "Didi",
+      "duration": 197.0,
+      "title": "Lol surprise bicycle. New gift 🎉"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-making-it-up-as-you-go-along-by-patricia-forde",
+  "year": 2025,
+  "name": "Making It Up As You Go Along by Patricia Forde",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/making-it-up-as-you-go-along-9781915071903"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/making-it-up-as-you-go-along-9781915071903",
+      "title": "Making it Up As You Go Along - Dubray Books",
+      "description": "Learn how to write stories from Laureate na nag (Ireland's children's literature laureate) and bestselling author of The Wordsmith, Patricia Forde.\n\nIn this fun and practical illustrated guide, young writers can learn from some of Ireland's most beloved authors, including Eoin Colfer (Artemis Fowl) Catherine Doyle (Twin Crowns), Pádraig Kenny (Stitch) and Derek Landy (Skullduggery Pleasant), and discover how to:\n\n\nFind inspiration to start your story\nCraft and develop twisty plots\nCreate brilliant characters\nBuild spectacular new worlds\n\nAlso includes imaginative exercises, accessible explanations of writing terms and engaging illustrations by beloved Irish artist Mary Murphy.",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Learn how to write stories from Laureate na nag (Ireland's children's literature laureate) and bestselling author of The Wordsmith, Patricia Forde.\n\nIn this fun and practical illustrated guide, young writers can learn from some of Ireland's most beloved authors, including Eoin Colfer (Artemis Fowl) Catherine Doyle (Twin Crowns), Pádraig Kenny (Stitch) and Derek Landy (Skullduggery Pleasant), and discover how to:\n\n\nFind inspiration to start your story\nCraft and develop twisty plots\nCreate brilliant characters\nBuild spectacular new worlds\n\nAlso includes imaginative exercises, accessible explanations of writing terms and engaging illustrations by beloved Irish artist Mary Murphy.",
+      "brand": "Patricia Forde",
+      "ld_image": "https://media.dubraybooks.ie/asset/190a311e-4796-4457-b0fa-93e7987524e7/9781915071903_5642735080.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JtknKOZfY_8",
+      "channel": "@MaryLanniReads",
+      "duration": 202.0,
+      "title": "Book Review: Making it Up as you Go Along"
+    },
+    {
+      "id": "VXe7tYC5dyU",
+      "channel": "USBBY",
+      "duration": 3510.0,
+      "title": "A Laureate/Ambassador Children's Book Chat with Patricia Forde and Mac Barnett"
+    },
+    {
+      "id": "a5GLXamkaYg",
+      "channel": "VintageBritishComedy",
+      "duration": 253.0,
+      "title": "Florrie Forde - Patricia (1913)"
+    },
+    {
+      "id": "T2HTjshP5Pk",
+      "channel": "Holy Rosary TV",
+      "duration": 1126.0,
+      "title": "Binji Madra ar Strae - By Patricia Forde - Read by Miss Gillen"
+    },
+    {
+      "id": "aXVZqFWIU-Y",
+      "channel": "Trevor Powers",
+      "duration": 449.0,
+      "title": "How To Get Any Audiobook For FREE"
+    }
+  ]
+}

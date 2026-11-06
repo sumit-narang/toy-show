@@ -1,0 +1,57 @@
+{
+  "id": "2018-djungelskog-tiger",
+  "year": 2018,
+  "name": "Djungelskog Tiger",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oOfoNGVbVSU",
+      "channel": "Danny Go!",
+      "duration": 273.0,
+      "title": "“Escape From Tiger Island!” (Jungle Adventure) 🐅🌴 Floor is Lava Game | Danny Go! Songs for Kids"
+    },
+    {
+      "id": "xgcUydif6RM",
+      "channel": "Salty Sardinee",
+      "duration": 37.0,
+      "title": "Djungelskog has finally arrived"
+    },
+    {
+      "id": "QIszQTVHOV0",
+      "channel": "Haroon-Gavin",
+      "duration": 26.0,
+      "title": "IKEA Panda Film"
+    },
+    {
+      "id": "iVC9Ng7C-Hg",
+      "channel": "ur was mom has been gay",
+      "duration": 59.0,
+      "title": "Top 6 Best IKEA Stuffed Animals"
+    },
+    {
+      "id": "0ZFZMdLBDNA",
+      "channel": "Nerdy monke",
+      "duration": 34.0,
+      "title": "Djungelskog Edit"
+    }
+  ]
+}

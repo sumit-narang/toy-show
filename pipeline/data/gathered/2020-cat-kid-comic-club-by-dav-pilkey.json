@@ -1,0 +1,44 @@
+{
+  "id": "2020-cat-kid-comic-club-by-dav-pilkey",
+  "year": 2020,
+  "name": "Cat Kid Comic Club by Dav Pilkey",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "e4gkecrRvwU",
+      "channel": "Books With Laura",
+      "duration": 343.0,
+      "title": "Cat Kid Comic Club 😸📚 Review and Flipthrough"
+    },
+    {
+      "id": "vz6-aOzrj5M",
+      "channel": "Product and Movie Reviews",
+      "duration": 25.0,
+      "title": "CAT KID COMIC CLUB PERSPECTIVES A GRAPHIC NOVEL DAV PILKEY BOOK CLOSER LOOK BOOKS SHOPPING REVIEWS"
+    },
+    {
+      "id": "Vn2n0UR4XnM",
+      "channel": "Lowplex Books",
+      "duration": 58.0,
+      "title": "Cat Kid Comic Club 5 Book Set by Dav Pilkey - Book Unboxing"
+    },
+    {
+      "id": "Tpe0fM4CVOA",
+      "channel": "Popcorn and Books (Universal Popcorn)",
+      "duration": 2835.0,
+      "title": "Cat Kid Comic Club: On Purpose (2022) (MOST VIEWED)"
+    },
+    {
+      "id": "F8F-vORhmzg",
+      "channel": "Kavish USA Vlogs",
+      "duration": 1787.0,
+      "title": "Cat Kid Comic Club Influencers / Dav Pilkey/ Read aloud | Kavish USA Vlogs."
+    }
+  ]
+}

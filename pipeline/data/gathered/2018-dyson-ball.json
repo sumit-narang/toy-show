@@ -1,0 +1,64 @@
+{
+  "id": "2018-dyson-ball",
+  "year": 2018,
+  "name": "Dyson Ball",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LEO8YUhAfbE",
+      "channel": "Vacuum Wars",
+      "duration": 299.0,
+      "title": "Dyson Ball Animal 3 Review - Vacuum Wars"
+    },
+    {
+      "id": "iz7WTvs2ZGo",
+      "channel": "Dyson",
+      "duration": 222.0,
+      "title": "How to set up  Dyson Ball™ cylinder vacuum"
+    },
+    {
+      "id": "DX5YIyffp_A",
+      "channel": "Parwaz786",
+      "duration": 1201.0,
+      "title": "Dyson Ball Animal 3 Extra vacuum cleaner - [Performance Testing]"
+    },
+    {
+      "id": "Ouxjt5e8x-o",
+      "channel": "Dyson",
+      "duration": 87.0,
+      "title": "The Dyson Small Ball - Compact Vacuum"
+    },
+    {
+      "id": "bmzyiCOpE7w",
+      "channel": "Pduesp",
+      "duration": 192.0,
+      "title": "How to empty the dust compartment Dyson DC33c filter cleaning Dyson Ball Multifloor Canister Vacuum"
+    }
+  ]
+}

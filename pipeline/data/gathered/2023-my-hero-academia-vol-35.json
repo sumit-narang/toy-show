@@ -1,0 +1,54 @@
+{
+  "id": "2023-my-hero-academia-vol-35",
+  "year": 2023,
+  "name": "My Hero Academia Vol 35",
+  "price_eur": 9.89,
+  "price_text": "€9.89",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TNbQVl-BRaY",
+      "channel": "Shonen Junk",
+      "duration": 410.0,
+      "title": "My Hero Academia tomo 35 | Manga Review | Panini Manga"
+    },
+    {
+      "id": "F3pHj8zdTHU",
+      "channel": "よっしーのなにか",
+      "duration": 271.0,
+      "title": "【プライズフィギュア】僕のヒーローアカデミア THE AMAZING HEROES vol.35【開封＆完成品チェック！】"
+    },
+    {
+      "id": "qbruL79_ito",
+      "channel": "JesstheNerd999",
+      "duration": 1224.0,
+      "title": "My Hero Academia Manga Box Set 1"
+    },
+    {
+      "id": "xnnsBkRd02g",
+      "channel": "TẦU TẨU",
+      "duration": 606.0,
+      "title": "🐽[4K] UNBOXING & REVIEW || MANGA HAUL | MY HERO ACADEMIA 35 | MASHLE 3 | VPTTQV 17 | LHRR 17✨Tầu Tẩu"
+    },
+    {
+      "id": "9R8xASnkp0Y",
+      "channel": "Manga Man Drew",
+      "duration": 824.0,
+      "title": "Major Reveals About Toga And Dabi?! My Hero Academia Volume 35 Extras Explained!"
+    }
+  ]
+}

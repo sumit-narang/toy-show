@@ -1,0 +1,54 @@
+{
+  "id": "2024-rolly-kids-farmtrac-john-deere-7310r-pedal-tractor",
+  "year": 2024,
+  "name": "Rolly Kids Farmtrac John Deere 7310R Pedal Tractor",
+  "price_eur": 299.98,
+  "price_text": "€299.98",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/rolly-farmtrac-john-deere-7310r"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://clarkesofcavan.ie/product/rolly-farmtrac-john-deere-7310r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VKZIjT0wQaI",
+      "channel": "TimiToys SK",
+      "duration": 46.0,
+      "title": "Šlapací Traktor John Deere X-Trac Premium Rolly Toys"
+    },
+    {
+      "id": "kXC7NemNbF4",
+      "channel": "John Deere UK IE",
+      "duration": 97.0,
+      "title": "Rolly Toys - John Deere"
+    },
+    {
+      "id": "Eo9JWqx3uOA",
+      "channel": "JKC Toymaster",
+      "duration": 1131.0,
+      "title": "How to assemble a Rolly Premium John Deere"
+    },
+    {
+      "id": "umiW6Nbz0QY",
+      "channel": "rolly toys",
+      "duration": 75.0,
+      "title": "rollyFarmtrac Premium II John Deere 7310R (item no. 730032) | rollytoys"
+    },
+    {
+      "id": "H7fJOrpPDYI",
+      "channel": "rolly toys",
+      "duration": 37.0,
+      "title": "rollyTimber Loader (item no.:  409679) | rolly toys"
+    }
+  ]
+}

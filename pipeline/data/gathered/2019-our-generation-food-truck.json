@@ -1,0 +1,57 @@
+{
+  "id": "2019-our-generation-food-truck",
+  "year": 2019,
+  "name": "Our Generation Food Truck",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-food-truck/p/169452"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-food-truck/p/169452",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IKoHz4uCVPk",
+      "channel": "ASMR Toys & Party",
+      "duration": 676.0,
+      "title": "🍔ASMR Organizing My Food Truck! | Our Generation Grill to Go Food Truck | No Talking ✨"
+    },
+    {
+      "id": "DK2scW1rkYo",
+      "channel": "GiGi's Dollhouse",
+      "duration": 334.0,
+      "title": "UNBOXING The OUR GENERATION doll FOOD TRUCK!!!"
+    },
+    {
+      "id": "C-BBFkTuFrk",
+      "channel": "ASMR Toys & Party",
+      "duration": 905.0,
+      "title": "ASMR 🌭 Organizing My Our Generation Food Trucks — Hot Dog Cart + Grill to Go | No Talking"
+    },
+    {
+      "id": "vpfWGpjyc2k",
+      "channel": "ASMR TOY REVIEW SHOW",
+      "duration": 396.0,
+      "title": "#asmr Organizing Our Generation Doll Food Truck With Miniature Toys"
+    },
+    {
+      "id": "-2iav0nXmVo",
+      "channel": "Play Dolls",
+      "duration": 2265.0,
+      "title": "Doll Food Truck Cooking Adventure !"
+    }
+  ]
+}

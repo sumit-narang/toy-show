@@ -1,0 +1,54 @@
+{
+  "id": "2022-licensed-vespa-12v-electric-ride-on-motorcycle",
+  "year": 2022,
+  "name": "Licensed Vespa 12V Electric Ride On Motorcycle",
+  "price_eur": 189.95,
+  "price_text": "€189.95",
+  "retailers": [
+    {
+      "name": "funstuff.ie",
+      "url": "https://funstuff.ie/licensed-vespa-12v-electric-ride-on-motorbike-blue/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://funstuff.ie/ride-on-toys/licensed-vespa-12v-electric-ride-on-motorbike-blue/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sbO50LDIL6I",
+      "channel": "RiiRoo",
+      "duration": 111.0,
+      "title": "Vespa PX150 Licensed 12v Battery Electric Ride On Motorbike For Kids"
+    },
+    {
+      "id": "BNiIsQ1sCgs",
+      "channel": "RiiRoo",
+      "duration": 79.0,
+      "title": "Vespa PX150 12v Kids Battery Electric Electric Ride-on Scooter/Motorbike"
+    },
+    {
+      "id": "VDLsjkbxJvk",
+      "channel": "Baby's Hyperstore",
+      "duration": 43.0,
+      "title": "Vespa GTS Mini Electric Ride-on Kids Scooter"
+    },
+    {
+      "id": "JmUhJKrGajI",
+      "channel": "RiiRoo",
+      "duration": 107.0,
+      "title": "Vespa GTS Maxi 12v Battery Electric Ride On Bike For Kids"
+    },
+    {
+      "id": "rIX3YNyWVDc",
+      "channel": "MotorVia",
+      "duration": 34.0,
+      "title": "Daddy and Daughter days, testing out the Vespa 6v Scooter."
+    }
+  ]
+}

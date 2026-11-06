@@ -1,0 +1,60 @@
+{
+  "id": "2019-toniebox-starter-set",
+  "year": 2019,
+  "name": "Toniebox Starter Set",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": null
+    },
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZtG86xjD94w",
+      "channel": "Currys",
+      "duration": 53.0,
+      "title": "TONIES Toniebox 2 Starter Set"
+    },
+    {
+      "id": "PpYEnv6Y7Do",
+      "channel": "Currys",
+      "duration": 125.0,
+      "title": "Tonies Toniebox Starter Set - Hands On"
+    },
+    {
+      "id": "pJoTQgI4i3E",
+      "channel": "Mack Robertson",
+      "duration": 133.0,
+      "title": "Review: Tonies Toniebox Starter Set with Playtime Puppy - Blue"
+    },
+    {
+      "id": "Y1nAipF40RI",
+      "channel": "Carl's Review Lab",
+      "duration": 377.0,
+      "title": "Toniebox Starter Set Review"
+    },
+    {
+      "id": "shvoTqRvjpM",
+      "channel": "The Entertainer",
+      "duration": 109.0,
+      "title": "tonies Toniebox Lite Starter Set White"
+    }
+  ]
+}

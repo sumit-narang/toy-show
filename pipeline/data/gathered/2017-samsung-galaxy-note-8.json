@@ -1,0 +1,53 @@
+{
+  "id": "2017-samsung-galaxy-note-8",
+  "year": 2017,
+  "name": "Samsung Galaxy Note 8",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "selected retailers nationwide",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Iq4z-isUxvk",
+      "channel": "Samsung Levant",
+      "duration": 200.0,
+      "title": "Samsung Galaxy Note8 -  Official Introduction"
+    },
+    {
+      "id": "wQD1JvJZXdI",
+      "channel": "Marques Brownlee",
+      "duration": 645.0,
+      "title": "Samsung Galaxy Note 8 Review: A $1000 Android!"
+    },
+    {
+      "id": "56PviHSTjII",
+      "channel": "Simple Alpaca",
+      "duration": 211.0,
+      "title": "Samsung Galaxy Note 8 In 2026! (Still Worth It?) (Review)"
+    },
+    {
+      "id": "KSXmY8UE8Vg",
+      "channel": "DetroitBORG",
+      "duration": 1947.0,
+      "title": "Samsung Galaxy Note 8: Unboxing & Review"
+    },
+    {
+      "id": "C1O3R5gLEo4",
+      "channel": "Webbty",
+      "duration": 279.0,
+      "title": "Can You Use the Samsung Galaxy Note 8 in 2025? (Surprisingly...)"
+    }
+  ]
+}

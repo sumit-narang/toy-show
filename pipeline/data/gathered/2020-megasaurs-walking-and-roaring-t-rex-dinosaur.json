@@ -1,0 +1,54 @@
+{
+  "id": "2020-megasaurs-walking-and-roaring-t-rex-dinosaur",
+  "year": 2020,
+  "name": "MegaSaurs Walking and Roaring T-Rex Dinosaur",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/mighty-megasaur-battery-operated-walking-dinosaur/1600472125.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/mighty-megasaur-battery-operated-walking-dinosaur/1600472125.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "f_lSnDhm_Jk",
+      "channel": "Made for Kids",
+      "duration": 28.0,
+      "title": "Toy - Mighty Megasaur Walking and Roaring T-Rex"
+    },
+    {
+      "id": "5XREz5UNGNg",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "JURASSIC WORLD THRASH 'N' DEVOUR TYRANNOSAURUS REX figure    | AD"
+    },
+    {
+      "id": "XNxLhdPJOZ8",
+      "channel": "Nat’s Next Finds",
+      "duration": 10.0,
+      "title": "Walking & Roaring T-Rex Dinosaur Toy"
+    },
+    {
+      "id": "yq39ix3urfI",
+      "channel": "RaceToyTime",
+      "duration": 696.0,
+      "title": "Dinosaur Walking Tyrannosaurus Rex Triceratops Spinosaurus - Dinosaurs Toys Collection For kids"
+    },
+    {
+      "id": "2jtIh50Glq8",
+      "channel": "Dragon-i Toys",
+      "duration": 30.0,
+      "title": "Mighty Megasaur Dinosaurs Short Clip TV Commercial by Dragon-i Toys"
+    }
+  ]
+}

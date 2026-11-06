@@ -1,0 +1,57 @@
+{
+  "id": "2024-hylkies-luke-skywalker",
+  "year": 2024,
+  "name": "Hylkies Luke Skywalker",
+  "price_eur": null,
+  "price_text": "£10.20",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/Ravensburger-12001013-Hylkies-Skywalker-Up-Collectable/dp/B0CRDV98CV"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Ravensburger-12001013-Hylkies-Skywalker-Up-Collectable/dp/B0CRDV98CV",
+      "title": "Ravensburger 3D Puzzle Star Wars Luke Skywalker Hylkies - Ages 6+ | 54 Peices, Star Wars, No Glue Required, Creative Craft Construction Kits for Kids & Adults : Amazon.co.uk: Outlet",
+      "description": "Ravensburger 3D Puzzle Star Wars Luke Skywalker Hylkies - Ages 6+ | 54 Peices, Star Wars, No Glue Required, Creative Craft Construction Kits for Kids & Adults : Amazon.co.uk: Outlet",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Yx_FGAfHq-g",
+      "channel": "Ravensburger CZ",
+      "duration": 56.0,
+      "title": "Ravensburger Hylkies sběratelské figurky"
+    },
+    {
+      "id": "ZQsI7QZC2jA",
+      "channel": "Adore Oyuncak",
+      "duration": 46.0,
+      "title": "Ravensburger Hylkies | 3D Puzzle 🧩"
+    },
+    {
+      "id": "woh_HfZHReE",
+      "channel": "Equip Skywalker",
+      "duration": 221.0,
+      "title": "Equip Skywalker: Competició de puzzles Hylkies"
+    },
+    {
+      "id": "IpH1Qm_XD18",
+      "channel": "Nerdfactory",
+      "duration": 1013.0,
+      "title": "Warum wurde Anakins Schwert nicht Rot? I The Acolyte Ende erklärt"
+    },
+    {
+      "id": "SIfKd5A6Tc0",
+      "channel": "Moviepilot",
+      "duration": 3597.0,
+      "title": "THE FINAL WORD ON THE ACOLYTE IN THE MEGA TALK | Episode 8 Recap"
+    }
+  ]
+}

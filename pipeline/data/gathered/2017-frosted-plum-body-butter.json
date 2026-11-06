@@ -1,0 +1,53 @@
+{
+  "id": "2017-frosted-plum-body-butter",
+  "year": 2017,
+  "name": "Frosted Plum Body Butter",
+  "price_eur": 20.95,
+  "price_text": "€20.95",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t8qHLaGsPns",
+      "channel": "My Collection",
+      "duration": 49.0,
+      "title": "Rich Plum Body Butter - The Body Shop"
+    },
+    {
+      "id": "MZ3-glDAGRg",
+      "channel": "The Body Shop Germany GmbH",
+      "duration": 51.0,
+      "title": "Frosted Plum - limitierte Weihnachts-Editionen von The Body Shop®"
+    },
+    {
+      "id": "E8HSp4j-nto",
+      "channel": "KBABUN",
+      "duration": 35.0,
+      "title": "FROSTED PLUM THE BODY SHOP."
+    },
+    {
+      "id": "UoFTSw98kjg",
+      "channel": "Leah Janae",
+      "duration": 1523.0,
+      "title": "I TRIED ALL THE NEW HOLIDAY BODY CARE!"
+    },
+    {
+      "id": "BrUCD2t6jtQ",
+      "channel": "Waterside Shopping",
+      "duration": 17.0,
+      "title": "Body Shop Frosted Plum Shimmer Mist Review"
+    }
+  ]
+}

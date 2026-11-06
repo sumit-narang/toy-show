@@ -1,0 +1,54 @@
+{
+  "id": "2021-discovery-rc-t-rex",
+  "year": 2021,
+  "name": "Discovery RC T Rex",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/fao-schwarz/t-rex-five-piece-collection/141652352.html?cgid=root#q=discovery%2Bt%2Brex&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/fao-schwarz/t-rex-five-piece-collection/141652352.html?cgid=root#q=discovery%2Bt%2Brex&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5oBi5VwD5XQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 74.0,
+      "title": "RC T-Rex from Discovery"
+    },
+    {
+      "id": "gtfu151v5P0",
+      "channel": "Nev's Tech Bits",
+      "duration": 415.0,
+      "title": "TEARDOWN Discovery Kids Animated Action T-Rex: Lights, Sounds and Walks (CCD10). What's Inside??"
+    },
+    {
+      "id": "pvph3-qamiY",
+      "channel": "Mwrphoto ",
+      "duration": 529.0,
+      "title": "Unboxing Discovery RC T-REX Remote control action dinosaur (part one)"
+    },
+    {
+      "id": "k6wkqdAH9_s",
+      "channel": "Cattien's World",
+      "duration": 553.0,
+      "title": "DISCOVERY RC T-REX Remote Control Dinosaur- Unboxing& playing RC T-REX vs RC TARANTULA, RC SCORPION!"
+    },
+    {
+      "id": "GpNVcgXhe-A",
+      "channel": "Joan Lin",
+      "duration": 11.0,
+      "title": "Bricstar Infrared Remote Control T-Rex"
+    }
+  ]
+}

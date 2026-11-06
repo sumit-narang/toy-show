@@ -1,0 +1,45 @@
+{
+  "id": "2025-minecraft-movie-plush-20cm-pink-sheep",
+  "year": 2025,
+  "name": "Minecraft Movie Plush 20cm Pink Sheep",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-toys/minecraft-movie-plush-pink-sheep-20cm/p/243675"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-toys/minecraft-movie-plush-pink-sheep-20cm/p/243675",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lMfS-cWXkl4",
+      "channel": "AverageDexterPlayz",
+      "duration": 96.0,
+      "title": "Got a Minecraft Movie Plush Figure Pink Sheep and Yellow Bee. Nothing special."
+    },
+    {
+      "id": "LzDXaJlgvDU",
+      "channel": "Average Baby Neal",
+      "duration": 96.0,
+      "title": "My brother's Minecraft plushies.  He got 2 recently from the movie."
+    },
+    {
+      "id": "JvRNNZjjCfo",
+      "channel": "Larva TUBA",
+      "duration": 1981.0,
+      "title": "LARVA - LARVA KART | Cartoon Movie | Cartoons | Comics | Larva Cartoon | LARVA Official"
+    }
+  ]
+}

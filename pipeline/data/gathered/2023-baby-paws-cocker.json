@@ -1,0 +1,57 @@
+{
+  "id": "2023-baby-paws-cocker",
+  "year": 2023,
+  "name": "Baby Paws Cocker",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/baby-paws-cocker/p/224353"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/baby-paws-cocker/p/224353",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X67kzC-Y2po",
+      "channel": "What Do Toys Do?",
+      "duration": 112.0,
+      "title": "Baby Paws Sleeping Puppies Cocker Spaniel Interactive Plush Toy Sounds Carrier"
+    },
+    {
+      "id": "jc-k4HQi4hI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 112.0,
+      "title": "Love and Care for Baby Paws - An Interactive Plush Puppy!"
+    },
+    {
+      "id": "VyqOcZsvVmk",
+      "channel": "Granny's Toys World",
+      "duration": 92.0,
+      "title": "Granny's beautiful baby paws. #toys "
+    },
+    {
+      "id": "BkwrTDARHzQ",
+      "channel": "Hope For Paws - Official Rescue Channel",
+      "duration": 161.0,
+      "title": "Kona's family left her behind when they moved away... months later, we were called in to help. #dog"
+    },
+    {
+      "id": "fFYE65mYzNQ",
+      "channel": "Mely, Memy & Mamy",
+      "duration": 883.0,
+      "title": "OUR NEW PUPPY REALLY SLEEPS?! 😍 BABY PAWS RAINY"
+    }
+  ]
+}

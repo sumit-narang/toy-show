@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-great-vehicles-tractor-toy",
+  "year": 2023,
+  "name": "LEGO City Great Vehicles Tractor Toy",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-tractor-7301141"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-tractor-7301141"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Z30GqDJJCTo",
+      "channel": "MADABOUTLEGO",
+      "duration": 192.0,
+      "title": "LEGO City Tractor 60498"
+    },
+    {
+      "id": "nvfq_wdQ3nM",
+      "channel": "Asher's Bricks",
+      "duration": 242.0,
+      "title": "LEGO City 60287 Great Vehicles Tractor Toy and Farm Set UNBOXING REVIEW SPEED BUILD"
+    },
+    {
+      "id": "PE4LpAL-APs",
+      "channel": "AustrianBrickFan",
+      "duration": 338.0,
+      "title": "LEGO City 60498 Tractor - LEGO Speed Build Review"
+    },
+    {
+      "id": "FnXs2C7c8Sw",
+      "channel": "AustrianBrickFan",
+      "duration": 264.0,
+      "title": "LEGO City 60461 Tractor with Trailer - LEGO Speed Build Review"
+    },
+    {
+      "id": "b5A2qwkUjDc",
+      "channel": "BricksDirect",
+      "duration": 21.0,
+      "title": "LEGO 7634 Tractor - LEGO 7636 Combine Harvester - LEGO 7637 Farm - LEGO City"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2018-flushin-frenzy",
+  "year": 2018,
+  "name": "Flushin' Frenzy",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HRgWKU2qZNs",
+      "channel": "GeekSpin",
+      "duration": 48.0,
+      "title": "Flushing Frenzy is a game where you have to catch poop"
+    },
+    {
+      "id": "I-yu-1Qr6Iw",
+      "channel": "SPIELREGELN TV",
+      "duration": 109.0,
+      "title": "How to play FLUSHIN' FRENZY OVERFLOW (official rules, instructions and gameplay) | Spielregeln TV"
+    },
+    {
+      "id": "JaI6A_XMQJ8",
+      "channel": "Prague Golf & Games",
+      "duration": 190.0,
+      "title": "How To Play - FLUSHIN FRENZY"
+    },
+    {
+      "id": "nsGj7whqVtQ",
+      "channel": "The Dice Tower",
+      "duration": 299.0,
+      "title": "Flushin' Frenzy Review - with Tom Vasel"
+    },
+    {
+      "id": "rTe4rLiqTzo",
+      "channel": "Castle Bravo Games",
+      "duration": 688.0,
+      "title": "Game Review Flushin Frenzy"
+    }
+  ]
+}

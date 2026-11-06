@@ -1,0 +1,54 @@
+{
+  "id": "2021-this-book-is-pants-by-john-kane",
+  "year": 2021,
+  "name": "This Book is Pants by John Kane",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/This-Book-is-Pants_9781787419230"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/9781787419230"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IlY4ms7FbjM",
+      "channel": "The Cosy Bookworm - Kids Books Brought To Life",
+      "duration": 378.0,
+      "title": "I say Oh, You Say No: A funny & interactive story, read-aloud! By John Kane"
+    },
+    {
+      "id": "ftderH8deQ8",
+      "channel": "The Goddard School of Pasadena",
+      "duration": 275.0,
+      "title": "Goddard Story Time- \"Ooh Ahh!\" By John Kane"
+    },
+    {
+      "id": "28bkf6B81PU",
+      "channel": "Auntie's Castle",
+      "duration": 413.0,
+      "title": "Let's Read | I Say Ooh You Say Aah"
+    },
+    {
+      "id": "txSsFiVA0tY",
+      "channel": "StoryTime at Awnie's House",
+      "duration": 235.0,
+      "title": "🦎 WHO POOPED ON ME? Appearances Can be Deceiving by David Cunliffe and Ivan Barrera Kid's Read Aloud"
+    },
+    {
+      "id": "Di23O5cN4ZU",
+      "channel": "Rock 'N Learn",
+      "duration": 115.0,
+      "title": "This Old Man - Nursery Rhyme Song for Kids"
+    }
+  ]
+}

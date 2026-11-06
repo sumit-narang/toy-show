@@ -1,0 +1,57 @@
+{
+  "id": "2018-the-dog-who-lost-his-bark-by-eoin-colfer",
+  "year": 2018,
+  "name": "The Dog Who Lost His Bark by Eoin Colfer",
+  "price_eur": 10.45,
+  "price_text": "€10.45",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zspFSR7IgFQ",
+      "channel": "Free Audiobook",
+      "duration": 260.0,
+      "title": "Dog Who Lost His Bark by Eoin Colfer | Full Audiobook"
+    },
+    {
+      "id": "EyuC9RLs_0Q",
+      "channel": "Katrina Anne Cooking With Gas!",
+      "duration": 649.0,
+      "title": "The Dog Who Lost His Bark"
+    },
+    {
+      "id": "gL7pAvMlvCA",
+      "channel": "Google Play Books",
+      "duration": 517.0,
+      "title": "The Dog Who Lost His Bark by Eoin Colfer · Audiobook preview"
+    },
+    {
+      "id": "qxh9FDJMbyY",
+      "channel": "Ms. Leviege",
+      "duration": 54.0,
+      "title": "Book Talk - The Dog Who Lost His Bark by Eoin Colfer"
+    },
+    {
+      "id": "Ec7wLMa4cFY",
+      "channel": "The Book Break",
+      "duration": 411.0,
+      "title": "Eoin Colfer | The Book Break | Season 10, Episode 2"
+    }
+  ]
+}

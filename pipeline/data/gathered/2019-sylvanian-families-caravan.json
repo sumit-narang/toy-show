@@ -1,0 +1,57 @@
+{
+  "id": "2019-sylvanian-families-caravan",
+  "year": 2019,
+  "name": "Sylvanian Families Caravan",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-caravan/p/161105"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-caravan/p/161105",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Dx9B0ILSzIM",
+      "channel": "Sylvanian Families Official Nordics",
+      "duration": 137.0,
+      "title": "Sylvanian Families Unboxing Video #12 Caravan"
+    },
+    {
+      "id": "YSt-MUCMpNY",
+      "channel": "ellieV ",
+      "duration": 1009.0,
+      "title": "Sylvanian Families Calico Critters Campervan and Red Car Saloon Unboxing Review - Kids Toys"
+    },
+    {
+      "id": "91iUeq9yYKY",
+      "channel": "Mansell",
+      "duration": 391.0,
+      "title": "Sylvanian Families Caravan"
+    },
+    {
+      "id": "fxhXnIzXbW0",
+      "channel": "Swifty's Sylvanians",
+      "duration": 1442.0,
+      "title": "Sylvanian Families Caravan & Pony Vintage 2004 Edition 🐴"
+    },
+    {
+      "id": "vS4h7CpEwm8",
+      "channel": "HowleysToys",
+      "duration": 32.0,
+      "title": "Sylvanian Families Caravan   Car TV Commerical"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2022-erzi-giant-frizbee",
+  "year": 2022,
+  "name": "Erzi Giant Frizbee",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "APLE5TIiMKI",
+      "channel": "Tiếng Anh Suki",
+      "duration": 8409.0,
+      "title": "Learn English While You Sleep | How to learn English effectively: Living with a Host Family (A2)"
+    },
+    {
+      "id": "YpnaF8RsbZ8",
+      "channel": "Boxoffice | NEW Full Movies in English",
+      "duration": 5188.0,
+      "title": "Nana's Here | THRILLER, DRAMA | Full Movie in English"
+    },
+    {
+      "id": "_Fks8yftAZ0",
+      "channel": "quackerz1138",
+      "duration": 120.0,
+      "title": "Puppy Bubbles"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-butter-bauble-house-of-holland-collection",
+  "year": 2017,
+  "name": "Butter Bauble (House of Holland collection)",
+  "price_eur": 13.5,
+  "price_text": "€13.50",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fstDjLzZtdo",
+      "channel": "The Body Shop",
+      "duration": 52.0,
+      "title": "HOUSE OF HOLLAND Limited Edition Beauty Collection | The Body Shop"
+    },
+    {
+      "id": "ClygzriZ5w0",
+      "channel": "Patricia B (Peexo)",
+      "duration": 604.0,
+      "title": "Christmas Beauty Picks | Peexo"
+    },
+    {
+      "id": "hG8miu8m4OI",
+      "channel": "Katarina Cooper",
+      "duration": 430.0,
+      "title": "The Body shop - Holiday Edition 2017 -"
+    },
+    {
+      "id": "omTFKW3s3ng",
+      "channel": "LeonoraSmee",
+      "duration": 3811.0,
+      "title": "FESTIVE HOMEWARE MUST-HAVES & A CHRISTMAS COOKIE FAIL | Vlogmas Day 9"
+    },
+    {
+      "id": "6Hc5Gwmce9M",
+      "channel": "LeonoraSmee",
+      "duration": 5077.0,
+      "title": "ULTIMATE GIFT GUIDE | WHAT I AM GIFTING THIS CHRISTMAS & THE ULTIMATE TURKEY PIE RECIPE | Vlogmas 4"
+    }
+  ]
+}

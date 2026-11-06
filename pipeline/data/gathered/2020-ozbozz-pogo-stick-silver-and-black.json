@@ -1,0 +1,35 @@
+{
+  "id": "2020-ozbozz-pogo-stick-silver-and-black",
+  "year": 2020,
+  "name": "Ozbozz Pogo Stick - Silver and Black",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "phyjqRvhlFo",
+      "channel": "TTPM Toy Reviews",
+      "duration": 61.0,
+      "title": "Grow 2 Pro Pogo from Fisher-Price"
+    },
+    {
+      "id": "Eajo0upeHYs",
+      "channel": "Los 5 Mejores",
+      "duration": 188.0,
+      "title": "Los 5 Mejores Bastones Saltadores"
+    }
+  ]
+}

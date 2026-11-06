@@ -1,0 +1,57 @@
+{
+  "id": "2025-kick-about-interactive-trainer",
+  "year": 2025,
+  "name": "Kick-About Interactive Trainer",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/kick-about-interactive-football-training-game/p/235359"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/kick-about-interactive-football-training-game/p/235359",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HmfW0McCi_o",
+      "channel": "Smyths Toys Superstores",
+      "duration": 21.0,
+      "title": "Kick-About Interactive Football Trainer - Smyths Toys"
+    },
+    {
+      "id": "zeXGG_Ne3i8",
+      "channel": "Soccer Roundabout",
+      "duration": 63.0,
+      "title": "Love Soccer Mats? This Indoor Trainer Takes It Up a Notch 🚀"
+    },
+    {
+      "id": "BMTtFF1jNLY",
+      "channel": "strikesphere",
+      "duration": 31.0,
+      "title": "Strikesphere Speed Ball TVC"
+    },
+    {
+      "id": "SrE6wUk0yTY",
+      "channel": "Promotoss",
+      "duration": 61.0,
+      "title": "Soccer Roundabout Overview - Promotoss Branded Games"
+    },
+    {
+      "id": "eJVQ-lbzNJk",
+      "channel": "Gadget Gateway",
+      "duration": 39.0,
+      "title": "Football Kick Throw Solo Practice Training Aid | Solo Soccer Trainer"
+    }
+  ]
+}

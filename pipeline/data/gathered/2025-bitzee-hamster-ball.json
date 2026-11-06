@@ -1,0 +1,54 @@
+{
+  "id": "2025-bitzee-hamster-ball",
+  "year": 2025,
+  "name": "Bitzee Hamster Ball",
+  "price_eur": 42.0,
+  "price_text": "€42",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/sr6072283"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/sr6072283"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jWdSBmbItmE",
+      "channel": "Spin Master",
+      "duration": 928.0,
+      "title": "Bitzee | The Hamster Ball How-To Video!"
+    },
+    {
+      "id": "139ptLKLqSE",
+      "channel": "PandaBunny",
+      "duration": 888.0,
+      "title": "Bitzee Hamster Ball Unboxing & First Impressions 🐹 | Tutorial & Menu Walkthrough"
+    },
+    {
+      "id": "jNzVieakUxo",
+      "channel": "Jill Grygas",
+      "duration": 709.0,
+      "title": "Bitzee Hamster Ball: How to Play + First Gameplay Guide"
+    },
+    {
+      "id": "2X4qsIqSiJE",
+      "channel": "Spin Master",
+      "duration": 30.0,
+      "title": "Bitzee Hamster Ball | TV Commerical | This Hamster is on a Roll!"
+    },
+    {
+      "id": "rxfcL5V70qg",
+      "channel": "Jill Grygas",
+      "duration": 524.0,
+      "title": "I Haven’t Made a Bitzee Video in a While… So Here’s the Hamster Ball"
+    }
+  ]
+}

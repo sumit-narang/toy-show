@@ -1,0 +1,57 @@
+{
+  "id": "2021-kindi-kids-bonni-bubbles",
+  "year": 2021,
+  "name": "Kindi Kids Bonni Bubbles",
+  "price_eur": 35.63,
+  "price_text": "€35.63",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Kindi-Kids-Poppi-Pearl-Official/dp/B08S3H2PTX"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Kindi-Kids-Poppi-Pearl-Official/dp/B08S3H2PTX",
+      "title": "How Does a Caterpillar Change?: Life Cycles with The Very Hungry Caterpillar (The World of Eric Carle) : Amazon.co.uk: Outlet",
+      "description": "How Does a Caterpillar Change?: Life Cycles with The Very Hungry Caterpillar (The World of Eric Carle) : Amazon.co.uk: Outlet",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mA5Rhkq2mzI",
+      "channel": "Moose Crew",
+      "duration": 151.0,
+      "title": "Bonnie Bubbles COMPILATION! | KINDI KIDS Cartoon"
+    },
+    {
+      "id": "611geLfHyTE",
+      "channel": "PlayToys",
+      "duration": 566.0,
+      "title": "Baby Dolls Scented Bubble Party with Kindi Kids Bonni Bubbles & Poppi Pearl !"
+    },
+    {
+      "id": "3nV-j399qFY",
+      "channel": "Madison and Beyond",
+      "duration": 643.0,
+      "title": "Opening Kindi Kids Playsets! Pretend Play With Giant Bobble Head Doll Toys!!"
+    },
+    {
+      "id": "guxEU_rvfRE",
+      "channel": "Tallie's Tricks",
+      "duration": 588.0,
+      "title": "Kindi Kids Bonnie Bubbles Bubble ‘n’ Sing Doll with Scented Bubbles"
+    },
+    {
+      "id": "xWDec1pXhWc",
+      "channel": "Moose Crew",
+      "duration": 777.0,
+      "title": "Kindi Kids Cartoon | SEASON 4 STITCH UP | Full Episodes!"
+    }
+  ]
+}

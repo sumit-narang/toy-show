@@ -1,0 +1,64 @@
+{
+  "id": "2017-1-2-switch",
+  "year": 2017,
+  "name": "1 2 Switch",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wRiZw-jHqF0",
+      "channel": "IGN",
+      "duration": 231.0,
+      "title": "1-2-Switch Review"
+    },
+    {
+      "id": "DpHDJRGuL7w",
+      "channel": "Nintendo of America",
+      "duration": 124.0,
+      "title": "1-2-Switch Overview Trailer - Nintendo Switch"
+    },
+    {
+      "id": "_LHmAzD8uTY",
+      "channel": "The Tube Family",
+      "duration": 937.0,
+      "title": "NINTENDO SWITCH CHALLENGE!!! Head to Head Battle with 1-2-Switch!"
+    },
+    {
+      "id": "3FH1xBvqxRM",
+      "channel": "NintendoCentral",
+      "duration": 3463.0,
+      "title": "1-2 Switch Full Game (All Minigames)"
+    },
+    {
+      "id": "EDU0Kj2cfCA",
+      "channel": "IGN",
+      "duration": 115.0,
+      "title": "Here Is Every Game in 1-2-Switch"
+    }
+  ]
+}

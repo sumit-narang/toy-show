@@ -1,0 +1,61 @@
+{
+  "id": "2019-audio-character-for-toniebox-the-gruffalo",
+  "year": 2019,
+  "name": "Audio Character for Toniebox: The Gruffalo",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/tonieboxes-starter-set-red"
+    },
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://nimblefingers.ie/products/tonieboxes-starter-set-red"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Aqw6ua51Ru0",
+      "channel": "ToniesWorld",
+      "duration": 512.0,
+      "title": "The Gruff Tonie - Audio Preview"
+    },
+    {
+      "id": "rBNpQbphk8Q",
+      "channel": "Sophie Brown",
+      "duration": 56.0,
+      "title": "Using a Toniebox with the Gruffalo's Child Tonie"
+    },
+    {
+      "id": "QhhUE1qe3GA",
+      "channel": "Reading is",
+      "duration": 658.0,
+      "title": "The Gruffalo - Animated Read Aloud Book"
+    },
+    {
+      "id": "r7uG-t6OLpc",
+      "channel": "The Unboxers",
+      "duration": 658.0,
+      "title": "Meet the Disney's Frozen, Gruffalo & Bedtime Songs Tonies for our Toniebox"
+    },
+    {
+      "id": "KhchbGUKcr4",
+      "channel": "SamuelJohnstonBaby",
+      "duration": 69.0,
+      "title": "The Gruffalo Audio Sample by Tonies"
+    }
+  ]
+}

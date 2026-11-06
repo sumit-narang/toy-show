@@ -1,0 +1,60 @@
+{
+  "id": "2020-elements-wooden-sketching-art-box-set",
+  "year": 2020,
+  "name": "Elements Wooden Sketching Art Box Set",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/elements-wooden-sketching-art-box-set-6172008"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/elements-wooden-sketching-art-box-set-6172008",
+      "title": "Elements Wooden Sketching Art Box Set",
+      "description": "If you've been looking for the perfect gift for a creative artist in your life, then look no further, this wooden sketching art set makes a exceptional gift for children, beginners, adults and professionals.",
+      "image": null,
+      "ld_description": "The Elements Professional Wooden Art Set with Mannequin contains 54 pieces in a variety of different mediums.includes 12 soft pastels, 18 coloured pencils, 7 sketching pencils, 3 charcoal pencils, 4 vine charcoal sticks, 4 blending stumps, mannequin, kneaded eraser, standard eraser, pencil sharpener, sandpaper block, and wooden storage box. Total 54 Pieces If you've been looking for the perfect gift for a creative artist in your life, then look no further, this wooden sketching art set makes a exceptional gift for children, beginners, adults and professionals",
+      "brand": "Elements",
+      "ld_image": "https://www.easons.com/images/m/7ab86aa2d10955bf/original/6172008_5638281914.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1X1qQWIkdHM",
+      "channel": "Liz Chaderton Studio",
+      "duration": 449.0,
+      "title": "How to store your art materials | Meeden art supplies storage box | Help me be more organised"
+    },
+    {
+      "id": "90-vNXMK7lI",
+      "channel": "Jerry's Artarama Art Supplies",
+      "duration": 140.0,
+      "title": "Creative Mark 3 Drawer Wood Art Supply Storage Box"
+    },
+    {
+      "id": "XxnW5h-7W_w",
+      "channel": "ChitraArt Academy ",
+      "duration": 353.0,
+      "title": "Still Life Object Drawing  Easy Step by Step with Pencil Shading"
+    },
+    {
+      "id": "bevwvxxpUAI",
+      "channel": "The Art Gear Guide",
+      "duration": 2121.0,
+      "title": "Faber Castell Pitt Graphite 26 Set Review | Faber Castell Graphite Set"
+    },
+    {
+      "id": "D3AyMn7dNzw",
+      "channel": "Blick Art Materials",
+      "duration": 69.0,
+      "title": "How to Set up a French Easel"
+    }
+  ]
+}

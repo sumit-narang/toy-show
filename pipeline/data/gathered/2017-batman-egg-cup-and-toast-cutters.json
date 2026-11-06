@@ -1,0 +1,54 @@
+{
+  "id": "2017-batman-egg-cup-and-toast-cutters",
+  "year": 2017,
+  "name": "Batman Egg Cup and Toast Cutters",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "LittlewoodsIreland.ie",
+      "url": "https://www.littlewoodsireland.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sAHB-hWRy-0",
+      "channel": "Find Me A Gift",
+      "duration": 29.0,
+      "title": "DC Comics Batman Egg Cup and Toast Cutter - Find Me A Gift"
+    },
+    {
+      "id": "qUOuz5ulk8Q",
+      "channel": "Monsterville Store",
+      "duration": 29.0,
+      "title": "Batman Egg Cup and Toast Cutter. Cute at monsterville.gr"
+    },
+    {
+      "id": "xkNx7G4_KsU",
+      "channel": "WISEONLINE",
+      "duration": 29.0,
+      "title": "Batman Egg Cup and Toast Cutter"
+    },
+    {
+      "id": "bfz9k72A8kI",
+      "channel": "Tapanda",
+      "duration": 101.0,
+      "title": "10 Novelty Egg Cups & Holders"
+    },
+    {
+      "id": "FddO6YFVX-c",
+      "channel": "ZanduckTV2",
+      "duration": 237.0,
+      "title": "\"DUNK!\"  Product test & review - soldier egg cup & toast cutter!"
+    }
+  ]
+}

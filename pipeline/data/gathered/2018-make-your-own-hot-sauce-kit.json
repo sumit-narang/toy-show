@@ -1,0 +1,57 @@
+{
+  "id": "2018-make-your-own-hot-sauce-kit",
+  "year": 2018,
+  "name": "Make Your Own Hot Sauce Kit",
+  "price_eur": 60.0,
+  "price_text": "€60.00",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "http://shop.designist.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://shop.designist.ie/",
+      "title": "designist | Irish & European Gifts, Home Décor, Cards & Stationery",
+      "description": "Discover beautifully designed Irish & European gifts, home décor, greeting cards, stationery, candles & souvenirs at designist. Thoughtful presents for birthdays & every occasion.",
+      "image": "https://shop.designist.ie/cdn/shop/files/shop_front_1204x630.jpg?v=1781710494"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Dp5mjO3Ff80",
+      "channel": "Extreme Reviews",
+      "duration": 1055.0,
+      "title": "Is A DIY Hot Sauce Kit ACTUALLY Worth It? | Extreme Reviews"
+    },
+    {
+      "id": "atugbjMyPCw",
+      "channel": "Natalie and Tara",
+      "duration": 635.0,
+      "title": "Hot Sauce Kit w/ Ghost Pepper!  🔥🥵🌶"
+    },
+    {
+      "id": "YbYzAvk0xxU",
+      "channel": "TASTING THE HEAT",
+      "duration": 55.0,
+      "title": "Hot Sauce Making Kit. Do it yourself hot sauce"
+    },
+    {
+      "id": "NKpRRjluj4k",
+      "channel": "How's That Thing",
+      "duration": 738.0,
+      "title": "How to Make Your Own Hot Sauce with the Grow & Make Deluxe Kit"
+    },
+    {
+      "id": "bJyOZR_8hCk",
+      "channel": "CraftaBrew",
+      "duration": 42.0,
+      "title": "Hot Sauce Kit - Mild Citrus and Hot & Smokey"
+    }
+  ]
+}

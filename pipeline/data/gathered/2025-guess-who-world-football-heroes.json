@@ -1,0 +1,54 @@
+{
+  "id": "2025-guess-who-world-football-heroes",
+  "year": 2025,
+  "name": "Guess Who World Football Heroes",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games Ireland",
+      "url": "https://www.cogstoysandgames.ie/products/guess-who-world-football-stars"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/guess-who-world-football-stars"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DTlDLjtJ8Us",
+      "channel": "NDL",
+      "duration": 2701.0,
+      "title": "GUESS WHO: FOOTBALLER EDITION"
+    },
+    {
+      "id": "zaKizUcTIJg",
+      "channel": "Quizjoy",
+      "duration": 621.0,
+      "title": "GUESS The FOOTBALL PLAYER by Song & Club Transfers ⚽💯|Ronaldo, Messi, Neymar jr"
+    },
+    {
+      "id": "qNfFC-v1jfY",
+      "channel": "John Nellis and Celine Dept",
+      "duration": 1500.0,
+      "title": "Guess The World Cup Footballer"
+    },
+    {
+      "id": "Liuz6KYHPvk",
+      "channel": "Quizbee",
+      "duration": 365.0,
+      "title": "Guess the Football Player in 3 seconds | Top 100 players in the world | How many do you know...?"
+    },
+    {
+      "id": "pwd_4V1JyJY",
+      "channel": "TIM QUIZ",
+      "duration": 721.0,
+      "title": "Guess the Football Players by Their Celebrations & Songs ⚽🔥 | World Cup 2026 🏆"
+    }
+  ]
+}

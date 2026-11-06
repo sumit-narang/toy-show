@@ -1,0 +1,60 @@
+{
+  "id": "2025-cards-vs-gravity-pro",
+  "year": 2025,
+  "name": "Cards VS Gravity Pro",
+  "price_eur": 19.95,
+  "price_text": "€19.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/cards-vs-gravity-pro"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/cards-vs-gravity-pro",
+      "title": "Cards VS Gravity Pro",
+      "description": "Master gravity-defying tricks with Cards VS Gravity Pro. A high-energy stunt game for ages 8+ available at Cogs Toys & Games Ireland. Solo or group play!",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/files/blob-2024-04-18T112746.857.webp?v=1713436109",
+      "ld_description": "Cards VS Gravity Pro\n\n\nSuitable for ages 8 and up, designed for solo play or friendly challenges with others.\n\n\nHigh-energy stunt game where you flip, flick, and stack cards in mid-air to complete gravity-defying tricks. 🌀\n\n\nIncludes 80 precision-engineered cards, a trick guide, and practice missions to help players master their skills step by step.\n\n\nEncourages hand-eye coordination, dexterity, and creative problem-solving as players learn new stunts.\n\n\nOpen-ended playtime — perfect for quick practice rounds or extended trick sessions.\n\n\nGreat for solo mastery or showing off your best stunts at parties, game nights, or talent challenges.\n\n\nCompact and portable, easy to take anywhere for on-the-go fun.\n\n\nDefy gravity and take your skills to the next level! Whether you’re perfecting tricks alone or impressing friends, Cards VS Gravity Pro delivers nonstop action and skill-building fun. 🃏",
+      "brand": "Big Potato",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SzUDXp9N8KI",
+      "channel": "Big Potato Games",
+      "duration": 80.0,
+      "title": "How to Play Cards vs Gravity Pro: A Gravity-Defying Balancing Game"
+    },
+    {
+      "id": "IWue-gEwUTo",
+      "channel": "Unfiltered Gamer",
+      "duration": 619.0,
+      "title": "Cards Vs  Gravity Pro   Party Game Review"
+    },
+    {
+      "id": "awFZ6LvR37Y",
+      "channel": "Boardgaimz",
+      "duration": 96.0,
+      "title": "How to Play Cards Vs Gravity | Board Game Rules & Instructions"
+    },
+    {
+      "id": "4hpCnfYrqa0",
+      "channel": "Smosh Games",
+      "duration": 2347.0,
+      "title": "Can We Defy Gravity?"
+    },
+    {
+      "id": "la_7HtXn9rQ",
+      "channel": "Big Potato Games",
+      "duration": 60.0,
+      "title": "How to Play Cards vs Gravity: A Super-Speedy Card Balancing Game"
+    }
+  ]
+}

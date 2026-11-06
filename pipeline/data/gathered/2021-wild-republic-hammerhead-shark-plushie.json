@@ -1,0 +1,54 @@
+{
+  "id": "2021-wild-republic-hammerhead-shark-plushie",
+  "year": 2021,
+  "name": "Wild Republic Hammerhead Shark Plushie",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "NMI Shop",
+      "url": "https://shop.museum.ie/collections/children"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://shop.museum.ie/collections/children"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AqBPherle0I",
+      "channel": "Adam's Toyland",
+      "duration": 328.0,
+      "title": "Wild republic hammerhead shark toy review part 1"
+    },
+    {
+      "id": "evRT1xaKBkw",
+      "channel": "Adam's Toyland",
+      "duration": 318.0,
+      "title": "Wild republic hammerhead shark toy review part 2"
+    },
+    {
+      "id": "Vcgj9ejXHio",
+      "channel": "Deal Genius",
+      "duration": 30.0,
+      "title": "3pk Wild Republic Sharks 15” Plush – Tiger, Blacktip, Hammerhead"
+    },
+    {
+      "id": "diXRjs7A-nQ",
+      "channel": "Sandy The Turtle",
+      "duration": 377.0,
+      "title": "Wild Republic Plush Unboxing!"
+    },
+    {
+      "id": "65VKn5aS624",
+      "channel": "Wild Republic",
+      "duration": 8.0,
+      "title": "Shark Toy Figurines 360 View | Wild Republic"
+    }
+  ]
+}

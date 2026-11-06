@@ -1,0 +1,54 @@
+{
+  "id": "2023-komi-can-t-communicate-vol-1",
+  "year": 2023,
+  "name": "Komi Can't Communicate Vol 1",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O-p0LkaJsc0",
+      "channel": "Netflix Anime",
+      "duration": 357.0,
+      "title": "Komi Can't Communicate Episode 1 Digest | Netflix Anime"
+    },
+    {
+      "id": "f5ZH4rbrp94",
+      "channel": "She-Love Matsue",
+      "duration": 186.0,
+      "title": "Komi Can't Communicate Volume 1 Manga Comparison ❤️ English VS Japanese Manga"
+    },
+    {
+      "id": "s3NFgdWysLo",
+      "channel": "JarAnime",
+      "duration": 4927.0,
+      "title": "The ENTIRE Story Of Komi Can’t Communicate (so far) In 82 Minutes"
+    },
+    {
+      "id": "yypkYnwYJ_M",
+      "channel": "LN froggy ‧₊˚",
+      "duration": 191.0,
+      "title": "komi cant communicate vol. 1 // my first manga 📦🙌🏼"
+    },
+    {
+      "id": "xHlx3rx5Bew",
+      "channel": "Netflix Anime",
+      "duration": 120.0,
+      "title": "Komi Can't Communicate OP (Clean) | Cinderella - CIDERGIRL | Netflix Anime"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-soggy-moggy-kids-action-game",
+  "year": 2022,
+  "name": "Soggy Moggy Kids Action Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/children-s-board-games/soggy-moggy-kids-action-game/p/210352"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/children-s-board-games/soggy-moggy-kids-action-game/p/210352",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9FAglia57tw",
+      "channel": "Smyths Toys Superstores",
+      "duration": 25.0,
+      "title": "Soggy Moggy Kids Action Game - Smyths Toys"
+    },
+    {
+      "id": "OMlB_028NDw",
+      "channel": "Freddie griffiths",
+      "duration": 25.0,
+      "title": "soggy moggy - smyths toys"
+    },
+    {
+      "id": "qxTCBvLAWXY",
+      "channel": "Jonny YouTube",
+      "duration": 55.0,
+      "title": "Sledge Soggy Moggy 2008 Jonfoon"
+    },
+    {
+      "id": "47-aC_hn3vM",
+      "channel": "Young Gifted & Blessed",
+      "duration": 669.0,
+      "title": "Soggy Doggy Challenge Unique Toys Challenge"
+    },
+    {
+      "id": "c5YdpZjW-dc",
+      "channel": "Little Margo Stories",
+      "duration": 122.0,
+      "title": "Margo and Froggy: A Game of Hide and Seek - Ep 7"
+    }
+  ]
+}

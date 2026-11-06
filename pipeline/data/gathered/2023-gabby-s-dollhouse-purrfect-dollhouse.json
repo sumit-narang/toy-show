@@ -1,0 +1,57 @@
+{
+  "id": "2023-gabby-s-dollhouse-purrfect-dollhouse",
+  "year": 2023,
+  "name": "Gabby's Dollhouse Purrfect Dollhouse",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/gabbys-dollhouse/gabbys-purrfect-61cm-dollhouse/p/207874"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/gabbys-dollhouse/gabbys-purrfect-61cm-dollhouse/p/207874",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "enxNJBQEkAc",
+      "channel": "McKell Njord",
+      "duration": 71.0,
+      "title": "Honest Review - Gabby's Purrfect/Celebration Dollhouses"
+    },
+    {
+      "id": "oWRuUBrjfw4",
+      "channel": "Toymaster Ltd",
+      "duration": 21.0,
+      "title": "Gabby’s Purrfect Dollhouse"
+    },
+    {
+      "id": "kLHLKAveN8E",
+      "channel": "All Brands Toys",
+      "duration": 31.0,
+      "title": "Gabby's Dollhouse Gabby's Purrfect Dollhouse"
+    },
+    {
+      "id": "N74vaYqAsxU",
+      "channel": "Prabhat Nexgen",
+      "duration": 16.0,
+      "title": "Gabby’s Dollhouse, Purrfect Dollhouse Playset"
+    },
+    {
+      "id": "wRAsiffnXWI",
+      "channel": "Family Guy Sweden",
+      "duration": 449.0,
+      "title": "Unboxing Gabby's Dollhouse Toy House | How To Set GABBY'S DOLLHOUSE PURRFECT DOLLHOUSE | Leksak"
+    }
+  ]
+}

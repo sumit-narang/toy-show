@@ -1,0 +1,57 @@
+{
+  "id": "2021-nature-discovery-great-white-shark-anatomy-model",
+  "year": 2021,
+  "name": "Nature Discovery Great White Shark Anatomy Model",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Cogs the Brain Shop",
+      "url": "http://cogsthebrainshop.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://cogsthebrainshop.co.uk/",
+      "title": null,
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CMvmPimcPHw",
+      "channel": "ZakuAurelius",
+      "duration": 420.0,
+      "title": "Great White Shark - Exploring Lab Nature UNBOXING and Review!"
+    },
+    {
+      "id": "QPHo9HaTxDo",
+      "channel": "SuniShumi🎨Handmade Adventures",
+      "duration": 373.0,
+      "title": "Unboxing | Bandai EXPLORING LAB NATURE GREAT WHITE SHARK"
+    },
+    {
+      "id": "vOAmqUg0UFo",
+      "channel": "Discovery",
+      "duration": 190.0,
+      "title": "Sharks: Anatomy of an Attack"
+    },
+    {
+      "id": "v0Iom_DPJZo",
+      "channel": "Nat Geo Kids",
+      "duration": 2552.0,
+      "title": "World's Biggest Great White Full Episode | Nat Geo Kids"
+    },
+    {
+      "id": "YUELyh6m8Ng",
+      "channel": "Crocoshark",
+      "duration": 5294.0,
+      "title": "Anatomy of a Shark Bite"
+    }
+  ]
+}

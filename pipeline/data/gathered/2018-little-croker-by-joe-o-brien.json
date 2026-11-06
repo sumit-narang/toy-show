@@ -1,0 +1,57 @@
+{
+  "id": "2018-little-croker-by-joe-o-brien",
+  "year": 2018,
+  "name": "Little Croker by Joe O'Brien",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "The O'Brien Press",
+      "url": "http://www.obrien.ie"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://obrien.ie/",
+      "title": "The O'Brien Press; Ireland's leading independent book publisher",
+      "description": "We make great books for adults and children. Meet our authors, browse their fantastic books or just download free resources.",
+      "image": "https://obrien.ie/media/logos/OB_logo_web.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "stT56kI9QWU",
+      "channel": "The O'Brien Press",
+      "duration": 133.0,
+      "title": "Little Croker and Feile Fever"
+    },
+    {
+      "id": "LpwabPQW4p4",
+      "channel": "Joe Cocker",
+      "duration": 528.0,
+      "title": "Joe Cocker - With A Little Help From My Friends (Live)"
+    },
+    {
+      "id": "YN8Admx5r6o",
+      "channel": "Rorys Stories",
+      "duration": 22.0,
+      "title": "Every Westmeath man leaving Croke Park today..."
+    },
+    {
+      "id": "Tj7eGOlg_xQ",
+      "channel": "Joseph Decosimo",
+      "duration": 190.0,
+      "title": "Shady Grove (feat. Alice Gerrard)"
+    },
+    {
+      "id": "b-4Lx9iF7Vs",
+      "channel": "dr",
+      "duration": 411.0,
+      "title": "St. Joseph's Terenure v Bishop Galvin 1992"
+    }
+  ]
+}

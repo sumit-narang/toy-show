@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-whizz-world-emergency-centre",
+  "year": 2017,
+  "name": "ELC Whizz World Emergency Centre",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gVLdI4jbwa4",
+      "channel": "TOYRENT MD",
+      "duration": 31.0,
+      "title": "TOYRENT.MD Whizz World Emergency Centre ¦ Early Learning Centre"
+    },
+    {
+      "id": "l2BvvdQWmWg",
+      "channel": "Didi’s Channel",
+      "duration": 20.0,
+      "title": "ELC Whizz World Lights and Sounds Emergency Centre with lights and sounds"
+    },
+    {
+      "id": "v46OLHynGrU",
+      "channel": "Early Learning Centre Indonesia",
+      "duration": 166.0,
+      "title": "Early Learning Center - Toys Review: Whizz World Emergency Centre"
+    },
+    {
+      "id": "eu1J_30wtaI",
+      "channel": "Shima Subari",
+      "duration": 115.0,
+      "title": "Whizz world Lights and emergency centre by ELC toy review"
+    },
+    {
+      "id": "X_r5Q8r0XPw",
+      "channel": "Oscar’s toys collection",
+      "duration": 75.0,
+      "title": "ELC Whizz World Lights And Sounds Emergency Centre Early Learning Centre Police Ambulance Fire Truck"
+    }
+  ]
+}

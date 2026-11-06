@@ -1,0 +1,54 @@
+{
+  "id": "2019-the-beast-of-buckingham-palace",
+  "year": 2019,
+  "name": "The Beast of Buckingham Palace",
+  "price_eur": 18.2,
+  "price_text": "€18.20",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/beast-of-buckingham-palace-TPB-en-us.aspx"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.easons.com/beast-of-buckingham-palace-TPB-en-us.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dHOVopGHsfo",
+      "channel": "HarperCollinsCanada",
+      "duration": 30.0,
+      "title": "The Beast of Buckingham Palace by David Walliams"
+    },
+    {
+      "id": "6xvYjRT2EOw",
+      "channel": "Free Audiobooks",
+      "duration": 300.0,
+      "title": "Beast of Buckingham Palace by David Walliams | Full Audiobook"
+    },
+    {
+      "id": "55xDSd8RsHQ",
+      "channel": "The Jonathan Ross Show",
+      "duration": 281.0,
+      "title": "David Walliams On The Beast From Buckingham Palace | The Jonathan Ross Show"
+    },
+    {
+      "id": "jLkHYFXV0k0",
+      "channel": "Moorfoot Primary",
+      "duration": 449.0,
+      "title": "The Beast of Buckingham Palace Chapter 1"
+    },
+    {
+      "id": "Pp7V52RPtZ8",
+      "channel": "Seven Nights",
+      "duration": 1902.0,
+      "title": "THE BEAST OF BUCKINGHAM: THE DARK SECRET HIDDEN IN THE ROYAL PALACE'S UNDERGROUND"
+    }
+  ]
+}

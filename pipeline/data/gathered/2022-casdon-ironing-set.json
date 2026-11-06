@@ -1,0 +1,54 @@
+{
+  "id": "2022-casdon-ironing-set",
+  "year": 2022,
+  "name": "Casdon Ironing Set",
+  "price_eur": 32.5,
+  "price_text": "€32.50",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/cb51750?_pos=1&_sid=1eb15e84a&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/cb51750?_pos=1&_sid=1eb15e84a&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IOvSf_g58AM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 79.0,
+      "title": "Honestly Cute Ironing Board Set from Jakks Pacific"
+    },
+    {
+      "id": "fV7R7MmG734",
+      "channel": "Made for Kids",
+      "duration": 29.0,
+      "title": "Toy - Housework Ironing Set"
+    },
+    {
+      "id": "S0BVyg4oiOM",
+      "channel": "Toy Washing Machine",
+      "duration": 291.0,
+      "title": "Toy Washing Machine CASDON Unboxing and Review"
+    },
+    {
+      "id": "ZmsjnyPmEDQ",
+      "channel": "Play Circle Toys",
+      "duration": 48.0,
+      "title": "Play Circle - Best Pressed Ironing Board"
+    },
+    {
+      "id": "x7Jmx1N8jAM",
+      "channel": "Toy Washing Machine",
+      "duration": 218.0,
+      "title": "Twin Tub Toy Washing Machine with Iron Laundry Playset Unboxing and Review"
+    }
+  ]
+}

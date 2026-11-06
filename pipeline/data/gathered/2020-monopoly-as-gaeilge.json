@@ -1,0 +1,54 @@
+{
+  "id": "2020-monopoly-as-gaeilge",
+  "year": 2020,
+  "name": "Monopoly as Gaeilge",
+  "price_eur": 25.0,
+  "price_text": "€25",
+  "retailers": [
+    {
+      "name": "Glór na nGael/Gaelchultúr",
+      "url": "https://www.udar.ie/product/monopoly-as-gaeilge-2/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IahRpniw1K4",
+      "channel": "Glór na nGael",
+      "duration": 64.0,
+      "title": "Monopoly as Gaeilge - Udar.ie"
+    },
+    {
+      "id": "0uil-khsrH0",
+      "channel": "Oireachtas Tv",
+      "duration": 127.0,
+      "title": "Seoladh Monopoly as Gaeilge ag Oireachtas na Samhna 2015"
+    },
+    {
+      "id": "q9hlMhT-jZ4",
+      "channel": "Glór na nGael",
+      "duration": 222.0,
+      "title": "Imirt Monopoly"
+    },
+    {
+      "id": "BuhwPxr4FCk",
+      "channel": "AyeTV1",
+      "duration": 66.0,
+      "title": "Monopoly -Irish Politicians Version"
+    },
+    {
+      "id": "Xd_qNbvWpx0",
+      "channel": "Glór na nGael",
+      "duration": 452.0,
+      "title": "📙 'Cití Cailleach' á léamh ag Donach 🧔"
+    }
+  ]
+}

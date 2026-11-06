@@ -1,0 +1,57 @@
+{
+  "id": "2019-buzz-lightyear-rapid-disc-blaster",
+  "year": 2019,
+  "name": "Buzz Lightyear Rapid Disc Blaster",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-rapid-disc-blaster/p/170149"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-rapid-disc-blaster/p/170149",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C0vCU2FmM8o",
+      "channel": "TodayIGrewUP",
+      "duration": 186.0,
+      "title": "Toy Story 4 Buzz Lightyear Rapid Disc Blaster Review"
+    },
+    {
+      "id": "p2teq9tqGoU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 147.0,
+      "title": "Toy Story 4 Buzz Lightyear Space Ranger Armor & Buzz Lightyear Rapid Disc Blaster from Mattel"
+    },
+    {
+      "id": "xB49of-WkEA",
+      "channel": "Juviara and Jaylani",
+      "duration": 524.0,
+      "title": "Toy Story 4 Buzz Lightyear Space Ranger Armor & Disc Blaster ! || Disney Toy Review ||"
+    },
+    {
+      "id": "uMo9OMrmviY",
+      "channel": "Tristans Fun Adventures",
+      "duration": 427.0,
+      "title": "Toy Story 4 Buzz Lightyear Rapid Disc Blaster | BIRTHDAY Toy🎁"
+    },
+    {
+      "id": "UAFxen55wT8",
+      "channel": "TodayIGrewUP",
+      "duration": 496.0,
+      "title": "Mattel Buzz Lightyear Galactic Punch Launcher Bundle Review "
+    }
+  ]
+}

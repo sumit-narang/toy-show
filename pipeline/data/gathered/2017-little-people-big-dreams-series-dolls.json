@@ -1,0 +1,54 @@
+{
+  "id": "2017-little-people-big-dreams-series-dolls",
+  "year": 2017,
+  "name": "Little People Big Dreams Series Dolls",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Moss Cottage",
+      "url": "http://www.moss.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1cj0gkkWwmc",
+      "channel": "Divastar KLao",
+      "duration": 569.0,
+      "title": "Mcdonald’s Little People, Big Dreams: I Can Be A Legendary Popstar (July-August 2023)"
+    },
+    {
+      "id": "GXZDTSpncUc",
+      "channel": "Reni Lim",
+      "duration": 186.0,
+      "title": "Flip through Little People Big Dreams Princess Diana children book"
+    },
+    {
+      "id": "TVQDdKqcQ-k",
+      "channel": "whats.fordinnermama",
+      "duration": 44.0,
+      "title": "Frida Kahlo (Volume 2) (Little People, BIG DREAMS, 2) Maria Isabel Sanchez Vegara Historical figures"
+    },
+    {
+      "id": "y1nJmVxYjl8",
+      "channel": "patritiatw",
+      "duration": 77.0,
+      "title": "My First Frida Kahlo-Little People, BIG DREAMS"
+    },
+    {
+      "id": "0LKr_OD3jlo",
+      "channel": "Dyslexic Mum",
+      "duration": 60.0,
+      "title": "My Favourite Little People Big Dreams Book by Mum Collette Costello"
+    }
+  ]
+}

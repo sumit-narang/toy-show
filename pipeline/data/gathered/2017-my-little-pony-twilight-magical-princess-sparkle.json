@@ -1,0 +1,64 @@
+{
+  "id": "2017-my-little-pony-twilight-magical-princess-sparkle",
+  "year": 2017,
+  "name": "My Little Pony Twilight Magical Princess Sparkle",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-4QhLYWr9rM",
+      "channel": "My Little Pony - Official Channel",
+      "duration": 2584.0,
+      "title": "Best of Friendship Is Magic 👑 Twilight's Kingdom Part 1 & 2 S4 FULL EPISODES My Little Pony Cartoon"
+    },
+    {
+      "id": "ss-_W4Tm-UI",
+      "channel": "Toon Mania - Princess World",
+      "duration": 1291.0,
+      "title": "Twilight’s Spell Goes Wrong! ✨My Little Pony | Toon Mania - Princess World"
+    },
+    {
+      "id": "8wq4ejMZURc",
+      "channel": "My Little Pony - Friendship Is Magic ",
+      "duration": 1290.0,
+      "title": "My Little Pony: Friendship is Magic S4 E15 🌈 Twilight Time 💜 MLP FULL EPISODE"
+    },
+    {
+      "id": "XEhzt5D09NE",
+      "channel": "My Little Pony - Official Channel",
+      "duration": 2584.0,
+      "title": "Best of Friendship Is Magic 💍 Princess Twilight Sparkle Part 1 & 2 S4 FULL EPISODES My Little Pony"
+    },
+    {
+      "id": "oelXoNPKjKE",
+      "channel": "My Little Pony - Official Channel",
+      "duration": 118.0,
+      "title": "Friendship is Magic - Twilight Sparkle's Cutie Mark Moment"
+    }
+  ]
+}

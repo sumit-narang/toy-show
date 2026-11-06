@@ -1,0 +1,54 @@
+{
+  "id": "2023-nintendo-switch",
+  "year": 2023,
+  "name": "Nintendo Switch",
+  "price_eur": 299.0,
+  "price_text": "€299",
+  "retailers": [
+    {
+      "name": "Currys PC World",
+      "url": "https://www.currys.ie/products/nintendo-switch-neon-red-and-blue-10163022.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.currys.ie/products/nintendo-switch-neon-red-and-blue-10163022.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Lk2MPW5DBJY",
+      "channel": "IGN",
+      "duration": 545.0,
+      "title": "Nintendo Switch Sports Resort Review"
+    },
+    {
+      "id": "F-CvM4s21P0",
+      "channel": "Sean McRae",
+      "duration": 247.0,
+      "title": "I replaced Doomscrolling with the Switch 2. Here's what happened"
+    },
+    {
+      "id": "p7XFhH2puCg",
+      "channel": "NintendoAU",
+      "duration": 31.0,
+      "title": "The Legend of Zelda: Ocarina of Time – Steel yourself... (Nintendo Switch 2)"
+    },
+    {
+      "id": "Mp1hIvlvC8Q",
+      "channel": "Nintendo UK",
+      "duration": 80.0,
+      "title": "Nintendo Switch Sports Resort – Out now! (Nintendo Switch 2)"
+    },
+    {
+      "id": "rrbgE7YVy90",
+      "channel": "IGN",
+      "duration": 488.0,
+      "title": "Modern Warfare 4 Graphics Comparison: Nintendo Switch 2 vs PC"
+    }
+  ]
+}

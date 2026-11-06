@@ -1,0 +1,61 @@
+{
+  "id": "2019-beast-feast",
+  "year": 2019,
+  "name": "Beast Feast",
+  "price_eur": 14.95,
+  "price_text": "€14.95",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/Beast-Feast_9781406386639"
+    },
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/9781406386639"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZHbF01q8jF8",
+      "channel": "Sandbox Storytime",
+      "duration": 553.0,
+      "title": "Beast Feast! - a read aloud story-time!"
+    },
+    {
+      "id": "PUVLOphTBTA",
+      "channel": "Toadstools and Fairy Dust",
+      "duration": 584.0,
+      "title": "👹 Beast Feast (kids books read aloud) interactive "
+    },
+    {
+      "id": "2lOqYCvv0bU",
+      "channel": "Flamey The GM",
+      "duration": 573.0,
+      "title": "Daggerheart Beast Feast Explained: Cooking, Monsters & Mayhem!"
+    },
+    {
+      "id": "-5cylESYtX8",
+      "channel": "Beast Feasts",
+      "duration": 822.0,
+      "title": "BEAST FEASTING ON CHICKEN FOR 13 MINUTES (CHICKEN ASMR MUKBANG)"
+    },
+    {
+      "id": "MQ6lLEk3GRk",
+      "channel": "Lil Intro Vert",
+      "duration": 3788.0,
+      "title": "Various Artists - Enter The Beast Feast Disc 1"
+    }
+  ]
+}

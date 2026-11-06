@@ -1,0 +1,57 @@
+{
+  "id": "2025-ekids-walkie-talkies-pink",
+  "year": 2025,
+  "name": "eKids Walkie Talkies Pink",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/spy-kits-and-walkie-talkies/ekids-walkie-talkies-pink/p/221919"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/spy-kits-and-walkie-talkies/ekids-walkie-talkies-pink/p/221919",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-bdYnq9yMh4",
+      "channel": "Matt's Real Reviews",
+      "duration": 77.0,
+      "title": "Testing, Usage, and Issues with Minecraft Walkie Talkies"
+    },
+    {
+      "id": "AfzdqFljgtA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 80.0,
+      "title": "Minions Walkie Talkies from eKids"
+    },
+    {
+      "id": "2ZZRArXIJZk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 103.0,
+      "title": "Frozen Chill n Chat Walkie Talkies from eKids"
+    },
+    {
+      "id": "7MDWRrs0ZXg",
+      "channel": "Compare to Win",
+      "duration": 521.0,
+      "title": "The Top 5 Best Walkie Talkies in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "SW4KJCY--Y0",
+      "channel": "Skinner's 100% Honest Reviews",
+      "duration": 223.0,
+      "title": "YUSSBCU Video Walkie Talkies for Kids, Handheld 2 Pack"
+    }
+  ]
+}

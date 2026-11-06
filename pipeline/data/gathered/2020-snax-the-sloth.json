@@ -1,0 +1,53 @@
+{
+  "id": "2020-snax-the-sloth",
+  "year": 2020,
+  "name": "Snax the Sloth",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S5Ubc-VBJJw",
+      "channel": "Corvo Lavender Media Production",
+      "duration": 60.0,
+      "title": "@WillNE and @JamesMarriottOfficial Snax the Sloth clip"
+    },
+    {
+      "id": "iUtD-InooVo",
+      "channel": "TTPM Toy Reviews",
+      "duration": 120.0,
+      "title": "Snax the Sloth from Interstell | Sloth friend that talks back to you very slowly | As seen on tv"
+    },
+    {
+      "id": "xkJQrmAi_d4",
+      "channel": "Freddie griffiths",
+      "duration": 15.0,
+      "title": "snax the sloth - smyths toys"
+    },
+    {
+      "id": "qkRrD0leku8",
+      "channel": " 🛍 קונים נכון – BuyWithUs 🛍",
+      "duration": 120.0,
+      "title": "Snax the Sloth   4K בובת לני העצלן - סקירה משפחתית!"
+    },
+    {
+      "id": "r3Vi1ctGHPE",
+      "channel": "Hammacher Schlemmer",
+      "duration": 51.0,
+      "title": "The Mimicking Slow Talking Sloth"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-day-and-night-storybook-for-first-words",
+  "year": 2018,
+  "name": "Day and Night Storybook for First Words",
+  "price_eur": 8.95,
+  "price_text": "€8.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hMg80RmpmJc",
+      "channel": "StoryTimeFamily",
+      "duration": 264.0,
+      "title": "Sleepyheads | A Perfect Children's Bedtime Story"
+    },
+    {
+      "id": "uU1sX_Yg3JU",
+      "channel": "Buddy Son Storytime",
+      "duration": 174.0,
+      "title": "Goodnight Moon – 🌕 Read aloud of classic kids bedtime story by Margaret Wise Brown"
+    },
+    {
+      "id": "LxexUt8xM1w",
+      "channel": "LolliPop Animated Book",
+      "duration": 131.0,
+      "title": "Where's Spot? | Animated books for Kids | Read aloud"
+    },
+    {
+      "id": "gMZvxbKIV3k",
+      "channel": "Vooks - Stories and Read Alouds for Kids",
+      "duration": 265.0,
+      "title": "Tony Baroni Loves Macaroni! | Read Aloud Kids Book | Vooks Narrated Storybooks"
+    },
+    {
+      "id": "XOMu1TjtKcg",
+      "channel": "Read Aloud with Mr. Paul",
+      "duration": 516.0,
+      "title": "🤣 The Sun Thief 🌞 Kids Book Summer Read Aloud Story by Alice Hemming and Nicola Slater"
+    }
+  ]
+}

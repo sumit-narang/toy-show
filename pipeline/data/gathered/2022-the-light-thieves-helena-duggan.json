@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-light-thieves-helena-duggan",
+  "year": 2022,
+  "name": "The Light Thieves - Helena Duggan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "SccM-D4lb0w",
+      "channel": "Usborne",
+      "duration": 52.0,
+      "title": "The Light Thieves by Helena Duggan – Trailer"
+    },
+    {
+      "id": "UQglC12bhPY",
+      "channel": "Google Play Books",
+      "duration": 2746.0,
+      "title": "The Light Thieves and the Terrifying Dawn by Helena Duggan · Audiobook preview"
+    },
+    {
+      "id": "j0gR79INtxI",
+      "channel": "Google Play Books",
+      "duration": 2681.0,
+      "title": "The Light Thieves Book 1 by Helena Duggan · Audiobook preview"
+    },
+    {
+      "id": "sX4rZ2k2k5I",
+      "channel": "Google Play Books",
+      "duration": 2375.0,
+      "title": "The Light Thieves Book 1 by Helena Duggan · Audiobook preview"
+    },
+    {
+      "id": "qLjN4nfHGDI",
+      "channel": "Mr Dilly",
+      "duration": 309.0,
+      "title": "Helena Duggan reads from THE LIGHT THIEVES #childrensbooks #childrensauthor #kidsbooks"
+    }
+  ]
+}

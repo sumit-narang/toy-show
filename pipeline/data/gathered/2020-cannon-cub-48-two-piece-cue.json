@@ -1,0 +1,60 @@
+{
+  "id": "2020-cannon-cub-48-two-piece-cue",
+  "year": 2020,
+  "name": "Cannon Cub 48\" Two Piece Cue",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "The Billiard Company",
+      "url": "https://www.thebilliardcompany.ie/Snooker-Cues/2pc-Cannon-Snooker-Cues/Cub-48-Two-Piece-Cue"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebilliardcompany.ie/Snooker-Cues/2pc-Cannon-Snooker-Cues/Cub-48-Two-Piece-Cue",
+      "title": "Cub 48 Inch Two Piece Cue",
+      "description": "Cub 48 Inch Two Piece Cue",
+      "image": "https://www.thebilliardcompany.ie/image/cache/cache/1-1000/277/main/c296-0232-Whole_Cue-0-1-1000x1000.jpg",
+      "ld_description": "Made from high-quality Ash by Peradon, the Cannon Cub two-piece cue offers good value for money and is best for younger players. It has a length of 48 inches with an  Ebony look finish and features a brass joint located at the center of the cue.The cue features a leather butt pad for",
+      "brand": null,
+      "ld_image": "https://www.thebilliardcompany.ie/image/cache/cache/1-1000/277/main/c296-0232-Whole_Cue-0-1-2500x748.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p_6tBPjmPpw",
+      "channel": "BartonSnooker",
+      "duration": 692.0,
+      "title": "I Bought A Very Cheap Cue!"
+    },
+    {
+      "id": "XDirHxEN5kI",
+      "channel": "Break from life",
+      "duration": 608.0,
+      "title": "Snooker Cues For Sale"
+    },
+    {
+      "id": "t4SQV4o8pGk",
+      "channel": "Daren Ng",
+      "duration": 99.0,
+      "title": "Unboxing John Parris Traditional Snooker Cue (After more then 2 years of wait)"
+    },
+    {
+      "id": "FJNpiZx28bk",
+      "channel": "Stephen Hendry's Cue Tips",
+      "duration": 687.0,
+      "title": "CHEAP Cue vs EXPENSIVE Cue"
+    },
+    {
+      "id": "qqPsyoPnfR4",
+      "channel": "Karl Boyes",
+      "duration": 978.0,
+      "title": "I bought a cheap pool cue from Sports Direct..BUT there was a big problem!"
+    }
+  ]
+}

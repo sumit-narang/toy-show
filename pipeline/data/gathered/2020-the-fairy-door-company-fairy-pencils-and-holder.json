@@ -1,0 +1,54 @@
+{
+  "id": "2020-the-fairy-door-company-fairy-pencils-and-holder",
+  "year": 2020,
+  "name": "The Fairy Door Company Fairy Pencils and Holder",
+  "price_eur": 4.0,
+  "price_text": "€4",
+  "retailers": [
+    {
+      "name": "The Fairy Door Company",
+      "url": "https://theirishfairydoorcompany.com/product-category/pencils/"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://theirishfairydoorcompany.com/product-category/pencils/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eejuMRQhed0",
+      "channel": "QVC",
+      "duration": 275.0,
+      "title": "O'Gowna Irish Fairy Doors on QVC"
+    },
+    {
+      "id": "H_sR3LfFoRM",
+      "channel": "QVC",
+      "duration": 327.0,
+      "title": "O'Gowna Irish Fairy Doors on QVC"
+    },
+    {
+      "id": "z7_WHl5qJQY",
+      "channel": "QVC",
+      "duration": 373.0,
+      "title": "O'Gowna Irish Fairy Doors on QVC"
+    },
+    {
+      "id": "0F3k6VQdG5o",
+      "channel": "Shark Tank Global",
+      "duration": 686.0,
+      "title": "Five Sharks Fight For Multi-Million Dollar Business Fairy Door | Shark Tank AUS | Shark Tank Global"
+    },
+    {
+      "id": "pZW3qLjklLs",
+      "channel": "House of Mahalo",
+      "duration": 1770.0,
+      "title": "Fairy Door Flip Up Junk Journal Pocket w/ Hidden Writing Spot ~ Fairy Junk Journals"
+    }
+  ]
+}

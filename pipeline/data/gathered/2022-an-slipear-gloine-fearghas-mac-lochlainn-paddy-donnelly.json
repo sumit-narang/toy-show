@@ -1,0 +1,36 @@
+{
+  "id": "2022-an-slipear-gloine-fearghas-mac-lochlainn-paddy-donnelly",
+  "year": 2022,
+  "name": "An Slipear Gloine - Fearghas Mac Lochlainn & Paddy Donnelly",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "An Siopa Leabhar",
+      "url": "https://www.siopaleabhar.com/en/product/an-slipear-gloine/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopaleabhar.com/en/tairgi/an-slipear-gloine/",
+      "title": "An Slipéar Gloine (Cinderella) - An Siopa Leabhar",
+      "description": "Winner – Gradam Réics Carló 2022, An tOireachtas Winner – Judges’ Special Award, KPMG Children’s Books Ireland Awards An age-old story brought to life wonderfully with rhythm, rhyme and magical illustrations! Áine Ní Ghlinn, Laureate na nÓg The author has created beautiful movement and rhythm in this version of ‘Cinderella’. Luaithrín is upset by her […]",
+      "image": "https://www.siopaleabhar.com/wp-content/uploads/2022/06/2208anslipeargloine.jpg",
+      "ld_description": "Winner – Gradam Réics Carló 2022, An tOireachtas\r\n \tWinner – Judges' Special Award, KPMG Children's Books Ireland Awards\r\n\r\nAn age-old story brought to life wonderfully with rhythm, rhyme and magical illustrations!\r\nÁine Ní Ghlinn, Laureate na nÓg\r\n\r\nThe author has created beautiful movement and rhythm in this version of ‘Cinderella’.\r\n\r\nLuaithrín is upset by her step-mother, Camilla, and her two awful daughters, Straoisín and Smaoisín.\r\n\r\nYounger children will delight in the fun and laughter that is cleverly incorporated in these rhyming verses – a famous tale known worldwide.",
+      "brand": null,
+      "ld_image": "https://www.siopaleabhar.com/wp-content/uploads/2022/06/2208anslipeargloine.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lyKak3rNLQc",
+      "channel": "Children's Books Ireland",
+      "duration": 606.0,
+      "title": "An Slipéar Gloine; KPMG Children's Books Ireland Awards 2023"
+    }
+  ]
+}

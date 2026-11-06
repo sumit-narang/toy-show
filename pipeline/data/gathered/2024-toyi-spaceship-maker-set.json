@@ -1,0 +1,60 @@
+{
+  "id": "2024-toyi-spaceship-maker-set",
+  "year": 2024,
+  "name": "TOYI Spaceship Maker Set",
+  "price_eur": null,
+  "price_text": "£14.99",
+  "retailers": [
+    {
+      "name": "Bigjigs Toys",
+      "url": "https://www.bigjigstoys.co.uk/products/toyi-arts-and-crafts-spaceship-building-kit"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.bigjigstoys.co.uk/products/toyi-arts-and-crafts-spaceship-building-kit",
+      "title": "Spaceship Building Kit | Toyi Craft Kits | Bigjigs Toys",
+      "description": "Embark on an interstellar adventure with Toyi’s Arts & Crafts Spaceship Building Kit, featuring 48 play pieces. Shop eco-friendly craft kits for 4+ years.",
+      "image": "http://www.bigjigstoys.co.uk/cdn/shop/files/TY408685.jpg?crop=center&height=1200&v=1716560087&width=1200",
+      "ld_description": "Creative Kids Spaceship Building Kit for Arts and Crafts Fun Boosts STEAM Skills and Imagination by ToyiTo infinity and beyond! Embark on an interstellar adventure with Toyi's Arts & Crafts Spaceship Building Kit. This cosmic craft kit will transport tots to distant galaxies as they immerse themselves in designing out-of-this-world creations! The set comes with 48 construction pieces, including joints, gears, clips, connectors, and more.Once they've built their sleek spacecraft, aspiring astronauts can prepare for liftoff and let their imaginations soar! Craft activities for kids help young minds develop key STEAM skills, such as creativity and problem-solving, while make-believe play is fabulous for their language development, communication, and social skills.Toyi's inventive craft kits are sustainably made from recycled plastics and designed to give new lives to disposable items, transforming trash into toys! Conforms to current European safety standards. Suitable for 4+ years.Arts & Crafts Spaceship Building Kit - product features:\n48-piece craft set\n18 joints\n4 gears\n12 clips\n4 short sticks\n6 sticks\n2 small flexible connectors\n2 large flexible connectors\nMade from recycled plastics\nFor 4+ years",
+      "brand": "Toyi",
+      "ld_image": "https://www.bigjigstoys.co.uk/cdn/shop/files/TY408685.jpg?v=1716560087&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "22rvpUecLts",
+      "channel": "Hagerty",
+      "duration": 1624.0,
+      "title": "The FLYING Tesla Roadster explained by the man who engineered it"
+    },
+    {
+      "id": "PxDA-WzNPjc",
+      "channel": "Dude Life",
+      "duration": 3369.0,
+      "title": "Camping in Inflatable A-Frame Cabins from Temu, Amazon & TikTok Shop"
+    },
+    {
+      "id": "h0FFljgpMYM",
+      "channel": "PlayStation",
+      "duration": 44.0,
+      "title": "Play Finds a Way with PlayStation Portal | PS5"
+    },
+    {
+      "id": "P9rFeGAdX0A",
+      "channel": "Tory Lanez",
+      "duration": 240.0,
+      "title": "Tory Lanez - LUV"
+    },
+    {
+      "id": "OhlnfwfwQj8",
+      "channel": "Lucky Penny Shop",
+      "duration": 958.0,
+      "title": "UFO's Gyro Vehicle Top - Flashing Lights!"
+    }
+  ]
+}

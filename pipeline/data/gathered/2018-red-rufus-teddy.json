@@ -1,0 +1,68 @@
+{
+  "id": "2018-red-rufus-teddy",
+  "year": 2018,
+  "name": "Red Rufus Teddy",
+  "price_eur": 35.0,
+  "price_text": "from €35.00",
+  "retailers": [
+    {
+      "name": "The Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    },
+    {
+      "name": "Redrufus.ie",
+      "url": "https://www.redrufus.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NngxmB-0iRc",
+      "channel": "RedRufusDublin",
+      "duration": 185.0,
+      "title": "Red Rufus Sockdogs"
+    },
+    {
+      "id": "WZ940nxxAII",
+      "channel": "Red Richardson comedy and Horatio Gould",
+      "duration": 4997.0,
+      "title": "Red Talks podcast (Featuring Horatio Gould)"
+    },
+    {
+      "id": "VAybpeWwzd0",
+      "channel": "Kenneth Uzquiano",
+      "duration": 31.0,
+      "title": "Most Outstanding, Rufus!"
+    },
+    {
+      "id": "t-fLDYIUO4k",
+      "channel": "Red Richardson comedy and FinTaylor",
+      "duration": 2933.0,
+      "title": "Red Richardson 'Bugatti Live' (Full Stand up comedy special)"
+    },
+    {
+      "id": "8KtF4mX7rpU",
+      "channel": "Kevin Brock",
+      "duration": 71.0,
+      "title": "It Is Time Clip"
+    }
+  ]
+}

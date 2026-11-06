@@ -1,0 +1,64 @@
+{
+  "id": "2017-magix-tracks-tunnel-accessories-kit",
+  "year": 2017,
+  "name": "Magix Tracks Tunnel Accessories Kit",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GUxtxfBCqO0",
+      "channel": "HSN",
+      "duration": 526.0,
+      "title": "Bend A Path 14' Glow Track with SUVs, Case and Tunnel"
+    },
+    {
+      "id": "FM11O5VevYs",
+      "channel": "Jake Trains",
+      "duration": 727.0,
+      "title": "BRIO Wooden Trains 20 Tunnel Metro Train Layout with Subway Train Stations."
+    },
+    {
+      "id": "v7SDo5b597k",
+      "channel": "RealTruck.com",
+      "duration": 96.0,
+      "title": "BAKFlip MX4 TS Hard Folding Tonneau Cover w/ T-Slot Rails Fast Facts"
+    },
+    {
+      "id": "veMIOXVSJZU",
+      "channel": "EDM Tips",
+      "duration": 1803.0,
+      "title": "7 Transition Secrets the Pros Use (and how to use them in your music!) 👀"
+    },
+    {
+      "id": "i-CLV1aHLdE",
+      "channel": "5MadMovieMakers",
+      "duration": 97.0,
+      "title": "Marble Run Islands"
+    }
+  ]
+}

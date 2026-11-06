@@ -1,0 +1,53 @@
+{
+  "id": "2017-simba-toys-music-instrument-mp3-mic-stand",
+  "year": 2017,
+  "name": "Simba Toys Music Instrument (MP3 mic stand)",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Lidl",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "914mFJ3Ydrs",
+      "channel": "JMV TOYS",
+      "duration": 515.0,
+      "title": "Dream Star Microphone Set Unboxing and Testing - JMV TOYS"
+    },
+    {
+      "id": "9kmkvZkOu6Q",
+      "channel": "Alyssa Hughes",
+      "duration": 225.0,
+      "title": "Drum Set for Kids with Microphone & Sticks | Fun Musical Toy Gift for Toddlers | Amazon Review"
+    },
+    {
+      "id": "zeRJ2Qdp7MY",
+      "channel": "Cute Pop Toys",
+      "duration": 237.0,
+      "title": "TOYS ASMR | 4 Minutes Unboxing Test Cute Pink Singing Machine with Microphone"
+    },
+    {
+      "id": "0mLH6gE0gOk",
+      "channel": "العاب سيمبا للاطفال",
+      "duration": 780.0,
+      "title": "لعبة الميكروفون الحقيقى للاطفال العاب بنات واولاد real microphone toy game"
+    },
+    {
+      "id": "nOzadz4t-EM",
+      "channel": "The Midwest Mom Edit",
+      "duration": 150.0,
+      "title": "This Kids Karaoke Machine Is a Hit! 🎤 Full Review & Demo"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-24-inch-team-mx-24-bike-orange",
+  "year": 2017,
+  "name": "24 Inch Team MX-24 Bike Orange",
+  "price_eur": 154.99,
+  "price_text": "€154.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aDNN2YZ0Whg",
+      "channel": "Cycling with Russ ",
+      "duration": 469.0,
+      "title": "Orbea MX 24 dirt review | Children’s MTB"
+    },
+    {
+      "id": "Qd3QRopeUss",
+      "channel": "Kelvelo Grenoble",
+      "duration": 36.0,
+      "title": "Orbea Mx 24 Dirt (2022)"
+    },
+    {
+      "id": "ygVKpCFC-d0",
+      "channel": "Fafty VTT",
+      "duration": 39.0,
+      "title": "Fafty, Orbea MX 24´´ Dirt"
+    },
+    {
+      "id": "tz44CdeTo7s",
+      "channel": "Rascal Rides",
+      "duration": 206.0,
+      "title": "BEST 20\" Kids Mountain Bikes - Tested & Reviewed!"
+    },
+    {
+      "id": "fGsWQQYf2GQ",
+      "channel": "Mountain Bike Action",
+      "duration": 540.0,
+      "title": "The Ten Best Kids Mountain Bikes for 2024"
+    }
+  ]
+}

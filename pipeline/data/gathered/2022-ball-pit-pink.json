@@ -1,0 +1,54 @@
+{
+  "id": "2022-ball-pit-pink",
+  "year": 2022,
+  "name": "Ball pit (pink)",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lisUGE0gEus",
+      "channel": "Toys and Colors",
+      "duration": 1497.0,
+      "title": "Maddie vs Kaden Ball Pit Pool Party: Pink or Blue in the Pool?"
+    },
+    {
+      "id": "5x2qipxDUNU",
+      "channel": "Bounce Patrol - Kids Songs",
+      "duration": 156.0,
+      "title": "Ball Pit Party | Kids Song for Learning Colors - Giant Ball Pit Show!"
+    },
+    {
+      "id": "hul4Xl5vsxs",
+      "channel": "Meekah - Educational Videos for Kids",
+      "duration": 971.0,
+      "title": "NEW! Meekah Visits Munchkin’s Indoor Playground | Blippi and Meekah Kids TV"
+    },
+    {
+      "id": "XlCtP1-TVSU",
+      "channel": "Hogi! Pinkfong - Learn & Play",
+      "duration": 7088.0,
+      "title": "[Best] Learn Colors 2023｜Colors Slide, Pop It, Ball Pit and More｜Hogi Colors"
+    },
+    {
+      "id": "lUacBnsC7XU",
+      "channel": "Hogi! Pinkfong - Learn & Play",
+      "duration": 2899.0,
+      "title": "Learn Colors with Ball Pit + More｜Colors for Kids｜Hogi Colors｜Hogi Pinkfong"
+    }
+  ]
+}

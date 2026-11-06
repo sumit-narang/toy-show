@@ -1,0 +1,57 @@
+{
+  "id": "2019-plan-toys-dentist-set",
+  "year": 2019,
+  "name": "Plan Toys Dentist Set",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/plan-toys-dentist-set"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/products/plan-toys-dentist-set",
+      "title": "Plan Toys Dentist Set",
+      "description": "Pretend to be a real dentist! This set teaches children at a young age to understand the importance of tooth care. It includes 4 basic dental tools, 1 toothbrush, 1 set of teeth with 3 spare teeth and 1 doctor case.",
+      "image": "http://nimblefingers.ie/cdn/shop/files/3493-Packaging-01_600x.jpg?v=1694080105"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TQQkk4bG68I",
+      "channel": "Nuts For Kids",
+      "duration": 30.0,
+      "title": "PlanToys Dentist Set"
+    },
+    {
+      "id": "5mqdQLuplXQ",
+      "channel": "Inspired Roots Ranch",
+      "duration": 688.0,
+      "title": "Wooden Toy Unboxing - Plan Toys Doctor and Very Set"
+    },
+    {
+      "id": "UA5745BwSLA",
+      "channel": "Big & Little Papaya 大小木瓜成長記",
+      "duration": 211.0,
+      "title": "Adi play with birthday gift~plan toys dentist set"
+    },
+    {
+      "id": "tpUhNBeBuKI",
+      "channel": "Shellby Channel",
+      "duration": 76.0,
+      "title": "Wooden Doctor and Dentist Set"
+    },
+    {
+      "id": "4iC-l5_QMYc",
+      "channel": "Asmr.Daniella",
+      "duration": 528.0,
+      "title": "ASMR | Unboxing Amazon Dentist Kit (whispering)"
+    }
+  ]
+}

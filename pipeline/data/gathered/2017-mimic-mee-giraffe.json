@@ -1,0 +1,64 @@
+{
+  "id": "2017-mimic-mee-giraffe",
+  "year": 2017,
+  "name": "Mimic Mee Giraffe",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7cG48XuEgII",
+      "channel": "Product Demo Lab",
+      "duration": 235.0,
+      "title": "Talking Dancing Giraffe Toy: Can It Really Mimic Your Voice?"
+    },
+    {
+      "id": "ejT5ixzWFBM",
+      "channel": "John The Builder",
+      "duration": 83.0,
+      "title": "Interactive Talking Giraffe Toy Unboxing & Feature Demonstration"
+    },
+    {
+      "id": "Bv5YHUX20W0",
+      "channel": "India's Got Latent Clips",
+      "duration": 421.0,
+      "title": "THE BEST VOICE ACTOR IN LATENT SO FAR | India’s Got Latent"
+    },
+    {
+      "id": "oYo7qQ_fD_s",
+      "channel": "Tiny Tunes Time",
+      "duration": 67.0,
+      "title": "Stretch Up High! – The Giraffe Action Song for Toddlers | Tiny Tunes Time "
+    },
+    {
+      "id": "flIAPoUBdI0",
+      "channel": "Smosh Alike and Jack’s World of Wildlife",
+      "duration": 4646.0,
+      "title": "We Ask A Bug Expert Everything About Bugs | Smosh Asks"
+    }
+  ]
+}

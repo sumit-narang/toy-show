@@ -1,0 +1,64 @@
+{
+  "id": "2017-our-generation-healthy-paws-vet-clinic",
+  "year": 2017,
+  "name": "Our Generation Healthy Paws Vet Clinic",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k-tvC9jphx4",
+      "channel": "OG Dolls",
+      "duration": 47.0,
+      "title": "Our Generation Dolls - Healthy Paws Vet Clinic"
+    },
+    {
+      "id": "WDw2b3kgMv0",
+      "channel": "My World",
+      "duration": 1517.0,
+      "title": "Our Generation Healthy Paws Vet Clinic and My Life as a Pet Mobile Playset Comparison"
+    },
+    {
+      "id": "StMErIggZFs",
+      "channel": "OG Dolls",
+      "duration": 31.0,
+      "title": "Our Generation Dolls - Healthy Paws Vet Clinic"
+    },
+    {
+      "id": "p38dtnVkHPk",
+      "channel": "ASMR Toys & Party",
+      "duration": 571.0,
+      "title": "9 minutes satisfying organizing Our Generation Vet Clinic! | ASMR No Talking"
+    },
+    {
+      "id": "Ldum57aDlWM",
+      "channel": "Let's Play // Best of Toys & Games",
+      "duration": 33.0,
+      "title": "Our Generation Healthy Paws Vet Clinic Playset for 18\" Dolls Now on Target Black Friday 2019"
+    }
+  ]
+}

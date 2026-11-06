@@ -1,0 +1,60 @@
+{
+  "id": "2023-the-forgettables",
+  "year": 2023,
+  "name": "The Forgettables",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/forgettables?_pos=1&_sid=806003522&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/forgettables?_pos=1&_sid=806003522&_ss=r",
+      "title": "Dungan Myles: The Forgettables [2023] hardback",
+      "description": "Dungan Myles: The Forgettables [2023] hardback | You won't find Mary Robinson, Ernest Shackleton or Rory McIlroy in this volume -- they are among the unforgettables who have shaped Irish life. Instead, meet some fascinating, Irish people (and animals), who have advanced (or set back) the cause of everything from astron",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/myles-dungan-dunne-alan-dungan-myles-the-forgettables-2023-hardback-56122571784531_1200x1200.jpg?v=1716375021",
+      "ld_description": "You won't find Mary Robinson, Ernest Shackleton or Rory McIlroy in this volume -- they are among the unforgettables who have shaped Irish life. Instead, meet some fascinating, Irish people (and animals), who have advanced (or set back) the cause of everything from astronomy to zoology.  There's the honourable but underappreciated Valentine Greatrakes, a 17th-century witchfinder and healer from Waterford. There's also the bygone baddie Miler McGrath, possibly the worstbishop in the history of religion who appears to have been a Franciscan monk, a Catholic bishop AND a bishop of the Church of Ireland at more or less the same time. Then there's Paddy the Pigeon, the WW2 veteran who brought the news of the Allied D-Day success to England. Be inspired by their stories and maybe one day, you can be forgettable too!",
+      "brand": "Myles Dungan &amp; Dunne, Alan",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/myles-dungan-dunne-alan-dungan-myles-the-forgettables-2023-hardback-56122571784531_297x.jpg?v=1716375021"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cz6mpaJFoDo",
+      "channel": "Web of Curiosities",
+      "duration": 49.0,
+      "title": "D&D Vines: The Forgettables"
+    },
+    {
+      "id": "d_qFfYFua00",
+      "channel": "Alan Dunne",
+      "duration": 49.0,
+      "title": "The Forgettables. A history book by Myles Dungan, illustrated by Alan Dunne."
+    },
+    {
+      "id": "7TCncxWNcPU",
+      "channel": "David Kushner",
+      "duration": 188.0,
+      "title": "David Kushner - Mr. Forgettable [Official Music Video]"
+    },
+    {
+      "id": "jVXdopHudCY",
+      "channel": "The Forgettables",
+      "duration": 289.0,
+      "title": "Remembering Malik Sealy - Mix by: The Forgettables"
+    },
+    {
+      "id": "2Lb78-gIMyo",
+      "channel": "The Forgettables",
+      "duration": 221.0,
+      "title": "Another Day"
+    }
+  ]
+}

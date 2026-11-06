@@ -1,0 +1,54 @@
+{
+  "id": "2019-tenderleaf-toys-forest-table",
+  "year": 2019,
+  "name": "TenderLeaf Toys Forest Table",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C6oTX1UV2T4",
+      "channel": "Little Dreamers",
+      "duration": 58.0,
+      "title": "Tenderleaf Toys Forest Dressing Table"
+    },
+    {
+      "id": "9R9mPHKteq0",
+      "channel": "Top 5 Zone",
+      "duration": 128.0,
+      "title": "Tender Leaf Toys: Forest Table and Chairs - The Perfect Playtime Set"
+    },
+    {
+      "id": "08Ah6qG7ghc",
+      "channel": "Tender Leaf Toys",
+      "duration": 31.0,
+      "title": "Play Table | Tender Leaf"
+    },
+    {
+      "id": "V0MssuVQ_tw",
+      "channel": "Tender Leaf Toys",
+      "duration": 58.0,
+      "title": "Forest Dressing Table | Tender Leaf"
+    },
+    {
+      "id": "uzlmooqoOdA",
+      "channel": "Tender Leaf Toys",
+      "duration": 82.0,
+      "title": "Stacking Forest | Tender Leaf Toys"
+    }
+  ]
+}

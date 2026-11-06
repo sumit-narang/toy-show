@@ -1,0 +1,29 @@
+{
+  "id": "2024-seed-to-supper-by-michelle-darmody",
+  "year": 2024,
+  "name": "Seed to Supper by Michelle Darmody",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/seed-to-supper-michelle-darmody-9781739210571"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/seed-to-supper-michelle-darmody-9781739210571",
+      "title": "Seed To Supper By Michelle Darmody | Buy Now At Easons.Com",
+      "description": "A reflective workbook inviting personal exploration and private journaling. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "How does your food get on your plate? Where does it come from? How does it grow? How does it travel around the globe to get to you? And once you have it, how do you cook and eat it? Seed to Supper takes you through every stage of food's journey from its start as a seed in the soil to the table via the kitchen and everything - and everywhere! - in between. You'll not only learn how to grow, buy and cook food, you'll also learn how what we eat affects the planet and see how people eat and share food at dinner tables around the world.   With cooking tips and easy recipes you can make yourself, DIY activities, interesting anecdotes and fascinating facts, follow your food from the ground up and see how food connects us all.",
+      "brand": "Nine Bean Rows Books",
+      "ld_image": "https://www.easons.com/images/m/196ed42e3f1dd057/original/9781739210571_5638948682.jpg"
+    }
+  ],
+  "video_candidates": []
+}

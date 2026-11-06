@@ -1,0 +1,57 @@
+{
+  "id": "2019-sensory-fibre-optics",
+  "year": 2019,
+  "name": "Sensory Fibre Optics",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Safe Care Technologies",
+      "url": "https://www.safecaretechnologies.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://ie.tobiidynavox.com/",
+      "title": "Tobii Dynavox Ireland: Assistive communication solutions",
+      "description": "SOLUTIONS FOR EVERY NEED \r\n\r\nGain independence, grow communication and literacy skills and live a richer, more fulfilling life with our assistive technology and AAC solutions.  \r\n\r\nCommunication Devices \r\n\r\nTouch, switch and eye gaze-enabled devices for communication and computer access  Communication Apps Apps, software and resources for communication and computer access.",
+      "image": "https://ie.tobiidynavox.com/wp-content/uploads/2025/09/TD-Primary-RGB-R-300x49.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BxkG6nB0zFY",
+      "channel": "Richard Hirstwood",
+      "duration": 234.0,
+      "title": "Sensory Fibre Optics"
+    },
+    {
+      "id": "oKgoVcV-rrc",
+      "channel": "Playlearn USA",
+      "duration": 117.0,
+      "title": "Fiber Optic Sensory Lights, Curtain & Wall Panel | by Vema"
+    },
+    {
+      "id": "WrsyYODnKwE",
+      "channel": "TFH Special Needs Toys Canada",
+      "duration": 61.0,
+      "title": "TFH Sensory Fibre Optics"
+    },
+    {
+      "id": "CMsZbn_iyNs",
+      "channel": "Autism Calming Sensory",
+      "duration": 481.0,
+      "title": "Autism Calming Sensory: Fibre Optic"
+    },
+    {
+      "id": "0hMqPU3TUeA",
+      "channel": "PlayLearn Sensory Toys (PlayLearn)",
+      "duration": 21.0,
+      "title": "Playlearn Sensory Fibre Optic Lamp ICE - STL13"
+    }
+  ]
+}

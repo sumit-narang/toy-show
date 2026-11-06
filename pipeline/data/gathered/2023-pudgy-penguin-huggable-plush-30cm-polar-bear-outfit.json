@@ -1,0 +1,57 @@
+{
+  "id": "2023-pudgy-penguin-huggable-plush-30cm-polar-bear-outfit",
+  "year": 2023,
+  "name": "Pudgy Penguin Huggable Plush 30cm - Polar Bear Outfit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pudgy-penguins/pudgy-penguin-huggable-plush-30cm-polar-bear-outfit/p/229483"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pudgy-penguins/pudgy-penguin-huggable-plush-30cm-polar-bear-outfit/p/229483",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8DHtGZI3_CM",
+      "channel": "CrochetGrams",
+      "duration": 4424.0,
+      "title": "How to Crochet a Teddy Bear 🧸 | Easy Plush Amigurumi Tutorial (Himalaya Dolphin Baby Yarn)"
+    },
+    {
+      "id": "RR-crGnjmY0",
+      "channel": "mahum 🎀",
+      "duration": 3374.0,
+      "title": "how to crochet a cute bear wearing a cardigan | amigurumi tutorial (no magic ring!) + free pattern"
+    },
+    {
+      "id": "Z6oU3vrslEQ",
+      "channel": "Danielle L Designs ୨୧",
+      "duration": 1995.0,
+      "title": "How to crochet Cozy teddy bear plushie ✨ Faceless Teddy bear amigurumi tutorial"
+    },
+    {
+      "id": "I90LYxZ2y34",
+      "channel": "Keep Calm and Crochet ",
+      "duration": 4328.0,
+      "title": "Crochet Bear  🐻 / Amigurumi Bear 🐻 🥰❤️/ Amigurumi beginner friendly tutorial / free pattern"
+    },
+    {
+      "id": "ZUH18ojiRJE",
+      "channel": "Lixie Pig Crafts",
+      "duration": 851.0,
+      "title": "How to Crochet a Sweater for a Stuffed Animal"
+    }
+  ]
+}

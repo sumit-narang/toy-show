@@ -1,0 +1,44 @@
+{
+  "id": "2022-you-need-to-chill-juno-dawson",
+  "year": 2022,
+  "name": "You Need to Chill - Juno Dawson",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "m3Pz3I78VAo",
+      "channel": "Reading with Miss C ",
+      "duration": 177.0,
+      "title": "Simon’s Story time: You need to chill by Juno Dawson"
+    },
+    {
+      "id": "pkJiMeyi-Ao",
+      "channel": "SourcebooksInc",
+      "duration": 106.0,
+      "title": "You Need to Chill! Author Talk w/ Juno Dawson"
+    },
+    {
+      "id": "XdqhFgLlOto",
+      "channel": "Mrs. Landers' Library",
+      "duration": 208.0,
+      "title": "You Need to Chill by Juno Dawson and Read by Candace Landers"
+    },
+    {
+      "id": "5zBgaB5OCV4",
+      "channel": "Elfie Fails-Richardson",
+      "duration": 237.0,
+      "title": "You Need To Chill- Juno Dawson"
+    },
+    {
+      "id": "6G0Ive2xDLE",
+      "channel": "Free Audiobook",
+      "duration": 35.0,
+      "title": "You Need to Chill Audiobook by Juno Dawson"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-sharper-image-motor-battles",
+  "year": 2024,
+  "name": "Sharper Image Motor Battles",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-motor-battles-radio-control-bumper-cars-2-pack-bundle/p/234562"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-motor-battles-radio-control-bumper-cars-2-pack-bundle/p/234562",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JkjPwi5N49Q",
+      "channel": "Mini fun toys",
+      "duration": 678.0,
+      "title": "Sharper Image Motor Battles Remote Control Team Battle Racers Toys Unboxing "
+    },
+    {
+      "id": "RIHH7l326UU",
+      "channel": "Mini fun toys",
+      "duration": 677.0,
+      "title": "Sharper Image Motor Battles Crash The Party Toys Unboxing "
+    },
+    {
+      "id": "fpwq84Q2cc0",
+      "channel": "CPLC toyz",
+      "duration": 308.0,
+      "title": "Sharper Image Motor Battles RC Cars Battle Royale Bout 1"
+    },
+    {
+      "id": "wnTAbsERTCo",
+      "channel": "Fred Fred RC",
+      "duration": 1262.0,
+      "title": "Unboxing and review: Motor Battles Sharper image, perfect for having fun at home 💣"
+    },
+    {
+      "id": "pDDhAXYsGnc",
+      "channel": "Sharper Image",
+      "duration": 31.0,
+      "title": "Sharper Image Mecha Rivals Remote Control Battle Robots, 2-Player Set with Lights and Sounds"
+    }
+  ]
+}

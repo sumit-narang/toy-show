@@ -1,0 +1,57 @@
+{
+  "id": "2018-north-pole-breakfast-party-pack",
+  "year": 2018,
+  "name": "North Pole Breakfast Party Pack",
+  "price_eur": 18.0,
+  "price_text": "€18.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "naHbNB4fPuQ",
+      "channel": "The Elf on the Shelf",
+      "duration": 40.0,
+      "title": "North Pole Breakfast Party Pack"
+    },
+    {
+      "id": "NTEvo1N-De4",
+      "channel": "Ben Teague",
+      "duration": 168.0,
+      "title": "North Pole Breakfast 2021"
+    },
+    {
+      "id": "iViiFijOi4M",
+      "channel": "Lumdeedums",
+      "duration": 496.0,
+      "title": "Elf On The Shelf"
+    },
+    {
+      "id": "5dLb06H3ao4",
+      "channel": "The Menokens",
+      "duration": 298.0,
+      "title": "North Pole Breakfast: The Day Our Elf Came Back!"
+    },
+    {
+      "id": "MniOqm_x4Xc",
+      "channel": "Brittany Laurenza",
+      "duration": 208.0,
+      "title": "Our 1st Annual North Pole Breakfast"
+    }
+  ]
+}

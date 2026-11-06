@@ -1,0 +1,64 @@
+{
+  "id": "2017-science4you-slime-factory",
+  "year": 2017,
+  "name": "Science4You Slime Factory",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1bdIfHvoCb4",
+      "channel": "ToyNotes",
+      "duration": 1089.0,
+      "title": "Slimy Factory Science Experiment Kit by Science4You"
+    },
+    {
+      "id": "MUrcIxOoCwk",
+      "channel": "Science4you",
+      "duration": 23.0,
+      "title": "Science4you - Slime Factory Glow In The Dark"
+    },
+    {
+      "id": "udYVuix0cjY",
+      "channel": "Science4you",
+      "duration": 101.0,
+      "title": "Science4you UK - Slimy Factory Slippery slugs"
+    },
+    {
+      "id": "AnM5nCs3MHA",
+      "channel": "Science4you",
+      "duration": 120.0,
+      "title": "Slime Factory - Science4you"
+    },
+    {
+      "id": "v9wuP2aCfYw",
+      "channel": "Science4you",
+      "duration": 99.0,
+      "title": "Slime Science Glow in the Dark - Multilingual"
+    }
+  ]
+}

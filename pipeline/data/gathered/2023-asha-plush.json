@@ -1,0 +1,54 @@
+{
+  "id": "2023-asha-plush",
+  "year": 2023,
+  "name": "Asha Plush",
+  "price_eur": 25.9,
+  "price_text": "€25.90",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/asha-soft-doll-wish-415197299111.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/asha-soft-doll-wish-415197299111.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kocClV5I-VY",
+      "channel": "Enchanted Dill ♥️ Disney Dolls and More",
+      "duration": 380.0,
+      "title": "Disney Wish 🌟✨ Asha Soft Doll Plush Review 🤩"
+    },
+    {
+      "id": "saZvRagQVoQ",
+      "channel": "My Menagerie",
+      "duration": 384.0,
+      "title": "Disney Wish Movie Asha Singing Doll and Cuddleez Star 17” inch Plush Review For Adult Collectors"
+    },
+    {
+      "id": "3qST8aXzidU",
+      "channel": "Fiction Films Los Angeles",
+      "duration": 31.0,
+      "title": "Disney's Wish Moving and Talking Valentino & Singing Asha Doll TVC | JAKKS Pacific"
+    },
+    {
+      "id": "JUo_pz89Xb8",
+      "channel": "Casa De Juguetes",
+      "duration": 90.0,
+      "title": "DISNEY PRINCESS ASHA WISH NEW MOVIE LITTLE DOLL #amazing #funny #disney"
+    },
+    {
+      "id": "02fdgxRs5oA",
+      "channel": "James Paul Lopez",
+      "duration": 81.0,
+      "title": "My Plush Doll are Asha from Disney's Wish"
+    }
+  ]
+}

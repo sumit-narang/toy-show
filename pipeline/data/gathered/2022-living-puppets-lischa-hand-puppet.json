@@ -1,0 +1,36 @@
+{
+  "id": "2022-living-puppets-lischa-hand-puppet",
+  "year": 2022,
+  "name": "Living Puppets Lischa Hand Puppet",
+  "price_eur": 74.95,
+  "price_text": "€74.95",
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/product/puppets-and-theatres/classroom-puppets/living-puppets-lischa-hand-puppet-45cm/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://mimitoys.ie/product/puppets-and-theatres/classroom-puppets/living-puppets-lischa-hand-puppet-45cm/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lcOvTnRsN-0",
+      "channel": "Lydia Zwart",
+      "duration": 121.0,
+      "title": "EVEN VOORSTELLEN: Jip en Elly LIVING PUPPETS"
+    },
+    {
+      "id": "lCpOy0oM5Rc",
+      "channel": "Bengi and Mavi",
+      "duration": 475.0,
+      "title": "Living Puppets - Funny Summer for Kids - Bengi and Mavi - Kids Show - Kinderkanal"
+    }
+  ]
+}

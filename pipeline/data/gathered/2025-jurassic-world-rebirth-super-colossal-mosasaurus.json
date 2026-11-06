@@ -1,0 +1,57 @@
+{
+  "id": "2025-jurassic-world-rebirth-super-colossal-mosasaurus",
+  "year": 2025,
+  "name": "Jurassic World: Rebirth Super Colossal Mosasaurus",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-rebirth-super-colossal-dinosaur-action-figure-mosasaurus/p/246681"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-rebirth-super-colossal-dinosaur-action-figure-mosasaurus/p/246681",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CppgOxYNYIU",
+      "channel": "Antosaurus",
+      "duration": 790.0,
+      "title": "Super Colossal Mosasaurus Unboxing and Review | Jurassic World Rebirth Toy"
+    },
+    {
+      "id": "uTbw49DCU88",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 744.0,
+      "title": "Mattel Jurassic World Rebirth Super Colossal Mosasaurus Review!!!"
+    },
+    {
+      "id": "0ZNTi1iD2ZI",
+      "channel": "SquirrelStampede",
+      "duration": 1147.0,
+      "title": "Jurassic World Rebirth Super Colossal Mosasaurus and T Rex That Swallows Mini Dinosaurs Review"
+    },
+    {
+      "id": "o02xaNRZ5bc",
+      "channel": "Boxoffice Movie Scenes",
+      "duration": 579.0,
+      "title": "JURASSIC WORLD: REBIRTH \"Mosasaur Attacks\" Scene 4K"
+    },
+    {
+      "id": "qZ1nnazfqj8",
+      "channel": "IrwinGoji14 ",
+      "duration": 802.0,
+      "title": "New Mattel Super Colossal Mosasaurus Unboxing and Review! | Jurassic World Rebirth"
+    }
+  ]
+}

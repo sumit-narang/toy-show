@@ -1,0 +1,53 @@
+{
+  "id": "2017-roald-dahl-framed-prints",
+  "year": 2017,
+  "name": "Roald Dahl Framed Prints",
+  "price_eur": 11.0,
+  "price_text": "€11.00",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aTluxPx9hYM",
+      "channel": "JR The Old Radio Cat",
+      "duration": 4108.0,
+      "title": "\"Roald Dahl: A Little Twist of Dahl\" (2012) - 5 of Dahl's short stories."
+    },
+    {
+      "id": "IbQxz_mlrUw",
+      "channel": "Louise Anne Bateman",
+      "duration": 1717.0,
+      "title": "Dirty Beasts || Out of Print Audiobooks || Roald Dahl || Prunella Scales & Timothy West"
+    },
+    {
+      "id": "Ttu8_UcoWM0",
+      "channel": "The Monkey Grinder",
+      "duration": 2836.0,
+      "title": "Fantastic Mr Fox - Roald Dahl (1983 Dramatisation BOW109)"
+    },
+    {
+      "id": "5GrIMDBkwt4",
+      "channel": "Nostalgic Audiobooks",
+      "duration": 8232.0,
+      "title": "Roald Dahl  The Wonderful Story of Henry Sugar"
+    },
+    {
+      "id": "fHL5FOprdTg",
+      "channel": "Louise Anne Bateman",
+      "duration": 10984.0,
+      "title": "The BFG (Unabridged) || Out of Print Audiobooks || Roald Dahl || Geoffrey Palmer || Full Audiobook"
+    }
+  ]
+}

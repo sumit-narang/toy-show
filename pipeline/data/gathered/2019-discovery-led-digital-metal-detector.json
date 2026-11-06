@@ -1,0 +1,54 @@
+{
+  "id": "2019-discovery-led-digital-metal-detector",
+  "year": 2019,
+  "name": "Discovery LED Digital Metal Detector",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/discovery-led-digital-metal-detector/1600377892.prd"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/discovery-led-digital-metal-detector/1600377892.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OQ0E6VbnTn0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "Discovery Metal Detector from Explore Scientific"
+    },
+    {
+      "id": "kGnt6tBT_I8",
+      "channel": "Blue Marble STEM Toys",
+      "duration": 46.0,
+      "title": "NATIONAL GEOGRAPHIC  Metal Detector Starter Kit"
+    },
+    {
+      "id": "Ek8HRQdWy7M",
+      "channel": "Patio, Lawn & Garden | Video Catalog",
+      "duration": 148.0,
+      "title": "Bounty Hunter QSIGWP Quick Silver Metal Detector with Pin Pointer"
+    },
+    {
+      "id": "yOXBk_S9l7M",
+      "channel": "Measurekart",
+      "duration": 36.0,
+      "title": "Real Instruments HS-16 Pinpointer Metal Detector | Features, Benefits & Applications"
+    },
+    {
+      "id": "CiGi1EyLA8s",
+      "channel": "nj",
+      "duration": 98.0,
+      "title": "UNBOXING: METAL DETECTOR FOR KIDS"
+    }
+  ]
+}

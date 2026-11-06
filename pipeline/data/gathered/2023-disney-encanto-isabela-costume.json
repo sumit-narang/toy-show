@@ -1,0 +1,54 @@
+{
+  "id": "2023-disney-encanto-isabela-costume",
+  "year": 2023,
+  "name": "Disney Encanto Isabela Costume",
+  "price_eur": 55.0,
+  "price_text": "€55",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/disney-store-isabela-costume-for-kids-encanto-2841045240309M.html?isProductSearch=1&plpPosition=undefined&searchType=regular"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/disney-store-isabela-costume-for-kids-encanto-2841045240309M.html?isProductSearch=1&plpPosition=undefined&searchType=regular"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WgCIee38dl4",
+      "channel": "MmDisney200",
+      "duration": 520.0,
+      "title": "Encanto: Isabela Madrigal Hair Play doll Review & unboxing (Disney Store)"
+    },
+    {
+      "id": "uXGBDekHay8",
+      "channel": "polyruss",
+      "duration": 243.0,
+      "title": "Disney's Encanto ISABELA MADRIGAL Doll (\"What Else Can I Do?\" + \"We Don't Talk About Bruno\")"
+    },
+    {
+      "id": "0_KrYi0uCZM",
+      "channel": "thegarciasak",
+      "duration": 232.0,
+      "title": "DISNEY ENCANTO KIDS COSTUME | ISABELA, BRUNO & CAMILO COSTUMES | HALLOWEEN & BIRTHDAY PARTY"
+    },
+    {
+      "id": "wCaEHIM0VAM",
+      "channel": "Bonitas Aventuras",
+      "duration": 29.0,
+      "title": "disfraz de Isabela madrigal / película de encanto de disney"
+    },
+    {
+      "id": "DVRRtHsNuF0",
+      "channel": "lucykiins",
+      "duration": 532.0,
+      "title": "DIY ENCANTO ISABELA MADRIGAL HALLOWEEN COSTUME (Dress, Earring, Hair Clip) || Lucykiins"
+    }
+  ]
+}

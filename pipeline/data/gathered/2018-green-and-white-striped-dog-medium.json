@@ -1,0 +1,57 @@
+{
+  "id": "2018-green-and-white-striped-dog-medium",
+  "year": 2018,
+  "name": "Green and White Striped Dog (Medium)",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cOWardYNsS4",
+      "channel": "BaxterBooPets",
+      "duration": 87.0,
+      "title": "PuppyPAWer Stripe Dog Polo by Dogo - Green"
+    },
+    {
+      "id": "yibDp2koXx4",
+      "channel": "All Things Dogs",
+      "duration": 282.0,
+      "title": "Brindle Dog Breeds: 9 Beautiful Dogs with The Iconic Tiger Striped Coat!"
+    },
+    {
+      "id": "n_SPiUDpxUU",
+      "channel": "Gau Handmade",
+      "duration": 8.0,
+      "title": "Blue and White Striped Dog Sweater, Small Dog Crochet Jacket, Gift for Dog Lovers, Handmade Dog Coat"
+    },
+    {
+      "id": "oWSWG7VfGiQ",
+      "channel": "BaxterBooPets",
+      "duration": 101.0,
+      "title": "Striped Dog Polo by Dobaz - Navy and Red"
+    },
+    {
+      "id": "GnWU7furlGA",
+      "channel": "OurFitPets",
+      "duration": 218.0,
+      "title": "Tiger Stripe Pitbulls – The Ultimate Guide"
+    }
+  ]
+}

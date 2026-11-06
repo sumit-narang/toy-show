@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-construction-trucks-and-wrecking-ball-crane",
+  "year": 2023,
+  "name": "LEGO City Construction Trucks and Wrecking Ball Crane",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-construction-trucks-and-wrecking-ball-crane-60391-7301884"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-construction-trucks-and-wrecking-ball-crane-60391-7301884"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Wkhz8sxjsr4",
+      "channel": "AustrianBrickFan",
+      "duration": 565.0,
+      "title": "LEGO City 60391 Construction Trucks and Wrecking Ball Crane - LEGO Speed Build Review"
+    },
+    {
+      "id": "R0qJXiLbScw",
+      "channel": "Top Brick Builder",
+      "duration": 750.0,
+      "title": "LEGO® City Construction Trucks and Wrecking Ball Crane (60391)[235 pcs] Building Instructions | TBB"
+    },
+    {
+      "id": "FvGJjKHtZZA",
+      "channel": "Top Brick Builder Lite",
+      "duration": 429.0,
+      "title": "LEGO® City Construction Trucks and Wrecking Ball Crane (60391)[235 pcs] Speed Build | TBBL"
+    },
+    {
+      "id": "lWEqDoLsq34",
+      "channel": "Naozooh",
+      "duration": 511.0,
+      "title": "LEGO City Construction Trucks and Wrecking Ball Crane 60391 Speed build & Review"
+    },
+    {
+      "id": "1Z_ul6QkPuc",
+      "channel": "ToysMyToys",
+      "duration": 682.0,
+      "title": "Construction vehicles build a Lego Bridge"
+    }
+  ]
+}

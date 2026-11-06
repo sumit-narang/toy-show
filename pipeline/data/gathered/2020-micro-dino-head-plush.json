@@ -1,0 +1,53 @@
+{
+  "id": "2020-micro-dino-head-plush",
+  "year": 2020,
+  "name": "Micro Dino Head Plush",
+  "price_eur": 17.95,
+  "price_text": "€17.95",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WZDyN_aTgWo",
+      "channel": "Boys Playtime",
+      "duration": 612.0,
+      "title": "Dinosaur Surprise Microwave! Dinosaur Heads Transformer Big Head 전자렌지 공룡 머리 변신 쥬라기월드Tyrannosaurus"
+    },
+    {
+      "id": "JH7cipbBWnI",
+      "channel": "Toy Pals TV",
+      "duration": 294.0,
+      "title": "Micro Adventure JURASSIC WORLD REBIRTH Dinosaur Toys 🦖 Spinosaurus🦕"
+    },
+    {
+      "id": "2etUHGjli2Y",
+      "channel": "Dan Surprise",
+      "duration": 2036.0,
+      "title": "NEW Jurassic World MINIS Toys Playsets! Mosasaurus, Indominus Rex, T-Rex, Ankylosaurus, Velociraptor"
+    },
+    {
+      "id": "gs5b8TjxKNU",
+      "channel": "from littlespot",
+      "duration": 1200.0,
+      "title": "no sew mini dinosaur crochet tutorial | easy amigurumi tutorial for beginners!"
+    },
+    {
+      "id": "1Ttal_vNA5M",
+      "channel": "Forceman Bricks",
+      "duration": 265.0,
+      "title": "LEGO Micro Dinosaurs (Part 2) | Comparison"
+    }
+  ]
+}

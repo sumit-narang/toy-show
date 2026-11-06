@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-fashionistas-doll-with-wheelchair",
+  "year": 2023,
+  "name": "Barbie Fashionistas Doll with Wheelchair",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-with-wheelchair/p/217794"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-with-wheelchair/p/217794",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7Cl1W_mYY3M",
+      "channel": "Becky’s Doll Space",
+      "duration": 867.0,
+      "title": "✨ Barbie Wheelchair Doll Unboxing & Review ♿💖 | Inclusive Barbie Fashionista Fun!"
+    },
+    {
+      "id": "uapZqIf1_uk",
+      "channel": "Let's Play ",
+      "duration": 201.0,
+      "title": "Unboxing WHEELCHAIR Barbie + toy review."
+    },
+    {
+      "id": "Jgnj9qX9EHU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 122.0,
+      "title": "Barbie and Ken Fashionistas & Barbie Chelsea Wheelchair Dolls from Mattel Review!"
+    },
+    {
+      "id": "2gVU8tc5YnI",
+      "channel": "The Entertainer",
+      "duration": 21.0,
+      "title": "Barbie Fashionistas Doll With Wheelchair and Ramp Set"
+    },
+    {
+      "id": "ZN5jlWO0H70",
+      "channel": "Toys R Us South Africa",
+      "duration": 20.0,
+      "title": "Barbie Fashionistas Doll with Wheelchair and Ramp"
+    }
+  ]
+}

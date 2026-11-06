@@ -1,0 +1,65 @@
+{
+  "id": "2018-my-buddy-mcspuddy",
+  "year": 2018,
+  "name": "My Buddy McSpuddy",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://www.arnotts.ie"
+    },
+    {
+      "name": "MyBuddyMcSpuddy",
+      "url": "http://MyBuddyMcSpuddy.Com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    },
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Ad_oRZdZKtA",
+      "channel": "My Buddy Mc Spuddy",
+      "duration": 144.0,
+      "title": "My Buddy McSpuddy video"
+    },
+    {
+      "id": "4WV4PO-y26s",
+      "channel": "My Buddy Mc Spuddy",
+      "duration": 41.0,
+      "title": "My Buddy McSpuddy"
+    },
+    {
+      "id": "jcs9E_4ApQk",
+      "channel": "My Buddy Mc Spuddy",
+      "duration": 57.0,
+      "title": "On the Late Late Toy Show - My Buddy McSpuddy"
+    },
+    {
+      "id": "-B-d_dwgc_c",
+      "channel": "SHARUF!",
+      "duration": 632.0,
+      "title": "Sharuf: Our New Toy! My Buddy McSpuddy!"
+    },
+    {
+      "id": "1yGDgfww0c0",
+      "channel": "My Buddy Mc Spuddy",
+      "duration": 60.0,
+      "title": "My Buddy McSpuddy Space launch"
+    }
+  ]
+}

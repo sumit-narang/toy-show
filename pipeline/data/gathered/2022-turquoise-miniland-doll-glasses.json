@@ -1,0 +1,26 @@
+{
+  "id": "2022-turquoise-miniland-doll-glasses",
+  "year": 2022,
+  "name": "Turquoise Miniland Doll Glasses",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2021-caoilte-caillte-sa-mh-saem-le-gemma-nic-conchra",
+  "year": 2021,
+  "name": "Caoilte Caillte sa Mhúsaem le Gemma Nic Conchra",
+  "price_eur": 12.0,
+  "price_text": "€12.00",
+  "retailers": [
+    {
+      "name": "Siopa Gaeilge",
+      "url": "https://www.siopagaeilge.ie/products/caoilte-caillte-sa-mhusaem-gemma-nic-conchra"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopagaeilge.ie/products/caoilte-caillte-sa-mhusaem-gemma-nic-conchra",
+      "title": "Caoilte Caillte sa Mhúsaem – Gemma Nic Conchra",
+      "description": "Is buachaill grámhar é Caoilte ach bíonn sé i dtrioblóid ó am go ham mar gheall ar na rudaí a dhéanann sé. Nuair a théann an rang ar thuras scoile go Músaem Stair an Dúlra, bíonn Caoilte fiosrach, mar a bhíonn i gcónaí, agus faigheann sé isteach i dtrioblóid arís. Casann Caoilte le hainmhithe coimhthíocha a chuireann e",
+      "image": "http://www.siopagaeilge.ie/cdn/shop/products/CaoilteCailltesaMhusaem.jpg?v=1631281641",
+      "ld_description": "Is buachaill grámhar é Caoilte ach bíonn sé i dtrioblóid ó am go ham mar gheall ar na rudaí a dhéanann sé. Nuair a théann an rang ar thuras scoile go Músaem Stair an Dúlra, bíonn Caoilte fiosrach, mar a bhíonn i gcónaí, agus faigheann sé isteach i dtrioblóid arís. Casann Caoilte le hainmhithe coimhthíocha a chuireann eagla air, ach bíonn siad cairdiúil agus réitíonn gach rud amach go maith sa deireadh.\nIs leabhar spraíúil é seo atá lán de shamhlaíocht agus lán le léaráidí gleoite a thaitneoidh go mór le páistí idir 6-9 bliain d’aois. Tá Gaeilge shimplí síos tríd a oireann do dhaoine óga atá ag foghlaim Gaeilge.\n Caoilte is always curious and sometimes gets himself in trouble for the things he does. When his class goes on a school trip to the Natural History Museum, Caoilte’s curiosity gets the better of him again, and he lands himself in trouble. He meets some strange creatures who frighten him at first, but they turn out to be quite friendly and help him find his way.\nThis is a fun and quirky book for children. It’s full of imagination and wonderful drawings suitable for children for 6-9 years. The drawings exhibit an almost childlike innocence which children will love to discover and explore. It’s written in simple Irish which is suitable for children who are fluent or are learning Irish.\nGemma Nic Conchra\nGemma is a Dublin based artist who’s passionate about art, culture and community development. After studying architecture she went on to study illustration and art and no",
+      "brand": "Éabhlóid",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PnU2SLhK7hQ",
+      "channel": "Laureate na nÓg",
+      "duration": 33.0,
+      "title": "Give Leabhar Gaeilge - Caoilte Caillte sa Mhúsaem"
+    }
+  ]
+}

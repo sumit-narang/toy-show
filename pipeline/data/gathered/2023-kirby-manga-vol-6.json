@@ -1,0 +1,54 @@
+{
+  "id": "2023-kirby-manga-vol-6",
+  "year": 2023,
+  "name": "Kirby Manga Vol 6",
+  "price_eur": 9.89,
+  "price_text": "€9.89",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rXgAmYHjNuQ",
+      "channel": "Onioncreature",
+      "duration": 673.0,
+      "title": "Kirby Manga Mania Vol. 6 Review"
+    },
+    {
+      "id": "DjDGHqklJ0A",
+      "channel": "Onioncreature",
+      "duration": 746.0,
+      "title": "Kirby Manga Mania Vol. 9 Review"
+    },
+    {
+      "id": "OXigFFhgD08",
+      "channel": "Game Controller Network",
+      "duration": 1792.0,
+      "title": "Review EVERY Chapter of Kirby Manga Mania Volume 6 - Kirby Retrospective BONUS"
+    },
+    {
+      "id": "kRSZ03Bp02E",
+      "channel": "Onioncreature",
+      "duration": 719.0,
+      "title": "Kirby Manga Mania Vol. 7 Review"
+    },
+    {
+      "id": "S00NAnvmMZs",
+      "channel": "Backlog",
+      "duration": 8.0,
+      "title": "A Kirby Manga Is Getting An Official Translation And-"
+    }
+  ]
+}

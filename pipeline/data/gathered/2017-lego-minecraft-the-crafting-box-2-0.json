@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-minecraft-the-crafting-box-2-0",
+  "year": 2017,
+  "name": "LEGO Minecraft: The Crafting Box 2.0",
+  "price_eur": 66.49,
+  "price_text": "€66.49",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "n5YWoV6K3NQ",
+      "channel": "AustrianBrickFan",
+      "duration": 563.0,
+      "title": "Lego Minecraft 21135 Crafting Box 2.0 Version 1of3 - Lego Speed Build Review"
+    },
+    {
+      "id": "ymzCh8Thh-E",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 872.0,
+      "title": "🔄 LEGO Minecraft 2017 Crafting Box 2.0 review! 21135 re upload"
+    },
+    {
+      "id": "HguwEmOnTW4",
+      "channel": "LEGO",
+      "duration": 111.0,
+      "title": "Crafting Box 2.0 -  LEGO Minecraft - Stop Motion"
+    },
+    {
+      "id": "y8NZhNxGY3k",
+      "channel": "AustrianBrickFan",
+      "duration": 569.0,
+      "title": "Lego Minecraft 21135 Crafting Box 2 0 Version 2of3 - Lego Speed Build Review"
+    },
+    {
+      "id": "P2FUnbfAKd4",
+      "channel": "LEGO",
+      "duration": 133.0,
+      "title": "Crafting Box - LEGO Minecraft - Designer Video 21116"
+    }
+  ]
+}

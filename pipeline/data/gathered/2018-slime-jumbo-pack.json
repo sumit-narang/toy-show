@@ -1,0 +1,54 @@
+{
+  "id": "2018-slime-jumbo-pack",
+  "year": 2018,
+  "name": "Slime Jumbo Pack",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Littlewoods",
+      "url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Xxd9UqTpU48",
+      "channel": "Karina Garcia",
+      "duration": 380.0,
+      "title": "Jumbo Gold Slime + Getting Nickelodeon Slimed!"
+    },
+    {
+      "id": "z4vq2PyHR6Q",
+      "channel": "Moose Top TV Commercials",
+      "duration": 30.0,
+      "title": "GUI GUI | Mega Slime Haul | TVC | 30"
+    },
+    {
+      "id": "GJzz5oeT-JQ",
+      "channel": "Peachybbies",
+      "duration": 1026.0,
+      "title": "I Mixed Every Peachybbies Slime Together!"
+    },
+    {
+      "id": "US7DCMSRphw",
+      "channel": "Karina Garcia",
+      "duration": 887.0,
+      "title": "ADDING TOO MUCH INGREDIENTS INTO SLIME! Jumbo edition"
+    },
+    {
+      "id": "rzc3CUfjGUs",
+      "channel": "Madilynn Cameron",
+      "duration": 595.0,
+      "title": "I MIXED EVERY GUI GUI SLIME * Had to CUT my hair "
+    }
+  ]
+}

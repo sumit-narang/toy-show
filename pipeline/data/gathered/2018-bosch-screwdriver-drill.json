@@ -1,0 +1,54 @@
+{
+  "id": "2018-bosch-screwdriver-drill",
+  "year": 2018,
+  "name": "Bosch Screwdriver Drill",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre / Mothercare",
+      "url": "https://www.mothercare.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y5Nsgt_LVSo",
+      "channel": "The Bloke Cave",
+      "duration": 92.0,
+      "title": "How To Use A Bosch Drill As A Screwdriver"
+    },
+    {
+      "id": "dDzWn5a_cpQ",
+      "channel": "How To Videos And Tips",
+      "duration": 275.0,
+      "title": "How To Use Bosch PSB 1800 Battery Screwdriver/Drill : Quick Start Guide"
+    },
+    {
+      "id": "SfSLBIEsAbk",
+      "channel": "Proper DIY",
+      "duration": 984.0,
+      "title": "Which Pro Combi Drill Could be your next upgrade?"
+    },
+    {
+      "id": "sjA_zE3golg",
+      "channel": "Bosch Professional India",
+      "duration": 19.0,
+      "title": "All NEW Bosch Go 3 | Work In The Dark"
+    },
+    {
+      "id": "VN0ZE-wDcto",
+      "channel": "LRN2DIY",
+      "duration": 515.0,
+      "title": "5 Drill Features Everyone Should Know"
+    }
+  ]
+}

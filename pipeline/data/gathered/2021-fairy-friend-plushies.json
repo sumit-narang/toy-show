@@ -1,0 +1,54 @@
+{
+  "id": "2021-fairy-friend-plushies",
+  "year": 2021,
+  "name": "Fairy Friend Plushies",
+  "price_eur": 12.0,
+  "price_text": "€12.00",
+  "retailers": [
+    {
+      "name": "The Irish Fairy Door Company",
+      "url": "https://www.tipperarycrystal.ie/gifts/irish-heritage/irish-fairy-door-company/soft-toys/laylabelle-fairy-friend/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.tipperarycrystal.ie/gifts/irish-heritage/irish-fairy-door-company/soft-toys/laylabelle-fairy-friend/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ihvCWIjAc2g",
+      "channel": "Luna ́s Toys And Dolls",
+      "duration": 866.0,
+      "title": "LUNA VISITS THE FRIENDSHIP FOREST OF The BFF FAIRIES | Luna's Toys"
+    },
+    {
+      "id": "40C65FrCduw",
+      "channel": "AdventureFun!",
+      "duration": 1522.0,
+      "title": "WowWee Got2Glow Fairy Finder Electronic Fairy Jar Catches Virtual Fairies Adventure Fun Toy Review!"
+    },
+    {
+      "id": "WvJ0GL7wawQ",
+      "channel": "Erron's Dollhouse!",
+      "duration": 1336.0,
+      "title": "Disney Store Disney Fairies Dolls!"
+    },
+    {
+      "id": "cSrMWYup1aI",
+      "channel": "Tallie's Tricks",
+      "duration": 804.0,
+      "title": "Fairy Pet Finder"
+    },
+    {
+      "id": "kSGHJtdk8a4",
+      "channel": "xCanadensis",
+      "duration": 1917.0,
+      "title": "~My DISNEY FAIRIES DOLL COLLECTION~ Tinker Bell & friends!"
+    }
+  ]
+}

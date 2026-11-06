@@ -1,0 +1,57 @@
+{
+  "id": "2020-the-puppet-company-sockettes-kitty-hand-puppet",
+  "year": 2020,
+  "name": "The Puppet Company Sockettes Kitty Hand Puppet",
+  "price_eur": 17.5,
+  "price_text": "€17.50",
+  "retailers": [
+    {
+      "name": "Little Ones",
+      "url": "https://www.littleones.ie/sockette-kitty.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littleones.ie/sockette-kitty.html",
+      "title": "Little Ones - Maintenance",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TnHVDWppVw0",
+      "channel": "HitchinTV",
+      "duration": 185.0,
+      "title": "Meet The Sockettes - The Puppet Company"
+    },
+    {
+      "id": "mkCYt8hG0-o",
+      "channel": "Mimitoys - Puppets, Games and Toys",
+      "duration": 85.0,
+      "title": "Review Dressed Animals   Puppet Company"
+    },
+    {
+      "id": "4q6MBFr-IkI",
+      "channel": "Fiesta Crafts Toys",
+      "duration": 36.0,
+      "title": "Fairy Puppet with moving mouth"
+    },
+    {
+      "id": "iU-IZZA9LcU",
+      "channel": "Le Monde De La Marionnette",
+      "duration": 55.0,
+      "title": "Marionnettes Monstres Chaussettes - LMM#144 - The Puppet Company - Le Monde de la Marionnette"
+    },
+    {
+      "id": "SdA9k9rV__E",
+      "channel": "Amazon UK | Best Sellers",
+      "duration": 108.0,
+      "title": "Top 10 Marionettes [2018]: The Puppet Company - Marionette Characters - Pirate Marionette"
+    }
+  ]
+}

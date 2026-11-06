@@ -1,0 +1,60 @@
+{
+  "id": "2023-kids-ride-on-licensed-mclaren-go-kart-24v",
+  "year": 2023,
+  "name": "Kids Ride On Licensed McLaren Go Kart 24V",
+  "price_eur": 595.0,
+  "price_text": "€595",
+  "retailers": [
+    {
+      "name": "Hennessy's Outdoors",
+      "url": "https://hennessyoutdoors.ie/product/kids-ride-on-licensed-mclaren-go-kart-24v/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://koala-play.com/product/kids-ride-on-licensed-mclaren-go-kart-24v/",
+      "title": "Kids Ride On Licensed Mclaren Go Kart 24V - Koala Play",
+      "description": "This kids electric Mclaren Go Kart will be sure to put a smile on your child's face. The perfect gift for the little racer in your family.",
+      "image": "https://koala-play.com/wp-content/uploads/2025/04/Untitled-design-2-1.jpg",
+      "ld_description": "The perfect gift for the little racer in your family. This kids electric McLaren Go Kart will be sure to put a smile on your child's face. With two motors, Bluetooth music function, multifunctional steering wheel and LED lights, this powerful go cart is sure to be the talk of the neighborhood.\r\n\r\n\r\n \tElectric Pedal Control: Enjoy smooth acceleration and braking for effortless, intuitive driving.\r\n \tExciting Drift Mode: Engage drift mode for thrilling, high-speed drifts, perfect for adventurous kids.\r\n \tDual Powerful Motors: Equipped with two 555# motors for enhanced performance and power.\r\n \tMultifunctional Steering Wheel: Includes a touch button for easy control of various features.\r\n \tAdjustable Speed (8 to 12 km/h): Two speed settings for safe, adaptable driving experiences tailored to skill level.\r\n \tDurable Front EVA Tyres: Designed for superior traction and a smooth, quiet ride.\r\n \tRear Wearable Wheels: Built to handle wear and tear, ensuring long-lasting fun and durability.\r\n \tSecure Seat Belt: Provides added safety during play, keeping young drivers secure.\r\n \tEnhanced Drifting Function: Designed specifically for controlled drifting, adding an extra element of fun and skill.\r\n \tBluetooth Music with CVT: Play favorite tunes via Bluetooth while enjoying smooth transmission with Continuously Variable Transmission (CVT).\r\n \tElectronic and Foot Brake: Dual braking options ensure quick, responsive stops for added safety.\r\n \tStylish LED Lights: Bright, energy-efficient LED l",
+      "brand": null,
+      "ld_image": "https://koala-play.com/wp-content/uploads/2025/04/Untitled-design-2-1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9KDJs1c1_L4",
+      "channel": "Fitzer Family Adventures",
+      "duration": 658.0,
+      "title": "First Ride On McLaren Go-Kart Review ⚡ 24V vs 36V Licensed Kids Ride-On #firstrideon"
+    },
+    {
+      "id": "54vOVY-TRh4",
+      "channel": "828 Adrenaline Flunkies",
+      "duration": 255.0,
+      "title": "Mclaren 24V Kids Drift Cart Real World Review"
+    },
+    {
+      "id": "NeJY8IsiRIQ",
+      "channel": "Eric The Cheeseman ",
+      "duration": 99.0,
+      "title": "RiiRoo - 24v McLaren Drift Kart - Speed and drift demo!"
+    },
+    {
+      "id": "NW7i7avkpz0",
+      "channel": "First Ride On",
+      "duration": 418.0,
+      "title": "First Ride On |  McLaren Electric Go Kart Assembly Made Easy! (Full Installation & Setup)"
+    },
+    {
+      "id": "OSyGy0efAvg",
+      "channel": "Tusi Toys",
+      "duration": 40.0,
+      "title": "Tusi Toys/24V powerful mclaren kids drift go kart"
+    }
+  ]
+}

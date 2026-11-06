@@ -1,0 +1,54 @@
+{
+  "id": "2017-little-people-big-dreams-series",
+  "year": 2017,
+  "name": "Little People Big Dreams Series",
+  "price_eur": 12.5,
+  "price_text": "€12.50",
+  "retailers": [
+    {
+      "name": "Moss Cottage",
+      "url": "http://www.moss.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aiPJcorHdZY",
+      "channel": "NA",
+      "duration": 232.0,
+      "title": "Little People, BIG DREAMS: The Anthem (Official Music Video)"
+    },
+    {
+      "id": "oAh-U0WBfl4",
+      "channel": "NA",
+      "duration": 321.0,
+      "title": "David Attenborough - Little People, Big Dreams I Read Aloud I Biographies for kids"
+    },
+    {
+      "id": "vN1o6u7Zo9A",
+      "channel": "NA",
+      "duration": 339.0,
+      "title": "Amelia Earhart: Little People, Big Dreams | Read Aloud Books for Children"
+    },
+    {
+      "id": "zkD9kmJGwo8",
+      "channel": "NA",
+      "duration": 493.0,
+      "title": "Little People, BIG DREAMS: MICHAEL JORDAN READ ALOUD For Kids | Greatest Basketball Player"
+    },
+    {
+      "id": "c56fVLSjOxo",
+      "channel": "NA",
+      "duration": 167.0,
+      "title": "MAYA ANGELOU | Little People, BIG DREAMS | Read Aloud by Miss Ellis ⭐"
+    }
+  ]
+}

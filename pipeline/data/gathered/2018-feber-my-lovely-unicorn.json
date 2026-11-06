@@ -1,0 +1,54 @@
+{
+  "id": "2018-feber-my-lovely-unicorn",
+  "year": 2018,
+  "name": "Feber My Lovely Unicorn",
+  "price_eur": 234.99,
+  "price_text": "€234.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "http://www.littlewoodsireland.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Dvq7UeCZGZA",
+      "channel": "FEBER Oficial",
+      "duration": 116.0,
+      "title": "FEBER My Lovely Unicorn 12V. TUTORIAL"
+    },
+    {
+      "id": "xq1Y-vv0s74",
+      "channel": "My Little Unicorn",
+      "duration": 115.0,
+      "title": "FEBER My Lovely Unicorn Tutorial"
+    },
+    {
+      "id": "qq6XkSXxUF4",
+      "channel": "SUPERDivertilandia",
+      "duration": 1053.0,
+      "title": "My Lovely Unicorn de FEBER! Duelo y Reto de Pancakes."
+    },
+    {
+      "id": "C3fZWQ002g8",
+      "channel": "Just Kelya",
+      "duration": 757.0,
+      "title": "MY LOVELY UNICORN - La 1ère licorne électrique - un rêve qui devient réalité - FEBER"
+    },
+    {
+      "id": "8BcHhsQkjd8",
+      "channel": "Follow Me Travel",
+      "duration": 248.0,
+      "title": "MAGIC RAINBOW UNICORN RIDERS Feber my lovely unicorn"
+    }
+  ]
+}

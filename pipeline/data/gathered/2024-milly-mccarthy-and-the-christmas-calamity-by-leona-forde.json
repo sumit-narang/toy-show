@@ -1,0 +1,36 @@
+{
+  "id": "2024-milly-mccarthy-and-the-christmas-calamity-by-leona-forde",
+  "year": 2024,
+  "name": "Milly McCarthy and the Christmas Calamity by Leona Forde",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/milly-mccarthy-and-the-christmas-calamity-pb-leona-forde-9781804581018"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/milly-mccarthy-and-the-christmas-calamity-pb-leona-forde-9781804581018",
+      "title": "Milly Mccarthy And The Christmas Calamity By Leona Forde",
+      "description": "A festive school concert heads cheerfully towards disaster in Milly McCarthy And The Christmas Calamity, a funny middle-grade story. Free Delivery Over €10",
+      "image": null,
+      "ld_description": "With Christmas around the corner, Milly’s class is gearing up for their festive end-of-term concert, where everyone gets to showcase their favorite talent.\nMilly is excited to join in—though she never expected such a starring role… and, honestly, it was NOT her fault that she brought the house down (literally)!\nGet ready for a hilarious holiday mishap featuring our favorite cailín from Cork!\nIdeal for readers who:\n\nAre partial to festive stories with plenty of comic disruption\nWould relish watching a school concert edge steadily towards catastrophe\nLike children’s fiction rooted in friendships, teachers and end-of-term excitement\nPrefer humour that feels warm, busy and full of personality",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/794a2bad-2c7e-4dab-8ae6-570ea40b2853/9781804581018_5642602717.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lwmcxpRqmjg",
+      "channel": "World Book Day",
+      "duration": 259.0,
+      "title": "World Book Day 2026 Assembly Video:  Karen Harte"
+    }
+  ]
+}

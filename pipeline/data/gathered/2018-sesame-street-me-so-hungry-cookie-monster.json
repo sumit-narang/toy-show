@@ -1,0 +1,72 @@
+{
+  "id": "2018-sesame-street-me-so-hungry-cookie-monster",
+  "year": 2018,
+  "name": "Sesame Street Me So Hungry Cookie Monster",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eT7nD02Im5E",
+      "channel": "Sesame Street",
+      "duration": 315.0,
+      "title": "Sesame Street: The Hungry Games- Catching Fur (Hunger Games: Catching Fire Parody)"
+    },
+    {
+      "id": "mQE0LQFFn3s",
+      "channel": "Sesame Street",
+      "duration": 143.0,
+      "title": "Sesame Street: Cookie Monster Eating Mashup"
+    },
+    {
+      "id": "mSqislyDhW4",
+      "channel": "Didz",
+      "duration": 16.0,
+      "title": "TVC - Sesame Street Cookie Monster Puppet Me So Hungry (2002)"
+    },
+    {
+      "id": "9PnbKL3wuH4",
+      "channel": "Sesame Street",
+      "duration": 191.0,
+      "title": "Sesame Street: Me Want It (But Me Wait)"
+    },
+    {
+      "id": "DCWZzckc-6o",
+      "channel": "Treble Gnocchi ",
+      "duration": 46.0,
+      "title": "Sesame Street: Cookie Monster- H for Hungry (1973)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-classic-football-heroes-keane",
+  "year": 2025,
+  "name": "Classic Football Heroes Keane",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/matt-tom-oldfield-keane-classic-football-heroes-2024-paperback?_pos=1&_sid=2aa6a4e62&_ss=r"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/matt-tom-oldfield-keane-classic-football-heroes-2024-paperback?_pos=1&_sid=2aa6a4e62&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9XphxPGQHEA",
+      "channel": "Andreas Poke",
+      "duration": 245.0,
+      "title": "The Greatest Captain Ever – Roy Keane’s Ex-Teammates Speak Out (ft. Ronaldo, Beckham, Ferdinand) ᴴᴰ"
+    },
+    {
+      "id": "tDw_AETY27w",
+      "channel": "Kick Blitz",
+      "duration": 520.0,
+      "title": "When Football Legends Were Asked About Roy Keane…"
+    },
+    {
+      "id": "ra8AsVQucE8",
+      "channel": "gL193 Vids",
+      "duration": 3152.0,
+      "title": "Manchester United Roy Keane Football Documentary - The Best Documentary Ever"
+    },
+    {
+      "id": "qFsVbMOGQF0",
+      "channel": "Sky Sports Retro",
+      "duration": 35.0,
+      "title": "\"The number 1 rivals\" - Roy Keane on Manchester United's rivalry with Arsenal"
+    },
+    {
+      "id": "VjzSMDLIXS8",
+      "channel": "Sky Sports Retro",
+      "duration": 214.0,
+      "title": "Keane vs Vieira! 🤬 | FUNNY and AWKWARD tunnel moments!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-ultraflyers-ultraflyers",
+  "year": 2022,
+  "name": "Ultraflyers UltraFlyers",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Brainstorm Ltd",
+      "url": "https://www.brainstormltd.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://brainstormltd.co.uk/",
+      "title": "Brainstorm Ltd - educational toys, gadgets, games and gifts",
+      "description": "Brainstorm Ltd is a leading trade supplier of unique and educational toys, gadgets and gifts. We welcome all visitors to view our product range, but only trade customers can purchase from this site.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l4-BO0VUB0I",
+      "channel": "BrainstormLtd",
+      "duration": 140.0,
+      "title": "UltraFlyers"
+    },
+    {
+      "id": "UBoCKzIWrak",
+      "channel": "FloatsCz",
+      "duration": 72.0,
+      "title": "Swedish Ultraflyers"
+    },
+    {
+      "id": "fzBNxXC7Ux8",
+      "channel": "Swede58",
+      "duration": 1245.0,
+      "title": "Swedish Ultraflyers. Frölunda Fly In 2012-08-25"
+    },
+    {
+      "id": "BiP6a2V6Cjk",
+      "channel": "rubioparamotor",
+      "duration": 66.0,
+      "title": "Shark startar i Frölunda flygfält SwedishUltraflyers"
+    },
+    {
+      "id": "ikNPtYXWGek",
+      "channel": "Roman Lazunin",
+      "duration": 1191.0,
+      "title": "День открытых дверей в авиаклубе Swedish Ultraflyers 2021 Стокгольм"
+    }
+  ]
+}

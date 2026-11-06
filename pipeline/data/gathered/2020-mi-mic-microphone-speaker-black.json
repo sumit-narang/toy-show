@@ -1,0 +1,54 @@
+{
+  "id": "2020-mi-mic-microphone-speaker-black",
+  "year": 2020,
+  "name": "Mi-Mic Microphone Speaker, Black",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/mi-mic-microphone-speaker-black/1600522411.prd"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/mi-mic-microphone-speaker-black/1600522411.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c_CC_vyCxSo",
+      "channel": "Vernel FPV",
+      "duration": 795.0,
+      "title": "Unboxing of the Xiaomi Mijia K Song Microphone"
+    },
+    {
+      "id": "pbgzGwh1Sdw",
+      "channel": "Aunty Uncle",
+      "duration": 652.0,
+      "title": "Review and Unbox - Xiaomi Mijia Karaoke Bluetooth Wireless Microphone with Speaker - Great Gadget!"
+    },
+    {
+      "id": "fxUuvNq9wEk",
+      "channel": "bghlapeta.com",
+      "duration": 21.0,
+      "title": "Mi Mic - Микрофон с ефекти"
+    },
+    {
+      "id": "hBwKIrxsBsQ",
+      "channel": "HappyRider Reviews",
+      "duration": 655.0,
+      "title": "BONAOK Bluetooth Microphone UNBOX & REVIEW - Karaoke Mic With Speaker"
+    },
+    {
+      "id": "Mtbwc4NKH7I",
+      "channel": "Asher Plus",
+      "duration": 441.0,
+      "title": "Singing Billie Eillish On A Karaoke Bluetooth Speaker! [BONAOK Microphone Unboxing]"
+    }
+  ]
+}

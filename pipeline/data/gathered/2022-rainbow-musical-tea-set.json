@@ -1,0 +1,54 @@
+{
+  "id": "2022-rainbow-musical-tea-set",
+  "year": 2022,
+  "name": "Rainbow Musical Tea Set",
+  "price_eur": 34.0,
+  "price_text": "€34",
+  "retailers": [
+    {
+      "name": "BeoVERDE Ireland",
+      "url": "https://beoverde.ie/products/vilac-pretend-play-toy-musical-tea-set-rainbow?_pos=3&_sid=20cabf5ea&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://beoverde.ie/products/vilac-pretend-play-toy-musical-tea-set-rainbow?_pos=3&_sid=20cabf5ea&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XXPuGGOh2eU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 116.0,
+      "title": "Musical Rainbow Tea Party from LeapFrog"
+    },
+    {
+      "id": "BiB-VILWmGo",
+      "channel": "Mothercare Malaysia",
+      "duration": 59.0,
+      "title": "Leapfrog Musical Rainbow Tea Party"
+    },
+    {
+      "id": "gmlp05fp6bc",
+      "channel": "Kiddicare",
+      "duration": 56.0,
+      "title": "LeapFrog Musical Rainbow Tea Party"
+    },
+    {
+      "id": "oHSfklQND6k",
+      "channel": "TTPM Toy Reviews",
+      "duration": 162.0,
+      "title": "Musical Rainbow Tea Party from LeapFrog"
+    },
+    {
+      "id": "jeUeil5Tes8",
+      "channel": "Toy Tasting",
+      "duration": 58.0,
+      "title": "Leapfrog Toys | Musical Rainbow Tea Party Toy Review"
+    }
+  ]
+}

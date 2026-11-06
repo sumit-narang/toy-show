@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-giraffe-trampoline",
+  "year": 2017,
+  "name": "ELC Giraffe Trampoline",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CGwBWgVkYNs",
+      "channel": "OHO Inflatables Co., Ltd Rola Chan",
+      "duration": 28.0,
+      "title": "Inflatable Giraffe trampoline --OH4-145"
+    },
+    {
+      "id": "goaNH1llgjw",
+      "channel": "Таня Первий",
+      "duration": 65.0,
+      "title": "ELC Жираф Drop and Pop (4 мелодии, свет, 6 мячиков)"
+    },
+    {
+      "id": "iQ57X5rs36Y",
+      "channel": "Meilanisa",
+      "duration": 21.0,
+      "title": "Leisha's playing Trampoline"
+    },
+    {
+      "id": "coEkeoHozF8",
+      "channel": "Alyssa Cardona",
+      "duration": 512.0,
+      "title": "AIRHEADS TRAMPOLINE PARK | BABY COUSINS BONDING"
+    },
+    {
+      "id": "2NRjHSvCm1M",
+      "channel": "NaNa Channel",
+      "duration": 112.0,
+      "title": "ELC Luncurkan Mainan Edisi Khusus Natal Untuk Buah Hati Tercinta"
+    }
+  ]
+}

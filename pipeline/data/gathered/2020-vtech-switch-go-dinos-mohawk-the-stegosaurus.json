@@ -1,0 +1,53 @@
+{
+  "id": "2020-vtech-switch-go-dinos-mohawk-the-stegosaurus",
+  "year": 2020,
+  "name": "VTech Switch & Go Dinos Mohawk the Stegosaurus",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FlbmcR_-nOk",
+      "channel": "CollectorsDomain",
+      "duration": 850.0,
+      "title": "Vtech Switch & Go Dinos Tonn The Stegosaurus Review"
+    },
+    {
+      "id": "in9zOojW9a8",
+      "channel": "@Illi Sartang",
+      "duration": 102.0,
+      "title": "Mohawk the stegosaurus switch and go Dino from VTECH"
+    },
+    {
+      "id": "hiJBeJDdNT4",
+      "channel": "Beetoyriffic ",
+      "duration": 166.0,
+      "title": "Vtech Switch & Go Dinos - Slam the Stegosaurus"
+    },
+    {
+      "id": "dUezqg_Gh2U",
+      "channel": "CollectionDX",
+      "duration": 1335.0,
+      "title": "Switch & Go Dinos - Tonn the Stegosaurus Toy Review - CollectionDX"
+    },
+    {
+      "id": "XwtlfWIZMak",
+      "channel": "ForFranc",
+      "duration": 17.0,
+      "title": "VTech: Switch & Go Dinos: Mohawk the Stegosaurus / Tonn UK Startup & Shutdown (Dino Mode)"
+    }
+  ]
+}

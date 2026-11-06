@@ -1,0 +1,29 @@
+{
+  "id": "2017-holler-and-glow-r-u-kitten-me-nourishing",
+  "year": 2017,
+  "name": "Holler and Glow \" r u kitten me?\" Nourishing",
+  "price_eur": 4.0,
+  "price_text": "€4.00",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nHzW1B0GcfE",
+      "channel": "Tài Tetsu TV",
+      "duration": 21675.0,
+      "title": "[EP 2] Siheyuan: Courtyard Leader at 14 | Yi Zhonghai Sentenced, Lin Feng Moves His Family to the"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2021-mr-spicebag-by-freddie-alexander",
+  "year": 2021,
+  "name": "Mr Spicebag by Freddie Alexander",
+  "price_eur": 16.7,
+  "price_text": "€16.70",
+  "retailers": [
+    {
+      "name": "Nimble Fingers/Shops Nationwide",
+      "url": "https://nimblefingers.ie/products/freddie-alexander-mr-spicebag"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://nimblefingers.ie/products/freddie-alexander-mr-spicebag"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5RGY4yudsrI",
+      "channel": "Free Audiobook",
+      "duration": 305.0,
+      "title": "Mr Spicebag Audiobook by Freddie Alexander"
+    },
+    {
+      "id": "e0BHOnEqL0c",
+      "channel": "Free Audiobooks",
+      "duration": 300.0,
+      "title": "Mr Spicebag by Freddie Alexander | Full Audiobook"
+    },
+    {
+      "id": "q7b04vPu6gA",
+      "channel": "Easons Ireland",
+      "duration": 40.0,
+      "title": "Eason Edit Mr Spicebag   Available Now"
+    },
+    {
+      "id": "YSZidPzGNnU",
+      "channel": "West Cork Literary Festival",
+      "duration": 539.0,
+      "title": "Freddie Alexander"
+    },
+    {
+      "id": "GNvlfMt6RWc",
+      "channel": "Free Audiobooks",
+      "duration": 300.0,
+      "title": "Monster Island by Freddie Alexander | Full Audiobook"
+    }
+  ]
+}

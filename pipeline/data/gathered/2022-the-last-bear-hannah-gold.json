@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-last-bear-hannah-gold",
+  "year": 2022,
+  "name": "The Last Bear - Hannah Gold",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "Z0oMHDuDwm0",
+      "channel": "Spread Book Joy",
+      "duration": 403.0,
+      "title": "The Last Bear by Hannah Gold | Girl befriends polar bear | middle grade ages 8+"
+    },
+    {
+      "id": "TvGE0CVYaV8",
+      "channel": "The Book Show",
+      "duration": 1240.0,
+      "title": "Every kid needs this book! | The last Bear - Book summary| Children's book review 😇"
+    },
+    {
+      "id": "3TlZ_mHrBr4",
+      "channel": "ReadingZone Bookclub",
+      "duration": 265.0,
+      "title": "Hannah Gold  - The Last Bear"
+    },
+    {
+      "id": "a3cSAvchRxk",
+      "channel": "The Bookshop",
+      "duration": 3900.0,
+      "title": "The Last Bear by Hannah Gold"
+    },
+    {
+      "id": "l4Kw-fM0hjY",
+      "channel": "Google Play Books",
+      "duration": 928.0,
+      "title": "The Last Bear by Hannah Gold · Audiobook preview"
+    }
+  ]
+}

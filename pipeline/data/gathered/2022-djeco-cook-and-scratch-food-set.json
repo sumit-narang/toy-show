@@ -1,0 +1,54 @@
+{
+  "id": "2022-djeco-cook-and-scratch-food-set",
+  "year": 2022,
+  "name": "Djeco Cook and Scratch Food Set",
+  "price_eur": 17.5,
+  "price_text": "€17.50",
+  "retailers": [
+    {
+      "name": "Educational Toys",
+      "url": "https://www.educationaltoys.ie/products/djeco-cook-scratch-5502"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O_c8DTc-HXg",
+      "channel": "Intemenos Music for Beginners",
+      "duration": 28.0,
+      "title": "Must-have classic game. Dominoes with animals"
+    },
+    {
+      "id": "qAe5SAVLz4U",
+      "channel": "Amma Chitkalu Deepthisri",
+      "duration": 375.0,
+      "title": "TEA PARTY!!Funny Kids Toy Tea Party||Sri Pretend Play As Tea Maker In a Most Funny Way"
+    },
+    {
+      "id": "8LzNeX-CmWQ",
+      "channel": "shin",
+      "duration": 1147.0,
+      "title": "a huge back to school stationery haul 🍨 | w/ stationery pal"
+    },
+    {
+      "id": "bIjaq3fZoi4",
+      "channel": "www.YaY.bg",
+      "duration": 29.0,
+      "title": "Мини скреч карти на света за пътешествие - YaY.BG"
+    },
+    {
+      "id": "FXdDYKtqU1I",
+      "channel": "bavar",
+      "duration": 4884.0,
+      "title": "Three Families, One Unforgettable Day! Traditional Food in the Heart of Nature 🌳"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-meerkat-plush",
+  "year": 2020,
+  "name": "Meerkat Plush",
+  "price_eur": 28.95,
+  "price_text": "€28.95",
+  "retailers": [
+    {
+      "name": "Wild Ireland",
+      "url": "https://www.wildireland.org/animals-1/penguin-emperor-tg85p-nfkew"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://wildireland.org/animals-1/penguin-emperor-tg85p-nfkew"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XXfPAvtTMj8",
+      "channel": "skating2fast",
+      "duration": 357.0,
+      "title": "Meerkat Plush Mom & Dad & 4 Baby 3 25 Beige Ikea SANDLÖPARE Stuffed Animal Toy"
+    },
+    {
+      "id": "NbJB2PSEf8Y",
+      "channel": "skating2fast",
+      "duration": 359.0,
+      "title": "Meerkat Plush 1 Mom 8.5\" & 2 Baby 3.25\" Beige Ikea SANDLÖPARE Stuffed Animal Toy"
+    },
+    {
+      "id": "ODrar5LSfAw",
+      "channel": "Johnnys Amusements",
+      "duration": 41.0,
+      "title": "comparethemarket.com - Meerkat Toy advert. New July 2011"
+    },
+    {
+      "id": "5tGhx0XMTm0",
+      "channel": "MadFranko008",
+      "duration": 21.0,
+      "title": "Compare The Meerkat - Commercial 33 (Olegs Toys)"
+    },
+    {
+      "id": "fVHdV4TA9no",
+      "channel": "Compare the Meerkat Adverts",
+      "duration": 46.0,
+      "title": "Compare the Meerkat - Advert 120"
+    }
+  ]
+}

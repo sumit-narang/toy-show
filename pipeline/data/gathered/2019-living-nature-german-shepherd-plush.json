@@ -1,0 +1,57 @@
+{
+  "id": "2019-living-nature-german-shepherd-plush",
+  "year": 2019,
+  "name": "Living Nature German Shepherd Plush",
+  "price_eur": null,
+  "price_text": "£19.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Living-Nature-Soft-Toy-Shepherd/dp/B07BVDHMFN"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Living-Nature-Soft-Toy-Shepherd/dp/B07BVDHMFN",
+      "title": "Living Nature German Shepherd Soft Toy | Fluffy Dog Animal | Soft Toy Gift for Kids | 21 cm : Amazon.co.uk: Pet Supplies",
+      "description": "‎",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WSwOv7lEZEg",
+      "channel": "TwinzBaltoThunder34",
+      "duration": 58.0,
+      "title": "🌩🇯🇵Living Nature German Shepherd Plush Package🇯🇵🌩"
+    },
+    {
+      "id": "HCPQyTrp7_o",
+      "channel": "Place for plush",
+      "duration": 2376.0,
+      "title": "My german shepherd plush collection 2021"
+    },
+    {
+      "id": "lVN136aH4W0",
+      "channel": "Tropical Critters",
+      "duration": 265.0,
+      "title": "Living Nature Border Collie Plush Unboxing & Review"
+    },
+    {
+      "id": "Xn4-6CTaKj4",
+      "channel": "TwinzBaltoThunder34",
+      "duration": 66.0,
+      "title": "☀️Living Nature Husky Plush Package☀️"
+    },
+    {
+      "id": "m0aLq5KdnUE",
+      "channel": "TwinzBaltoThunder34",
+      "duration": 320.0,
+      "title": "⛈🌩⚡️German Shepherd Plush Full Updated Collection Part 1🚔🌑✝️"
+    }
+  ]
+}

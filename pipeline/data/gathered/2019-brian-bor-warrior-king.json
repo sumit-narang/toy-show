@@ -1,0 +1,67 @@
+{
+  "id": "2019-brian-bor-warrior-king",
+  "year": 2019,
+  "name": "Brian Ború: Warrior King",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/Brian-Boru-Warrior-King_9780717184569"
+    },
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/brian-boru-warrior-king-hb-9780717184569",
+      "title": "Brian Boru, the Warrior King - Dubray Books",
+      "description": "Learn about the life and times of Brian Ború in the second book in John & Fatti Burke's Little Library\n\nGet ready to make your knowledge a bit bigger by learning all about the warrior king that was Brian Ború.\n\nBrian Ború grew up in a large warrior family over 1,000 years ago in Killaloe, Co Clare. One of twelve sons, Brian and his brothers practiced raids on other counties from the River Shannon. Eventually, Brian's army and navy grew to be so big that he became King of all Ireland. But up in Dublin, the Vikings were invading. So he gathered his men and went into battle …",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Learn about the life and times of Brian Ború in the second book in John & Fatti Burke's Little Library\n\nGet ready to make your knowledge a bit bigger by learning all about the warrior king that was Brian Ború.\n\nBrian Ború grew up in a large warrior family over 1,000 years ago in Killaloe, Co Clare. One of twelve sons, Brian and his brothers practiced raids on other counties from the River Shannon. Eventually, Brian's army and navy grew to be so big that he became King of all Ireland. But up in Dublin, the Vikings were invading. So he gathered his men and went into battle …",
+      "brand": "John Burke",
+      "ld_image": "https://media.dubraybooks.ie/asset/58d7e824-c142-4111-99c8-e02345614a3e/9780717184569_5643111669.jpg"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sFwCGXy443M",
+      "channel": "Dublin City Libraries",
+      "duration": 388.0,
+      "title": "Brian Boru The Warrior King"
+    },
+    {
+      "id": "Esgmlqct-Ms",
+      "channel": "History Unhinged",
+      "duration": 1188.0,
+      "title": "Emperor of Ireland | The Life of Brian Boru"
+    },
+    {
+      "id": "KaWxHKBUMks",
+      "channel": "History Uncovered",
+      "duration": 297.0,
+      "title": "Brian Boru : The Warrior King Who United Ireland and Crushed the Vikings"
+    },
+    {
+      "id": "2YzEmiG0Vdc",
+      "channel": "Blades of Legends",
+      "duration": 308.0,
+      "title": "Brian Boru: Ireland's Warrior King"
+    },
+    {
+      "id": "585q9Ypj_Vw",
+      "channel": "dan breen",
+      "duration": 601.0,
+      "title": "brian boru part 1"
+    }
+  ]
+}

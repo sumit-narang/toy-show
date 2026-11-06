@@ -1,0 +1,57 @@
+{
+  "id": "2018-adult-salad-growing-kit",
+  "year": 2018,
+  "name": "Adult Salad Growing Kit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wj6hN9oQ4d4",
+      "channel": "Epic Gardening",
+      "duration": 1019.0,
+      "title": "Growing Lettuce, From Seed to Harvest 🌱"
+    },
+    {
+      "id": "_ok0E3wsbVE",
+      "channel": "Bold TV",
+      "duration": 170.0,
+      "title": "Show and Tell: Hamama Grow Kit"
+    },
+    {
+      "id": "c-MSLxBthGQ",
+      "channel": "Mamas Place",
+      "duration": 114.0,
+      "title": "Grow Fresh Microgreens All Year with the Tower Garden® Extension Kit 🌱"
+    },
+    {
+      "id": "0Nq2ikdzyC0",
+      "channel": "Frank Catalano",
+      "duration": 98.0,
+      "title": "MicroGreenz Kit"
+    },
+    {
+      "id": "3HOWxki5KCg",
+      "channel": "MistCulture",
+      "duration": 479.0,
+      "title": "I Tested 3 Hydroponic Kits So You Don't Have To"
+    }
+  ]
+}

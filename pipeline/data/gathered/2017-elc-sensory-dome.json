@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-sensory-dome",
+  "year": 2017,
+  "name": "ELC Sensory Dome",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "37imhJRplgk",
+      "channel": "ELC Toys",
+      "duration": 32.0,
+      "title": "Sensory Dome"
+    },
+    {
+      "id": "Cc4c1b8LDj8",
+      "channel": "Claires Inflatables",
+      "duration": 77.0,
+      "title": "sensory dome"
+    },
+    {
+      "id": "QUSs8hUCNfQ",
+      "channel": "Dali Wiriano",
+      "duration": 492.0,
+      "title": "#Elc#Elcindo.Mainan Tenda Little sense.(ELC) Light and sound Activity Dome.#SensoryDome#Elcindo"
+    },
+    {
+      "id": "JDBx58XIfHI",
+      "channel": "Dunnfield Events and Leisure",
+      "duration": 37.0,
+      "title": "Sensory Dome"
+    },
+    {
+      "id": "DImBfNS4GDY",
+      "channel": "Dragonswood100",
+      "duration": 100.0,
+      "title": "Sensory Dome Video By Dragonswood"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2022-declan-kirby-gaa-star-away-days",
+  "year": 2022,
+  "name": "Declan Kirby GAA Star: Away Days",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "RYWpskPLnq4",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1726.0,
+      "title": "All The Reaction To Kerrys All Ireland Win 👏 Spillane Retirment | Brolly Lashes out 😡"
+    },
+    {
+      "id": "j_c8umL3SlU",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 596.0,
+      "title": "Discussing The Lack Of GAA Coverage In 2022"
+    },
+    {
+      "id": "GGUwpv7kgrE",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1935.0,
+      "title": "Dan Morrissey Interview: Winning 3 All Irelands | 2018 Breakthrough | John Kiely Influence & More"
+    },
+    {
+      "id": "pjEPtE7YrHw",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1729.0,
+      "title": "Can Crossmaglen Get Back On Top In Armagh? Clann Eireanns Fairytale | 2021 Armagh SFC Final Preview"
+    },
+    {
+      "id": "c7NWWehNyrA",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1364.0,
+      "title": "LIVE REACTION TO DUBLIN RELEGATION | Monaghan 3-13 Dublin 1-18 | Livestream Highlights"
+    }
+  ]
+}

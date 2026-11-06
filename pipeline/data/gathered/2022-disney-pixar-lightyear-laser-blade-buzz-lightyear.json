@@ -1,0 +1,54 @@
+{
+  "id": "2022-disney-pixar-lightyear-laser-blade-buzz-lightyear",
+  "year": 2022,
+  "name": "Disney Pixar Lightyear Laser Blade Buzz Lightyear",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/mthhj76?_pos=11&_sid=75bdbd704&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/mthhj76?_pos=11&_sid=75bdbd704&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bZ8KIq9GGCY",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "AD: Disney Pixar Lightyear Laser Blade Buzz Lightyear Figure"
+    },
+    {
+      "id": "HZTymGwUfoE",
+      "channel": "TTPM Toy Reviews",
+      "duration": 73.0,
+      "title": "DISNEY PIXAR LIGHTYEAR! Laser Blade Buzz Lightyear Action Figure from Mattel Review!"
+    },
+    {
+      "id": "G9981zuwFbc",
+      "channel": "The Entertainer",
+      "duration": 43.0,
+      "title": "Disney Pixar Lightyear Laser Blade Buzz Lightyear 30cm Figure"
+    },
+    {
+      "id": "xTWULPbYXqM",
+      "channel": "TodayIGrewUP",
+      "duration": 605.0,
+      "title": "Lightyear Mission Gear Belt Visor and Laser Blade DX Review"
+    },
+    {
+      "id": "v6e7jqD6flA",
+      "channel": "See Rad",
+      "duration": 848.0,
+      "title": "Disney Pixar Lightyear LASER BLADE BUZZ  12\" Action Figure With 30 Sounds REVIEW"
+    }
+  ]
+}

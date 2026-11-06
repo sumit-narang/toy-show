@@ -1,0 +1,69 @@
+{
+  "id": "2018-lego-city-arctic-expedition-mobile-exploration-base",
+  "year": 2018,
+  "name": "LEGO City Arctic Expedition Mobile Exploration Base",
+  "price_eur": 77.0,
+  "price_text": "€77.00",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kZYW2bF8dVg",
+      "channel": "LEGO",
+      "duration": 83.0,
+      "title": "Mobile Exploration Base 60195 – LEGO City - Arctic Expedition"
+    },
+    {
+      "id": "OVpOAHnjOzY",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1049.0,
+      "title": "🔄 LEGO City 2018 Arctic Mobile Exploration Base review! 60195 re upload"
+    },
+    {
+      "id": "LXvY4odC2dE",
+      "channel": "Levic Bricks",
+      "duration": 726.0,
+      "title": "LEGO 60195 City Arctic Expedition Arctic Mobile Exploration Base Speed Build"
+    },
+    {
+      "id": "RsGigOlYQ34",
+      "channel": "AustrianBrickFan",
+      "duration": 694.0,
+      "title": "Lego City 60195 Arctic Mobile Exploration Base - Lego Speed Build Review"
+    },
+    {
+      "id": "rMKYlP5V78M",
+      "channel": "K&M786 LEGO Reviews",
+      "duration": 1076.0,
+      "title": "LEGO City 60195 Arctic Mobile Exploration Base Review."
+    }
+  ]
+}

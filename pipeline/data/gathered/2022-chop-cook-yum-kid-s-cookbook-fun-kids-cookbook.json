@@ -1,0 +1,57 @@
+{
+  "id": "2022-chop-cook-yum-kid-s-cookbook-fun-kids-cookbook",
+  "year": 2022,
+  "name": "Chop, Cook Yum! Kid's Cookbook Fun kids cookbook",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Cool Food School",
+      "url": "https://www.thecoolfoodschool.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thecoolfoodschool.ie/",
+      "title": "The Cool Food School",
+      "description": "The Cool Food School was created for fussy eaters, promoting healthy eating in a fun and interactive environment for kids of all ages. We teach cooking and food education in schools and sell cool products like a safe knife and peeler, kids cookbook, Pick Plate, reusable sandwich bags and more.",
+      "image": "http://static1.squarespace.com/static/5cee582906a8060001305436/t/677833288b2aaa32408dc9f6/1735930664629/cool-food-school---horizontal-logo-full-color.png?format=1500w"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UMFK4A41RW0",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 2082.0,
+      "title": "Learn Food Names and Colors with a Toy Kitchen and Paw Patrol Ice Cream!"
+    },
+    {
+      "id": "aHsgzHDnLyM",
+      "channel": "Smile and Learn - English",
+      "duration": 288.0,
+      "title": "COOKING VERBS for Kids - Peel, Chop, Fry, Toast, Blend... - Episode 1"
+    },
+    {
+      "id": "Akn5MfeE2aE",
+      "channel": "The Family Fudge",
+      "duration": 675.0,
+      "title": "School Lunchbox Ideas for when You're OUT OF TIME! (NO Cooking Required)"
+    },
+    {
+      "id": "bxDzT354t1M",
+      "channel": "IvryDBook",
+      "duration": 134.0,
+      "title": "Easy Breezy Cooking |Kids Music"
+    },
+    {
+      "id": "BPu7HNfMvlw",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 2230.0,
+      "title": "Teach Kids Colors, 123s, Food Names - Best Toy Learning Videos for Kids - Educational Preschool Toys"
+    }
+  ]
+}

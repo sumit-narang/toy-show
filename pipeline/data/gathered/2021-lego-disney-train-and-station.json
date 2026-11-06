@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-disney-train-and-station",
+  "year": 2021,
+  "name": "LEGO Disney Train and Station",
+  "price_eur": 299.0,
+  "price_text": "€299.00",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-gb/product/disney-train-and-station-71044"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-gb/product/disney-train-and-station-71044"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "20hCCzwXHIM",
+      "channel": "AustrianBrickFan",
+      "duration": 2199.0,
+      "title": "Lego Disney 71044 Disney Train and Station - Lego Speed Build Review"
+    },
+    {
+      "id": "0zEGrcBjal0",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1929.0,
+      "title": "🔄 LEGO Disney 2019 Train & Station review! 71044 re upload"
+    },
+    {
+      "id": "nlkWX-eKaLk",
+      "channel": "LEGO",
+      "duration": 321.0,
+      "title": "LEGO Disney Train and Station | Designer Video 71044"
+    },
+    {
+      "id": "ejvO-RzKtzc",
+      "channel": "MADABOUTLEGO",
+      "duration": 580.0,
+      "title": "LEGO Disney Train."
+    },
+    {
+      "id": "lNdqr119nKs",
+      "channel": "Bricksie",
+      "duration": 848.0,
+      "title": "Buying the Disney Train & Station from the LEGO Store"
+    }
+  ]
+}

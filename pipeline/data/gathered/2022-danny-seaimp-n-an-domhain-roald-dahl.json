@@ -1,0 +1,44 @@
+{
+  "id": "2022-danny-seaimp-n-an-domhain-roald-dahl",
+  "year": 2022,
+  "name": "Danny Seaimpín an Domhain - Roald Dahl",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "ecj_J5SGoZ4",
+      "channel": "The Folio Society",
+      "duration": 40.0,
+      "title": "The Roald Dahl Collection | Exclusively from The Folio Society"
+    },
+    {
+      "id": "QlCwOqcIvwk",
+      "channel": "Page Pulse By Lee",
+      "duration": 585.0,
+      "title": "Danny the Champion of the World | Roald Dahl Book Summary & Review | Page Pulse by Lee"
+    },
+    {
+      "id": "_jicnA4fd3U",
+      "channel": "FozBox",
+      "duration": 14319.0,
+      "title": "Danny the Champion of the World by Roald Dahl"
+    },
+    {
+      "id": "J4SvDjSdZSw",
+      "channel": "Creative stories",
+      "duration": 549.0,
+      "title": "Book Review of Road Dahl, Danny The Champion Of The World"
+    },
+    {
+      "id": "BXPrU20NQQs",
+      "channel": "Louise Anne Bateman",
+      "duration": 13935.0,
+      "title": "Danny the Champion of the World || Out of Print Audiobooks || Roald Dalh || Will Young"
+    }
+  ]
+}

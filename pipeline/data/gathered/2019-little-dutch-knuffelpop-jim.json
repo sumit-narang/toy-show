@@ -1,0 +1,57 @@
+{
+  "id": "2019-little-dutch-knuffelpop-jim",
+  "year": 2019,
+  "name": "Little Dutch Knuffelpop Jim",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Kid Store",
+      "url": "https://kidstore.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kidstore.ie/password",
+      "title": "KID store",
+      "description": "Unlock the magic of playtime with our luxurious wooden toys and beautiful gifts at KID. Ignite your child's imagination and inspire their creativity with our carefully curated collection. As an Irish-owned and family-run business, we handpick each item with love. Shop now to explore our enchanting world of play.",
+      "image": "http://kidstore.ie/cdn/shop/files/KID-Store-KID-Store-Dublin.jpg?height=628&pad_color=fff&v=1689268829&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IQnS70sDfKo",
+      "channel": "CuCuToys",
+      "duration": 15.0,
+      "title": "Little Dutch - Jim, muñeco de trapo especial navidad, en CuCuToys"
+    },
+    {
+      "id": "TTyA7jxVf7E",
+      "channel": "For Baby",
+      "duration": 15.0,
+      "title": "Little Dutch Panenka Jim s lékařskou sadou"
+    },
+    {
+      "id": "IbWXUpP_N60",
+      "channel": "HanBene TOYS",
+      "duration": 327.0,
+      "title": "Little Dutch-Magnetic Playboard- Dress up Jim & Rosa (fun,play,toy,kids, HanBene TOYS)"
+    },
+    {
+      "id": "fSbi63rzJ70",
+      "channel": "For Baby",
+      "duration": 13.0,
+      "title": "Little Dutch panenky Mila a Jim"
+    },
+    {
+      "id": "cjNI0H-62u0",
+      "channel": "Little Dutch",
+      "duration": 16.0,
+      "title": "Little Dutch | New Cuddle Dolls - Julia & Evi"
+    }
+  ]
+}

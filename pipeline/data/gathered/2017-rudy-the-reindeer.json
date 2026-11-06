@@ -1,0 +1,53 @@
+{
+  "id": "2017-rudy-the-reindeer",
+  "year": 2017,
+  "name": "Rudy The Reindeer",
+  "price_eur": 16.95,
+  "price_text": "€16.95",
+  "retailers": [
+    {
+      "name": "Lush",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HtjMG0JMlH0",
+      "channel": "Pawtales Studio",
+      "duration": 181.0,
+      "title": "Rudy the Reindeer's Lost Bell 🦌 | Moral Story for Kids | Pawtales Studio"
+    },
+    {
+      "id": "fKcBPMVFs2g",
+      "channel": "superb pingoo",
+      "duration": 376.0,
+      "title": "Rudy the Reindeer’s Silly Adventure 🎄🦌🎁| An Animated Christmas Story for Kids in English 🎅🛷🔔"
+    },
+    {
+      "id": "VjL031bE9FA",
+      "channel": "TinyDreams Stories",
+      "duration": 151.0,
+      "title": "Rudolph the Red Nosed Reindeer | Christmas Song For Kids | Merry Christmas"
+    },
+    {
+      "id": "fJQqOzkcHjg",
+      "channel": "Christmas Songs and Carols - Love to Sing",
+      "duration": 95.0,
+      "title": "Rudolph the Red Nosed Reindeer With Lyrics | Christmas Songs and Carols"
+    },
+    {
+      "id": "QYHRBFyepJk",
+      "channel": "Napperly",
+      "duration": 259.0,
+      "title": "Rudy the Reindeer: A Bedtime Story for Kids! Lost Dreamers & Glowing Noses!"
+    }
+  ]
+}

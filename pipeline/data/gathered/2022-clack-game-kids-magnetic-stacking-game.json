@@ -1,0 +1,57 @@
+{
+  "id": "2022-clack-game-kids-magnetic-stacking-game",
+  "year": 2022,
+  "name": "Clack Game - Kids Magnetic Stacking Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Cogs The Brain Shop",
+      "url": "https://cogsthebrainshop.ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/",
+      "title": "Cogs Toys & Games Ireland",
+      "description": "Cogs Toys & Games Ireland (formerly Cogs the Brain Shop) stocks a genius collection of fun quality products designed to build better brains and learn through play whatever your age.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sRxTxPKjDd0",
+      "channel": "JustUsGirls",
+      "duration": 518.0,
+      "title": "Clack Game - The Magnetic Stacking Game"
+    },
+    {
+      "id": "szJJTHR6dDY",
+      "channel": "CR Toys, Kearney NE",
+      "duration": 77.0,
+      "title": "How To Play: Clack!"
+    },
+    {
+      "id": "Tiol-rJLb9A",
+      "channel": "Amigo Games",
+      "duration": 25.0,
+      "title": "CLACK! The magnetic game that clacks as you stack"
+    },
+    {
+      "id": "ywlZrKSnZVk",
+      "channel": "AMIGOGames",
+      "duration": 89.0,
+      "title": "Clack! Categories Trailer"
+    },
+    {
+      "id": "cWOqoA4HIs8",
+      "channel": "AMIGOGames",
+      "duration": 63.0,
+      "title": "CLACK! Trailer from AMIGO Games"
+    }
+  ]
+}

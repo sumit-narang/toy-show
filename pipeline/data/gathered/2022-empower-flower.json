@@ -1,0 +1,54 @@
+{
+  "id": "2022-empower-flower",
+  "year": 2022,
+  "name": "Empower Flower",
+  "price_eur": null,
+  "price_text": "£19.99",
+  "retailers": [
+    {
+      "name": "Very",
+      "url": "https://www.very.co.uk/empower-flower/1600773650.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.co.uk/empower-flower/1600773650.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "un8YCM9DAkM",
+      "channel": "The Flower Empowered",
+      "duration": 692.0,
+      "title": "12-Minute Pelvic Floor Relaxation for Vaginismus & Pelvic Pain"
+    },
+    {
+      "id": "ytF7e8YuUyo",
+      "channel": "FWIWI",
+      "duration": 201.0,
+      "title": "Flower Empower - Please watch before you come!"
+    },
+    {
+      "id": "GD6ZH53YTEw",
+      "channel": "AgroTill",
+      "duration": 2313.0,
+      "title": "Started From ₹1000 🌸 Now ₹70 Crores turnover 🔥 India’s 🇮🇳 largest flower farm | Agrotill #farming"
+    },
+    {
+      "id": "2yx0_PK0Q-4",
+      "channel": "The Flower Empowered",
+      "duration": 890.0,
+      "title": "Relax Your Pelvic Floor in 15 minutes - Release Pelvic Tension"
+    },
+    {
+      "id": "b4d8Pet8AOs",
+      "channel": "New China TV",
+      "duration": 120.0,
+      "title": "GLOBALink | How technologies empower flower production in China's Yunnan"
+    }
+  ]
+}

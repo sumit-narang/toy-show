@@ -1,0 +1,54 @@
+{
+  "id": "2019-fao-schwarz-fashion-designer-activity-set",
+  "year": 2019,
+  "name": "FAO Schwarz Fashion Designer Activity Set",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/creativity/fao-schwarz/fashion-plates-designer-set/141781138.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/creativity/fao-schwarz/fashion-plates-designer-set/141781138.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k2w6gScLqjU",
+      "channel": "FAO Schwarz",
+      "duration": 52.0,
+      "title": "FAO Schwarz Designer Fashion Plates Set"
+    },
+    {
+      "id": "KvcBzjMBlZA",
+      "channel": "Taters Gonna Tate",
+      "duration": 231.0,
+      "title": "Jaime Demonstrates Fashion Plates - March 26 2017"
+    },
+    {
+      "id": "Iiqwto4f3SU",
+      "channel": "토이트론TV",
+      "duration": 52.0,
+      "title": "[F.A.O슈와츠] 패션 디자이너 DIY 세트 #FAO #SCHWARZ #장난감"
+    },
+    {
+      "id": "XXQ45QHAc7o",
+      "channel": "Redlands Distribution",
+      "duration": 24.0,
+      "title": "FAO Product Girls DIY Sneaker Designer Set"
+    },
+    {
+      "id": "3wRR83-lNG0",
+      "channel": "FAO Schwarz",
+      "duration": 50.0,
+      "title": "FAO Schwarz Drawing Light Designer"
+    }
+  ]
+}

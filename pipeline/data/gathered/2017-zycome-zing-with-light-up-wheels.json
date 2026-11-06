@@ -1,0 +1,64 @@
+{
+  "id": "2017-zycome-zing-with-light-up-wheels",
+  "year": 2017,
+  "name": "Zycome Zing with Light Up Wheels",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EequtLebWzg",
+      "channel": "Zycomotion",
+      "duration": 112.0,
+      "title": "Lifestyle in Motion | Zycom Zing"
+    },
+    {
+      "id": "3xACX_r78fc",
+      "channel": "INLINEX - Online Skate Shop",
+      "duration": 31.0,
+      "title": "Scooter for Kids, Scooter for Nursery, Zycom Zing Scooter"
+    },
+    {
+      "id": "fdS-RHIFMac",
+      "channel": "JnC CORNER",
+      "duration": 487.0,
+      "title": "NEW TRANSPORT GADGET FOR CAELA AND  JC -  A SCOOTER !!! ZYCOM ZINGER REVIEW"
+    },
+    {
+      "id": "1qp8RA_e06E",
+      "channel": "Mumzworld",
+      "duration": 124.0,
+      "title": "Zycom - Zinger 3 Wheel Cruiser"
+    },
+    {
+      "id": "3ls-g_MuZ6U",
+      "channel": "Zycomotion",
+      "duration": 118.0,
+      "title": "Zycom Mini Assembly"
+    }
+  ]
+}

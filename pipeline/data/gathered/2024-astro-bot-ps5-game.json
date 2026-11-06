@@ -1,0 +1,60 @@
+{
+  "id": "2024-astro-bot-ps5-game",
+  "year": 2024,
+  "name": "Astro Bot PS5 Game",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "PlayStation",
+      "url": "https://www.playstation.com/en-ie/games/astro-bot/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.playstation.com/en-ie/games/astro-bot/",
+      "title": "ASTRO BOT - PS5 Games | PlayStation",
+      "description": "Join ASTRO in a brand-new, supersized space adventure!",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
+      "ld_description": "JOIN ASTRO ON A SUPERSIZED SPACE ADVENTURE",
+      "brand": null,
+      "ld_image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Vf3Kpi_OZqE",
+      "channel": "IGN",
+      "duration": 683.0,
+      "title": "Astro Bot Review"
+    },
+    {
+      "id": "0VutHSZVHOA",
+      "channel": "GamingBolt",
+      "duration": 597.0,
+      "title": "Astro Bot PS5 Review - A MUST-PLAY FOR GAMERS"
+    },
+    {
+      "id": "unYFdcEjV9k",
+      "channel": "PlayStation",
+      "duration": 122.0,
+      "title": "Astro Bot - Launch Trailer | PS5 Games"
+    },
+    {
+      "id": "gUl8FdkBgpg",
+      "channel": "packattack04082",
+      "duration": 27167.0,
+      "title": "ASTRO BOT - Full Game 100% Walkthrough"
+    },
+    {
+      "id": "h0FFljgpMYM",
+      "channel": "PlayStation",
+      "duration": 44.0,
+      "title": "Play Finds a Way with PlayStation Portal | PS5"
+    }
+  ]
+}

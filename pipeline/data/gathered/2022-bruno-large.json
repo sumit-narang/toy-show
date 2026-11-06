@@ -1,0 +1,54 @@
+{
+  "id": "2022-bruno-large",
+  "year": 2022,
+  "name": "BRUNO LARGE",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4YrzJ9RZ9qY",
+      "channel": "Dan Music",
+      "duration": 225.0,
+      "title": "Bruno Mars - Grenade (Lyrics)"
+    },
+    {
+      "id": "qndur-T9wsQ",
+      "channel": "Primz",
+      "duration": 163.0,
+      "title": "Indian Die With A Smile - FULL PARODY (Bruno Mars)"
+    },
+    {
+      "id": "zgaCZOQCpp8",
+      "channel": "7clouds",
+      "duration": 250.0,
+      "title": "Lady Gaga, Bruno Mars - Die With A Smile (Lyrics)"
+    },
+    {
+      "id": "PSj0ByF_NVk",
+      "channel": "Toshi Aizawa",
+      "duration": 160.0,
+      "title": "Bruno Mars - \"Finesse\" [4K] - Best of Bruno Mars Live at Tokyo Dome 2024-01-21"
+    },
+    {
+      "id": "bacyPhVb4sc",
+      "channel": "Royal Stag Barrel Select Shorts",
+      "duration": 649.0,
+      "title": "Bruno & Juliet | Imtiaz Ali Short Film | Royal Stag Barrel Select Shorts"
+    }
+  ]
+}

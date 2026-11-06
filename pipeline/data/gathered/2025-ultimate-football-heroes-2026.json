@@ -1,0 +1,54 @@
+{
+  "id": "2025-ultimate-football-heroes-2026",
+  "year": 2025,
+  "name": "Ultimate Football Heroes 2026",
+  "price_eur": 9.49,
+  "price_text": "€9.49",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/ultimate-football-heroes-2026-new-edition-matt-tom-oldfield-9781789469028"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/ultimate-football-heroes-2026-new-edition-matt-tom-oldfield-9781789469028"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y_ohB-mrDJE",
+      "channel": "Ultimate Football Heroes",
+      "duration": 642.0,
+      "title": "Can You Guess This Lioness in 6 Clues? | Ultimate Football Heroes"
+    },
+    {
+      "id": "ktzVdkVpKhA",
+      "channel": "Free Audiobook",
+      "duration": 305.0,
+      "title": "Ultimate Football Heroes: Vinícius Júnior Audiobook by Ultimate Football Heroes"
+    },
+    {
+      "id": "lkRqKKh5njc",
+      "channel": "Books 4 People",
+      "duration": 68.0,
+      "title": "Ultimate Football Heroes Series 2 10 Books Collection Set – Football Stars Collection for Kids"
+    },
+    {
+      "id": "5N-tTQVmSts",
+      "channel": "Full Audiobook",
+      "duration": 305.0,
+      "title": "Bellingham (Ultimate Football Heroes - The No.1 football series): Collect them all! - Matt Oldfield"
+    },
+    {
+      "id": "PX1M2LRpvmo",
+      "channel": "Google Play Books",
+      "duration": 1142.0,
+      "title": "Ultimate Football Heroes: Grealish (Wing… by Matt & Tom Oldfield · Audiobook preview"
+    }
+  ]
+}

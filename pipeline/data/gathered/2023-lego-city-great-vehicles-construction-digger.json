@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-great-vehicles-construction-digger",
+  "year": 2023,
+  "name": "LEGO City Great Vehicles Construction Digger",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-great-vehicles-construction-digger-60385-7301707"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-great-vehicles-construction-digger-60385-7301707"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bZu_7N0QmT0",
+      "channel": "MADABOUTLEGO",
+      "duration": 250.0,
+      "title": "LEGO City Construction Digger 60385."
+    },
+    {
+      "id": "vYf3DGaCGxU",
+      "channel": "AustrianBrickFan",
+      "duration": 359.0,
+      "title": "LEGO City 60385 Construction Digger - LEGO Speed Build Review"
+    },
+    {
+      "id": "yWddhfXkYng",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 390.0,
+      "title": "LEGO City 2023 Construction Digger 60385 review! Very good value, but missing a couple play details"
+    },
+    {
+      "id": "93mF0qlXd74",
+      "channel": "Tiago Catarino",
+      "duration": 534.0,
+      "title": "LEGO City Construction Mobile Crane and Excavator (REVIEW)"
+    },
+    {
+      "id": "qkErXyG3Bxc",
+      "channel": "All New Bricks",
+      "duration": 322.0,
+      "title": "Lego City 60420 Yellow Construction Excavator Speed Build"
+    }
+  ]
+}

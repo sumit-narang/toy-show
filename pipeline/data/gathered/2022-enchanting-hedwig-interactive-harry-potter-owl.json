@@ -1,0 +1,57 @@
+{
+  "id": "2022-enchanting-hedwig-interactive-harry-potter-owl",
+  "year": 2022,
+  "name": "Enchanting Hedwig Interactive Harry Potter Owl",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/wizarding-world-enchanting-hedwig-interactive-harry-potter-owl/p/197875"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/wizarding-world-enchanting-hedwig-interactive-harry-potter-owl/p/197875",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hHJ2PpGs-9g",
+      "channel": "TTPM Toy Reviews",
+      "duration": 146.0,
+      "title": "SECRET MESSAGE FROM HEDWIG!😱 Wizarding World Harry Potter Enchanting Hedwig Review!"
+    },
+    {
+      "id": "EZeIYW5Rb9c",
+      "channel": "Waldmeier AG",
+      "duration": 204.0,
+      "title": "Spinmaster Wizarding World interactive Hedwig"
+    },
+    {
+      "id": "mYmgJlew5Gk",
+      "channel": "Upside Down Toys",
+      "duration": 420.0,
+      "title": "Wizarding World Enchanted Hedwig Unboxing Review | The Upside Down Robot"
+    },
+    {
+      "id": "zY6tmNBRTEU",
+      "channel": "JAKKS Pacific",
+      "duration": 16.0,
+      "title": "Harry Potter™ Hedwig™ Interactive Creature Commercial | JAKKS Pacific"
+    },
+    {
+      "id": "9kzb2iXTfxI",
+      "channel": "Children's Toy Channel",
+      "duration": 38.0,
+      "title": "Harry Potter Enchanting Hedwig Toy"
+    }
+  ]
+}

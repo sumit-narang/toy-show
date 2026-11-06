@@ -1,0 +1,60 @@
+{
+  "id": "2019-ugears-wooden-models",
+  "year": 2019,
+  "name": "UGears Wooden Models",
+  "price_eur": 49.9,
+  "price_text": "€49.90",
+  "retailers": [
+    {
+      "name": "UGears",
+      "url": "https://ugearsmodels.com/roadster.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://ugearsmodels.com/products/roadster",
+      "title": "Roadster VM-01",
+      "description": "Roadster VM-01  Ugears introduces an exquisitely elegant and impressively fast Roadster VM-01 sports car. The unique charisma of the model comes from both its outstanding technical characteristics and detailed, realistic retro design. The clever combination of plywood elements of different thicknesses—4 and 2 mm—ensure",
+      "image": "http://ugearsmodels.com/cdn/shop/files/1bc40432ce68f640fbe350ac0c5a12ce.png?v=1746467505",
+      "ld_description": "Roadster VM-01 \nUgears introduces an exquisitely elegant and impressively fast Roadster VM-01 sports car. The unique charisma of the model comes from both its outstanding technical characteristics and detailed, realistic retro design. The clever combination of plywood elements of different thicknesses—4 and 2 mm—ensures the motorcar’s body looks streamlined and refined. Open the hood to see the powerful V8 engine and watch the moving valves.\nYour sports car offers three driving modes: Forward, Reverse, and Idle. The direction can be adjusted using the functional steering wheel. Front-wheel suspension enhances the model’s realism. Powered by a rubber band motor, the car covers up to four meters on a single winding. The winding key is styled as a spare wheel at the rear. This wooden sports car has plenty to ignite your imagination—we invite you to discover its features yourself. Take your friends and family on a nostalgic ride and enjoy the fun with the Ugears Roadster VM-01!\n\nRoadster VM-01 features:\n\nPowered by a rubber band motor\nTravels up to 4 meters on a single winding\nRealistic V8 engine with moving valves\n3 transmission modes: Forward, Reverse, and Idle\nSteering wheel adjusts driving direction\nFront wheel suspension for added realism\nSpare wheel-styled winding key\n\n\nDIY wooden car features:\n\nIconic vintage design with sleek, streamlined body   \nLaser-pre-cut wooden parts\nAssembles without glue or special tools\nStep-by-step instructions in 11 languages\nFree replacement p",
+      "brand": "UGEARS",
+      "ld_image": "https://ugearsmodels.com/cdn/shop/files/1bc40432ce68f640fbe350ac0c5a12ce.png?v=1746467505&width=1521"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ezzCpJxSJG8",
+      "channel": "Grommet",
+      "duration": 72.0,
+      "title": "UGEARS | Wooden Model Building Kits"
+    },
+    {
+      "id": "eziusvxQkyM",
+      "channel": "Coop's Creations",
+      "duration": 5797.0,
+      "title": "UGEARS Star Wars Tie Fighter Wooden 3D Model, Complete Build and Review (Extended Version)"
+    },
+    {
+      "id": "TDjQiUmq0sk",
+      "channel": "Ugears Models",
+      "duration": 61.0,
+      "title": "New Ugears models: the Antique Wooden Box and the Butterfly Model-Automaton"
+    },
+    {
+      "id": "YgMSoVy4RLw",
+      "channel": "Ukidz Toys",
+      "duration": 3240.0,
+      "title": "UGears Theater Mechanical Wooden model assembly video by Ukidz Toys"
+    },
+    {
+      "id": "s8eSHxGRyTk",
+      "channel": "Ugears Models",
+      "duration": 59.0,
+      "title": "🎁 Looking for the perfect gift? Choose Ugears 3D wooden puzzles!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-happyland-pp-dragon-set",
+  "year": 2017,
+  "name": "Happyland PP & Dragon Set",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dZ0e3voQcyM",
+      "channel": "GiggleBlaggle Toys!",
+      "duration": 443.0,
+      "title": "Matchbox Pop Up Pirate Land Adventure Set - Unboxing and Demonstration"
+    },
+    {
+      "id": "n3xTYMrfb3c",
+      "channel": "RAJAT NAG SPECIALS",
+      "duration": 1071.0,
+      "title": "Happy Land Park Nepal | Happy Land Park from Siliguri | Happy Land Fun Park Ticket Price |Nepal Tour"
+    },
+    {
+      "id": "84Bl66VnzYU",
+      "channel": "OSWALD VLOGS",
+      "duration": 449.0,
+      "title": "Happy Land Fun Park Nepal || Surunga|| First Quick Visit|| Oswald Vlogs"
+    },
+    {
+      "id": "j2MxEMwZOrI",
+      "channel": "Ly203 Productions (Les Productions Ly203)",
+      "duration": 2163.0,
+      "title": "Happyland Adventures Full Playthrough (Windows)"
+    },
+    {
+      "id": "KiYXFn0cZSc",
+      "channel": "Early Learning Centre",
+      "duration": 53.0,
+      "title": "Happyland Race"
+    }
+  ]
+}

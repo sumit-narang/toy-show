@@ -1,0 +1,54 @@
+{
+  "id": "2022-50-times-football-changed-the-world",
+  "year": 2022,
+  "name": "50 Times Football Changed the World",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Bookstation",
+      "url": "https://www.bookstation.ie/product/50-times-football-changed-the-world/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://bookstation.ie/product/50-times-football-changed-the-world"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1XM4Gzf_IBw",
+      "channel": "Guardian Live",
+      "duration": 3781.0,
+      "title": "Gary Lineker: 50 Times Football Changed the World"
+    },
+    {
+      "id": "wWOCN9vj_10",
+      "channel": "Google Play Books",
+      "duration": 645.0,
+      "title": "50 Times Football Changed the World by Gary Lineker · Audiobook preview"
+    },
+    {
+      "id": "Qu2ve7-YarQ",
+      "channel": "Full Audiobook",
+      "duration": 297.0,
+      "title": "50 Times Football Changed the World by Gary Lineker | Full Audiobook"
+    },
+    {
+      "id": "KIjMoOZwSPk",
+      "channel": "Otter Clips",
+      "duration": 297.0,
+      "title": "50 Times Football Changed the World by Gary Lineker | Full Audiobook"
+    },
+    {
+      "id": "_8ggEN2ODqQ",
+      "channel": "Chuffsters",
+      "duration": 1376.0,
+      "title": "Every Time I Score, The Football CHANGES!"
+    }
+  ]
+}

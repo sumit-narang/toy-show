@@ -1,0 +1,54 @@
+{
+  "id": "2025-lego-minecraft-warden-encounter",
+  "year": 2025,
+  "name": "LEGO Minecraft Warden Encounter",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/lego-construction/lego/minecraft-the-warden-encounter/2001176988.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/toys/lego-construction/lego/minecraft-the-warden-encounter/2001176988.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6NoZXUq5ywA",
+      "channel": "AJ BRICKS",
+      "duration": 489.0,
+      "title": "This Lego Minecraft Set Makes NO SENSE...| The Warden Encounter Set 21274 Review"
+    },
+    {
+      "id": "sibslLZ2qu0",
+      "channel": "AustrianBrickFan",
+      "duration": 393.0,
+      "title": "LEGO Minecraft 21274 The Warden Encounter Speed Build"
+    },
+    {
+      "id": "sMA_-MW3L2o",
+      "channel": "Cheesey Studios",
+      "duration": 695.0,
+      "title": "The Deep Dark Battle! LEGO Minecraft 21246 Early Review"
+    },
+    {
+      "id": "waPjiBBMkHQ",
+      "channel": "DuckBricks",
+      "duration": 335.0,
+      "title": "The Warden Encounter - EARLY Summer Review: Minecraft Set 21274"
+    },
+    {
+      "id": "GUCjj2xqums",
+      "channel": "MotionMine Studios",
+      "duration": 328.0,
+      "title": "Warden Encounter - LEGO Minecraft stop motion animation"
+    }
+  ]
+}

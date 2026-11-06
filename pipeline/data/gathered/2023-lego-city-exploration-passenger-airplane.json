@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-exploration-passenger-airplane",
+  "year": 2023,
+  "name": "LEGO City Exploration Passenger Airplane",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-exploration-passenger-airplane-60367-7301918"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-exploration-passenger-airplane-60367-7301918"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "o6ESY2jzVCk",
+      "channel": "All New Bricks",
+      "duration": 564.0,
+      "title": "Lego City 60367 Passenger Airplane Speed Build"
+    },
+    {
+      "id": "0G4Wvj3qcFI",
+      "channel": "AustrianBrickFan",
+      "duration": 1080.0,
+      "title": "LEGO City 60367 Passenger Airplane Speed Build Review"
+    },
+    {
+      "id": "67cvECPOZSo",
+      "channel": "All New Bricks",
+      "duration": 485.0,
+      "title": "Lego City 60262 Passenger Airplane Speed Build"
+    },
+    {
+      "id": "liSbtDFqaIM",
+      "channel": "Bricks By Mind",
+      "duration": 1071.0,
+      "title": "LEGO City Passenger Airplane Review! LEGO City Set 60367"
+    },
+    {
+      "id": "KpOGifpGNSU",
+      "channel": "All New Bricks",
+      "duration": 411.0,
+      "title": "Lego City 60104 Airport Passenger Terminal Speed Build"
+    }
+  ]
+}

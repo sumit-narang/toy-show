@@ -1,0 +1,57 @@
+{
+  "id": "2024-sticki-rolls-sticki-book",
+  "year": 2024,
+  "name": "Sticki Rolls Sticki Book",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-book/p/238406"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-book/p/238406",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XmnLPv45Ufg",
+      "channel": "Jess Lavenders",
+      "duration": 1052.0,
+      "title": "Unboxing the Series 3 Sticki Book Pack!"
+    },
+    {
+      "id": "FVhqqcTkpKU",
+      "channel": "Jess Lavenders",
+      "duration": 1133.0,
+      "title": "Unboxing the SERIES 2 Sticki Rolls Book!"
+    },
+    {
+      "id": "kcuyZJixQOc",
+      "channel": "Tallie's Tricks",
+      "duration": 961.0,
+      "title": "Sticki Rolls Sticki Book and Sticki Station Series 2"
+    },
+    {
+      "id": "eIePiWtlQY0",
+      "channel": "Jess Lavenders",
+      "duration": 1570.0,
+      "title": "Unboxing the brand new Sticki Rolls product: Sticki Mates!"
+    },
+    {
+      "id": "2fJY2vH2D9Q",
+      "channel": "VIVIZONE",
+      "duration": 2665.0,
+      "title": "ASMR Sticki Rolls Mega Unboxing 😻 44+ Minutes | 1000+ Holographic Stickers | No Talking"
+    }
+  ]
+}

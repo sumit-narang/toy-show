@@ -1,0 +1,53 @@
+{
+  "id": "2020-poopsie-dancing-unicorn",
+  "year": 2020,
+  "name": "Poopsie Dancing Unicorn",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "84HjYazRADE",
+      "channel": "Gregory Pail Kid",
+      "duration": 113.0,
+      "title": "Poopsie Slime Surprise - 'My Poops (Getting Loopy Off My Poopy)' (Official Music Video) 🌈💩🌈"
+    },
+    {
+      "id": "QcQQmOmHvvI",
+      "channel": "Jesse Perez",
+      "duration": 18.0,
+      "title": "Poopsie The Dancing Rainbow Unicorn"
+    },
+    {
+      "id": "ZJw2_sa2i9E",
+      "channel": "Tekzii",
+      "duration": 488.0,
+      "title": "Poopsie Dancing \"Unicorn.\" The toy that shouldn't exist"
+    },
+    {
+      "id": "DgEwMW4HKzs",
+      "channel": "penguinz0",
+      "duration": 351.0,
+      "title": "My Most Disappointing Moment of 2020"
+    },
+    {
+      "id": "6_-5Rqy1t84",
+      "channel": "#CollectTheRainbow",
+      "duration": 121.0,
+      "title": "🌈All Poopsie Slime Surprise Commercials !💩"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-topmodel-dress-me-up-big-rebel-kitty",
+  "year": 2025,
+  "name": "TOPModel Dress Me Up Big REBEL KITTY",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/topmodel-dress-me-up-big-rebel-kittysept-6366426"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/topmodel-dress-me-up-big-rebel-kittysept-6366426",
+      "title": "TOPModel Dress Me Up Big REBEL KITTY",
+      "description": "TOPModel Dress Me Up: the sticker book all about fashion and style, here with  lots of kitten-inspired stickers. FREE delivery over €10",
+      "image": null,
+      "ld_description": "TOPModel Dress Me Up: the sticker book all about fashion and style, here with  lots of kitten-inspired stickers. 20 pages with female and male TOPModel  figures are waiting to be covered with cool looks (2 sheets of foil stickers,  5 sheets of paper stick",
+      "brand": "TOPModel",
+      "ld_image": "https://www.easons.com/images/m/127af81fbf6524b9/original/6366426_5638264019.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9BziPDI26vE",
+      "channel": "NA",
+      "duration": 1038.0,
+      "title": "TOPModel dress me up sticker book, cutie star-dress 24 Pages sticker for Design (Chim Xinh channel)"
+    },
+    {
+      "id": "L4-y1QKc_LU",
+      "channel": "NA",
+      "duration": 906.0,
+      "title": "HÌNH DÁN THAY TRANG PHỤC CÔNG CHÚA - Sticker top model dress me up (Chim Xinh)"
+    },
+    {
+      "id": "7AWo20w0sNk",
+      "channel": "NA",
+      "duration": 21.0,
+      "title": "Design Idea I TOPModel DressMeUp I Stickerbuch"
+    },
+    {
+      "id": "biF2toGMAy0",
+      "channel": "NA",
+      "duration": 723.0,
+      "title": "Kawaii Sticker Girl Dress Up 👗✨ | Cute Paper Doll Collection #sticker #kawaii"
+    },
+    {
+      "id": "-0qthJBwGXE",
+      "channel": "NA",
+      "duration": 1228.0,
+      "title": "New Cheats in this INDIAN BIKE DRIVING 3d Copy Game😱 IRONMAN"
+    }
+  ]
+}

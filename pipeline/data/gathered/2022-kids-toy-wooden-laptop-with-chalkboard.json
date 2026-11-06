@@ -1,0 +1,67 @@
+{
+  "id": "2022-kids-toy-wooden-laptop-with-chalkboard",
+  "year": 2022,
+  "name": "Kids Toy Wooden Laptop with chalkboard",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Stork & Co",
+      "url": "https://stork-co.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://leeelectricsupply.net/LES",
+      "title": "OMACUAN ⛩️ Situs Slot Gacor Resmi & Slot Deposit 5K Anti Rungkad",
+      "description": "OMACUAN adalah situs slot gacor resmi dengan slot deposit 5K yang anti rungkad. Nikmati permainan stabil, transaksi mudah, dan pengalaman bermain lebih nyaman tanpa modal besar.",
+      "image": "https://imgmahasuhu.io/images/2026/09/12/ssitus-slot.jpeg",
+      "ld_description": "OMACUAN adalah situs slot gacor resmi dengan slot deposit 5K yang anti rungkad. Nikmati permainan stabil, transaksi mudah, dan pengalaman bermain lebih nyaman tanpa modal besar.",
+      "brand": "OMACUAN",
+      "ld_image": {
+        "@type": "ImageObject",
+        "@context": "https://schema.org",
+        "author": "OMACUAN",
+        "contentURL": "https://imgmahasuhu.io/images/2026/09/12/ssitus-slot.jpeg",
+        "description": "OMACUAN adalah situs slot gacor resmi dengan slot deposit 5K yang anti rungkad. Nikmati permainan stabil, transaksi mudah, dan pengalaman bermain lebih nyaman tanpa modal besar.",
+        "thumbnail": "https://imgmahasuhu.io/images/2026/09/12/ssitus-slot.jpeg"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "znraQc03iq4",
+      "channel": "Technybirds STEM Toys",
+      "duration": 43.0,
+      "title": "Techny Birds Laptop Blackboard"
+    },
+    {
+      "id": "hv_Oc5i7gKE",
+      "channel": "What's on Sale Today",
+      "duration": 111.0,
+      "title": "Kid's Art Easel with Magnetic Whiteboard"
+    },
+    {
+      "id": "YpqyskH5_Fc",
+      "channel": "Littlevey Shop",
+      "duration": 35.0,
+      "title": "Portable easel with blackboard and chalk"
+    },
+    {
+      "id": "PX1F8xjllSE",
+      "channel": "HMH Store ",
+      "duration": 49.0,
+      "title": "𝐖𝐨𝐨𝐝𝐞𝐧 𝐌𝐚𝐠𝐧𝐞𝐭𝐢𝐜 𝐖𝐡𝐢𝐭𝐞 & 𝐁𝐥𝐚𝐜𝐤 𝐁𝐨𝐚𝐫𝐝"
+    },
+    {
+      "id": "o80NqTv9xrU",
+      "channel": "Longabba",
+      "duration": 30.0,
+      "title": "Creative Magnetic Blackboard"
+    }
+  ]
+}

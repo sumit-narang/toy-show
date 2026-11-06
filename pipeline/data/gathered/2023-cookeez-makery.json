@@ -1,0 +1,60 @@
+{
+  "id": "2023-cookeez-makery",
+  "year": 2023,
+  "name": "Cookeez Makery",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Beattys",
+      "url": "https://www.beattys.ie/products/cookeez-makery-oven-playset"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/products/cookeez-makery-oven-playset",
+      "title": "Cookeez Makery Oven Playset",
+      "description": "Cookeez Makery, a sweet-scented warm plush that’s a recipe for fun. With an oven playset, kids mix and make dough to create a furry new friend. After popping their dough creation in the oven, the plush version comes out warm to the touch and scented like bread or cinnamon. There’s a puppy, bunny and kitten to collect a",
+      "image": "http://www.beattys.ie/cdn/shop/files/10158425-993557.jpg?crop=center&height=1200&v=1724399584&width=1200",
+      "ld_description": "Cookeez Makery, a sweet-scented warm plush that’s a recipe for fun. With an oven playset, kids mix and make dough to create a furry new friend. After popping their dough creation in the oven, the plush version comes out warm to the touch and scented like bread or cinnamon. There’s a puppy, bunny and kitten to collect and they all make sweet sounds when they’re squeezed and hugged.Age: 5+",
+      "brand": "Brand_Beattys Toys",
+      "ld_image": "https://www.beattys.ie/cdn/shop/files/10158425-993557.jpg?v=1724399584&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QSlGtWzu7QI",
+      "channel": "Moose Top TV Commercials",
+      "duration": 143.0,
+      "title": "Cookeez Makery I Oven Playset How to video"
+    },
+    {
+      "id": "M5vu6qzOFXA",
+      "channel": "VIVIZONE",
+      "duration": 2503.0,
+      "title": "40+ Minutes ASMR Cookeez Makery Surprise Toys Oddly Satisfying Unboxing"
+    },
+    {
+      "id": "tVK0uZLu0ZQ",
+      "channel": "Explore with Amelia",
+      "duration": 513.0,
+      "title": "Cookeez Makery Cake Stuffy is So Fun!"
+    },
+    {
+      "id": "EZ3heYrAVfE",
+      "channel": "Rhia Official",
+      "duration": 1042.0,
+      "title": "UNBOXING THE *VIRAL* COOKEEZ MAKERY FREEZY FRIDGE🥶🎂PANCAKE TREATZ😱🥞AND MYSTERY BAGLES!!!🫢🥯⁉️ (OMG!!)"
+    },
+    {
+      "id": "gFoBWZhXV_4",
+      "channel": "NerdECrafter",
+      "duration": 1766.0,
+      "title": "DON'T BUY!! Hello Kitty Cookeez Makery Scented Plushies Honest Review"
+    }
+  ]
+}

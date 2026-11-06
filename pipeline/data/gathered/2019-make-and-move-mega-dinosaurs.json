@@ -1,0 +1,54 @@
+{
+  "id": "2019-make-and-move-mega-dinosaurs",
+  "year": 2019,
+  "name": "Make and Move Mega Dinosaurs",
+  "price_eur": 12.5,
+  "price_text": "€12.50",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "https://shop.designist.ie/collections/kids/products/make-move-mega-dinosaurs"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://shop.designist.ie/collections/kids/products/make-move-mega-dinosaurs"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ORDymT86_pQ",
+      "channel": "Blippi - Educational Videos for Kids",
+      "duration": 3920.0,
+      "title": "Blippi's Big Dino Adventure! Full Dinosaur MOVIE with Blippi and Meekah!"
+    },
+    {
+      "id": "jY4JlLN5dmE",
+      "channel": "PAW Patrol Official & Friends",
+      "duration": 93.0,
+      "title": "How to Play with the Rocky Megasaurus Dino Vehicle! | Unboxing & Setup"
+    },
+    {
+      "id": "A1NjbRifrp8",
+      "channel": "Blippi - Educational Videos for Kids",
+      "duration": 245.0,
+      "title": "Blippi and Meekah's Go to the Dino Dance Movie! Music Videos for Kids"
+    },
+    {
+      "id": "NSoinEryKNA",
+      "channel": "Tudor Totz - Learning Videos for Kids!",
+      "duration": 534.0,
+      "title": "Meet the Dinosaurs! | Epic Dino Diorama with an Erupting Volcano!"
+    },
+    {
+      "id": "5XREz5UNGNg",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "JURASSIC WORLD THRASH 'N' DEVOUR TYRANNOSAURUS REX figure    | AD"
+    }
+  ]
+}

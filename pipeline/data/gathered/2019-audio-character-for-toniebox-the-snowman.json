@@ -1,0 +1,61 @@
+{
+  "id": "2019-audio-character-for-toniebox-the-snowman",
+  "year": 2019,
+  "name": "Audio Character for Toniebox: The Snowman",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-snowman"
+    },
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-snowman"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P-Q_RS0Wl8c",
+      "channel": "Jill's Tonie Clips",
+      "duration": 67.0,
+      "title": "The Snowman Tonie for Toniebox"
+    },
+    {
+      "id": "XlF-XLYKEfw",
+      "channel": "Jill's Tonie Clips",
+      "duration": 186.0,
+      "title": "The Snowman Tonie for Toniebox"
+    },
+    {
+      "id": "zopBDPK32fA",
+      "channel": "Top Products",
+      "duration": 27.0,
+      "title": "Frozen Elsa Tonie Figure Review | Songs & Story for Toniebox"
+    },
+    {
+      "id": "-C0Nbri5yDE",
+      "channel": "Totally Tonies",
+      "duration": 605.0,
+      "title": "Totally Tonies: The Snowman and the Snow Dog: 10 Minute Audio Sample"
+    },
+    {
+      "id": "IDzrbREqvaw",
+      "channel": "ToniesWorld",
+      "duration": 516.0,
+      "title": "Anna Tonie-Audio Tonie"
+    }
+  ]
+}

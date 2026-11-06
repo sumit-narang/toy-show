@@ -1,0 +1,64 @@
+{
+  "id": "2017-mimic-mee-monkey",
+  "year": 2017,
+  "name": "Mimic Mee Monkey",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FOAr6kfTffA",
+      "channel": "Tewbre",
+      "duration": 1895.0,
+      "title": "Mimic Monkey copies ANY other Tower but STRONGER! (BTD 6)"
+    },
+    {
+      "id": "Wg3v45ObF_E",
+      "channel": "Worthwhile Pursuits",
+      "duration": 215.0,
+      "title": "Mimic Me Maui the Monkey - An Educational Monkey See, Monkey Do Family Experience!"
+    },
+    {
+      "id": "FIxYCDbRGJc",
+      "channel": "Dan Zaleski",
+      "duration": 39.0,
+      "title": "Monkey Sees A Magic Trick"
+    },
+    {
+      "id": "js6vpXCkgIo",
+      "channel": "Worthwhile Pursuits",
+      "duration": 127.0,
+      "title": "Mimic Me Maui the Monkey, a monkey see, monkey do game!"
+    },
+    {
+      "id": "UQ-RMor15nQ",
+      "channel": "NotGamerFleet",
+      "duration": 2220.0,
+      "title": "I BECAME AN EVIL MONKEY IN VR 😱😭| Funniest"
+    }
+  ]
+}

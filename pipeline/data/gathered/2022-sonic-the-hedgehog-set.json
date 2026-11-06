@@ -1,0 +1,54 @@
+{
+  "id": "2022-sonic-the-hedgehog-set",
+  "year": 2022,
+  "name": "Sonic the Hedgehog Set",
+  "price_eur": 80.0,
+  "price_text": "€80",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/sonic-the-hedgehog-green-hill-zone-21331"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/sonic-the-hedgehog-green-hill-zone-21331"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wfHq1GznyKI",
+      "channel": "LEGO",
+      "duration": 113.0,
+      "title": "The Most Action-Packed Sonic LEGO Sets are Finally Here 💥 | LEGO"
+    },
+    {
+      "id": "ZegN2hYsurY",
+      "channel": "Optimistic Bricks",
+      "duration": 631.0,
+      "title": "Every LEGO Sonic Set... Seriously, All of Them."
+    },
+    {
+      "id": "YYF0VVBYhXQ",
+      "channel": "AustrianBrickFan and AustrianBrickFan - German",
+      "duration": 1784.0,
+      "title": "All LEGO Sonic the Hedgehog Summer sets 2024 Compilation/Collection Speed Build"
+    },
+    {
+      "id": "MbqXmdCFZHk",
+      "channel": "STUDS",
+      "duration": 845.0,
+      "title": "I built EVERY SONIC the HEDGEHOG LEGO set..."
+    },
+    {
+      "id": "e41La8AWaCo",
+      "channel": "STUDS",
+      "duration": 1120.0,
+      "title": "I built Sonic 3 LEGO sets..."
+    }
+  ]
+}

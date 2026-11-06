@@ -1,0 +1,57 @@
+{
+  "id": "2018-count-with-me-book-elephant-shape",
+  "year": 2018,
+  "name": "Count With Me Book (Elephant Shape)",
+  "price_eur": 8.95,
+  "price_text": "€8.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3G4g0_cPVrM",
+      "channel": "Winfun Indonesia",
+      "duration": 27.0,
+      "title": "Winfun - Learn With Me Elephant - 000695"
+    },
+    {
+      "id": "AM-buzbt_r8",
+      "channel": "made.by.balybina",
+      "duration": 225.0,
+      "title": "Quiet Book #76 \"Baby Girl Elephant\" | IN STOCK"
+    },
+    {
+      "id": "QZN_yzhUdu4",
+      "channel": "DisneyMusicVEVO",
+      "duration": 90.0,
+      "title": "Colonel Hathi's March (The Elephant Song) (From \"The Jungle Book\"/Sing-Along)"
+    },
+    {
+      "id": "KhtPbAWtYio",
+      "channel": "made.by.balybina",
+      "duration": 275.0,
+      "title": "Quiet Book #72 \"Baby Boy Elephant\" IN STOCK"
+    },
+    {
+      "id": "T-Xcq5VDrV0",
+      "channel": "Going The Extra Mile ",
+      "duration": 187.0,
+      "title": "Teach Your Kids About Money in a Few EASY Steps"
+    }
+  ]
+}

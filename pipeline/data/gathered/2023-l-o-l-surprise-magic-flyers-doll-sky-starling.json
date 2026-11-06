@@ -1,0 +1,57 @@
+{
+  "id": "2023-l-o-l-surprise-magic-flyers-doll-sky-starling",
+  "year": 2023,
+  "name": "L.O.L. Surprise! Magic Flyers Doll - Sky Starling",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/collectable-dolls/l-o-l-surprise/l-o-l-surprise-magic-flyers-doll-sky-starling/p/223144"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/collectable-dolls/l-o-l-surprise/l-o-l-surprise-magic-flyers-doll-sky-starling/p/223144",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fRy_WR96rhw",
+      "channel": "VIVIZONE",
+      "duration": 123.0,
+      "title": "LOL Surprise Magic Flyers ASMR Unboxing 🧚🏼| Flying LOL Doll Sky Starling #lolsurprise #asmr"
+    },
+    {
+      "id": "gstu2MIe6IY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 79.0,
+      "title": "L.O.L. Surprise! Magic Flyers"
+    },
+    {
+      "id": "v3_rpvxEQPU",
+      "channel": "Toys May",
+      "duration": 60.0,
+      "title": "LOL Flying Doll Surprise Magic Flyers 🍭🧚🏻‍♀️ Sky Starling"
+    },
+    {
+      "id": "XZlpsXSCNr4",
+      "channel": "BananasMom",
+      "duration": 271.0,
+      "title": "Playing With Our New LOL Surprise Magic Flyers Doll!"
+    },
+    {
+      "id": "KvorEP85gQk",
+      "channel": "Bored House Flies",
+      "duration": 1115.0,
+      "title": "LOL Surprise! Magic Flyers| Adult Collector Review"
+    }
+  ]
+}

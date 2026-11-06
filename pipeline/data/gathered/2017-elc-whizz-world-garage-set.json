@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-whizz-world-garage-set",
+  "year": 2017,
+  "name": "ELC Whizz World Garage Set",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "881T3pjJBa0",
+      "channel": "Didi’s Channel",
+      "duration": 83.0,
+      "title": "ELC Early Learning Centre Whizz World Lights and Sounds Garage"
+    },
+    {
+      "id": "ABACPIDZrNI",
+      "channel": "Early Learning Centre",
+      "duration": 46.0,
+      "title": "Whizz Around Garage - Early Learning Centre"
+    },
+    {
+      "id": "l2BvvdQWmWg",
+      "channel": "Didi’s Channel",
+      "duration": 20.0,
+      "title": "ELC Whizz World Lights and Sounds Emergency Centre with lights and sounds"
+    },
+    {
+      "id": "Z4IypX04GB0",
+      "channel": "ELC Toys",
+      "duration": 31.0,
+      "title": "Whizz World Mountain Set"
+    },
+    {
+      "id": "kWp-XQdh_jY",
+      "channel": "Early Learning Centre",
+      "duration": 32.0,
+      "title": "Whizz world Collection"
+    }
+  ]
+}

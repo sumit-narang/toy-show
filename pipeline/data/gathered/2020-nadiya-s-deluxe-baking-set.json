@@ -1,0 +1,54 @@
+{
+  "id": "2020-nadiya-s-deluxe-baking-set",
+  "year": 2020,
+  "name": "Nadiya's Deluxe Baking Set",
+  "price_eur": 26.3,
+  "price_text": "€26.30",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Nadiya-Hussain-TY6147-Nadiyas-Childrens/dp/B08FJGJJTQ/ref=sr_1_1?dchild=1&keywords=nadiya+deluxe+baking+set&qid=1606436473&s=kids&sr=1-1"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Nadiya-Hussain-TY6147-Nadiyas-Childrens/dp/B08FJGJJTQ/ref=sr_1_1?dchild=1&keywords=nadiya+deluxe+baking+set&qid=1606436473&s=kids&sr=1-1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8VVoea6F6pQ",
+      "channel": "Nadiya's Bake Me A Story",
+      "duration": 215.0,
+      "title": "Nadiya's Bake Me A Story: Introducing The Deluxe Set"
+    },
+    {
+      "id": "ozzg54zT8Rw",
+      "channel": "Nadiya's Bake Me A Story",
+      "duration": 24.0,
+      "title": "Nadiya's Bake Me A Story: Introducing The New Range"
+    },
+    {
+      "id": "qXo6XiAZAf8",
+      "channel": "Cookbook Divas",
+      "duration": 257.0,
+      "title": "Cookbook Preview: Nadiya's Bake Me a Festive Story by Nadiya Hussein (2018)"
+    },
+    {
+      "id": "YG_EZdvlqGw",
+      "channel": "Nadiya's Bake Me A Story",
+      "duration": 176.0,
+      "title": "Nadiya's Bake Me A Story: Introducing the Savoury Set"
+    },
+    {
+      "id": "W5XvsNwCubc",
+      "channel": "Nadiya's Bake Me A Story",
+      "duration": 145.0,
+      "title": "Nadiya's Bake Me A Story: Introducing the Simple Set"
+    }
+  ]
+}

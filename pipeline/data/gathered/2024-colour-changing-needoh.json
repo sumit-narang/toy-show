@@ -1,0 +1,60 @@
+{
+  "id": "2024-colour-changing-needoh",
+  "year": 2024,
+  "name": "Colour-changing NeeDoh",
+  "price_eur": 4.95,
+  "price_text": "€4.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/colour-changing-nee-doh"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/colour-changing-nee-doh",
+      "title": "Colour Changing Nee Doh",
+      "description": "Shop Colour Changing NeeDoh at Cogs Toys & Games Ireland. A squishy fidget toy that shifts colour as you squeeze it. Ages 3+.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/ne.jpg?v=1683532592",
+      "ld_description": "Colour Changing Nee Doh\n\n\nMesmerizing stress ball that changes colour when squeezed, creating a fun and calming visual effect 🌈\n\n\nFilled with Nee Doh’s signature soft, squishy, non-toxic compound that always returns to its original shape\n\n\nEncourages sensory exploration, focus, and emotional regulation, making it ideal for kids and adults\n\n\nProvides stress relief and calming tactile input, perfect for reducing anxiety or boosting concentration\n\n\nDurable and safe for everyday use; made with child-friendly materials and free from harmful chemicals\n\n\nPortable size, great for travel, classrooms, therapy sessions, or quiet play at home\n\n\nRecommended for ages 3 and up, making it suitable for a wide range of users\n\n\nWatch the magic unfold in your hand as the Colour Changing Nee Doh reacts to touch and pressure with shifting hues—offering both a deeply satisfying squish and a relaxing visual escape.",
+      "brand": "NeeDoh",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zDLO4ZXQx6U",
+      "channel": "Curious Minds Toys",
+      "duration": 28.0,
+      "title": "Color change Nee Doh ball"
+    },
+    {
+      "id": "lLMvTrB3JAs",
+      "channel": "June H",
+      "duration": 21.0,
+      "title": "Color Changing NeeDoh®"
+    },
+    {
+      "id": "4D3MkN834wg",
+      "channel": "faye Haughey ",
+      "duration": 16.0,
+      "title": "Colour changing needoh!!!"
+    },
+    {
+      "id": "IplbhLBTpUo",
+      "channel": "Lee Productions ",
+      "duration": 79.0,
+      "title": "Color Changing Nee Doh Unboxing By Analyses"
+    },
+    {
+      "id": "pAmwJMK2vu0",
+      "channel": "#1 fidget lover ",
+      "duration": 328.0,
+      "title": "My Entire NeeDoh Collection (Squishy ASMR) 🫧"
+    }
+  ]
+}

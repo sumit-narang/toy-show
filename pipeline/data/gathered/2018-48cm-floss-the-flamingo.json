@@ -1,0 +1,38 @@
+{
+  "id": "2018-48cm-floss-the-flamingo",
+  "year": 2018,
+  "name": "48cm Floss the Flamingo",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": []
+}

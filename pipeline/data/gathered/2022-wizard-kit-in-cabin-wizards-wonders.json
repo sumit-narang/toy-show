@@ -1,0 +1,65 @@
+{
+  "id": "2022-wizard-kit-in-cabin-wizards-wonders",
+  "year": 2022,
+  "name": "Wizard kit in cabin, Wizards & Wonders",
+  "price_eur": null,
+  "price_text": "£15",
+  "retailers": [
+    {
+      "name": "International Elf Service",
+      "url": "https://internationalelfservice.com/shop/product/roots-fantastical-matters-twig-6-personalised-stream-stem-subscription-learning/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://internationalelfservice.com/shop/product/roots-fantastical-matters-twig-6-personalised-stream-stem-subscription-learning/",
+      "title": "For curious 7-12 year olds!",
+      "description": "Magical tales of mystery, wizards, spells & more … fantastical screen-free learning with optional creative upcycling activities. For curious 7-12 year olds.",
+      "image": "https://internationalelfservice.com/wp-content/uploads/2021/06/IES_Wizards_Roots_Flatlay_15-120_internationalelfservice.com_Sticker.webp",
+      "ld_description": "Magical tales of mystery, wizards, spells & more … fantastical screen-free learning with optional creative upcycling activities. For curious 9-12 year olds.",
+      "brand": null,
+      "ld_image": {
+        "@type": "ImageObject",
+        "url": "https://internationalelfservice.com/wp-content/uploads/2021/06/IES_Wizards_Roots_Flatlay_15-120_internationalelfservice.com_Sticker.webp",
+        "height": "900",
+        "width": "900"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NC_u0WChyvA",
+      "channel": "Dungeon Dudes",
+      "duration": 1643.0,
+      "title": "Wizard Guide - Classes in Dungeons and Dragons 5e"
+    },
+    {
+      "id": "QwKOtoTDLd0",
+      "channel": "Get Sleepy",
+      "duration": 7320.0,
+      "title": "✨MAGICAL & COZY✨ \"The Wizard of Grugglewig Wood\" Sleepy Story - Relaxing Story for Sleep"
+    },
+    {
+      "id": "s1Ylmj87gXY",
+      "channel": "Disney Channel",
+      "duration": null,
+      "title": "🔴LIVE 24/7! Wizards of Waverly Place Season 1 Full Episodes! 🔮 | Disney Channel"
+    },
+    {
+      "id": "Nd0beTmpfVA",
+      "channel": "Enchanted Ambience",
+      "duration": 7204.0,
+      "title": "THE WIZARD'S LIBRARY | MAGICAL FANTASY MUSIC & AMBIENCE"
+    },
+    {
+      "id": "hYuguNKkkjk",
+      "channel": "Epix Ambience",
+      "duration": 10801.0,
+      "title": "A Magical Rainy Night in Wizard's Tower 🧙⚗️ Ambience - Experience with Potions and Cozy Fireplace"
+    }
+  ]
+}

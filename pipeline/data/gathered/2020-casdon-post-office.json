@@ -1,0 +1,54 @@
+{
+  "id": "2020-casdon-post-office",
+  "year": 2020,
+  "name": "Casdon Post Office",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/casdon-post-office/1460218919.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/casdon-post-office/1460218919.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p-SqaIQ4j6w",
+      "channel": "Chen Reviews",
+      "duration": 529.0,
+      "title": "Casdon post office playset || Post Office pretend play"
+    },
+    {
+      "id": "V_8gEFxHOFM",
+      "channel": "Leyla Brooke - This Day I love",
+      "duration": 171.0,
+      "title": "Casdon Little Shoppers - The Post Office"
+    },
+    {
+      "id": "vCtdEjIqP-Q",
+      "channel": "3KZ Media Creations",
+      "duration": 102.0,
+      "title": "Postal Office Toy Set"
+    },
+    {
+      "id": "fGJgEWMB_KU",
+      "channel": "iHomeEducate",
+      "duration": 157.0,
+      "title": "Casdon Toy Post Office | Best Role play activities for Home Education"
+    },
+    {
+      "id": "fp91ZHO6Ccs",
+      "channel": "言語治療師的玩具箱",
+      "duration": 170.0,
+      "title": "Casdon Post office"
+    }
+  ]
+}

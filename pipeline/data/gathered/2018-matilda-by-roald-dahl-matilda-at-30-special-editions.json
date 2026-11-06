@@ -1,0 +1,57 @@
+{
+  "id": "2018-matilda-by-roald-dahl-matilda-at-30-special-editions",
+  "year": 2018,
+  "name": "Matilda by Roald Dahl (Matilda at 30 Special Editions)",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YJKZPGDjcRc",
+      "channel": "With Vihaan ",
+      "duration": 514.0,
+      "title": "Matilda by Roald Dahl: A Book Every Child Should Read"
+    },
+    {
+      "id": "kz8QBioE4uM",
+      "channel": "Carua Lab Cultura",
+      "duration": 13639.0,
+      "title": "📖 Matilda 1988 Full Audiobook EN Roald Dahl"
+    },
+    {
+      "id": "fy-ZLMSI6fU",
+      "channel": "BG's Books",
+      "duration": 700.0,
+      "title": "Roald Dahl's 'Matilda' Review: Another Telekinetic Child!"
+    },
+    {
+      "id": "zwWIh0ISMus",
+      "channel": "Lauren Wade",
+      "duration": 402.0,
+      "title": "The Magic of Roald Dahl"
+    },
+    {
+      "id": "8KIL3pIkEtU",
+      "channel": "DReads",
+      "duration": 1621.0,
+      "title": "Matilda by Roald Dahl chapter 6 and 7 read along."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2023-ridgeback-dimension-24-plum",
+  "year": 2023,
+  "name": "Ridgeback Dimension 24 Plum",
+  "price_eur": 499.95,
+  "price_text": "€499.95",
+  "retailers": [
+    {
+      "name": "Euro Cycles",
+      "url": "https://eurocycles.com/ridgeback-dimension-24-plum-kids-bike-9-to-12-years-old/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LbsvTHgBEMs",
+      "channel": "Bikes, Trikes & Razors!",
+      "duration": 521.0,
+      "title": "Six Reasons Why Vintage Road Bikes Are Better Than Modern Road Bikes"
+    },
+    {
+      "id": "1z1lIFyD0lI",
+      "channel": "HotChickzCoolWhipz",
+      "duration": 1055.0,
+      "title": "Thunder Car Show 2012"
+    },
+    {
+      "id": "j8AKex2LFDg",
+      "channel": "浮生故事馆",
+      "duration": 4520.0,
+      "title": "失散18年的真千金回歸國公府，全府卻偏心假千金，任由她對真千金肆意羞辱－－心寒之下她斷親離開，查出當年失蹤竟是繼母所為，國公父親這才悔恨求她原諒！"
+    }
+  ]
+}

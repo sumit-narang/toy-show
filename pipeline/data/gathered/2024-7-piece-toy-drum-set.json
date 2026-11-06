@@ -1,0 +1,57 @@
+{
+  "id": "2024-7-piece-toy-drum-set",
+  "year": 2024,
+  "name": "7 Piece Toy Drum Set",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/musical-instruments/7-piece-toy-drum-set/p/159275"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/musical-instruments/7-piece-toy-drum-set/p/159275",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "u7GeLfU9HNA",
+      "channel": "Rhythm Me This",
+      "duration": 292.0,
+      "title": "I bought my kids a toy drum set and tried it out first!"
+    },
+    {
+      "id": "8xVeVPab9Bk",
+      "channel": "RockVlogs (Todd Freeby)",
+      "duration": 68.0,
+      "title": "LUDWIG JUNIOR DRUMSET"
+    },
+    {
+      "id": "dUvKa7fCanE",
+      "channel": "Matt’s Review Corner ",
+      "duration": 138.0,
+      "title": "Rocksocki Electronic Drum Set"
+    },
+    {
+      "id": "Jt5hKiOZxAg",
+      "channel": "Lynley's World",
+      "duration": 481.0,
+      "title": "Kids’ Drum Set: Cymbal, Bass, Snare, Sticks Kit (Unboxing, Assembling & Testing)"
+    },
+    {
+      "id": "K1O6c9gpifc",
+      "channel": "UTECHPIA",
+      "duration": 69.0,
+      "title": "Donner EDS-220! Super FUN! Donner Kid Drum complete set!  B0956DS59R - 5 Piece Kids Real Drums!"
+    }
+  ]
+}

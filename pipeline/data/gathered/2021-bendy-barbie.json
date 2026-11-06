@@ -1,0 +1,57 @@
+{
+  "id": "2021-bendy-barbie",
+  "year": 2021,
+  "name": "Bendy Barbie",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product-category/dolls-playsets/barbie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://worldofwondertoys.ie/product-category/dolls-playsets/barbie/",
+      "title": "Barbie Dolls | Dolls & Playsets | World of Wonder Ireland",
+      "description": "Shop the full range of Barbie Dolls and playsets online or in-store. Browse our wide selection of Barbie dolls, playsets, accessories & more!",
+      "image": "https://worldofwondertoys.ie/wp-content/uploads/2021/03/wowtoys.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YelPbtuTSZk",
+      "channel": "My Doll Cabinet",
+      "duration": 53.0,
+      "title": "Barbie® Cool Looks™: Trendy & Bendy™ Doll"
+    },
+    {
+      "id": "IQuPR8Bkuio",
+      "channel": "BB’s Dolls & TV Archive",
+      "duration": 31.0,
+      "title": "Cool Lookz: Trendy & Bendy Barbie & Friends Doll Commercial (2004)"
+    },
+    {
+      "id": "M1srHsPCla4",
+      "channel": "Bendy Barbie",
+      "duration": 388.0,
+      "title": "Q&A with BendyBarbie- WHY ARE YOU SINGLE??"
+    },
+    {
+      "id": "DJYFJ_D6CNI",
+      "channel": "BB’s Dolls & TV Archive",
+      "duration": 21.0,
+      "title": "Cool Lookz: Trendy & Bendy Barbie and Friends Doll Commercial (FR, 2004)"
+    },
+    {
+      "id": "emHcHmdIV7Q",
+      "channel": "Bendy Barbie",
+      "duration": 420.0,
+      "title": "Another epic live stream with Bendy Barbie!"
+    }
+  ]
+}

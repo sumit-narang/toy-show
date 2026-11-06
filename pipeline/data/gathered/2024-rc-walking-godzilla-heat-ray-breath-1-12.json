@@ -1,0 +1,57 @@
+{
+  "id": "2024-rc-walking-godzilla-heat-ray-breath-1-12",
+  "year": 2024,
+  "name": "RC Walking Godzilla Heat-Ray Breath 1:12",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/godzilla-and-king-kong/monsterverse/monsterverse-godzilla-x-kong-remote-control-1-12-heat-ray-breath-godzilla-figure/p/234252"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/godzilla-and-king-kong/monsterverse/monsterverse-godzilla-x-kong-remote-control-1-12-heat-ray-breath-godzilla-figure/p/234252",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5-B_jzwUIpU",
+      "channel": "Monster Island Buddies",
+      "duration": 626.0,
+      "title": "AMAZING TOY! Godzilla Heat-Ray Breath RC!!"
+    },
+    {
+      "id": "vdtGboPTkpw",
+      "channel": "Nostalgicadam",
+      "duration": 706.0,
+      "title": "Heat Ray Breath Godzilla R/C Unboxing and Review.  Godzilla X Kong"
+    },
+    {
+      "id": "DZfv1u2PBeU",
+      "channel": "Jada Toys",
+      "duration": 20.0,
+      "title": "Godzilla x Kong: The New Empire | Heat Ray Breath Godzilla R/C by Jada Toys"
+    },
+    {
+      "id": "Am8xQE9SWng",
+      "channel": "PrimeVsPrime",
+      "duration": 132.0,
+      "title": "The ULTIMATE Godzilla EVER?! Jada Toys THE NEW EMPIRE Godzilla X Kong RC HEAT-RAY BREATH Figure"
+    },
+    {
+      "id": "01-AJCGsopE",
+      "channel": "Steven's Toy Reviews",
+      "duration": 1117.0,
+      "title": "Jada Toys RC Heat Ray Breath Godzilla Evolved GODZILLA X KONG THE NEW EMPIRE REVIEW"
+    }
+  ]
+}

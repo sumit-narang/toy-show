@@ -1,0 +1,54 @@
+{
+  "id": "2020-the-haunted-lake-by-p-j-lynch",
+  "year": 2020,
+  "name": "The Haunted Lake by P.J. Lynch",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-haunted-lake-patrick-james-lynch-9781406395563"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/the-haunted-lake-patrick-james-lynch-9781406395563"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uNawkCkPy-A",
+      "channel": "Children's Books Ireland",
+      "duration": 509.0,
+      "title": "The Haunted Lake by PJ Lynch, KPMG Children's Books Ireland Awards 2021"
+    },
+    {
+      "id": "hhpWmyFWtEU",
+      "channel": "PragmaticMom - Mia Wenjen",
+      "duration": 624.0,
+      "title": "Unboxing// Two Haunting \"By The Lake\" Picture Books from 2020"
+    },
+    {
+      "id": "mL_kpU8ALtM",
+      "channel": "KPMG Ireland",
+      "duration": 281.0,
+      "title": "14 - Sinead Heavey - The Haunted Lake"
+    },
+    {
+      "id": "nOPF1c7ffX4",
+      "channel": "KPMG Ireland",
+      "duration": 210.0,
+      "title": "11 - Nadine Finnegan - The Haunted Lake"
+    },
+    {
+      "id": "p4RDVVDxYec",
+      "channel": "Stories From the Ashes",
+      "duration": 3375.0,
+      "title": "Our Favorite Autumn Books"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-chop-cook-yum-kid-s-cookbook",
+  "year": 2022,
+  "name": "Chop, Cook Yum! Kid's Cookbook",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Cool Food School",
+      "url": "https://www.thecoolfoodschool.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thecoolfoodschool.ie/",
+      "title": "The Cool Food School",
+      "description": "The Cool Food School was created for fussy eaters, promoting healthy eating in a fun and interactive environment for kids of all ages. We teach cooking and food education in schools and sell cool products like a safe knife and peeler, kids cookbook, Pick Plate, reusable sandwich bags and more.",
+      "image": "http://static1.squarespace.com/static/5cee582906a8060001305436/t/677833288b2aaa32408dc9f6/1735930664629/cool-food-school---horizontal-logo-full-color.png?format=1500w"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i7rkXjH-huI",
+      "channel": "Natashas Kitchen",
+      "duration": 177.0,
+      "title": "How To Make Cheesy Chicken Fritters - Must Try Chicken Patties"
+    },
+    {
+      "id": "i7S3Fzobi-A",
+      "channel": "Inspiring Vanessa",
+      "duration": 309.0,
+      "title": "KIRLY-SUE’S NEW VEGAN COOKBOOK FOR KIDS! | Book Review | Inspiring Vanessa"
+    },
+    {
+      "id": "bhId-CDAYUI",
+      "channel": "HomeCookingShow",
+      "duration": 242.0,
+      "title": "Creamy Butter Garlic Mushrooms | Garlic Mushroom Recipe | Veg Starters Recipes | Easy Dinner Recipes"
+    },
+    {
+      "id": "1Saka-LY_hE",
+      "channel": "HomeCookingShow",
+      "duration": 158.0,
+      "title": "Chicken Cutlet l How To Make Chicken Cutlet l Chicken Recipes | Snacks Recipes | Home Cooking Show"
+    },
+    {
+      "id": "GPYdKs9cnmA",
+      "channel": "HomeCookingShow",
+      "duration": 322.0,
+      "title": "Yam Fry Recipe | Elephant Yam Fry | Senai Varuval | Yam Roast | Side dish for Sambar & Rasam Rice"
+    }
+  ]
+}

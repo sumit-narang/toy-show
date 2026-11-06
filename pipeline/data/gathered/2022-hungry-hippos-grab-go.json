@@ -1,0 +1,54 @@
+{
+  "id": "2022-hungry-hippos-grab-go",
+  "year": 2022,
+  "name": "Hungry Hippos Grab & Go",
+  "price_eur": 8.0,
+  "price_text": "€8",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/mbb1001?_pos=1&_sid=eadd7095d&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/mbb1001?_pos=1&_sid=eadd7095d&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QsRy_XedniE",
+      "channel": "Check It Out",
+      "duration": 141.0,
+      "title": "Hungry Hungry Hippos Grab & Go Game"
+    },
+    {
+      "id": "MQiAv0_aJus",
+      "channel": "Rick 1000",
+      "duration": 121.0,
+      "title": "Hungry Hippos Grab and Go Game is JUNK!"
+    },
+    {
+      "id": "NHq3_STXs-o",
+      "channel": "Chatpat Tv",
+      "duration": 268.0,
+      "title": "Hungry Hungry Hippos Grab&go Hasbro Gramings"
+    },
+    {
+      "id": "LWHxMG-OnDg",
+      "channel": "Roll for Sanity",
+      "duration": 354.0,
+      "title": "Grab and Go Hungry Hungry Hippos Board Game (2014, Hasbro)"
+    },
+    {
+      "id": "fhowMfq85Uw",
+      "channel": "A2Joy",
+      "duration": 82.0,
+      "title": "🦛 Hungry Hungry Hippos Grab & Go! 🎯 Fun Family Game | A2Joy Kids"
+    }
+  ]
+}

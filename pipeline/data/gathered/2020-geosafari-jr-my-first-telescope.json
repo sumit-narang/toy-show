@@ -1,0 +1,54 @@
+{
+  "id": "2020-geosafari-jr-my-first-telescope",
+  "year": 2020,
+  "name": "GeoSafari Jr. My First Telescope",
+  "price_eur": 26.95,
+  "price_text": "€26.95",
+  "retailers": [
+    {
+      "name": "Cogs the Brain Shop",
+      "url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 500,
+      "final_url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bYyIY33YSeY",
+      "channel": "SchoolAids",
+      "duration": 25.0,
+      "title": "GeoSafari Jr. My First Telescope"
+    },
+    {
+      "id": "RMbg7d7fG3w",
+      "channel": "Wizard Review",
+      "duration": 128.0,
+      "title": "Educational Insights GeoSafari Jr. My First Telescope Mini Telescope for Kids"
+    },
+    {
+      "id": "no9Hyvyu33o",
+      "channel": "Sheryll Francis",
+      "duration": 117.0,
+      "title": "Educational Insights GeoSafari Jr. My First Kids Telescope, STEM Toy, Gift for Boys & Girls, Ages 4+"
+    },
+    {
+      "id": "y3vhivA8MtQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 67.0,
+      "title": "GeoSafari Jr. Explorer Scope from Educational Insights"
+    },
+    {
+      "id": "LFJU9vxtLpQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 88.0,
+      "title": "GeoSafari Jr. Talking Telescope from Educational Insights"
+    }
+  ]
+}

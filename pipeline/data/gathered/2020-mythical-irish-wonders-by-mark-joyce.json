@@ -1,0 +1,57 @@
+{
+  "id": "2020-mythical-irish-wonders-by-mark-joyce",
+  "year": 2020,
+  "name": "Mythical Irish Wonders by Mark Joyce",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Currach Books",
+      "url": "https://currachbooks.com/product/mythical-irish-wonders/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://currachbooks.com/product/mythical-irish-wonders/",
+      "title": "Mythical Irish Wonders - Currach Books",
+      "description": "Mark Joyce Hardback 124 pp ISBN 9781782189220",
+      "image": "https://currachbooks.com/wp-content/uploads/2020/09/web-9781782189220.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qFjpVV5PF0c",
+      "channel": "Candlelit Tales",
+      "duration": 2777.0,
+      "title": "A Goddess Story - Post Show - IRISH MYTHOLOGY STORYTELLING PODCAST - Ep 88"
+    },
+    {
+      "id": "X325afNmM4s",
+      "channel": "Candlelit Tales",
+      "duration": 2104.0,
+      "title": "Irish & Celtic Mythology Book Sources | EXPLAINED"
+    },
+    {
+      "id": "RqgX50XjzaY",
+      "channel": "Museum of Literature Ireland",
+      "duration": 197.0,
+      "title": "Ulysses | Film — Episode 12"
+    },
+    {
+      "id": "5wsaKiGw0Vw",
+      "channel": "SuperMarioBros3NES",
+      "duration": 710.0,
+      "title": "Legends of The Isles - Brendan The Navigator (Documentary)"
+    },
+    {
+      "id": "OVsrB8Aokac",
+      "channel": "Fliki Learn Hub",
+      "duration": 89.0,
+      "title": "Discover the Soul of Ireland’s History"
+    }
+  ]
+}

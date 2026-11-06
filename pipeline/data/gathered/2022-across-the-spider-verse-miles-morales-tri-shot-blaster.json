@@ -1,0 +1,57 @@
+{
+  "id": "2022-across-the-spider-verse-miles-morales-tri-shot-blaster",
+  "year": 2022,
+  "name": "Across the Spider-Verse Miles Morales Tri-Shot Blaster",
+  "price_eur": 32.99,
+  "price_text": "€32.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/nerf/nerf-elite/marvel-spider-man-across-the-spider-verse-miles-morales-tri-shot-blaster/p/211227"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/nerf/nerf-elite/marvel-spider-man-across-the-spider-verse-miles-morales-tri-shot-blaster/p/211227",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TJG2M2b35WI",
+      "channel": "Wowow Toys",
+      "duration": 20.0,
+      "title": "Marvel Spider-Man: Across the Spider-Verse Miles Morales Tri-Shot Blaster"
+    },
+    {
+      "id": "ls_Pt-CcVRw",
+      "channel": "Smyths Toys Superstores",
+      "duration": 23.0,
+      "title": "Miles Morales Tri-Shot Blaster - Marvel Spider-Man: Across the Spider-Verse -  Smyths Toys"
+    },
+    {
+      "id": "sfEXn3-FG_c",
+      "channel": "True Toys",
+      "duration": 20.0,
+      "title": "Marvel Spider-Man: Across the Spider-Verse Miles Morales Tri-Shot Blaster"
+    },
+    {
+      "id": "FqzhvWMi6X0",
+      "channel": "NERF Ukraine",
+      "duration": 20.0,
+      "title": "Nerf Marvel Spider-Man: Across the Spider-Verse"
+    },
+    {
+      "id": "7bZpw7qQ4Iw",
+      "channel": "Scruffy-Looking Nerf Hoarder",
+      "duration": 227.0,
+      "title": "REVIEW Nerf MicroShots Spider-Man 2099 and Miles Morales Blasters"
+    }
+  ]
+}

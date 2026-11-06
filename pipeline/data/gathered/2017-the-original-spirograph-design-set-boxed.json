@@ -1,0 +1,64 @@
+{
+  "id": "2017-the-original-spirograph-design-set-boxed",
+  "year": 2017,
+  "name": "The Original Spirograph Design Set Boxed",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gVqKmfcLbFU",
+      "channel": "OriginalSpirograph",
+      "duration": 92.0,
+      "title": "Spirograph Design Tin"
+    },
+    {
+      "id": "V3tsHUtRF4Q",
+      "channel": "Art in texture",
+      "duration": 57.0,
+      "title": "Spirograph Design Set, Spiral Ruler - Spirograph Art Designs Unboxing &Review"
+    },
+    {
+      "id": "FjzRsAYFF_s",
+      "channel": "Danysska",
+      "duration": 273.0,
+      "title": "Introduction to Spirograph: Unboxing and Basic Setup"
+    },
+    {
+      "id": "3afBiR5rpt4",
+      "channel": "FunDay Kid",
+      "duration": 316.0,
+      "title": "Spirograph Toy Opening with Apu | Best Toy Video For Kids | Spirograph Art - @FunDayKid"
+    },
+    {
+      "id": "6wKmRe7HrJs",
+      "channel": "JustUsGirls",
+      "duration": 566.0,
+      "title": "The Original Spirograph Travel"
+    }
+  ]
+}

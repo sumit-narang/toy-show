@@ -1,0 +1,57 @@
+{
+  "id": "2018-paint-your-own-bird-nesting-box",
+  "year": 2018,
+  "name": "Paint Your Own Bird Nesting Box",
+  "price_eur": 7.99,
+  "price_text": "€7.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Czsyg1EYjaM",
+      "channel": "CallmeFishmeal",
+      "duration": 383.0,
+      "title": "Lotfancy Bird House Kit - DIY - Build & Paint Your Own Birdhouse"
+    },
+    {
+      "id": "3-iayL8jdLk",
+      "channel": "StepsToDo",
+      "duration": 273.0,
+      "title": "Build and paint your own wooden bird house. Art and Craft Kit"
+    },
+    {
+      "id": "r-FLpCxFTtA",
+      "channel": "Bunnings Warehouse",
+      "duration": 195.0,
+      "title": "D.I.Y. Birdhouse & Nesting Box  - D.I.Y. At Bunnings"
+    },
+    {
+      "id": "OD7-e8k5LLk",
+      "channel": "Bird Brain",
+      "duration": 131.0,
+      "title": "Should You Paint Your Birdhouse? Ideas, Tips, and What's Best for the Birds"
+    },
+    {
+      "id": "a1-1ZM8Jams",
+      "channel": "Aman Iram Memories",
+      "duration": 426.0,
+      "title": "BIRD HOUSE , DIY BIRD HOUSE, DIY KIT , PIDILITE KIT , UNBOXING ,TRY ONN REVIEW"
+    }
+  ]
+}

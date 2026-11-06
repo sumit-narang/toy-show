@@ -1,0 +1,57 @@
+{
+  "id": "2018-kid-s-garden-pea-growing-kit",
+  "year": 2018,
+  "name": "Kid's Garden Pea Growing Kit",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7kdFxXB-Bhw",
+      "channel": "TheGardenShopIreland",
+      "duration": 155.0,
+      "title": "Kids Garden Peas Growing Kit"
+    },
+    {
+      "id": "m4yqHGZRX90",
+      "channel": "Garden Republic",
+      "duration": 108.0,
+      "title": "Garden Republic Indoor Herb Garden Starter Kit Instructional Video"
+    },
+    {
+      "id": "4CiDe2Rz4sg",
+      "channel": "Mississippi Family Homestead",
+      "duration": 296.0,
+      "title": "Easiest Way to Start Seeds Indoors - Jiffy Greenhouse Seed Starting Kit Step by Step for Beginners"
+    },
+    {
+      "id": "7uLRF4dtw_8",
+      "channel": "Growing Healthy Kids",
+      "duration": 470.0,
+      "title": "Pea Kit Demonstration TK, Kindergarten, 1st grade and 2nd grade"
+    },
+    {
+      "id": "0zrtOOCAeyk",
+      "channel": "On The Grow",
+      "duration": 258.0,
+      "title": "How to Grow Pea Microgreens Without Soil — No Coco Coir Needed!"
+    }
+  ]
+}

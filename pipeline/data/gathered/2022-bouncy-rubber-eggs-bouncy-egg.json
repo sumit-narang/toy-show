@@ -1,0 +1,54 @@
+{
+  "id": "2022-bouncy-rubber-eggs-bouncy-egg",
+  "year": 2022,
+  "name": "Bouncy Rubber Eggs Bouncy Egg",
+  "price_eur": 2.0,
+  "price_text": "€2",
+  "retailers": [
+    {
+      "name": "Toys and Games",
+      "url": "https://www.toysandgames.ie/product/bouncy-eggs/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A46iGzweuu0",
+      "channel": "Kevin Gittemeier",
+      "duration": 131.0,
+      "title": "Glowing Vinegar Egg Experiment [KTFG 230]"
+    },
+    {
+      "id": "IIgoEtLDzBw",
+      "channel": "Emily Calandrelli",
+      "duration": 576.0,
+      "title": "A Rubber Egg!"
+    },
+    {
+      "id": "sRXpz3_FPJo",
+      "channel": "Emily Calandrelli",
+      "duration": 488.0,
+      "title": "Rainbow Bouncy Eggs!"
+    },
+    {
+      "id": "_vs5W8xvkx0",
+      "channel": "Cool Science Experiments Headquarters",
+      "duration": 226.0,
+      "title": "Bouncy Egg Science Experiment"
+    },
+    {
+      "id": "BSb_SFI3zrc",
+      "channel": "Raising Dragons - Activities For Kids",
+      "duration": 87.0,
+      "title": "How to Make Rubber Eggs - Bouncy Egg Science Experiment - How to Make Bouncy Eggs Kids Science"
+    }
+  ]
+}

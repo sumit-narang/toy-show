@@ -1,0 +1,54 @@
+{
+  "id": "2022-octonauts-octoray-headquarters-octonauts",
+  "year": 2022,
+  "name": "Octonauts Octoray Headquarters Octonauts",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bsSKLG6N0eA",
+      "channel": "Octonauts",
+      "duration": 232.0,
+      "title": "Octonauts - Octo-News | OctoApp | Available now!"
+    },
+    {
+      "id": "ok1Qg4t4m3o",
+      "channel": "Octonauts",
+      "duration": 600.0,
+      "title": "Octonauts - The Octopod Mystery | Cartoons for Kids | Underwater Sea Education"
+    },
+    {
+      "id": "HXAat2WeexA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 101.0,
+      "title": "Octonauts Above & Beyond Octoray Transforming Headquarters Playset from Moose Toys Review!"
+    },
+    {
+      "id": "ovMfl7-XIV0",
+      "channel": "Tweak Bunny Channel ",
+      "duration": 1129.0,
+      "title": "Octonauts Above and Beyond - Octoray Headquarters Transforming Playset Review"
+    },
+    {
+      "id": "OuGML1xAiog",
+      "channel": "Mariana Trench Productions",
+      "duration": 610.0,
+      "title": "Octonauts & Operation Inspiration FULL ENGLISH EPISODE Above & Beyond Season 6 NEW Haraka TG-12"
+    }
+  ]
+}

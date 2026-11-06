@@ -1,0 +1,54 @@
+{
+  "id": "2021-barbie-colour-reveal-shimmer-and-shine",
+  "year": 2021,
+  "name": "Barbie Colour Reveal Shimmer and Shine",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/mtgwc58?_pos=1&_psq=barbie%20colo&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/mtgwc58?_pos=1&_psq=barbie%20colo&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zpPY9VSgzHU",
+      "channel": "pambour Agyeman and Nubia bonsu the object thingy",
+      "duration": 17.0,
+      "title": "Barbie Color Reveal Shimmer Series Commerical"
+    },
+    {
+      "id": "Q0IY6-nr6QM",
+      "channel": "Tallie's Tricks",
+      "duration": 611.0,
+      "title": "Barbie Color Reveal Chelsea with 6 Surprises Sunny N’ Cool Series"
+    },
+    {
+      "id": "wBGqlt5CcSs",
+      "channel": "Tanja's Toys Review",
+      "duration": 380.0,
+      "title": "NEW BARBIE Color Reveal SHIMMER PETS Series 5 + CODE"
+    },
+    {
+      "id": "z98H7xszbtk",
+      "channel": "Tanja's Toys Review",
+      "duration": 1005.0,
+      "title": "COLOR CHANGING All Barbie Color Reveal Series - S1 - S6"
+    },
+    {
+      "id": "U8JYvsDLLMA",
+      "channel": "SLICK SLIME SAM Live",
+      "duration": 1367.0,
+      "title": "Color Reveal Dolls || Metallic Edition"
+    }
+  ]
+}

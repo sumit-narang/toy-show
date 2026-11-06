@@ -1,0 +1,57 @@
+{
+  "id": "2024-wwe-wrekkin-raw-brawl-playset",
+  "year": 2024,
+  "name": "WWE Wrekkin' Raw Brawl Playset",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-wrekkin/wwe-wrekkin-raw-brawl-playset/p/235963"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-wrekkin/wwe-wrekkin-raw-brawl-playset/p/235963",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "R2r1uMIjAVY",
+      "channel": "RT The King",
+      "duration": 810.0,
+      "title": "WWE WREKKIN' RAW BRAWL PLAYSET | UNBOXING & REVIEW"
+    },
+    {
+      "id": "hFjz8m5ZzN8",
+      "channel": "J.A.M_FIGURES",
+      "duration": 1184.0,
+      "title": "Unboxing WWE WREKKIN’  RAW brawl ring ￼"
+    },
+    {
+      "id": "CYQTOEuMmRs",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "WWE Wrekkin Performance Center Playset | Mattel"
+    },
+    {
+      "id": "gx2_HsSlWzQ",
+      "channel": "Airboarn41 WWTE WRESTLING",
+      "duration": 800.0,
+      "title": "WWF Jakks Pacific Brawl 4 All DEADLY DUNGEON RING PLAY SET REVEIW!"
+    },
+    {
+      "id": "ran2zaQdzXQ",
+      "channel": "WWE",
+      "duration": 33.0,
+      "title": "WWE Mattel Power Slammers Wrecking Brawl Playset"
+    }
+  ]
+}

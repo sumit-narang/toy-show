@@ -1,0 +1,57 @@
+{
+  "id": "2022-air-fryer-colorbaby-playgo",
+  "year": 2022,
+  "name": "Air Fryer - ColorBaby PlayGo",
+  "price_eur": null,
+  "price_text": "£17.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/infunbebe-Light-Sound-Fryer-Kitchen/dp/B07ZCBXY4C/ref=pd_lpo_1?pd_rd_w=gc9n8&content-id=amzn1.sym.2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_p=2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_r=4S7N0AQMG60JWFPSYBTX&pd_rd_wg=EuHOs&pd_rd_r=7d143045-07da-48cb-9cb6-c368e9745bbf&pd_rd_i=B07ZCBXY4C&th=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/infunbebe-Light-Sound-Fryer-Kitchen/dp/B07ZCBXY4C/ref=pd_lpo_1?pd_rd_w=gc9n8&content-id=amzn1.sym.2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_p=2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_r=4S7N0AQMG60JWFPSYBTX&pd_rd_wg=EuHOs&pd_rd_r=7d143045-07da-48cb-9cb6-c368e9745bbf&pd_rd_i=B07ZCBXY4C&th=1",
+      "title": "Amazon.co.uk",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k3XL9VIz1rE",
+      "channel": "홈플러스 (Homeplus)",
+      "duration": 89.0,
+      "title": "[플레이고] 오븐과 에어프라이어_PLAYGO Oven Toy & Air Fryer Toy"
+    },
+    {
+      "id": "a0prS3m4wlY",
+      "channel": "Pequepapis *",
+      "duration": 243.0,
+      "title": "Playgo Fregadero con agua, 20 piezas , color baby 44591"
+    },
+    {
+      "id": "6wvbaOqpcs0",
+      "channel": "123 GO Like!",
+      "duration": 613.0,
+      "title": "HACKS FOR REAL FAST FOOD LOVERS | Smart Fast Food Hacks And Hilarious Foodie Situations"
+    },
+    {
+      "id": "uEyCVK836n0",
+      "channel": "Playgo Toys Enterprises Ltd",
+      "duration": 18.0,
+      "title": "3652 My Toaster"
+    },
+    {
+      "id": "9Nz0sXoqyUQ",
+      "channel": "ApplianceGuy",
+      "duration": 63.0,
+      "title": "Asda toy washing machine plug powerd"
+    }
+  ]
+}

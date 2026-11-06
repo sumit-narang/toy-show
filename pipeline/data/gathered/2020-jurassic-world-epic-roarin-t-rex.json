@@ -1,0 +1,54 @@
+{
+  "id": "2020-jurassic-world-epic-roarin-t-rex",
+  "year": 2020,
+  "name": "Jurassic World Epic Roarin T-Rex",
+  "price_eur": 57.99,
+  "price_text": "€57.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/jurassic-world-epic-roarin-t-rex/1600482851.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/jurassic-world-epic-roarin-t-rex/1600482851.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yIQEiIlWbLI",
+      "channel": "Collect Jurassic",
+      "duration": 831.0,
+      "title": "Jurassic World: Camp Cretaceous Epic Roarin' T-Rex Unboxing & Review (Netflix) / collectjurassic.com"
+    },
+    {
+      "id": "Xx5xVikuEEU",
+      "channel": "Dino Scream Reviews",
+      "duration": 819.0,
+      "title": "Mattel Camp Cretaceous Epic Roarin’ Tyrannosaurus rex Review!! Jurassic World"
+    },
+    {
+      "id": "Z6VhpMpSMnE",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Jurassic World Epic Roarin' Tyrannosaurus Rex | Mattel UK"
+    },
+    {
+      "id": "1rIJc1kSmYw",
+      "channel": "Antosaurus",
+      "duration": 570.0,
+      "title": "Unboxing fail | Jurassic World Epic Roarin Tyrannosaurus Rex Review"
+    },
+    {
+      "id": "UK9zwQ_aCUI",
+      "channel": "Dan Surprise",
+      "duration": 873.0,
+      "title": "THE NEW EPIC ROARIN T-REX IS HERE! Jurassic World Camp Cretaceous Toys"
+    }
+  ]
+}

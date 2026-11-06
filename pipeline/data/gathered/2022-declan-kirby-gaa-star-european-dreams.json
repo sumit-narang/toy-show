@@ -1,0 +1,44 @@
+{
+  "id": "2022-declan-kirby-gaa-star-european-dreams",
+  "year": 2022,
+  "name": "Declan Kirby GAA Star: European Dreams",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "n2zxikCMM-U",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2152.0,
+      "title": "David Clifford The Greatest Of All Time? 🔥 Brolly Slams James Horan | GAA Fans & Media React"
+    },
+    {
+      "id": "gkQhu2QfSqY",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 568.0,
+      "title": "Cavan 2-10 Tipperary 0-15 | Cavan Edge Tipp To Division 4 Title! | Match Reaction"
+    },
+    {
+      "id": "9ciaW328Sbo",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 3083.0,
+      "title": "Galway & Mayo Renewed Rivalry 🔥 Can Armagh Turn Over Donegal? 🤔 Antrim vs Cavan & more!"
+    },
+    {
+      "id": "c7NWWehNyrA",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1364.0,
+      "title": "LIVE REACTION TO DUBLIN RELEGATION | Monaghan 3-13 Dublin 1-18 | Livestream Highlights"
+    },
+    {
+      "id": "tKp9mwChKAA",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 4602.0,
+      "title": "Final Day Predictions 🔥 Dubs Great Escape? 👀 Kildare To Stun Mayo? 🤔 Rossies vs Galway & More!"
+    }
+  ]
+}

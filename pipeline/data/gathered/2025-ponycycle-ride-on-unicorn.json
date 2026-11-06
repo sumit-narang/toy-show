@@ -1,0 +1,57 @@
+{
+  "id": "2025-ponycycle-ride-on-unicorn",
+  "year": 2025,
+  "name": "PonyCycle Ride-On Unicorn",
+  "price_eur": 249.99,
+  "price_text": "€249.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/ride-ons/ponycycle-ride-on-unicorn/p/231611"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/ride-ons/ponycycle-ride-on-unicorn/p/231611",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ynG7fIkPdjk",
+      "channel": "TOYBOX",
+      "duration": 157.0,
+      "title": "PonyCycle® Ride-on Toy - Ride on Unicorn - Walking Pony Toy"
+    },
+    {
+      "id": "_wQz8rIJ-i8",
+      "channel": "Emily Tube",
+      "duration": 198.0,
+      "title": "New PonyCycle Unicorn Ride-On"
+    },
+    {
+      "id": "ieyOoK9lFxQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 84.0,
+      "title": "Take a Ride on PonyCycle Model Y!"
+    },
+    {
+      "id": "zXUaIYMcqxM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 91.0,
+      "title": "PonyCycle Unicorn Ride-On from PonyCycle"
+    },
+    {
+      "id": "tDAYbyh23MM",
+      "channel": "DisneyTwincess",
+      "duration": 92.0,
+      "title": "Frozen 2 Ponycycle Unicorn Best Gift Unboxing"
+    }
+  ]
+}

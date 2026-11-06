@@ -1,0 +1,68 @@
+{
+  "id": "2017-baby-alive-all-better-doll",
+  "year": 2017,
+  "name": "Baby Alive All Better Doll",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Hasbro",
+      "url": null
+    },
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qxe6x9Pam40",
+      "channel": "Fun With Baby Alive",
+      "duration": 239.0,
+      "title": "Baby Alive Play & Dance Dress Toys R Us Unboxing and Changing Video with Darci's Dance Class Doll"
+    },
+    {
+      "id": "GE12TM6zA1Q",
+      "channel": "Hasbro Australia",
+      "duration": 234.0,
+      "title": "Baby Alive Real As Can Be Product Demo Video"
+    },
+    {
+      "id": "AKVWWD-aAkI",
+      "channel": "Cute Dolls Toy",
+      "duration": 437.0,
+      "title": "Baby Alive Doll | Unboxing Baby Alive Pretend Play Toys Collection | Review ASMR "
+    },
+    {
+      "id": "U8reQFmOR_Y",
+      "channel": "Hasbro",
+      "duration": 15.0,
+      "title": "Baby Alive - 'Sweet Tears Baby’ Official Video"
+    },
+    {
+      "id": "7Sfq6W7tqCU",
+      "channel": "Hasbro Brands",
+      "duration": 33.0,
+      "title": "Baby Alive US | My Super Snackin' Sara"
+    }
+  ]
+}

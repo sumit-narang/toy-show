@@ -1,0 +1,60 @@
+{
+  "id": "2020-i-m-a-girly-kayla-doll",
+  "year": 2020,
+  "name": "I'M A GIRLY Kayla Doll",
+  "price_eur": 107.22,
+  "price_text": "€107.22",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/im-a-girly/im-a-girly/kayla-doll/147928170.html?cgid=im-a-girly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/im-a-girly/im-a-girly/kayla-doll/147928170.html?cgid=im-a-girly",
+      "title": "IM A GIRLY Kayla Doll - MULTI",
+      "description": "The Im A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each dolls hair is interchangeable so you can create new styles. Meet Kayla. Shes super sporty and loves making new friends. She loves street style and playing volleyball. Comes dressed in this bright blue tracksuit and trendy trainers.",
+      "image": "https://images.brownthomas.com/bta/2000106215_01.jpg?$product_tile_plp$",
+      "ld_description": "The I'm A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each doll's hair is interchangeable so you can create new styles. Meet Kayla. She's super sporty and loves making new friends. She loves street style and playing volleyball. Comes dressed in this bright blue tracksuit and trendy trainers.",
+      "brand": "I'M A GIRLY",
+      "ld_image": "https://images.brownthomas.com/bta/2000106215_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gaiYQnSgPG4",
+      "channel": "Bonnie’s Dolls",
+      "duration": 374.0,
+      "title": "I’m a Girly Doll - Meet Kayla"
+    },
+    {
+      "id": "Qyg9dtEKK3o",
+      "channel": "RubyRed’s World Of Dolls",
+      "duration": 1947.0,
+      "title": "I'm A Girly, Kayla, Adult Doll Collector Review"
+    },
+    {
+      "id": "E9vgxDTqxfE",
+      "channel": "Wade Cuevas",
+      "duration": 130.0,
+      "title": "I'm A Girly Fashion Doll Kayla w// Brunette Interchangeable Removable Synthetic Wig review"
+    },
+    {
+      "id": "1fQCelfU-Wg",
+      "channel": "Maddox Batson and Embreigh Courtlyn",
+      "duration": 136.0,
+      "title": "Maddox Batson - Girl In Green (Official Music Video)"
+    },
+    {
+      "id": "_xhlNuxoMVY",
+      "channel": "Baby Kaely",
+      "duration": 156.0,
+      "title": "BABY KAELY \"EW\" Cover by Jimmy Fallon & will.i.am 10yr OLD KID RAPPER"
+    }
+  ]
+}

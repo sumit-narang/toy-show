@@ -1,0 +1,44 @@
+{
+  "id": "2023-aer-lingus-aviator-teddy-bear",
+  "year": 2023,
+  "name": "Aer Lingus Aviator Teddy Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "8DMjuX20QSY",
+      "channel": "Charles On Travels",
+      "duration": 337.0,
+      "title": "Is Aer Lingus Regional Any Good? ATR 72-600 flight review"
+    },
+    {
+      "id": "oh7RNm5YOF4",
+      "channel": "Aer Lingus",
+      "duration": 61.0,
+      "title": "You're home | Aer Lingus"
+    },
+    {
+      "id": "lsTvk1C42K0",
+      "channel": "Aer Lingus",
+      "duration": 91.0,
+      "title": "Meet Laura Russell, aerobatics pilot and physicist | Aer Lingus"
+    },
+    {
+      "id": "8jigdqf-khg",
+      "channel": "Aer Lingus",
+      "duration": 106.0,
+      "title": "Revealing our brand new look | Aer Lingus"
+    },
+    {
+      "id": "Vwdu3fNXtno",
+      "channel": "Plane X",
+      "duration": 188.0,
+      "title": "*SUPER RARE!!* Daron Aer Lingus A320 & A330 Review"
+    }
+  ]
+}

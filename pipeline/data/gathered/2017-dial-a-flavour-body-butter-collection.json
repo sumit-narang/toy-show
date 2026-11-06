@@ -1,0 +1,53 @@
+{
+  "id": "2017-dial-a-flavour-body-butter-collection",
+  "year": 2017,
+  "name": "Dial-a-flavour body butter collection",
+  "price_eur": 45.0,
+  "price_text": "€45.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NRkAzz5GxN4",
+      "channel": "Dental Digest",
+      "duration": 265.0,
+      "title": "DIY Bubble Gum vs. Hubba Bubba Toothbrush!"
+    },
+    {
+      "id": "-mTNRFznIMk",
+      "channel": "BarSoap Guy",
+      "duration": 83.0,
+      "title": "softsoap shea & almond oil body butter body wash"
+    },
+    {
+      "id": "MhBSAGY_yI8",
+      "channel": "Flavour Trip",
+      "duration": 5678.0,
+      "title": "Sunrise Beach House Music Mix - Chill Morning Breakfast Playlist | Flavour Trip DJ Set"
+    },
+    {
+      "id": "2mpfWYuGL-M",
+      "channel": "Nick DiGiovanni",
+      "duration": 2037.0,
+      "title": "Tasting Rare Snacks And Drinks"
+    },
+    {
+      "id": "Y9nq_uHzNcs",
+      "channel": "Kanao Recapz",
+      "duration": 22396.0,
+      "title": "A 10-Year-Old Girl Loses Her Mother, Leaves the Mountains, and Sets Out to Find Her Missing Father"
+    }
+  ]
+}

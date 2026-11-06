@@ -1,0 +1,57 @@
+{
+  "id": "2018-matchstick-garden",
+  "year": 2018,
+  "name": "Matchstick Garden",
+  "price_eur": 2.5,
+  "price_text": "€2.50",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "http://shop.designist.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://shop.designist.ie/",
+      "title": "designist | Irish & European Gifts, Home Décor, Cards & Stationery",
+      "description": "Discover beautifully designed Irish & European gifts, home décor, greeting cards, stationery, candles & souvenirs at designist. Thoughtful presents for birthdays & every occasion.",
+      "image": "https://shop.designist.ie/cdn/shop/files/shop_front_1204x630.jpg?v=1781710494"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MlJ5RhEC-UE",
+      "channel": "bipul project",
+      "duration": 473.0,
+      "title": "DIY Matchstick Fairy House Showpiece | Matchstick Garden Villa"
+    },
+    {
+      "id": "fZ-BOnT-uwM",
+      "channel": "Ingenious Crafts",
+      "duration": 420.0,
+      "title": "How To Make Beautiful MatchStick Garden House With Swimming Pool-Diy Garden Villa"
+    },
+    {
+      "id": "tP0mbC_tyQs",
+      "channel": "The Rauschenberg Family Vlog",
+      "duration": 530.0,
+      "title": "Planting our Matchstick Garden (5-22-17)"
+    },
+    {
+      "id": "7aescQWVisk",
+      "channel": "Million Gears",
+      "duration": 229.0,
+      "title": "How to Make Match House Fire at Home - Match Stick House"
+    },
+    {
+      "id": "_M3ESDq1h3E",
+      "channel": "MashtagBrady2.0",
+      "duration": 1832.0,
+      "title": "Almost Set My Garden On Fire!"
+    }
+  ]
+}

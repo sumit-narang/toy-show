@@ -1,0 +1,54 @@
+{
+  "id": "2022-doll-with-down-syndrome-and-glasses",
+  "year": 2022,
+  "name": "Doll with Down Syndrome and Glasses",
+  "price_eur": 39.9,
+  "price_text": "€39.90",
+  "retailers": [
+    {
+      "name": "Little Angel Rose",
+      "url": "https://www.littleangelrose.com/products/miniland-girl-doll-down-syndrome-glasses"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.littleangelrose.com/products/miniland-girl-doll-down-syndrome-glasses"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZlbHRHQn6nU",
+      "channel": "Zofia's Sensory Spin",
+      "duration": 306.0,
+      "title": "Unboxing Miniland's Baby Doll With Down Syndrome For The FIRST TIME!! // PERFECT & UNIQUE Gift Idea!"
+    },
+    {
+      "id": "AALCoysCNRU",
+      "channel": "The boy with the pampers and toys",
+      "duration": 1420.0,
+      "title": "Barbie Fashionista’s 228 AFB & 229 NDSS Dolls review #barbie #dolls #mattel #barbiefashionista #toy"
+    },
+    {
+      "id": "sIJ6lhqaQZk",
+      "channel": "MyFroggyStuff",
+      "duration": 259.0,
+      "title": "Barbie Eye Doctor - Play Set - Doll Review - 4K"
+    },
+    {
+      "id": "Dazj2Tna-XI",
+      "channel": "Dollhouse Curator",
+      "duration": 1409.0,
+      "title": "Unboxing Barbie Fashionista 212, BMR 1959, & TEMU miniatures and doll clothes."
+    },
+    {
+      "id": "0x2byDvaEf4",
+      "channel": "thedollsarentreal",
+      "duration": 770.0,
+      "title": "Silicone Baby Leo’s First Outing With Doll Mom Gina - A Sweet Little Day Together "
+    }
+  ]
+}

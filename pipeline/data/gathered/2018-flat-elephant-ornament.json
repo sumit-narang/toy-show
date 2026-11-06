@@ -1,0 +1,57 @@
+{
+  "id": "2018-flat-elephant-ornament",
+  "year": 2018,
+  "name": "Flat Elephant Ornament",
+  "price_eur": 8.45,
+  "price_text": "€8.45",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2Jnw04V6cdk",
+      "channel": "EDC - Everyday Carry Tools",
+      "duration": 20.0,
+      "title": "Solid Brass Elephant Statue Keychain Animal Mini Figure Tea Pet Ornament Craft"
+    },
+    {
+      "id": "xfRIOa5rOAs",
+      "channel": "Thorness LTD",
+      "duration": 17.0,
+      "title": "Set of three paper mache elephant ornaments"
+    },
+    {
+      "id": "PCOZtJXO_5Q",
+      "channel": "Flat Pack Scenery",
+      "duration": 416.0,
+      "title": "Construction guide for pop up elephant scene"
+    },
+    {
+      "id": "AnJ7LnPgs_E",
+      "channel": "Pez Through The Ages",
+      "duration": 266.0,
+      "title": "(1976.04) - 1976 Pez Big Top Circus Elephant with Flat Hat"
+    },
+    {
+      "id": "VdDObYGlSFs",
+      "channel": "Charlie Henson On DeviantArt",
+      "duration": 98.0,
+      "title": "Flat Elephant Minimal Wallpapers By Charlie Henson On DeviantArt"
+    }
+  ]
+}

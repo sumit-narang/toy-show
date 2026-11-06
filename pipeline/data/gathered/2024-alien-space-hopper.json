@@ -1,0 +1,60 @@
+{
+  "id": "2024-alien-space-hopper",
+  "year": 2024,
+  "name": "Alien Space Hopper",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/flashing-space-hopper"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/flashing-space-hopper",
+      "title": "Flashing Space Hopper",
+      "description": "Get active with this motion-activated light-up space hopper! Fun, junior-sized bouncing toy from Cogs Toys & Games Ireland. Perfect for active play.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/flashing-space-hopper.jpg?v=1683530498",
+      "ld_description": "Flashing Space Hopper\n\n\nJunior-sized translucent space hopper with built-in LED lights that flash when bouncing\n\n\nMotion-activated light-up balls inside create a dazzling effect with every hop 🌟\n\n\nInflates to approx. 60 cm—just the right size for younger kids\n\n\nEncourages active play, balance, and coordination indoors or outdoors\n\n\nDurable and fun for energetic bouncers aged 5 and up\n\n\nBounce, flash, and laugh with the light-up Space Hopper! A brilliant way to burn off energy and brighten playtime.",
+      "brand": "One For Fun",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-ZlB150Okog",
+      "channel": "Rekia34",
+      "duration": 132.0,
+      "title": "Bouncing on an Alien space hopper (2)"
+    },
+    {
+      "id": "LQQAALRlWf4",
+      "channel": "Rekia34",
+      "duration": 98.0,
+      "title": "Bouncing on an Alien space hopper (1)"
+    },
+    {
+      "id": "li9hEl8bRIA",
+      "channel": "51NEMA",
+      "duration": 271.0,
+      "title": "Monster Centipede Alien All Scenes - Murderbot 2025 | Movie Clip HD"
+    },
+    {
+      "id": "gdG-Ca4mCMY",
+      "channel": "DarkShima Upchan",
+      "duration": 16.0,
+      "title": "The Bouncy Alien"
+    },
+    {
+      "id": "CipH5a-dRVg",
+      "channel": "Angie O'Brien",
+      "duration": 88.0,
+      "title": "Kilowatt from Space Chimps"
+    }
+  ]
+}

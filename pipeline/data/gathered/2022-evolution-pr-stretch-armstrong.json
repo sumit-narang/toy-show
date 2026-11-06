@@ -1,0 +1,57 @@
+{
+  "id": "2022-evolution-pr-stretch-armstrong",
+  "year": 2022,
+  "name": "Evolution PR Stretch Armstrong",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "avpwTLTiVgk",
+      "channel": "Basic Fun UK",
+      "duration": 15.0,
+      "title": "Stretch Armstrong Action Hero | Basic Fun UK"
+    },
+    {
+      "id": "uKCyyfm91rs",
+      "channel": "Secret Galaxy",
+      "duration": 1123.0,
+      "title": "The Crazy History of Stretch Armstrong"
+    },
+    {
+      "id": "bt1PkRMSugI",
+      "channel": "Lavapasta",
+      "duration": 377.0,
+      "title": "Stretch Armstrong and The Flex Fighters: Almost Fantastic"
+    },
+    {
+      "id": "RcoaIFMYxDc",
+      "channel": "Joshua Yetter",
+      "duration": 755.0,
+      "title": "Crunchtime Comic Reviews: Stretch Armstong Stretch Figures"
+    },
+    {
+      "id": "ycumxKt1zFk",
+      "channel": "Character Toys",
+      "duration": 30.0,
+      "title": "Stretch Armstrong"
+    }
+  ]
+}

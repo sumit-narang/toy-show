@@ -1,0 +1,60 @@
+{
+  "id": "2024-plush-toys-from-golden-discs",
+  "year": 2024,
+  "name": "Plush toys from Golden Discs",
+  "price_eur": 12.0,
+  "price_text": "€12-15",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/yabu-dinosaur-pink-posters-merchandise"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goldendiscs.ie/products/yabu-dinosaur-pink-posters-merchandise",
+      "title": "Kenji Yabu Dinosaur, Pink [Toys]",
+      "description": "Kenji Yabu Dinosaur, Pink [Toys]",
+      "image": "http://goldendiscs.ie/cdn/shop/products/Dino_Pink_New_2048x_b08ac789-d959-4451-904e-1d20d5aa5672.jpg?v=1691134515",
+      "ld_description": "Kenji Yabu Dinosaur, Pink [Toys]",
+      "brand": "Golden Discs",
+      "ld_image": "https://goldendiscs.ie/cdn/shop/products/Dino_Pink_New_2048x_b08ac789-d959-4451-904e-1d20d5aa5672.jpg?v=1691134515&width=450"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s4hQ6Y7eihU",
+      "channel": "Ni Stuff",
+      "duration": 213.0,
+      "title": "All of em I Got - Pokemon | Ditto"
+    },
+    {
+      "id": "wqwdqA4a5n0",
+      "channel": "Disneyphile",
+      "duration": 64.0,
+      "title": "Peluche Dingo de la collection Disney Treasures from the Vault"
+    },
+    {
+      "id": "GSiec0xBs_4",
+      "channel": "ugin08",
+      "duration": 20.0,
+      "title": "Pudel Puppy wächst spricht mit dir NP 79,99"
+    },
+    {
+      "id": "_FUv6Eb7FuM",
+      "channel": "Statrys",
+      "duration": 935.0,
+      "title": "Your LABUBU is worthless now , here’s why..."
+    },
+    {
+      "id": "y86Cbgn5Xbc",
+      "channel": "sand_gh0st",
+      "duration": 210.0,
+      "title": "[VLOG] Unboxing SKZOO \"Stray Kids 'Stay in STAY' in JEJU EXHIBITION\""
+    }
+  ]
+}

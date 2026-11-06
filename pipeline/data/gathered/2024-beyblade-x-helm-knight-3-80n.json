@@ -1,0 +1,57 @@
+{
+  "id": "2024-beyblade-x-helm-knight-3-80n",
+  "year": 2024,
+  "name": "Beyblade X Helm Knight 3-80N",
+  "price_eur": 9.95,
+  "price_text": "€9.95",
+  "retailers": [
+    {
+      "name": "Murphy's Toymaster",
+      "url": "https://murphystoymaster.ie/product/beyblade-x-booster-single-top-ast/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://murphystoymaster.ie/product/beyblade-x-booster-single-top-ast/",
+      "title": "BEYBLADE X BOOSTER SINGLE TOP AST – Murphy's Toymaster",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oNEJ1MnV9vg",
+      "channel": "BEYBLADE English - Official Channel",
+      "duration": 193.0,
+      "title": "BEYBLADE X | Meet the new HELM KNIGHT 3-80N!!"
+    },
+    {
+      "id": "mOo2tOZZhCE",
+      "channel": "BeybladeGeeks",
+      "duration": 557.0,
+      "title": "ATTACK VS DEFENSE! | DranSword 3-60F VS KnightShield 3-80N [X Kurosu VS Multi] Battle! | Beyblade X"
+    },
+    {
+      "id": "virQ_Ed-e4o",
+      "channel": "BeybladeGeeks",
+      "duration": 577.0,
+      "title": "MULTI'S DEFENSE BEY! | Knight Shield 3-80N Starter Pack Unboxing & Test Battle! | Beyblade X (2023)"
+    },
+    {
+      "id": "hSbzDM5nAKc",
+      "channel": "TFlameBlader",
+      "duration": 1667.0,
+      "title": "How Good Is Knight Shield/Helm Knight In 2024? (Beyblade X Competitive)"
+    },
+    {
+      "id": "j5GVbTW1WSA",
+      "channel": "zankye",
+      "duration": 735.0,
+      "title": "NEW Helm Knight 3-80N HASBRO BEYBLADE X Starter Pack Unboxing & Review!"
+    }
+  ]
+}

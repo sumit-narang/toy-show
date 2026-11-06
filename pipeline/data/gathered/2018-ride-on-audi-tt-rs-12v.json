@@ -1,0 +1,54 @@
+{
+  "id": "2018-ride-on-audi-tt-rs-12v",
+  "year": 2018,
+  "name": "Ride On Audi TT RS 12V",
+  "price_eur": 129.99,
+  "price_text": "€129.99",
+  "retailers": [
+    {
+      "name": "LIDL",
+      "url": "https://www.lidl.ie/en/index.htm"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.lidl.ie/en/index.htm"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ThRIcnAC2wc",
+      "channel": "RiiRoo",
+      "duration": 513.0,
+      "title": "Audi TT RS 12V Ride On Car Assembly And Pairing Remote Control"
+    },
+    {
+      "id": "WZn0WpreTyE",
+      "channel": "It's Jen and Family ",
+      "duration": 287.0,
+      "title": "UNBOXING AUDI TT RS - RIDE ON CARS"
+    },
+    {
+      "id": "zZ833AnFAY0",
+      "channel": "esb 16",
+      "duration": 313.0,
+      "title": "Replacing Batteries on a Ride on Car | Audi TT RS"
+    },
+    {
+      "id": "HIBMll7E8lY",
+      "channel": "Lyeon Channel",
+      "duration": 240.0,
+      "title": "AUDI TT RS Electric: 2 years old driving"
+    },
+    {
+      "id": "gJALFIZ2rAc",
+      "channel": "Electric Ride on Cars Online",
+      "duration": 14.0,
+      "title": "audi tt rs ride on electric car"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2018-santa-s-magic-reindeer-hay",
+  "year": 2018,
+  "name": "Santa's Magic Reindeer Hay",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "Santa's Magic Reindeer Hay",
+      "url": "https://www.facebook.com/ReindeerHay/"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 400,
+      "final_url": "https://www.facebook.com/ReindeerHay/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MdTYH4ag_f4",
+      "channel": "MapleShine Kids",
+      "duration": 291.0,
+      "title": "The Magical Tale of Santa’s Reindeer | Animated Christmas Story for Kids"
+    },
+    {
+      "id": "W4fbXIAfan0",
+      "channel": "Rudy Wessels (R U Ready)",
+      "duration": 154.0,
+      "title": "Santa's Reindeer ~ WAITING FOR TAKE OFF!"
+    },
+    {
+      "id": "UXqQp-_GUU4",
+      "channel": "Occult Secrets Revealed",
+      "duration": 577.0,
+      "title": "🍄 The Psychedelic Origins of Santa Claus and the \"Magic\" Flying Reindeer: Amanita Muscaria 🍄"
+    },
+    {
+      "id": "OkW2meGsLwk",
+      "channel": "Ezy English",
+      "duration": 95.0,
+      "title": "What Do Santa’s Reindeer Eat | Magical Reindeer Food"
+    },
+    {
+      "id": "4p7JUYa6FJk",
+      "channel": "Beckys craftsandgoodies",
+      "duration": 267.0,
+      "title": "How to make Authentic Reindeer food for Santa reindeers  - Animal & Wildlife Safety Warning below"
+    }
+  ]
+}

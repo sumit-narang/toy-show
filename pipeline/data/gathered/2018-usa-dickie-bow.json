@@ -1,0 +1,57 @@
+{
+  "id": "2018-usa-dickie-bow",
+  "year": 2018,
+  "name": "USA Dickie Bow",
+  "price_eur": 4.0,
+  "price_text": "from €4.00",
+  "retailers": [
+    {
+      "name": "Funplace",
+      "url": "http://www.funplace.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funplace.ie/",
+      "title": "Halloween Costumes Dublin Ireland and Nationwide Delivery",
+      "description": "All our products are stocked and shipped from our Irish warehouse. We stock a range of halloween costumes including Peppa Pig, The Traitors, Spiderman and Roblox.",
+      "image": "https://cdn.shopify.com/s/files/1/0562/4286/4279/files/fun_place_logo.jpg?height=628&pad_color=fff&v=1622545527&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ds4iw9Le4w0",
+      "channel": "Hat Films",
+      "duration": 1197.0,
+      "title": "Is a Dicky Bow the same as a Bow Tie? (Golf With Your Friends)"
+    },
+    {
+      "id": "GuqCQpQ4a8A",
+      "channel": "John Malecki",
+      "duration": 476.0,
+      "title": "How To Create A Woodworking Bowtie With A Router | Video Tutorial"
+    },
+    {
+      "id": "Es44OnewgHg",
+      "channel": "Janey Godley",
+      "duration": 53.0,
+      "title": "He’s an asshole in a dickie bow"
+    },
+    {
+      "id": "AU8iwxzZAyg",
+      "channel": "Tuxedo Den",
+      "duration": 43.0,
+      "title": "How To Properly Put On A Clip-On Bowtie"
+    },
+    {
+      "id": "9F534glCog8",
+      "channel": "Charles Tyrwhitt",
+      "duration": 158.0,
+      "title": "How to tie a bow tie"
+    }
+  ]
+}

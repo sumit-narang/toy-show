@@ -1,0 +1,54 @@
+{
+  "id": "2020-wooden-tea-time-set",
+  "year": 2020,
+  "name": "Wooden Tea Time Set",
+  "price_eur": 19.5,
+  "price_text": "€19.50",
+  "retailers": [
+    {
+      "name": "Kaliedy",
+      "url": "https://www.kaliedy.com/eshop/product/Kaliedy-toys-books-Wooden-Teatime-Set-Pink.html/1/pid/441649/frmCatID/80546/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.kaliedy.com/eshop/product/Kaliedy-toys-books-Wooden-Teatime-Set-Pink.html/1/pid/441649/frmCatID/80546/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rm9JGWLiOyw",
+      "channel": "EducationAll Australia",
+      "duration": 63.0,
+      "title": "Tea Time Wooden Play Set | Product Video"
+    },
+    {
+      "id": "O_RybzXkV1Y",
+      "channel": "Nini Toys",
+      "duration": 286.0,
+      "title": "🍽️ CUTE WOODEN TEA SET | TEA TIME FUN FOR KIDS!"
+    },
+    {
+      "id": "bd3C93kPBkU",
+      "channel": "kels prelovedtoys",
+      "duration": 109.0,
+      "title": "Elc Wooden Teatime Set"
+    },
+    {
+      "id": "jdbF3se0ip4",
+      "channel": "Petit Monkey",
+      "duration": 16.0,
+      "title": "Petit Monkey wooden tea set"
+    },
+    {
+      "id": "TkLy6OCkNUc",
+      "channel": "Jewelkeeper Official",
+      "duration": 37.0,
+      "title": "JUNGLE PARTY Tea Set for Little Kids by JEWELKEEPER"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-berg-choppy-neo",
+  "year": 2025,
+  "name": "Berg Choppy Neo",
+  "price_eur": 278.95,
+  "price_text": "€278.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/berg-choppy-neo"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/berg-choppy-neo"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2v8Lz3If02U",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 45.0,
+      "title": "BERG Choppy Neo pedal go-kart | specifications"
+    },
+    {
+      "id": "Ntc29EF8YXQ",
+      "channel": "Berg Portugal - Folga",
+      "duration": 293.0,
+      "title": "BERG Choppy assembly"
+    },
+    {
+      "id": "wP-HIupwbzc",
+      "channel": "Jollyroom",
+      "duration": 47.0,
+      "title": "BERG Choppy"
+    },
+    {
+      "id": "MedfnD3AQ6k",
+      "channel": "SPIEL- PREIS",
+      "duration": 114.0,
+      "title": "BERG Buzzy Fiat 500 - BERG Choppy | gokart-profi.de"
+    },
+    {
+      "id": "6NMTEWSilmg",
+      "channel": "GOKARTHOF Onlineshop",
+      "duration": 45.0,
+      "title": "BERG Gokart Choppy Neo l GOKARTHOF in Hamburg"
+    }
+  ]
+}

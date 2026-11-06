@@ -1,0 +1,57 @@
+{
+  "id": "2021-mix-a-roo-cuddly-toy",
+  "year": 2021,
+  "name": "Mix-a-roo Cuddly Toy",
+  "price_eur": 37.0,
+  "price_text": "€37",
+  "retailers": [
+    {
+      "name": "DiscoveryPlaytime",
+      "url": "https://discoveryplaytime.ie/products/lr-mixaroo-cuddly-toy?_pos=1&_sid=e7c8a2661&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/home?_pos=1&_sid=e7c8a2661&_ss=r",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kYq7RzPMvD4",
+      "channel": "Gypsy Gameschooler",
+      "duration": 297.0,
+      "title": "Color Mix-A-Roo Play-Through"
+    },
+    {
+      "id": "Xzn4uvYNztk",
+      "channel": "QVC",
+      "duration": 403.0,
+      "title": "Learning Resources Mixaroo Special Edition Mix & Match Plush on QVC"
+    },
+    {
+      "id": "gGCOuzBeNdg",
+      "channel": "QVC",
+      "duration": 425.0,
+      "title": "Learning Resources Mixaroo Special Edition Mix & Match Plush on QVC"
+    },
+    {
+      "id": "GC7UAzhk42w",
+      "channel": "NAPPA Awards",
+      "duration": 20.0,
+      "title": "Mixaroo™ | 2021 NAPPA Award Winner"
+    },
+    {
+      "id": "PS5munuK75U",
+      "channel": "ChunkyCola",
+      "duration": 122.0,
+      "title": "Mixaroo part 2"
+    }
+  ]
+}

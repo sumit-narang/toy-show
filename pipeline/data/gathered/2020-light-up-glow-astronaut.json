@@ -1,0 +1,60 @@
+{
+  "id": "2020-light-up-glow-astronaut",
+  "year": 2020,
+  "name": "Light-Up & Glow Astronaut",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "McGreevy's Toys Direct",
+      "url": "https://toysdirect.ie/products/light-up-glow-astronaut"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/light-up-glow-astronaut",
+      "title": "Light Up & Glow Astronaut",
+      "description": "Bring space into your room with this cosmic Astronaut night light Your very own astronaut to shine over you whilst you sleep Realistic astronaut is 150mm (6”) tall Simply push the astronaut to turn the light on and off 60-minute auto shut off When the light goes off, the astronaut glows in the dark Easy to hang on a wa",
+      "image": "http://toysdirect.ie/cdn/shop/files/Light-Up-Glow-Astronaut.jpg?crop=center&height=1200&v=1787580898&width=1200",
+      "ld_description": "Bring space into your room with this cosmic Astronaut night light\nYour very own astronaut to shine over you whilst you sleep\nRealistic astronaut is 150mm (6”) tall\nSimply push the astronaut to turn the light on and off\n60-minute auto shut off\nWhen the light goes off, the astronaut glows in the dark\nEasy to hang on a wall or door\nAstronaut is also free standing – perfect for a bedside table\nTransform your darkened room into outer space with this cosmic astronaut night light. Simply hang onto a wall or door or stand on a bedside table. A cool accessory for space-themed rooms. Realistic styling is perfect for the young space enthusiast.\nPush to turn on and you have an out of this world night light. The auto shut-off is ideal for helping budding-astronauts get off to sleep. Also preserves battery life. When the light goes off, the astronaut glows in the dark.\nBrainstorm Toys is a range of fun, educational and interactive STEM toys that brings together a host of fascinating items. STEM toys incorporate science, technology, engineering and maths and encourage children to explore and develop a passion for these subjects. The aim of Brainstorm Toys branded products is to entertain children but also to inspire them to learn more about their environment.",
+      "brand": "Brainstorm",
+      "ld_image": "https://toysdirect.ie/cdn/shop/files/Light-Up-Glow-Astronaut.jpg?v=1787580898&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "opwCCPdy3hQ",
+      "channel": "BrainstormLtd",
+      "duration": 135.0,
+      "title": "Brainstorm Toys Light Up and Glow Astronaut"
+    },
+    {
+      "id": "rfalfQQRnhk",
+      "channel": "DM Finds",
+      "duration": 209.0,
+      "title": "Astronaut Galaxy Projector Review: Is It Worth It?"
+    },
+    {
+      "id": "L1FKIhDN74Q",
+      "channel": "UlrichFireLord",
+      "duration": 519.0,
+      "title": "Astronaut Galaxy Light Unboxing & Review"
+    },
+    {
+      "id": "jL2nzqYgpTk",
+      "channel": "Ultra Value Tech",
+      "duration": 230.0,
+      "title": "Astronaut Galaxy Projector - Tips & Tricks (How to Use it)"
+    },
+    {
+      "id": "HKI8OdS9DOU",
+      "channel": " 𝓔𝟛𝓘𝓐𝓝'𝓢 𝓣𝓮𝓬𝓱 ",
+      "duration": 920.0,
+      "title": "Unboxing 2 Budget Room Projectors! (Astronaut Sunset + Aura Light)"
+    }
+  ]
+}

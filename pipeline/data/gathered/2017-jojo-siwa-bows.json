@@ -1,0 +1,64 @@
+{
+  "id": "2017-jojo-siwa-bows",
+  "year": 2017,
+  "name": "JoJo Siwa Bows",
+  "price_eur": 6.99,
+  "price_text": "€6.99+",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w96v_dDlQAs",
+      "channel": "JoJo Siwa",
+      "duration": 500.0,
+      "title": "MY COLLECTION OF JOJO BOWS!!! (12,000+)"
+    },
+    {
+      "id": "FCLGZvujYeM",
+      "channel": "Trinity and Beyond",
+      "duration": 848.0,
+      "title": "Hello Neighbor in Real Life!!! JoJo Bows Scavenger Hunt! He Hides My JoJo Siwa Bow Collection!!!"
+    },
+    {
+      "id": "hf4cmT1G-Yg",
+      "channel": "JoJo Siwa",
+      "duration": 158.0,
+      "title": "JoJo Siwa - BOP! (Official Video)"
+    },
+    {
+      "id": "2L1hQv_QCDc",
+      "channel": "Sambro",
+      "duration": 194.0,
+      "title": "Jojo Siwa Bow Maker  How To Video"
+    },
+    {
+      "id": "FzJ3itN92VI",
+      "channel": "The Tonight Show Starring Jimmy Fallon",
+      "duration": 387.0,
+      "title": "JoJo Siwa on Grabbing Justin Bieber's Attention and Her Signature Bows"
+    }
+  ]
+}

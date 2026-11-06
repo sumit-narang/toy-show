@@ -1,0 +1,54 @@
+{
+  "id": "2021-magic-mixies-magic-cauldron",
+  "year": 2021,
+  "name": "Magic Mixies Magic Cauldron",
+  "price_eur": 94.99,
+  "price_text": "€94.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/magic-mixies-pink/1600607904.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/magic-mixies-pink/1600607904.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Lg83HmAPkVI",
+      "channel": "Moose Top TV Commercials",
+      "duration": 1001.0,
+      "title": "MAGIC MIXIES | MAGIC CAULDRON HOW TO & TROUBLESHOOTING"
+    },
+    {
+      "id": "RVWrW3vUkHk",
+      "channel": "Tallie's Tricks",
+      "duration": 815.0,
+      "title": "Magic Mixies Magic Cauldron"
+    },
+    {
+      "id": "9anNv9WOoeA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 191.0,
+      "title": "WHO WILL YOU MAGICALLY CREATE?✨ Magic Mixies Magic Cauldron from Moose Toys!"
+    },
+    {
+      "id": "RELYN1NOfGQ",
+      "channel": "재겨미",
+      "duration": 447.0,
+      "title": "[ASMR] magic mixies asmr | making slime potions | 매직믹시스 마법항아리 슬라임 만들기 모음"
+    },
+    {
+      "id": "G2VrABKxc4I",
+      "channel": "CoolToys",
+      "duration": 262.0,
+      "title": "HOW TO REFILL MIST ON MAGIC MIXIES | MAGIC CAULDRON"
+    }
+  ]
+}

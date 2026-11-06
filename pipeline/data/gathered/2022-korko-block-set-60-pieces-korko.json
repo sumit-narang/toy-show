@@ -1,0 +1,57 @@
+{
+  "id": "2022-korko-block-set-60-pieces-korko",
+  "year": 2022,
+  "name": "Korko Block Set 60 Pieces Korko",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Toynamics",
+      "url": "https://toynamics.com/?lang=en"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toynamics.com/?lang=en",
+      "title": "Front page - Toynamics",
+      "description": "With Toynamics it's all about toys. With our broad brand portfolio and innovative, unique products, we are a one-stop-shop for toys!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d4qUde2RYKE",
+      "channel": "Ethio Engineering  | Engineer Fasil Hailu",
+      "duration": 509.0,
+      "title": "በ2018/2026 የ 50 ቆርቆሮ የብሎኬት ቤት ለመገንባት ስንት ብር ያስፈልጋል? | 60m2 House Construction Cost in Ethiopia"
+    },
+    {
+      "id": "MYJw6zxg9vM",
+      "channel": "N.R Tech Solution",
+      "duration": 388.0,
+      "title": "All ZTE nubia FRP Bypass Focus 5g, Z70 Ultra, V70, V60, Z60s, Z60 Ultra, Focus Pro New Update 2025"
+    },
+    {
+      "id": "sNtrwnN-28E",
+      "channel": "Man Flow Yoga",
+      "duration": 873.0,
+      "title": "Yoga for Weight Loss and Belly Fat | Fat Burning Core-Focused Workout for Complete Beginners"
+    },
+    {
+      "id": "IqcS1d3eXYc",
+      "channel": "Dream",
+      "duration": 3124.0,
+      "title": "Minecraft Speedrunner Swap VS 3 Hunters"
+    },
+    {
+      "id": "c-1DWqNco-Q",
+      "channel": "EngineerSupply.com",
+      "duration": 111.0,
+      "title": "How to Set Grade with a Laser Level"
+    }
+  ]
+}

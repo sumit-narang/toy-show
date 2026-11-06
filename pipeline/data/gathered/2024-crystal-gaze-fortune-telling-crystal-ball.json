@@ -1,0 +1,57 @@
+{
+  "id": "2024-crystal-gaze-fortune-telling-crystal-ball",
+  "year": 2024,
+  "name": "Crystal Gaze Fortune Telling Crystal Ball",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/crystal-gaze-fortune-telling-crystal-ball/p/235341"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/crystal-gaze-fortune-telling-crystal-ball/p/235341",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vwCDXnJUk3I",
+      "channel": "ToyMonster",
+      "duration": 30.0,
+      "title": "CRYSTAL GAZE FORTUNE TELLING CRYSTAL BALL BY TOYMONSTER | 30 SEC TVC"
+    },
+    {
+      "id": "DnylGrkYKDc",
+      "channel": "ToyMonster",
+      "duration": 106.0,
+      "title": "CRYSTAL GAZE | HOW-TO | TOYMONSTER"
+    },
+    {
+      "id": "SQmTK5e4iU4",
+      "channel": "Smyths Toys Superstores",
+      "duration": 34.0,
+      "title": "Crystal Gaze Fortune Telling Crystal Ball - Smyths Toys"
+    },
+    {
+      "id": "xmc5ENGXWck",
+      "channel": "Something Different Wholesale",
+      "duration": 59.0,
+      "title": "'The Fortune Teller' Collection | Something Different Wholesale"
+    },
+    {
+      "id": "-JjewxVaf2s",
+      "channel": "Bewitching.Bemused",
+      "duration": 1537.0,
+      "title": "Introduction to Scrying - Gazing - Crystal Ball Divination"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-hornby-flying-scotsman-train-set",
+  "year": 2020,
+  "name": "Hornby Flying Scotsman Train Set",
+  "price_eur": 179.99,
+  "price_text": "€179.99",
+  "retailers": [
+    {
+      "name": "Mark's Models",
+      "url": "https://www.marksmodels.com/?pid=15146"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.marksmodels.com/?pid=15146"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6ZfYAz_jm4I",
+      "channel": "Model Railway in Action",
+      "duration": 1172.0,
+      "title": "Flying Scotsman Train Set | Unboxing, Set Up & Running"
+    },
+    {
+      "id": "aDde9mZT8uo",
+      "channel": "Hornby Model Railways",
+      "duration": 89.0,
+      "title": "Hornby | Flying Scotsman Train Set"
+    },
+    {
+      "id": "0WY677tiME4",
+      "channel": "World of Model Trains ASMR Unboxing",
+      "duration": 905.0,
+      "title": "Hornby OO-Gauge The Flying Scotsman Electric Model Train Set Unboxing"
+    },
+    {
+      "id": "BbHDUrl3n4s",
+      "channel": "Andy Micoley",
+      "duration": 673.0,
+      "title": "2020 REVIEW: Hornby's OO Scale FLYING SCOTSMAN Train Set."
+    },
+    {
+      "id": "kscZK48dOxk",
+      "channel": "Sam'sTrains",
+      "duration": 1467.0,
+      "title": "Unboxing the Hornby Railroad A1 Flying Scotsman"
+    }
+  ]
+}

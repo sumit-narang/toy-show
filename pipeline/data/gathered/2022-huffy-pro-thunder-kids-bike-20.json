@@ -1,0 +1,54 @@
+{
+  "id": "2022-huffy-pro-thunder-kids-bike-20",
+  "year": 2022,
+  "name": "Huffy Pro Thunder Kids Bike 20\"",
+  "price_eur": 189.0,
+  "price_text": "€189",
+  "retailers": [
+    {
+      "name": "Eurocycles",
+      "url": "https://eurocycles.com/huffy-pro-thunder-kids-bike-20-5-to-8-years-old/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xJjShfzqmIQ",
+      "channel": "Fun Reviews",
+      "duration": 68.0,
+      "title": "Huffy 20 Inch Boys Pro Thunder Bike Review"
+    },
+    {
+      "id": "m9Eio34Twr8",
+      "channel": "Huffy UK EU",
+      "duration": 38.0,
+      "title": "Pro Thunder 10in to 20in Bike | Huffy"
+    },
+    {
+      "id": "afiP9EOgX04",
+      "channel": "AHTube 87",
+      "duration": 142.0,
+      "title": "Huffy 20\" GRM Kids Bike The Ultimate Ride for Growing Kids?"
+    },
+    {
+      "id": "o99zVXbTR5s",
+      "channel": "Huffy Bicycles",
+      "duration": 55.0,
+      "title": "Metaloid Bike Video"
+    },
+    {
+      "id": "u-JyP9CP16U",
+      "channel": "Huffy Bicycles",
+      "duration": 48.0,
+      "title": "Ignyte™ Bike — 20\" Boys' Single-Speed Bicycle, Red | Huffy"
+    }
+  ]
+}

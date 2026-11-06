@@ -1,0 +1,57 @@
+{
+  "id": "2020-le-toy-van-cherry-tree-hall-and-accessories",
+  "year": 2020,
+  "name": "Le Toy Van Cherry Tree Hall and Accessories",
+  "price_eur": 345.0,
+  "price_text": "€345.00",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/le-toy-van-cherry-tree-doll-house-dolls-3-roomsets/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/product-category/wooden-toys/traditional-doll-houses/",
+      "title": "Wooden Dollhouses Archives",
+      "description": "Discover our beautiful collection of wooden dollhouses, designed to inspire imaginative play and endless storytelling. Timeless toys made to be treasured for years to come.",
+      "image": "https://littledreamers.ie/wp-content/uploads/Le-Toy-Van-Sophies-Wooden-Doll-House-11.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TT4kbQKCAnE",
+      "channel": "little whimsy",
+      "duration": 311.0,
+      "title": "Le Toy Van  - cherry tree hall dolls house"
+    },
+    {
+      "id": "fmfS4lseT5o",
+      "channel": "Le Toy Van",
+      "duration": 19.0,
+      "title": "Cherry Tree Hall Dolls House | Le Toy Van"
+    },
+    {
+      "id": "J2lR3HXULbc",
+      "channel": "Le Toy Van",
+      "duration": 311.0,
+      "title": "Le Toy Van - Cherry Tree Hall Dolls House"
+    },
+    {
+      "id": "p_I5S7bCkS0",
+      "channel": "Prime Picks Hub",
+      "duration": 121.0,
+      "title": "Le Toy Van Cherry Tree Hall - Honest Review - Is It Worth the Hype"
+    },
+    {
+      "id": "uoaqkvTMdI0",
+      "channel": "The Zambons",
+      "duration": 180.0,
+      "title": "TODDLER DOLLHOUSE SET-UP & PLAY (LE TOY VAN CHERRY TREE HALL | TENDER LEAF TOYS DOLLS & FURNITURE)"
+    }
+  ]
+}

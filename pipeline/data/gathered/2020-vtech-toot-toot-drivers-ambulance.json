@@ -1,0 +1,54 @@
+{
+  "id": "2020-vtech-toot-toot-drivers-ambulance",
+  "year": 2020,
+  "name": "VTech Toot-Toot Drivers Ambulance",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "World of Wonder",
+      "url": "https://worldofwondertoys.ie/product/vtech-toot-toot-drivers-ambulance/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://worldofwondertoys.ie/product/vtech-toot-toot-drivers-ambulance/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s93pyPDpoLg",
+      "channel": "ictio",
+      "duration": 94.0,
+      "title": "VTech Toot Toot Drivers - Ambulance"
+    },
+    {
+      "id": "4bYRsGK9B3Q",
+      "channel": "ictio",
+      "duration": 142.0,
+      "title": "VTech Toot Toot Drivers - Ambulance"
+    },
+    {
+      "id": "CHLW2Ihy95c",
+      "channel": "Rm channel  toys cars fun Games ",
+      "duration": 105.0,
+      "title": "Vtech Toot toot Drivers Ambulance  🚑 "
+    },
+    {
+      "id": "dH10eW6-Odc",
+      "channel": "SAFFRON 2",
+      "duration": 279.0,
+      "title": "VTech Toot-Toot Drivers Ambulance Інтерактивна   Швидка допомога"
+    },
+    {
+      "id": "F3DsSiODlXk",
+      "channel": "Oscar’s toys collection",
+      "duration": 182.0,
+      "title": "New Vtech Toot Toot Drivers Ambulance Emergency Vehicle"
+    }
+  ]
+}

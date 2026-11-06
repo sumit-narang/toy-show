@@ -1,0 +1,54 @@
+{
+  "id": "2022-squishmallow-ski-chalet",
+  "year": 2022,
+  "name": "Squishmallow Ski Chalet",
+  "price_eur": 64.99,
+  "price_text": "€64.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/squishville-squishville-by-original-squishmallows-squishville-ski-chalet-playset/1600773708.prd?sku=sku25346020&msclkid=8d5c8bb610b018d73a2fe8c1f33b7163"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/squishville-squishville-by-original-squishmallows-squishville-ski-chalet-playset/1600773708.prd?sku=sku25346020&msclkid=8d5c8bb610b018d73a2fe8c1f33b7163"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CfFslo4f0yM",
+      "channel": "Victoria Alissa",
+      "duration": 163.0,
+      "title": "Review: Squishville FiFi's Cottage"
+    },
+    {
+      "id": "he-vHjUIfR0",
+      "channel": "Jazwares",
+      "duration": 16.0,
+      "title": "Squishville Ski Chalet TV Commercial | Jazwares"
+    },
+    {
+      "id": "hCrkw7t-TfQ",
+      "channel": "ElborethianAbarat",
+      "duration": 1139.0,
+      "title": "Unboxing Squishville Ski Chalet"
+    },
+    {
+      "id": "ooqh-aQrv1I",
+      "channel": "CozyUnboxings",
+      "duration": 147.0,
+      "title": "Squishmallow Unboxing ASMR | Squishville & Squooshems Series"
+    },
+    {
+      "id": "tzWwbIME308",
+      "channel": "Squishville by Original Squishmallows",
+      "duration": 16.0,
+      "title": "Squishville Ski Chalet Mega Playset Commercial"
+    }
+  ]
+}

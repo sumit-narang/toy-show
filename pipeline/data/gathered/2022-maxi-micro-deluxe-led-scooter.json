@@ -1,0 +1,54 @@
+{
+  "id": "2022-maxi-micro-deluxe-led-scooter",
+  "year": 2022,
+  "name": "Maxi Micro Deluxe LED Scooter",
+  "price_eur": 169.95,
+  "price_text": "€169.95",
+  "retailers": [
+    {
+      "name": "Micro Scooters",
+      "url": "https://www.micro-scooters.ie/maxi-micro-deluxe-led-scooter-blue-6380#selection.size=5454&selection.color=5729"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.micro-scooters.ie/collections/3-wheeled-maxi-micro-scooters#selection.size=5454&selection.color=5729"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C8UmEyh1MEo",
+      "channel": "Micro Mobility Official",
+      "duration": 41.0,
+      "title": "Mini Micro & Maxi Micro Deluxe LED - Shine bright like a star!"
+    },
+    {
+      "id": "tRTXBkw8dMs",
+      "channel": "Micro Mobility Official",
+      "duration": 60.0,
+      "title": "Maxi Micro Deluxe Foldable LED - Fold and go!"
+    },
+    {
+      "id": "mK3HXWJZQp8",
+      "channel": "Micro Kickboard",
+      "duration": 43.0,
+      "title": "BEST New Scooters for Kids | Micro Maxi Deluxe with LED Wheels"
+    },
+    {
+      "id": "Yp66iVr6JzU",
+      "channel": "Micro Mobility NL BE distributeur",
+      "duration": 48.0,
+      "title": "Maxi Micro Deluxe LED - For fun & visibility!"
+    },
+    {
+      "id": "od--g337z7I",
+      "channel": "Micro Koloběžky CZ",
+      "duration": 201.0,
+      "title": "Unboxing - Maxi Micro Deluxe Pro purple"
+    }
+  ]
+}

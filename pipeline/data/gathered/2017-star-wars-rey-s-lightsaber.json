@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-rey-s-lightsaber",
+  "year": 2017,
+  "name": "Star Wars Rey's Lightsaber",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Cc4FlsPnFxI",
+      "channel": "Star Wars Clips",
+      "duration": 49.0,
+      "title": "Rey Yellow Lightsaber' The Rise Of Skywalker Clip"
+    },
+    {
+      "id": "iC12_G4mAYc",
+      "channel": "Finding The Force",
+      "duration": 1099.0,
+      "title": "Comparing 4 Rey Skywalker Lightsabers! Galaxy's Edge + Neopixel!"
+    },
+    {
+      "id": "jzMOFjFk1JM",
+      "channel": "Tom Jedi",
+      "duration": 61.0,
+      "title": "Rey Using A Yellow Lightsaber (Throne Room Scene)"
+    },
+    {
+      "id": "QwUq5k_V31A",
+      "channel": "Tom Jedi",
+      "duration": 109.0,
+      "title": "Rey Using A Yellow Lightsaber (The Rise Of Skywalker)"
+    },
+    {
+      "id": "FJTz-ahXyyI",
+      "channel": "AWESOME MOVIE CLIPS",
+      "duration": 293.0,
+      "title": "Star Wars: Episode VII The Force Awakens - Finn & Rey Vs. Kylo Ren [4K 60fps]"
+    }
+  ]
+}

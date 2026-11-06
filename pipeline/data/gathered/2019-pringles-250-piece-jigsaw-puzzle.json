@@ -1,0 +1,57 @@
+{
+  "id": "2019-pringles-250-piece-jigsaw-puzzle",
+  "year": 2019,
+  "name": "Pringles 250 Piece Jigsaw Puzzle",
+  "price_eur": null,
+  "price_text": "£11.00",
+  "retailers": [
+    {
+      "name": "Gibsons Games",
+      "url": "https://gibsonsgames.co.uk/products/pringles-250-piece-jigsaw-puzzle"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://gibsonsgames.co.uk/en-eu",
+      "title": "Gibsons Games - Jigsaws, Puzzles and Games for All Ages",
+      "description": "Our Gibsons range of jigsaws, board games and playing cards are suitable for all ages, designed to 'bring people together' for a happy and active mind.",
+      "image": "https://cdn.shopify.com/s/files/1/0039/8491/6589/files/Puzzle_collection_lifestyle_isolated.psd.png?v=1771335794"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Z48vCVocQ1s",
+      "channel": "For the Love of Puzzles",
+      "duration": 834.0,
+      "title": "My First WerkShoppe Jigsaw Puzzles!! A Puzzle Snax & an Oasis #puzzle #jigsawpuzzle"
+    },
+    {
+      "id": "jQxkliOmDZc",
+      "channel": "Karen Puzzles",
+      "duration": 1306.0,
+      "title": "I BOUGHT MY DREAM PUZZLE (24,000 Piece Puzzle - Part 1 of 6)"
+    },
+    {
+      "id": "zONfk15W500",
+      "channel": "Puzzling with Oatcake",
+      "duration": 156.0,
+      "title": "mentos jigsaw puzzle 50 piece time lapse"
+    },
+    {
+      "id": "wPVb2Wu5_j0",
+      "channel": "Abby Salter",
+      "duration": 989.0,
+      "title": "My Jigsaw Puzzle Collection"
+    },
+    {
+      "id": "6f8ft1ZDZb8",
+      "channel": "DEEPLAYS",
+      "duration": 65.0,
+      "title": "YWOW Pringles Mini Puzzle Collection Speed Build 300 Pcs ( 50pcsx6)"
+    }
+  ]
+}

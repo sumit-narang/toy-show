@@ -1,0 +1,42 @@
+{
+  "id": "2022-my-little-uniform-children-s-garda-s-och-na-costume",
+  "year": 2022,
+  "name": "My Little Uniform Children's Garda Síochána costume",
+  "price_eur": 59.95,
+  "price_text": "€59.95",
+  "retailers": [
+    {
+      "name": "My Little Uniform",
+      "url": "https://mylittleuniform.com/shop/garda-siochana-uniform/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 503,
+      "final_url": "https://mylittleuniform.com"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "agA9fU37Ams",
+      "channel": "DonegalTV",
+      "duration": 196.0,
+      "title": "An Garda Síochána & PSNI launch 2013 Winter Road Safety Campaign in Donegal"
+    },
+    {
+      "id": "62Y_ap3i7c0",
+      "channel": "Voz de la Justicia",
+      "duration": 8245.0,
+      "title": "El Papa León XIV Descubrió Por Qué Una Anciana Esperó 6 Noches"
+    },
+    {
+      "id": "vYbBtya3jTs",
+      "channel": "Voz de la Justicia",
+      "duration": 7895.0,
+      "title": "El Papa León XIV y las Dos Velas: Una Historia de Paz y Perdón"
+    }
+  ]
+}

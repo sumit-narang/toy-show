@@ -1,0 +1,60 @@
+{
+  "id": "2020-bigjigs-wooden-food",
+  "year": 2020,
+  "name": "Bigjigs Wooden Food",
+  "price_eur": 15.95,
+  "price_text": "€15.95",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/bigjigs-cutting-vegetables-crate/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/bigjigs-cutting-vegetables-crate/",
+      "title": "Bigjigs Toys Cutting Vegetables Crate",
+      "description": "Bigjigs Toys Cutting Vegetables Crate, a selection of brightly coloured wooden Vegetables that can be sliced up with the aid of a wooden knife",
+      "image": "https://littledreamers.ie/wp-content/uploads/Bigjigs-Cutting-Vegetable-Crate-5.jpg",
+      "ld_description": "Bigjigs Toys Cutting Vegetables Crate, a selection of brightly coloured wooden Vegetables that can be sliced up carefully and accurately with the aid of a wooden knife, encouraging creative and imaginative role play whilst instilling the virtues of good food and healthy eating.\r\n\r\nKids play food set includes a carrot, tomato, cucumber, onion, mushroom and more!. All of the fruits feature velcro fastenings, so kids can safely slice them up with the wooden knife on the chopping board included.\r\n\r\nWooden play food is fantastic for helping children learn all about the importance of a healthy and balanced diet, where our food comes from and how we prepare our meals. Once playtime is over, the wooden food can then be stored back in the storage crate.\r\n\r\nBoosts kids’ fine motor skills, imagination and creativity through imaginary play sessions. Bigjigs Toys Cutting Vegetables Crate is made from high quality, responsibly sourced materials. Conforms to current European safety standards.\r\n\r\n \tCutting play food set\r\n \t7 pieces of wooden Vegetables\r\n \t1 wooden knife and chopping board\r\n \t1 Vegetable crate\r\n \tInspires creative role play\r\n \tSuitable for 18+ months\r\n\r\nDimensions   W18cm,  H 5cm, D 14.5cm",
+      "brand": null,
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sd3opN898Ds",
+      "channel": "Alice Chaganis",
+      "duration": 215.0,
+      "title": "Bigjigs Toys Play Patrol Review | BJ440 Breakfast Tray"
+    },
+    {
+      "id": "qCKDbqn69G4",
+      "channel": "wendymcd83",
+      "duration": 76.0,
+      "title": "Freddy runs his Bigjigs Grocery Shop"
+    },
+    {
+      "id": "nUaLxCczW-w",
+      "channel": "Oh Happy Day",
+      "duration": 154.0,
+      "title": "Bigjigs healthy dairy food set"
+    },
+    {
+      "id": "qR4_eIXqIy8",
+      "channel": "My Fun Wooden Trains",
+      "duration": 1038.0,
+      "title": "15 különböző Bigjigs fa vonaton mozgása (000082 hu)"
+    },
+    {
+      "id": "Pv1_HyD2fY0",
+      "channel": "Little Tots Toys",
+      "duration": 41.0,
+      "title": "Bigjigs Toys Arctic Tower Puzzle Video"
+    }
+  ]
+}

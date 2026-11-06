@@ -1,0 +1,53 @@
+{
+  "id": "2017-values-gift-robot-money-box",
+  "year": 2017,
+  "name": "Values Gift Robot Money Box",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "obP7rZt7m64",
+      "channel": "Shark Tank India",
+      "duration": 989.0,
+      "title": "Sharks Love 'Rubbabu's' Unique Handcrafted Toys | Shark Tank India S3 | Full Pitch"
+    },
+    {
+      "id": "4gZzR_cYGfQ",
+      "channel": "Blcost",
+      "duration": 61.0,
+      "title": "Robot Bodyguard Electronic Piggy Bank-Pink"
+    },
+    {
+      "id": "npQC_EmFKBk",
+      "channel": "TechRx Home and 3 more",
+      "duration": 320.0,
+      "title": "Sale Deals🔥Best Robotic Cleaner 2026🔥 Vacuum Cleaner for Home 🔥 Robot Vacuum Cleaner in Diwali Sale"
+    },
+    {
+      "id": "T8_vOpZOOtI",
+      "channel": "DIY Ocean",
+      "duration": 177.0,
+      "title": "How to Make Mini ATM Machine Cardboard"
+    },
+    {
+      "id": "WBuP-BMos5o",
+      "channel": "siddharth creations",
+      "duration": 223.0,
+      "title": "How to make a Simple ATM machine | card board easy atm machine , mini coin bank making"
+    }
+  ]
+}

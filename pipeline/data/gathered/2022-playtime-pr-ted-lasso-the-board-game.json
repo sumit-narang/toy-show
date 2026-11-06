@@ -1,0 +1,57 @@
+{
+  "id": "2022-playtime-pr-ted-lasso-the-board-game",
+  "year": 2022,
+  "name": "Playtime PR Ted Lasso the Board Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OIdLLiCWsQI",
+      "channel": "Funko Games",
+      "duration": 238.0,
+      "title": "How to Play Ted Lasso Party Game"
+    },
+    {
+      "id": "dvHqVyxdWYU",
+      "channel": "Triple S Games",
+      "duration": 340.0,
+      "title": "How to play Monopoly (2025 Rules)"
+    },
+    {
+      "id": "0IHyrYGfO1Y",
+      "channel": "Last Night Games",
+      "duration": 613.0,
+      "title": "The Finest Fish - Full Rules"
+    },
+    {
+      "id": "hOiqp6dM4K8",
+      "channel": "Shut Up & Sit Down",
+      "duration": 1478.0,
+      "title": "5 MORE Great New Board Games! [Rattlesnake, Yonder, Bomb Busters, Herd, and No Loose Ends]"
+    },
+    {
+      "id": "4nz-_hvFw44",
+      "channel": "Watch It Played",
+      "duration": 1095.0,
+      "title": "How To Play Monopoly Correctly! - A Full Tutorial"
+    }
+  ]
+}

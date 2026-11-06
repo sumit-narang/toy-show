@@ -1,0 +1,54 @@
+{
+  "id": "2017-elf-on-a-shelf-letters-to-santa",
+  "year": 2017,
+  "name": "Elf On A Shelf Letters To Santa",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Arnottsfor",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://www.arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MwX9gjTxb7s",
+      "channel": "The Elf on the Shelf",
+      "duration": 129.0,
+      "title": "Letters to Santa! | Official Music Video | The Elf on the Shelf Santaverse"
+    },
+    {
+      "id": "7xY3jj0FZMA",
+      "channel": "Books With Laura",
+      "duration": 165.0,
+      "title": "Elf on the Shelf 🧝🏻🎄 Letters to Santa Book - A Fun New Holiday Tradition!"
+    },
+    {
+      "id": "wNYXKjJPyBs",
+      "channel": "The Elf on the Shelf",
+      "duration": 129.0,
+      "title": "Letters to Santa | Official Sing-Along | The Elf on the Shelf Santaverse"
+    },
+    {
+      "id": "EfDm0iRASwk",
+      "channel": "The Elf on the Shelf",
+      "duration": 55.0,
+      "title": "The Fastest Way to Send Letters to Santa"
+    },
+    {
+      "id": "8rwbj05FA9k",
+      "channel": "Madison and Beyond",
+      "duration": 640.0,
+      "title": "Letters to Santa!! Elf on the Shelf Day 18"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-master-detective-toolkit-forensic-kit",
+  "year": 2025,
+  "name": "Master Detective Toolkit Forensic Kit",
+  "price_eur": 39.95,
+  "price_text": "€39.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/master-detective-toolkit-forensic-kit"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/master-detective-toolkit-forensic-kit"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LEevgIQj5cA",
+      "channel": "Lucky Penny Shop",
+      "duration": 241.0,
+      "title": "Master Detective Set #221 NSI Kit With Police Fingerprint Kit & Real 110 Camera!"
+    },
+    {
+      "id": "HA4yMJu-Gao",
+      "channel": "Thames & Kosmos",
+      "duration": 50.0,
+      "title": "Master Detective Toolkit V2"
+    },
+    {
+      "id": "w_GGAQ8QTpk",
+      "channel": "Thames & Kosmos",
+      "duration": 49.0,
+      "title": "Spy Labs: Forensic Investigation Kit"
+    },
+    {
+      "id": "6kOUIroSUX4",
+      "channel": "Elevated Dad",
+      "duration": 173.0,
+      "title": "Crack the Case With The Spy Labs Forensic Investigation Kit For Kids"
+    },
+    {
+      "id": "vOr8WLS_7KM",
+      "channel": "BRILLIANT FORENSIC INVESTIGATION",
+      "duration": 242.0,
+      "title": "Crime Scene Investigation Kit"
+    }
+  ]
+}

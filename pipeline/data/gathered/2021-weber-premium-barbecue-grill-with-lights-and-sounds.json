@@ -1,0 +1,57 @@
+{
+  "id": "2021-weber-premium-barbecue-grill-with-lights-and-sounds",
+  "year": 2021,
+  "name": "Weber Premium Barbecue Grill with Lights and Sounds",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sand-and-water-tables/sand-and-water-tables/weber-premium-barbecue-grill-with-lights-and-sounds/p/8031194"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sand-and-water-tables/sand-and-water-tables/weber-premium-barbecue-grill-with-lights-and-sounds/p/8031194",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JXfLxnyBIr0",
+      "channel": "Klein Toys",
+      "duration": 54.0,
+      "title": "Theo Klein – Weber kettle barbecue (#9466)"
+    },
+    {
+      "id": "vBFku3EOf-k",
+      "channel": "Win With Ryan",
+      "duration": 1388.0,
+      "title": "Weber Kettle Grill  New - Weber Grill Assembly"
+    },
+    {
+      "id": "d1XOQI_g2WY",
+      "channel": "Feuer, Glut und Herzblut - Grillpodcast und Blog",
+      "duration": 20.0,
+      "title": "Weber Spielzeuggrill - Die Grillkohle"
+    },
+    {
+      "id": "ZEMhLcERXNs",
+      "channel": "HYPOINT3",
+      "duration": 59.0,
+      "title": "How to light a Klein Weber Kettle BBQ"
+    },
+    {
+      "id": "a-ndzkV4vtU",
+      "channel": "Jacob Logeman",
+      "duration": 31.0,
+      "title": "Weber Grill Commercial"
+    }
+  ]
+}

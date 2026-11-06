@@ -1,0 +1,54 @@
+{
+  "id": "2023-bainisteoir",
+  "year": 2023,
+  "name": "Bainisteoir",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Cogs the Brain Shop",
+      "url": "https://www.cogstoysandgames.ie/products/bainisteoir-board-game"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.cogstoysandgames.ie/products/bainisteoir-board-game"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kLJhFMoKetg",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 81.0,
+      "title": "Pippa's Shock | Celebrity Bainisteoir - The Rivals"
+    },
+    {
+      "id": "QeISrq_LLzY",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 43.0,
+      "title": "From Newtowncashel to Hollywood | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "I77kMtmXiD8",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 76.0,
+      "title": "Hang sangwiches anyone? | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "7wr-lgk5gMw",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 31.0,
+      "title": "The Final | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "fIUwzgYzn_4",
+      "channel": "CelebrityBainisteoir",
+      "duration": 57.0,
+      "title": "Celebrity Bainisteoir - Emma O'Driscoll"
+    }
+  ]
+}

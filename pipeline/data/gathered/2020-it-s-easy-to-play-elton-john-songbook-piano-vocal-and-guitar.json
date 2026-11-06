@@ -1,0 +1,54 @@
+{
+  "id": "2020-it-s-easy-to-play-elton-john-songbook-piano-vocal-and-guitar",
+  "year": 2020,
+  "name": "It's Easy to Play Elton John Songbook (Piano, Vocal and Guitar)",
+  "price_eur": 13.5,
+  "price_text": "€13.50",
+  "retailers": [
+    {
+      "name": "Waltons Music",
+      "url": "https://www.waltons.ie/home/products/view/11amus-am61714-its-easy-to-play-elton-john-piano-vocal-guitar/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.waltons.ie/home/products/view/11amus-am61714-its-easy-to-play-elton-john-piano-vocal-guitar/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "upj0SotoBCY",
+      "channel": "Piano with Nate",
+      "duration": 1450.0,
+      "title": "How To Play \"Your Song\" by Elton John [Piano Tutorial + Chord Chart]"
+    },
+    {
+      "id": "8jMbbh0VPBo",
+      "channel": "Andy Guitar",
+      "duration": 1060.0,
+      "title": "Elton John - Your Song Guitar Lesson Tutorial // EASY Chords"
+    },
+    {
+      "id": "GlPlfCy1urI",
+      "channel": "Elton John",
+      "duration": 229.0,
+      "title": "Elton John - Your Song (Top Of The Pops 1971)"
+    },
+    {
+      "id": "yJ_H28GoaCs",
+      "channel": "Elton John",
+      "duration": 308.0,
+      "title": "Elton John - Song For Guy"
+    },
+    {
+      "id": "4mt34MU4R3A",
+      "channel": "Nicholas powers",
+      "duration": 901.0,
+      "title": "Super easy songbook"
+    }
+  ]
+}

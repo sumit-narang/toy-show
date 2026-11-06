@@ -1,0 +1,53 @@
+{
+  "id": "2017-kiss-and-tell-born-lippy-wand",
+  "year": 2017,
+  "name": "Kiss and Tell Born Lippy Wand",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ThtYOFn1rb0",
+      "channel": "Silvia Martinez",
+      "duration": 685.0,
+      "title": "THE BODY SHOP GIVEAWAY HAUL UNBOXING"
+    },
+    {
+      "id": "9ma7fw2PzXo",
+      "channel": "Lipi Baidya",
+      "duration": 865.0,
+      "title": "My Current GO-TO Everyday Basic Look"
+    },
+    {
+      "id": "_STtpGr_KsY",
+      "channel": "Sylvia Jade",
+      "duration": 147.0,
+      "title": "Comfy Cute Winter Outfits Lookbook + GIVEAWAY!"
+    },
+    {
+      "id": "EbEzwNoIUlw",
+      "channel": "Rachael Needle",
+      "duration": 1513.0,
+      "title": "Rec-It Rach Summer Holiday Edition"
+    },
+    {
+      "id": "YgHKkzMrsXc",
+      "channel": "Supreme Audiobooks",
+      "duration": 20471.0,
+      "title": "The British Soldier: His Courage And Humour by Edward John Hardy - Full Audiobook"
+    }
+  ]
+}

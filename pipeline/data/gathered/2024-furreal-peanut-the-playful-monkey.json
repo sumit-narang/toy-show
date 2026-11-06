@@ -1,0 +1,57 @@
+{
+  "id": "2024-furreal-peanut-the-playful-monkey",
+  "year": 2024,
+  "name": "FurReal Peanut the Playful Monkey",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/fur-real/furreal-peanut-the-playful-monkey/p/237217"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/fur-real/furreal-peanut-the-playful-monkey/p/237217",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3TkaJOAiAF8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 121.0,
+      "title": "Monkey Around With This New FurReal Friend!"
+    },
+    {
+      "id": "S5gK60ks224",
+      "channel": "Testsofa ",
+      "duration": 592.0,
+      "title": "The NEW interactive MUST-HAVE? 🐒 What can Peanut, the playful monkey, really do?"
+    },
+    {
+      "id": "_ykm2j0GHXE",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1442.0,
+      "title": "New Interactive Toys for Xmas 2024 Furreal Peanut The Playful Monkey Demonstration, Review #furreal"
+    },
+    {
+      "id": "t4xK8lewaZc",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1605.0,
+      "title": "My Baby Monkey Mango, Furreal Peanut Playful Monkey, Fingerlings Care n Cuddle Monkey Comparison"
+    },
+    {
+      "id": "j5Xux0ypyiY",
+      "channel": "nextinmycart",
+      "duration": 118.0,
+      "title": "Birthday or Holiday Hit! My Kids Wont Put This Monkey Down!: Just Play furReal Peanut The"
+    }
+  ]
+}

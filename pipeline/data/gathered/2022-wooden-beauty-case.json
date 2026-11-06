@@ -1,0 +1,57 @@
+{
+  "id": "2022-wooden-beauty-case",
+  "year": 2022,
+  "name": "Wooden beauty case",
+  "price_eur": 41.99,
+  "price_text": "€41.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/beauty-case-25-x-18cm"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GG6jk7vHzWo",
+      "channel": "ASMRplanet",
+      "duration": 1873.0,
+      "title": "ASMR Wooden Makeup on Mannequin (Whispered)"
+    },
+    {
+      "id": "oBlZigZQpXA",
+      "channel": "UnboxingMundo",
+      "duration": 522.0,
+      "title": "8 Minutes Satisfying and Unboxing Cute Pink Wooden Make Up Set | ASMR| 🦄"
+    },
+    {
+      "id": "-7SbYLJceYk",
+      "channel": "ASMRplanet",
+      "duration": 1529.0,
+      "title": "ASMR Doing Your Wooden Makeup (Whispered)"
+    },
+    {
+      "id": "jZp6BtzlXJY",
+      "channel": "ASMRplanet",
+      "duration": 1207.0,
+      "title": "ASMR Makeup Bag/ Makeup sounds  (No Talking)"
+    },
+    {
+      "id": "7ofLZFnjcnQ",
+      "channel": "Little Dutch",
+      "duration": 15.0,
+      "title": "Little Dutch | Beauty Case - Flowers & Butterflies"
+    }
+  ]
+}

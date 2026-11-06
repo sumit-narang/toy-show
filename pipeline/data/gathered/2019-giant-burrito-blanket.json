@@ -1,0 +1,57 @@
+{
+  "id": "2019-giant-burrito-blanket",
+  "year": 2019,
+  "name": "Giant Burrito Blanket",
+  "price_eur": 14.99,
+  "price_text": "from €14.99",
+  "retailers": [
+    {
+      "name": "Pigsback",
+      "url": "https://www.pigsback.com/en-ie/offer/428726"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.pigsback.com/",
+      "title": "Pigsback",
+      "description": "Join Secret Escapes for free to enjoy luxury travel at low prices.",
+      "image": "https://images.secretescapes.io/c/facebook/invite_to_secret_escapes.jpg?w=640&h=459"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "V7FoyJfhfKc",
+      "channel": "Life with the Kams",
+      "duration": 164.0,
+      "title": "This Giant Tortilla Blanket Turns You Into a Human Burrito (Demo)"
+    },
+    {
+      "id": "Y0-5HGNueWM",
+      "channel": "Beau Reviews Awesomeness: Authentic Tests & Demos",
+      "duration": 249.0,
+      "title": "★★★★★ Tortilla Blanket! Zen Life Burrito Blanket, Be a Giant Human Burrito, Taco - Amazon"
+    },
+    {
+      "id": "r_lXsjNoBjQ",
+      "channel": "Lillie' Reviews",
+      "duration": 79.0,
+      "title": "A Giant Tortilla Burrito Blanket 2020"
+    },
+    {
+      "id": "V9oZj-WScWw",
+      "channel": "AshDezignz",
+      "duration": 11.0,
+      "title": "This Blanket Turns You Into a GIANT BURRITO 😂"
+    },
+    {
+      "id": "sLOP0a_Unto",
+      "channel": "Shop Splat",
+      "duration": 35.0,
+      "title": "Best Blanket Ever- Burrito Blanket-  Super warm blanket"
+    }
+  ]
+}

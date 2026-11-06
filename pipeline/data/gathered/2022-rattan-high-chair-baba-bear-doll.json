@@ -1,0 +1,57 @@
+{
+  "id": "2022-rattan-high-chair-baba-bear-doll",
+  "year": 2022,
+  "name": "Rattan High Chair Baba Bear Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "e-BUorMBphU",
+      "channel": "Play Dolls",
+      "duration": 1988.0,
+      "title": "Explore the CUTEST Baby Dolls in Imaginative Play"
+    },
+    {
+      "id": "LrRzjC8Hx94",
+      "channel": "Baby Annabell Doll",
+      "duration": 1457.0,
+      "title": "Baby Alive doll & Baby Annabell doll videos for kids. Pretend play & baby dolls' morning routine."
+    },
+    {
+      "id": "ww50ud6dhDQ",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 631.0,
+      "title": "3 Baby Born Strollers! 🎀 Unboxing Baby Doll's Matching Pram, Buggy & Pushchair Collection"
+    },
+    {
+      "id": "6h3bT-Vj2rs",
+      "channel": "Baby Annabell Doll",
+      "duration": 672.0,
+      "title": "NEW toy stroller for Baby Annabell doll! Baby doll accessories & Baby Born doll videos for kids."
+    },
+    {
+      "id": "0x2byDvaEf4",
+      "channel": "thedollsarentreal",
+      "duration": 770.0,
+      "title": "Silicone Baby Leo’s First Outing With Doll Mom Gina - A Sweet Little Day Together "
+    }
+  ]
+}

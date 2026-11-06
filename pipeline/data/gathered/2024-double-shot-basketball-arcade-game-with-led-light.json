@@ -1,0 +1,57 @@
+{
+  "id": "2024-double-shot-basketball-arcade-game-with-led-light",
+  "year": 2024,
+  "name": "Double Shot Basketball Arcade Game with LED Light",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/basketball/double-shot-basketball-arcade-game-with-led-lights/p/237190"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/basketball/double-shot-basketball-arcade-game-with-led-lights/p/237190",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BBQTmqLJXtg",
+      "channel": "Smyths Toys Superstores",
+      "duration": 22.0,
+      "title": "Double Shot Basketball Arcade Game with LED Lights - Smyths Toys"
+    },
+    {
+      "id": "In9qBeFi0Xc",
+      "channel": "Incentive Concepts",
+      "duration": 44.0,
+      "title": "Triumph Sports Light FX Double Shootout"
+    },
+    {
+      "id": "yBuf82j6GhY",
+      "channel": "Incentive Concepts",
+      "duration": 31.0,
+      "title": "Triumph Sports Playmaker Double Shootout"
+    },
+    {
+      "id": "rt2mkSIfQ1Y",
+      "channel": "Costway",
+      "duration": 265.0,
+      "title": "How to Install the Foldable Dual Shot Basketball Arcade Game | SP37878 #costway #howto"
+    },
+    {
+      "id": "0Yg6SVooZoA",
+      "channel": "Incentive Concepts",
+      "duration": 31.0,
+      "title": "Triumph Sports \"Big Shot II\" -38mm 8 in 1 Blue Shootout"
+    }
+  ]
+}

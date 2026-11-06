@@ -1,0 +1,57 @@
+{
+  "id": "2017-bagpuss",
+  "year": 2017,
+  "name": "Bagpuss",
+  "price_eur": null,
+  "price_text": "£16.95",
+  "retailers": [
+    {
+      "name": "intelex.co.uk",
+      "url": "https://www.intelex.co.uk"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.intelex.co.uk/",
+      "title": null,
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mqJAVt33klc",
+      "channel": "Bagpuss",
+      "duration": 43.0,
+      "title": "John Lewis Christmas Advert 2026 – Bad Granny (parody)"
+    },
+    {
+      "id": "qy8R1QHRbvQ",
+      "channel": "Kindred",
+      "duration": 648.0,
+      "title": "The Hamish - Bagpuss, classic gentle story and song"
+    },
+    {
+      "id": "HzuKWfX2gFE",
+      "channel": "Doctor Random",
+      "duration": 390.0,
+      "title": "5 Banned Kids' TV Moments That Went Horribly Wrong | Mr Benn, Bagpuss, Rainbow, and more! - parody"
+    },
+    {
+      "id": "dpwhohWhrEE",
+      "channel": "politirel",
+      "duration": 175.0,
+      "title": "Bagpuss opening intro"
+    },
+    {
+      "id": "llIAC5pp55E",
+      "channel": "merriment",
+      "duration": 468.0,
+      "title": "This Morning - Oliver Postgate & 25 Years of Bagpuss (1999)"
+    }
+  ]
+}

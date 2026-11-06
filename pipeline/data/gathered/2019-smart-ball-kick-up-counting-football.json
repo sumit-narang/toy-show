@@ -1,0 +1,57 @@
+{
+  "id": "2019-smart-ball-kick-up-counting-football",
+  "year": 2019,
+  "name": "Smart Ball: Kick Up Counting Football",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-equipment/smart-ball-kick-up-counting-football-with-lights-and-sounds/p/172699"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-equipment/smart-ball-kick-up-counting-football-with-lights-and-sounds/p/172699",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lTqyYp-Y4zQ",
+      "channel": "Golden Bear Toys",
+      "duration": 21.0,
+      "title": "Smart Ball - Kick Up Counting Football with Lights and Sounds"
+    },
+    {
+      "id": "uyu-qgsHzeQ",
+      "channel": "INTEKTOYS",
+      "duration": 123.0,
+      "title": "Smart ball demo video (English version)"
+    },
+    {
+      "id": "BKwxCpbMbf0",
+      "channel": "Golden Bear Toys",
+      "duration": 20.0,
+      "title": "Smart Ball - Kick Up Counting Football with Lights and Sounds"
+    },
+    {
+      "id": "IPdCtDTmuIA",
+      "channel": "Golden Bear Toys",
+      "duration": 21.0,
+      "title": "Smart Ball Skills Ball 2022 TV Advert"
+    },
+    {
+      "id": "fef4nhAjPXc",
+      "channel": "Golden Bear Toys",
+      "duration": 21.0,
+      "title": "Smart Ball Speed Ball: Kick-Speed Measuring Football"
+    }
+  ]
+}

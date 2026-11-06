@@ -1,0 +1,57 @@
+{
+  "id": "2019-nintendo-switch",
+  "year": 2019,
+  "name": "Nintendo Switch",
+  "price_eur": 329.99,
+  "price_text": "€329.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/nintendo-gaming/nintendo-switch/nintendo-switch-consoles/nintendo-switch-grey-improved-battery-/p/182023"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/nintendo-gaming/nintendo-switch/nintendo-switch-consoles/nintendo-switch-grey-improved-battery-/p/182023",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Lk2MPW5DBJY",
+      "channel": "IGN",
+      "duration": 545.0,
+      "title": "Nintendo Switch Sports Resort Review"
+    },
+    {
+      "id": "F-CvM4s21P0",
+      "channel": "Sean McRae",
+      "duration": 247.0,
+      "title": "I replaced Doomscrolling with the Switch 2. Here's what happened"
+    },
+    {
+      "id": "p7XFhH2puCg",
+      "channel": "NintendoAU",
+      "duration": 31.0,
+      "title": "The Legend of Zelda: Ocarina of Time – Steel yourself... (Nintendo Switch 2)"
+    },
+    {
+      "id": "rrbgE7YVy90",
+      "channel": "IGN",
+      "duration": 488.0,
+      "title": "Modern Warfare 4 Graphics Comparison: Nintendo Switch 2 vs PC"
+    },
+    {
+      "id": "haGDkJsDUMk",
+      "channel": "Mrwhosetheboss",
+      "duration": 733.0,
+      "title": "Nintendo Switch 2 Review - Best Worst Console Ever."
+    }
+  ]
+}

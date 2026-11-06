@@ -1,0 +1,57 @@
+{
+  "id": "2025-scruffaluvs",
+  "year": 2025,
+  "name": "ScruffaLuvs",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/scruffaluvs-plush-pet-scruffs-pink-single-pack-assortment/p/249882"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/scruffaluvs-plush-pet-scruffs-pink-single-pack-assortment/p/249882",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "R5Maigg5-_E",
+      "channel": "Moose Top TV Commercials",
+      "duration": 173.0,
+      "title": "SCRUFFALUVS- PET SCRUFFS  I  HOW TO CARE & PLAY VIDEO"
+    },
+    {
+      "id": "lLmSWeowgyM",
+      "channel": "AdventureFun!",
+      "duration": 1725.0,
+      "title": "Scruff A Luvs Pets! Puppy, Bunny & Kitten! From Scruffy To Fluffy Reveal Adventure Fun Toy Review!"
+    },
+    {
+      "id": "Y2Y6SeiBvW8",
+      "channel": "Toys Make Three",
+      "duration": 1129.0,
+      "title": "Unboxing ScruffaLuvs, Little Live Pets My Kitty's Home & Airbrush Plush!"
+    },
+    {
+      "id": "oyAsI0b3CPg",
+      "channel": "MagicalDisneyFan1618",
+      "duration": 15.0,
+      "title": "Scruff A Luvs Unicorn Ad! "
+    },
+    {
+      "id": "KfpRD6qjflY",
+      "channel": "Moose Top TV Commercials",
+      "duration": 147.0,
+      "title": "SCRUFFALUVS | MOM & BABY SCRUFFS | HOW TO PLAY & CARE VIDEO"
+    }
+  ]
+}

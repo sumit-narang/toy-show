@@ -1,0 +1,54 @@
+{
+  "id": "2021-get-crafty-box",
+  "year": 2021,
+  "name": "Get Crafty Box",
+  "price_eur": 27.5,
+  "price_text": "€27.50",
+  "retailers": [
+    {
+      "name": "The Arty Fox",
+      "url": "https://www.theartyfox.ie/Get-Crafty-Box-p252098863"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PdmHKxn8nFc",
+      "channel": "Netflix Jr.",
+      "duration": 697.0,
+      "title": "Get Crafty with Gabby & Friends! 🎨 Gabby's Dollhouse | Netflix Jr"
+    },
+    {
+      "id": "CSx3VJqd3xE",
+      "channel": "Gabby's Dollhouse",
+      "duration": 114.0,
+      "title": "Baby Box - \"Craft\" Lyric Video | GABBY'S DOLLHOUSE | Netflix"
+    },
+    {
+      "id": "Wy8bsk6Zi_A",
+      "channel": "Gabby's Dollhouse",
+      "duration": 3795.0,
+      "title": "Get Crafting With Gabby! 1 Hour of Fun Kids Crafts & DIY | GABBY'S DOLLHOUSE"
+    },
+    {
+      "id": "_FcUcDB0Y9U",
+      "channel": "Gabby's Dollhouse",
+      "duration": 2663.0,
+      "title": "45 Minutes of Gabby Themed Crafts 😻 DIY Marathon with Baby Box! | GABBY'S DOLLHOUSE CRAFT ROOM"
+    },
+    {
+      "id": "BGN9-Q4l3ss",
+      "channel": "Donna Belcher",
+      "duration": 2507.0,
+      "title": "The  Get Crafty Box—June"
+    }
+  ]
+}

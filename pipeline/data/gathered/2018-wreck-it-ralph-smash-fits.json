@@ -1,0 +1,57 @@
+{
+  "id": "2018-wreck-it-ralph-smash-fits",
+  "year": 2018,
+  "name": "Wreck it Ralph Smash Fits",
+  "price_eur": 35.0,
+  "price_text": "35",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yH3YLcQxxmA",
+      "channel": "Walt Disney Animation Studios",
+      "duration": 32.0,
+      "title": "Wreck-It Ralph GameFly Commercial"
+    },
+    {
+      "id": "TNjAZZ3vQ8o",
+      "channel": "Personality0001",
+      "duration": 70.0,
+      "title": "Wreck-It Ralph - Turbo's Story"
+    },
+    {
+      "id": "rZ_Xq_dOQ1Y",
+      "channel": "Darzii",
+      "duration": 1387.0,
+      "title": "How Wreck-It Ralph Tricked an Entire Generation"
+    },
+    {
+      "id": "sa5-awY3ihg",
+      "channel": "Things I Want to Say Sometimes",
+      "duration": 6.0,
+      "title": "Your breath is so bad it made my ears numb."
+    },
+    {
+      "id": "uxeR95aYer0",
+      "channel": "Izforpresident",
+      "duration": 175.0,
+      "title": "Wreck It Ralph - BAD-ANON"
+    }
+  ]
+}

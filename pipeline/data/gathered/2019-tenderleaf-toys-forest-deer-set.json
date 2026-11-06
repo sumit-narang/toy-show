@@ -1,0 +1,54 @@
+{
+  "id": "2019-tenderleaf-toys-forest-deer-set",
+  "year": 2019,
+  "name": "TenderLeaf Toys Forest Deer Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d1XZY6G_dX0",
+      "channel": "Tender Leaf Toys",
+      "duration": 88.0,
+      "title": "Tenderleaf Refrigerator | Tender Leaf"
+    },
+    {
+      "id": "6xll4Zhhomo",
+      "channel": "Bindis and Bottles",
+      "duration": 281.0,
+      "title": "Ostheimer & Holztiger Wooden Animals"
+    },
+    {
+      "id": "r3ISvP9YG1Y",
+      "channel": "Bindis and Bottles",
+      "duration": 538.0,
+      "title": "Ostheimer and Holztiger Giraffes - Toy Comparison Review"
+    },
+    {
+      "id": "r3S-apRasuc",
+      "channel": "Le Toy Van",
+      "duration": 11.0,
+      "title": "Forest Stacker | Stack & Create | Le Toy Van"
+    },
+    {
+      "id": "7qBOyq0awCg",
+      "channel": "Tender Leaf Toys",
+      "duration": 48.0,
+      "title": "Mountain Pass Stack | Tender Leaf Toys"
+    }
+  ]
+}

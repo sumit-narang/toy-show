@@ -1,0 +1,57 @@
+{
+  "id": "2025-inflatable-dinosaur-hopper",
+  "year": 2025,
+  "name": "Inflatable Dinosaur Hopper",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/sensory-toys/physical-play-sensory-toys/inflatable-dinosaur-hopper/p/245411"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/sensory-toys/physical-play-sensory-toys/inflatable-dinosaur-hopper/p/245411",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qE8zm5l1obU",
+      "channel": "Totally Mom Approved",
+      "duration": 97.0,
+      "title": "Dino Bouncer Toy Review 🦖 Giant Fun for Kids Indoors & Out! #BouncyToy #DinosaurFun #KidsActivities"
+    },
+    {
+      "id": "FvazBNzWRxw",
+      "channel": "Really Cool Products",
+      "duration": 104.0,
+      "title": "Giant Inflatable Dinosaur Bouncy Toys for Kids - Heavy Duty, Double Fun for Park Adventures!"
+    },
+    {
+      "id": "x2HI_0LTo14",
+      "channel": "What's on Sale Today",
+      "duration": 24.0,
+      "title": "Dinosaur Hopper"
+    },
+    {
+      "id": "QS78h7Lt3Ck",
+      "channel": "The Toy Verdict",
+      "duration": 31.0,
+      "title": "Review Hiboom 2 Set Inflatable Bouncy Dinosaur Toys with Slip Cover Bounce Animal Dinosaur Hopper To"
+    },
+    {
+      "id": "V9x9p1XdLp0",
+      "channel": "Fantastic Turkiye",
+      "duration": 102.0,
+      "title": "Intex 3D BOP bag dinosaur #intex #fun"
+    }
+  ]
+}

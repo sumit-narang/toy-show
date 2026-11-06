@@ -1,0 +1,54 @@
+{
+  "id": "2021-little-live-pets-my-pet-piggly",
+  "year": 2021,
+  "name": "Little Live Pets My Pet Piggly",
+  "price_eur": 32.99,
+  "price_text": "€32.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/little-live-pets-my-pet-piggly/1600609077.prd?_requestid=137581&Ntt=little%20live%20pets%20my%20pet%20piggly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/little-live-pets-my-pet-piggly/1600609077.prd?_requestid=137581&Ntt=little%20live%20pets%20my%20pet%20piggly"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EGSHtJ5kD_A",
+      "channel": "Brick Latitude",
+      "duration": 143.0,
+      "title": "Review Little Live Pets My Pet Piggly The Toy Pig, Interactive Walking Pig Toy with 25+ Sounds and D"
+    },
+    {
+      "id": "pXAKQpon7FA",
+      "channel": "Imagination Monster",
+      "duration": 373.0,
+      "title": "New My Little Live Pets My Pet Pig Piggly Interactive Toy Unboxing ( SOOO CUTE !!!)"
+    },
+    {
+      "id": "U_zoH9secpI",
+      "channel": "ASMR toy4you",
+      "duration": 391.0,
+      "title": "UNBOXING FurReal Friends | MY PET PIG | LITTLE LIVE PETS | HASBRO TOY"
+    },
+    {
+      "id": "fV5dtm5tcF8",
+      "channel": "Kieran Renee",
+      "duration": 580.0,
+      "title": "Little Live Pets: My Pet Pig unboxing and friendly meetings at Topaz Farm"
+    },
+    {
+      "id": "ZanQVI35HBA",
+      "channel": "Upside Down Toys",
+      "duration": 499.0,
+      "title": "Little Live Pets My Pet Pig Unboxing Review | The Upside Down Robot"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2018-chocolate-sprinkle-stix",
+  "year": 2018,
+  "name": "Chocolate Sprinkle Stix",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uedAkGmMpG0",
+      "channel": "johnadamstoys",
+      "duration": 21.0,
+      "title": "Chocolate Sprinkle Stix from John Adams"
+    },
+    {
+      "id": "jEzgzNyqTxA",
+      "channel": "DollyDTV",
+      "duration": 738.0,
+      "title": "Wacky Wednesday 114 - Chocolate Sprinkle Sticks by John Adams Toys"
+    },
+    {
+      "id": "8mvWHIm2zq4",
+      "channel": "Arianas View",
+      "duration": 553.0,
+      "title": "Chocolate Sprinkle stix dip challenge|Arianas View Review"
+    },
+    {
+      "id": "uaX0q-shhew",
+      "channel": "Sky Kids Channel",
+      "duration": 582.0,
+      "title": "Best Toys 🍫 Chocolate Sprinkle Stix 🍡 Best Toys Commercials ."
+    },
+    {
+      "id": "HQWxQZNQ3c8",
+      "channel": "Yorkshire Wonders",
+      "duration": 40.0,
+      "title": "Chocolate Sprinkle Stix by John Adams - Review"
+    }
+  ]
+}

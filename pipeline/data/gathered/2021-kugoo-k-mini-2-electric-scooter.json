@@ -1,0 +1,54 @@
+{
+  "id": "2021-kugoo-k-mini-2-electric-scooter",
+  "year": 2021,
+  "name": "KUGOO K MINI 2 Electric Scooter",
+  "price_eur": 298.98,
+  "price_text": "€298.98",
+  "retailers": [
+    {
+      "name": "Lifty",
+      "url": "https://www.lifty.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-bK0TVCTpL8",
+      "channel": "NA",
+      "duration": 962.0,
+      "title": "This Electric \"Scooter\" Made Me Piss Myself"
+    },
+    {
+      "id": "2Q-nnFFI4cU",
+      "channel": "NA",
+      "duration": 210.0,
+      "title": "KuKirin G2 Master VS KuKirin G4"
+    },
+    {
+      "id": "wgabJkJyhqw",
+      "channel": "NA",
+      "duration": 33.0,
+      "title": "TROTTINETTE ÉLECTRIQUE ENFANT KUGOO MINI 2 150W"
+    },
+    {
+      "id": "ASXJmWa9_bw",
+      "channel": "NA",
+      "duration": 625.0,
+      "title": "He Finally Got His Dream E-Scooter"
+    },
+    {
+      "id": "9rwvDUuDNPI",
+      "channel": "NA",
+      "duration": 26.0,
+      "title": "Kugoo 2 Electric Scooter Driving View Ultralight Folding Watrerproof Electric  Scooter"
+    }
+  ]
+}

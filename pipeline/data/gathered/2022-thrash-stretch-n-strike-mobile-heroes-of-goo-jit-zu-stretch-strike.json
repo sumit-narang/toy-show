@@ -1,0 +1,57 @@
+{
+  "id": "2022-thrash-stretch-n-strike-mobile-heroes-of-goo-jit-zu-stretch-strike",
+  "year": 2022,
+  "name": "Thrash Stretch N Strike Mobile Heroes of Goo Jit Zu Stretch & Strike",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yKY8hnfX5yg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 178.0,
+      "title": "Heroes of Goo Jit Zu Stretch and Strike Thrash Mobile from Moose Toys Review!"
+    },
+    {
+      "id": "FG0P3mLi-Ek",
+      "channel": "Moose Top TV Commercials",
+      "duration": 30.0,
+      "title": "HEROES OF GOO JIT ZU | STRETCH STRIKERS - THE ULTIMATE SHOWDOWN! | 30\""
+    },
+    {
+      "id": "nM23ELa6gsA",
+      "channel": "toys4boys zone",
+      "duration": 229.0,
+      "title": "Heroes of Goo Jit Zu Galaxy Attack Saturnaut Hero Pack unboxing"
+    },
+    {
+      "id": "OnlCX1ZKFK4",
+      "channel": "Vlad and Niki",
+      "duration": 350.0,
+      "title": "Vlad and Niki play with Heroes of Goo Jit Zu Toys"
+    },
+    {
+      "id": "F_m0aesS_HI",
+      "channel": "Lee Maverick Valdez",
+      "duration": 329.0,
+      "title": "GOO JIT-ZU TOY BY LEE MAVERICK (1st ever video)"
+    }
+  ]
+}

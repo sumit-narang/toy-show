@@ -1,0 +1,54 @@
+{
+  "id": "2020-gosystem-dynasty-ii-multi-fuel-compact-stove",
+  "year": 2020,
+  "name": "GoSystem Dynasty II Multi Fuel Compact Stove",
+  "price_eur": 26.0,
+  "price_text": "€26.00",
+  "retailers": [
+    {
+      "name": "Great Outdoors",
+      "url": "https://www.greatoutdoors.ie/shop/gosystem-dynasty-ii-multifuel-compact-stove"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.greatoutdoors.ie/products/gosystem-dynasty-ii-multifuel-compact-stove"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JPbzs8GfXTY",
+      "channel": "GO Outdoors TV",
+      "duration": 140.0,
+      "title": "GoSystem Dynasty Compact II Stove"
+    },
+    {
+      "id": "CmUpaMtoCHc",
+      "channel": "Simply Hike",
+      "duration": 104.0,
+      "title": "Go Systems Dynasty Compact - www.simplyhike.co.uk"
+    },
+    {
+      "id": "mOvEsNLGatQ",
+      "channel": "TrexRu",
+      "duration": 247.0,
+      "title": "GoSystem Multi Fuel.AVI"
+    },
+    {
+      "id": "jIDwrDxV5Hk",
+      "channel": "Frontier Enterprises",
+      "duration": 115.0,
+      "title": "Go System Dynasty Compact II Camping Stove Unboxing and Price by FE"
+    },
+    {
+      "id": "2bnxPIr34SA",
+      "channel": "Rainbow Gardens",
+      "duration": 327.0,
+      "title": "Your Portable Butane Stove CAN Explode!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2022-national-geographic-kids-weird-but-true-2023",
+  "year": 2022,
+  "name": "National Geographic Kids: Weird But True 2023",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "SHQ6NwxUMC4",
+      "channel": "Nat Geo Kids",
+      "duration": 3332.0,
+      "title": "Weird But True! Shorts Compilation | Funny Animals 😂 | @natgeokids"
+    },
+    {
+      "id": "Uybpgz_2eic",
+      "channel": "Nat Geo Kids",
+      "duration": 1321.0,
+      "title": "Sounds Good 💥| Weird But True! | S2 E4 | Full Episode |@natgeokids"
+    },
+    {
+      "id": "CE4TM1vBuqM",
+      "channel": "Nat Geo Kids",
+      "duration": 1334.0,
+      "title": "The Case of the Stolen Bike | Weird But True! | S1 E16 | Full Episode | @natgeokids"
+    },
+    {
+      "id": "hq3n3J1NmBg",
+      "channel": "Nat Geo Kids",
+      "duration": 2643.0,
+      "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids"
+    },
+    {
+      "id": "g7cZNvBCsHE",
+      "channel": "Nat Geo Kids",
+      "duration": 1334.0,
+      "title": "Action Sports | Weird But True! | S1 E15 | Full Episode | @natgeokids"
+    }
+  ]
+}

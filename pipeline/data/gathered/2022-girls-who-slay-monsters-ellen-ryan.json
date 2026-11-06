@@ -1,0 +1,44 @@
+{
+  "id": "2022-girls-who-slay-monsters-ellen-ryan",
+  "year": 2022,
+  "name": "Girls Who Slay Monsters - Ellen Ryan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "D2D_EWh89nY",
+      "channel": "An Post",
+      "duration": 79.0,
+      "title": "Ellen Ryan - Girls Who Slay Monsters"
+    },
+    {
+      "id": "nm3rezMrMZo",
+      "channel": "Google Play Books",
+      "duration": 987.0,
+      "title": "Girls Who Slay Monsters: Daring Tales of… by Ellen Ryan · Audiobook preview"
+    },
+    {
+      "id": "u46NsTKZC8I",
+      "channel": "Full Audiobook",
+      "duration": 305.0,
+      "title": "Girls Who Slay Monsters: Daring Tales of Ireland’s Forgotten Goddesses - Ellen Ryan"
+    },
+    {
+      "id": "mB8xXFxGiSU",
+      "channel": "Easons Ireland",
+      "duration": 38.0,
+      "title": "Ellen Ryan Introduces Girls Who Slay Monsters"
+    },
+    {
+      "id": "Sdagd750rXI",
+      "channel": "Children's Books Ireland",
+      "duration": 588.0,
+      "title": "Girls Who Slay Monsters; KPMG Children's Books Ireland Awards 2023"
+    }
+  ]
+}

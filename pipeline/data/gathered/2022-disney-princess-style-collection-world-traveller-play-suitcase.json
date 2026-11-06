@@ -1,0 +1,57 @@
+{
+  "id": "2022-disney-princess-style-collection-world-traveller-play-suitcase",
+  "year": 2022,
+  "name": "Disney Princess Style Collection World Traveller Play Suitcase",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/magical-disney-gifts/disney-princess/disney-princess-style-collection-world-traveller-play-suitcase/p/208087"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/magical-disney-gifts/disney-princess/disney-princess-style-collection-world-traveller-play-suitcase/p/208087",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dcpihAvegzI",
+      "channel": "Andrea Toys Unboxing",
+      "duration": 234.0,
+      "title": "Disney Princess Style World Traveler Play Suitcase ASMR Unboxing & Travel Fun!"
+    },
+    {
+      "id": "zh2MEqJ7nTU",
+      "channel": "Andrea Toys Unboxing",
+      "duration": 234.0,
+      "title": "Disney Princess Style World Traveler Play SuitcaseASMR Unboxing & Travel Fun!"
+    },
+    {
+      "id": "wt9DoYPkhLA",
+      "channel": "MsBerann",
+      "duration": 459.0,
+      "title": "Disney Princess Style Collection World Traveler Purse Set"
+    },
+    {
+      "id": "hPAxQz1SguA",
+      "channel": "EBD Toys",
+      "duration": 440.0,
+      "title": "Disney Princess Style Collection | Opening Disney Princess Play Suitcase with 17 Play Travel Pieces"
+    },
+    {
+      "id": "w4HZlqQNjs0",
+      "channel": "IPT612",
+      "duration": 329.0,
+      "title": "Disney Princess Style Collection Makeup Travel Tote | itsplaytime612 Toys Play Pretend"
+    }
+  ]
+}

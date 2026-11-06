@@ -1,0 +1,57 @@
+{
+  "id": "2022-big-feelings-pineapple",
+  "year": 2022,
+  "name": "Big Feelings Pineapple",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Cogs The Brain Shop",
+      "url": "https://cogsthebrainshop.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/",
+      "title": "Cogs Toys & Games Ireland",
+      "description": "Cogs Toys & Games Ireland (formerly Cogs the Brain Shop) stocks a genius collection of fun quality products designed to build better brains and learn through play whatever your age.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "y9wrVYU8xGk",
+      "channel": "Learning Resources UK",
+      "duration": 34.0,
+      "title": "Big Feelings Pineapple™ by Learning Resources on Amazon"
+    },
+    {
+      "id": "f-LTVbW9zZo",
+      "channel": "Carnegie Griffin",
+      "duration": 374.0,
+      "title": "Big Feelings Pineapple Deluxe Set"
+    },
+    {
+      "id": "UMDzGQYkD_4",
+      "channel": "60 Seconds Toy Review",
+      "duration": 72.0,
+      "title": "Big Feelings Pineapple, by Learning Resources"
+    },
+    {
+      "id": "l3ORfpTRmHg",
+      "channel": "Corti-Young Reviews",
+      "duration": 66.0,
+      "title": "Learning Resources Big Feelings Pineapple Deluxe Set | Product Review"
+    },
+    {
+      "id": "5G3oQpw6Fms",
+      "channel": "Sarah's Picks",
+      "duration": 47.0,
+      "title": "Learning Resources Big Feelings Pineapple #bigfeelings #SummerVibes"
+    }
+  ]
+}

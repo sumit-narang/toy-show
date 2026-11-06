@@ -1,0 +1,60 @@
+{
+  "id": "2017-barbie-three-storey-townhouse",
+  "year": 2017,
+  "name": "Barbie Three Storey Townhouse",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MNMI_Ccg2Is",
+      "channel": "Barbie",
+      "duration": 293.0,
+      "title": "Barbie 3-Story Townhouse 3D Animated Assembly Video | @Barbie"
+    },
+    {
+      "id": "bj9MtssfkgM",
+      "channel": "HopeScope",
+      "duration": 1337.0,
+      "title": "I Bought Every Barbie Dreamhouse EVER"
+    },
+    {
+      "id": "sY3xOhvZVaU",
+      "channel": "Mattel",
+      "duration": 20.0,
+      "title": "Barbie® DreamHouse™ | AD"
+    },
+    {
+      "id": "nugQaZLms1s",
+      "channel": "Mattel",
+      "duration": 264.0,
+      "title": "FUNdamental Tips to Assemble the Barbie 3 Story Dream Townhouse | Mattel"
+    },
+    {
+      "id": "BXjpcmYsr2E",
+      "channel": "MyFroggyStuff",
+      "duration": 764.0,
+      "title": "Let’s Give Our Barbie Townhouse & Malibu House a Makeover Using Barbie Play Sets"
+    }
+  ]
+}

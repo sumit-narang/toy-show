@@ -1,0 +1,54 @@
+{
+  "id": "2022-wooden-rainbow",
+  "year": 2022,
+  "name": "Wooden Rainbow",
+  "price_eur": 59.0,
+  "price_text": "€59",
+  "retailers": [
+    {
+      "name": "DluluKaloo",
+      "url": "https://www.dlulukaloo.ie/store"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dlulukaloo.ie/store"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SnctDV7kLTU",
+      "channel": "TheDadLab",
+      "duration": 161.0,
+      "title": "Grimm's Wooden Rainbow Review - TheDadLab"
+    },
+    {
+      "id": "a1pxhZhN4r0",
+      "channel": "Let's Play",
+      "duration": 837.0,
+      "title": "Adel is Painting Rainbow on Wood | Best Learning Video for Toddlers"
+    },
+    {
+      "id": "DyPgddx3vMU",
+      "channel": "KIDS Playtime TV",
+      "duration": 3382.0,
+      "title": "Wooden Colorful Rainbow Hands and Fingers Kids Toys - Toy Learning Video for Toddlers - Kids Toys"
+    },
+    {
+      "id": "bJkcUEL18ug",
+      "channel": "FirstCry Shopping",
+      "duration": 33.0,
+      "title": "Intelliskills Premium Wooden Rainbow Balancing Ship Stacker"
+    },
+    {
+      "id": "z8mG-R84Feo",
+      "channel": "Very Useful Reviews",
+      "duration": 229.0,
+      "title": "Open-ended toy review: a cheap rainbow wooden stacking toy"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2020-the-dead-zoo-by-peter-donnelly",
+  "year": 2020,
+  "name": "The Dead Zoo by Peter Donnelly",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-dead-zoo-peter-donnelly-9780717189724"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-dead-zoo-peter-donnelly-9780717189724",
+      "title": "Buy The Dead Zoo Book at Easons",
+      "description": "'My favourite book from anywhere in the world this year.' Ryan Tubridy\n\n \n\nMr Gray is a very serious man. And he is in charge of a very old, very serious museum filled to the brim with stuffed animals.\n\nMr Gray does not like people. He does not like childr",
+      "image": null,
+      "ld_description": "'My favourite book from anywhere in the world this year.' Ryan Tubridy\n\n \n\nMr Gray is a very serious man. And he is in charge of a very old, very serious museum filled to the brim with stuffed animals.\n\nMr Gray does not like people. He does not like children. In fact, he is most at home with things that are stuffed.\n\nSo when a real live mouse decides to move into the Dead Zoo, Mr Gray is determined that she must go. That is, until he needs her help …\n\nAnother instant classic from the creator of the award-winning President picture book series.\n\n \n\n'Fun and stylish' Children's Books Ireland\n\n'Charming' Sarah Webb, Irish Independent Review",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/479aac7c-135e-4466-a7d0-f6c678ffef2d/9780717189724_5641708539.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KIu1jv5-wdE",
+      "channel": "john taylor",
+      "duration": 339.0,
+      "title": "The Dead Zoo by Peter Donnelly"
+    },
+    {
+      "id": "DXrjDQ_SKsg",
+      "channel": "Meath County Library",
+      "duration": 393.0,
+      "title": "The Dead Zoo by Peter Donnelly - Story Time"
+    },
+    {
+      "id": "5imDIDaYzMk",
+      "channel": "Dublin Book Festival",
+      "duration": 960.0,
+      "title": "DBF2020 Presents: The Dead Zoo with Peter Donnelly"
+    },
+    {
+      "id": "kkQQzEIjSlA",
+      "channel": "kilkennycoco",
+      "duration": 325.0,
+      "title": "Kilkenny Library: Spring into Storytime: The Dead Zoo by Peter Donnelly"
+    },
+    {
+      "id": "z45D-TGUNqM",
+      "channel": "Waterford Libraries",
+      "duration": 509.0,
+      "title": "The Dead Zoo"
+    }
+  ]
+}

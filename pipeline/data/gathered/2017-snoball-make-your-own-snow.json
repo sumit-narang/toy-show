@@ -1,0 +1,60 @@
+{
+  "id": "2017-snoball-make-your-own-snow",
+  "year": 2017,
+  "name": "SnoBall Make Your Own Snow",
+  "price_eur": null,
+  "price_text": "£4.99",
+  "retailers": [
+    {
+      "name": "Zimplikids",
+      "url": null
+    },
+    {
+      "name": "Amazon",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JinpVA6p8Mo",
+      "channel": "Mark Rober",
+      "duration": 315.0,
+      "title": "Snowball Machine Gun- How to make"
+    },
+    {
+      "id": "Fq-fKsGVeWQ",
+      "channel": "The Weather Network",
+      "duration": 103.0,
+      "title": "How to make your own snow at-home (does it pass the snowball test?)"
+    },
+    {
+      "id": "R5dq51TwvFs",
+      "channel": "Welcome To Nana's",
+      "duration": 55.0,
+      "title": "Simple DIY Snow Globes | Welcome to Nana's"
+    },
+    {
+      "id": "ErqQVmGMLOI",
+      "channel": "Scout & About",
+      "duration": 141.0,
+      "title": "Make snow easily at home | Snowball DIY"
+    },
+    {
+      "id": "kuC_uWKQ79U",
+      "channel": "Hena's creation",
+      "duration": 109.0,
+      "title": "Easy DIY Snow Ball / pom pom Making for kids #activity #snowball #diy #diycrafts #pompom#pompomcraft"
+    }
+  ]
+}

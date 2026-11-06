@@ -1,0 +1,60 @@
+{
+  "id": "2021-gigantosaurus-by-johnny-duddle",
+  "year": 2021,
+  "name": "Gigantosaurus by Johnny Duddle",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Easons/Shops Nationwide",
+      "url": "https://www.easons.com/gigantosaurus-cyber-group-studios-9781800780194"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/gigantosaurus-cyber-group-studios-9781800780194",
+      "title": "Buy Gigantosaurus Book at Easons",
+      "description": "ROAR, GIGANTO, ROAR!\n\nRocky, Tiny, Bill and Mazu are holding a roaring contest, but they can't get Giganto to join in! Help them get the big green dinosaur roaring - from tickling to singing to feeding him walnuts - and make the plush hand-puppet snore, da",
+      "image": null,
+      "ld_description": "ROAR, GIGANTO, ROAR!\n\nRocky, Tiny, Bill and Mazu are holding a roaring contest, but they can't get Giganto to join in! Help them get the big green dinosaur roaring - from tickling to singing to feeding him walnuts - and make the plush hand-puppet snore, dance, and laugh along the way!\n\nBased on the Gigantosaurus animated TV series.  Watch the episodes now!",
+      "brand": "Templar Books",
+      "ld_image": "https://www.easons.com/images/asset/ee76b756-1f03-406f-921f-9dd33bac857f/9781800780194_5641952415.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kJnk4bEI-z0",
+      "channel": "m p",
+      "duration": 275.0,
+      "title": "GIGANTOSAURUS by JONNY DUDDLE"
+    },
+    {
+      "id": "vLg3T349BUs",
+      "channel": "Odd Socks Nannies",
+      "duration": 269.0,
+      "title": "GIGANTOSAURUS Full Story (Kids books read aloud by the Odd Socks Nanny family)"
+    },
+    {
+      "id": "ISXrMk7DXQQ",
+      "channel": "Gigantosaurus",
+      "duration": 1798.0,
+      "title": "🦕 Eggs, Boulders & Broken Friendships?! Dino Drama in Cretacia! | Gigantosaurus Multilingual"
+    },
+    {
+      "id": "YnTwWb29IjE",
+      "channel": "Jonny Duddle",
+      "duration": 1008.0,
+      "title": "04 How to Draw Gigantosaurus - #DoodleWithDuddle"
+    },
+    {
+      "id": "82VDQ6jVENU",
+      "channel": "Gigantosaurus",
+      "duration": 195.0,
+      "title": "Gigantosaurus [OFFICIAL SONG] 🦖 Mighty Dinosaurs 🦖 🎵 dinosaur cartoon for kids"
+    }
+  ]
+}

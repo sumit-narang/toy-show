@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-the-batman-movie-bat-cave-break-in",
+  "year": 2017,
+  "name": "LEGO The Batman Movie Bat-Cave Break In",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BXjyJiySN78",
+      "channel": "LEGO",
+      "duration": 32.0,
+      "title": "Batcave Break-in  - The LEGO Batman Movie - 70909 - Product Animation"
+    },
+    {
+      "id": "Sqqk7uIEOQY",
+      "channel": "MiniSuperHeroesToday",
+      "duration": 545.0,
+      "title": "REVIEW: LEGO Batman BATCAVE BREAK-IN Set 70909 (Lego Batman Movie)"
+    },
+    {
+      "id": "gKVUg3eR3pw",
+      "channel": "AustrianBrickFan",
+      "duration": 885.0,
+      "title": "Lego Batman Movie 70909 Batcave Break-In - Lego Speed Build Review"
+    },
+    {
+      "id": "qZzs4aEmumE",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 934.0,
+      "title": "🔄 LEGO DC 2017 Batman Movie Batcave Break In review! 70909 re upload"
+    },
+    {
+      "id": "i_ZNxOXvBQU",
+      "channel": "BrickVault",
+      "duration": 874.0,
+      "title": "Lego Batman Movie Batcave Break-in Review! Set 70909 | Unbox Build Time Lapse"
+    }
+  ]
+}

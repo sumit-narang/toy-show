@@ -1,0 +1,64 @@
+{
+  "id": "2017-baby-born-rain-fun-shower",
+  "year": 2017,
+  "name": "Baby Born Rain Fun Shower",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HFPtBW3tpzI",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 787.0,
+      "title": "BABY Born Rain Fun Shower & Interactive Bath Unboxing | Bath Time & Bedtime Routine"
+    },
+    {
+      "id": "batRe2GxN1o",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 514.0,
+      "title": "Baby Born Rain Fun Shower & Wash Basin | Unboxing, Doll Shower, Bruth Teeth, Wash & Bedtime Play"
+    },
+    {
+      "id": "105AgdDnkmw",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 664.0,
+      "title": "Baby Born Rain Fun Shower Unboxing & Bathroom Set Up | Baby Dolls Bedtime Routine Pretend Play"
+    },
+    {
+      "id": "zBVS3vbQxUA",
+      "channel": "Helena H",
+      "duration": 944.0,
+      "title": "BABY BORN RAIN FUN SHOWER |  REVIEW AND DEMO | Baby  Born"
+    },
+    {
+      "id": "k0-jAWN1h6U",
+      "channel": "Play with me - Toys for Kids",
+      "duration": 693.0,
+      "title": "Baby Born New Rain Fun Shower - Bath Fun for Baby Born & Sister - Zapf Creation"
+    }
+  ]
+}

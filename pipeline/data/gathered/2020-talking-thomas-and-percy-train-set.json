@@ -1,0 +1,53 @@
+{
+  "id": "2020-talking-thomas-and-percy-train-set",
+  "year": 2020,
+  "name": "Talking Thomas and Percy Train Set",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VX_SBFzW9MA",
+      "channel": "Train Tsar Fun",
+      "duration": 1155.0,
+      "title": "Is The Trackmaster Talking Thomas & Percy Train Set Worth Buying?"
+    },
+    {
+      "id": "FAb6ote0UHU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 117.0,
+      "title": "Thomas & Friends Talking Thomas & Percy Train Set from Fisher-Price"
+    },
+    {
+      "id": "GDYU-tQVJOE",
+      "channel": "Cooper Lee’s Thomas and Friends Videos",
+      "duration": 1100.0,
+      "title": "Talking Thomas and Percy Train Set Review"
+    },
+    {
+      "id": "E7Ds0FFFLQc",
+      "channel": "VicarstownVideos",
+      "duration": 703.0,
+      "title": "Thomas Motorised Talking Thomas and Percy Train Set Review"
+    },
+    {
+      "id": "_s4WA1wl6Rs",
+      "channel": "Custom Trackmasters",
+      "duration": 640.0,
+      "title": "Thomas & friends Trackmaster Making custom Talking LBSC 70 Tomos a'i Ffrindiau Thomas y amigos"
+    }
+  ]
+}

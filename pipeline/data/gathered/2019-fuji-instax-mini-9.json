@@ -1,0 +1,54 @@
+{
+  "id": "2019-fuji-instax-mini-9",
+  "year": 2019,
+  "name": "Fuji Instax Mini 9",
+  "price_eur": 89.0,
+  "price_text": "€89.00",
+  "retailers": [
+    {
+      "name": "Currys/PC World",
+      "url": "https://www.currys.ie/ieen/cameras-and-camcorders/digital-cameras/compact-and-bridge-cameras/instax-mini-9-instant-camera-ice-blue-10162808-pdt.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.currys.ie/ieen/cameras-and-camcorders/digital-cameras/compact-and-bridge-cameras/instax-mini-9-instant-camera-ice-blue-10162808-pdt.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qMhoP4bLbw8",
+      "channel": "Prime Studios",
+      "duration": 489.0,
+      "title": "How to Use a Fuji Instax Mini 9 Instant Film Camera"
+    },
+    {
+      "id": "_oSx2PqB7kY",
+      "channel": "Mark J Draper",
+      "duration": 177.0,
+      "title": "Fujifilm Instax Mini 9 Instant Camera Review"
+    },
+    {
+      "id": "Lsj1D2muYlA",
+      "channel": "Eraser Tech",
+      "duration": 672.0,
+      "title": "Using the Instax Mini 9 in 2026"
+    },
+    {
+      "id": "zk0kiyY8KE4",
+      "channel": "Just Another Chris",
+      "duration": 770.0,
+      "title": "Fujifilm Instax mini 9 In Depth Review"
+    },
+    {
+      "id": "jmf2h5iUgLg",
+      "channel": "Instax South Africa",
+      "duration": 102.0,
+      "title": "Instax Instructional Videos   mini 9"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-sonic-9-inch-plush",
+  "year": 2022,
+  "name": "Sonic 9-inch Plush",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "T0xgd_K5_kM",
+      "channel": "The Stuff I Use Channel",
+      "duration": 92.0,
+      "title": "✅  Sonic The Hedgehog 9 Inch Plush 🔴"
+    },
+    {
+      "id": "imsBX_14ifQ",
+      "channel": "QTT Productions",
+      "duration": 477.0,
+      "title": "NEW 9\" Sonic The Hedgehog 2 Movie Plushes! (Review)"
+    },
+    {
+      "id": "-q5IoBwn-nQ",
+      "channel": "SpeedSuperSonic",
+      "duration": 604.0,
+      "title": "Sonic The Hedgehog JAKKS Pacific Plushies Wave 1 (Review & Analysis)"
+    },
+    {
+      "id": "EO8WaDEMFnw",
+      "channel": "CUTESONICOTHERFRIENDS",
+      "duration": 203.0,
+      "title": "Old UNBOXING KELLYTOY SONIC 9 INCH PLUSH FROM 2009"
+    },
+    {
+      "id": "Aj40uT8Mv5g",
+      "channel": "Segasonic guy",
+      "duration": 234.0,
+      "title": "Jakks Pacific Sonic And Tails Jumbo Plush Review!!"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2017-gellibaff",
+  "year": 2017,
+  "name": "GelliBaff",
+  "price_eur": null,
+  "price_text": "£4.99",
+  "retailers": [
+    {
+      "name": "Zimplikids",
+      "url": null
+    },
+    {
+      "name": "Amazon",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": []
+}

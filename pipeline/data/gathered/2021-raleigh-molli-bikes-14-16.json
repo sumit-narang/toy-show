@@ -1,0 +1,54 @@
+{
+  "id": "2021-raleigh-molli-bikes-14-16",
+  "year": 2021,
+  "name": "Raleigh Molli Bikes (14\" & 16\")",
+  "price_eur": 260.0,
+  "price_text": "€260.00",
+  "retailers": [
+    {
+      "name": "Euro Cycles",
+      "url": "https://eurocycles.com/raleigh-molli-14-girls-bike-purple-4-to-6-years-old/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jN2vjxsoUcw",
+      "channel": "OMA Bikes",
+      "duration": 41.0,
+      "title": "16\" RALEIGH MOLLI Aluminium Kids Bike (4563)"
+    },
+    {
+      "id": "RAuZg1ncP-M",
+      "channel": "gilang ramadhan",
+      "duration": 25.0,
+      "title": "Gets Detail Of Raleigh Molli 16\" Wheel Girl's Bike - 2014 Sale"
+    },
+    {
+      "id": "2U7DuqY7RSk",
+      "channel": "Two Wheeling Tots",
+      "duration": 423.0,
+      "title": "The Best 16\" Kids Bikes for Ages 4 to 6 (Video Demonstration)"
+    },
+    {
+      "id": "hVG9nhUvJ_U",
+      "channel": "businesslead1",
+      "duration": 26.0,
+      "title": "Girls BMX RALEIGH Bike = 14\" wheel bike MOLLY Girls Bike  19/11/11"
+    },
+    {
+      "id": "jqllIs7jPbw",
+      "channel": "Alchemisticltd",
+      "duration": 32.0,
+      "title": "Pink Raleigh Krush Girls Bike eBay Listing by Alchemistic"
+    }
+  ]
+}

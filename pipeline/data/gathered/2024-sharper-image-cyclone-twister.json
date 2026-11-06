@@ -1,0 +1,60 @@
+{
+  "id": "2024-sharper-image-cyclone-twister",
+  "year": 2024,
+  "name": "Sharper Image Cyclone Twister",
+  "price_eur": 26.5,
+  "price_text": "€26.50",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/electronics/fao-schwarz-fao-dolls/cyclone-twister-remote-control-stunt-car/2000796264.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/electronics/fao-sharper-image/cyclone-twister-remote-control-stunt-car/2000796264.html",
+      "title": "FAO SHARPER IMAGE Cyclone Twister Remote Control Stunt Car - Black",
+      "description": "Tornado action that transforms the vehicle into a crazy cyclone machine and splits open like a breakdancer! Bidirectional design, allowing you to drive upside down. Futuristic, robotic, faceted tank design. 14 minutes play time and 20 metres max range.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000796264_01.jpg?$product_tile_plp$",
+      "ld_description": "Tornado action that transforms the vehicle into a crazy cyclone machine and splits open like a breakdancer! Bidirectional design, allowing you to drive upside down. Futuristic, robotic, faceted tank design. 14 minutes play time and 20 metres max range.",
+      "brand": "FAO SHARPER IMAGE",
+      "ld_image": "https://images.brownthomas.com/bta/2000796264_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WIFpCuashJU",
+      "channel": "bwcpublishing",
+      "duration": 638.0,
+      "title": "Sharper Image RC Cyclone Twister Stunt Car Unbox and Drive"
+    },
+    {
+      "id": "bm7ZydPRONY",
+      "channel": "StupidchargedRC",
+      "duration": 170.0,
+      "title": "Shaper Image Cyclone Twister! Quick drive and review!"
+    },
+    {
+      "id": "22qSIt_QKc4",
+      "channel": "Cattien's World",
+      "duration": 97.0,
+      "title": "SHARPER IMAGE CYCLONE TWISTER REMOTE CONTROL STUNT CAR Shop with us at Target!!!"
+    },
+    {
+      "id": "3UTKQ4SoC4o",
+      "channel": "Adams Magic World",
+      "duration": 60.0,
+      "title": "Cyclone Twister Stunt Car #malayalam#kerala#india#instagram#toys#toysforkids"
+    },
+    {
+      "id": "R4lD_z48TbQ",
+      "channel": "Sharper Image",
+      "duration": 23.0,
+      "title": "Toy RC Monster Spinning Car Sharper Image"
+    }
+  ]
+}

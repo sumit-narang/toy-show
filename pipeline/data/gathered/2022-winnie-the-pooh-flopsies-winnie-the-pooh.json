@@ -1,0 +1,57 @@
+{
+  "id": "2022-winnie-the-pooh-flopsies-winnie-the-pooh",
+  "year": 2022,
+  "name": "Winnie the Pooh Flopsies Winnie the Pooh",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pZ3pA13yHj8",
+      "channel": "My Balancing Act",
+      "duration": 165.0,
+      "title": "We Took Our Toys to Pooh Bridge and This Happened"
+    },
+    {
+      "id": "7qoxBjAUT-Q",
+      "channel": "Enz rig 5 Terry Venditto",
+      "duration": 422.0,
+      "title": "Boo to you, Winnie the pooh book by Terry"
+    },
+    {
+      "id": "gg3lbZmyviE",
+      "channel": "Paolo Subalisid",
+      "duration": 96.0,
+      "title": "Piglet Big Movie   Winnie the Pooh"
+    },
+    {
+      "id": "syhiyun6j60",
+      "channel": "Scott Moss",
+      "duration": 211.0,
+      "title": "The New Adventures of Winnie the Pooh Owl's Well That Ends Well Episodes 1 - Scott Moss"
+    },
+    {
+      "id": "-k-Q-i3uYLc",
+      "channel": "Mulder Higgins",
+      "duration": 7.0,
+      "title": "Casually Unalives Rabbit"
+    }
+  ]
+}

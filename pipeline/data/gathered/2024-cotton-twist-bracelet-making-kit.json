@@ -1,0 +1,57 @@
+{
+  "id": "2024-cotton-twist-bracelet-making-kit",
+  "year": 2024,
+  "name": "Cotton Twist Bracelet Making Kit",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Jiminy Eco-Toys",
+      "url": "https://jiminy.ie/products/rainbow-and-flower-bracelet-making-kit"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hU4-PqzsMP0",
+      "channel": "Make It Real Play",
+      "duration": 535.0,
+      "title": "Setting up the Friendship Bracelet Maker to make the first bracelet"
+    },
+    {
+      "id": "GQ55ypRxW7o",
+      "channel": "Hearthsong",
+      "duration": 422.0,
+      "title": "Alex Toys Friends 4 Ever Bracelet Making Kit SKU#725870 - HearthSong"
+    },
+    {
+      "id": "kB_-6wSWXng",
+      "channel": "CookCraftCake",
+      "duration": 711.0,
+      "title": "LOOP DE DOO FRIENDSHIP BRACELET-How to make BLOCK STYLE"
+    },
+    {
+      "id": "UM165_vOklY",
+      "channel": "A.C. Moore Arts & Crafts",
+      "duration": 231.0,
+      "title": "Create 6 Styles of Bracelets With the Loopdedoo Bracelet Maker | A.C. Moore"
+    },
+    {
+      "id": "Owljc0vBleo",
+      "channel": "A.C. Moore Arts & Crafts",
+      "duration": 183.0,
+      "title": "How To Use The Loopdedoo Bracelet Maker | A.C. Moore"
+    }
+  ]
+}

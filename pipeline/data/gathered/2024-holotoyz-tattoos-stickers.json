@@ -1,0 +1,57 @@
+{
+  "id": "2024-holotoyz-tattoos-stickers",
+  "year": 2024,
+  "name": "HoloToyz Tattoos & Stickers",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "HoloToyz",
+      "url": "https://holotoyz.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://holotoyz.com/",
+      "title": "HoloToyz | Kids Toys that come to life!",
+      "description": "HoloToyz uses Awesome Reality to enhance kids toys so they can play and learn with new technologies in a fun and safe way.",
+      "image": "http://holotoyz.com/cdn/shop/files/HT_LogoWebsite_sharingimage.png?v=1707399013"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_OC9XYAg7HI",
+      "channel": "snooplaydotin",
+      "duration": 73.0,
+      "title": "Holotoyz - Augmented Reality Stickers, Tattoos and Books!"
+    },
+    {
+      "id": "_PWDyBXGldw",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 13.0,
+      "title": "Augmented Reality Temporary Tattoos HoloToyz Holo Heroes Временни татуировки Holo герои"
+    },
+    {
+      "id": "YxdlT7d0x6g",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 19.0,
+      "title": "Augmented Reality Stickers, HoloToyz - Holo Heroes, Стикери Holo герои"
+    },
+    {
+      "id": "hulgsKzW-ro",
+      "channel": "HoloToyz",
+      "duration": 13.0,
+      "title": "holotoyz video tatouage temporaire holo heroes personnages amusants en 3d"
+    },
+    {
+      "id": "6HUcQe5mshU",
+      "channel": "HoloToyz",
+      "duration": 17.0,
+      "title": "holotoyz video tatouage temporaire metal mania en 3d"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-giant-chocolate-labrador",
+  "year": 2022,
+  "name": "Giant Chocolate Labrador",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7C2nIG8e5js",
+      "channel": "The Dodo",
+      "duration": 210.0,
+      "title": "Chocolate Lab is the Best Big Sister in the World | The Dodo"
+    },
+    {
+      "id": "sEXJ7nT-wKo",
+      "channel": "The Labrador Site",
+      "duration": 428.0,
+      "title": "Black Labrador vs Chocolate Labrador - The SURPRISING Differences"
+    },
+    {
+      "id": "OSTmYyNzW94",
+      "channel": "TheAbbypodus",
+      "duration": 47.0,
+      "title": "Dawson, our neighbor's big chocolate lab takes a dip in our kiddie pool"
+    },
+    {
+      "id": "L3uIG9B54Hk",
+      "channel": "The Dodo",
+      "duration": 192.0,
+      "title": "This Chocolate Lab And His Emotional Support Pumpkin | The Dodo"
+    },
+    {
+      "id": "rNFx8iEfU7g",
+      "channel": "Stonnie Dennis",
+      "duration": 1668.0,
+      "title": "Can This Chocolate Lab Keep Up With Our Black Labs?"
+    }
+  ]
+}

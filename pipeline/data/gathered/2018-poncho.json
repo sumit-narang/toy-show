@@ -1,0 +1,57 @@
+{
+  "id": "2018-poncho",
+  "year": 2018,
+  "name": "Poncho",
+  "price_eur": 4.29,
+  "price_text": "€4.29",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SD8k6ueMAVg",
+      "channel": "Theknittingpaige",
+      "duration": 1670.0,
+      "title": "12 Poncho Patterns to Knit This Fall"
+    },
+    {
+      "id": "MTitktL_9rE",
+      "channel": "Moorlander EDC",
+      "duration": 1276.0,
+      "title": "The ONE PONCHO to Rule All PONCHOS - Jack Stillman Ranger Poncho"
+    },
+    {
+      "id": "6jCb6o-h92s",
+      "channel": "amazingishgrace",
+      "duration": 1365.0,
+      "title": "the EASIEST knit poncho (it's just rectangles)"
+    },
+    {
+      "id": "Frsxm_ILQ7s",
+      "channel": "ON Three",
+      "duration": 1333.0,
+      "title": "How To Set Up The Ultimate Poncho Shelter For Any SURVIVAL Situation!"
+    },
+    {
+      "id": "Hy-3iXeJjIg",
+      "channel": "Danielle Villanueva",
+      "duration": 1191.0,
+      "title": "crochet poncho tutorial"
+    }
+  ]
+}

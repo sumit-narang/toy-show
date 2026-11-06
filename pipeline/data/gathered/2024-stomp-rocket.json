@@ -1,0 +1,60 @@
+{
+  "id": "2024-stomp-rocket",
+  "year": 2024,
+  "name": "Stomp Rocket",
+  "price_eur": 25.95,
+  "price_text": "€25.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/stomp-rocket-dueling-rockets"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/stomp-rocket-dueling-rockets",
+      "title": "Stomp Rocket Dueling Rockets",
+      "description": "Stomp Rocket Dueling Rockets launches two foam rockets at once for head-to-head races. No batteries needed - just stomp to launch. Ages 5+.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/dualing-stomp-rocket-ireland.jpg?v=1683528907",
+      "ld_description": "Stomp Rocket Dueling Rockets\n\n\nDesigned for children ages 5 and up, perfect for energetic outdoor fun and family playtime.\n\n\nLaunches two high-flying foam rockets simultaneously, creating thrilling head-to-head duels for kids and friends. 🚀\n\n\nIncludes a durable launch pad, air hose, and 4 foam-tipped rockets built for repeated use.\n\n\nPowered 100% by kids — simply run, jump, and stomp to blast rockets sky-high, no batteries needed.\n\n\nEncourages outdoor play, active movement, coordination, and friendly competition while keeping kids engaged.\n\n\nHelps introduce basic STEM concepts such as force and trajectory in a fun, hands-on way.\n\n\nQuick to set up, lightweight, and portable — perfect for backyards, parks, and family gatherings.\n\n\nTurn any outdoor space into a lively rocket arena! With exciting duels, heart-racing action, and endless play potential, Stomp Rocket Dueling Rockets keeps kids active and learning while having a blast. 🌟",
+      "brand": "Stomp Rocket",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "afhSehZCE_E",
+      "channel": "That STEM Guy Edu.",
+      "duration": 257.0,
+      "title": "Stomp Rockets - STEM DIY"
+    },
+    {
+      "id": "6g-1m19CImY",
+      "channel": "BrittaUGC",
+      "duration": 33.0,
+      "title": "Stomp Rocket Original Dueling Rocket Launcher for Kids Review - Amazon Finds - Does This Work??"
+    },
+    {
+      "id": "B2c0NzHhwgc",
+      "channel": "Krishna's Jolly Bits",
+      "duration": 310.0,
+      "title": "Toy Rockets is a fun outdoor stem toy! Lets stomp rockets and see them fly high."
+    },
+    {
+      "id": "5bO8dpPuG4E",
+      "channel": "NASAJPL Edu",
+      "duration": 337.0,
+      "title": "DIY Space: Stomp Rockets - Make the Rocket (Part 1)"
+    },
+    {
+      "id": "aDyobpzk1V8",
+      "channel": "Greg's World",
+      "duration": 409.0,
+      "title": "CAN WE CATCH A FLYING STOMP ROCKET?"
+    }
+  ]
+}

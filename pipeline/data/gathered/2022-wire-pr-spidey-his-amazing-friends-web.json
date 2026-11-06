@@ -1,0 +1,54 @@
+{
+  "id": "2022-wire-pr-spidey-his-amazing-friends-web",
+  "year": 2022,
+  "name": "Wire PR Spidey & His Amazing Friends Web",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LG_9KBh24Fk",
+      "channel": "DuDuPopTOY",
+      "duration": 269.0,
+      "title": "Spidey and His Amazing Friends Spider-Man Web Phone! Summon hero! | DuDuPopTOY"
+    },
+    {
+      "id": "U8aE8PZwmTY",
+      "channel": "Marvel HQ and Disney Jr. ",
+      "duration": 776.0,
+      "title": "Symbie’s Slimy Scheme 👽🫟🕷️ | Spidey and His Amazing Friends | Full Episode | @MarvelHQ @disneyjr"
+    },
+    {
+      "id": "uFs-T_iq6lc",
+      "channel": "Marvel HQ and Disney Jr. ",
+      "duration": 775.0,
+      "title": "Lights, Sirens, Action 🚒🕸️🕷️ | Spidey and His Amazing Friends | Full Episode | @MarvelHQ"
+    },
+    {
+      "id": "cVD5h_AoYnc",
+      "channel": "Marvel HQ",
+      "duration": 772.0,
+      "title": "The Wozzlesnook | Full Episode | Spidey and His Amazing Friends | @disneyjunior @MarvelHQ"
+    },
+    {
+      "id": "aDGAziJhpug",
+      "channel": "Disney Jr. ",
+      "duration": 312.0,
+      "title": "Doc Ock's Super Octopus | Marvel's Spidey and his Amazing Friends | @disneyjunior"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-play-factor-inflatable-air-track",
+  "year": 2025,
+  "name": "Play Factor Inflatable Air Track",
+  "price_eur": 99.0,
+  "price_text": "€99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-air-track-inflatable-gym-mat/p/242359"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-air-track-inflatable-gym-mat/p/242359",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SYUiOGJ1fCs",
+      "channel": "Fbsport",
+      "duration": 126.0,
+      "title": "How to Inflate Your Gymnastics Air Track"
+    },
+    {
+      "id": "vFOLFSbHqv8",
+      "channel": "Chongqi Inflatable Company",
+      "duration": 90.0,
+      "title": "Inflatable GYM Mat Home Air Floor Inflatable Tumbling Mat for Gymnastics Inflatable Air Track Factor"
+    },
+    {
+      "id": "LHEX-dAU_34",
+      "channel": "tumblox",
+      "duration": 72.0,
+      "title": "TUMBLOX AirTrack Unboxing"
+    },
+    {
+      "id": "_kgXyvX5Nw0",
+      "channel": "Wholesaleairmat",
+      "duration": 23.0,
+      "title": "Innovative airtrack airspot review mint green and blue inflatable air roll gymnastics"
+    },
+    {
+      "id": "fCmeSxJTEBw",
+      "channel": "Wholesaleairmat",
+      "duration": 22.0,
+      "title": "Good mini inflatable tumble track mint green wholesaleairtrack air block game"
+    }
+  ]
+}

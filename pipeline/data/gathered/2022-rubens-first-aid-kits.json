@@ -1,0 +1,57 @@
+{
+  "id": "2022-rubens-first-aid-kits",
+  "year": 2022,
+  "name": "Rubens First Aid Kits",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Micki Of Sweden",
+      "url": "http://mickiofsweden.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mickiofsweden.com/",
+      "title": "Köp leksaker online | Micki | Skapar leenden sedan 1944",
+      "description": "Köp populära leksaker från Lundby, Pippi, Bamse, Babblarna, Micki m.fl. Säker betalning. Snabb leverans. Säkra, roliga leksaker framtagna med omtanke!",
+      "image": "https://mickiofsweden.com/thumb/7874/1200x630/logo-footer-2.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jJSFke_T6n0",
+      "channel": "Micki",
+      "duration": 24.0,
+      "title": "Rubens Baby - First Aid Kit"
+    },
+    {
+      "id": "lxAOf54pmPk",
+      "channel": "Patrik Ivarsson",
+      "duration": 250.0,
+      "title": "First Aid Kit - Stay Gold (live on P3 Ruben)"
+    },
+    {
+      "id": "y34ap0Xy2yw",
+      "channel": "Patrik Ivarsson",
+      "duration": 226.0,
+      "title": "First Aid Kit - My Silver Lining (live on P3 Ruben)"
+    },
+    {
+      "id": "5VHx8p3i3Z4",
+      "channel": "Kaare K. Johnsen",
+      "duration": 221.0,
+      "title": "First Aid Kit - Emmylou (NRK P3, Ruben)"
+    },
+    {
+      "id": "YnD-f1fK7-Y",
+      "channel": "PetSounds Paper",
+      "duration": 254.0,
+      "title": "Pet Sounds Presents First Aid Kit - My Silver Lining"
+    }
+  ]
+}

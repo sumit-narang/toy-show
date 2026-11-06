@@ -1,0 +1,54 @@
+{
+  "id": "2023-barbie-dreamtopia-unicorn-doll",
+  "year": 2023,
+  "name": "Barbie Dreamtopia Unicorn Doll",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/barbie-dreamtopia-unicorn-doll-assortment/1600770514.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/barbie-dreamtopia-unicorn-doll-assortment/1600770514.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Urn9NWNDzNg",
+      "channel": "Dollytime ASMR ",
+      "duration": 3138.0,
+      "title": "ASMR Unboxing UNICORN DAY! Barbie Dreamtopia Unicorn & 5 Dolls PLUS Crybabies BFF Set! No Talking"
+    },
+    {
+      "id": "N2-zmxtQfgA",
+      "channel": "Barbie",
+      "duration": 183.0,
+      "title": "@Barbie | Barbie Dreamtopia Dolls Reveal the Brush ‘n Sparkle Unicorn"
+    },
+    {
+      "id": "pqWydGjX8lE",
+      "channel": "InspectaGadget",
+      "duration": 171.0,
+      "title": "My Daughter FREAKED OUT Over This Interactive Unicorn Toy! | Barbie Dreamtopia Unicorn Doctor Toy"
+    },
+    {
+      "id": "FMylPuEBcx0",
+      "channel": "Doll Scroll",
+      "duration": 118.0,
+      "title": "Mattel - Barbie - Dreamtopia - Princess & Magical Lights Unicorn"
+    },
+    {
+      "id": "WovTBIxOxiw",
+      "channel": "Ray N Ran Reviews",
+      "duration": 239.0,
+      "title": "✨ Barbie Unboxing Surprise! 🦄 Is This Dreamtopia Unicorn Fashion Doll? | Laughs & Fun Inside 🎀"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2022-dad-jokes-the-punny-edition",
+  "year": 2022,
+  "name": "Dad Jokes: The Punny Edition",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "n807nLI4Msw",
+      "channel": "Buddy Son Storytime",
+      "duration": 420.0,
+      "title": "My Very Punny Dad – 🤪 Fun read aloud kids book about jokes and puns by Ryan Milligan"
+    },
+    {
+      "id": "cpEpmRevbys",
+      "channel": "Tate Naugle",
+      "duration": 388.0,
+      "title": "DAD JOKES - TRY NOT TO LAUGH | Crossroads Church"
+    },
+    {
+      "id": "MepBeEpEQcM",
+      "channel": "Dropout",
+      "duration": 147.0,
+      "title": "The Ultimate Dad Joke Duel"
+    },
+    {
+      "id": "YXDh-1dvkNs",
+      "channel": "Dropout",
+      "duration": 154.0,
+      "title": "The Ultimate Dad Joke Duel"
+    },
+    {
+      "id": "aqUdX9NPbN4",
+      "channel": "The Pun Guys",
+      "duration": 184.0,
+      "title": "FUNNIEST PUNS EVER! | The Pun Guys"
+    }
+  ]
+}

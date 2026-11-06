@@ -1,0 +1,57 @@
+{
+  "id": "2018-airfix-sets",
+  "year": 2018,
+  "name": "Airfix Sets",
+  "price_eur": 28.0,
+  "price_text": "€28.00",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/",
+      "title": "Dublin, Ireland Toy & Art Store",
+      "description": "Nimble Fingers Toys, Books & Hobbies Since 1962",
+      "image": "https://cdn.shopify.com/s/files/1/1980/5665/files/Nimble_fingers_Live_logo_410x_e5308b8d-acb9-41ac-bec0-29e272e60dc9.png?height=628&pad_color=fff&v=1613161081&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H2oP5-Idy-Y",
+      "channel": "Airfix",
+      "duration": 1012.0,
+      "title": "How To: Airfix Starter Set- McLaren 765LT (A55006)"
+    },
+    {
+      "id": "MdPqeiXcxxw",
+      "channel": "Airfix",
+      "duration": 1537.0,
+      "title": "How To: Airfix Starter Set - Spitfire Mk.Vc (A55001)"
+    },
+    {
+      "id": "_jfz7OmI35U",
+      "channel": "Airfix",
+      "duration": 1999.0,
+      "title": "Airfix | Range Launch 2026"
+    },
+    {
+      "id": "azdvlF5jlOI",
+      "channel": "Graham Hurst model making memories ",
+      "duration": 563.0,
+      "title": "Airfix 1/76 HO/OO RAF Military Vehicle Sets"
+    },
+    {
+      "id": "4lggnv4hzT4",
+      "channel": "Graham Hurst model making memories ",
+      "duration": 515.0,
+      "title": "Airfix 2026, castles, figures, tanks & space "
+    }
+  ]
+}

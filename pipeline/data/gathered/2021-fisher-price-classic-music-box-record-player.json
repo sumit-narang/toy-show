@@ -1,0 +1,60 @@
+{
+  "id": "2021-fisher-price-classic-music-box-record-player",
+  "year": 2021,
+  "name": "Fisher Price Classic Music Box Record Player",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/fisher-price-classics-music-box-record-player"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/fisher-price-classics-music-box-record-player",
+      "title": "Fisher Price Classic Toys - Music Box Record Player",
+      "description": "The timeless Classic Record Player by Fisher Price is back. The design, which has been around since the 1970s, includes five double-sided records for kids to play on the wind-up turntable. With familiar kids’ tunes, including Humpty Dumpty and Jack and Jill, it’s sure to inspire a sing song and a knees up too. Once the",
+      "image": "http://toysdirect.ie/cdn/shop/files/Fisher-Price-Classic-Toys-Music-Box-Record-Player.jpg?crop=center&height=1200&v=1787581139&width=1200",
+      "ld_description": "The timeless Classic Record Player by Fisher Price is back. The design, which has been around since the 1970s, includes five double-sided records for kids to play on the wind-up turntable. With familiar kids’ tunes, including Humpty Dumpty and Jack and Jill, it’s sure to inspire a sing song and a knees up too. Once the disco winds down, the records can be stored inside the player, safe and secure for the next party.\nFeaturing a fresh design which incorporates elegant illustrations giving it a vintage feel, children will love to explore the musical toy as they pretend and play. With a turntable and a needle that replicates a vintage record player, this retro toy grows with your child as they develop. Made with high quality, the Fisher Price Classics line resonates with both parents and grandparents who grew up with these toys.\nComes with 5 double sided records.\nRequires 3 x AA batteries (not included)\nSuitable for ages 18 months+",
+      "brand": "Fisher Price",
+      "ld_image": "https://toysdirect.ie/cdn/shop/files/Fisher-Price-Classic-Toys-Music-Box-Record-Player.jpg?v=1787581139&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t9Itl0aAmJU",
+      "channel": "Bergen Pickers",
+      "duration": 874.0,
+      "title": "Vintage 1971 Fisher Price Music Box Record Player 995 - Playing All Songs"
+    },
+    {
+      "id": "d_Zj7S8_qXM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 89.0,
+      "title": "Fisher-Price Classic Toys Music Box Record Player from The Bridge Direct"
+    },
+    {
+      "id": "2y19mBpenOA",
+      "channel": "Nostalgia Street",
+      "duration": 613.0,
+      "title": "1971 Fisher Price MUSIC BOX RECORD PLAYER Review!!!"
+    },
+    {
+      "id": "2NESRFClM4Y",
+      "channel": "eye flow",
+      "duration": 422.0,
+      "title": "Fisher Price Record Player Vintage 1971 PLAYING ALL SONGS"
+    },
+    {
+      "id": "si0nkpy1pR0",
+      "channel": "G Cast",
+      "duration": 237.0,
+      "title": "Fisher-Price Classic Music Box Record Player - Overview"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-kane-classic-trailer",
+  "year": 2017,
+  "name": "Kane Classic Trailer",
+  "price_eur": 22.0,
+  "price_text": "€22.00",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8dxh3lwdOFw",
+      "channel": "Rotten Tomatoes Classic Trailers",
+      "duration": 225.0,
+      "title": "Citizen Kane (1941) Official Trailer #1 - Orson Welles Movie"
+    },
+    {
+      "id": "vRZU9YnU2pg",
+      "channel": "Brian Thompson",
+      "duration": 21.0,
+      "title": "Jeff Fahey is Parker Kane. 1990 TV movie promo"
+    },
+    {
+      "id": "2HY35DNYt8g",
+      "channel": "American Film Institute",
+      "duration": 51.0,
+      "title": "CITIZEN KANE: 75th Anniversary Trailer"
+    },
+    {
+      "id": "O4bQvQlyBkY",
+      "channel": "Tim's Speelgoedboerderij",
+      "duration": 113.0,
+      "title": "Britains Kane Classic trailer Art.43153"
+    },
+    {
+      "id": "fXf2LGhW66M",
+      "channel": "Mackenzie Parker",
+      "duration": 116.0,
+      "title": "Citizen Kane | Modern Trailer"
+    }
+  ]
+}

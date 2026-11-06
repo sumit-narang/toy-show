@@ -1,0 +1,60 @@
+{
+  "id": "2023-mr-wolf-goes-to-the-ball",
+  "year": 2023,
+  "name": "Mr Wolf Goes to the Ball",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/mr-wolf-goes-to-the-ball-tatyana-feeney-9781788493345"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/mr-wolf-goes-to-the-ball-tatyana-feeney-9781788493345",
+      "title": "Buy Mr Wolf Goes To The Ball Book at Easons",
+      "description": "When Mr Wolf is invited to the ball he doesn't know what to wear. He has beautiful knitted hats and scarfs and socks - but none of those seem quite right. Then he sees a beautiful dress in a shop window and he knows that would be a perfect outfit for him t",
+      "image": null,
+      "ld_description": "When Mr Wolf is invited to the ball he doesn't know what to wear. He has beautiful knitted hats and scarfs and socks - but none of those seem quite right. Then he sees a beautiful dress in a shop window and he knows that would be a perfect outfit for him to wear to dance the night away.\n\nBut when he shows his brand new outfit to the other animals, they all tell him he shouldn't be wearing a dress.\n\nWith a little reassurance from the sheep, Mr Wolf goes to the ball in his dress anyway. And when he sees the other animals in all kinds of dresses and suits, he feels amazing - and dances the night away!\n\nA gentle story about following your heart and expressing your true self, with beautifully layered illustrations just perfect for younger readers.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/fedee2d7-ed95-46e6-9644-37d724dc9efb/9781788493345_5642658503.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ICZ1aUCbosM",
+      "channel": "Softball Canada",
+      "duration": 64.0,
+      "title": "What Time is it Mr Wolf"
+    },
+    {
+      "id": "B-6F2U8wTcE",
+      "channel": "The Wiggles",
+      "duration": 99.0,
+      "title": "What's The Time Mr Wolf? ⏰  Kids Songs and Nursery Rhymes with The Wiggles"
+    },
+    {
+      "id": "L8n_nBxJv4o",
+      "channel": "Wolvercote",
+      "duration": 535.0,
+      "title": "'Mr Wolf And The Enormous Turnip' read by Mr Hamilton"
+    },
+    {
+      "id": "V7wzXtpKsas",
+      "channel": "Beach Combing (Dr Beachcombing)",
+      "duration": 85.0,
+      "title": "fantastic mr fox meets wolf"
+    },
+    {
+      "id": "qY4LG7SoRgI",
+      "channel": "Little Baby Bum - Nursery Rhymes & Kids Songs",
+      "duration": 132.0,
+      "title": "What's The Time Mr. Wolf? | Nursery Rhymes for Babies by LittleBabyBum - ABCs and 123s"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2021-a-town-called-ennis-by-chris-judge",
+  "year": 2021,
+  "name": "A Town Called Ennis by Chris Judge",
+  "price_eur": 12.0,
+  "price_text": "€12.00",
+  "retailers": [
+    {
+      "name": "Ennis Bookshop",
+      "url": "https://www.ennisbookshop.ie/p/chris-judge-a-town-called-ennis/9781399901369"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ennisbookshop.ie/p/chris-judge-a-town-called-ennis/9781399901369",
+      "title": "A Town Called Ennis | by Chris Judge",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H4KxTv1LL5w",
+      "channel": "THE ROAD - Topic",
+      "duration": 333.0,
+      "title": "Ennis Town"
+    },
+    {
+      "id": "WDH3TfjrW-s",
+      "channel": "Time2ShineMinistry",
+      "duration": 729.0,
+      "title": "BOOT CAMP ELIMINATIONS - Time2Shine 2014 (Season 4) Episode 7 (Part 2)"
+    },
+    {
+      "id": "1y1cthozBuc",
+      "channel": "Movieclips",
+      "duration": 150.0,
+      "title": "Walking Tall (5/10) Movie CLIP - I'm Gonna Fix This Town (2004) HD"
+    },
+    {
+      "id": "D_J1Mdguj20",
+      "channel": "Richard Prendergast",
+      "duration": 235.0,
+      "title": "John Twiss From Castleisland - Richard Prendergast - Songs From The Past"
+    },
+    {
+      "id": "D0eHgk48Ar4",
+      "channel": "dansheffield",
+      "duration": 66.0,
+      "title": "8. The Lark In The Morning"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-jurassic-world-rebirth-adventure-challenge-party-game",
+  "year": 2025,
+  "name": "Jurassic World Rebirth Adventure Challenge Party Game",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/jurassic-world-jurassic-world-rebirth-adventure-challengenbspparty-game/1601177158.prd"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/jurassic-world-jurassic-world-rebirth-adventure-challengenbspparty-game/1601177158.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "evgw-hiu48Y",
+      "channel": "Immersive Interactive World",
+      "duration": 350.0,
+      "title": "Jurassic Escape 🦖 | Immersive Interactive World | Dino Adventure Challenge"
+    },
+    {
+      "id": "I_fFU_MhTi0",
+      "channel": "Brain Breaks For Kids  - Exercise & Fun",
+      "duration": 528.0,
+      "title": "Jurassic Chase | Dinosaur Run Brain Break For Kids | Fun Exercise For Kids"
+    },
+    {
+      "id": "ZW5j5VKQqVU",
+      "channel": "Toy Pals TV",
+      "duration": 2112.0,
+      "title": "JURASSIC WORLD REBIRTH Spinning Wheel Slime Game w/ New Movie Dinosaur Toys & Figures 🦖"
+    },
+    {
+      "id": "bWltFt9_7RM",
+      "channel": "Stumble Guys",
+      "duration": 66.0,
+      "title": "Stumble Guys x JURASSIC WORLD REBIRTH (Official Trailer)"
+    },
+    {
+      "id": "n4r5g2lgNsw",
+      "channel": "Spin Master Games",
+      "duration": 63.0,
+      "title": "How to Play Jurassic World Stomp N’ Smash | Spin Master Games | Games for Kids"
+    }
+  ]
+}

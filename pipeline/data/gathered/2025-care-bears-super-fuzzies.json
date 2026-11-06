@@ -1,0 +1,54 @@
+{
+  "id": "2025-care-bears-super-fuzzies",
+  "year": 2025,
+  "name": "Care Bears Super Fuzzies",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "World of Wonder",
+      "url": "https://worldofwondertoys.ie/product/care-bears-super-fuzzies-35cm-plush-assortment/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://worldofwondertoys.ie/product/care-bears-super-fuzzies-35cm-plush-assortment/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7PeTQfcxoms",
+      "channel": "pstoyreviews",
+      "duration": 550.0,
+      "title": "Care Bears Super Fuzzies Blind Bag Plush Opening Review"
+    },
+    {
+      "id": "qps6MY6Pi_w",
+      "channel": "See Rad",
+      "duration": 288.0,
+      "title": "Care Bears Super Fuzzies Mystery Plush Blind Bag - Which One Did We Get?"
+    },
+    {
+      "id": "g9K5mM-3vjY",
+      "channel": "JT Opens Stuff",
+      "duration": 228.0,
+      "title": "Care Bears SUPER FUZZIES Opening and Review!"
+    },
+    {
+      "id": "L4hZP6UZbK0",
+      "channel": "Tabatha's Cuddly Bears Takeover",
+      "duration": 230.0,
+      "title": "Care Bears Super Fuzzies Unboxing"
+    },
+    {
+      "id": "NFP4W95JLeY",
+      "channel": "The Story Weaver ",
+      "duration": 672.0,
+      "title": "Care Bears Super Fuzzies Blind Bag Opening+ Secret Bag Codes Revealed!! Ultra Rare Bear Found!"
+    }
+  ]
+}

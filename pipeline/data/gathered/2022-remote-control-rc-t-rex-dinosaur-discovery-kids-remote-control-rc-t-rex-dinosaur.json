@@ -1,0 +1,54 @@
+{
+  "id": "2022-remote-control-rc-t-rex-dinosaur-discovery-kids-remote-control-rc-t-rex-dinosaur",
+  "year": 2022,
+  "name": "Remote Control RC T Rex Dinosaur Discovery Kids Remote Control RC T Rex Dinosaur",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Fagans Toys",
+      "url": "http://fagantoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.fagantoys.ie"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kc0HU2vhTTk",
+      "channel": "Manu",
+      "duration": 260.0,
+      "title": "Unboxing Discovery R C T Rex #discoveryrctrex"
+    },
+    {
+      "id": "pL7W6Zi7nOU",
+      "channel": "Mini fun toys",
+      "duration": 390.0,
+      "title": "Jurassic World T.Rex RC Toys Unboxing & Review"
+    },
+    {
+      "id": "UW1Uc6ioews",
+      "channel": "UNIC TOY TV ",
+      "duration": 136.0,
+      "title": "Remote Control T-Rex Dinosaur Unboxing and Testing | Unic Toy Tv"
+    },
+    {
+      "id": "k6wkqdAH9_s",
+      "channel": "Cattien's World",
+      "duration": 553.0,
+      "title": "DISCOVERY RC T-REX Remote Control Dinosaur- Unboxing& playing RC T-REX vs RC TARANTULA, RC SCORPION!"
+    },
+    {
+      "id": "5oBi5VwD5XQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 74.0,
+      "title": "RC T-Rex from Discovery"
+    }
+  ]
+}

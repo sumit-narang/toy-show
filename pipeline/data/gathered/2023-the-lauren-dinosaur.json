@@ -1,0 +1,54 @@
+{
+  "id": "2023-the-lauren-dinosaur",
+  "year": 2023,
+  "name": "The Lauren Dinosaur",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie/collections/the-collection/products/dinosaur-pink"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://lucyandme.ie/collections/the-collection/products/dinosaur-pink"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "82ooOpJLzr8",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 184.0,
+      "title": "We Are The Dinosaurs 🦕 Best Kids Dinosaur Song by The Laurie Berkner Band (20th Year Edition)"
+    },
+    {
+      "id": "CnRp6rZnl6o",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 140.0,
+      "title": "The Laurie Berkner Band - We Are The Dinosaurs (American Museum of Natural History)"
+    },
+    {
+      "id": "FCOfZQESgzs",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 3859.0,
+      "title": "1 hr: \"We Are The Dinosaurs,\" \"The Goldfish,\" \"Rockesthip Run,\" and other Greatest Hits! 🦖"
+    },
+    {
+      "id": "JTUY1ZNzNHc",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 2187.0,
+      "title": "35 mins - \"We Are The Dinosaurs\" \"Victor Vito\" and Other Laurie Berkner Greatest Hits!"
+    },
+    {
+      "id": "ajAsDDp-tWo",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 137.0,
+      "title": "We Are The Dinosaurs"
+    }
+  ]
+}

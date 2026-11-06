@@ -1,0 +1,54 @@
+{
+  "id": "2021-me-mo-dolls-pram",
+  "year": 2021,
+  "name": "Me Mo Dolls Pram",
+  "price_eur": 89.95,
+  "price_text": "€89.95",
+  "retailers": [
+    {
+      "name": "EuroBaby",
+      "url": "https://eurobaby.com/cosatto-me-mo-dolls-pram-car-seat/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rPvXG0UPmA0",
+      "channel": "Rachael Cardy",
+      "duration": 75.0,
+      "title": "Cosatto’s Me-Mo Doll’s Pram Car Seat Fairy Garden"
+    },
+    {
+      "id": "gjsitzjHLQI",
+      "channel": "Rachael Cardy",
+      "duration": 133.0,
+      "title": "Cosatto Dolls Prams Comparison- Cabi, Wonder , Me-Mo, Wonder Fairy Garden and Toodle Tandem"
+    },
+    {
+      "id": "tEeBIWYGPgc",
+      "channel": "koudounistragr",
+      "duration": 86.0,
+      "title": "Cosatto ME MO 3 in 1 Combi Pushchair.mp4"
+    },
+    {
+      "id": "I9oZOGT_lf4",
+      "channel": "Perpetual Mommy",
+      "duration": 481.0,
+      "title": "Feature Friday/Review: Valco Baby Princess Doll Stroller (reverse bassinet assembly)"
+    },
+    {
+      "id": "4p2VoRPpWko",
+      "channel": "MyFroggyStuff",
+      "duration": 565.0,
+      "title": "How To Make My Mini Baby & Expecting Mom Stuff & Accessories | Doll Crafts"
+    }
+  ]
+}

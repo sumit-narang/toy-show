@@ -1,0 +1,54 @@
+{
+  "id": "2018-bath-bombs",
+  "year": 2018,
+  "name": "Bath Bombs",
+  "price_eur": 2.5,
+  "price_text": "€2.50 each",
+  "retailers": [
+    {
+      "name": "The Body Shop",
+      "url": "https://www.thebodyshop.ie/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EcWuHXYGbKw",
+      "channel": "SuesKawaiiCollection",
+      "duration": 120.0,
+      "title": "LUSH Intergalactic Bath Bomb"
+    },
+    {
+      "id": "OBjqsfcpIj4",
+      "channel": "Pearl Bath Bombs",
+      "duration": 38.0,
+      "title": "Pearl Bath Bombs: How It Works"
+    },
+    {
+      "id": "uocwJAi2y_U",
+      "channel": "Pleasant Green",
+      "duration": 602.0,
+      "title": "Don't Buy AI Bath Bombs"
+    },
+    {
+      "id": "PGHFOyqQQiQ",
+      "channel": "MamaMittens",
+      "duration": 166.0,
+      "title": "Da Bomb Bath Fizzers - Disco Bath Bomb Demo!"
+    },
+    {
+      "id": "R9LXl5LLSsg",
+      "channel": "KAYCEE & RACHEL in WONDERLAND FAMILY",
+      "duration": 601.0,
+      "title": "Marble Bath bombs"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-vtech-switch-go-dino-overseer-the-t-rex",
+  "year": 2020,
+  "name": "VTech Switch & Go Dino Overseer the T-Rex",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/vtech-switch-go-dino-overseer-the-t-rex/1600506435.prd?_requestid=1002813&Ntt=switch%20and%20go%20dinosaurs"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/vtech-switch-go-dino-overseer-the-t-rex/1600506435.prd?_requestid=1002813&Ntt=switch%20and%20go%20dinosaurs"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "slSXXoxEw6M",
+      "channel": "ElectricGemZ",
+      "duration": 67.0,
+      "title": "vTech Switch & Go Dinos Remote Control Overseer the T-Rex"
+    },
+    {
+      "id": "i4ICxPvBoSU",
+      "channel": "Currys",
+      "duration": 46.0,
+      "title": "Vtech Switch & Go Dinos Overseer the T-Rex - Product Overview"
+    },
+    {
+      "id": "8n8LjBPtrJo",
+      "channel": "ElectricGemZ",
+      "duration": 55.0,
+      "title": "vTech Switch & Go Dinos Remote Control Riot the T-Rex"
+    },
+    {
+      "id": "ktAe8Do4QTI",
+      "channel": "NEAM TV / MEDIA",
+      "duration": 21.0,
+      "title": "VTech Switch & Go Dinos - Overseer and Riot 20 TV Commercial"
+    },
+    {
+      "id": "Q006zx-sau0",
+      "channel": "What Do Toys Do?",
+      "duration": 338.0,
+      "title": "VTech Switch & Go Dinos Lex Seeker Torr Vehicle Transformers Dinosaurs "
+    }
+  ]
+}

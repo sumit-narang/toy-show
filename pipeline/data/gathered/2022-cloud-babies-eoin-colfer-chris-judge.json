@@ -1,0 +1,44 @@
+{
+  "id": "2022-cloud-babies-eoin-colfer-chris-judge",
+  "year": 2022,
+  "name": "Cloud Babies - Eoin Colfer & Chris Judge",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "H3aN2DvtZwM",
+      "channel": "Ally McFadden",
+      "duration": 411.0,
+      "title": "Cloud Babies by Eoin Colfer illustrated by Chris Judge"
+    },
+    {
+      "id": "OBNQoX8ECdU",
+      "channel": "Ally McFadden",
+      "duration": 414.0,
+      "title": "Cloud Babies by Eoin Colfer"
+    },
+    {
+      "id": "p9B-Ux1EDNQ",
+      "channel": "Vega family Bedtime Stories Readaloud",
+      "duration": 427.0,
+      "title": "CLOUD BABIES SOMETIMES ALL WE NEED TO DO IS LOOK UP READ ALOUD"
+    },
+    {
+      "id": "5EH7JxIfb98",
+      "channel": "Bibliothèque DDO Library",
+      "duration": 255.0,
+      "title": "July Monthly Must Read for 0-8 years old | SPOILER FREE"
+    },
+    {
+      "id": "Vwg_ZCNbrjQ",
+      "channel": "Tammi Van Hollander",
+      "duration": 109.0,
+      "title": "1 2 3 A Calmer Me: Helping Children Cope when Emotions Get Out of Control"
+    }
+  ]
+}

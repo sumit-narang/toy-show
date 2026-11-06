@@ -1,0 +1,72 @@
+{
+  "id": "2018-furreal-ricky-the-trick-lovin-pup",
+  "year": 2018,
+  "name": "FurReal Ricky the Trick Lovin' Pup",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MSuX1hC0fDQ",
+      "channel": "Lucky Penny Shop",
+      "duration": 801.0,
+      "title": "FurReal Ricky The Trick-Lovin' Pup By Hasbro"
+    },
+    {
+      "id": "UtZERHugRtg",
+      "channel": "KLW's product reviews",
+      "duration": 421.0,
+      "title": "Review of Hasbro Fur Real Ricky the trick loving pup"
+    },
+    {
+      "id": "3BGuNbcW5Xo",
+      "channel": "Tom’s Guide",
+      "duration": 52.0,
+      "title": "FurReal Friends Ricky Trick-Lovin Pup: Cuter than the Real Thing?"
+    },
+    {
+      "id": "pnFhh7vcEXA",
+      "channel": "JustUsGirls",
+      "duration": 552.0,
+      "title": "FurReal Ricky The Trick-Lovin’ Pup"
+    },
+    {
+      "id": "zcb9YTHR6a8",
+      "channel": "konas2002",
+      "duration": 479.0,
+      "title": "Fur Real Ricky the Trick Lovin Pup ! || Toy Review || Konas2002"
+    }
+  ]
+}

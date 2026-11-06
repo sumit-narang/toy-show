@@ -1,0 +1,57 @@
+{
+  "id": "2025-minecraft-movie-action-figure-steve",
+  "year": 2025,
+  "name": "Minecraft Movie Action Figure Steve",
+  "price_eur": 17.0,
+  "price_text": "€17",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-action-figure-steve-30cm/p/245752"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-action-figure-steve-30cm/p/245752",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P5qgFB5xsyk",
+      "channel": "Wildman",
+      "duration": 321.0,
+      "title": "Minecraft Movie Steve Figure!! Mattel Minecraft Movie Steve Figure Review"
+    },
+    {
+      "id": "SeCVHDDGzEg",
+      "channel": "Sirdork",
+      "duration": 903.0,
+      "title": "Steve and Creeper are SURPRISINGLY GOOD for under $10! - Shooting and Reviewing"
+    },
+    {
+      "id": "KuJ50UqX974",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "MINECRAFT Blast Attack Ghast | AD"
+    },
+    {
+      "id": "BmJxfCZ_3k8",
+      "channel": "STUDS and Republic Studs",
+      "duration": 1107.0,
+      "title": "I made EVERY MINECRAFT MOVIE Character in LEGO..."
+    },
+    {
+      "id": "ACGz_xKIOrI",
+      "channel": "Bobbee Reviews",
+      "duration": 41.0,
+      "title": "Minecraft Steve 12-Inch Action Figure Review | Large-Scale Movie Toy by Mattel"
+    }
+  ]
+}

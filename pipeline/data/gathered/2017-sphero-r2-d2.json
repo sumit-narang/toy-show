@@ -1,0 +1,53 @@
+{
+  "id": "2017-sphero-r2-d2",
+  "year": 2017,
+  "name": "Sphero R2-D2",
+  "price_eur": 195.95,
+  "price_text": "€195.95",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bqCklWaH7k4",
+      "channel": "The Captain!",
+      "duration": 867.0,
+      "title": "Unboxing Star Wars Droids! Sphero! BB-8! R2-D2! BB-9E! R2-Q5!"
+    },
+    {
+      "id": "y2jdkEml2RM",
+      "channel": "Tech Advisor",
+      "duration": 115.0,
+      "title": "Star Wars Sphero R2-D2 review"
+    },
+    {
+      "id": "wiC8YzeJv38",
+      "channel": "Recombu",
+      "duration": 945.0,
+      "title": "Sphero R2-D2 Unboxing, Setup & Hands-on Review"
+    },
+    {
+      "id": "Va9wBpxoU_0",
+      "channel": "Hassan Ahmed",
+      "duration": 1027.0,
+      "title": "Star Wars R2-D2 by Sphero Unboxing/Review"
+    },
+    {
+      "id": "mEsb9Aq_TF8",
+      "channel": "PhoneArena",
+      "duration": 235.0,
+      "title": "Sphero Star Wars BB-8, BB-9E, & R2D2 hands-on"
+    }
+  ]
+}

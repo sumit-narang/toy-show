@@ -1,0 +1,54 @@
+{
+  "id": "2025-lego-wicked-emerald-city-kiamo-ko-castle",
+  "year": 2025,
+  "name": "LEGO Wicked Emerald City & Kiamo Ko Castle",
+  "price_eur": 80.0,
+  "price_text": "€80",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/lego/wicked--emerald-city-kiamo-ko-castle/184878693.html?cgid=root"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/lego/wicked--emerald-city-kiamo-ko-castle/184878693.html?cgid=root"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fwBYBMwx2JM",
+      "channel": "ellieV ",
+      "duration": 987.0,
+      "title": "Emerald City and Kiamo Ko castle 💚🩷 LEGO Wicked build & review"
+    },
+    {
+      "id": "Q9o13sfj3GM",
+      "channel": "AustrianBrickFan",
+      "duration": 937.0,
+      "title": "LEGO Wicked 75689 Emerald City & Kiamo Ko Castle - LEGO Speed Build Review"
+    },
+    {
+      "id": "YFooamz7Bcc",
+      "channel": "Brother Brick",
+      "duration": 1054.0,
+      "title": "LEGO Wicked Emerald City & Kiamo Ko Castle (75689) - 2025 Set Review"
+    },
+    {
+      "id": "HMnDZVdcklU",
+      "channel": "HollyOnFilm",
+      "duration": 1100.0,
+      "title": "I Built Every LEGO Wicked Set EVER!"
+    },
+    {
+      "id": "ZZyOtmUTcxc",
+      "channel": "ellieV ",
+      "duration": 1259.0,
+      "title": "Welcome to Emerald City 💚🩷 Wicked LEGO build & review"
+    }
+  ]
+}

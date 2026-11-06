@@ -1,0 +1,54 @@
+{
+  "id": "2023-funko-pop-my-hero-academia-deku-with-gloves",
+  "year": 2023,
+  "name": "Funko Pop My Hero Academia Deku with Gloves",
+  "price_eur": 7.0,
+  "price_text": "€7",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-ulvubngvIU",
+      "channel": "Misery Pop!",
+      "duration": 977.0,
+      "title": "✨[NEW] MY HERO ACADEMIA FUNKO POPS✨ | Flocked Hawks Funko Pop | Glow Deku Funko Pop | PART 2🔥"
+    },
+    {
+      "id": "AYz5jRDIT_E",
+      "channel": "Halloween Maker Funko Pop",
+      "duration": 64.0,
+      "title": "Izuku Midoriya (Deku) with Gloves Glow in the Dark Funko Pop! Vinyl My Hero Academia Special Edition"
+    },
+    {
+      "id": "uzloqT-ZATA",
+      "channel": "calebxswag",
+      "duration": 422.0,
+      "title": "My entire My Hero Academia Funko Pop Collection"
+    },
+    {
+      "id": "ffBI-9YRXjA",
+      "channel": "PiPPOP!",
+      "duration": 138.0,
+      "title": "DEKU WITH ERI 1010 10INCH - UNBOXING FUNKO POP MY HERO ACADEMIA"
+    },
+    {
+      "id": "MiLsPG4jACM",
+      "channel": "Carlos C.",
+      "duration": 746.0,
+      "title": "Unboxing Izuku Midoriya With Gloves (MHA) Funko Pop Glow In The Dark Barnes & Noble Exclusive"
+    }
+  ]
+}

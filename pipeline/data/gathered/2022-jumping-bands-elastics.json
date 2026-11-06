@@ -1,0 +1,57 @@
+{
+  "id": "2022-jumping-bands-elastics",
+  "year": 2022,
+  "name": "Jumping Bands (Elastics)",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "jiminy eco-toys",
+      "url": "https://jiminy.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wAajOs6f8r0",
+      "channel": "Kristin Lukow",
+      "duration": 387.0,
+      "title": "How To Jump Bands I Teams & Cross"
+    },
+    {
+      "id": "4EbVH7rHxvk",
+      "channel": "Nathanael Morton",
+      "duration": 337.0,
+      "title": "TOP 5 RESISTANCE BAND VERTICAL JUMP EXERCISES TO JUMP HIGHER!"
+    },
+    {
+      "id": "SuXd6ELWUCk",
+      "channel": "TwistbandTV",
+      "duration": 11.0,
+      "title": "Intermediate Twistband Chinese Jump Rope"
+    },
+    {
+      "id": "Qqk9Vn2eQQI",
+      "channel": "Kristin Lukow",
+      "duration": 56.0,
+      "title": "First Time First Graders - Jump Bands"
+    },
+    {
+      "id": "Rm9Aa418qxM",
+      "channel": "Kristin Lukow",
+      "duration": 241.0,
+      "title": "Jump Bands - Ladder & Star How-To"
+    }
+  ]
+}

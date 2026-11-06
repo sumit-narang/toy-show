@@ -1,0 +1,57 @@
+{
+  "id": "2024-skogsduva-ikea-plush-toys",
+  "year": 2024,
+  "name": "SKOGSDUVA IKEA Plush Toys",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/cat/skogsduva-collection-700582/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/cat/skogsduva-collection-700582/",
+      "title": "SKOGSDUVA Collection",
+      "description": "Discover this new and naturally irresistible decoration series for children’s rooms, matching soft toys with textiles, storage boxes and more. Shop here.",
+      "image": "https://www.ikea.com/global/assets/range-categorisation/images/skogsduva-collection-700582.jpeg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aP-XQBlo1OM",
+      "channel": "IKEA Thailand",
+      "duration": 24.0,
+      "title": "ออกผจญภัยในป่าสวีเดนสุดมหัศจรรย์! กับคอลเล็คชั่นใหม่ SKOGSDUVA/สกู๊กสดูวา | IKEA Thailand"
+    },
+    {
+      "id": "O9HjfbP_LRI",
+      "channel": "Place for plush",
+      "duration": 465.0,
+      "title": "Package Ikea artctic fox and hedgehog"
+    },
+    {
+      "id": "XwJXdcs3mGI",
+      "channel": "IKEA Austria",
+      "duration": 23.0,
+      "title": "SKOGSDUVA Kollektion - Schlaf kuscheltierisch gut!"
+    },
+    {
+      "id": "0K2j51QtUMs",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 751.0,
+      "title": "Double Unboxing: IKEA Plush Gosig Golden Puppy & Orangutan"
+    },
+    {
+      "id": "GOER_6HzgAQ",
+      "channel": "Mauritz Interior & Design",
+      "duration": 65.0,
+      "title": "IKEA Kids Room Tour 2026 | Green & Blue Walls | SKOGSDUVA & Jotun NCS Codes"
+    }
+  ]
+}

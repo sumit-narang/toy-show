@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-sackville-street-caper-alan-nolan",
+  "year": 2022,
+  "name": "The Sackville Street Caper - Alan Nolan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "vxnKlsFlnsI",
+      "channel": "Alan Nolan",
+      "duration": 311.0,
+      "title": "The Sackville Street Caper – The Locations"
+    },
+    {
+      "id": "AnzBfP4W-3I",
+      "channel": "Alan Nolan",
+      "duration": 43.0,
+      "title": "Molly Malone & Bram Stoker in The Sackville Street Caper"
+    },
+    {
+      "id": "X5mcJL4Y7X8",
+      "channel": "Google Play Books",
+      "duration": 1077.0,
+      "title": "The Sackville Street Caper Book 1 by Alan Nolan · Audiobook preview"
+    },
+    {
+      "id": "NGdgCsB3DAU",
+      "channel": "Alan Nolan",
+      "duration": 49.0,
+      "title": "Molly Malone & Bram Stoker in the Curious Case of the Irish Yeti"
+    },
+    {
+      "id": "1URIq5cvfwI",
+      "channel": "Alan Nolan",
+      "duration": 185.0,
+      "title": "Trailer: Molly Malone & Bram Stoker in the Curious Case of the Irish Yeti"
+    }
+  ]
+}

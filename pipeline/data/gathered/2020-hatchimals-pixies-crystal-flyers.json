@@ -1,0 +1,54 @@
+{
+  "id": "2020-hatchimals-pixies-crystal-flyers",
+  "year": 2020,
+  "name": "Hatchimals Pixies Crystal Flyers",
+  "price_eur": 43.99,
+  "price_text": "€43.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/hatchimals-pixies-crystal-flyers--nbspkrystalina-rose-pink/1600490962.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/hatchimals-pixies-crystal-flyers--nbspkrystalina-rose-pink/1600490962.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0LlOdlmGSD4",
+      "channel": "Techlicious",
+      "duration": 78.0,
+      "title": "First Look: Hatchimals Pixies Crystal Flyers"
+    },
+    {
+      "id": "FSgfXqC_KKg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 105.0,
+      "title": "*NEW* Hatchimals Pixies Crystal Flyers Starlight Idol from Spin Master Instructions + Review!"
+    },
+    {
+      "id": "JuNVvR2wGoE",
+      "channel": "The Entertainer Egypt ",
+      "duration": 35.0,
+      "title": "Spinmaster Hatchimals Crystal Flyers Starlight Idol TVC"
+    },
+    {
+      "id": "gfNMmNpNm_g",
+      "channel": "My World",
+      "duration": 690.0,
+      "title": "Hatchimals Pixies Crystal Fliers Purple Fairy - Does She Fly?"
+    },
+    {
+      "id": "jH1lP6-U-L0",
+      "channel": "daddy and me",
+      "duration": 505.0,
+      "title": "Hatchimals Pixies Toy Review Crystal Flyers || daddy and me || Toys review channel daddy and me"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-feber-my-lovely-llama-12v-battery-operated-ride-on",
+  "year": 2020,
+  "name": "Feber My Lovely Llama 12v Battery Operated Ride On",
+  "price_eur": 162.99,
+  "price_text": "€162.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/feber-my-lovely-llama-12v-battery-operated-ride-on/1600370099.prd"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/feber-my-lovely-llama-12v-battery-operated-ride-on/1600370099.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Dvq7UeCZGZA",
+      "channel": "FEBER Oficial",
+      "duration": 116.0,
+      "title": "FEBER My Lovely Unicorn 12V. TUTORIAL"
+    },
+    {
+      "id": "xq1Y-vv0s74",
+      "channel": "My Little Unicorn",
+      "duration": 115.0,
+      "title": "FEBER My Lovely Unicorn Tutorial"
+    },
+    {
+      "id": "ZhKLa9Pxn5E",
+      "channel": "NoseyNed",
+      "duration": 141.0,
+      "title": "Feber My Lovely Unicorn 12V Ride On   Electric Vehicle  My Unicorn Electronic Pet & Long Pink Hair"
+    },
+    {
+      "id": "j5ZnSN-9YV4",
+      "channel": "Bella & Zaina Ventimiglia",
+      "duration": 11.0,
+      "title": "Feber My Lovely Ride On - Unicorn review"
+    },
+    {
+      "id": "qGfTkdE137U",
+      "channel": "FEBER Oficial",
+      "duration": 117.0,
+      "title": "FEBER My Wild Horse 12V. TUTORIAL"
+    }
+  ]
+}

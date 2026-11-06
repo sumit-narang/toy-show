@@ -1,0 +1,57 @@
+{
+  "id": "2018-elf-on-the-shelf-pets-st-bernard",
+  "year": 2018,
+  "name": "Elf on the Shelf Pets St Bernard",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DSxTzEwTNSo",
+      "channel": "The Elf on the Shelf",
+      "duration": 98.0,
+      "title": "\"Pups at the Window\" from Santa's St. Bernards Save Christmas!"
+    },
+    {
+      "id": "9hHW5OP_wQs",
+      "channel": "Tarle Favorites and Fun!",
+      "duration": 81.0,
+      "title": "Quick Look at the Elf on the Shelf St Bernard"
+    },
+    {
+      "id": "jZA70FPvl-s",
+      "channel": "The Elf on the Shelf",
+      "duration": 31.0,
+      "title": "Elf Pets: A Saint Bernard Tradition Broadcast Spot"
+    },
+    {
+      "id": "Hs7SSdSu3eQ",
+      "channel": "The Elf on the Shelf",
+      "duration": 31.0,
+      "title": "Elf Pets Saint Bernard Pup App Preview"
+    },
+    {
+      "id": "ToxsRiEzgLo",
+      "channel": "The Elf on the Shelf",
+      "duration": 62.0,
+      "title": "What is an Elf Pets Saint Bernard?"
+    }
+  ]
+}

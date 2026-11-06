@@ -1,0 +1,57 @@
+{
+  "id": "2024-sensory-toys-provided-by-everyday-ot-ireland",
+  "year": 2024,
+  "name": "Sensory Toys provided by Everyday OT Ireland",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Everyday OT Ireland",
+      "url": "https://www.everydayotireland.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.everydayotireland.com/",
+      "title": "Everyday OT Ireland | Sensory Tools & Paediatric Occupational Therapy",
+      "description": "Shop sensory resources and tools plus neuroaffirmative, child-led paediatric OT consultations, assessments and support for families and schools in Ireland.",
+      "image": "http://www.everydayotireland.com/cdn/shop/files/LOGO_2023_1.png?height=628&pad_color=9cc0ec&v=1698922323&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AHdCj8sWtV0",
+      "channel": "Harkla - Parenting & Child Development Tips",
+      "duration": 496.0,
+      "title": "5 Ways to Use Proprioception for Calming and Regulation | Occupational Therapy Tips"
+    },
+    {
+      "id": "y8FamLcEpGk",
+      "channel": "Emma Hubbard",
+      "duration": 703.0,
+      "title": "Best Toys For Newborn Babies (From a Pediatric OT)"
+    },
+    {
+      "id": "vmqen3cueuY",
+      "channel": "Hapa Family",
+      "duration": 1026.0,
+      "title": "MONTESSORI AT HOME: DIY Montessori Toys for Babies & Toddlers"
+    },
+    {
+      "id": "T9j6rQ4rtQY",
+      "channel": "Edutopia",
+      "duration": 185.0,
+      "title": "The Sensory Room: Helping Students With Autism Focus and Learn"
+    },
+    {
+      "id": "UbpwYn3GHcM",
+      "channel": "Emma Hubbard",
+      "duration": 377.0,
+      "title": "Baby Toys 0-3 Months: The Only 4 Toys You Need!"
+    }
+  ]
+}

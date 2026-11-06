@@ -1,0 +1,57 @@
+{
+  "id": "2024-drift-24v-electric-ride-on-trike-green",
+  "year": 2024,
+  "name": "Drift 24V Electric Ride on Trike Green",
+  "price_eur": 369.95,
+  "price_text": "€369.95",
+  "retailers": [
+    {
+      "name": "Funstuff",
+      "url": "https://funstuff.ie/drift-24v-electric-ride-on-trike-green/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funstuff.ie/drift-24v-electric-ride-on-trike-green/",
+      "title": "Drift 24V Electric Ride On Trike Green",
+      "description": "Shop now for Drift 24V Electric Ride On Trike Red at Funstuff.ie. Best kids electric ride on go kart Ireland UK.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1586/images/15757/funstuff-drift-24v-electric-ride-on-trike-green__72661.1773710861.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "40gZOCxhjvs",
+      "channel": "Outdoor Toys UK",
+      "duration": 19.0,
+      "title": "Outdoortoys Drift 24V Electric Ride on Trike"
+    },
+    {
+      "id": "wwJmdIEWGJw",
+      "channel": "White Heart Toys",
+      "duration": 41.0,
+      "title": "Huffy Electric Green Machine   24 Volt Battery Powered Trike"
+    },
+    {
+      "id": "59bXhxFlMu8",
+      "channel": "Xootz",
+      "duration": 31.0,
+      "title": "Xootz Cyclone Drift Trike"
+    },
+    {
+      "id": "zCiFliZRRMI",
+      "channel": "Lee",
+      "duration": 27.0,
+      "title": "electric huffy slider drift trike cruising the streets of Gold Coast"
+    },
+    {
+      "id": "0WiM_z9Kbxo",
+      "channel": "Huffy Bicycles",
+      "duration": 38.0,
+      "title": "Huffy Green Machine Bike - 360 spins & slides!"
+    }
+  ]
+}

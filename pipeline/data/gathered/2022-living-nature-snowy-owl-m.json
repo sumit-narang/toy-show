@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-snowy-owl-m",
+  "year": 2022,
+  "name": "Living Nature Snowy Owl M",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Uf5IQiLOQK0",
+      "channel": "Nat Geo Animals",
+      "duration": 120.0,
+      "title": "Silent Snowy Owl Attack | Alaska's Deadliest"
+    },
+    {
+      "id": "71PD2f1ogyk",
+      "channel": "Robert E Fuller",
+      "duration": 22.0,
+      "title": "Barn Owl Hears Thunder for the First Time | Discover Wildlife | Robert E Fuller"
+    },
+    {
+      "id": "Ykcs1U0lNtE",
+      "channel": "The Nature of Things",
+      "duration": 284.0,
+      "title": "Incredible footage shows how owl uses sound to hunt under snow"
+    },
+    {
+      "id": "be9yHEptF6k",
+      "channel": "Best Documentary",
+      "duration": 2671.0,
+      "title": "Snowy Owls | Why Is It The Most Skilled Arctic Predator? | Wildlife Documentary"
+    },
+    {
+      "id": "bt3X8MJgJWo",
+      "channel": "Nat Geo Animals",
+      "duration": 201.0,
+      "title": "Great Horned Owl on the Hunt | Nat Geo Wild"
+    }
+  ]
+}

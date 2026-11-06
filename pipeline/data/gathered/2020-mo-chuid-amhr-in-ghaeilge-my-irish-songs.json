@@ -1,0 +1,60 @@
+{
+  "id": "2020-mo-chuid-amhr-in-ghaeilge-my-irish-songs",
+  "year": 2020,
+  "name": "Mo Chuid Amhráin Ghaeilge / My Irish Songs",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "An Siopa Leabhar",
+      "url": "https://www.siopaleabhar.com/en/product/mo-chuid-amhrain-ghaeilge-my-irish-songs/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopaleabhar.com/en/tairgi/mo-chuid-amhrain-ghaeilge-my-irish-songs/",
+      "title": "Mo Chuid Amhráin Ghaeilge / My Irish Songs - An Siopa Leabhar",
+      "description": "A beautiful board book illustrated by Tatyana Feeney, includes 6 traditional Irish songs that come to life with the push of a button. Irish song book as seen on Late Late Toy Show.",
+      "image": "https://www.siopaleabhar.com/wp-content/uploads/2021/06/210624-mcag1.jpg",
+      "ld_description": "A beautiful board book illustrated by Tatyana Feeney, includes 6 traditional Irish songs that come to life with the push of a button. Irish song book as seen on Late Late Toy Show.",
+      "brand": null,
+      "ld_image": "https://www.siopaleabhar.com/wp-content/uploads/2021/06/210624-mcag1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A5wVm--lMfQ",
+      "channel": "My Irish Books",
+      "duration": 81.0,
+      "title": "Late Late Toy Show 2020 - Mo Chuid Amhráin Ghaeilge Review - (My Irish Songs)"
+    },
+    {
+      "id": "_fXptofHLkE",
+      "channel": "My Irish Books",
+      "duration": 37.0,
+      "title": "Mo Chuid Amhráin Ghaeilge - My Irish Songs"
+    },
+    {
+      "id": "QFA1iBJm7zM",
+      "channel": "My Irish Books",
+      "duration": 17.0,
+      "title": "3. Níl sé ina Lá (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "K6s_AgwqNmg",
+      "channel": "My Irish Books",
+      "duration": 15.0,
+      "title": "6. Éireoidh mé ar maidin (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "NlTI31R_0AU",
+      "channel": "My Irish Books",
+      "duration": 32.0,
+      "title": "2. Molly Malone/Mol Ní Mhaoileoin (Mo Chuid Amhráin Ghaeilge 3)"
+    }
+  ]
+}

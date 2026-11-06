@@ -1,0 +1,60 @@
+{
+  "id": "2025-little-people-big-dreams-coco-chanel",
+  "year": 2025,
+  "name": "Little People, Big Dreams - Coco Chanel",
+  "price_eur": 14.5,
+  "price_text": "€14.50",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/coco-chanel-ma-isabel-sanchez-vegara-9781847807717"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/coco-chanel-ma-isabel-sanchez-vegara-9781847807717",
+      "title": "Buy Coco Chanel Book at Easons",
+      "description": "**The multimillion-copy bestselling Little People, BIG DREAMS series**   Discover the inspiring story of international style icon, Coco Chanel, told in an inspiring biography for kids!   Liitle Coco spent her early life in an orphanage. Her creative mind m",
+      "image": null,
+      "ld_description": "**The multimillion-copy bestselling Little People, BIG DREAMS series**   Discover the inspiring story of international style icon, Coco Chanel, told in an inspiring biography for kids!   Liitle Coco spent her early life in an orphanage. Her creative mind meant she didn't fit in with the other girls and the nuns at he orphanage didn't approve of her behaviour. However, when she grew up, her differences became her strengths. Coco noticed that a lot of women's clothing was restrictive so she decided to start a new style that would be more comfortable to wear. While she was sneered at at first, she is now widely recognised as one of the greatest fashion designers in history.   This moving book features stylish and quirky illustrations and extra facts at the back, including a biographical timeline with historical photos and a detailed profile of the designer's life.   Little People, BIG DREAMS is a bestselling biography series for kids that explores the lives of outstanding people, from designers and artists to scientists and activists. All of them achieved incredible things, yet each began life as a child with a dream.   This empowering series of books offers inspiring messages to children of all ages, in a range of formats. The board books are told in simple sentences, perfect for reading aloud to babies and toddlers. The hardback and paperback versions present expanded stories for beginning readers. With rewritten text for older children, the treasuries each bring together a mu",
+      "brand": "Frances Lincoln Children&#x27;s Books",
+      "ld_image": "https://www.easons.com/images/asset/83fefcb3-8822-4da2-8b31-7e15e54b1f40/9781847807717_5642684961.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lB3rkG2Lepo",
+      "channel": "StoryTimeFamily",
+      "duration": 430.0,
+      "title": "Coco Chanel : Little People Big Dreams | A story about pursuing your passion"
+    },
+    {
+      "id": "PUGUuQ9jnZ8",
+      "channel": "READ ALOUD BOOKS FOR CHILDREN",
+      "duration": 210.0,
+      "title": "🪡Kids books Read Aloud: LITTLE PEOPLE BIG DREAMS Coco Chanel. By Maria Isabel Sanchez Vergara."
+    },
+    {
+      "id": "8NsL3ejuNTI",
+      "channel": "Love2Read with Miss Ellis",
+      "duration": 158.0,
+      "title": "COCO CHANEL 👗✨ Little People, BIG DREAMS | Read Aloud by Miss Ellis 📚"
+    },
+    {
+      "id": "mZ5NuS7H5yk",
+      "channel": "Relja-Podkidster",
+      "duration": 286.0,
+      "title": "Little People, BIG DREAM-  Coco Chanel (Kids Books Read Aloud)"
+    },
+    {
+      "id": "Hers3PMbuBE",
+      "channel": "Relja-Podkidster",
+      "duration": 493.0,
+      "title": "Little People, BIG DREAM-  Hans Christian Andersen(Kids Books Read Aloud)"
+    }
+  ]
+}

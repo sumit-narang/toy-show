@@ -1,0 +1,57 @@
+{
+  "id": "2025-just-dance-2026-edition",
+  "year": 2025,
+  "name": "Just Dance 2026 Edition",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/nintendo-gaming/nintendo-switch/nintendo-switch-games/just-dance-2026-edition-limited-edition-nintendo-switch-code-in-box/p/252240"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/nintendo-gaming/nintendo-switch/nintendo-switch-games/just-dance-2026-edition-limited-edition-nintendo-switch-code-in-box/p/252240",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aO3WL6SoPmU",
+      "channel": "ArianaKatana",
+      "duration": 206.0,
+      "title": "Should you buy Just Dance 2026???"
+    },
+    {
+      "id": "wcU_Z8Wo0Kg",
+      "channel": "Just Dance",
+      "duration": 234.0,
+      "title": "Just Dance 2026 Edition – Full Songlist Trailer"
+    },
+    {
+      "id": "U8ce_JSEmLU",
+      "channel": "Starry Cubes",
+      "duration": 269.0,
+      "title": "Just Dance 2026 Edition | Cry Baby by Melanie Martinez  - Full Gameplay"
+    },
+    {
+      "id": "1EyDbL_MMfk",
+      "channel": "Cooper",
+      "duration": 270.0,
+      "title": "Just Dance 2026 Edition: Abracadabra by Lady Gaga - Full Gameplay"
+    },
+    {
+      "id": "ijdtlJ9WYLY",
+      "channel": "Silver",
+      "duration": 236.0,
+      "title": "Just Dance 2026 Edition: \"Sokusu\" by Wanko Ni Mero Mero (4 players)"
+    }
+  ]
+}

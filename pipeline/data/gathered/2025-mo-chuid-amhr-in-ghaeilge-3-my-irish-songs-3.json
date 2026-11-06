@@ -1,0 +1,54 @@
+{
+  "id": "2025-mo-chuid-amhr-in-ghaeilge-3-my-irish-songs-3",
+  "year": 2025,
+  "name": "Mo Chuid Amhráin Ghaeilge 3 (My Irish Songs 3)",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-3"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-3"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NlTI31R_0AU",
+      "channel": "My Irish Books",
+      "duration": 32.0,
+      "title": "2. Molly Malone/Mol Ní Mhaoileoin (Mo Chuid Amhráin Ghaeilge 3)"
+    },
+    {
+      "id": "VpmSnTtS47c",
+      "channel": "My Irish Books",
+      "duration": 23.0,
+      "title": "6. Na Cleaganna (Mo Chuid Amhráin Ghaeilge 3)"
+    },
+    {
+      "id": "bf0EEK4B7UE",
+      "channel": "My Irish Books",
+      "duration": 29.0,
+      "title": "3. Raithineach a bhean bheag (Mo Chuid Amhráin Ghaeilge 2)"
+    },
+    {
+      "id": "QFA1iBJm7zM",
+      "channel": "My Irish Books",
+      "duration": 17.0,
+      "title": "3. Níl sé ina Lá (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "A_W_qwTmgbg",
+      "channel": "My Irish Books",
+      "duration": 32.0,
+      "title": "1. An Poc ar Buile (Mo Chuid Amhráin Ghaeilge 3)"
+    }
+  ]
+}

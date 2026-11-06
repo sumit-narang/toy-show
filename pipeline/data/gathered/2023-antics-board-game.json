@@ -1,0 +1,54 @@
+{
+  "id": "2023-antics-board-game",
+  "year": 2023,
+  "name": "Antics Board Game",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Gosling Games",
+      "url": "https://goslinggames.ie/product/antics-board-game/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goslinggames.ie/product/antics-board-game/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cmAzQy8YtoA",
+      "channel": "The Dice Tower",
+      "duration": 428.0,
+      "title": "Antics Review - with Tom Vasel"
+    },
+    {
+      "id": "aZzoIgptysw",
+      "channel": "New games announce, review, innovation, Repost",
+      "duration": 63.0,
+      "title": "Tiny Toe Beans: Ultimate Mischief - A Cat Antics Boardgame"
+    },
+    {
+      "id": "9rrPOdy7HLE",
+      "channel": "HDI Wholesale",
+      "duration": 54.0,
+      "title": "Campantics Board Game"
+    },
+    {
+      "id": "R3sFctCXL5g",
+      "channel": "Tabletop Turtle",
+      "duration": 963.0,
+      "title": "Board Game Interaction is Stupid"
+    },
+    {
+      "id": "dB92NMSKq64",
+      "channel": "BoardGameGeek",
+      "duration": 1497.0,
+      "title": "Antics Demo - BoardGameGeek Booth - Essen Spiel 2010"
+    }
+  ]
+}

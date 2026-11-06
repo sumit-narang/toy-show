@@ -1,0 +1,57 @@
+{
+  "id": "2023-biobuddi-animal-adventure-set",
+  "year": 2023,
+  "name": "Biobuddi Animal Adventure Set",
+  "price_eur": 49.95,
+  "price_text": "€49.95",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/biobuddi-creations-animal-adventure-set-for-age-4"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H_tVjoOYkvc",
+      "channel": "BiOBUDDi",
+      "duration": 31.0,
+      "title": "BiOBUDDi, Pixel & Create"
+    },
+    {
+      "id": "IXVkrqnopl0",
+      "channel": "BiOBUDDi",
+      "duration": 79.0,
+      "title": "Arctic (Eco-friendly toy)"
+    },
+    {
+      "id": "JdC4DVMUuiM",
+      "channel": "Dabow's Playroom",
+      "duration": 385.0,
+      "title": "Having fun with BiOBUDDi  Eco-friendly blocks"
+    },
+    {
+      "id": "0ffMVJg6WKI",
+      "channel": "Papas Wereld",
+      "duration": 594.0,
+      "title": "Unboxing: bouwblokken van BioBuddi"
+    },
+    {
+      "id": "YA1ZByXM9dY",
+      "channel": "2TTOYS: LEGO, PLAYMOBIL & COBI",
+      "duration": 17.0,
+      "title": "LEGO 10869 DUPLO MashUpAnimal 1HY18 EN Length13 ecom"
+    }
+  ]
+}

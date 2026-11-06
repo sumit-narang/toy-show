@@ -1,0 +1,57 @@
+{
+  "id": "2024-furby-galaxy-glow-in-the-dark-interactive-toy",
+  "year": 2024,
+  "name": "Furby Galaxy Glow in the Dark Interactive Toy",
+  "price_eur": 49.99,
+  "price_text": "€ 49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/furby-galaxy-glow-in-the-dark-interactive-toy/p/237281"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/furby-galaxy-glow-in-the-dark-interactive-toy/p/237281",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HToRZ-PezeM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 254.0,
+      "title": "This NEW Furby Glows in the Dark!"
+    },
+    {
+      "id": "HlyJ7gTqu80",
+      "channel": "SammyLu Reviews",
+      "duration": 192.0,
+      "title": "My Review of the Furby Glow in The Dark Galaxy Edition"
+    },
+    {
+      "id": "eu3X_Zbe75c",
+      "channel": "Squirm!!!🐛",
+      "duration": 19.0,
+      "title": "Furby glow in the dark 2024? Review "
+    },
+    {
+      "id": "TGPsh7DKwQk",
+      "channel": "Furbish",
+      "duration": 178.0,
+      "title": "Furby 2023 Instructional Video"
+    },
+    {
+      "id": "9C6PjM1ioDs",
+      "channel": "Next Level Reviews",
+      "duration": 123.0,
+      "title": "Furby Galaxy Edition Glow in The Dark"
+    }
+  ]
+}

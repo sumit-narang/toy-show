@@ -1,0 +1,54 @@
+{
+  "id": "2019-pok-mon-clip-n-go-pok-ball-belt-set",
+  "year": 2019,
+  "name": "Pokémon Clip N Go Poké Ball Belt Set",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/pokemon-clip-n-go-poke-ball-belt-set/1600379716.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/pokemon-clip-n-go-poke-ball-belt-set/1600379716.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XYb1r8zfOVY",
+      "channel": "CruznMJD Productions",
+      "duration": 264.0,
+      "title": "Ep 3187 - Pokemon Clip 'N' Go Pokeball Belt Set Unboxing"
+    },
+    {
+      "id": "dK32SEx3Yz8",
+      "channel": "Hand Of Deoxys",
+      "duration": 434.0,
+      "title": "Massive Pokemon Figure Unboxing: 21+ Battle Figures!  with Clip 'N' Go Poke Ball Belt Set"
+    },
+    {
+      "id": "Rhaw5inmbFQ",
+      "channel": "Queen Regalos",
+      "duration": 16.0,
+      "title": "Pokémon Poké Ball Clip ‘N’ Go Belt"
+    },
+    {
+      "id": "p-JzgwgOAjs",
+      "channel": "Fluffy Toy Monster",
+      "duration": 700.0,
+      "title": "Pokémon Clip 'n' Carry Poké ball belt with Pokémon"
+    },
+    {
+      "id": "c-QElytAlmA",
+      "channel": "Chrislypuff",
+      "duration": 168.0,
+      "title": "Pokemon | Clip 'N' Go | Pokemon Belt Set | Battle Ready | Unboxing and Review"
+    }
+  ]
+}

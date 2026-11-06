@@ -1,0 +1,53 @@
+{
+  "id": "2017-spooky-drops-scooter",
+  "year": 2017,
+  "name": "Spooky Drops Scooter",
+  "price_eur": 109.95,
+  "price_text": "€109.95",
+  "retailers": [
+    {
+      "name": "GoSk8.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YUaxswPxPco",
+      "channel": "Claudius Vertesi",
+      "duration": 954.0,
+      "title": "HUGE SCARY SCOOTER DROP AT SKATEPARK!"
+    },
+    {
+      "id": "devir7qwdpw",
+      "channel": "Logan Schnider",
+      "duration": 508.0,
+      "title": "SCARY WOODWARD DROP ON SCOOTER!"
+    },
+    {
+      "id": "PW_uQhSYafM",
+      "channel": "Dayton Sampson",
+      "duration": 206.0,
+      "title": "HOW TO DROP IN ON A SCOOTER!! (5 EASY WAYS)"
+    },
+    {
+      "id": "CoIEj0_xxWg",
+      "channel": "cody flom",
+      "duration": 903.0,
+      "title": "Scary SCOOTER drop in on 13FT VERT RAMP!"
+    },
+    {
+      "id": "3Lg8Nf9t_uw",
+      "channel": "cody flom",
+      "duration": 603.0,
+      "title": "SCOOTER TRICKS ON SCARY STREET HALFPIPE!"
+    }
+  ]
+}

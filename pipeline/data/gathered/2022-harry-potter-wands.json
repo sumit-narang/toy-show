@@ -1,0 +1,57 @@
+{
+  "id": "2022-harry-potter-wands",
+  "year": 2022,
+  "name": "Harry Potter Wands",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter-wands-and-toys/harry-potter-hermione-light-up-painting-wand/p/168426"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter-wands-and-toys/harry-potter-hermione-light-up-painting-wand/p/168426",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3zH5oH_qYoc",
+      "channel": "The Potter Collector",
+      "duration": 966.0,
+      "title": "ALL 13 ORIGINAL Wizarding World of Harry Potter Wands | Rare Ollivanders Collection"
+    },
+    {
+      "id": "F9odQ52YBgk",
+      "channel": "Cherry Wallis",
+      "duration": 999.0,
+      "title": "I BOUGHT 12 HARRY POTTER MYSTERY WANDS"
+    },
+    {
+      "id": "cJocfp1S6us",
+      "channel": "Cherry Wallis",
+      "duration": 1111.0,
+      "title": "I BOUGHT 12 HARRY POTTER MYSTERY WANDS ✨ PROFESSOR SERIES!"
+    },
+    {
+      "id": "gRqY1nxGGE4",
+      "channel": "Harry Potter Clips",
+      "duration": 246.0,
+      "title": "Harry Gets His Wand | Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "id": "OM_ozBBCr80",
+      "channel": "The Potter Collector",
+      "duration": 777.0,
+      "title": "OPENING 30 HARRY POTTER MYSTERY WANDS SERIES 2 | WALMART HAUL"
+    }
+  ]
+}

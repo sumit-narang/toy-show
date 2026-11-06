@@ -1,0 +1,60 @@
+{
+  "id": "2020-berg-john-deere-go-kart",
+  "year": 2020,
+  "name": "BERG John Deere Go-Kart",
+  "price_eur": 669.0,
+  "price_text": "€669.00",
+  "retailers": [
+    {
+      "name": "Monaghan Hire",
+      "url": "https://monaghanhire.com/collections/berg-1/products/berg-john-deere-bfr-go-kart"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://monaghanhire.com/products/berg-john-deere-bfr-go-kart",
+      "title": "Berg John Deere XL BFR Go-Kart",
+      "description": "This BERG John Deere go-kart will turn you into the best helper a farmer can wish for! The impressive deep-tread tyres and the swing axle will give you additional grip in the mud and keep you firmly on the ground on uneven terrain! For added playing fun, you can fit out this go-kart with lots of great accessories.",
+      "image": "http://monaghanhire.com/cdn/shop/products/jd.jpg?v=1724408433",
+      "ld_description": "This BERG John Deere go-kart will turn you into the best helper a farmer can wish for! The impressive deep-tread tyres and the swing axle will give you additional grip in the mud and keep you firmly on the ground on uneven terrain! For added playing fun, you can fit out this go-kart with lots of great accessories such as a lift bucket, pallet fork or rollbar with flashing light.\n\n\n• Very robust frame making it even suitable for professional use.\n• Grows with you due to the adjustable saddle.\n• The pneumatic tyres ensure extra comfort.\n• The four wheels and swing axle keep you grounded firmly and safely.",
+      "brand": "Berg",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3ZHO-liJdMM",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 57.0,
+      "title": "BERG John Deere pedal go-karts"
+    },
+    {
+      "id": "k-dg9Fad_UA",
+      "channel": "BERG Pedal-Gokarts und Trampoline",
+      "duration": 453.0,
+      "title": "BERG Buzzy John Deere Go-kart | montage"
+    },
+    {
+      "id": "LrVe2zoY74k",
+      "channel": "BERG Pedal-Gokarts und Trampoline",
+      "duration": 31.0,
+      "title": "BERG Buzzy John Deere Go-kart"
+    },
+    {
+      "id": "Ew0jVHs_lKw",
+      "channel": "Daniel Wirth",
+      "duration": 131.0,
+      "title": "Rasenmähen mit Berg Toys GoKart BF3 Fendt Claas John Deere"
+    },
+    {
+      "id": "jvSiXViQrUM",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 49.0,
+      "title": "BERG Farm pedal go-karts"
+    }
+  ]
+}

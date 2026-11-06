@@ -1,0 +1,69 @@
+{
+  "id": "2018-barbie-care-clinic-playset-with-accessories",
+  "year": 2018,
+  "name": "Barbie Care Clinic Playset with Accessories",
+  "price_eur": 42.99,
+  "price_text": "€42.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rQCpcagt41c",
+      "channel": "Mattel",
+      "duration": 66.0,
+      "title": "Barbie Care Clinic Playset | Mattel"
+    },
+    {
+      "id": "8Mmiz7h_7iQ",
+      "channel": "MyFroggyStuff",
+      "duration": 461.0,
+      "title": "Barbie Care Clinic Play Set"
+    },
+    {
+      "id": "o1-YV8u6238",
+      "channel": "Mattel",
+      "duration": 27.0,
+      "title": "Barbie® Care Clinic Vehicle® | Barbie"
+    },
+    {
+      "id": "pZmsIWIqSto",
+      "channel": "Titi Toys and Dolls",
+      "duration": 601.0,
+      "title": "Barbie Doll Ambulance and Hospital Playset - Best Barbie Toy!"
+    },
+    {
+      "id": "dL_fTdk89PM",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 602.0,
+      "title": "Barbie Care Clinic Ambulance Hospital Unboxing Set Up Play Barbie Doctor Careers Role Model"
+    }
+  ]
+}

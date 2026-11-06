@@ -1,0 +1,54 @@
+{
+  "id": "2023-the-henry-armchair-cream",
+  "year": 2023,
+  "name": "The Henry Armchair Cream",
+  "price_eur": 145.0,
+  "price_text": "€145",
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie/collections/the-collection/products/the-henry-armchair-cream"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://lucyandme.ie/collections/the-collection/products/the-henry-armchair-cream"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NsKteR2irUk",
+      "channel": "iL Tutto",
+      "duration": 40.0,
+      "title": "🇭🇲🇬🇧 Henry Electric Recliner and Glider Chair with USB"
+    },
+    {
+      "id": "31hvosoQ4GA",
+      "channel": "iL Tutto",
+      "duration": 22.0,
+      "title": "Setting Up Your IL Tutto Nursing Chair"
+    },
+    {
+      "id": "Muo_9sFbpdM",
+      "channel": "Concept TV Official",
+      "duration": 62.0,
+      "title": "TV Ad - Medicarn Massage Chairs - Teleshopping 60s. By Concept TV. 2010."
+    },
+    {
+      "id": "HriMhK6w4a0",
+      "channel": "BellaFurniture8",
+      "duration": 27.0,
+      "title": "Furniture Australia - henry 3 seat sofa + chaise"
+    },
+    {
+      "id": "kPHMsiJB8iU",
+      "channel": "BellaFurniture8",
+      "duration": 43.0,
+      "title": "High End Furniture Brisbane - campbell 3 seat sofa + chaise"
+    }
+  ]
+}

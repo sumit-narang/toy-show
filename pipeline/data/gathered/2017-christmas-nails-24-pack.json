@@ -1,0 +1,53 @@
+{
+  "id": "2017-christmas-nails-24-pack",
+  "year": 2017,
+  "name": "Christmas Nails 24 Pack",
+  "price_eur": 1.5,
+  "price_text": "€1.50",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yWgkC699zqE",
+      "channel": "The Hair & Beauty Company",
+      "duration": 23.0,
+      "title": "NeoNail Christmas Nail Case"
+    },
+    {
+      "id": "cv4JdfHB0ds",
+      "channel": "Reilly's Random Finds",
+      "duration": 34.0,
+      "title": "This product from Kawyehu ~ Is it really worth it?? ~ #ad #AmazonInfluencer"
+    },
+    {
+      "id": "-pGGZRvN-co",
+      "channel": "Hang with Hope",
+      "duration": 2597.0,
+      "title": "Testing EVERY PRESS-ON NAIL Brand"
+    },
+    {
+      "id": "d1leA1OZzxU",
+      "channel": "Nataliyaxo",
+      "duration": 1713.0,
+      "title": "12 Days Of Christmas . Nails Product  Unboxing From AliExpress"
+    },
+    {
+      "id": "5o3vsXGSQQk",
+      "channel": "Grace Denny",
+      "duration": 936.0,
+      "title": "TRYING & UNBOXING NEW MAKEUP, CHRISTMAS NAILS & ADMITTING DEFEAT! | Vlogmas Day 24"
+    }
+  ]
+}

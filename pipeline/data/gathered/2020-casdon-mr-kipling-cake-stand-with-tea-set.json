@@ -1,0 +1,48 @@
+{
+  "id": "2020-casdon-mr-kipling-cake-stand-with-tea-set",
+  "year": 2020,
+  "name": "Casdon Mr Kipling Cake Stand with Tea Set",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/casdon-mr-kiping-cake-stand-with-tea-set/1600271647.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/casdon-mr-kiping-cake-stand-with-tea-set/1600271647.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "u9DjEOWu72k",
+      "channel": "Carly Markham",
+      "duration": 164.0,
+      "title": "Casdon Mr Kipling Cake Stand Review"
+    },
+    {
+      "id": "njBEhv_r9dA",
+      "channel": "Casdon Toys Ltd",
+      "duration": 67.0,
+      "title": "Mr Kipling Afternoon Tea Set"
+    },
+    {
+      "id": "HNVP05idupU",
+      "channel": "HemVlogs",
+      "duration": 87.0,
+      "title": "Mr Kipling French fancies collection 🙄"
+    },
+    {
+      "id": "_f6FWwPKmj4",
+      "channel": "Casdon Toys Ltd",
+      "duration": 65.0,
+      "title": "Car Booster Seat, Casdon Toys"
+    }
+  ]
+}

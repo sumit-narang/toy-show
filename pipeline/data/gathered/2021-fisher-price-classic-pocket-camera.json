@@ -1,0 +1,54 @@
+{
+  "id": "2021-fisher-price-classic-pocket-camera",
+  "year": 2021,
+  "name": "Fisher Price Classic Pocket Camera",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/pocket-camera-fisher-price-classic-toys"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/pocket-camera-fisher-price-classic-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mv2DDrCzZjA",
+      "channel": "Steve Evans",
+      "duration": 360.0,
+      "title": "What’s Inside a 1974 Fisher-Price Pocket Camera? Tearing It Apart! 📸"
+    },
+    {
+      "id": "USJqiFGpw-8",
+      "channel": "Lucky Penny Shop",
+      "duration": 100.0,
+      "title": "Fisher-Price Vintage Toy Pocket Camera # 464, 1974"
+    },
+    {
+      "id": "DmWDEQYhpMo",
+      "channel": "Horizon Picks",
+      "duration": 189.0,
+      "title": "Roy's Restorations - Repair & Pressing Video - Vintage Fisher Price Pocket Camera"
+    },
+    {
+      "id": "3Fr-8569KM0",
+      "channel": "Forest Toy Studio",
+      "duration": 85.0,
+      "title": "Vintage Fisher Price Picture Story Camera / 빈티지 피셔프라이스 픽쳐 스토리 카메라 / フィッシャープライス"
+    },
+    {
+      "id": "TCXJ5twf5tM",
+      "channel": "The 8-Bit Guy",
+      "duration": 765.0,
+      "title": "Camcorder that uses Cassette Tapes - The PXL-2000"
+    }
+  ]
+}

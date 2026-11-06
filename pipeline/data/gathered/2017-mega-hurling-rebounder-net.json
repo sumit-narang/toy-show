@@ -1,0 +1,53 @@
+{
+  "id": "2017-mega-hurling-rebounder-net",
+  "year": 2017,
+  "name": "Mega Hurling Rebounder Net",
+  "price_eur": 47.47,
+  "price_text": "€47.47",
+  "retailers": [
+    {
+      "name": "theGAAStore.com",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8b3D8DmImAs",
+      "channel": "JKC Toymaster",
+      "duration": 167.0,
+      "title": "Mega Rebounder"
+    },
+    {
+      "id": "ZvZxZlb-A2s",
+      "channel": "McSport",
+      "duration": 75.0,
+      "title": "Precision Training Pro Jumbo Rebounder 9ft x 7ft"
+    },
+    {
+      "id": "Rl7eAVYKonw",
+      "channel": "Michael Murphy Sports & Leisure",
+      "duration": 28.0,
+      "title": "Precision Jumbo Football & GAA Rebounder"
+    },
+    {
+      "id": "D7lnAlXxH_w",
+      "channel": "JKC Toymaster",
+      "duration": 154.0,
+      "title": "Mega Hurling Rebounder"
+    },
+    {
+      "id": "zreCBOloOYM",
+      "channel": "Naoise Hurling",
+      "duration": 52.0,
+      "title": "Hurling - Skills Challenge With The Rebounder"
+    }
+  ]
+}

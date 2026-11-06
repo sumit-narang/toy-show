@@ -1,0 +1,57 @@
+{
+  "id": "2022-grass-field",
+  "year": 2022,
+  "name": "Grass Field",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Field",
+      "url": "https://www.thefield.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ONioPefeiMI",
+      "channel": "Reality Geo",
+      "duration": 28829.0,
+      "title": "Calming Winds Blowing through a Grassy Field Ambience | 8 Hours"
+    },
+    {
+      "id": "dd212H6kjEQ",
+      "channel": "Relaxing Sounds Of Nature",
+      "duration": 28927.0,
+      "title": "Relaxing Wind Sounds Through The Grass Field 8 Hours / Body Movement (Free Flow)"
+    },
+    {
+      "id": "ipf7ifVSeDU",
+      "channel": "Calmed By Nature",
+      "duration": 29008.0,
+      "title": "Relaxing Meadow with Ambient Nature Sounds, Wildflowers, and Mountain View - 8 Hours"
+    },
+    {
+      "id": "MJ9-HmGWw1k",
+      "channel": "1HarryH",
+      "duration": 1990.0,
+      "title": "Field with Wind, Swallows, & Windchimes - Happy Summer moments 4K NO LOOP"
+    },
+    {
+      "id": "UZ9uyQI3pF0",
+      "channel": "Healing Nature & Meditation",
+      "duration": 3601.0,
+      "title": "Relaxing Nature Ambience Meditation🌼GOOD MORNING SPRING NATURE THERAPY🌷Flowery MEADOW Healing Sounds"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-maxi-micro-led-deluxe-scooter",
+  "year": 2025,
+  "name": "Maxi Micro LED Deluxe Scooter",
+  "price_eur": 170.0,
+  "price_text": "€170",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/micro-scooters/girls-maxi-micro-led-deluxe-scooter/144655399.html?cgid=root#q=micro%2Bmaxi&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/micro-scooters/girls-maxi-micro-led-deluxe-scooter/144655399.html?cgid=root#q=micro%2Bmaxi&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C8UmEyh1MEo",
+      "channel": "Micro Mobility Official",
+      "duration": 41.0,
+      "title": "Mini Micro & Maxi Micro Deluxe LED - Shine bright like a star!"
+    },
+    {
+      "id": "tRTXBkw8dMs",
+      "channel": "Micro Mobility Official",
+      "duration": 60.0,
+      "title": "Maxi Micro Deluxe Foldable LED - Fold and go!"
+    },
+    {
+      "id": "PQx5WVskkMM",
+      "channel": "Micro Mobility Official",
+      "duration": 52.0,
+      "title": "Maxi Micro Deluxe Pro LED - For the cool kickboarders"
+    },
+    {
+      "id": "gqUHN9FduJQ",
+      "channel": "Micro Kickboard",
+      "duration": 24.0,
+      "title": "How to Detach Handlebar on Micro Mini & Maxi | Micro Scooter Support"
+    },
+    {
+      "id": "mK3HXWJZQp8",
+      "channel": "Micro Kickboard",
+      "duration": 43.0,
+      "title": "BEST New Scooters for Kids | Micro Maxi Deluxe with LED Wheels"
+    }
+  ]
+}

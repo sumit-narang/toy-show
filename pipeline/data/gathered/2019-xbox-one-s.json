@@ -1,0 +1,57 @@
+{
+  "id": "2019-xbox-one-s",
+  "year": 2019,
+  "name": "Xbox One S",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/xbox-one/xbox-one-consoles/xbox-one-s-1tb-forza-horizon-4-and-lego-speed-champions-bundle/p/181254"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/xbox-one/xbox-one-consoles/xbox-one-s-1tb-forza-horizon-4-and-lego-speed-champions-bundle/p/181254",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XuTwtOo88r8",
+      "channel": "XBOX",
+      "duration": 103.0,
+      "title": "Xbox One S"
+    },
+    {
+      "id": "taJYtvuh4n8",
+      "channel": "Bezeur",
+      "duration": 1113.0,
+      "title": "Why The Xbox One S is AMAZING In 2026!"
+    },
+    {
+      "id": "1ExaND8lB9o",
+      "channel": "Odeboo",
+      "duration": 840.0,
+      "title": "Xbox One S in 2025 - Affordable Gaming or Time to Upgrade?"
+    },
+    {
+      "id": "0PAptfgzQ5U",
+      "channel": "DetroitBORG",
+      "duration": 396.0,
+      "title": "Xbox One S: Unboxing & Review (What's New?)"
+    },
+    {
+      "id": "QfxExB-l-2k",
+      "channel": "Adams Reviews",
+      "duration": 271.0,
+      "title": "Microsoft Xbox Series S -VS- Xbox One S - Loading times - FORTNITE - How much Faster is it? SSD HD"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2023-dragon-ball-evolve-beerus-figure",
+  "year": 2023,
+  "name": "Dragon Ball Evolve Beerus Figure",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/dragon-stars-15cm-figure-beerus/p/226270"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/dragon-stars-15cm-figure-beerus/p/226270",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dmRLnIfXF_0",
+      "channel": "Big Deano Reviews",
+      "duration": 591.0,
+      "title": "Dragonball Evolve God of Destruction Beerus Review"
+    },
+    {
+      "id": "dFnHoCwTZzY",
+      "channel": "Louis Bernal",
+      "duration": 317.0,
+      "title": "Lord Beerus Dragon Ball Super Evolve Bandai Namco Action Figure Unboxing and Review"
+    },
+    {
+      "id": "XScJPyzhMhU",
+      "channel": "tee bizz",
+      "duration": 289.0,
+      "title": "Dragon Ball Evolve Beerus !!!"
+    },
+    {
+      "id": "9vtXYQvYJW0",
+      "channel": "Rog",
+      "duration": 372.0,
+      "title": "dragonball evolve beerus figure opening"
+    },
+    {
+      "id": "CfkK6P8EMdI",
+      "channel": "Mwrphoto ",
+      "duration": 417.0,
+      "title": "Unleashing the God of Destruction! Beerus Dragon Ball Evolve Figure Unboxing & Review!"
+    }
+  ]
+}

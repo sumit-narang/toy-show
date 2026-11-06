@@ -1,0 +1,57 @@
+{
+  "id": "2019-ravensburger-3d-puzzle-8-planets",
+  "year": 2019,
+  "name": "Ravensburger 3D Puzzle 8 Planets",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/collections/vendors?q=ravensburger"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/collections/vendors?q=ravensburger",
+      "title": "ravensburger",
+      "description": null,
+      "image": "http://nimblefingers.ie/cdn/shop/files/Jigsaw-Puzzle-Burano-Italy-1000-Pieces-Puzzle-17392_600x.webp?v=1709032656"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FWiJ0vylrEc",
+      "channel": "Ravensburger UK",
+      "duration": 56.0,
+      "title": "Ravensburger 3D Puzzle Planetary Solar System"
+    },
+    {
+      "id": "wjeBD8L-mog",
+      "channel": "ThatOneIntern",
+      "duration": 513.0,
+      "title": "Ravensburger 3d Puzzle Solar System  Review "
+    },
+    {
+      "id": "BHfugvvaxpw",
+      "channel": "Digital Hourglass",
+      "duration": 457.0,
+      "title": "3D Solar System Puzzle"
+    },
+    {
+      "id": "QxJ1UwsxfI4",
+      "channel": "Icebekh",
+      "duration": 339.0,
+      "title": "Solar System | Planets 3D Puzzle"
+    },
+    {
+      "id": "HWQAxznI3cg",
+      "channel": "Jojikiba",
+      "duration": 790.0,
+      "title": "Amazing Saturn Puzzle Review & Demo | 3D Planet Brain Teaser"
+    }
+  ]
+}

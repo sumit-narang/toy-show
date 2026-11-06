@@ -1,0 +1,64 @@
+{
+  "id": "2017-jojo-siwa-singing-doll",
+  "year": 2017,
+  "name": "JoJo Siwa Singing Doll",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LT0ynMsBI7A",
+      "channel": "TTPM Toy Reviews",
+      "duration": 111.0,
+      "title": "JoJo Siwa Singing JoJo Doll from Just Play"
+    },
+    {
+      "id": "-ayPExrnYzc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 71.0,
+      "title": "JoJo Siwa Singing JoJo \"Hold the Drama\" Doll from Just Play"
+    },
+    {
+      "id": "J4h-uK5iKSg",
+      "channel": "Kewpie83",
+      "duration": 209.0,
+      "title": "Jojo Siwa Singing Doll from Just Play"
+    },
+    {
+      "id": "BIrk4yIcQRQ",
+      "channel": "Miranda Graves",
+      "duration": 18.0,
+      "title": "Jojo siwa kid in a candy store doll commercial"
+    },
+    {
+      "id": "TLx5Lqqn2x8",
+      "channel": "Ed Mullin",
+      "duration": 204.0,
+      "title": "JOJO SIWA SINGING DOLL"
+    }
+  ]
+}

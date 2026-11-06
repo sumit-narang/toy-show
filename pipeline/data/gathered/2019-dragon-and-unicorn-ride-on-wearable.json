@@ -1,0 +1,57 @@
+{
+  "id": "2019-dragon-and-unicorn-ride-on-wearable",
+  "year": 2019,
+  "name": "Dragon and Unicorn Ride On Wearable",
+  "price_eur": 34.0,
+  "price_text": "€34",
+  "retailers": [
+    {
+      "name": "Marks and Spencer Ireland",
+      "url": "https://www.marksandspencer.com/ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.marksandspencer.com/ie/",
+      "title": "Welcome to Marks & Spencer IE",
+      "description": "Welcome to the M&S IE website. Shop clothing, home, furniture, beauty, food, wine, flowers & gifts. Buy now for free delivery, store collections and returns.",
+      "image": "https://images.ctfassets.net/prxuf37q3ta2/4q135QYXPP18bPt1tw4OWp/ffd6d8c9985079696b5507f3f87f6c20/DESKTOP_TRIO_851X1130-1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Ycc9YmSAsfE",
+      "channel": "Zygote Brown Designs",
+      "duration": 190.0,
+      "title": "How to make a Cardboard Unicorn Costume"
+    },
+    {
+      "id": "DxbGl90Gxkg",
+      "channel": " Hongyi custom inflatable ",
+      "duration": 34.0,
+      "title": "Inflatable laying dragon with sph from guangzhou hongyi"
+    },
+    {
+      "id": "-d5qnZ4COTM",
+      "channel": "Face Paint Forum",
+      "duration": 409.0,
+      "title": "Wearable Dragon Balloon Tutorial"
+    },
+    {
+      "id": "10gpO3UNFiU",
+      "channel": "MB3 University",
+      "duration": 505.0,
+      "title": "Ride In Unicorn Tutorial"
+    },
+    {
+      "id": "Qp2ywMDXVuw",
+      "channel": "Mustache on the Move",
+      "duration": 54.0,
+      "title": "Ride inside Balloon unicorn"
+    }
+  ]
+}

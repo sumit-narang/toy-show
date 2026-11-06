@@ -1,0 +1,57 @@
+{
+  "id": "2022-miles-morales-action-figure",
+  "year": 2022,
+  "name": "Miles Morales Action figure",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/marvel-spidey-and-his-amazing-friends-supersized-miles-morales-spider-man-action-figure/p/206921"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/marvel-spidey-and-his-amazing-friends-supersized-miles-morales-spider-man-action-figure/p/206921",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "j9uaCENoHPs",
+      "channel": "Justin's Collection",
+      "duration": 1297.0,
+      "title": "Miles Morales Into the Spider-Verse Sentinel SV Action 1/12 Scale Figure Unboxing & Review"
+    },
+    {
+      "id": "4otDxnBuhbA",
+      "channel": "The Geek Effect",
+      "duration": 490.0,
+      "title": "I Recreated Across the Spider-Verse with Action Figures!"
+    },
+    {
+      "id": "TjIAEhZVyIY",
+      "channel": "Carbon Scoring",
+      "duration": 1482.0,
+      "title": "Spider-Man: Miles Morales Mystery Box - comic history and figures!"
+    },
+    {
+      "id": "RWZoXTCdl3M",
+      "channel": "ROCCOTHEGREAT",
+      "duration": 722.0,
+      "title": "Surprising QUALITY! Spider-Man Miles Morales Sentinel Figure BOOTLEG"
+    },
+    {
+      "id": "rPkX5gItLkU",
+      "channel": "The Geek Effect",
+      "duration": 393.0,
+      "title": "I Recreated Into the Spider-Verse with Action Figures"
+    }
+  ]
+}

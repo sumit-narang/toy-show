@@ -1,0 +1,72 @@
+{
+  "id": "2018-baby-alive-potty-dance-baby",
+  "year": 2018,
+  "name": "Baby Alive Potty Dance Baby",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "K23GWXqZUwI",
+      "channel": "Kid Friendly TV",
+      "duration": 448.0,
+      "title": "Baby Alive Potty Dance Baby!  BRAND NEW BABY ALIVE DOLL!  2018 Baby Alive Potty Training Doll"
+    },
+    {
+      "id": "uHkEuDNEWSA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 115.0,
+      "title": "Baby Alive Potty Dance Baby Doll 2018 Review | Hasbro Toys & Games"
+    },
+    {
+      "id": "Ton62l-zxW8",
+      "channel": "Hasbro",
+      "duration": 21.0,
+      "title": "Baby Alive UK - Potty Dance Baby"
+    },
+    {
+      "id": "6ep8lfCm_ko",
+      "channel": "Baby Alive Dolls & Cartoons For Kids Official",
+      "duration": 242.0,
+      "title": "Baby Alive Official 💨 Let's Go Potty Babies 🚽 Potty Training ⭐️ Kids Videos and Baby Cartoons 💕"
+    },
+    {
+      "id": "6exJuEI01O8",
+      "channel": "DarlingBabyDolls",
+      "duration": 271.0,
+      "title": "Potty Dance BABY ALIVE | First Feeding!"
+    }
+  ]
+}

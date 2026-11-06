@@ -1,0 +1,57 @@
+{
+  "id": "2022-snow-puzzle-countryside-snow-animals-nature-jigsaw-puzzles",
+  "year": 2022,
+  "name": "Snow Puzzle Countryside Snow Animals & Nature Jigsaw Puzzles",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Wentworth Puzzles",
+      "url": "http://wentworthpuzzles.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.wentworthpuzzles.com/",
+      "title": "Wentworth Wooden Puzzles | Christmas Jigsaw Puzzles 2026",
+      "description": "10% off all full priced puzzles on orders over £30, with code HPUKXM261. Our new jigsaw puzzle collection features beautiful Christmas scenes and colourful favourites. Discover handcrafted wooden puzzles with charming designs, ideal for family fun and unique gifts.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kho5U5Eg7ek",
+      "channel": "ChupiChapa",
+      "duration": 1243.0,
+      "title": "Wooden Animal Puzzles & Toy Houses: Matching Baby Animals 🧩🦁"
+    },
+    {
+      "id": "t-hVWldDoo4",
+      "channel": "ChupiChapa",
+      "duration": 1896.0,
+      "title": "Let's Build & Color a Jungle Animals Puzzle | kids fun video for Kids & Toddlers"
+    },
+    {
+      "id": "mm8CC9IAbyA",
+      "channel": "Animals Demo",
+      "duration": 724.0,
+      "title": "sea wild farm box animals+ entertainment 13+ tortoise lion cow giraffe cow zebra wolf. Animals Demo"
+    },
+    {
+      "id": "DwUMx92rmOo",
+      "channel": "Puzzle Nova",
+      "duration": 731.0,
+      "title": "Can You Solve This Mount Hood Lavender Farm Jigsaw Puzzle? 🏔️ | USA Nature Puzzle"
+    },
+    {
+      "id": "Y40P300P-8A",
+      "channel": "Preschool Genius - Educational Videos For Kids",
+      "duration": 890.0,
+      "title": "Can You Guess Where These Animals Live? | Match the Animals to Their Homes | Animal Habitats Puzzle"
+    }
+  ]
+}

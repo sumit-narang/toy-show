@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-table-and-chairs",
+  "year": 2018,
+  "name": "Kids Table and Chairs",
+  "price_eur": null,
+  "price_text": "€chair 11.00, table €22.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "http://IKEA.com"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/",
+      "title": "Hej! Welcome to IKEA Global",
+      "description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+      "image": "https://www.ikea.com/global/en/media/IKEA_com_Global_Thumbnail_3765094b99.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WH6x9XMQhD0",
+      "channel": "Jay Bates",
+      "duration": 893.0,
+      "title": "Children’s Table and Two Chairs - 338"
+    },
+    {
+      "id": "QvNSaOOrxO0",
+      "channel": "The Wood Whisperer",
+      "duration": 932.0,
+      "title": "Kids Table & Chair Set From a Single Sheet of Plywood!"
+    },
+    {
+      "id": "2aRcPPC8w9Y",
+      "channel": "JURO Workshop",
+      "duration": 601.0,
+      "title": "DIY Kids Table and Chairs | JURO Workshop"
+    },
+    {
+      "id": "gWX_tOvc5ho",
+      "channel": "Zack Hill",
+      "duration": 601.0,
+      "title": "Toddler Table and Chairs Set for 4, Doreroom Kids Study Table and Chair Set Review, nice trendy stur"
+    },
+    {
+      "id": "eGLk9AZLTV4",
+      "channel": "Woodbrew",
+      "duration": 785.0,
+      "title": "DIY Kid's Table and Chairs"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-little-dutch-baby-doll-rosa",
+  "year": 2023,
+  "name": "Little Dutch Baby Doll Rosa",
+  "price_eur": 39.95,
+  "price_text": "€39.95",
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/collections/all/products/little-dutch-baby-doll-rosa"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/collections/all/products/little-dutch-baby-doll-rosa"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kw6v36jbHCQ",
+      "channel": "Little Dutch",
+      "duration": 26.0,
+      "title": "Little Dutch - baby doll Rosa"
+    },
+    {
+      "id": "DyPHIxnPPzc",
+      "channel": "Little Dutch",
+      "duration": 11.0,
+      "title": "Little Dutch | Baby doll Rosa"
+    },
+    {
+      "id": "PlRq6Ju0-W4",
+      "channel": "Little Dutch",
+      "duration": 27.0,
+      "title": "Little Dutch - Baby doll Evi"
+    },
+    {
+      "id": "Ur25Pcyu-xg",
+      "channel": "Little Dutch",
+      "duration": 25.0,
+      "title": "Little Dutch - Big baby doll Julia"
+    },
+    {
+      "id": "WI627grH-IA",
+      "channel": "Schmatzepuffer",
+      "duration": 12.0,
+      "title": "Little Dutch Baby Doll Rosa - personalisierbar by Schmatzepuffer®"
+    }
+  ]
+}

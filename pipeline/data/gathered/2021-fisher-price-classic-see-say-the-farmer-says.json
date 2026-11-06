@@ -1,0 +1,60 @@
+{
+  "id": "2021-fisher-price-classic-see-say-the-farmer-says",
+  "year": 2021,
+  "name": "Fisher Price Classic See & Say The Farmer Says",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/see-and-say-the-farmer-says-fisher-price-classics"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/see-and-say-the-farmer-says-fisher-price-classics",
+      "title": "See & Say, Farmer Says | Fisher Price Classics| McGreevy's Toys Direct",
+      "description": "Classic toys from Fisher Price that every parent and grandparent will remember, re-released for a new generation to discover and enjoy.",
+      "image": "http://toysdirect.ie/cdn/shop/products/Fisher-Price-Classic-Toys-See-Say-The-Farmer-Says.jpg?crop=center&height=1200&v=1787579843&width=1200",
+      "ld_description": "Classic toys from Fisher Price that every parent and grandparent will remember, re-released for a new generation to discover and enjoy.\nIntroduced in 1965, See 'N Say was the first talking toy that allowed children to pick the exact phrase they want to hear by pointing the arrow to an animal and pulling the string. The Farmer Says features 12 different animals and the sounds they make.\nSuitable for age 18 months+",
+      "brand": "Fisher Price",
+      "ld_image": "https://toysdirect.ie/cdn/shop/products/Fisher-Price-Classic-Toys-See-Say-The-Farmer-Says.jpg?v=1787579843&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DNgDKMjLu2Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "Fisher-Price Classics See 'n Say The Farmer Says from The Bridge Direct"
+    },
+    {
+      "id": "U2pXFDKcIRg",
+      "channel": "Ani5972’s Toy World – Fun & Educational Classics",
+      "duration": 292.0,
+      "title": "Fisher Price See 'n Say The Farmer Says – Interactive Animal Toy for Toddlers"
+    },
+    {
+      "id": "bhxphXlHKAk",
+      "channel": "Easy A2P",
+      "duration": 22.0,
+      "title": "MATTEL SEE 'N SAY THE FARMER SAYS 16 ANIMAL SOUNDS VERY CLEAN AND WORKS GREAT"
+    },
+    {
+      "id": "YxgN7UgiX4w",
+      "channel": "Kids View Toys",
+      "duration": 400.0,
+      "title": "SEE N' SAY THE FARMER SAYS | FISHER PRICE CLASSIC TOYS | LEARN ANIMAL SOUNDS"
+    },
+    {
+      "id": "Bo4uN2VDxw4",
+      "channel": "Wolverines Pictures Entertainment, Inc ",
+      "duration": 15.0,
+      "title": "See N Say The Farmer Says (2003) Fisher Price"
+    }
+  ]
+}

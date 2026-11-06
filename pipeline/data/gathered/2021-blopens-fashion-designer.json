@@ -1,0 +1,60 @@
+{
+  "id": "2021-blopens-fashion-designer",
+  "year": 2021,
+  "name": "Blopens Fashion Designer",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product/blopens-fashion-designer/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://worldofwondertoys.ie/product/blopens-fashion-designer/",
+      "title": "Blopens Fashion Designer",
+      "description": "Blopens Fashion Designer - Kids love BLOPENS as they can easily create fantastic pictures with amazing effects! Shop online or instores",
+      "image": "https://worldofwondertoys.ie/wp-content/uploads/2025/10/Blopens-Fashion-Designer-6.webp",
+      "ld_description": "Includes: 20 colouring templates, 20 reusable stencils, 10 duo mini Blo Pens, 1  magic colour change mini Blo Pens, sticker sheet, sparkly gems.\r\n \tOver 1,000 different fashion design combinations!\r\n \tChoose from different hair styles, tops, bottoms, shoes and purses and use the Blo Pens to create your fashion design.\r\n \tAges 6+ years.",
+      "brand": null,
+      "ld_image": "https://worldofwondertoys.ie/wp-content/uploads/2025/10/Blopens-Fashion-Designer-6.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8MC0ccQJTAA",
+      "channel": "johnadamstoys",
+      "duration": 21.0,
+      "title": "BLOPENS Fashion Designer from John Adams"
+    },
+    {
+      "id": "jZYpg9lBChw",
+      "channel": "La Grande Récré Officiel",
+      "duration": 94.0,
+      "title": "Blopens Fashion : prend les commandes du style !"
+    },
+    {
+      "id": "X4tkLDT226g",
+      "channel": "Lansay",
+      "duration": 88.0,
+      "title": "TUTO Blopens Fashion"
+    },
+    {
+      "id": "xdGoVNbwbTU",
+      "channel": "Lansay",
+      "duration": 15.0,
+      "title": "BLOPENS FASHION - Mon Atelier Mode"
+    },
+    {
+      "id": "UKjGGwpU1zY",
+      "channel": "It's me, your childhood",
+      "duration": 511.0,
+      "title": "Remember BLO pens?! The viral airbrush spray markers from the 90s!"
+    }
+  ]
+}

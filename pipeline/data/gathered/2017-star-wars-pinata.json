@@ -1,0 +1,57 @@
+{
+  "id": "2017-star-wars-pinata",
+  "year": 2017,
+  "name": "Star Wars Pinata",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "pinataspinatas.com",
+      "url": "http://pinataspinatas.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://pinataspinatas.com/",
+      "title": "PAS77 # Provider Game Terlengkap Rating Bintang Lima",
+      "description": "Claim voucer bonus mengguntungkan yang di berikan dari situs slot online PAS77 terbaik, gabung sekarang untuk kemenangan yang maximal.",
+      "image": "https://pub-2050679c7c6545928e9b78f7677baf5e.r2.dev/pas77-terbaik.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0-Bx2k0GrHo",
+      "channel": "CraftISH Corner",
+      "duration": 319.0,
+      "title": "DIY Baby Yoda piñata | Baby Yoda Themed birthday ideas | Star wars theme party ideas"
+    },
+    {
+      "id": "tzHWEA5S_3Y",
+      "channel": "Aubrey Attempts",
+      "duration": 616.0,
+      "title": "DIY DEATH STAR PIÑATA"
+    },
+    {
+      "id": "rsJ3Ig6Lo-E",
+      "channel": "The Top Best",
+      "duration": 543.0,
+      "title": "The Top 5 Best Star Wars Pinata in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "IYcsu4UPA7g",
+      "channel": "Troom Troom",
+      "duration": 299.0,
+      "title": "DIY Star Wars Death Star Pinata"
+    },
+    {
+      "id": "Pk4WzpmADMo",
+      "channel": "Mexicandoo",
+      "duration": 46.0,
+      "title": "Mexicandoo Foldable 5 Point Star Pinata (Piñata)"
+    }
+  ]
+}

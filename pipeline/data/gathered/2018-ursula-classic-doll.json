@@ -1,0 +1,57 @@
+{
+  "id": "2018-ursula-classic-doll",
+  "year": 2018,
+  "name": "Ursula Classic Doll",
+  "price_eur": 16.0,
+  "price_text": "€16.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lVpziA_CqZw",
+      "channel": "HeXtian",
+      "duration": 2626.0,
+      "title": "Custom Ursula Doll Drag Transformation! ✨ 🐙 [ THE LITTLE MERMAID 2023 ]"
+    },
+    {
+      "id": "Jkk5o9xKCgQ",
+      "channel": "The Doll Guide by Margaret Ann",
+      "duration": 215.0,
+      "title": "Disney Store URSULA The Little Mermaid Classic Doll Review | Margaret Ann"
+    },
+    {
+      "id": "5NTLUaZ3XSQ",
+      "channel": "Toys Expression",
+      "duration": 722.0,
+      "title": "Disney Store URSULA Classic Doll - Bambola o Peluche? | Toys Expression"
+    },
+    {
+      "id": "m4Ler-pPsCE",
+      "channel": "bigkidjohn",
+      "duration": 314.0,
+      "title": "Disney Store Classic Doll Collection The Little Mermaid Ursula 2013 review"
+    },
+    {
+      "id": "ruOcaX3WRmM",
+      "channel": "Andrew Wolf Ever After",
+      "duration": 493.0,
+      "title": "Disney Classic Collection Ursula Review"
+    }
+  ]
+}

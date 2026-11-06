@@ -1,0 +1,57 @@
+{
+  "id": "2024-ziggy-the-robot-dog",
+  "year": 2024,
+  "name": "Ziggy the Robot Dog",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/ziggy-the-robo-dog/p/188373"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/ziggy-the-robo-dog/p/188373",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rHTw88UoKfo",
+      "channel": "Toys & Smiles",
+      "duration": 479.0,
+      "title": "Ziggy the Robo dog Demo and Review Meet Ziggy"
+    },
+    {
+      "id": "2Iy64DTVH90",
+      "channel": "Fatimah’s World",
+      "duration": 133.0,
+      "title": "Ziggy Robot Dog Functions "
+    },
+    {
+      "id": "0AxPBI0ZuG8",
+      "channel": "ElectroMuki",
+      "duration": 575.0,
+      "title": "Robot Dog Unboxing And First Test #robotdog #robot #unbox"
+    },
+    {
+      "id": "8-inLMjInn0",
+      "channel": "Pleasant Green",
+      "duration": 611.0,
+      "title": "Don't Buy AI Puppies"
+    },
+    {
+      "id": "Ua9N5awCZvc",
+      "channel": "Smyths Toys France",
+      "duration": 29.0,
+      "title": "Ziggy le chien robot interactif t'attend chez Smyths Toys"
+    }
+  ]
+}

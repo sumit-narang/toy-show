@@ -1,0 +1,57 @@
+{
+  "id": "2018-organic-squeaker-bunny-red-and-yellow-small",
+  "year": 2018,
+  "name": "Organic Squeaker Bunny (Red and Yellow, Small)",
+  "price_eur": 13.95,
+  "price_text": "€13.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HBxn56l9WcU",
+      "channel": "BBC",
+      "duration": 46.0,
+      "title": "A tiny angry squeaking Frog 🐸 | Super Cute Animals - BBC"
+    },
+    {
+      "id": "BcxMAA32nbM",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 217.0,
+      "title": "Toodly Doodly Doo | Kids Songs | Super Simple Songs"
+    },
+    {
+      "id": "CUhUSRW8D9s",
+      "channel": "RubyandBonnie",
+      "duration": 329.0,
+      "title": "Ruby and Bonnie Rare Glitter Dumpling Squishy at School"
+    },
+    {
+      "id": "qZH6iuah5hU",
+      "channel": "Boohbah - WildBrain",
+      "duration": 1187.0,
+      "title": "Boohbah: Squeaky Socks (Episode 8)"
+    },
+    {
+      "id": "qLfqQsVikJA",
+      "channel": "Ruby Bonnie Granny",
+      "duration": 1098.0,
+      "title": "SWEET vs SALTY vs BITTER Food Challenge! Ruby and Bonnie"
+    }
+  ]
+}

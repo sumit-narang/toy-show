@@ -1,0 +1,60 @@
+{
+  "id": "2019-armstrong-the-adventurous-journey-of-a-mouse-to-the-moon",
+  "year": 2019,
+  "name": "Armstrong, The Adventurous Journey of a Mouse to the Moon",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/products/toben-kuhlmann-armstrong-the-adventurous-journey-of-a-mouse-to-the-moon"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://talesfortadpoles.ie/products/toben-kuhlmann-armstrong",
+      "title": "Torben Kuhlmann: Armstrong, The Adventurous Journey of a Mouse to the Moon - Tales for Tadpoles",
+      "description": "Buy Torben Kuhlmann: Armstrong, The Adventurous Journey of a Mouse to the Moon for only €17.00 at Tales for Tadpoles! Torben Kuhlmann's amazing book Armstrong,The Adventurous Journey of a Mouse to the Moon transports the readers to the moon and beyond. Armstrong is a sweeping and ambitious picture book that is poised to become one of the classroom favorites.",
+      "image": "http://talesfortadpoles.ie/cdn/shop/files/torben-kuhlmann-armstrong-the-adventurous-journey-of-a-mouse-to-the-moon-books-716761.jpg?v=1728392892&width=1024",
+      "ld_description": "Torben Kuhlmann's amazing book Armstrong,The Adventurous Journey of a Mouse to the Moon transports the readers to the moon and beyond. Armstrong is a sweeping and ambitious picture book that is poised to become one of the classroom favorites. Young and old readers alike will easily identify with Armstrong’s successes, failures, and quick resolve. They will marvel at his ingenuity, and they will learn from the way he breaks down the gigantic task of getting to the moon into minute steps that just may convince them that anything is possible if they put their mind to it. If you would like to read more about this author please see our blog or if you'd like some more space book ideas see here. Format: Hardback",
+      "brand": "Tales for Tadpoles",
+      "ld_image": "https://talesfortadpoles.ie/cdn/shop/files/torben-kuhlmann-armstrong-the-adventurous-journey-of-a-mouse-to-the-moon-books-716761.jpg?v=1728392892"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UYNGuKJIROY",
+      "channel": "Living Books For World Changers",
+      "duration": 1503.0,
+      "title": "Science Living Book - Armstrong Journey of a mouse to the moon"
+    },
+    {
+      "id": "TEVO8beHVLk",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 76.0,
+      "title": "Armstrong: The Adventurous Journey of a Mouse to the Moon by Torben Kuhlmann"
+    },
+    {
+      "id": "WK2zC_DfhSg",
+      "channel": "Bookishlicious Chamber",
+      "duration": 142.0,
+      "title": "BOOK FLIP | ARMSTRONG : THE ADVENTUROUS JOURNEY OF A MOUSE TO THE MOON | BY TORBEN KUHLMANN"
+    },
+    {
+      "id": "jW024o4NFTg",
+      "channel": "Longway Planetarium",
+      "duration": 31.0,
+      "title": "Armstrong | The Adventurous Journey of a Mouse to the Moon!"
+    },
+    {
+      "id": "uLA0g-N_HN4",
+      "channel": "NordSüd Verlag",
+      "duration": 228.0,
+      "title": "Torben Kuhlmann: EINSTEIN - The Fantastical Journey of a Mouse Through Time and Space"
+    }
+  ]
+}

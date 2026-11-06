@@ -1,0 +1,57 @@
+{
+  "id": "2018-jerseys",
+  "year": 2018,
+  "name": "Jerseys",
+  "price_eur": null,
+  "price_text": "various prices",
+  "retailers": [
+    {
+      "name": "O'Neills",
+      "url": "http://Oneills.com"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.oneills.com/",
+      "title": "Sports apparel, international sportswear and teamwear | O’Neills",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "R50ghOfQPXY",
+      "channel": "Joon Lee",
+      "duration": 801.0,
+      "title": "How Knockoff Jerseys Became Better Than Real Ones"
+    },
+    {
+      "id": "jxelL_ZWzFI",
+      "channel": "Prime Time Sports",
+      "duration": 1643.0,
+      "title": "Your $450 Jersey Isn’t the Last One. That’s the Plan"
+    },
+    {
+      "id": "EwDNpOPy-dY",
+      "channel": "Edvingk1",
+      "duration": 445.0,
+      "title": "I ORDERED FOOTBALL JERSEYS FROM CHINA ⚽️ 🇨🇳"
+    },
+    {
+      "id": "MRIBj_KMKm4",
+      "channel": "Pozer PM ",
+      "duration": 138.0,
+      "title": "Pozer - Jersey King (Official Video)"
+    },
+    {
+      "id": "-04S2J4Q31Q",
+      "channel": "R2S ~ Football",
+      "duration": 609.0,
+      "title": "We Went Football Shirt Hunting in New Jersey"
+    }
+  ]
+}

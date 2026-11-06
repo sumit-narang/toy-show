@@ -1,0 +1,57 @@
+{
+  "id": "2018-sliotars",
+  "year": 2018,
+  "name": "Sliotars",
+  "price_eur": 4.69,
+  "price_text": "from €4.69",
+  "retailers": [
+    {
+      "name": "The GAA Store",
+      "url": "http://www.thegaastore.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.mckeeversports.com/",
+      "title": "McKvr | Built for performance",
+      "description": "Offering an unrivaled range of sports clothing, footwear, accessories and equipment",
+      "image": "http://www.mckeeversports.com/cdn/shop/files/McKeever_Sports_Hero_Black_Green_1200x1200.png?v=1634127520"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RROgxGb_bZI",
+      "channel": "Tallowman GAA",
+      "duration": 1298.0,
+      "title": "1982 Making of Hurleys and Sliothars"
+    },
+    {
+      "id": "8Y9-ENsW9Ic",
+      "channel": "Colm Farrell",
+      "duration": 330.0,
+      "title": "Sliotar and Chips"
+    },
+    {
+      "id": "_Af1r0JLWDA",
+      "channel": "Paula Cuddihy",
+      "duration": 15.0,
+      "title": "No sliotars were harmed in the making of this video"
+    },
+    {
+      "id": "sRouWQyNXh4",
+      "channel": "JAMES STEPHENS GAA",
+      "duration": 21.0,
+      "title": "Eoin Larkin breaking onto a second sliotar....How many Sliotars are in play???"
+    },
+    {
+      "id": "PBGjnKXv-bs",
+      "channel": "CLG Na Fianna",
+      "duration": 72.0,
+      "title": "Hurling - Overhead catch - Technique"
+    }
+  ]
+}

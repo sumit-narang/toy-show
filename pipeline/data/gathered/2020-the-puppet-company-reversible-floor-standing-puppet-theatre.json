@@ -1,0 +1,54 @@
+{
+  "id": "2020-the-puppet-company-reversible-floor-standing-puppet-theatre",
+  "year": 2020,
+  "name": "The Puppet Company Reversible Floor Standing Puppet Theatre",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Puppet-Company-Reversible-Standing-Theatre/dp/B075SDRNP2"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Puppet-Company-Reversible-Standing-Theatre/dp/B075SDRNP2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KXK1at-udX8",
+      "channel": "Remember This with Denise Boland Show",
+      "duration": 166.0,
+      "title": "This is one of the funniest comedy sketches ever!!"
+    },
+    {
+      "id": "t7nsAMwl1T4",
+      "channel": "Billy Connolly",
+      "duration": 347.0,
+      "title": "Billy Connolly - Dwarf on a bus - Live in London 2010"
+    },
+    {
+      "id": "zCRUPWDIgYM",
+      "channel": "The Muppets",
+      "duration": 104.0,
+      "title": "Stand By Me | Muppet Music Video | The Muppets"
+    },
+    {
+      "id": "XT0mrP5tpdI",
+      "channel": "FlowerloiCrafts",
+      "duration": 37.0,
+      "title": "Pencil Roll"
+    },
+    {
+      "id": "lbrrQuzX0cI",
+      "channel": "Matt30",
+      "duration": 59.0,
+      "title": "Gravity Falls all reversed messages"
+    }
+  ]
+}

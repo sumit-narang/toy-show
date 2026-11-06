@@ -1,0 +1,60 @@
+{
+  "id": "2025-jamara-bouncing-cow",
+  "year": 2025,
+  "name": "Jamara Bouncing Cow",
+  "price_eur": 23.0,
+  "price_text": "€23",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bouncing-cow"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/bouncing-cow",
+      "title": "Bouncing Animal Cow White & Black with Pump",
+      "description": "Jamara Bouncing Animal Cow. Promotes balance and motor skills, easy to clean, and includes an air pump. Clarkes of Cavan",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/460318-jamara-bouncing-animal-cow-whiteblack-with-pump-1.webp?crop=center&height=1200&v=1778151156&width=1200",
+      "ld_description": "Introduce your child to the delightful world of bouncing fun with the Jamara Bouncing Animal Cow. This charming white and black cow is designed to provide hours of entertainment while promoting essential physical development skills in children as young as 12 months.\n\nKey Features:\n\n\n\tPromotes Balance and Motor Skills: The bouncing motion helps improve your child's balance and motor skills, making it a fun way to encourage physical development.\n\tSecure and Comfortable: The animal's ears serve as handles, providing a secure and comfortable grip for your child during play.\n\tEasy to Inflate: The included air pump makes inflation simple and quick, ensuring the bouncy cow is ready for use in no time.\n\tDurable and Easy to Clean: Made from robust and hard-wearing materials, this bouncy animal is built to last and is easy to clean, ensuring long-term use.\n\tBPA Free: Safe for your child, the material used is free from harmful BPA, providing peace of mind for parents.\n\n\nDimensions and Weight:\n\n\n\tSeat Height: 24.5 - 27 cm\n\tMaximum Weight: 50 kg\n\tShipping Weight: 1.73 kg\n\tItem Weight: 1.45 kg\n\tDimensions (L x W x H): 58.00 × 31.00 × 55.00 cm\n\n\nPerfect For:\n\n\n\tDeveloping balance and motor skills in children\n\tProviding a fun and safe bouncing experience\n\tBoth indoor and outdoor play\n\tChildren aged 12 months and above",
+      "brand": "Jamara",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/460318-jamara-bouncing-animal-cow-whiteblack-with-pump-1.webp?v=1778151156&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1PW_F4_3sfo",
+      "channel": "Shopper& Reviewer",
+      "duration": 161.0,
+      "title": "Jamara Dragon Bouncing Animal Toy"
+    },
+    {
+      "id": "koRSizLfyZk",
+      "channel": "SogniD’oro",
+      "duration": 36.0,
+      "title": "Recensione del Jamara 460316 - Animale salterino Unicorno colorato con pompa – Sviluppa l'equilibrio"
+    },
+    {
+      "id": "CbIduMr0KWQ",
+      "channel": "4mybaby AG",
+      "duration": 84.0,
+      "title": "HappyHopperz Hüpftiere"
+    },
+    {
+      "id": "yjz5fTm3YQw",
+      "channel": "WunderWelt",
+      "duration": 136.0,
+      "title": "Produktbewertung JAMARA 460316 Hüpftier Einhorn HoppyDoo - Spielzeug für Kinder, Hüpfspielzeug Baby"
+    },
+    {
+      "id": "ILwCoHpdbyo",
+      "channel": "Hearthsong",
+      "duration": 44.0,
+      "title": "Keep Energetic Toddlers Happily Hopping on HearthSong’s Bouncy Inflatable Animal Jump-Along"
+    }
+  ]
+}

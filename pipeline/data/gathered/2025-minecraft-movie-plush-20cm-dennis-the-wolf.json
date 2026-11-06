@@ -1,0 +1,57 @@
+{
+  "id": "2025-minecraft-movie-plush-20cm-dennis-the-wolf",
+  "year": 2025,
+  "name": "Minecraft Movie Plush 20cm Dennis the Wolf",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-toys/minecraft-movie-plush-dennis-the-wolf-20cm/p/243674"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-toys/minecraft-movie-plush-dennis-the-wolf-20cm/p/243674",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "13UkV2PUDlE",
+      "channel": "CoolToys",
+      "duration": 1590.0,
+      "title": "ASMR Minecraft Movie Oddly Satisfying Toy Unboxing Collection | Steve & Dennis The Wolf | CoolToys"
+    },
+    {
+      "id": "SN45jaZWMnU",
+      "channel": "JJ Toys Review",
+      "duration": 1089.0,
+      "title": "Unboxing ALL the MINECRAFT MOVIE TOYS!  Steve, Dennis The Wolf, Creeper, Blast Attack Ghast"
+    },
+    {
+      "id": "kisPagVieoo",
+      "channel": "TYE Arcade",
+      "duration": 980.0,
+      "title": "I Bought EVERY Minecraft Movie Plush"
+    },
+    {
+      "id": "dMx67SwYl7M",
+      "channel": "Minecraft Assembly",
+      "duration": 1420.0,
+      "title": "A Minecraft movie toy collection ASMR unboxing | Fireball Ghast | Alex Plush | Creeper |Ender Dragon"
+    },
+    {
+      "id": "M4vNf4Uv1P0",
+      "channel": "AdventureFun!",
+      "duration": 2996.0,
+      "title": "A Minecraft Movie Official Movie Trailer Ultimate Toy Action Figures Collection!"
+    }
+  ]
+}

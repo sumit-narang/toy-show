@@ -1,0 +1,54 @@
+{
+  "id": "2018-my-first-gadget-set",
+  "year": 2018,
+  "name": "My First Gadget Set",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre / Mothercare",
+      "url": "https://www.mothercare.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eynhqsLcL4Q",
+      "channel": "kels prelovedtoys",
+      "duration": 100.0,
+      "title": "Elc My First Gadget Set smartphone and Remote Control"
+    },
+    {
+      "id": "GQZjyHvuzy8",
+      "channel": "kels prelovedtoys",
+      "duration": 101.0,
+      "title": "Elc My First Gadget Set: Remote Control and Keys"
+    },
+    {
+      "id": "kARre09IBOo",
+      "channel": "Amazon UK | Best Sellers",
+      "duration": 108.0,
+      "title": "Top 10 Early Learning Centre [2018]: Early Learning Centre My First Gadget Set, TV Remote, Phone,"
+    },
+    {
+      "id": "aT7QaaohleI",
+      "channel": "Tech Unboxed",
+      "duration": 257.0,
+      "title": "1st Gadget Unboxing from Gadget Discovery Club"
+    },
+    {
+      "id": "LSy9o4MY7GU",
+      "channel": "Daniel Ferri",
+      "duration": 1131.0,
+      "title": "I Tested WEIRD BANNED Cat Gadgets on My Kittens (AGAIN)"
+    }
+  ]
+}

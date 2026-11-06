@@ -1,0 +1,54 @@
+{
+  "id": "2022-woom-now-4",
+  "year": 2022,
+  "name": "Woom Now 4",
+  "price_eur": 799.0,
+  "price_text": "€799",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://www.donnybrookbikes.ie/shop/woom-now-4/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://donnybrookbikes.ie/shop/woom-now-4/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vucnaIVdnrc",
+      "channel": "woom bikes USA",
+      "duration": 260.0,
+      "title": "Everything You Need to Know About the woom NOW"
+    },
+    {
+      "id": "oa7Tw-hIMxI",
+      "channel": "Arleigh | Bike Shop Girl",
+      "duration": 301.0,
+      "title": "Woom NOW Kid's Cargo Bike In-Depth Review: So close to perfect"
+    },
+    {
+      "id": "zOFBDcRfcho",
+      "channel": "Rascal Rides",
+      "duration": 318.0,
+      "title": "Woom NOW Review: A Cargo Bike For Kids!"
+    },
+    {
+      "id": "COrCnlD2ta0",
+      "channel": "VeloTOTAL-TV",
+      "duration": 147.0,
+      "title": "CHECKED OUT: The NOW kids' and teens' bike from woom"
+    },
+    {
+      "id": "DfKO_lhq854",
+      "channel": "woom",
+      "duration": 463.0,
+      "title": "How to assemble 🧰 the woom NOW 4, 5 and 6 | woom bikes"
+    }
+  ]
+}

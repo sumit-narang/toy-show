@@ -1,0 +1,57 @@
+{
+  "id": "2020-assortment-of-vinyls-u2-elton-john-and-queen",
+  "year": 2020,
+  "name": "Assortment of Vinyls - U2, Elton John and Queen",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Tower Records",
+      "url": "https://www.towerrecords.ie/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://towerrecords.ie/",
+      "title": "Tower Records Dublin Ireland",
+      "description": "Tower Records Dublin Ireland",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pRZH7WmdSJk",
+      "channel": "John Heaton",
+      "duration": 715.0,
+      "title": "Beatles Fleetwood Mac Elton John etc finds from Budapest record fair!"
+    },
+    {
+      "id": "votwXyn1T1I",
+      "channel": "mrhoffame",
+      "duration": 1532.0,
+      "title": "Vinyl Collection 253: Box Sets & Other Recent Finds"
+    },
+    {
+      "id": "zuUQLGu6dkg",
+      "channel": "Noble Records",
+      "duration": 1773.0,
+      "title": "Vinyl Records You Might Own That Are Worth a FORTUNE! $$$"
+    },
+    {
+      "id": "SiB4x7b-QO4",
+      "channel": "Andrew Dixon",
+      "duration": 707.0,
+      "title": "New Vinyl & CD Buys - McCartney, Lennon, Queen & more! March 2019"
+    },
+    {
+      "id": "Lm3_67ajyz0",
+      "channel": "mrhoffame",
+      "duration": 472.0,
+      "title": "Box Set #16  Elton John (1970-1973)"
+    }
+  ]
+}

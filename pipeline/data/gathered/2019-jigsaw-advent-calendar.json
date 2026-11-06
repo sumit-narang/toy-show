@@ -1,0 +1,54 @@
+{
+  "id": "2019-jigsaw-advent-calendar",
+  "year": 2019,
+  "name": "Jigsaw Advent Calendar",
+  "price_eur": null,
+  "price_text": "£20.00",
+  "retailers": [
+    {
+      "name": "Gibsons Games",
+      "url": "https://gibsonsgames.co.uk/collections/all/products/christmas-is-coming-advent-calendar"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://gibsonsgames.co.uk/en-eu/collections/all/products/christmas-is-coming-advent-calendar"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6RpVaia34_4",
+      "channel": "Echo Impacts",
+      "duration": 112.0,
+      "title": "Review: 1008-Piece Christmas Advent Jigsaw Calendar – Perfect Holiday Puzzle #amazonfinds"
+    },
+    {
+      "id": "sg05Jq77C-U",
+      "channel": "The Casual Puzzler",
+      "duration": 547.0,
+      "title": "3D Jigsaw Advent Calendar | Wrebbit 3D | GIVEAWAY ALERT"
+    },
+    {
+      "id": "m3_q5IZekA8",
+      "channel": "The Casual Puzzler",
+      "duration": 727.0,
+      "title": "Trying the Cheapest Puzzle Advent Calendar // Good or Crap?"
+    },
+    {
+      "id": "cFiw-oTk4PY",
+      "channel": "Two Puzzle Unicorns",
+      "duration": 3554.0,
+      "title": "See the jigsaw advent calendars we found!"
+    },
+    {
+      "id": "ytNKONSxjqQ",
+      "channel": "Quick_Reviews_",
+      "duration": 167.0,
+      "title": "ZIZZ Advent Calendar Jigsaw Puzzle 2026-24 Days Countdown for Kids Adults | 1008 Pieces Christmas Pu"
+    }
+  ]
+}

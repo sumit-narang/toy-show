@@ -1,0 +1,54 @@
+{
+  "id": "2022-trampoline-tennis-mini-trampoline-tennis-set",
+  "year": 2022,
+  "name": "Trampoline Tennis Mini Trampoline Tennis Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Fagans Toys",
+      "url": "http://fagantoys.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.fagantoys.ie"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Avs1O6yexcM",
+      "channel": "Thin Air Brands",
+      "duration": 44.0,
+      "title": "Trampoline Pong - by Thin Air Brands - Style #TAB657"
+    },
+    {
+      "id": "zGDfRRr_yDg",
+      "channel": "OUTRACE",
+      "duration": 191.0,
+      "title": "Ball Trampoline Exercises - OUTRACE Fitness"
+    },
+    {
+      "id": "sb0TpOW-fUo",
+      "channel": "Ignite Speed & Agility",
+      "duration": 24.0,
+      "title": "Trampoline sprints/ tennis conditioning drills"
+    },
+    {
+      "id": "bhPd67OjW7A",
+      "channel": "mikasad",
+      "duration": 120.0,
+      "title": "HAMMER 3 in 1 Set (Volleyball, Tennis, Badminton)"
+    },
+    {
+      "id": "WqLtfFltdKI",
+      "channel": "Well+Good",
+      "duration": 181.0,
+      "title": "How To Bounce On A Rebounder | The Right Way | Well+Good"
+    }
+  ]
+}

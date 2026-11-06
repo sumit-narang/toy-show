@@ -1,0 +1,54 @@
+{
+  "id": "2025-handmade-stuffed-cow",
+  "year": 2025,
+  "name": "Handmade Stuffed Cow",
+  "price_eur": 60.0,
+  "price_text": "€60.00",
+  "retailers": [
+    {
+      "name": "The Wonky Woolins",
+      "url": "https://www.thewonkywoolins.com/products/friesian-cow-pink-blue"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.thewonkywoolins.com/products/friesian-cow-pink-blue"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q7ECrV5Xl0A",
+      "channel": "B Crafts Master",
+      "duration": 279.0,
+      "title": "Sculpting clay: Making Cow Family with clay / Clay Animals Art"
+    },
+    {
+      "id": "rZ8vzyaVDiA",
+      "channel": "Avocado Handmade",
+      "duration": 3460.0,
+      "title": "Crochet a cow 🐮🐄 #crochet #handmade #amigurumi"
+    },
+    {
+      "id": "qcj08w26sGc",
+      "channel": "B Crafts Master",
+      "duration": 181.0,
+      "title": "Clay sculpting : How to make Cow out of clay , clay art animals,clay modelling ,clay Craft"
+    },
+    {
+      "id": "wYC6_bxFxtM",
+      "channel": "ANJU ARTS",
+      "duration": 1661.0,
+      "title": "Homemade mini Cow Soft Toy | How to make soft toy at home from waste material | soft toy  2021"
+    },
+    {
+      "id": "5IOrl4PFzaI",
+      "channel": "Creative Pushpa",
+      "duration": 270.0,
+      "title": "Home made cow, soft toys, beautiful soft toys made from cloth, by creative Pushpa"
+    }
+  ]
+}

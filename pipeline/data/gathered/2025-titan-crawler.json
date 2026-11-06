@@ -1,0 +1,57 @@
+{
+  "id": "2025-titan-crawler",
+  "year": 2025,
+  "name": "Titan Crawler",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/remote-control-titan-crawler-truck-1-8-scale/p/246645"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/remote-control-titan-crawler-truck-1-8-scale/p/246645",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MZqPlUqN9GM",
+      "channel": "Smyths Toys Superstores DE",
+      "duration": 22.0,
+      "title": "Ferngesteuertes Auto Offroad Buggy Titan Crawler 1:8 - Smyths Toys Superstores"
+    },
+    {
+      "id": "FC4VPikoZmk",
+      "channel": "Play&Unbox",
+      "duration": 1272.0,
+      "title": "HUGE 1:8 RC TITAN CRAWLER 4x4! 🚙🔥Unboxing & Off-Road Test #rccar #rc4x4"
+    },
+    {
+      "id": "urEs8Vi6_Rc",
+      "channel": "Electric Taylor ",
+      "duration": 171.0,
+      "title": "Reviewing the titan crawler 1:8 "
+    },
+    {
+      "id": "K-wDIUjE9c4",
+      "channel": "Cape Crawlers",
+      "duration": 1623.0,
+      "title": "Furitek Titan Buggy 18 ARTR Review | Features, Performance & Value"
+    },
+    {
+      "id": "oOBuwawSPsw",
+      "channel": "Smyths Toys Superstores BE",
+      "duration": 28.0,
+      "title": "Bestuurbare Auto Offroad Buggy Titan Crawler - Smyths Toys Superstores BE"
+    }
+  ]
+}

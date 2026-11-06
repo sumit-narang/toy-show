@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-boost-creative-toolbox",
+  "year": 2017,
+  "name": "LEGO Boost Creative Toolbox",
+  "price_eur": 151.99,
+  "price_text": "€151.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UTMxXljVY-g",
+      "channel": "Bricks World LEGO Certified Stores",
+      "duration": 97.0,
+      "title": "LEGO Boost Creative Toolbox 17101 Designer Video"
+    },
+    {
+      "id": "1KBM8OqG1Jc",
+      "channel": "Honestips",
+      "duration": 103.0,
+      "title": "Pros and Cons Review of LEGO BOOST Creative Toolbox 17101"
+    },
+    {
+      "id": "rOTqGZ6eEyo",
+      "channel": "ArtiFex Creation",
+      "duration": 414.0,
+      "title": "Lego BOOST Creative Toolbox 17101: VERNIE the Robot Speed Build & Review"
+    },
+    {
+      "id": "fHslNntjV6I",
+      "channel": "Prof. Bricks",
+      "duration": 552.0,
+      "title": "30 LEGO BOOST Original Models You MUST See"
+    },
+    {
+      "id": "tXXDx9qV-MM",
+      "channel": "BrickVault",
+      "duration": 962.0,
+      "title": "LEGO BOOST Creative Tool Box ALL 5 BUILDS!!! Set 17101 | Unbox Build Time Lapse Review"
+    }
+  ]
+}

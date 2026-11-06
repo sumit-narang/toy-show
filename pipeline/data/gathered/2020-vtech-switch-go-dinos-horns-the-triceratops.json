@@ -1,0 +1,53 @@
+{
+  "id": "2020-vtech-switch-go-dinos-horns-the-triceratops",
+  "year": 2020,
+  "name": "VTech Switch & Go Dinos Horns the Triceratops",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FAO59tsuUE0",
+      "channel": "Switch & Go Dinos Official",
+      "duration": 35.0,
+      "title": "New Switch & Go Dinos Horns The Triceratops Commercial"
+    },
+    {
+      "id": "NSVs6aohQYA",
+      "channel": "Action Figures & Statues",
+      "duration": 63.0,
+      "title": "VTech Switch  Go Dinos - Horns the Triceratops Dinosaur"
+    },
+    {
+      "id": "SpEOF3PD5qc",
+      "channel": "iQ",
+      "duration": 246.0,
+      "title": "VTech Switch & Go Dinos  Horns the Triceratops Dinosaur"
+    },
+    {
+      "id": "Tut8liP5oD0",
+      "channel": "mantis999999999",
+      "duration": 302.0,
+      "title": "Switch-and-Go Dinos Horns"
+    },
+    {
+      "id": "-TLlxsqY00s",
+      "channel": "Azon Video Vault",
+      "duration": 60.0,
+      "title": "82  VTech Switch  Go Dinos   Horns the Triceratops Dinosaur"
+    }
+  ]
+}

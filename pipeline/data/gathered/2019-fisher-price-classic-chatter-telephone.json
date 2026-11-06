@@ -1,0 +1,60 @@
+{
+  "id": "2019-fisher-price-classic-chatter-telephone",
+  "year": 2019,
+  "name": "Fisher Price Classic Chatter Telephone",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/mattel/fisher-price/classic-chatter-telephone/144048177.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/electronics/mattel/classic-chatter-telephone/144048177.html",
+      "title": "MATTEL Classic Chatter Telephone - Multi",
+      "description": "With its friendly face, spinning dial, fun ringing-phone sounds, and eyes that move up and down as you pull it along, the Fisher-Price Chatter Telephone helps get your baby chatting—and strolling—like a pro! This classic toy will surely spark the imagination of little ones and bring back fond childhood memories for mums and dads.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000029592_01.jpg?$product_tile_plp$",
+      "ld_description": "With its friendly face, spinning dial, fun ringing-phone sounds, and eyes that move up and down as you pull it along, the Fisher-Price Chatter Telephone helps get your baby chatting—and strolling—like a pro! This classic toy will surely spark the imagination of little ones and bring back fond childhood memories for mums and dads.",
+      "brand": "MATTEL",
+      "ld_image": "https://images.brownthomas.com/bta/2000029592_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cRrp8yr-0EY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 94.0,
+      "title": "Fisher-Price Classics Chatter Telephone from The Bridge Direct"
+    },
+    {
+      "id": "VGKlUZMaI0w",
+      "channel": "GoliathAngelus",
+      "duration": 413.0,
+      "title": "Original Classic chatter telephone from Fisher Price Toys"
+    },
+    {
+      "id": "0a4-scP_Rs8",
+      "channel": "CNET",
+      "duration": 550.0,
+      "title": "Fisher-Price made a baby phone for adults because sure why not (Unboxing and review)"
+    },
+    {
+      "id": "roDqM1-HBhg",
+      "channel": "Darky Mismoosh LTD",
+      "duration": 55.0,
+      "title": "FISHER PRICE CLASSIC CHATTER PHONE 1961 NEW"
+    },
+    {
+      "id": "pHr8U7pl8Yw",
+      "channel": "Lucky Penny Shop",
+      "duration": 96.0,
+      "title": "Vintage 1960's Fisher-Price Rolling Chatter Telephone Toy #747"
+    }
+  ]
+}

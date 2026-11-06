@@ -1,0 +1,54 @@
+{
+  "id": "2020-colour-in-vet-clinic",
+  "year": 2020,
+  "name": "Colour-In Vet Clinic",
+  "price_eur": 48.0,
+  "price_text": "€48.00",
+  "retailers": [
+    {
+      "name": "Cardboard Magic",
+      "url": "https://cardboardmagic.ie/products/colour-in-vet-clinic-1?_pos=1&_sid=a5d851f1f&_ss=r"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OEoDQat707g",
+      "channel": "Cardboard Magic",
+      "duration": 20.0,
+      "title": "Colour-in Vet Clinic"
+    },
+    {
+      "id": "dVJJIJ6yjhE",
+      "channel": "KIDS Z FUN",
+      "duration": 560.0,
+      "title": "Critter Clinic Vet Animal Hospital Cage Keys/Learn Colors/injured Wild Zoo Animals/Animal Planet"
+    },
+    {
+      "id": "4Q5q3_IW4JY",
+      "channel": "British Pathé",
+      "duration": 167.0,
+      "title": "Animal Hospital Beware - Other Colour Pics Share This Title (1962)"
+    },
+    {
+      "id": "19C6eOZVQY0",
+      "channel": "horseandridermag",
+      "duration": 35.0,
+      "title": "How to Check a Horse's Gum Colour with Liphook Equine Hospital | HorseandRider UK"
+    },
+    {
+      "id": "XBJ6S57skZo",
+      "channel": "British Pathé",
+      "duration": 108.0,
+      "title": "Animal Hospital Beware - Other Colour Pics Share This Title (1968)"
+    }
+  ]
+}

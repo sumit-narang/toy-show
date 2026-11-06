@@ -1,0 +1,29 @@
+{
+  "id": "2023-triceratops-dino-wicker-wall-head",
+  "year": 2023,
+  "name": "Triceratops Dino Wicker Wall Head",
+  "price_eur": 75.0,
+  "price_text": "€75",
+  "retailers": [
+    {
+      "name": "Little Angel Rose",
+      "url": "https://www.littleangelrose.com/products/dean-dino-wall-head"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/products/dean-dino-wall-head",
+      "title": "Triceratops Dino Wicker Wall Head",
+      "description": "Do you have a dinosaur fan at home? Any budding paleontologists? Make a statement in your nursery, children's room or playroom with our Triceratops wall head, adding that touch of fun and character, you can also complete it with our jungle theme wicker head wall decorations.  Easy wall hanging, Lightweight. Dimensions:",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/IMG-2604.jpg?v=1695292658",
+      "ld_description": "Do you have a dinosaur fan at home? Any budding paleontologists?\nMake a statement in your nursery, children's room or playroom with our Triceratops wall head, adding that touch of fun and character, you can also complete it with our jungle theme wicker head wall decorations. \nEasy wall hanging, Lightweight.\nDimensions: 41 cm H x 49 cm W x 30 cm D\nAs seen on the Late Late Toy Show 2024!\nSmall variations of shape and colour may also vary from the images shown as our products are made from natural materials. Each piece beautifully handcrafted and unique.",
+      "brand": "Little AngelRose",
+      "ld_image": "https://www.littleangelrose.com/cdn/shop/files/IMG-2604_3024x.jpg?v=1695292658"
+    }
+  ],
+  "video_candidates": []
+}

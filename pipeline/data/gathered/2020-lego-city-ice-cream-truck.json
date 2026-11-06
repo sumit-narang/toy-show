@@ -1,0 +1,54 @@
+{
+  "id": "2020-lego-city-ice-cream-truck",
+  "year": 2020,
+  "name": "LEGO City Ice-Cream Truck",
+  "price_eur": 20.99,
+  "price_text": "€20.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/lego-city-60253-great-vehicles-ice-cream-truck/1600423951.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/lego-city-60253-great-vehicles-ice-cream-truck/1600423951.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "whRhYvwKbgk",
+      "channel": "AustrianBrickFan",
+      "duration": 302.0,
+      "title": "LEGO City 60253 Ice Cream Truck - Lego Speed Build Review"
+    },
+    {
+      "id": "VYY00F0GNdI",
+      "channel": "AustrianBrickFan",
+      "duration": 559.0,
+      "title": "LEGO City 60314 Ice Cream Truck Police Chase - LEGO Speed Build Review"
+    },
+    {
+      "id": "F5RUhpPX7Q0",
+      "channel": "MADABOUTLEGO",
+      "duration": 298.0,
+      "title": "LEGO City Ice Cream Truck Police Chase 60314."
+    },
+    {
+      "id": "RLQgovEUm3k",
+      "channel": "m@xjackobs",
+      "duration": 1367.0,
+      "title": "LEGO City 60253 Ice Cream Truck"
+    },
+    {
+      "id": "Y43ggihwK4w",
+      "channel": "LEGO",
+      "duration": 66.0,
+      "title": "The Great Ice Cream Quest – LEGO City"
+    }
+  ]
+}

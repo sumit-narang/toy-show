@@ -1,0 +1,57 @@
+{
+  "id": "2021-bath-bombs-sharks-mermaids-narwhals",
+  "year": 2021,
+  "name": "Bath Bombs (Sharks, Mermaids, Narwhals)",
+  "price_eur": 4.5,
+  "price_text": "€4.50",
+  "retailers": [
+    {
+      "name": "Heavenly Melts",
+      "url": "https://heavenlymeltsltd.com/products/bathbomb-character"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://sdg2030indonesia.org/",
+      "title": "Sustainable Development Goals (SDGS) Indonesia â Tujuan Pembangunan Berkelanjutan 2030",
+      "description": "Sustainable Development Goals (SDGs) merupakan suatu rencana aksi global yang disepakati oleh para pemimpin dunia, termasuk Indonesia, guna mengakhiri kemiskinan, mengurangi kesenjangan dan melindungi lingkungan. SDGs berisi 17 Tujuan dan 169 Target yang diharapkan dapat dicapai pada tahun 2030.",
+      "image": "https://sdg2030indonesia.org/an-component/media/upload-gambar-pendukung/footpath-691021_1280.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "T3SIKR_SQ5w",
+      "channel": "Awesomeness",
+      "duration": 263.0,
+      "title": "DIY MERMAID BATH BOMB?! Di Dare w/ Caroline Tucker & Erika Vianey"
+    },
+    {
+      "id": "R9LXl5LLSsg",
+      "channel": "KAYCEE & RACHEL in WONDERLAND FAMILY",
+      "duration": 601.0,
+      "title": "Marble Bath bombs"
+    },
+    {
+      "id": "ZNsst-AhjCU",
+      "channel": "LaurenZside",
+      "duration": 693.0,
+      "title": "I Tried Being a Beautiful MERMAID For A Day ...but I Failed"
+    },
+    {
+      "id": "n_eamy0BsXs",
+      "channel": "MamaMittens",
+      "duration": 191.0,
+      "title": "Fragrant Jewels Sterling Silver Ring Reveal - Mermaid Bath Bomb DEMO!"
+    },
+    {
+      "id": "DQdR4ntXMOc",
+      "channel": "Simply Bathtime",
+      "duration": 119.0,
+      "title": "Mermaid Ring Bath Bomb"
+    }
+  ]
+}

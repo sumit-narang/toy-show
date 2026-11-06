@@ -1,0 +1,57 @@
+{
+  "id": "2022-la-grande-familie-dog-la-grande-famille",
+  "year": 2022,
+  "name": "la Grande Familie: Dog La Grande Famille",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Moulin Roty",
+      "url": "https://www.moulinroty.com/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.moulinroty.com/en/",
+      "title": "Moulin Roty - Our website is getting a makeover",
+      "description": "In the meantime, discover the story of the brand, from 1972 to today.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ekpCYCyO1Ts",
+      "channel": "प्यार की दुनिया TV",
+      "duration": 6875.0,
+      "title": "ग्रामीण असली वारिस लौटती है, परिवार उसकी आवाज सुन, साजिश बेनकाब, उसे लाड़ करता है।"
+    },
+    {
+      "id": "SS2PlQkX3Qs",
+      "channel": "Flame & Frame",
+      "duration": 4508.0,
+      "title": "A Girl Mechanic, a Landslide-Wrecked Daewoo, and a Final Transformation You Have to See"
+    },
+    {
+      "id": "_jF1725OSmA",
+      "channel": "Ms.fatemeh",
+      "duration": 814.0,
+      "title": "The Untold Secret of Hamid and Narges' Love — A Truth That Was Hidden for Years(sholiz)"
+    },
+    {
+      "id": "y2cKgsmptX8",
+      "channel": "Toys and Colors",
+      "duration": 1567.0,
+      "title": "Ellie & Emma’s Funny Happy Dog Sad Dog 🐶 Pet Care Adventure!"
+    },
+    {
+      "id": "Gc19xoNIpXA",
+      "channel": "Heman Drama Studio",
+      "duration": 9360.0,
+      "title": "The Empire's Greatest War God Hid as a Prison Guard—Until the Royal Family Provoked Him!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-my-pet-cat-grooming-salon",
+  "year": 2024,
+  "name": "My Pet Cat Grooming Salon",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/my-pet-cat-grooming-salon/p/217069"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/my-pet-cat-grooming-salon/p/217069",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PAnDKlV39K4",
+      "channel": "Girl With The Dogs",
+      "duration": 336.0,
+      "title": "I Groomed the Happiest Cat Alive...He LOVED Grooming"
+    },
+    {
+      "id": "qu0qJb_KOAQ",
+      "channel": "Girl With The Dogs",
+      "duration": 369.0,
+      "title": "Grooming This Ragdoll Kitten Was a Full-Blown Comedy Special"
+    },
+    {
+      "id": "kt1cLu6RFQQ",
+      "channel": "Girl With The Dogs",
+      "duration": 273.0,
+      "title": "One Of The BEST Cats I've Ever Groomed in My Career"
+    },
+    {
+      "id": "eloB_eNqChs",
+      "channel": "Girl With The Dogs",
+      "duration": 164.0,
+      "title": "ANGRY pets at the grooming salon 😬"
+    },
+    {
+      "id": "pdGZjCWSASU",
+      "channel": "Girl With The Dogs",
+      "duration": 359.0,
+      "title": "Momma Cat And Her Adorable Kitten Get A Spa Day ❤️"
+    }
+  ]
+}

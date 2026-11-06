@@ -1,0 +1,57 @@
+{
+  "id": "2021-brainstorm-dinosaur-head-torches",
+  "year": 2021,
+  "name": "Brainstorm Dinosaur Head Torches",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Beattys Loughrea",
+      "url": "https://www.beattys.ie/products/trex-head-torch"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/",
+      "title": "Beattys of Loughrea | Hardware, Electrical, Gardening, Toys & Home",
+      "description": "Visit Beattys of Loughrea, Galway's premier department store & builders' merchant. Shop 9 specialist departments online with fast nationwide delivery.",
+      "image": "http://www.beattys.ie/cdn/shop/files/beattys_shop_front_ppt_60583d6f-756d-4673-8260-78cfd73fbb1e.jpg?crop=center&height=1200&v=1632215453&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "luM16w_3V_k",
+      "channel": "BrainstormLtd",
+      "duration": 134.0,
+      "title": "T Rex Head Torch"
+    },
+    {
+      "id": "3c_tb04YLYI",
+      "channel": "BrainstormLtd",
+      "duration": 172.0,
+      "title": "Brainstorm Toys Animal Torch and Projector"
+    },
+    {
+      "id": "tX3XMD9nPBY",
+      "channel": "BrainstormLtd",
+      "duration": 193.0,
+      "title": "Brainstorm Toys Dinosaur Torch and Projector"
+    },
+    {
+      "id": "__-WqMZ_2mM",
+      "channel": "BrainstormLtd",
+      "duration": 46.0,
+      "title": "Brainstorm Toys Projector Torches"
+    },
+    {
+      "id": "6IK4ba7H2Dc",
+      "channel": "BrainstormLtd",
+      "duration": 186.0,
+      "title": "Puppy Torch & Projector"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-groot-savings-bank",
+  "year": 2022,
+  "name": "Groot Savings Bank",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "V0sfoTu5NEw",
+      "channel": "JANE HAN",
+      "duration": 235.0,
+      "title": "DIY LIGHT BOTTLES & GROOT BOTTLE BANK"
+    },
+    {
+      "id": "YwSF8rM-ePU",
+      "channel": "TopMovieClips",
+      "duration": 210.0,
+      "title": "Guardians Prison Break Scene - \"I Am Groot!\"- Guardians of the Galaxy (2014) Movie Clip HD"
+    },
+    {
+      "id": "bGfq5qfy_is",
+      "channel": "Caleb Bale",
+      "duration": 308.0,
+      "title": "I Tested The New Bank Account for Ramsey Fans (Fairwinds Review)"
+    },
+    {
+      "id": "6IYn_-5673A",
+      "channel": "Charlie Chang",
+      "duration": 616.0,
+      "title": "Top 5 High Yield Savings Accounts To Open Right Now! (2026)"
+    },
+    {
+      "id": "DJOzqET8uck",
+      "channel": "Techfinology",
+      "duration": 732.0,
+      "title": "Mercury Personal Checking is the most advanced checking account I have reviewed"
+    }
+  ]
+}

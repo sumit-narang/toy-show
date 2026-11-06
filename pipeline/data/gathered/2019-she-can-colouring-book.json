@@ -1,0 +1,54 @@
+{
+  "id": "2019-she-can-colouring-book",
+  "year": 2019,
+  "name": "She Can Colouring Book",
+  "price_eur": 7.99,
+  "price_text": "€7.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/5637150827/all/books/childrens/childrens-activity/sticker--activity/she-can-the-colouring-book-for-tomorrows-sports-fans-pb/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/5637150827/all/books/childrens-and-teenage-books/early-learning/activity-booksshe-can-the-colouring-book-for-tomorrows-sports-fans-pb/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P_rniMd6xio",
+      "channel": "Taraloveshobbies",
+      "duration": 3784.0,
+      "title": "Under the Radar Coloring Book Artists Recommendations - Sharing some books from my own collection"
+    },
+    {
+      "id": "Wlz3cz8H_i8",
+      "channel": "Kristina's Art Corner",
+      "duration": 3149.0,
+      "title": "🚨Coloring Book Unhaul 🚨| Part 1"
+    },
+    {
+      "id": "0lteRVCtexE",
+      "channel": "Sarah Renae Clark",
+      "duration": 1789.0,
+      "title": "Trying Every Viral Colouring Book Trend"
+    },
+    {
+      "id": "M0ayjaQrvtc",
+      "channel": "Mamen Storyteller",
+      "duration": 236.0,
+      "title": "The coloring witch"
+    },
+    {
+      "id": "3ikPKYyYHxc",
+      "channel": "Sarah Renae Clark",
+      "duration": 1007.0,
+      "title": "Is This the Most Intricate Adult Coloring Book EVER? (Kerby Rosanes)"
+    }
+  ]
+}

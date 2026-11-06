@@ -1,0 +1,57 @@
+{
+  "id": "2019-cabbage-patch-kids",
+  "year": 2019,
+  "name": "Cabbage Patch Kids",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Ken Black/Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/cabbage-patch-kids/cabbage-patch-kids-35cm-kids-assortment/p/165416"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/cabbage-patch-kids/cabbage-patch-kids-35cm-kids-assortment/p/165416",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2SyDOg5OX84",
+      "channel": "Tesla & The Cabbage Patch Kids and The Improbable Dreamer Question Everything",
+      "duration": 5639.0,
+      "title": "TARTARIA: HIDDEN AIRSHIPS, ALTERED PHOTOS AND A LOST GOLDEN AGE? - WITH JAKE, THE IMPROBABLE DREAMER"
+    },
+    {
+      "id": "eIERjAqLRFA",
+      "channel": "Blakkballoon",
+      "duration": 1720.0,
+      "title": "The Cabbage Patch Kids: Cloning In The 1800s 👁️"
+    },
+    {
+      "id": "WSGJpqDB56Y",
+      "channel": "Alex Novell",
+      "duration": 559.0,
+      "title": "The Strange History of the Cabbage Patch Kids"
+    },
+    {
+      "id": "rLxEvxUG5PY",
+      "channel": "Matt from Nomads",
+      "duration": 861.0,
+      "title": "The dark history of cabbage patch kids"
+    },
+    {
+      "id": "DutKa2ufZIc",
+      "channel": "ART of DiNo .com",
+      "duration": 1050.0,
+      "title": "1800s Baby Farmers & The Cabbage Patch - Exploring the Potential Realities of this Topic w/ Books!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-raymie-nightingale",
+  "year": 2017,
+  "name": "Raymie Nightingale",
+  "price_eur": 6.74,
+  "price_text": "€6.74",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "65ByjC7v_EE",
+      "channel": "Candlewick Press",
+      "duration": 41.0,
+      "title": "Raymie Nightingale by Kate DiCamillo Book Trailer"
+    },
+    {
+      "id": "Qd6GET1kXl8",
+      "channel": "Stages Theatre Company",
+      "duration": 32.0,
+      "title": "Stages Theatre Company presents RAYMIE NIGHTINGALE"
+    },
+    {
+      "id": "6AmF7iI-VxA",
+      "channel": "PBS Books",
+      "duration": 655.0,
+      "title": "Kate DiCamillo on “Raymie Nightingale” at BookCon 2016"
+    },
+    {
+      "id": "xkcWld_DJ4A",
+      "channel": "Candlewick Press",
+      "duration": 113.0,
+      "title": "Kate DiCamillo on writing Raymie Nightingale"
+    },
+    {
+      "id": "k9qzKmpcxkY",
+      "channel": "National Book Foundation",
+      "duration": 191.0,
+      "title": "Kate DiCamillo reads from Raymie Nightingale at 2016 NBAs Finalists Reading"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-unicorn-poppers",
+  "year": 2022,
+  "name": "Unicorn Poppers",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "artnhobby.ie",
+      "url": "https://www.artnhobby.ie/products/squeeze-popper-unicorn-pink"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.artnhobby.ie/products/squeeze-popper-unicorn-pink"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BJlK-b3ES3k",
+      "channel": "Vat19",
+      "duration": 75.0,
+      "title": "A Unicorn that Shoots Magic"
+    },
+    {
+      "id": "hW4DK5dl8gs",
+      "channel": "TTPM Toy Reviews",
+      "duration": 72.0,
+      "title": "Unicorn Popper from Hog Wild"
+    },
+    {
+      "id": "RNOHo1WQAwg",
+      "channel": "OhcluckToys",
+      "duration": 344.0,
+      "title": "Atomic Power Popper and Unicorn Power Popper Unboxing Review"
+    },
+    {
+      "id": "g3qDETGBzkw",
+      "channel": "happyfamily1004",
+      "duration": 610.0,
+      "title": "Power Poppers - Atomic and Unicorn"
+    },
+    {
+      "id": "ptuMP7jtvPc",
+      "channel": "Jessica Allen",
+      "duration": 112.0,
+      "title": "Unicorn Popper Toy Demo | Fun for Kids AND Cats"
+    }
+  ]
+}

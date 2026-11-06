@@ -1,0 +1,54 @@
+{
+  "id": "2022-air-hogs-gravitator",
+  "year": 2022,
+  "name": "Air Hogs Gravitator",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mmfwK2SzFc0",
+      "channel": "Air Hogs",
+      "duration": 146.0,
+      "title": "Air Hogs - How To Fly Gravitor with the Power of Your Hands!"
+    },
+    {
+      "id": "FQw7Dx8rvjM",
+      "channel": "Cool10Best",
+      "duration": 71.0,
+      "title": "Air Hogs Gravitor with Trick Stick Review in 2022"
+    },
+    {
+      "id": "_MlZySFodfs",
+      "channel": "Air Hogs",
+      "duration": 68.0,
+      "title": "BOO-YAH! It’s The Ultimate Gravitor Showdown from Air Hogs!"
+    },
+    {
+      "id": "IK8glmrHUbg",
+      "channel": "Product Reviews",
+      "duration": 107.0,
+      "title": "Air Hogs Gravitor with Trick Stick, Once you get the hang of it of course"
+    },
+    {
+      "id": "olKsRM77iFk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 136.0,
+      "title": "Air Hogs Gravitor Flying Toy from Spin Master Instructions + Review!"
+    }
+  ]
+}

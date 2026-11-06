@@ -1,0 +1,54 @@
+{
+  "id": "2017-vespa-ride-on",
+  "year": 2017,
+  "name": "Vespa Ride-On",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "littleones.ie",
+      "url": "https://www.littleones.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://littleones.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VDLsjkbxJvk",
+      "channel": "Baby's Hyperstore",
+      "duration": 43.0,
+      "title": "Vespa GTS Mini Electric Ride-on Kids Scooter"
+    },
+    {
+      "id": "vES78UU99nA",
+      "channel": "Red Vespa NYC",
+      "duration": 1764.0,
+      "title": "PERFECT Autumn VESPA ride | NYC West Side Highway| GTS 310"
+    },
+    {
+      "id": "rIX3YNyWVDc",
+      "channel": "MotorVia",
+      "duration": 34.0,
+      "title": "Daddy and Daughter days, testing out the Vespa 6v Scooter."
+    },
+    {
+      "id": "SycXb1qxIk8",
+      "channel": "Al's Sporting Goods",
+      "duration": 60.0,
+      "title": "Huffy Vespa Ride-On Electric Scooters: A Must-Have Christmas Gift"
+    },
+    {
+      "id": "NGeVNb7Dr-4",
+      "channel": "Red Vespa NYC",
+      "duration": 2056.0,
+      "title": "Riding a Vespa in NYC | Manhattan & FDR Drive | New GTS Super"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-in-quest-of-adventure-25-things-to-do-before-you-re-12",
+  "year": 2019,
+  "name": "In Quest of Adventure: 25 Things to do Before You're 12",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "In Quest of Adventure",
+      "url": "https://inquestofadventure.ie/product/in-quest-of-adventure/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://inquestofadventure.ie/product/in-quest-of-adventure/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Gauw7qeUAZQ",
+      "channel": "Nathie",
+      "duration": 489.0,
+      "title": "15 Things To Do FIRST On Your Meta Quest 3 And 3S"
+    },
+    {
+      "id": "aalurzaYKJM",
+      "channel": "Vress Games",
+      "duration": 1394.0,
+      "title": "30 Essential Things You NEED To Do First in The Witcher 3"
+    },
+    {
+      "id": "47i8N-PyZyA",
+      "channel": "Vress Games",
+      "duration": 994.0,
+      "title": "20 Essential Things You NEED To Do First in Skyrim"
+    },
+    {
+      "id": "VA7U2mK-bMg",
+      "channel": "NorZZa",
+      "duration": 764.0,
+      "title": "10 Things To Do FIRST In Every Playthrough Of The Blood Of Dawnwalker! | Dawnwalker Beginner's Guide"
+    },
+    {
+      "id": "zh1hTCgZN54",
+      "channel": "PDWinnall",
+      "duration": 577.0,
+      "title": "25 Things To Do After Finishing Pokémon Scarlet & Violet"
+    }
+  ]
+}

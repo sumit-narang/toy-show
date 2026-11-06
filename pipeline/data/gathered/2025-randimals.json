@@ -1,0 +1,54 @@
+{
+  "id": "2025-randimals",
+  "year": 2025,
+  "name": "Randimals",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toys",
+      "url": "https://banbatoys.ie/collections/randimals?srsltid=AfmBOopm_EJZWUKf8G4oKe5Isx_izx83T4MAh5X6ZFCZ_SRUEUeY7brP"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/collections/randimals?srsltid=AfmBOopm_EJZWUKf8G4oKe5Isx_izx83T4MAh5X6ZFCZ_SRUEUeY7brP"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1-TY-n8lptk",
+      "channel": "Randimals",
+      "duration": 183.0,
+      "title": "Randimals"
+    },
+    {
+      "id": "GI6q2jjD6l0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 93.0,
+      "title": "RANDIMALS! Plush and Figures Review | Seadog, Zangaroo, Eagard, & Hork"
+    },
+    {
+      "id": "qbTAuc4EckY",
+      "channel": "Randimals",
+      "duration": 66.0,
+      "title": "Hork!"
+    },
+    {
+      "id": "uOGX4bJltsE",
+      "channel": "WTI",
+      "duration": 66.0,
+      "title": "Randimals Plush Toy Stuffed Animal | POV | Would you buy it?"
+    },
+    {
+      "id": "J8gKN5NENw4",
+      "channel": "Randimals",
+      "duration": 205.0,
+      "title": "Randimals Book Preview"
+    }
+  ]
+}

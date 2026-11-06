@@ -1,0 +1,54 @@
+{
+  "id": "2017-scrabble-light-spelling-out-toy-show",
+  "year": 2017,
+  "name": "Scrabble Light spelling out Toy Show",
+  "price_eur": 26.99,
+  "price_text": "€26.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "http://www.littlewoodsireland.ie"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5lCC9mLKPdY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 55.0,
+      "title": "Scrabble Flash from Hasbro Games"
+    },
+    {
+      "id": "rBvGfhT9wcU",
+      "channel": "Toys Pitara",
+      "duration": 677.0,
+      "title": "How to Play Scrabble in Hindi | Scrabble kaise khelte hain | Scrabble Rules | Crossword | Spellex"
+    },
+    {
+      "id": "N_YlG_FsWps",
+      "channel": "Triple S Games",
+      "duration": 114.0,
+      "title": "How to play Tapple"
+    },
+    {
+      "id": "Zi2amUnpUgk",
+      "channel": "The Game Show Vault",
+      "duration": 1429.0,
+      "title": "Scrabble Game Show|Episode #358"
+    },
+    {
+      "id": "iSRngRqNcNU",
+      "channel": "WordSmasher",
+      "duration": 164.0,
+      "title": "Word Smasher Scrabble Demo"
+    }
+  ]
+}

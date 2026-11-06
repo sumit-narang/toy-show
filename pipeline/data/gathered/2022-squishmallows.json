@@ -1,0 +1,54 @@
+{
+  "id": "2022-squishmallows",
+  "year": 2022,
+  "name": "Squishmallows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zbn5D3SIJV8",
+      "channel": "SugarStar",
+      "duration": 7049.0,
+      "title": "OPENING *SO MANY* MYSTERY SQUISHMALLOWS! #squishmallows #unboxing"
+    },
+    {
+      "id": "XdQ5zNxS8o0",
+      "channel": "Squishmallows",
+      "duration": 126.0,
+      "title": "Squishmallows Song - Lyric Video"
+    },
+    {
+      "id": "U8mtVNWWKJQ",
+      "channel": "ArtGhie Collection",
+      "duration": 812.0,
+      "title": "McDo June 2026 Happy Meal  FIFA WORLD CUP SQUISHMALLOWS Unboxing"
+    },
+    {
+      "id": "IDF689uVe7A",
+      "channel": "Squishville by Original Squishmallows",
+      "duration": 1307.0,
+      "title": "The Woo-Hoo! Guy | Squishville 🎀 - Storytime Companions | Kids Cartoons"
+    },
+    {
+      "id": "wJfbSPAImAQ",
+      "channel": "cin",
+      "duration": 547.0,
+      "title": "Squishmallows Downfall"
+    }
+  ]
+}

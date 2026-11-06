@@ -1,0 +1,57 @@
+{
+  "id": "2025-lego-minecraft-woodland-mansion-fighting-ring",
+  "year": 2025,
+  "name": "LEGO Minecraft Woodland Mansion Fighting Ring",
+  "price_eur": 35.99,
+  "price_text": "€35.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-minecraft/lego-minecraft-21272-woodland-mansion-fighting-ring-set/p/243586"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-minecraft/lego-minecraft-21272-woodland-mansion-fighting-ring-set/p/243586",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BmU9DgafQrU",
+      "channel": "AustrianBrickFan",
+      "duration": 585.0,
+      "title": "LEGO Minecraft Movie 21272 Woodland Mansion Fighting Ring - LEGO Speed Build Review"
+    },
+    {
+      "id": "6r1gPLF8M50",
+      "channel": "Ashnflash",
+      "duration": 572.0,
+      "title": "LEGO A Minecraft Movie: Woodland Mansion Fighting Ring (21272) - 2025 Set Review"
+    },
+    {
+      "id": "tzQt2wcgNds",
+      "channel": "Fadil Random TV",
+      "duration": 1077.0,
+      "title": "Rakit Lego Minecraft Woodland Mansion Fighting Ring | Sisi Fadil"
+    },
+    {
+      "id": "SijlcvXi-Rg",
+      "channel": "Passion for Bricks",
+      "duration": 490.0,
+      "title": "LEGO Minecraft Movie 21272 Woodland Mansion Fighting Ring - Speed Build"
+    },
+    {
+      "id": "NmbigYiDJSc",
+      "channel": "LETOP Motion",
+      "duration": 337.0,
+      "title": "Unboxing & Stop Motion Build – LEGO 21272 Minecraft Woodland Mansion Fighting Ring!"
+    }
+  ]
+}

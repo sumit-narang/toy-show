@@ -1,0 +1,57 @@
+{
+  "id": "2018-things-that-go-wooden-stroller-book",
+  "year": 2018,
+  "name": "Things That Go Wooden Stroller Book",
+  "price_eur": 12.0,
+  "price_text": "€12.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cuqfG217xW0",
+      "channel": "Jade The Libra",
+      "duration": 2333.0,
+      "title": "PREPARING FOR BABY!!! Stroller Shopping, Nursery Planning, etc..."
+    },
+    {
+      "id": "VUbU1wiXYfI",
+      "channel": "Emma Hubbard",
+      "duration": 517.0,
+      "title": "Don’t Let Your Baby’s Toys Hold Back Development (7 Key Toy Upgrades at 6 Months)"
+    },
+    {
+      "id": "Cic3aNtocCg",
+      "channel": "Couch Mom Club",
+      "duration": 140.0,
+      "title": "Toddler Learns About Cars and Trucks | 10 Vehicle Sounds and Fun Facts About Things That Go!"
+    },
+    {
+      "id": "JmW7dxaUV_M",
+      "channel": "Confidently Mom",
+      "duration": 552.0,
+      "title": "LOVEVERY BEST + WORST PLAY KITS Ranked By Age | Montessori Subscription Toy Box"
+    },
+    {
+      "id": "OurrjmIp9oQ",
+      "channel": "Hartleys Direct",
+      "duration": 30.0,
+      "title": "Hartleys Direct Children's Fun White Wooden Bookshelf"
+    }
+  ]
+}

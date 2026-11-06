@@ -1,0 +1,42 @@
+{
+  "id": "2024-peg-perego-taurus-electric-ride-on-with-winch",
+  "year": 2024,
+  "name": "Peg Perego Taurus Electric Ride-On with Winch",
+  "price_eur": 595.0,
+  "price_text": "€595",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/peg-perego-taurus-electric-ride-on-with-winch2"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/peg-perego-taurus-electric-ride-on-with-winch2",
+      "title": "Peg Perego Taurus Electric Ride On with | Clarkes of Cavan",
+      "description": "Shop Peg Perego Taurus Electric Ride On with Winch at Clarkes of Cavan. A kids' electric off-road ride-on. Available online in Ireland.",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/peg-perego-taurus-electric-ride-on-1.webp?crop=center&height=1200&v=1778250827&width=1200",
+      "ld_description": "The 2-seater utility truck can tackle even the most extreme off-road driving! With its impressive design, the top-of-the-range Taurus utility truck is truly indefatigable! This robust truck with a 12V/12Ah/150Wh rechargeable battery can tackle the most extreme adventures, even with two passengers! Exceptional performance is guaranteed by the powerful 350W motor and 2-wheel drive, allowing the truck to easily tackle slopes of up to 17%. Age: 3 to 5 years.\n\nLarge seat, adjustable\nAdjustable in four positions to suit drivers of all sizes. Two armrests for comfortable, safe driving also act as handles for hanging on when travelling over rough terrain.\n\nSculpted tread tyres\nWith great traction for perfect adherence to the ground. An electric truck that can easily travel up slopes of up to 17%.\n\nBig tipping box\nThe load box, which can carry up to 10 kg, has a side opening and handles for easy unloading even while sitting comfortably.\n\nTwo forward gears and reverse gear\nThe second gear has a lock that, when necessary, prevents an inexperienced child from using it.\n\nAccelerator and brake in a single pedal\nThe accelerator pedal, when released, becomes a brake that automatically stops the toy.\n\nManually operated winch\nProlong the fun by inventing new games.\n\nLights and sounds like a real utility truck\nWow! Toot the horn to be noticed. Press the Start button and the 2 front LED lights will switch on. Press the accelerator and flashing lights will switch on. Go into reverse and hear the ",
+      "brand": "Peg Perego",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/peg-perego-taurus-electric-ride-on-1.webp?v=1778250827&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_ROh3uWASfs",
+      "channel": "Kids Zone",
+      "duration": 53.0,
+      "title": "The new Peg Perego 12v Taurus with Winch Electric Ride on"
+    },
+    {
+      "id": "VjbdtDyETmc",
+      "channel": "Kids Zone",
+      "duration": 69.0,
+      "title": "The Magic of the Late Late Toy Show Shines at Clarkes of Cavan!"
+    }
+  ]
+}

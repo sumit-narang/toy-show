@@ -1,0 +1,54 @@
+{
+  "id": "2021-spikebrite",
+  "year": 2021,
+  "name": "Spikebrite",
+  "price_eur": 54.95,
+  "price_text": "€54.95",
+  "retailers": [
+    {
+      "name": "Roundnet Ireland",
+      "url": "https://www.roundnetireland.com/product-page/spikebrite"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.roundnetireland.com/product-page/spikebrite"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QKJDUXj5LTM",
+      "channel": "Groupe Catsports",
+      "duration": 53.0,
+      "title": "Introducing SpikeBrite"
+    },
+    {
+      "id": "9JOrxLtcuF0",
+      "channel": "Inside The Box",
+      "duration": 276.0,
+      "title": "IS IT WORTH IT? - SpikeBrite Review"
+    },
+    {
+      "id": "JsXMSAeywBs",
+      "channel": "Raleigh Roundnet Club",
+      "duration": 139.0,
+      "title": "SpikeBrite"
+    },
+    {
+      "id": "6RUG9EjcJS0",
+      "channel": "Vanlife Troglio",
+      "duration": 142.0,
+      "title": "SpikeBrite Unboxing On My Onewheel"
+    },
+    {
+      "id": "VVkjEgAO130",
+      "channel": "Inside The Box",
+      "duration": 383.0,
+      "title": "Spikeball at NIGHT! - SpikeBrite Unboxing"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-grapat-rainbow-tomtens-open-play-figures",
+  "year": 2021,
+  "name": "Grapat 'Rainbow Tomtens' Open Play Figures",
+  "price_eur": 21.0,
+  "price_text": "€21.00",
+  "retailers": [
+    {
+      "name": "Beo Verde",
+      "url": "https://beoverde.ie/products/wooden-toys-grapat-rainbow-tomtens"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://beoverde.ie/products/wooden-toys-grapat-rainbow-tomtens",
+      "title": "Buy Grapat Rainbow Tomtens wooden toy play set for kids at BeoVERDE",
+      "description": "Encourage imaginative play in children aged 12 months and up with these eco-friendly wooden figures, perfect for open-ended storytelling and creative exploration.​",
+      "image": "http://beoverde.ie/cdn/shop/products/Photo-1_BeoVERDE_Wooden-Toys_Grapat_6-Rainbow-Tomtens_20-213_1500x1500_e1993536-d326-4ec5-b797-f850fc9417f6.jpg?v=1626207207",
+      "ld_description": "The six Rainbow Tomtens can be whoever or whatever your child's imagination can dream up. A family member, teacher, farmer....Pair them with other Grapat items, open-ended toys or loose parts for all sorts of imaginative play. Grapat wooden toys are created to give children the energy, emotion and excitement of playing with wooden toys and allow them to enter a world of their own creation. The Rainbow Tomtens have been carefully handcrafted by skilled toymakers from wood sourced from sustainable forests, and hand painted, using water-based non-toxic paint, and finished with vegetable waxes and oils to bring out the natural characteristic of the wood. ►Details: 6 Rainbow Tomtens, hight approx. 7.0 cm ►Age: 12 Months And Older ►The Grapat Story Catalonia based Joguines Grapat was founded by husband and wife team Casiana & Jordi Grapat who were inspired by watching their young daughter play freely with very few, simple toys that she had at her disposal. They realised that when children are given freedom to imagine, they will enter a world of their own creation. Inspired by this experience with their daughter, they started to create wooden toys such as the Nins® (Catalan for 'children'), a beautiful range of traditional Waldorf toy peg dolls, that allow children to play freely without rules or structure, unhindered by pre-determined ideas or games.",
+      "brand": "Grapat",
+      "ld_image": "https://beoverde.ie/cdn/shop/products/Photo-1_BeoVERDE_Wooden-Toys_Grapat_6-Rainbow-Tomtens_20-213_1500x1500_e1993536-d326-4ec5-b797-f850fc9417f6.jpg?v=1626207207&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fsmP5fmg3FA",
+      "channel": "All Hart",
+      "duration": 1334.0,
+      "title": "Grapat Toys How to use Loose Parts plus a review on our Entire collection #Montessoriwithhart"
+    },
+    {
+      "id": "mSXomJmxMxE",
+      "channel": "LukjanovArt Horror",
+      "duration": 216.0,
+      "title": "Grapat heaven! Nins, Magos, Brots, Palos, Tomtens, Coins, Rings and more! UK 2020 Review"
+    },
+    {
+      "id": "z27tF34Ay0o",
+      "channel": "Yes Bebe",
+      "duration": 257.0,
+      "title": "Yes Bébé Unboxing - Grapat Cups with Lids"
+    },
+    {
+      "id": "EtS3Q0FtEZk",
+      "channel": "Bindis and Bottles",
+      "duration": 595.0,
+      "title": "Grapat Lola NEW TOY REVIEW"
+    },
+    {
+      "id": "vPYDUcc5frA",
+      "channel": "Joceline Marquez",
+      "duration": 278.0,
+      "title": "Wooden Toy Haul from Modern Rascals | GRIMMS HOLZTIGER GRAPAT"
+    }
+  ]
+}

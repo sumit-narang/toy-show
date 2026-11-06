@@ -1,0 +1,60 @@
+{
+  "id": "2023-oppy-plush-green-frog",
+  "year": 2023,
+  "name": "Oppy Plush (Green Frog)",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/yabu-tinyk-oppy-frog-posters-merchandise"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goldendiscs.ie/products/yabu-tinyk-oppy-frog-posters-merchandise",
+      "title": "Kenji Yabu Tiny-K Oppy Frog [Toys]",
+      "description": "Kenji Yabu Tiny-K Oppy Frog [Toys]",
+      "image": "http://goldendiscs.ie/cdn/shop/products/OPPY-A_2048x_745dca83-c958-4073-8da8-d0e39513a662.png?v=1691137045",
+      "ld_description": "Kenji Yabu Tiny-K Oppy Frog [Toys]",
+      "brand": "Golden Discs",
+      "ld_image": "https://goldendiscs.ie/cdn/shop/products/OPPY-A_2048x_745dca83-c958-4073-8da8-d0e39513a662.png?v=1691137045&width=512"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4UGvQqYzQQQ",
+      "channel": "INUbis",
+      "duration": 397.0,
+      "title": "ALL Nightmare Critters cutout animations (Poppy Playtime)"
+    },
+    {
+      "id": "ouaRbYidFlE",
+      "channel": "Mob Entertainment",
+      "duration": 83.0,
+      "title": "Smiling Critters Cartoon - Poppy Playtime Chapter 3"
+    },
+    {
+      "id": "lLRyuR0dAB0",
+      "channel": "Buggy Huggy",
+      "duration": 79.0,
+      "title": "Poppy Playtime: Chapter 5 - LILY LOVEBRAIDS Trailer (Cinematic Reveal)"
+    },
+    {
+      "id": "f-HlKr1U_94",
+      "channel": "GameToons +",
+      "duration": 3838.0,
+      "title": "LILY BETRAYS THE PROTOTYPE?! (Poppy Playtime Animation)"
+    },
+    {
+      "id": "ztYKbRR6QW0",
+      "channel": "Lycoris",
+      "duration": 48.0,
+      "title": "kermit the frog evolution  (poppy playtime)(funny)"
+    }
+  ]
+}

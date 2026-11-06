@@ -1,0 +1,54 @@
+{
+  "id": "2017-project-mc2-nail-science-lab",
+  "year": 2017,
+  "name": "Project Mc2 Nail Science Lab",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "http://www.littlewoodsireland.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2XUoP9B2dB4",
+      "channel": "Project Mc²",
+      "duration": 15.0,
+      "title": "Project Mc² | H20 Nail Science Kit | :15 Commercial"
+    },
+    {
+      "id": "nkXBbl0ixeU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 137.0,
+      "title": "Project MC2 H2O Nail Science Kit from MGA Entertainment"
+    },
+    {
+      "id": "9pImzRXaHaI",
+      "channel": "ToyNotes",
+      "duration": 712.0,
+      "title": "Project Mc2 H2O Nail Science Kit"
+    },
+    {
+      "id": "CzVkgooVP-M",
+      "channel": "Little Kelly & Friends ToysReview for Kids",
+      "duration": 798.0,
+      "title": "PROJECT MC² H2O NAIL SCIENCE KIT WITH PIXIE & AMELIE | Little Kelly & Friends ToysReview for Kids"
+    },
+    {
+      "id": "110_6SBFtrk",
+      "channel": "The Amy Jo Show - DCTC",
+      "duration": 854.0,
+      "title": "Project MC2 Nail Polish Experiment | Science Experiment | Toy Review by DCTC Amy Jo"
+    }
+  ]
+}

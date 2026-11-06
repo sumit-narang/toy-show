@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-super-mario-toad-s-treasure-hunt",
+  "year": 2021,
+  "name": "LEGO Super Mario Toad's Treasure Hunt",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/toad-s-treasure-hunt-expansion-set-71368"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/toad-s-treasure-hunt-expansion-set-71368"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wf8a1SI_1h0",
+      "channel": "All New Bricks",
+      "duration": 359.0,
+      "title": "Lego Super Mario 71368 Toad's Treasure Hunt with Propeller Mario and Character Pack Speed Build"
+    },
+    {
+      "id": "m0YPFl__BKE",
+      "channel": "just2good",
+      "duration": 627.0,
+      "title": "LEGO Super Mario Toad's Treasure Hunt review! 2020 set 71368!"
+    },
+    {
+      "id": "PX1T_FsvQJc",
+      "channel": "SquirrelStampede",
+      "duration": 1201.0,
+      "title": "LEGO Super Mario Toad's Treasure Hunt Speed Build Review"
+    },
+    {
+      "id": "FZLBMaVx4iA",
+      "channel": "Brick’n It",
+      "duration": 769.0,
+      "title": "LEGO Mario Toads Treasure Hunt Review - How to Play, Is It Any Good?"
+    },
+    {
+      "id": "cCn3jXvyWdE",
+      "channel": "Koma Channel",
+      "duration": 337.0,
+      "title": "LEGO Super Mario Toad’s Treasure Hunt Expansion Set | レゴ　スーパーマリオ  | キノピオ と 宝さがしでstop motion anime!"
+    }
+  ]
+}

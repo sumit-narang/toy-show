@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+dist/
+.DS_Store
+
+# browser screenshots from testing
+.playwright-mcp/
+
+# debug logs (contain local file paths)
+pipeline/data/log_*.txt
+
+# copies of RTÉ's articles, which include children's names; step 1 re-downloads them
+pipeline/raw_html/
+pipeline/data/article_text/
+
+# product photos copied from other sites; step3d_images.py re-downloads them
+frontend/public/toys/

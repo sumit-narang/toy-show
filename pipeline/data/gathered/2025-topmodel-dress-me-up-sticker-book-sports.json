@@ -1,0 +1,60 @@
+{
+  "id": "2025-topmodel-dress-me-up-sticker-book-sports",
+  "year": 2025,
+  "name": "TOPModel Dress Me Up sticker book – Sports",
+  "price_eur": 5.95,
+  "price_text": "€5.95",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/topmodel-dress-me-up-stickerbook-sports-6366734"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/topmodel-dress-me-up-stickerbook-sports-6366734",
+      "title": "TOPModel Dress Me Up Stickerbook - Sports | Easons.com",
+      "description": "This",
+      "image": null,
+      "ld_description": "Sporty, sporty! This \"Dress me up\" sticker book from TOPModel is all about cool sports outfits. 24 pages with model figures and 11 sheets of stickers provide lots of creative sticker fun. With practical spiral binding.",
+      "brand": "TOPModel",
+      "ld_image": "https://www.easons.com/images/m/362e3b5b86b455cb/original/6366734_5638653270.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Cvl12ZJLO90",
+      "channel": "Warmherziger Mann",
+      "duration": 745.0,
+      "title": "Top Model Dress me up Sticker Book ( #Top Model Dress me up Sticker Book )"
+    },
+    {
+      "id": "qnoAtWt8p6o",
+      "channel": "Usborne",
+      "duration": 63.0,
+      "title": "Sticker Dolly Dressing: Fashion Long Ago - A creative journey through fashion for children"
+    },
+    {
+      "id": "PX1nffeLLJ4",
+      "channel": "Its Azra Studio",
+      "duration": 413.0,
+      "title": "Top Model Dress Me Up Sports Sticker Book ⚽👚✨ Fun Styling with itsazrastudio "
+    },
+    {
+      "id": "G2sBcQqjrsg",
+      "channel": "Usborne",
+      "duration": 48.0,
+      "title": "Sticker Dolly Dressing: Fancy Dress - Dress the dolls, perfect entertainment for kids!"
+    },
+    {
+      "id": "AuWqpZ5UfUU",
+      "channel": "Piticelul Curios",
+      "duration": 33.0,
+      "title": "Usborne Sticker Dressing King Arthur"
+    }
+  ]
+}

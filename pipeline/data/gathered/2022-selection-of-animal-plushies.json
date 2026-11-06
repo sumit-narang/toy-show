@@ -1,0 +1,68 @@
+{
+  "id": "2022-selection-of-animal-plushies",
+  "year": 2022,
+  "name": "Selection of Animal Plushies",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "IKEA Ireland",
+      "url": "https://www.ikea.com/ie/en/"
+    },
+    {
+      "name": "Red Rufus",
+      "url": "https://www.redrufus.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    },
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "evc6-a_0Xlk",
+      "channel": "Jaci Starr",
+      "duration": 1254.0,
+      "title": "DOUGLAS Thrift Hunt! • Cuddle Toy Plushie Shopping DLux Soft Stuffed Animals Thrifting and New Store"
+    },
+    {
+      "id": "D_DO2jXYYMY",
+      "channel": "pstoyreviews",
+      "duration": 637.0,
+      "title": "Care Bears 22\" Expanding Plush Stuffed Animal Haul Unboxing"
+    },
+    {
+      "id": "pn5N_LK02qE",
+      "channel": "TYE Arcade",
+      "duration": 2583.0,
+      "title": "I WON Every Animal Hospital Plush"
+    },
+    {
+      "id": "UUqdDJbrF6k",
+      "channel": "Lil Lockness",
+      "duration": 696.0,
+      "title": "Lots of Animal Hospital Plushies Unboxing!"
+    },
+    {
+      "id": "mQQjbelfQjk",
+      "channel": "RaceToyTime",
+      "duration": 536.0,
+      "title": "Schleich Wildlife Safari, Jungle and Forest Animal Toys Figurines"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-super-mario-bros-wonder",
+  "year": 2023,
+  "name": "Super Mario Bros. Wonder",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Currys PC World",
+      "url": "https://www.currys.ie/products/nintendo-switch-super-mario-bros.-wonder-10252907.html?searchTerm=wonder"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.currys.ie/products/nintendo-switch-super-mario-bros.-wonder-10252907.html?searchTerm=wonder"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JStAYvbeSHc",
+      "channel": "Nintendo of America",
+      "duration": 159.0,
+      "title": "Super Mario Bros. Wonder - Nintendo Direct 6.21.2023"
+    },
+    {
+      "id": "MjdXHwRDqMw",
+      "channel": "Nintendo Life",
+      "duration": 668.0,
+      "title": "Super Mario Bros. Wonder Nintendo Switch Review - Is It Worth It?"
+    },
+    {
+      "id": "RGoi48NLNOA",
+      "channel": "StrawHatMidas",
+      "duration": 2002.0,
+      "title": "I Replayed Super Mario Wonder 3 Years Later..."
+    },
+    {
+      "id": "OlFl65Jo16A",
+      "channel": "NintendoBase",
+      "duration": 27555.0,
+      "title": "Super Mario Bros Wonder - Full Game 100% Walkthrough"
+    },
+    {
+      "id": "adgUSN88a9w",
+      "channel": "Arrowstotle",
+      "duration": 5224.0,
+      "title": "I made Every Level HARDER in Mario Wonder"
+    }
+  ]
+}

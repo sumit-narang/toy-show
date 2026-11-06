@@ -1,0 +1,54 @@
+{
+  "id": "2020-led-lenser-neo4-head-torch",
+  "year": 2020,
+  "name": "LED Lenser NEO4 Head Torch",
+  "price_eur": 25.8,
+  "price_text": "€25.80",
+  "retailers": [
+    {
+      "name": "Great Outdoors",
+      "url": "https://www.greatoutdoors.ie/shop/led-lenser-neo4-head-torch-green"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.greatoutdoors.ie/shop/led-lenser-neo4-head-torch-green"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-i06kRehN2s",
+      "channel": "baze187",
+      "duration": 352.0,
+      "title": "Ledlenser NEO4 Head Torch Unboxing & First Impressions"
+    },
+    {
+      "id": "6YrjiowOj14",
+      "channel": "Ledlenser Malaysia",
+      "duration": 143.0,
+      "title": "Ledlenser NEO4 NEO6R"
+    },
+    {
+      "id": "JnM_klucRXU",
+      "channel": "Ultimate Nordic",
+      "duration": 38.0,
+      "title": "Ledlenser NEO4 :: Kort om lykten"
+    },
+    {
+      "id": "Rr7we3eMLwE",
+      "channel": "LedlenserUK",
+      "duration": 129.0,
+      "title": "Ledlenser NEO4 and NEO6R"
+    },
+    {
+      "id": "buy1kgUeX8Q",
+      "channel": "Aj's Cycling vLog",
+      "duration": 182.0,
+      "title": "Ledlenser Neo 4 | Price | Weight | Product review | Ajsvlog"
+    }
+  ]
+}

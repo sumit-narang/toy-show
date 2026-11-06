@@ -1,0 +1,57 @@
+{
+  "id": "2018-discovering-titanic-by-ben-hubbard",
+  "year": 2018,
+  "name": "Discovering Titanic by Ben Hubbard",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4RFUkJ31x5s",
+      "channel": "National Geographic",
+      "duration": 4159.0,
+      "title": "Titanic: The Digital Resurrection (Full Episode) | SPECIAL | National Geographic"
+    },
+    {
+      "id": "SP7BWb1ndpA",
+      "channel": "Titanic Movie/Pelicula",
+      "duration": 98.0,
+      "title": "\"Titanic will founder\" - Scene HD"
+    },
+    {
+      "id": "adfA6VklSyo",
+      "channel": "National Geographic",
+      "duration": 80.0,
+      "title": "Why You Won't Find Bodies On The Titanic | Titanic: 20 Years Later with James Cameron"
+    },
+    {
+      "id": "pZCdBFwekcg",
+      "channel": "Discovery",
+      "duration": 198.0,
+      "title": "Hear the Loud Bang Believed to be the Titan Sub's Implosion | Implosion: The Titanic Sub Disaster"
+    },
+    {
+      "id": "HLrBUwNSEo0",
+      "channel": "Jared Owen",
+      "duration": 1291.0,
+      "title": "What's inside the Titanic?"
+    }
+  ]
+}

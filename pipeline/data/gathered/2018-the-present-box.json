@@ -1,0 +1,57 @@
+{
+  "id": "2018-the-present-box",
+  "year": 2018,
+  "name": "The Present Box",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "The Present Box",
+      "url": "https://www.thepresentbox.com/"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thepresentbox.com/",
+      "title": "The Present Box – Phones Away… Let's Play",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_86HllpxRC4",
+      "channel": "RABLE Quiz",
+      "duration": 629.0,
+      "title": "Top 3 Gift Box Options Every Shopper Needs to Know About ! 3 gift box challenge 😜 #giftboxchallenge"
+    },
+    {
+      "id": "NLtG-W-V1vI",
+      "channel": "Choosy Sparky",
+      "duration": 1175.0,
+      "title": "CHOOSE YOUR GIFT 🎁😍😭 8 PERFECT GIFT BOX CHALLENGE ❤️"
+    },
+    {
+      "id": "dVkRg5aI-bc",
+      "channel": "prime box",
+      "duration": 1094.0,
+      "title": "Choose Your Gift 4 🎁😍🩷💙  Gift Box 4   Choose One Gift  Gift Challenge | Prime Box 👑"
+    },
+    {
+      "id": "FrMS-YIwuE4",
+      "channel": "Choosy Sparky",
+      "duration": 1500.0,
+      "title": "CHOOSE YOUR GIFT 🎁😭 12 BOX EXTREME EDITION | SURVIVE ALL 6 ROUNDS? 🔥💔"
+    },
+    {
+      "id": "JUgoIqRiZUc",
+      "channel": "prime box",
+      "duration": 1130.0,
+      "title": "Top 3 Gift Box Options Every Shopper Needs to Know About ! 3 gift box challenge 😜 #giftboxchallenge"
+    }
+  ]
+}

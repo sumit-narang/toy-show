@@ -1,0 +1,54 @@
+{
+  "id": "2020-rio-roller-lumina-quad-skates-blue-pink",
+  "year": 2020,
+  "name": "Rio Roller Lumina Quad Skates - Blue/Pink",
+  "price_eur": 74.95,
+  "price_text": "€74.95",
+  "retailers": [
+    {
+      "name": "GoSk8",
+      "url": "https://gosk8.ie/skates/roller-skates-ireland/kids-quad-roller-skates/rio-roller-lumina-quad-skates-blue-pink"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "https://gosk8.ie/skates/roller-skates-ireland/kids-quad-roller-skates/rio-roller-lumina-quad-skates-blue-pink"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KAXUrmTk3fo",
+      "channel": "Sail & Ski",
+      "duration": 10.0,
+      "title": "Rio Roller Lumina Quad Rollee Skates - blue/pink"
+    },
+    {
+      "id": "zJXRxQJf5v0",
+      "channel": "Skates.co.uk",
+      "duration": 68.0,
+      "title": "The Rio Roller Lumina Quad Roller Skates"
+    },
+    {
+      "id": "AJYaA8447WI",
+      "channel": "Król wrotek",
+      "duration": 76.0,
+      "title": "Rio Roller - Lumina 2020 4k"
+    },
+    {
+      "id": "6BSpSboJqlk",
+      "channel": "Sail & Ski",
+      "duration": 12.0,
+      "title": "Rio Roller Milkshake Quad Skates"
+    },
+    {
+      "id": "vMDyCoLNa3Q",
+      "channel": "The Fly Fifers Podcast",
+      "duration": 1085.0,
+      "title": "Budget Friendly quad Roller Skates for beginners"
+    }
+  ]
+}

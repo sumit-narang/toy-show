@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-baby-music-station",
+  "year": 2017,
+  "name": "ELC Baby Music Station",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "F8hBxGjdC3Q",
+      "channel": "Early Learning Centre",
+      "duration": 103.0,
+      "title": "Early Learning Centre - Key-Boom-Board Musical Toy"
+    },
+    {
+      "id": "GTMLB75LE_A",
+      "channel": "ELC Toys",
+      "duration": 46.0,
+      "title": "Little Senses Lights and Sounds Music Station"
+    },
+    {
+      "id": "w7mJ2YLT4wo",
+      "channel": "Memory Lane Toys",
+      "duration": 75.0,
+      "title": "Early Learning Centre ELC Musical Children's Moving Rabbit 1988 Toy Video"
+    },
+    {
+      "id": "ZBEqSxVAzRo",
+      "channel": "Early Learning Centre",
+      "duration": 46.0,
+      "title": "Little Senses Lights and Sounds Music Station (12 months+) Early Learning Centre"
+    },
+    {
+      "id": "yuJzebJXteA",
+      "channel": "Early Learning Centre",
+      "duration": 46.0,
+      "title": "Little Senses Light and Sound Sensory Walker (6 months+) Early Learning Centre"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-squishmallows-40cm-assort",
+  "year": 2022,
+  "name": "Squishmallows 40cm Assort",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6KNDByJhGgg",
+      "channel": "ccppMedia",
+      "duration": 181.0,
+      "title": "NEW Squishmallows Mystery Squad Blind Box Unboxing with McDonalds World Cup 26 Dolan & Cam"
+    },
+    {
+      "id": "11n15vBLfDI",
+      "channel": "Horog Julien",
+      "duration": 21.0,
+      "title": "Squishmallows Official Kellytoy Laying Hug Mees Squishy Stuffed Toy Animal Many to review"
+    },
+    {
+      "id": "_A5Rjp6ADk8",
+      "channel": "Horog Julien",
+      "duration": 54.0,
+      "title": "Squishmallows Official Kellytoy Set of 8 5 inch Sea Squishmallows (Indie, Orzella, review"
+    },
+    {
+      "id": "45AX3ia2uXI",
+      "channel": "Horog Julien",
+      "duration": 82.0,
+      "title": "Squishmallows Official Kellytoy Box Set of 8 5 inch Food squishmallows (Chanel, review"
+    },
+    {
+      "id": "8Q7rgy0mBbM",
+      "channel": "Horog Julien",
+      "duration": 21.0,
+      "title": "Squishmallows Official Kellytoy Plush 8 Inch Squishy Soft Plush Toy Animals (Matt review"
+    }
+  ]
+}

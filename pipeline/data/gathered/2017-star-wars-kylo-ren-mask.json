@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-kylo-ren-mask",
+  "year": 2017,
+  "name": "Star Wars Kylo Ren Mask",
+  "price_eur": 32.0,
+  "price_text": "€32.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ASoHSeoYzfc",
+      "channel": "Marius Cinematic Universe",
+      "duration": 472.0,
+      "title": "Worth Getting? The Kylo Ren Forged Helmet - Star Wars Galactic Archive Series"
+    },
+    {
+      "id": "JainOV4c6_E",
+      "channel": "DarthEternal",
+      "duration": 119.0,
+      "title": "Kylo Ren Gets His Mask Fixed & The Knights Of Ren |FULL CLIP|"
+    },
+    {
+      "id": "XRMyrbhVgZs",
+      "channel": "Noah with a Z",
+      "duration": 680.0,
+      "title": "kylo ren reforged helmet – galactic archive series Review! My Favorite STARWARS helmet to date!"
+    },
+    {
+      "id": "430KjPw09d4",
+      "channel": "Star Wars Soundtrack",
+      "duration": 35.0,
+      "title": "Kylo Ren Threatens General Hux - 4K Ultra HD - Star Wars: The Force Awakens"
+    },
+    {
+      "id": "QlT-sJLfCPU",
+      "channel": "thelostgirl101",
+      "duration": 211.0,
+      "title": "Kylo Ren Interrogates Rey - Entire Scene"
+    }
+  ]
+}

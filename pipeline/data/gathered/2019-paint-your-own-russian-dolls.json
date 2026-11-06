@@ -1,0 +1,57 @@
+{
+  "id": "2019-paint-your-own-russian-dolls",
+  "year": 2019,
+  "name": "Paint Your Own Russian Dolls",
+  "price_eur": 9.0,
+  "price_text": "€9.00",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/art-sets/paint-your-own-russian-dolls/p/174229"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/art-sets/paint-your-own-russian-dolls/p/174229",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "N_eum5fn6As",
+      "channel": "Moriah Elizabeth",
+      "duration": 1064.0,
+      "title": "Customizing a JUMBO Nesting Doll Set"
+    },
+    {
+      "id": "Ob_K_6NBDqQ",
+      "channel": "Guidecentral English",
+      "duration": 112.0,
+      "title": "How To Paint A Russian Doll In A Non Traditional Way - DIY Crafts Tutorial - Guidecentral"
+    },
+    {
+      "id": "rFULY2at0O4",
+      "channel": "PuddingFishCakes",
+      "duration": 367.0,
+      "title": "DIY: Matryoshka {Nesting} Doll // Polymer Clay Charm Tutorial"
+    },
+    {
+      "id": "-HPN8L2FOZQ",
+      "channel": "Maria Nikolaeva",
+      "duration": 345.0,
+      "title": "How to Paint Russian Nesting Dolls. Master class on painting nesting doll"
+    },
+    {
+      "id": "IG5Z7wc32p8",
+      "channel": "FerdiiMann",
+      "duration": 526.0,
+      "title": "This Project Drove Me Insane! I Tried Painting Russian Nesting Dolls (And They Get Really Tiny)"
+    }
+  ]
+}

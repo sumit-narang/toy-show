@@ -1,0 +1,60 @@
+{
+  "id": "2022-the-calming-caterpillar",
+  "year": 2022,
+  "name": "The Calming Caterpillar",
+  "price_eur": 32.0,
+  "price_text": "€32",
+  "retailers": [
+    {
+      "name": "Tipperarycrystal.ie",
+      "url": "https://www.tipperarycrystal.ie/gifts/irish-heritage/irish-fairy-door-company/soft-toys/the-irish-fairy-door-calming-caterpillar/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.tipperarycrystal.ie/gifts/irish-heritage/irish-fairy-door-company/soft-toys/the-irish-fairy-door-calming-caterpillar/",
+      "title": "The Irish Fairy Door - Calming Caterpillar",
+      "description": "Irish Design-led giftware from Tipperary. Jewellery, Homeware, Candles, Fashion, Handbags & much more. Contemporary and classic ranges. Free Delivery when you spend over €55",
+      "image": "https://cdn11.bigcommerce.com/s-ja9br26eqf/products/2125/images/3538/143241_calming-caterpillar__48618.1655466920.386.513.jpg?c=1",
+      "ld_description": "Weighted%20Soft%20Toy%20and%20Timer%26nbsp%3B%20to%20Help%20Children%20to%20Take%20Control%20of%20Their%20Big%20Overwhelming%20Emotions.%20Whether%20you%20are%20feeling%20sad%2C%20worries%2C%20afraid%20or%20angry%2C%20the%20weighted%20Calming%20Caterpillar%20and%20the%20timer%20have%20been%20infused%20with%20a%20very%20special%20fairy%20magic%20to%20help%20you%20to%20feel%20better%26hellip%3B%20The%20Calming%20Caterpillar%20has%20been%20over%203%20years%20in%20the%20making.%20As%20with%20all%20of%20our%20products%2C%20our%20believers%20were%20central%20to%20how%20it%20came%20to%20be!%20Our%20worry%20plaque%20was%20ground%20breaking%20in%20so%20many%20ways%20and%20it%20came%20as%20a%20result%20of%20parents%20out%20there%20realising%20that%20their%20children%20were%20communicating%20with%20their%20magical%20friend%20and%20letting%20them%20know%20what%20was%20on%20their%20mind.%20Anxiety%20in%20children%20is%20very%20prevalent%20especially%20with%20what%20has%20happened%20over%20the%20last%20year.%20It%20was%20the%20natural%20progression%20to%20design%20a%20product%20that%20could%20help%20children%20when%20their%20big%20emotions%20threaten%20to%20overwhelm%20them.%20Caterpillars%20in%20fairy%20valley%20have%20been%20a%20source%20of%20calm%20for%20all%20fairy-kind%20for%20hundreds%20of%20years%20so%20it%20made%20sense%20that%20their%20magic%20should%20be%20shared%20with%20humans%20too!%20Whether%20a%20child%20is%20feeling%20worried%2C%20angry%2C%20sad%20or%20afraid%20our%20Calmin",
+      "brand": "The Irish Fairy Door Company",
+      "ld_image": "https://cdn11.bigcommerce.com/s-ja9br26eqf/images/stencil/1280x1280/products/2125/3538/143241_calming-caterpillar__48618.1655466920.jpg?c=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2MQ6AUZcbP8",
+      "channel": "Baby Bear ",
+      "duration": 556.0,
+      "title": "Baby Bear | Colorful Caterpillar | Calming Visuals | Gentle Motion Sensory Video For Babies"
+    },
+    {
+      "id": "CMkPAOleKzg",
+      "channel": "Baby Bear ",
+      "duration": 607.0,
+      "title": "Baby Bear | Colorful Caterpillar | Calming Visuals | Gentle Motion Sensory Video For Babies"
+    },
+    {
+      "id": "56XPZmcJGyU",
+      "channel": "PALAZZO BUBS - Stories and Read Alouds for Kids!",
+      "duration": 186.0,
+      "title": "The Very Patient Caterpillar | Calm Animated Storybook by Palazzo Bubs "
+    },
+    {
+      "id": "tYa6OLQHrEc",
+      "channel": "The Old Branch",
+      "duration": 423.0,
+      "title": "Caterpillar Shoes | Sweet rhyming bedtime story for kids!"
+    },
+    {
+      "id": "8K3qYS6MRsw",
+      "channel": "Calm Caterpillar",
+      "duration": 61.0,
+      "title": "Manage Meltdowns with The Calm Caterpillar | Toys for Sensory Seeking Children"
+    }
+  ]
+}

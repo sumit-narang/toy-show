@@ -1,0 +1,54 @@
+{
+  "id": "2022-dj-beat-boxer",
+  "year": 2022,
+  "name": "DJ Beat Boxer",
+  "price_eur": 47.7,
+  "price_text": "€47.70",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/vtech/dj-beat-boxer/162398331.html?cgid=root#q=vtech%2Bdj%2Bbeat%2Bboxer&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/vtech/dj-beat-boxer/162398331.html?cgid=root#q=vtech%2Bdj%2Bbeat%2Bboxer&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-h9U274wZs8",
+      "channel": "Beat-box",
+      "duration": 175.0,
+      "title": "SARO  - Billie Jean"
+    },
+    {
+      "id": "BCfKBdoRyk0",
+      "channel": "VTech Toys ANZ",
+      "duration": 54.0,
+      "title": "DJ Beat Boxer | Demo Video | VTech"
+    },
+    {
+      "id": "qlrpeYdm9Ec",
+      "channel": "BEATPELLA HOUSE",
+      "duration": 169.0,
+      "title": "WING - Dopamine (Official Video) (BEATBOX)"
+    },
+    {
+      "id": "d4tHKtG9xFo",
+      "channel": "JYP Entertainment",
+      "duration": 166.0,
+      "title": "NEXZ(넥스지) \"Beat-Boxer\" M/V"
+    },
+    {
+      "id": "e96HTuoLI5Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "DJ Beat Boxer from VTech Review!"
+    }
+  ]
+}

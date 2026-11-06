@@ -1,0 +1,57 @@
+{
+  "id": "2021-djeco-designer-collection-kit",
+  "year": 2021,
+  "name": "Djeco Designer Collection Kit",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/pages/search-results-page?q=djeco"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/pages/search-results-page?q=djeco",
+      "title": "Search Results",
+      "description": "Search Results",
+      "image": "https://cdn.shopify.com/s/files/1/1980/5665/files/Nimble_fingers_Live_logo_410x_e5308b8d-acb9-41ac-bec0-29e272e60dc9.png?height=628&pad_color=fff&v=1613161081&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ndy4p3Ih4G8",
+      "channel": "Crafts 4 Kids",
+      "duration": 116.0,
+      "title": "Djeco Glitter Boards Dresses at Crafts4Kids"
+    },
+    {
+      "id": "o2yJUZiVvYg",
+      "channel": "Princess Square Channel",
+      "duration": 267.0,
+      "title": "DJECO Stamps Art set: Designing Angel's Dress from DJECO an Elegant Parade"
+    },
+    {
+      "id": "r5j7BtHSD34",
+      "channel": "Crafts 4 Kids",
+      "duration": 35.0,
+      "title": "Djeco Do It Yourself Tie Dye Kit - Sunshine Camp DJ07942"
+    },
+    {
+      "id": "Cs0eCyLC9yk",
+      "channel": "Abitare Kids",
+      "duration": 58.0,
+      "title": "DJECO   The flower garden   Multi activity kits DJ09330"
+    },
+    {
+      "id": "N_U482dcddw",
+      "channel": "LarryPOST comau",
+      "duration": 186.0,
+      "title": "DJECO Decorations"
+    }
+  ]
+}

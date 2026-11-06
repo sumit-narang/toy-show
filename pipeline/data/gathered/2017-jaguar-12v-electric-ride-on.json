@@ -1,0 +1,64 @@
+{
+  "id": "2017-jaguar-12v-electric-ride-on",
+  "year": 2017,
+  "name": "Jaguar 12v Electric Ride On",
+  "price_eur": 179.99,
+  "price_text": "€179.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OGGtUfpbBB0",
+      "channel": "lejouet.ma",
+      "duration": 41.0,
+      "title": "Jaguar F Type Electric Ride On Car 12v"
+    },
+    {
+      "id": "KYajg1OeG0o",
+      "channel": "kidscar ma",
+      "duration": 78.0,
+      "title": "Jaguar F Type Electric Ride On Car 12v"
+    },
+    {
+      "id": "0JC7EM2G8-g",
+      "channel": "kedelbach",
+      "duration": 652.0,
+      "title": "Power Wheels style RC Jaguar F-Type kiddie car review"
+    },
+    {
+      "id": "Q4Jn6u_MAgM",
+      "channel": "Costway",
+      "duration": 46.0,
+      "title": "COSTWAY - 12V Jaguar Kids Ride On Car 🚗 85064279 #costway #kids #toys"
+    },
+    {
+      "id": "BUXM9uPf2r0",
+      "channel": "lejouet.ma",
+      "duration": 21.0,
+      "title": "Jaguar F Type Electric Ride On Car 12v"
+    }
+  ]
+}

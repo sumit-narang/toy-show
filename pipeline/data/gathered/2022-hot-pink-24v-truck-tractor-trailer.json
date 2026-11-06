@@ -1,0 +1,54 @@
+{
+  "id": "2022-hot-pink-24v-truck-tractor-trailer",
+  "year": 2022,
+  "name": "Hot Pink 24V Truck Tractor & Trailer",
+  "price_eur": null,
+  "price_text": "£400",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/truck-pink-tractor"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.emktoys.com/products/truck-pink-tractor"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zsoocn1PSzo",
+      "channel": "Costway",
+      "duration": 31.0,
+      "title": "COSTWAY - 12V Ride on Tractor for Kids 3+ Years Old 🚜 29436508 #costway #kidsactivities #rideoncars"
+    },
+    {
+      "id": "0uQNDoXAVT8",
+      "channel": "Outdoor Toys UK",
+      "duration": 19.0,
+      "title": "Children’s Electric 12V Ride On Tractor With Trailer and Remote"
+    },
+    {
+      "id": "Tuu-dxSfKJE",
+      "channel": "Jess & Obie",
+      "duration": 103.0,
+      "title": "My Honest Review of TEOAYEAH Kids Ride on Tractor with Remote Control"
+    },
+    {
+      "id": "3h1XVmoDIrs",
+      "channel": "Top Pick 3",
+      "duration": 411.0,
+      "title": "Top 3 BEST Power Wheels For 5-10 Year Olds"
+    },
+    {
+      "id": "9mt4gPHcZGk",
+      "channel": "MicksGarage.Com",
+      "duration": 76.0,
+      "title": "Kids 12v Ride On Farm Tractor"
+    }
+  ]
+}

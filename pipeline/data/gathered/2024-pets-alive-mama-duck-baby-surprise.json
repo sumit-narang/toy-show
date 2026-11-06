@@ -1,0 +1,57 @@
+{
+  "id": "2024-pets-alive-mama-duck-baby-surprise",
+  "year": 2024,
+  "name": "Pets Alive Mama Duck & Baby Surprise",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets-alive/pets-alive-mama-duck-and-baby-surprise-by-zuru/p/235052"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets-alive/pets-alive-mama-duck-and-baby-surprise-by-zuru/p/235052",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eaAMVl0Q70o",
+      "channel": "AdventureFun!",
+      "duration": 1499.0,
+      "title": "Zuru Pets Alive Mama Duck Surprise! Mama Duck Has Baby Ducklings, Waddles and Quacks!"
+    },
+    {
+      "id": "D95QEIcpTHs",
+      "channel": "Toy Time Together",
+      "duration": 677.0,
+      "title": "Pets Alive Mama Duck & Baby Surprise by ZURU Unboxing & Playthrough"
+    },
+    {
+      "id": "OEjJlZcJ6X4",
+      "channel": "Carrie's Creatures",
+      "duration": 314.0,
+      "title": "ASMR UNBOXING ZURU PETS Amazing ALIVE MAMA DUCK SURPRISE"
+    },
+    {
+      "id": "ral2hLxdanA",
+      "channel": "ASMR toy4you",
+      "duration": 546.0,
+      "title": "ASMR | UNBOXING ZURU PETS ALIVE MAMA DUCK SURPRISE | An amazing toy"
+    },
+    {
+      "id": "Izmz3oyR9WY",
+      "channel": "ToysNColors",
+      "duration": 130.0,
+      "title": "Zuru Pets Alive mamma duck and baby surprise @AmandaDidArt"
+    }
+  ]
+}

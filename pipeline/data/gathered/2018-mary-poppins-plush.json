@@ -1,0 +1,57 @@
+{
+  "id": "2018-mary-poppins-plush",
+  "year": 2018,
+  "name": "Mary Poppins Plush",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EiO6A5_JOeU",
+      "channel": "BBToyStore",
+      "duration": 128.0,
+      "title": "Disney MARY POPPINS Movie Bean Bags (Set of 4) Stuffed Plush Value Toy Review - BBToyStore.com"
+    },
+    {
+      "id": "aWkMh_RhEa8",
+      "channel": "Jolly Holiday with Mary",
+      "duration": 914.0,
+      "title": "My MARY POPPINS COLLECTION | Plushes, Pins, Ornaments, Collectibles, Snow Globes, Vintage Disney"
+    },
+    {
+      "id": "GT0HtAAG1N0",
+      "channel": "KiplingUSA",
+      "duration": 15.0,
+      "title": "Disney Mary Poppins Return"
+    },
+    {
+      "id": "2uhJL6dq3YY",
+      "channel": "lizeindisney",
+      "duration": 1047.0,
+      "title": "MARY POPPINS COLLECTION | Disney Collection"
+    },
+    {
+      "id": "x8PVKkBnIkw",
+      "channel": "HSN",
+      "duration": 314.0,
+      "title": "\"Mary Poppins Returns\" Plush Throw"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-in-a-bubble-kit",
+  "year": 2019,
+  "name": "In-A-Bubble Kit",
+  "price_eur": 147.58,
+  "price_text": "€147.58",
+  "retailers": [
+    {
+      "name": "Dr. Zigs",
+      "url": "https://drzigs.com/products/in-a-bubble-kib"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://drzigs.com/",
+      "title": "Eco-Friendly Giant Bubble Kits and Ethical Gifts | Dr Zigs",
+      "description": "Shop eco-friendly giant bubble kits, plant-based bubble mix and ethical Christmas gifts. Dr Zigs is proudly pro-Palestine and stands for children’s rights.",
+      "image": "https://cdn.shopify.com/s/files/1/0022/5466/7835/files/Kids_Having_Fun_with_Dr_Zigs_Bubbles.png?v=1656622975"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dQMurFD7Guo",
+      "channel": "Bubbly Heaven",
+      "duration": 90.0,
+      "title": "TOP PICK: Stand Inside a Bubble! | Kid In a Bubble Kit"
+    },
+    {
+      "id": "2bQ42Hq1yv0",
+      "channel": "The Bubble Lady",
+      "duration": 106.0,
+      "title": "Giant Bubble Kit"
+    },
+    {
+      "id": "UEuFi9PxKuo",
+      "channel": "The Mindfulness Teacher",
+      "duration": 243.0,
+      "title": "Bubble Bounce! Mindfulness for Children (Mindful Looking)"
+    },
+    {
+      "id": "85pGuIqM6LM",
+      "channel": "Uncle Bubble EU",
+      "duration": 160.0,
+      "title": "The Professional Bubbleology Kit from Uncle Bubble"
+    },
+    {
+      "id": "SCaHiYw14kc",
+      "channel": "Bubbly Heaven",
+      "duration": 190.0,
+      "title": "Stand Inside a Giant Bubble! | Kid in a Bubble Kit - How to use the wand - Demo"
+    }
+  ]
+}

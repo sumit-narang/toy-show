@@ -1,0 +1,57 @@
+{
+  "id": "2021-drift-24v-electric-ride-on-go-kart",
+  "year": 2021,
+  "name": "Drift 24V Electric Ride On Go Kart",
+  "price_eur": 349.95,
+  "price_text": "€349.95",
+  "retailers": [
+    {
+      "name": "FunStuff.ie",
+      "url": "https://www.funstuff.ie/drift-24v-electric-ride-on-go-kart-red/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/drift-24v-electric-ride-on-go-kart-with-upgraded-200w-motors-red/",
+      "title": "Drift 24V Electric Ride On Go Kart with Upgraded 200w Motors Red",
+      "description": "Shop now for Drift 24V Electric Ride On Go Kart Red at Funstuff.ie. Best kids electric ride on go kart Ireland UK.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1100/images/15938/funstuff-drift-24v-electric-ride-on-go-kart-with-upgraded-200w-motors-red__37557.1789106971.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ICkQkfqgrz0",
+      "channel": "Joey & Martyn",
+      "duration": 62.0,
+      "title": "Hyper Drift Go Kart 24V Electric Ride On"
+    },
+    {
+      "id": "NeJY8IsiRIQ",
+      "channel": "Eric The Cheeseman ",
+      "duration": 99.0,
+      "title": "RiiRoo - 24v McLaren Drift Kart - Speed and drift demo!"
+    },
+    {
+      "id": "yENvfEzvVJ0",
+      "channel": "Voltz Toys",
+      "duration": 78.0,
+      "title": "GoKart｜24V Outdoor Racer Drifter for Kids｜Voltz Kids"
+    },
+    {
+      "id": "BHEER-PlJJ8",
+      "channel": "Manar Jackson",
+      "duration": 252.0,
+      "title": "24V Electric Go Kart for Kids Age 6-12, 360° Spin Drift Cart, Black"
+    },
+    {
+      "id": "EdqjGo4hF30",
+      "channel": "The Khan Life",
+      "duration": 439.0,
+      "title": "24V Drift Go-Karts on Amazon!"
+    }
+  ]
+}

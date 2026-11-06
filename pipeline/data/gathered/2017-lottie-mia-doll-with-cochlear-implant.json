@@ -1,0 +1,57 @@
+{
+  "id": "2017-lottie-mia-doll-with-cochlear-implant",
+  "year": 2017,
+  "name": "Lottie Mia Doll with Cochlear Implant",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "lottie.com",
+      "url": "http://lottie.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lottie.com/",
+      "title": "Lottie Dolls Toys Clothes & Playsets | Arklu",
+      "description": "Official Lottie website, shop dolls, accessories, doll clothes, pets, toy horses, doll houses, stables and more today!",
+      "image": "http://www.lottie.com/cdn/shop/t/13/assets/logo.png?v=158799498952555539171509011606"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Id6H0g91VJI",
+      "channel": "MotherGeek",
+      "duration": 320.0,
+      "title": "Wildlife Photographer Mia Doll"
+    },
+    {
+      "id": "KlW_nKI_gdQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 99.0,
+      "title": "Lottie Dolls from Arklu"
+    },
+    {
+      "id": "o4biBNRzoqo",
+      "channel": "Kewpie83",
+      "duration": 496.0,
+      "title": "Dolly Review: Wildlife Photographer Mia, Lottie's Friend, Plus Bee Yourself Outfit"
+    },
+    {
+      "id": "3FC3n75qYnY",
+      "channel": "Life Express",
+      "duration": 323.0,
+      "title": "Lottie Dolls’ new doll has a cochlear implant – which is great for children with hearing impairments"
+    },
+    {
+      "id": "BOwVJIwYdrU",
+      "channel": "deafdirect",
+      "duration": 107.0,
+      "title": "#Toylikeme"
+    }
+  ]
+}

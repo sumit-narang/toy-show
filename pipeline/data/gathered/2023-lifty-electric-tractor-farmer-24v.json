@@ -1,0 +1,54 @@
+{
+  "id": "2023-lifty-electric-tractor-farmer-24v",
+  "year": 2023,
+  "name": "Lifty Electric Tractor Farmer 24V",
+  "price_eur": 799.99,
+  "price_text": "€799.99",
+  "retailers": [
+    {
+      "name": "Lifty Electric",
+      "url": "https://lifty.co/products/lifty-electric-farmer-24v?_pos=1&_psq=Lifty+Electric+Tractor+Farmer+24V&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.liftyelectric.com/products/lifty-electric-tractor-farmer-24v?_pos=1&_psq=Lifty%20Electric%20Tractor%20Farmer%2024V&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KmWnRGp9Sh8",
+      "channel": "BenjaminNelson",
+      "duration": 412.0,
+      "title": "Electric Motor for Farm Tractor EV Conversion"
+    },
+    {
+      "id": "I8HFLsj-E24",
+      "channel": "Claus Sørensen",
+      "duration": 29.0,
+      "title": "Peg Perego John Deere Tractor 12v to 18v Milwaukee battery"
+    },
+    {
+      "id": "kccGqO9ChJw",
+      "channel": "www.joy4kids.eu",
+      "duration": 91.0,
+      "title": "Traktor na akumulator BLT-206 moc 400 WAT bateria 24V"
+    },
+    {
+      "id": "oxhi4GzIoIo",
+      "channel": "cautop official",
+      "duration": 16.0,
+      "title": "1000kg Smart Electric Towing Vehicle Tuggers Tractor, Electric Tractor, Towing Tractor"
+    },
+    {
+      "id": "z5hvg0cTLJU",
+      "channel": "Gadgeteer Farm",
+      "duration": 634.0,
+      "title": "24V But My Skylift Is Still Dead"
+    }
+  ]
+}

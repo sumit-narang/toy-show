@@ -1,0 +1,57 @@
+{
+  "id": "2019-pok-mon-let-s-go-pikachu-nintendo-switch",
+  "year": 2019,
+  "name": "Pokémon: Let's Go Pikachu (Nintendo Switch)",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/pokemon-gaming/pok%c3%a9mon-let-s-go-pikachu-nintendo-switch/p/168351"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/pokemon-gaming/pok%C3%A9mon-let-s-go-pikachu-nintendo-switch/p/168351",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dqd8NQpRC-A",
+      "channel": "IGN",
+      "duration": 324.0,
+      "title": "Pokemon: Let's Go, Pikachu and Eevee Review"
+    },
+    {
+      "id": "XwTo6YIX36E",
+      "channel": "Nintendo Life",
+      "duration": 697.0,
+      "title": "Pokémon Let's Go Pikachu! & Eevee! Nintendo Switch Review - Are They Worth It?"
+    },
+    {
+      "id": "7fRtfwj8UNU",
+      "channel": "gameranx",
+      "duration": 400.0,
+      "title": "Pokémon: Let's Go, Pikachu! / Let's Go, Eevee! - Before You Buy"
+    },
+    {
+      "id": "ssfvYAJ6BRE",
+      "channel": "FCPlaythroughs",
+      "duration": 77609.0,
+      "title": "Pokémon: Let's Go, Pikachu! playthrough ~Longplay~"
+    },
+    {
+      "id": "L56q_k2ydrs",
+      "channel": "Nintendo of America",
+      "duration": 93.0,
+      "title": "Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, Eevee! - Nintendo Switch"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2020-yoto-player-audiobook-player",
+  "year": 2020,
+  "name": "Yoto Player Audiobook Player",
+  "price_eur": null,
+  "price_text": "£79.99",
+  "retailers": [
+    {
+      "name": "Yoto",
+      "url": "https://www.yotoplay.com/pages/player"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://eu.yotoplay.com/players/yoto-player-4",
+      "title": "Yoto Player - The Screen-Free Audio Platform for Children",
+      "description": "Yoto Player 4th Gen – Our ultimate kids audio player for screen-free listening - built for family life. New Green Button, night light and 1,000 hours of storage.",
+      "image": null,
+      "ld_description": "None",
+      "brand": "Yoto Player 4th Gen",
+      "ld_image": "https://cdn.shopify.com/s/files/1/0398/4202/1535/files/UK-Player-4-Basket_903b8c53-7f1a-433c-8be3-daa5c6dcd774_1200x630.png?v=1788981722"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bP633-Xu1sg",
+      "channel": "Kevin Lu",
+      "duration": 589.0,
+      "title": "The Secret to Unlimited Yoto Audiobooks (No More Expensive Cards!)"
+    },
+    {
+      "id": "9n7jiLKkZqg",
+      "channel": "Joshua Garms",
+      "duration": 192.0,
+      "title": "How to get FREE audiobooks on a Yoto Player!"
+    },
+    {
+      "id": "1KXT0_GVgxw",
+      "channel": "Tried At Home Reviews",
+      "duration": 399.0,
+      "title": "We Tested Yoto for 2 Months — Here's What a 9-Year-Old Actually Thinks"
+    },
+    {
+      "id": "AULa32e4Elo",
+      "channel": "Kevin Lu",
+      "duration": 386.0,
+      "title": "Budget Audio Device for Kids | Yoto Mini Alternative?"
+    },
+    {
+      "id": "HTKcAoYn2uo",
+      "channel": "Kevin Lu",
+      "duration": 545.0,
+      "title": "Unlocking Yoto's Potential: Linking Music and Audiobooks to Create Custom Cards"
+    }
+  ]
+}

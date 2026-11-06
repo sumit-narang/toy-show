@@ -1,0 +1,54 @@
+{
+  "id": "2023-barbie-cutie-reveal-selection",
+  "year": 2023,
+  "name": "Barbie Cutie Reveal Selection",
+  "price_eur": 35.99,
+  "price_text": "€35.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/barbie-cutie-reveal-cozy-cute-tees-lamb/1600873536.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/barbie-cutie-reveal-cozy-cute-tees-lamb/1600873536.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ztDW-gESCuk",
+      "channel": "Empress Candace",
+      "duration": 1738.0,
+      "title": "Barbie Cutie Reveal Review | Lamb, Kitten & Bunny | Honest Adult Collector Opinions"
+    },
+    {
+      "id": "fUWbBFtCjqM",
+      "channel": "Unboxing Xtra",
+      "duration": 3507.0,
+      "title": "ASMR Barbie CUTIE COLOR REVEAL DOLLS Unboxing Toys OVER 100 SURPRISES ‼️"
+    },
+    {
+      "id": "wSQp5Cowjkc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 95.0,
+      "title": "Barbie Cutie Reveal Doll from Mattel Unboxing + Review!"
+    },
+    {
+      "id": "kUMfgO1n81E",
+      "channel": "miss Aga",
+      "duration": 916.0,
+      "title": "GLITTER ✨ Barbie and Chelsea Color Reveal 💦 COLORFUL SURPRISE DOLLS"
+    },
+    {
+      "id": "-9_XFBbY8yc",
+      "channel": "toohunky toys",
+      "duration": 931.0,
+      "title": "BARBIE DOLL FASHION FUN: CUTIE COLOR REVEAL FASHIONISTAS 86 WWE SUPERSTAR RE BODY REVIEW COMPARISON"
+    }
+  ]
+}

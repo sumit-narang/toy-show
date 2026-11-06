@@ -1,0 +1,54 @@
+{
+  "id": "2019-the-most-marvellous-fantastical-wondrous-magic-tricks",
+  "year": 2019,
+  "name": "The Most Marvellous Fantastical Wondrous Magic Tricks",
+  "price_eur": 34.0,
+  "price_text": "€34.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/the-most-fantastical-wondrous-box-of-magic-tricks/1600415123.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/the-most-fantastical-wondrous-box-of-magic-tricks/1600415123.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w4iKrrXUeN0",
+      "channel": "Got Talent Shorts",
+      "duration": 6651.0,
+      "title": "Top 20 Magicians Who Shocked America’s Got Talent!"
+    },
+    {
+      "id": "cBuZ3vqJprs",
+      "channel": "Magician's Got Talent",
+      "duration": 3470.0,
+      "title": "15 Unbelievable Magic Tricks on Got Talent!"
+    },
+    {
+      "id": "PZ0Y10lG_aI",
+      "channel": "Got Talent Shorts",
+      "duration": 9965.0,
+      "title": "30 Greatest Magicians EVER on Got Talent!"
+    },
+    {
+      "id": "PGcdQCq9MvI",
+      "channel": "The Jonathan Ross Show",
+      "duration": 294.0,
+      "title": "Dynamo Performs Magic Tricks | The Jonathan Ross Show"
+    },
+    {
+      "id": "vQQVJvY6hb0",
+      "channel": "America's Got Talent",
+      "duration": 1388.0,
+      "title": "Wow! These Magic Tricks Will Blow Your Mind - America's Got Talent: The Champions"
+    }
+  ]
+}

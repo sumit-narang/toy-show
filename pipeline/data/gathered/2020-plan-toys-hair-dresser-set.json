@@ -1,0 +1,53 @@
+{
+  "id": "2020-plan-toys-hair-dresser-set",
+  "year": 2020,
+  "name": "Plan Toys Hair Dresser Set",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dkUe8J1X7sM",
+      "channel": "PlanToys",
+      "duration": 23.0,
+      "title": "PlanToys | Hair Dresser Set"
+    },
+    {
+      "id": "ywUZzp4EJBg",
+      "channel": "Happy Babies",
+      "duration": 40.0,
+      "title": "PlanToys - Set per spremuta – Juicer Set"
+    },
+    {
+      "id": "SbrLP-O2pDI",
+      "channel": "Modern Brands",
+      "duration": 23.0,
+      "title": "PlanToys | Hair Dresser Set"
+    },
+    {
+      "id": "Vdgz2NDoudQ",
+      "channel": "Sprzedaż Smartoys",
+      "duration": 23.0,
+      "title": "3492 Hair Dresser Set VDO Plan Toys"
+    },
+    {
+      "id": "L_ekcAtcWwM",
+      "channel": "PlanToys",
+      "duration": 60.0,
+      "title": "PlanToys | PlanWorld"
+    }
+  ]
+}

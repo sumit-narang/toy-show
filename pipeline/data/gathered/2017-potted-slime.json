@@ -1,0 +1,64 @@
+{
+  "id": "2017-potted-slime",
+  "year": 2017,
+  "name": "Potted Slime",
+  "price_eur": 2.99,
+  "price_text": "€2.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8y2tMSdRjpw",
+      "channel": "RainbowToyTocToc",
+      "duration": 603.0,
+      "title": "Satisfying Video l Mixing All My Slime Smoothie l Making Glossy Slime ASMR RainbowToyTocToc"
+    },
+    {
+      "id": "0MpoVgSlCKw",
+      "channel": "Daisy Slime Mixing",
+      "duration": 778.0,
+      "title": "Unicorn Rainbow Slime Mixing Random Cute,shiny things into slime #ASMR #Satisfying #slimevideos #슬라임"
+    },
+    {
+      "id": "rYXPAS17hks",
+      "channel": "Tom Slime",
+      "duration": 669.0,
+      "title": "MIXING ALL MY SLIMES!! SLIMESMOOTHIE! SATISFYING SLIME ! #7"
+    },
+    {
+      "id": "6nkxr6am7q8",
+      "channel": "ASMR Slime Makeup",
+      "duration": 1301.0,
+      "title": "BLUEBERRY SLIME. Mixing makeup and glitter into Clear Slime. ASMR Satisfying Slime Videos 1080p."
+    },
+    {
+      "id": "k6698zlm6m8",
+      "channel": "jenny slime",
+      "duration": 423.0,
+      "title": "Mixing \"NAON PINK\" Makeup,Parts,glitter... Into Slime! \"NAONPINKHOLIC\""
+    }
+  ]
+}

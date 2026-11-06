@@ -1,0 +1,57 @@
+{
+  "id": "2021-jiggly-pets-tan-tan-the-orangutang",
+  "year": 2021,
+  "name": "Jiggly Pets Tan Tan the Orangutang",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A2qxXVtqWJs",
+      "channel": "Fun Fam",
+      "duration": 115.0,
+      "title": "Tan Tan the Orangutan Jiggly Pet Dancing FUN with Tahlia"
+    },
+    {
+      "id": "C5abd_Hewwk",
+      "channel": "Character Toys",
+      "duration": 21.0,
+      "title": "Jiggly Pets - Tan Tan The Orangutan"
+    },
+    {
+      "id": "zgzTbe56HXo",
+      "channel": "Lindsey's Toys",
+      "duration": 78.0,
+      "title": "Jiggly Pets Tan Tan the Orangutan Kids Toys Interactive Toy with Motion & Sounds Electronic Toy"
+    },
+    {
+      "id": "72tr3naqVu8",
+      "channel": "Freddie griffiths",
+      "duration": 28.0,
+      "title": "smyths toys -￼ jiggly pets tan tan the orangutan"
+    },
+    {
+      "id": "yCpftHP6lzk",
+      "channel": "5050 Games",
+      "duration": 20.0,
+      "title": "Jiggly Pets Μαλλιαρόζωάκια Ταν-Ταν Ουρακοτάγκος JP008R"
+    }
+  ]
+}

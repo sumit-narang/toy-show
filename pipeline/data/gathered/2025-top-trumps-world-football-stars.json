@@ -1,0 +1,57 @@
+{
+  "id": "2025-top-trumps-world-football-stars",
+  "year": 2025,
+  "name": "Top Trumps: World Football Stars",
+  "price_eur": 7.19,
+  "price_text": "€7.19",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/search?q=Top%20Trumps%3A%20World%20Football%20Stars%20Top%20200&category=Games%20and%20Toys"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/search?q=Top%20Trumps%3A%20World%20Football%20Stars%20Top%20200&category=Games%20and%20Toys",
+      "title": "Search",
+      "description": "Search",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Bt8vby49zyg",
+      "channel": "Embodily Insights",
+      "duration": 35.0,
+      "title": "Top trumps world soccer stars card game"
+    },
+    {
+      "id": "bzRt49ZiCHU",
+      "channel": "442oons",
+      "duration": 487.0,
+      "title": "WORLD CUP CLASH🏆 The Top 200 World Football Stars!"
+    },
+    {
+      "id": "HadgDeNbzks",
+      "channel": "Official Top Trumps",
+      "duration": 49.0,
+      "title": "World Football Stars Top Trumps Match Board Game - How to Play"
+    },
+    {
+      "id": "yhekX2w-MqQ",
+      "channel": "Winning Moves UK Ltd",
+      "duration": 49.0,
+      "title": "World Football Stars Top Trumps Match Board Game - How to Play"
+    },
+    {
+      "id": "D9pBjU2rTHo",
+      "channel": "The Entertainer",
+      "duration": 54.0,
+      "title": "Top Trumps World Football Stars Top 200 Starter Pack Card Game"
+    }
+  ]
+}

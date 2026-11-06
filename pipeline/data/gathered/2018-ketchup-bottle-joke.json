@@ -1,0 +1,57 @@
+{
+  "id": "2018-ketchup-bottle-joke",
+  "year": 2018,
+  "name": "Ketchup Bottle Joke",
+  "price_eur": 3.0,
+  "price_text": "€3.00",
+  "retailers": [
+    {
+      "name": "The Silly Shop",
+      "url": "http://www.thesillyshop.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://www.thesillyshop.ie/",
+      "title": "LetsHost - domain is registered",
+      "description": "LetsHost - Holding Page - Your Domain Has Been Successfully Registered!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4uuvQ8xDag4",
+      "channel": "MK Hobbies",
+      "duration": 50.0,
+      "title": "Heinz Ketchup Funny Commercial - Very Inappropriate"
+    },
+    {
+      "id": "mlic1MM4f7M",
+      "channel": "Bits of Real Panther",
+      "duration": 87.0,
+      "title": "MIRACLE MEDICINE KETCHUP [] Funny Joke of the Day!"
+    },
+    {
+      "id": "m5lgNHCxSv8",
+      "channel": "CLIPADAY",
+      "duration": 38.0,
+      "title": "Ketchup Prank"
+    },
+    {
+      "id": "xNOXMaskdIU",
+      "channel": "comedydork",
+      "duration": 116.0,
+      "title": "Comedians in Cars with Joel Hodgson - Funny Ketchup Business PR Meeting"
+    },
+    {
+      "id": "Ab47umgoLrk",
+      "channel": "Saturday Night Live",
+      "duration": 115.0,
+      "title": "Heinz - SNL"
+    }
+  ]
+}

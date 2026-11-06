@@ -1,0 +1,57 @@
+{
+  "id": "2023-edx-joey-jump-bean-bag-game",
+  "year": 2023,
+  "name": "EDX Joey Jump Bean Bag Game",
+  "price_eur": 34.5,
+  "price_text": "€34.50",
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/products/edx-joey-jump-bean-bag-game?_pos=1&_sid=132d0c332&_ss=r"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/home?_pos=1&_sid=132d0c332&_ss=r",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kKhdcR6KnAo",
+      "channel": "TTPM Toy Reviews",
+      "duration": 128.0,
+      "title": "Joey Jump Bean Bag Game from Edx Education Instructions + Review!"
+    },
+    {
+      "id": "9Sg6ADMCNQU",
+      "channel": "Family Friendly Entertainment, Inc",
+      "duration": 36.0,
+      "title": "Joey Jump Carnival Game"
+    },
+    {
+      "id": "zdmkEGTtahg",
+      "channel": "Laura Harper",
+      "duration": 131.0,
+      "title": "stuffed puppy dodgeball!"
+    },
+    {
+      "id": "mDaLakfLdF8",
+      "channel": "Bridges for the Deaf and Hard of Hearing",
+      "duration": 173.0,
+      "title": "Trunk or Treat 2022 with BridgesTN & BridgesWEST"
+    },
+    {
+      "id": "zEgUONwczjQ",
+      "channel": "Red Toolbox",
+      "duration": 20.0,
+      "title": "Stanley Jr. -  toolBox"
+    }
+  ]
+}

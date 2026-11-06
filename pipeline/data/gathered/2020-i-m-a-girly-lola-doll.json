@@ -1,0 +1,60 @@
+{
+  "id": "2020-i-m-a-girly-lola-doll",
+  "year": 2020,
+  "name": "I'M A GIRLY Lola Doll",
+  "price_eur": 107.22,
+  "price_text": "€107.22",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/im-a-girly/im-a-girly/lucy-doll/147928153.html?cgid=im-a-girly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/im-a-girly/im-a-girly/lucy-doll/147928153.html?cgid=im-a-girly",
+      "title": "IM A GIRLY Lucy Doll - MULTI",
+      "description": "The Im A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each dolls hair is interchangeable so you can create new styles. Meet Lucy. She is passionate about singing and dancing and loves going to concerts. Comes dressed in this blue dress, on trend trainers and faux leather jacket.",
+      "image": "https://images.brownthomas.com/bta/2000105946_01.jpg?$product_tile_plp$",
+      "ld_description": "The I'm A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each doll's hair is interchangeable so you can create new styles. Meet Lucy. She is passionate about singing and dancing and loves going to concerts. Comes dressed in this blue dress, on trend trainers and faux leather jacket.",
+      "brand": "I'M A GIRLY",
+      "ld_image": "https://images.brownthomas.com/bta/2000105946_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "M1JT-x6IRpY",
+      "channel": "I'M A GIRLY",
+      "duration": 78.0,
+      "title": "I'M A GIRLY fashion doll considered to be one of the Hottest Summer Toys 2020!"
+    },
+    {
+      "id": "Qyg9dtEKK3o",
+      "channel": "RubyRed’s World Of Dolls",
+      "duration": 1947.0,
+      "title": "I'm A Girly, Kayla, Adult Doll Collector Review"
+    },
+    {
+      "id": "9-JGdWZKTcM",
+      "channel": "Riri's Playland",
+      "duration": 299.0,
+      "title": "I AM GIRLY “Lola” Doll Head Review | Riri’s Playland"
+    },
+    {
+      "id": "sSoqR__Wfc8",
+      "channel": "Wade Cuevas",
+      "duration": 129.0,
+      "title": "I'm A Girly Fashion Doll Lola w// Purple Interchangeable Removable Synthetic Wig to review"
+    },
+    {
+      "id": "ZL6vTsuoIPY",
+      "channel": "Love Ro&Ra",
+      "duration": 1048.0,
+      "title": "How To Use The I'm A Stylist Lola Dolls Styling Head by I'm A Girly Brand (advert-gifted)"
+    }
+  ]
+}

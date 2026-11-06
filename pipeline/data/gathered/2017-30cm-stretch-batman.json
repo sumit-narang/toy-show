@@ -1,0 +1,64 @@
+{
+  "id": "2017-30cm-stretch-batman",
+  "year": 2017,
+  "name": "30cm Stretch Batman",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "U5mbrvS5EZw",
+      "channel": "Noah's family fun adventures official",
+      "duration": 236.0,
+      "title": "Unboxing Batman rebirth action figure"
+    },
+    {
+      "id": "YXAJBGb9vmY",
+      "channel": "Let's Play // Best of Toys & Games",
+      "duration": 106.0,
+      "title": "Top 10 Batman Stuffed Toys [2018]: Animal Adventure Batman Plush DC Comics Justice League,"
+    },
+    {
+      "id": "xNEA0lBOG_w",
+      "channel": "CABINHO TV",
+      "duration": 217.0,
+      "title": "What's inside Stretch Armstrong ?"
+    },
+    {
+      "id": "QSAuiFGNnCQ",
+      "channel": "Jimbo",
+      "duration": 22.0,
+      "title": "DC figurka Superman 30 cm | 360 video"
+    },
+    {
+      "id": "ZO7QB6H3nbE",
+      "channel": "Armagan Oyuncak",
+      "duration": 16.0,
+      "title": "Batman Aksiyon Figürleri 30 cm"
+    }
+  ]
+}

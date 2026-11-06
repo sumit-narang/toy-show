@@ -1,0 +1,54 @@
+{
+  "id": "2019-hazard-farm-with-billy-and-lilly",
+  "year": 2019,
+  "name": "Hazard Farm with Billy and Lilly",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Little Red Design Studio",
+      "url": "https://littlereddesignstudio.com/products/hazard-farm-childrens-book"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://littlereddesignstudio.com/products/hazard-farm-childrens-book"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NKHDMwc7pGM",
+      "channel": "Paisley's Corner - Educational Videos for Kids",
+      "duration": 1765.0,
+      "title": "Silly Miss Lily Explores a Fall Festival at Dewberry Farm! 🎃 Farm Animals, Rides & Giant Slides"
+    },
+    {
+      "id": "nbG1FaGn4TI",
+      "channel": "Paisley's Corner - Educational Videos for Kids",
+      "duration": 10209.0,
+      "title": "Toddler Learning at the Farm with Silly Ms Lily | Learn Colors, Counting & First Words for Toddlers"
+    },
+    {
+      "id": "ZCtQdALo9DI",
+      "channel": "Billy Strings",
+      "duration": 418.0,
+      "title": "Billy Strings - \"Gild the Lily\" (Apple Music Sessions)"
+    },
+    {
+      "id": "DKvwetjxOTE",
+      "channel": "Billy Strings",
+      "duration": 419.0,
+      "title": "Billy Strings - Gild the Lily (Apple Music Sessions)"
+    },
+    {
+      "id": "9R-q1Mn77q8",
+      "channel": "Paisley's Corner - Educational Videos for Kids",
+      "duration": 1263.0,
+      "title": "Silly Miss Lily Visits Cheeky Monkeys Indoor Playground for Kids | Play Pretend + Videos For Kids"
+    }
+  ]
+}

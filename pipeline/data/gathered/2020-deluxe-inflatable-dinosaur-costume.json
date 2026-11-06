@@ -1,0 +1,54 @@
+{
+  "id": "2020-deluxe-inflatable-dinosaur-costume",
+  "year": 2020,
+  "name": "Deluxe Inflatable Dinosaur Costume",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "The Costume Shop.ie",
+      "url": "https://www.thecostumeshop.ie/kids-costumes/kids-deluxe-inflatable-dinosaur-costume.html"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thecostumeshop.ie/kids-costumes/kids-deluxe-inflatable-dinosaur-costume.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jilWmfEhBRQ",
+      "channel": "Lucas' Inflatable Dinosaur Costume Channel",
+      "duration": 587.0,
+      "title": "Deluxe Inflatable T-rex Costume II"
+    },
+    {
+      "id": "gePMFqbJENY",
+      "channel": "Just A Dad Tips",
+      "duration": 98.0,
+      "title": "Rubie's Adult Inflatable T-REX Dinosaur Costume REVIEW"
+    },
+    {
+      "id": "b-jt3TLQlRo",
+      "channel": "Jett's TV",
+      "duration": 263.0,
+      "title": "Morph Costumes Inflatable T-Rex Funny Video"
+    },
+    {
+      "id": "7icjoINvoSo",
+      "channel": "LuiDeez",
+      "duration": 470.0,
+      "title": "Inflatable T-Rex Costume Unboxing and Review"
+    },
+    {
+      "id": "tbXK3Qh2oZg",
+      "channel": "I Want It",
+      "duration": 49.0,
+      "title": "Halloween Costumes | Rubie's Adult Official Jurassic World Inflatable Dinosaur Costume"
+    }
+  ]
+}

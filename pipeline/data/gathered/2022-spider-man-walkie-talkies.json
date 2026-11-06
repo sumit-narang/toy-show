@@ -1,0 +1,57 @@
+{
+  "id": "2022-spider-man-walkie-talkies",
+  "year": 2022,
+  "name": "Spider-Man Walkie Talkies",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/spider-man-walkie-talkie/p/171612"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/spider-man-walkie-talkie/p/171612",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oqfLzxkQVCg",
+      "channel": "Tech Girl Toy Reviews",
+      "duration": 256.0,
+      "title": "Spider-Man walkie talkies (long range) | Tech Girl Toy Reviews"
+    },
+    {
+      "id": "LgrwA34Os9E",
+      "channel": "TTN",
+      "duration": 101.0,
+      "title": "SPIDER-MAN Walkie Talkies REVIEW!"
+    },
+    {
+      "id": "HO-0FSg43ic",
+      "channel": "Everything Home",
+      "duration": 45.0,
+      "title": "Best Gifts for Little Boys: Spiderman Walkie Talkies"
+    },
+    {
+      "id": "ZB_R9LsiwFo",
+      "channel": "Yousef12",
+      "duration": 982.0,
+      "title": "Unboxing marvel spider-man walkie talkies Part 1 of 2"
+    },
+    {
+      "id": "niEBirHwo1M",
+      "channel": "ToyGoody",
+      "duration": 129.0,
+      "title": "Spiderman walkie talkie surprise"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2022-fisher-price-dj-bouncin-beats",
+  "year": 2022,
+  "name": "Fisher Price DJ Bouncin' Beats",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/mthjp92"
+    },
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/mthjp92"
+    },
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eqInA8MTJL0",
+      "channel": "Smyths Toys Superstores",
+      "duration": 32.0,
+      "title": "Fisher-Price DJ Bouncin’ Star and DJ Bouncin Beats - Smyths Toys"
+    },
+    {
+      "id": "mxJjQw8JGWA",
+      "channel": "Dehlers Deals",
+      "duration": 52.0,
+      "title": "Fisher Price DJ Bouncin' Beats Interactive Musical Learning Toy Tested Works"
+    },
+    {
+      "id": "rTlWg9WlHho",
+      "channel": "Fisher-Price®",
+      "duration": 156.0,
+      "title": "Jump & Learn with DJ Bouncin’ Beats | Fisher-Price"
+    },
+    {
+      "id": "Hfq2PKs5OxU",
+      "channel": "Jas baby stuff ",
+      "duration": 148.0,
+      "title": "Kids-toys ​Fisher-Price DJ Bouncin’ Beats  Interactive Musical Learning Toy with Lights & Bouncing"
+    },
+    {
+      "id": "RRXCf91Q37I",
+      "channel": "Jaxen Ross is b-a-c-k! | Reels & Ruins",
+      "duration": 359.0,
+      "title": "Fisher Price DJ Bouncin’ Beats Destruction"
+    }
+  ]
+}

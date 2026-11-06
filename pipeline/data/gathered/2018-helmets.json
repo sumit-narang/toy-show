@@ -1,0 +1,70 @@
+{
+  "id": "2018-helmets",
+  "year": 2018,
+  "name": "Helmets",
+  "price_eur": null,
+  "price_text": "various prices",
+  "retailers": [
+    {
+      "name": "gosk8.ie",
+      "url": "http://gosk8.ie"
+    },
+    {
+      "name": "Eurocycles",
+      "url": "http://eurocycles.com"
+    },
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "http://gosk8.ie/"
+    },
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kM6nkF1l62Y",
+      "channel": "FortNine",
+      "duration": 724.0,
+      "title": "Best Motorcycle Helmets of 2026 - Reviewed"
+    },
+    {
+      "id": "gQCCYUuzbig",
+      "channel": "MOTOBOB",
+      "duration": 1252.0,
+      "title": "Best Premium Adventure Touring Motorcycle Helmets For 2026 & 2027!"
+    },
+    {
+      "id": "8oYGMII-6Z0",
+      "channel": "Shadiversity",
+      "duration": 2999.0,
+      "title": "What's the BEST HELMET for a medieval adventurer?"
+    },
+    {
+      "id": "jBfygUiS50g",
+      "channel": "HelmetVEVO",
+      "duration": 236.0,
+      "title": "Helmet - Unsung"
+    },
+    {
+      "id": "7FEWVC6QuDE",
+      "channel": "RevZilla",
+      "duration": 811.0,
+      "title": "The Best Motorcycle Helmets of 2026"
+    }
+  ]
+}

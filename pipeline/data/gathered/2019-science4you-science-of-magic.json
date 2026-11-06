@@ -1,0 +1,54 @@
+{
+  "id": "2019-science4you-science-of-magic",
+  "year": 2019,
+  "name": "Science4You Science of Magic",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/science4you-science-of-magic/1600276649.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/science4you-science-of-magic/1600276649.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-NqLABKCmyI",
+      "channel": "Bruce's Big Surprises",
+      "duration": 251.0,
+      "title": "Science4you THE SCIENCE OF MAGIC - How to Create Foam!"
+    },
+    {
+      "id": "MOqpLYC3mFg",
+      "channel": "Imports Dragon",
+      "duration": 16.0,
+      "title": "Science4you The Science Of Magic ✨ TV Commercial"
+    },
+    {
+      "id": "rI8O1-_yzF8",
+      "channel": "Science4you",
+      "duration": 100.0,
+      "title": "Science4you ES - Magic Kit"
+    },
+    {
+      "id": "MU7JrzaWWbs",
+      "channel": "Science4you",
+      "duration": 21.0,
+      "title": "The Science Of Magic from Science4you"
+    },
+    {
+      "id": "ym_Irsg_hPI",
+      "channel": "Science4you",
+      "duration": 121.0,
+      "title": "Wizard Science | Science4you"
+    }
+  ]
+}

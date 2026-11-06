@@ -1,0 +1,57 @@
+{
+  "id": "2024-rainbow-high-fashion-rack-play-set",
+  "year": 2024,
+  "name": "Rainbow High Fashion Rack Play Set",
+  "price_eur": 47.99,
+  "price_text": "€47.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-averys-fashion-rack-playset/p/237032"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-averys-fashion-rack-playset/p/237032",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8vpvYdU7MNM",
+      "channel": "Toy Chat",
+      "duration": 1266.0,
+      "title": "Rainbow High: Avery Styles Fashion Studio GIVEAWAY + Buyer's Guide for Adults *Fashion Mix & Match*"
+    },
+    {
+      "id": "2fNVGm34GkI",
+      "channel": "Get Set DOLLS & PLAYSETS",
+      "duration": 343.0,
+      "title": "Unboxing Rainbow High AMAYA RAINE Doll & Rainbow Closet Playset - Fab Fashion & Pretty Purses"
+    },
+    {
+      "id": "cc7q1WM1rjc",
+      "channel": "Inkpad's Playpad",
+      "duration": 497.0,
+      "title": "🌈 Rainbow High- Fashion Studio, \"Avery Styles\""
+    },
+    {
+      "id": "fkZVqRRQ-rM",
+      "channel": "Edmond's Collectible World",
+      "duration": 2030.0,
+      "title": "👑 Edmond's Collectible World 🌎:  🌈 Rainbow High Deluxe Fashion Doll Closet Unboxing & Review 🌈"
+    },
+    {
+      "id": "HrZ1sY-C4AI",
+      "channel": "mrzhutch",
+      "duration": 254.0,
+      "title": "Rainbow High Fashion Studio Avery Styles Review"
+    }
+  ]
+}

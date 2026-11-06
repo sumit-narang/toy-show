@@ -1,0 +1,53 @@
+{
+  "id": "2020-playmobil-back-to-the-future-delorean",
+  "year": 2020,
+  "name": "Playmobil Back to the Future DeLorean",
+  "price_eur": 51.99,
+  "price_text": "€51.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2umEMYyPsek",
+      "channel": "Pixel Dan",
+      "duration": 630.0,
+      "title": "Playmobil Back to the Future DeLorean Review"
+    },
+    {
+      "id": "iv6YmvXrXdA",
+      "channel": "BLOQUEAVENTURAS",
+      "duration": 206.0,
+      "title": "PLAYMOBIL BACK TO THE FUTURE DELOREAN SET ASMR UNBOXING 4K PLAYMOBIL.DE"
+    },
+    {
+      "id": "dN-6tfC4Ffg",
+      "channel": "PlaymoBello",
+      "duration": 355.0,
+      "title": "Playmobil 70317 - BACK TO THE FUTURE DELOREAN Review | 2020"
+    },
+    {
+      "id": "q2SEpHZOfOI",
+      "channel": "BTTF Polska",
+      "duration": 850.0,
+      "title": "Playmobil BACK TO THE FUTURE - All videos, commercials, TV spots"
+    },
+    {
+      "id": "n_PTjl9jn50",
+      "channel": "Andres Movio",
+      "duration": 60.0,
+      "title": "Back to the Future Playmobil"
+    }
+  ]
+}

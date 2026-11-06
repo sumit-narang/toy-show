@@ -1,0 +1,57 @@
+{
+  "id": "2021-drifter-raptor-powerful-12v-electric-ride-on-jeep",
+  "year": 2021,
+  "name": "Drifter Raptor Powerful 12V Electric Ride on Jeep",
+  "price_eur": 249.99,
+  "price_text": "€249.99",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://www.funstuff.ie/drifter-raptor-electric-ride-on-jeep-blue/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/drifter-raptor-powerful-12v-electric-ride-on-jeep-blue/",
+      "title": "Drifter Raptor Powerful 12V Electric Ride On Jeep Blue",
+      "description": "The Drifter Raptor Powerful 12V Electric Ride on Jeep Blue is suitable for ages 3-8 years old and on flat grass surface.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/272/images/16034/funstuff-drifter-raptor-powerful-12v-electric-ride-on-jeep-blue__03902.1790749766.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OIOI547s2q0",
+      "channel": "ChildWood Play",
+      "duration": 57.0,
+      "title": "Kids 12v Electric Ride on Drifter Jeep"
+    },
+    {
+      "id": "2ZbcMeHzuhc",
+      "channel": "Przemysław Lipiecki",
+      "duration": 1052.0,
+      "title": "ADA i BARTEK. Jeep Drifter Raptor 12V Electric Car   JEEP NA AKUMULATOR i JEŹDZIK PUKYLINO   PUKY"
+    },
+    {
+      "id": "hE0v6yMoDgI",
+      "channel": "FunStuff Ireland UK",
+      "duration": 305.0,
+      "title": "Raptor Ride On Jeep S618 - Assembly Video www.funstuff.ie"
+    },
+    {
+      "id": "m2BqrggqSc4",
+      "channel": "Surbaby -",
+      "duration": 42.0,
+      "title": "Auto a Bateria Jeep Drifter Raptor 12V"
+    },
+    {
+      "id": "4bIDsbzUkFI",
+      "channel": "Оля Луців",
+      "duration": 160.0,
+      "title": "Jeep Drifter Raptor 12V Electric Car, дитячи електро мобіліль  на акамуляторі 12в, частина 1"
+    }
+  ]
+}

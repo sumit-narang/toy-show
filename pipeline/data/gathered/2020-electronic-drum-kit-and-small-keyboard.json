@@ -1,0 +1,53 @@
+{
+  "id": "2020-electronic-drum-kit-and-small-keyboard",
+  "year": 2020,
+  "name": "Electronic Drum Kit and Small Keyboard",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lidl",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aVgXAO7wvW0",
+      "channel": "Caleb I. Tilley",
+      "duration": 620.0,
+      "title": "WAY Better Than A MIDI Keyboard For Drums | DP2000 Review"
+    },
+    {
+      "id": "Ofn2A1p13Sg",
+      "channel": "ssjaken",
+      "duration": 114.0,
+      "title": "Asian Guy Plays Drums On A Keyboard"
+    },
+    {
+      "id": "CwhaBX9Qwfk",
+      "channel": "Jordan JMS Drums",
+      "duration": 561.0,
+      "title": "Budget Friendly Drum Amp! The Donner Mini Electric Drum Amp | Unboxing & Demo | JMS Drums"
+    },
+    {
+      "id": "5b4na4rdFbY",
+      "channel": "High Road - Musician",
+      "duration": 655.0,
+      "title": "How to play drums on a MIDI keyboard"
+    },
+    {
+      "id": "LIUrLh5oosk",
+      "channel": "OMANK KACAU",
+      "duration": 1971.0,
+      "title": "How to make an Electric Drums Using USB keyboard"
+    }
+  ]
+}

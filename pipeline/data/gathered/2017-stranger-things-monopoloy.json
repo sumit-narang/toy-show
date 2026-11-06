@@ -1,0 +1,53 @@
+{
+  "id": "2017-stranger-things-monopoloy",
+  "year": 2017,
+  "name": "Stranger Things Monopoloy",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vPQS4sImvhA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 113.0,
+      "title": "Monopoly Stranger Things Game from Hasbro"
+    },
+    {
+      "id": "V9a5RZQMS30",
+      "channel": "The Delz Show",
+      "duration": 180.0,
+      "title": "Stranger things 4 monopoly unboxing setup how to play #strangerthings #strangerthings4 #eddiemunson"
+    },
+    {
+      "id": "J6ecPiU5UVA",
+      "channel": "CruznMJD Productions",
+      "duration": 563.0,
+      "title": "Ep 1650 - Limited Edition Netflix Stranger Things 4 2022 Monopoly Unboxing"
+    },
+    {
+      "id": "nN0sz6OGMB0",
+      "channel": "Holden & Jen Hardman",
+      "duration": 322.0,
+      "title": "Stranger Things Monopoly Unboxing and Review (+Bonus Item)"
+    },
+    {
+      "id": "-Y7h5Gx3zVg",
+      "channel": "The Unboxers",
+      "duration": 850.0,
+      "title": "Stranger Things Monopoly Game"
+    }
+  ]
+}

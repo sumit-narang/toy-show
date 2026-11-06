@@ -1,0 +1,57 @@
+{
+  "id": "2022-miniland-caucasian-blonde-girl-doll-with-down-syndrome",
+  "year": 2022,
+  "name": "Miniland Caucasian Blonde Girl Doll with Down Syndrome",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CWuRnlGo2HM",
+      "channel": "Jack Wiliamson",
+      "duration": 191.0,
+      "title": "Dolls and Scientific Kit,Toys by Miniland"
+    },
+    {
+      "id": "RMyhMQvk1do",
+      "channel": "MS NOW",
+      "duration": 223.0,
+      "title": "Mom Gives Daughter With Down Syndrome Doll That Looks Like Her | Stephanie Ruhle | MSNBC"
+    },
+    {
+      "id": "ljCl63yxUCw",
+      "channel": "Let's Play // Best of Toys & Games",
+      "duration": 188.0,
+      "title": "Top 12 Miniland Dolls // Great Dolls Collection On Amazon"
+    },
+    {
+      "id": "Y8Venjne1EM",
+      "channel": "MS NOW",
+      "duration": 427.0,
+      "title": "Mattel introduces first Barbie with Down Syndrome"
+    },
+    {
+      "id": "u4gUsBOzkYg",
+      "channel": "Mariam's Nursery",
+      "duration": 398.0,
+      "title": "BABY ALIVE Doll packing diaper bag for Grandmas house 👜"
+    }
+  ]
+}

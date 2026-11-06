@@ -1,0 +1,60 @@
+{
+  "id": "2023-bluey-talking-plush-soft-toy",
+  "year": 2023,
+  "name": "Bluey Talking Plush Soft Toy",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Totally Toys",
+      "url": "https://totallytoys.ie/collections/bluey/products/bluey-talking-bluey-plush-soft-toy"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://totallytoys.ie/collections/bluey/products/bluey-talking-bluey-plush-soft-toy",
+      "title": "Bluey Talking Bluey Plush Soft Toy",
+      "description": "Bluey Talking Bluey Plush Soft Toy. Bring the fun and imaginative play of Bluey home with the Talking Bluey Plush!",
+      "image": "https://totallytoys.ie/cdn/shop/products/199290_1_600x.jpg?v=1673881460",
+      "ld_description": "Bluey Talking Bluey Plush Soft Toy.\nBring the fun and imaginative play of Bluey home with the Talking Bluey Plush! Bluey loves playing with her family, especially with her little sister Bingo. Press Bluey's tummy to hear 9 fun phrases from the Bluey TV show. You can even sing along with Bluey to her theme song!\nBluey is the perfect size for cuddles. Made with deluxe fabrics and featuring embroidered details, this super-soft plush doubles as a cuddly toy for showtime or storytime. Collect all of Bluey's plush friends create your own Bluey adventures! (Each sold separately).\n\nIncludes: A Talking Bluey Plush.\nPress her tummy to hear her say some of her favourite phrases.\n9 different fun phrases.\nDimensions: 30cm H.\nBatteries required: 2 x AA batteries (included).\n\nAges: 3+",
+      "brand": "Bluey",
+      "ld_image": "https://totallytoys.ie/cdn/shop/products/199290_1.jpg?v=1673881460"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wRkDnhfI2u4",
+      "channel": "Play & Create ",
+      "duration": 204.0,
+      "title": "Talking BLUEY Plush! - Bluey Unboxing!"
+    },
+    {
+      "id": "2ttsK0PdJbo",
+      "channel": "ShopByKayy",
+      "duration": 55.0,
+      "title": "Bluey 13-Inch Talking Plush: A Parent's Review"
+    },
+    {
+      "id": "NpD5LRImqlA",
+      "channel": "WTI",
+      "duration": 63.0,
+      "title": "Bluey 12\" Talking Bingo Plush Toys | Our Point Of View"
+    },
+    {
+      "id": "LetWLRCMiPc",
+      "channel": "joyful collector 💞",
+      "duration": 648.0,
+      "title": "Unboxing Of The Talking Bluey Plush"
+    },
+    {
+      "id": "czOuN5CU-qE",
+      "channel": "Alyssa The Pikachu",
+      "duration": 95.0,
+      "title": "Bluey - Talking Bluey And Bingo Plushies"
+    }
+  ]
+}

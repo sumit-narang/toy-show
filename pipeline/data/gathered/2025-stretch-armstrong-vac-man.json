@@ -1,0 +1,54 @@
+{
+  "id": "2025-stretch-armstrong-vac-man",
+  "year": 2025,
+  "name": "Stretch Armstrong Vac Man",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Stretch-Armstrong-Vac-Man---7-Inch-Shape-Shifting-Villain-Figure/m-12196.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Stretch-Armstrong-Vac-Man---7-Inch-Shape-Shifting-Villain-Figure/m-12196.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xkj9ptYsjTg",
+      "channel": "RetromercialBilly",
+      "duration": 31.0,
+      "title": "Stretch Armstrong Vac-Man (1994)"
+    },
+    {
+      "id": "AagXoum9Q5U",
+      "channel": "Character Toys",
+      "duration": 30.0,
+      "title": "Stretch Vac Man"
+    },
+    {
+      "id": "j5mRWzYWi9A",
+      "channel": "The Action Lab",
+      "duration": 551.0,
+      "title": "What Happens To Vac-man In a Vacuum Chamber? (Stretch Armstrong's Nemesis)!"
+    },
+    {
+      "id": "YVg2fJ_Rq5E",
+      "channel": "Character Toys",
+      "duration": 20.0,
+      "title": "Stretch Mini Figures"
+    },
+    {
+      "id": "ycumxKt1zFk",
+      "channel": "Character Toys",
+      "duration": 30.0,
+      "title": "Stretch Armstrong"
+    }
+  ]
+}

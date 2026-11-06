@@ -1,0 +1,64 @@
+{
+  "id": "2017-hot-wheels-super-ultimate-garage-playset",
+  "year": 2017,
+  "name": "Hot Wheels Super Ultimate Garage Playset",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4tQKBaik3e4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 143.0,
+      "title": "Hot Wheels Super Ultimate Garage from Mattel"
+    },
+    {
+      "id": "dkbI3dffcCo",
+      "channel": "Working Home Parents Reviews",
+      "duration": 187.0,
+      "title": "Parent Review: Hot Wheels Super Ultimate Garage Track Set"
+    },
+    {
+      "id": "NQs7FcwKgm0",
+      "channel": "Mattel",
+      "duration": 165.0,
+      "title": "Super Ultimate Garage Air Drop | Hot Wheels | Mattel"
+    },
+    {
+      "id": "UpmMNRinU7A",
+      "channel": "Ryan's World",
+      "duration": 882.0,
+      "title": "Biggest Hot Wheels Super Ultimate Garage Playset with Ryan's Toy Cars Collection"
+    },
+    {
+      "id": "ntufXuv2QhQ",
+      "channel": "GiggleBlaggle Toys!",
+      "duration": 2884.0,
+      "title": "Hot Wheels Super Ultimate Garage (with Pterodactyl) Playset - Unboxing, Review, and Demonstration"
+    }
+  ]
+}

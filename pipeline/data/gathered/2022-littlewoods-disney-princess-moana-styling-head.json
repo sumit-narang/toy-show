@@ -1,0 +1,30 @@
+{
+  "id": "2022-littlewoods-disney-princess-moana-styling-head",
+  "year": 2022,
+  "name": "Littlewoods Disney Princess Moana Styling Head",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/?utm_source=google&utm_medium=cpc&utm_campaign=WG-Brand-Very-Exact&&cm_mmc=Google-_-Brand+Terms-_-WG-Brand-Exact-_-Brand+Terms&gclid=Cj0KCQiA4aacBhCUARIsAI55maEFThvawtjFcyhaSpRZLjQ2MK9HStQ6aEXDWUihSAABrDWR7EFx-EkaAopQEALw_wcB"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/?utm_source=google&utm_medium=cpc&utm_campaign=WG-Brand-Very-Exact&&cm_mmc=Google-_-Brand+Terms-_-WG-Brand-Exact-_-Brand+Terms&gclid=Cj0KCQiA4aacBhCUARIsAI55maEFThvawtjFcyhaSpRZLjQ2MK9HStQ6aEXDWUihSAABrDWR7EFx-EkaAopQEALw_wcB"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3fQOqMMByB0",
+      "channel": "Patty Shukla Kids TV - Children's songs",
+      "duration": 178.0,
+      "title": "Graduation Song (Official Video) Thank you for kids, children & babies with lyrics  | Patty Shukla"
+    }
+  ]
+}

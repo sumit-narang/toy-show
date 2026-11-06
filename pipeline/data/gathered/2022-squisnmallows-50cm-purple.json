@@ -1,0 +1,57 @@
+{
+  "id": "2022-squisnmallows-50cm-purple",
+  "year": 2022,
+  "name": "Squisnmallows 50cm Purple",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zbn5D3SIJV8",
+      "channel": "SugarStar",
+      "duration": 7049.0,
+      "title": "OPENING *SO MANY* MYSTERY SQUISHMALLOWS! #squishmallows #unboxing"
+    },
+    {
+      "id": "1JWR3JweoA8",
+      "channel": "Top Best Picks",
+      "duration": 434.0,
+      "title": "The Top 5 Best Stackable Squishmallows in 2025 - Must Watch Before Buying!"
+    },
+    {
+      "id": "jXUWEpEmzK8",
+      "channel": "Very Jodi",
+      "duration": 496.0,
+      "title": "RARE SQUISHMALLOW from IRELAND 🇮🇪 🥰"
+    },
+    {
+      "id": "oPgz_CTBojk",
+      "channel": "TikTokTea",
+      "duration": 508.0,
+      "title": "squishmallow tiktoks that made me get a new bed"
+    },
+    {
+      "id": "lW-gUeB65fQ",
+      "channel": "TikTokTea",
+      "duration": 660.0,
+      "title": "10+ mins of squishmallow tiktoks"
+    }
+  ]
+}

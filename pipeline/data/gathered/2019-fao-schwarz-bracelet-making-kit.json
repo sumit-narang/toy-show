@@ -1,0 +1,60 @@
+{
+  "id": "2019-fao-schwarz-bracelet-making-kit",
+  "year": 2019,
+  "name": "FAO Schwarz Bracelet Making Kit",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/creativity/fao-schwarz/jewellery-kit-with-carrying-case/141784961.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/arts-crafts/fao-schwarz/jewellery-kit-with-carrying-case/141784961.html",
+      "title": "FAO SCHWARZ Jewellery Kit With Carrying Case - Pink",
+      "description": "Create your own fashion jewellery with the 56 bead compartments and over 2000 beads in this FAO Schwarz kit. Showcase your amazing styles on your special jewellery holder or wear them out. With 56 styles of beads, theres endless opportunities to get creative! Warning: contains small parts which can be a choking hazard. Suitable for ages 6+.",
+      "image": "https://images.brownthomas.com/bta/2000075767_01.jpg?$product_tile_plp$",
+      "ld_description": "Create your own fashion jewellery with the 56 bead compartments and over 2000 beads in this FAO Schwarz kit. Showcase your amazing styles on your special jewellery holder or wear them out. With 56 styles of beads, there's endless opportunities to get creative! Warning: contains small parts which can be a choking hazard. Suitable for ages 6+.",
+      "brand": "FAO SCHWARZ",
+      "ld_image": "https://images.brownthomas.com/bta/2000075767_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "D0fsds9ByDs",
+      "channel": "FAO Schwarz",
+      "duration": 42.0,
+      "title": "FAO Schwarz DIY Jewelry Designer Set"
+    },
+    {
+      "id": "1rsI8vueMZE",
+      "channel": "FAO Schwarz",
+      "duration": 40.0,
+      "title": "FAO Schwarz DIY Leather Jewelry Craft Kits"
+    },
+    {
+      "id": "FhoaQdO4rFI",
+      "channel": "The Earley Journey",
+      "duration": 282.0,
+      "title": "Making Jewelry!"
+    },
+    {
+      "id": "vehyckS4DEE",
+      "channel": "FAO Schwarz",
+      "duration": 54.0,
+      "title": "FAO Schwarz DIY Henna Kit"
+    },
+    {
+      "id": "81CkGApXExc",
+      "channel": "FAO Schwarz",
+      "duration": 48.0,
+      "title": "FAO Schwarz DIY Spiral Art Station"
+    }
+  ]
+}

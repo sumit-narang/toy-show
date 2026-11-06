@@ -1,0 +1,65 @@
+{
+  "id": "2023-ikea-duktig-felt-pizza-set",
+  "year": 2023,
+  "name": "IKEA DUKTIG Felt Pizza Set",
+  "price_eur": 13.0,
+  "price_text": "€13.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/p/duktig-24-piece-pizza-set-pizza-multicolour-10423594/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/p/duktig-24-piece-pizza-set-pizza-multicolour-10423594/",
+      "title": "DUKTIG 24-piece pizza set, pizza/multicolour  - IKEA Ireland",
+      "description": "DUKTIG 24-piece pizza set, pizza/multicolour A dream for all the little pizza chefs. With these ingredients, they can bake as many pizzas as they like and vary the toppings every time – and if you’re lucky, maybe they’ll even let you taste it.",
+      "image": "https://www.ikea.com/ie/en/images/products/duktig-24-piece-pizza-set-pizza-multicolour__0663854_pe712532_s5.jpg",
+      "ld_description": "DUKTIG 24-piece pizza set - pizza/multicolour. A dream for all the little pizza chefs. With these ingredients, they can bake as many pizzas as they like and vary the toppings infinitely – and if you’re lucky, maybe they’ll even let you taste it. Recommended for ages from 3 years.",
+      "brand": "IKEA",
+      "ld_image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/ie/en/images/products/duktig-24-piece-pizza-set-pizza-multicolour__0663854_pe712532_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C9uq2TGFsIA",
+      "channel": "New Parents in Training",
+      "duration": 515.0,
+      "title": "IKEA SPISIG Play Kitchen | Unboxing, Review and Setup"
+    },
+    {
+      "id": "-3WgsYRl9KI",
+      "channel": "bybebé",
+      "duration": 31.0,
+      "title": "Hape Conjunto de Pizza | bybebé"
+    },
+    {
+      "id": "FaRbmiJ8Xg0",
+      "channel": "Rachel Stevens",
+      "duration": 77.0,
+      "title": "Play Food at IKEA"
+    },
+    {
+      "id": "OJSHWK4Do64",
+      "channel": "Keluarga Luar Biasa",
+      "duration": 325.0,
+      "title": "DiaNadia Surprise Toys 💖 Bermain mainan Pizza 🍕 dari IKEA"
+    },
+    {
+      "id": "UTDtxbs9bzg",
+      "channel": "Afieq Alauddien",
+      "duration": 34.0,
+      "title": "Her very Own Hape's Kitchen Set!"
+    }
+  ]
+}

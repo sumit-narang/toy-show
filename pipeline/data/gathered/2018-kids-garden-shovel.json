@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-garden-shovel",
+  "year": 2018,
+  "name": "Kids Garden Shovel",
+  "price_eur": 2.99,
+  "price_text": "€2.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dkOODyW8-EI",
+      "channel": "Harrison Duke",
+      "duration": 625.0,
+      "title": "GARDENING TOOLS FOR KIDS! Spring Planting with handy kids tool set! Shovel, rake, hoe and more"
+    },
+    {
+      "id": "tz9or2qcMHg",
+      "channel": "TheGardenShopIreland",
+      "duration": 106.0,
+      "title": "Kids Garden Shovel"
+    },
+    {
+      "id": "V93zK8rctiw",
+      "channel": "TheGardenShopIreland",
+      "duration": 69.0,
+      "title": "Kids Garden Shovel"
+    },
+    {
+      "id": "DPQ8jkZwdr4",
+      "channel": "Top Reviews Lab",
+      "duration": 524.0,
+      "title": "The Top 5 Best Kids Garden Shovel in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "riiKNbOFbkc",
+      "channel": "Robud",
+      "duration": 39.0,
+      "title": "ROBUD Kids Gardening Set Series WPRP52"
+    }
+  ]
+}

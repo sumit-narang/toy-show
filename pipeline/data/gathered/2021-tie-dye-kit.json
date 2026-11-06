@@ -1,0 +1,54 @@
+{
+  "id": "2021-tie-dye-kit",
+  "year": 2021,
+  "name": "Tie Dye Kit",
+  "price_eur": 5.95,
+  "price_text": "€5.95",
+  "retailers": [
+    {
+      "name": "Art & Craft Shannon",
+      "url": "https://www.artandcraft.ie/craft-materials/fabric-paints/fabric-paint-sets/marabu-easycolor-batik-tie-dye-pistachio-266.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ReadTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9UalkooQaq4",
+      "channel": "FabLab",
+      "duration": 208.0,
+      "title": "How to Create Amazing Tie Dye Fashion with FabLab (feat. Nilipod)"
+    },
+    {
+      "id": "pzXAkHxjK2o",
+      "channel": "Jake's Tie Dye ",
+      "duration": 2257.0,
+      "title": "Professional Tie Dye Artist Tests DIY Kits!"
+    },
+    {
+      "id": "W8nc6TbLr1w",
+      "channel": "Candie",
+      "duration": 195.0,
+      "title": "DIY: TIE DYE NIKE CREW SOCKS"
+    },
+    {
+      "id": "RhQF5U1eeJg",
+      "channel": "TheTechMartus",
+      "duration": 271.0,
+      "title": "Top 5 Best Tie Dye Kits in 2025"
+    },
+    {
+      "id": "wRnuUdYw0cA",
+      "channel": "Onyx Art Studios",
+      "duration": 673.0,
+      "title": "How To Use Tulip Tie Dye Kit and Review | Onyx Art Studios"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2022-rory-plush-toy-in-aid-of-cliona-s-foundation",
+  "year": 2022,
+  "name": "Rory Plush Toy In Aid Of Cliona's Foundation",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Dunnes Stores",
+      "url": "https://www.dunnesstores.com/c/kids"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dunnesstores.com/kids",
+      "title": "Kids - Dunnes Stores",
+      "description": "Discover stylish and comfortable clothing and accessories for kids at Dunnes Stores. Find high-quality options for boys and girls. Shop now.",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

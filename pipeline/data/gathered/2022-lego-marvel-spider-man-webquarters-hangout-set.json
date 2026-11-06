@@ -1,0 +1,54 @@
+{
+  "id": "2022-lego-marvel-spider-man-webquarters-hangout-set",
+  "year": 2022,
+  "name": "Lego Marvel Spider-Man Webquarters Hangout Set",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/spider-man-webquarters-hangout-10784"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/spider-man-webquarters-hangout-10784"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "akN5mzRaAAE",
+      "channel": "AustrianBrickFan",
+      "duration": 534.0,
+      "title": "LEGO Spidey and his amazing Friends 10784 Spider-Man Webquarters Hangout - LEGO Speed Build Review"
+    },
+    {
+      "id": "25Zrh7KUeMM",
+      "channel": "Brick Whyse",
+      "duration": 623.0,
+      "title": "LEGO Spider-Man Webquarters Hangout Unboxing 10784 Miles Morales/Ghost Spider/Ms Marvel/Green Goblin"
+    },
+    {
+      "id": "F7SLtqWd9tc",
+      "channel": "Rodney Davidson",
+      "duration": 321.0,
+      "title": "LEGO Spider-Man Webquarters Review - Pros, Cons, and Secret Tips"
+    },
+    {
+      "id": "KbWwu3P_DMg",
+      "channel": "BrickManDan",
+      "duration": 756.0,
+      "title": "LEGO Marvel: Spider-Man Webquarters Hangout Review!"
+    },
+    {
+      "id": "LDVfSBmAL3A",
+      "channel": "Ashnflash",
+      "duration": 704.0,
+      "title": "LEGO Spider-Man Webquarters Hangout (10784) - 2022 Set Review"
+    }
+  ]
+}

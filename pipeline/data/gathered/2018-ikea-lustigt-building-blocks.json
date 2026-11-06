@@ -1,0 +1,57 @@
+{
+  "id": "2018-ikea-lustigt-building-blocks",
+  "year": 2018,
+  "name": "IKEA Lustigt Building Blocks",
+  "price_eur": 18.0,
+  "price_text": "€18.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kNkNaouq9a4",
+      "channel": "Day with Darren",
+      "duration": 174.0,
+      "title": "Ikea Lustigt Building Block Build"
+    },
+    {
+      "id": "3ym02ReHN80",
+      "channel": "UBER UNBOXING",
+      "duration": 668.0,
+      "title": "IKEA LUSTIGT  Arts and crafts storage wooden box build unbpxing"
+    },
+    {
+      "id": "BJghj76qxVg",
+      "channel": "용진한판",
+      "duration": 66.0,
+      "title": "Ikea LUSTIGK block, How do we make it?"
+    },
+    {
+      "id": "rd7eA1mjIN0",
+      "channel": "Vicky's Crafts",
+      "duration": 275.0,
+      "title": "How I using the Ikea Lustigt Part 1 of 2"
+    },
+    {
+      "id": "hnTXC0XIYWo",
+      "channel": "Tulip Squad",
+      "duration": 41.0,
+      "title": "Building IKEA Lustigt Puzzle (Timelapse) 🧩"
+    }
+  ]
+}

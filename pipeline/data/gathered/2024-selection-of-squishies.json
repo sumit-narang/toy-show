@@ -1,0 +1,60 @@
+{
+  "id": "2024-selection-of-squishies",
+  "year": 2024,
+  "name": "Selection of squishies",
+  "price_eur": 2.95,
+  "price_text": "€2.95-€7.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/axolotl-squishy"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/axolotl-squishy",
+      "title": "Axolotl Squishy",
+      "description": "Axolotl Squishy Cute axolotl character made from soft, slow-rise foam for satisfying squeezes 🦎 Super squishy texture helps relieve stress, tension, and restless energy Compact size fits perfectly in one hand for on-the-go play, fidgeting, or desk breaks Encourages calm, mindful squeezing—supportive for children with a",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/files/blob-2024-02-07T102938.602.jpg?v=1707301775",
+      "ld_description": "Axolotl Squishy\n\n\nCute axolotl character made from soft, slow-rise foam for satisfying squeezes 🦎\n\n\nSuper squishy texture helps relieve stress, tension, and restless energy\n\n\nCompact size fits perfectly in one hand for on-the-go play, fidgeting, or desk breaks\n\n\nEncourages calm, mindful squeezing—supportive for children with anxiety or sensory needs\n\n\nDurable, easy-to-clean design ensures long-lasting use at home, school, or in the office\n\n\nA fun and quirky gift idea for animal lovers, fidget fans, or collectors of kawaii-style toys 💦\n\n\nRecommended for ages 3 and up; safe and engaging for both kids and adults\n\n\nAdorably weird and irresistibly squishy, the Axolotl Squishy is a cheerful stress reliever and sensory companion. Whether it’s for calming busy hands, sparking play, or simply bringing a smile, this quirky creature makes every squeeze a moment of joy.",
+      "brand": "One For Fun",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eL6ullTivT8",
+      "channel": "Lisi Shops",
+      "duration": 884.0,
+      "title": "MY FULL SQUISHY COLLECTION"
+    },
+    {
+      "id": "Txa7g_J2Cz0",
+      "channel": "Quiz Blitz",
+      "duration": 657.0,
+      "title": "Choose Your SQUISHY...! 🎁 Unboxing Squishy Dumplings 🥳"
+    },
+    {
+      "id": "P_jtS219-EU",
+      "channel": "Quiz Blitz",
+      "duration": 629.0,
+      "title": "🎁 Choose Your Squishy Box 📦🌈 Choose Your Gift | Ultimate Mystery Squishy Challenge"
+    },
+    {
+      "id": "1Om-9n0wfTI",
+      "channel": "Prymrr",
+      "duration": 1124.0,
+      "title": "PRYMRR’s HUGE SQUISHY COLLECTION!!"
+    },
+    {
+      "id": "woZxGG0vc48",
+      "channel": "PurpleStars02 and 2 more",
+      "duration": 1055.0,
+      "title": "THE ULTIMATE $100 BUDGET VIRAL SQUISHY SHOPPING CHALLENGE 🛒🤑 #trending #viral #squishy #shopping "
+    }
+  ]
+}

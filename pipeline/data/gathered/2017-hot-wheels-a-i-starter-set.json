@@ -1,0 +1,64 @@
+{
+  "id": "2017-hot-wheels-a-i-starter-set",
+  "year": 2017,
+  "name": "Hot Wheels A.I Starter Set",
+  "price_eur": 114.99,
+  "price_text": "€114.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Mattell",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S_LTjY37dnw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 189.0,
+      "title": "Hot Wheels Ai Intelligent Race System from Mattel"
+    },
+    {
+      "id": "Yt8xPfTATGE",
+      "channel": "Hot Wheels",
+      "duration": 31.0,
+      "title": "The Future of Racing is Here! | Hot Wheels AI | @HotWheels"
+    },
+    {
+      "id": "XX9MDK-nEqo",
+      "channel": "Txlonestarpainting",
+      "duration": 570.0,
+      "title": "Hot Wheels AI Intelligent Race System Toy Review"
+    },
+    {
+      "id": "RR9ccjN8gzA",
+      "channel": "The Izzys",
+      "duration": 842.0,
+      "title": "Cars  | HOT WHEELS AI! Hot Wheels Intelligent Race System!"
+    },
+    {
+      "id": "Ktdx4bB1KOM",
+      "channel": "Hot Wheels",
+      "duration": 68.0,
+      "title": "Quick Start | Hot Wheels AI | @HotWheels"
+    }
+  ]
+}

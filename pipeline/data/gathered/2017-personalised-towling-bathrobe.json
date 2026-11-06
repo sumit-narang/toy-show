@@ -1,0 +1,54 @@
+{
+  "id": "2017-personalised-towling-bathrobe",
+  "year": 2017,
+  "name": "Personalised Towling Bathrobe",
+  "price_eur": 41.99,
+  "price_text": "€41.99",
+  "retailers": [
+    {
+      "name": "BumblebeeCreations.ie",
+      "url": "http://bumblebeecreations.ie/gifts/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://bumblebeecreations.ie/gifts/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9ab7CFel9gI",
+      "channel": "WINFLY INTERNATIONAL",
+      "duration": 26.0,
+      "title": "Your #1 Luxury Bathrobe-Wholesale Personalized logo Hotel Robe-OEM Custom logo Bathrobe Manufacturer"
+    },
+    {
+      "id": "tpKHadCC4iM",
+      "channel": "Angela Wong",
+      "duration": 45.0,
+      "title": "Bathing Bunnies Baby Towels & Bathrobes"
+    },
+    {
+      "id": "Crq2h3BOPz8",
+      "channel": "WINFLY INTERNATIONAL",
+      "duration": 28.0,
+      "title": "Luxury Hotel Personalized Bathrobes Wholesale"
+    },
+    {
+      "id": "5hyy429DDQc",
+      "channel": "Lisa Lee",
+      "duration": 10.0,
+      "title": "YRF-Unisex Robes,100% Cotton Custom Bathrobe,Kids Bathrobe,Velvet Fabric Bathrobe,Manufacturer"
+    },
+    {
+      "id": "66DGiDDGsBk",
+      "channel": "Lisa Lee",
+      "duration": 10.0,
+      "title": "YRF-Bathrobes Set,Kids Terry Towelling Robes,Spa Robes,Cotton Towel Body Wrap,Factory"
+    }
+  ]
+}

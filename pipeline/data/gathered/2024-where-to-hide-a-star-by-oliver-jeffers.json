@@ -1,0 +1,60 @@
+{
+  "id": "2024-where-to-hide-a-star-by-oliver-jeffers",
+  "year": 2024,
+  "name": "Where to Hide a Star by Oliver Jeffers",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/dictionary-story"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/dictionary-story",
+      "title": "Jeffers Oliver: The Dictionary Story [2024] hardback",
+      "description": "Jeffers Oliver: The Dictionary Story [2024] hardback | The much-anticipated new picture book from the bestselling and award-winning creators of A Child of Books.Dictionary wishes she could tell a story just like the other books. So one day she decides to bring her words to life. How exciting it is, she thinks, that an",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/oliver-jeffers-jeffers-oliver-winston-sam-jeffers-oliver-the-dictionary-story-2024-hardback-9781406395471-57205496840531_1200x1200.jpg?v=1727193377",
+      "ld_description": "The much-anticipated new picture book from the bestselling and award-winning creators of A Child of Books.Dictionary wishes she could tell a story just like the other books. So one day she decides to bring her words to life. How exciting it is, she thinks, that an adventure is finally happening on her very own pages! But what will she do when everything gets out of control, all in a jumble, and her characters collide causing the most enormous tantrum to explode. This isn't what she wanted at all! How on earth will she find sense in all this chaos? Her friend Alphabet knows exactly what to do and sings a song that brings calm and order to Dictionary's pages once again.",
+      "brand": "Oliver Jeffers &amp; Jeffers, Oliver &amp; Winston, Sam",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/oliver-jeffers-jeffers-oliver-winston-sam-jeffers-oliver-the-dictionary-story-2024-hardback-9781406395471-57205496840531_288x.jpg?v=1727193377"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YeeSXFoV12k",
+      "channel": "Oakville Christian School Library",
+      "duration": 322.0,
+      "title": "Where To Hide A Star By Oliver Jeffers"
+    },
+    {
+      "id": "MEs8L2AyLLI",
+      "channel": "Ms. Emma's Library",
+      "duration": 246.0,
+      "title": "OLIVER JEFFERS Read Aloud - Where to Hide a Star"
+    },
+    {
+      "id": "rpyR6hJPxiw",
+      "channel": "Annie's workshop - Books Read Aloud for Kids",
+      "duration": 300.0,
+      "title": "How to Catch a Star by Oliver Jeffers I Read Aloud"
+    },
+    {
+      "id": "WoSIgZ_r9IY",
+      "channel": "Openbook with Stefanie ",
+      "duration": 307.0,
+      "title": "Where to Hide a Star | Animated Book | Read Aloud"
+    },
+    {
+      "id": "A3U42VZBtbQ",
+      "channel": "Read Us A Story",
+      "duration": 343.0,
+      "title": "🌟 Where to Hide a Star - Read Aloud 📖 "
+    }
+  ]
+}

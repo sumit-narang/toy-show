@@ -1,0 +1,57 @@
+{
+  "id": "2022-the-fairy-door-company-worry-plaque-fairy-doors",
+  "year": 2022,
+  "name": "The Fairy Door Company Worry Plaque Fairy Doors",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Tipperary Crystal",
+      "url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB",
+      "title": "Tipperary | Gifts Beyond Expectations",
+      "description": "Irish Design-led giftware from Tipperary. Jewellery, Homeware, Candles, Fashion, Handbags & much more. Contemporary and classic ranges. Free Delivery when you spend over €55\"",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YClKf9p12g4",
+      "channel": "loopyloulaura",
+      "duration": 402.0,
+      "title": "The Irish Fairy Door Company Worry Plaque review"
+    },
+    {
+      "id": "PqmMnp5FCzY",
+      "channel": "New Day Videos",
+      "duration": 307.0,
+      "title": "🍀INTERACTIVE WORRY PLAQUE- Irish Fairy Door (Anxiety & Fear Reduction) Review ⭐"
+    },
+    {
+      "id": "k20WavDWdiU",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 60.0,
+      "title": "CAPTURED ON FILM! Fairies taking worries away!!"
+    },
+    {
+      "id": "8kEw6ai6X-I",
+      "channel": "loopyloulaura",
+      "duration": 478.0,
+      "title": "The Irish Fairy Door Company Pink Fairy Door Review"
+    },
+    {
+      "id": "h6haDTHKbU0",
+      "channel": "Our Little Escapades",
+      "duration": 670.0,
+      "title": "Interactive Worry Plaque from The Irish Fairy Door Company - REVIEW - VLOG"
+    }
+  ]
+}

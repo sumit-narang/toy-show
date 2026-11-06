@@ -1,0 +1,54 @@
+{
+  "id": "2020-scrabble-as-gaeilge",
+  "year": 2020,
+  "name": "Scrabble as Gaeilge",
+  "price_eur": 40.0,
+  "price_text": "€40",
+  "retailers": [
+    {
+      "name": "Glór na nGael/Gaelchultúr",
+      "url": "https://www.udar.ie/product/scrabble-as-gaeilge-2/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DrhwXPZhU_I",
+      "channel": "Gaeilge i mo chroí",
+      "duration": 336.0,
+      "title": "How we played a game of SCRABBLE as GAEILGE 🇮🇪 Scrabble in Irish"
+    },
+    {
+      "id": "VtMoR45hz84",
+      "channel": "Glór na nGael",
+      "duration": 56.0,
+      "title": "Scrabble as Gaeilge - Udar.ie"
+    },
+    {
+      "id": "O5_fhJ60pPs",
+      "channel": "AnSiopaLeabhar",
+      "duration": 26.0,
+      "title": "Scrabble as Gaeilge An Siopa Leabhar"
+    },
+    {
+      "id": "NXepXj8LQCw",
+      "channel": "Plé agus Spraoi ",
+      "duration": 2229.0,
+      "title": "Straitéisí scrabble 12"
+    },
+    {
+      "id": "zQbTEvRC53Q",
+      "channel": "Gaillimh le Gaeilge",
+      "duration": 152.0,
+      "title": "Siopa Leabhar Charlie Byrne"
+    }
+  ]
+}

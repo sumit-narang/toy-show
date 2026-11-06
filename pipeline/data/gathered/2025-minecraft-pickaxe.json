@@ -1,0 +1,54 @@
+{
+  "id": "2025-minecraft-pickaxe",
+  "year": 2025,
+  "name": "Minecraft Pickaxe",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/minecraft-minecraft-pixelated-pickaxe-role-play-toy-accessory-collection-styles-may-vary/1601110450.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-Toys-Standard-Shopping-Medium-Margin&gclid=5b2aa15497e81729e621c873ab18e09d&gclsrc=3p.ds&msclkid=5b2aa15497e81729e621c873ab18e09d#sku=sku28589060"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/minecraft-minecraft-pixelated-pickaxe-role-play-toy-accessory-collection-styles-may-vary/1601110450.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-Toys-Standard-Shopping-Medium-Margin&gclid=5b2aa15497e81729e621c873ab18e09d&gclsrc=3p.ds&msclkid=5b2aa15497e81729e621c873ab18e09d#sku=sku28589060"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JGv347szvhA",
+      "channel": "xNestorio",
+      "duration": 1318.0,
+      "title": "Minecraft, But With Custom Pickaxes..."
+    },
+    {
+      "id": "C5wNzMgNOAA",
+      "channel": "melonyyy",
+      "duration": 666.0,
+      "title": "which minecraft pickaxe is the fastest ???"
+    },
+    {
+      "id": "8K_Bs93E4oM",
+      "channel": "IMTIYANO",
+      "duration": 1480.0,
+      "title": "Minecraft, But With CUSTOM PICKAXES...!"
+    },
+    {
+      "id": "5dwZN6fZej0",
+      "channel": "PSGamerz",
+      "duration": 40.0,
+      "title": "Minecraft | How To Make A Wooden Pickaxe In Survival Mode | For Mining | PSGamerz"
+    },
+    {
+      "id": "YKfnN3tm4HA",
+      "channel": "ProBoiz 95",
+      "duration": 492.0,
+      "title": "Minecraft but There are CUSTOM PICKAXE..."
+    }
+  ]
+}

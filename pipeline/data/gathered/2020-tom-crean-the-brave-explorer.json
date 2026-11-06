@@ -1,0 +1,54 @@
+{
+  "id": "2020-tom-crean-the-brave-explorer",
+  "year": 2020,
+  "name": "Tom Crean - The Brave Explorer",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "https://shop.designist.ie/products/tom-crean-the-brave-explorer"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://shop.designist.ie/products/tom-crean-the-brave-explorer"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2r3iOlk7mTs",
+      "channel": "Offaly Libraries",
+      "duration": 499.0,
+      "title": "Tom Crean read by Deirdre"
+    },
+    {
+      "id": "HAd0_NiPtp4",
+      "channel": "Limerick Libraries",
+      "duration": 530.0,
+      "title": "Spring Into Storytime - Tom Crean"
+    },
+    {
+      "id": "u6nap9KqXhI",
+      "channel": "Adventure Solos: Share the Adventure",
+      "duration": 3113.0,
+      "title": "Tom Crean: Why haven't I heard about this man before!?"
+    },
+    {
+      "id": "9UbBqVztPbs",
+      "channel": "Magical StoryTime",
+      "duration": 161.0,
+      "title": "The Brave Explorer Kids Story | Storytime | Stories For Kids In English"
+    },
+    {
+      "id": "8w6gjMko52s",
+      "channel": "Geno Samuel Productions",
+      "duration": 17777.0,
+      "title": "Terra Nova: The White Silence - Captain Scott’s Journey to the South Pole [2023 Documentary]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-wooden-coffee-machine-set",
+  "year": 2022,
+  "name": "Wooden Coffee Machine Set",
+  "price_eur": 34.0,
+  "price_text": "€34",
+  "retailers": [
+    {
+      "name": "BeoVERDE Ireland",
+      "url": "https://beoverde.ie/products/wooden-toys-new-classic-toys-pretend-play-coffee-maker-set?_pos=1&_sid=c2c422d15&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://beoverde.ie/products/wooden-toys-new-classic-toys-pretend-play-coffee-maker-set?_pos=1&_sid=c2c422d15&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E5alQ2DrQWU",
+      "channel": "Okeykids Toys",
+      "duration": 38.0,
+      "title": "Wooden Coffee Machine Toy | Coffee Maker for Kids"
+    },
+    {
+      "id": "Spt2GYIZ2BU",
+      "channel": "DingJoy 딩조이",
+      "duration": 809.0,
+      "title": "[🐰toy asmr🐰] Coffee Machine Cash Register PlaySet ASMR Satisfying with Unboxing | Review Toys"
+    },
+    {
+      "id": "xwU7nU3V38o",
+      "channel": "Rainbow Treehouse",
+      "duration": 1260.0,
+      "title": "Pretend Play with Coffee Maker Kitchen Appliance for Kids"
+    },
+    {
+      "id": "5_A78l5PlIE",
+      "channel": "TingleToy ASMR",
+      "duration": 720.0,
+      "title": "12 Minutes | Viral Wooden Coffee Machine Playset ASMR Immersive Unboxing | No Talking | Toy Review 🐾"
+    },
+    {
+      "id": "TTbmPCBJxOI",
+      "channel": "New Toys Best Toys",
+      "duration": 52.0,
+      "title": "Melissa & Doug Wooden Brew & Serve Coffee Set ☕"
+    }
+  ]
+}

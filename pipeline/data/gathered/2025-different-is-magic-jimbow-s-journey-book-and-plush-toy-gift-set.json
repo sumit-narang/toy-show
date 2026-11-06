@@ -1,0 +1,26 @@
+{
+  "id": "2025-different-is-magic-jimbow-s-journey-book-and-plush-toy-gift-set",
+  "year": 2025,
+  "name": "Different is Magic: Jimbow's Journey Book and Plush Toy Gift Set",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/books/baby-and-early-learning-books/early-learning-books/different-is-magic-jimbows-journey-book-and-plush-toy-gift-set/p/252986"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/books/baby-and-early-learning-books/early-learning-books/different-is-magic-jimbows-journey-book-and-plush-toy-gift-set/p/252986",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

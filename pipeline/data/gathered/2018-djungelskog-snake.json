@@ -1,0 +1,57 @@
+{
+  "id": "2018-djungelskog-snake",
+  "year": 2018,
+  "name": "Djungelskog Snake",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7Yk5Snlizd8",
+      "channel": "Check It Out",
+      "duration": 65.0,
+      "title": "IKEA Djungelskog Glove Puppet"
+    },
+    {
+      "id": "ftNiaOCCgV0",
+      "channel": "ThaiTraditionWolffia",
+      "duration": 65.0,
+      "title": "XICHEN DJUNGELSKOG 170 cm Large Plush Toy Cushion boa Constrictor"
+    },
+    {
+      "id": "in9Q1vTtbOA",
+      "channel": "김수경내수금릉6의6",
+      "duration": 91.0,
+      "title": "이케아 IKEA 뱀인형 융엘스코그 DJUNGLESKOG"
+    },
+    {
+      "id": "fzYCEHWRojg",
+      "channel": "Scarlet Horizon覚",
+      "duration": 9.0,
+      "title": "How to use IKEA's SNAKE？"
+    },
+    {
+      "id": "t3nlIoNm3xM",
+      "channel": "Joonbugs",
+      "duration": 291.0,
+      "title": "The IKEA snake song, Joonbugs tries: Music"
+    }
+  ]
+}

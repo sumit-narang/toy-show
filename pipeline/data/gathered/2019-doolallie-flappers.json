@@ -1,0 +1,57 @@
+{
+  "id": "2019-doolallie-flappers",
+  "year": 2019,
+  "name": "Doolallie Flappers",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "Smyths / Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/soft-toys/doolallie-flappers-dog-brown/p/171931"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/soft-toys/doolallie-flappers-dog-brown/p/171931",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QjDRGQlFCUs",
+      "channel": "DOOLALLIE",
+      "duration": 40.0,
+      "title": "Doolallie Flappers"
+    },
+    {
+      "id": "EF6aVxoFrz0",
+      "channel": "DOOLALLIE",
+      "duration": 21.0,
+      "title": "DOOLALLIE FLAPPERS 20 SEC TVC"
+    },
+    {
+      "id": "SmZ1RZWwkTo",
+      "channel": "Loumet Toys",
+      "duration": 40.0,
+      "title": "Doolallie Flappers"
+    },
+    {
+      "id": "bBKeR2ou7dY",
+      "channel": "The Entertainer",
+      "duration": 36.0,
+      "title": "Doolallie Flappers"
+    },
+    {
+      "id": "zWlvuIrP3gA",
+      "channel": "Freddie griffiths",
+      "duration": 45.0,
+      "title": "doolallie flappers - smyths toys"
+    }
+  ]
+}

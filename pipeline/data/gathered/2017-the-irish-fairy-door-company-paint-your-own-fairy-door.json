@@ -1,0 +1,54 @@
+{
+  "id": "2017-the-irish-fairy-door-company-paint-your-own-fairy-door",
+  "year": 2017,
+  "name": "The Irish Fairy Door Company \"Paint Your Own Fairy Door\"",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "theirishfairydoorcompany.com",
+      "url": "http://theirishfairydoorcompany.com"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://theirishfairydoorcompany.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O5KmqZqwpBA",
+      "channel": "Isaias Hernandez",
+      "duration": 300.0,
+      "title": "Fairy Doors On Trees Are Bad"
+    },
+    {
+      "id": "1F6CfnhXG_E",
+      "channel": "Smilygie16",
+      "duration": 335.0,
+      "title": "Paint your own Irish Fairy Door"
+    },
+    {
+      "id": "0CTxpt6Mwm8",
+      "channel": "CBeebies",
+      "duration": 132.0,
+      "title": "BLUEY | Mum and Dad Try to Escape | CBeebies"
+    },
+    {
+      "id": "mw2Ib9X5_rg",
+      "channel": "The Unexpected Gypsy",
+      "duration": 1722.0,
+      "title": "Identity & the Imagination ~ Inside my Dressing Up Box & other Curious Items in my Art Studio"
+    },
+    {
+      "id": "LxFHHfmzH8E",
+      "channel": "The Unexpected Gypsy",
+      "duration": 1821.0,
+      "title": "I've Had to Find a New Way Through..."
+    }
+  ]
+}

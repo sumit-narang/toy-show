@@ -1,0 +1,57 @@
+{
+  "id": "2024-lego-home-alone-house",
+  "year": 2024,
+  "name": "LEGO Home Alone House",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-icons/lego-ideas-21330-home-alone-mccallisters-house-building-set/p/226501"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-icons/lego-ideas-21330-home-alone-mccallisters-house-building-set/p/226501",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LOjUkBOgx9c",
+      "channel": "Tiago Catarino",
+      "duration": 540.0,
+      "title": "LEGO HOME ALONE REVIEW"
+    },
+    {
+      "id": "oHk97H7Jup8",
+      "channel": "Bricksie",
+      "duration": 667.0,
+      "title": "LEGO HOME ALONE REVIEW | SET 21330"
+    },
+    {
+      "id": "WLeKM7Wv2Ms",
+      "channel": "LEGO",
+      "duration": 360.0,
+      "title": "LEGO Ideas Home Alone | 21330 Designer Video"
+    },
+    {
+      "id": "mwp01cFtBUQ",
+      "channel": "Brick Builder",
+      "duration": 1315.0,
+      "title": "LEGO Ideas 21330 Home Alone Speed Build - Brick Builder"
+    },
+    {
+      "id": "n-O7pkoDMaA",
+      "channel": "Brick By Brick",
+      "duration": 375.0,
+      "title": "LEGO Home Alone 21330 | Speed Build"
+    }
+  ]
+}

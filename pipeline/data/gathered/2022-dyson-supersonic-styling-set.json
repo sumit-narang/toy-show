@@ -1,0 +1,57 @@
+{
+  "id": "2022-dyson-supersonic-styling-set",
+  "year": 2022,
+  "name": "Dyson Supersonic Styling Set",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/dyson-supersonic-and-corrale-toy-hairdryer-and-straighteners-set/p/209078"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/dyson-supersonic-and-corrale-toy-hairdryer-and-straighteners-set/p/209078",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0aI7-JIHQGI",
+      "channel": "Milabu",
+      "duration": 893.0,
+      "title": "New DYSON HAIR TOOL!"
+    },
+    {
+      "id": "r3axQDdJ6ms",
+      "channel": "Ariba Pervaiz",
+      "duration": 723.0,
+      "title": "NEW Dyson Supersonic Attachments - Review and Tutorial | ARIBA PERVAIZ"
+    },
+    {
+      "id": "v_L8h-Bgr-U",
+      "channel": "Tosyen dotcom",
+      "duration": 16.0,
+      "title": "Dyson Supersonic & Corrale Deluxe Styling Set Toys"
+    },
+    {
+      "id": "E-oodc7QNJ8",
+      "channel": "Dyson",
+      "duration": 103.0,
+      "title": "Using the attachments on the Dyson Supersonic™ professional hair dryer"
+    },
+    {
+      "id": "eXAgcKuqFfY",
+      "channel": "Ariba Pervaiz",
+      "duration": 813.0,
+      "title": "Dyson Styling Set &  Airwrap Beachwave - REVIEW & HAIR TUTORIAL | ARIBA PERVAIZ"
+    }
+  ]
+}

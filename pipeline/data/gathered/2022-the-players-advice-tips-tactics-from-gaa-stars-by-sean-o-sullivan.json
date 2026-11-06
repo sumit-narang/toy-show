@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-players-advice-tips-tactics-from-gaa-stars-by-sean-o-sullivan",
+  "year": 2022,
+  "name": "The Players’ Advice: Tips & Tactics from GAA stars by Sean O’ Sullivan",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/product/players-advice-tips-and-tactics-from-gaa-stars-pb-9781788492683"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/players-advice-tips-and-tactics-from-gaa-stars-pb-9781788492683"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wPni_lgh_cI",
+      "channel": "Loaf of Bread GAA Pod",
+      "duration": 1846.0,
+      "title": "Loaf 2 GAA Global: Slice 39 (BOOK SPECIAL) - The Players' Advice"
+    },
+    {
+      "id": "j61wvdzxYgY",
+      "channel": "An Cluiche",
+      "duration": 813.0,
+      "title": "SEÁN O'SULLIVAN - Interview #4 | An Cluiche - Seamus Brady"
+    },
+    {
+      "id": "mkT-ocyM7QA",
+      "channel": "Off The Ball",
+      "duration": 9041.0,
+      "title": "OTB AM | Christmas Sport, Darts season, Rugby w/Keith Wood, The Players Advice & Haaland to MUFC?"
+    },
+    {
+      "id": "3wrtz0JJ3Gw",
+      "channel": "Ballywire Media",
+      "duration": 147.0,
+      "title": "eircom unveiled as sponsor of the All Ireland Football Championship"
+    },
+    {
+      "id": "O2a-3pmbnz8",
+      "channel": "amcleanbookmakers",
+      "duration": 164.0,
+      "title": "Kerry v Dublin Match Preview - All Ireland Football 2013 by @OurLogie / Adrian Logan"
+    }
+  ]
+}

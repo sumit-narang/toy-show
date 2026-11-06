@@ -1,0 +1,57 @@
+{
+  "id": "2022-jack-skellington-savings",
+  "year": 2022,
+  "name": "Jack Skellington Savings",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6m6VuvDksug",
+      "channel": "JoBlo Animation 4K",
+      "duration": 359.0,
+      "title": "THE NIGHTMARE BEFORE CHRISTMAS Clip - Saving Santa (1993) Disney"
+    },
+    {
+      "id": "NkGjlfVa07s",
+      "channel": "JoBlo Animation 4K",
+      "duration": 244.0,
+      "title": "THE NIGHTMARE BEFORE CHRISTMAS Clip - Christmas Eve Takeoff (1993)"
+    },
+    {
+      "id": "11JSrrJ925Y",
+      "channel": "Michael Ng",
+      "duration": 49.0,
+      "title": "Sally Saving Santa Claus!"
+    },
+    {
+      "id": "uwlM46Olwbc",
+      "channel": "Halloween_Dark_Dreams",
+      "duration": 150.0,
+      "title": "The Nightmare Before Christmas (English) Jack kills Oogie Boogie"
+    },
+    {
+      "id": "n1MighRo57s",
+      "channel": "Damian's Transit Videos",
+      "duration": 195.0,
+      "title": "The Nightmare Before Christmas (1993) Final Battle with healthbars (Halloween Special)"
+    }
+  ]
+}

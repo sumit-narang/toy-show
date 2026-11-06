@@ -1,0 +1,57 @@
+{
+  "id": "2021-purse-pets",
+  "year": 2021,
+  "name": "Purse Pets",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Beatty's Loughrea",
+      "url": "https://www.beattys.ie/products/purse-pets"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/",
+      "title": "Beattys of Loughrea | Hardware, Electrical, Gardening, Toys & Home",
+      "description": "Visit Beattys of Loughrea, Galway's premier department store & builders' merchant. Shop 9 specialist departments online with fast nationwide delivery.",
+      "image": "http://www.beattys.ie/cdn/shop/files/beattys_shop_front_ppt_60583d6f-756d-4673-8260-78cfd73fbb1e.jpg?crop=center&height=1200&v=1632215453&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pxYVeWeBCnE",
+      "channel": "TTPM Toy Reviews",
+      "duration": 105.0,
+      "title": "Purse Pets Savannah Spotlight Belt Bag"
+    },
+    {
+      "id": "3PQajozydqQ",
+      "channel": "Nathan Reviews",
+      "duration": 115.0,
+      "title": "Purse Pets Glamicorn Review and How To Demo - Purse Pets Glamicorn Unicorn Interactive Purse"
+    },
+    {
+      "id": "uuh_0wtgiSw",
+      "channel": "Hatchimals",
+      "duration": 174.0,
+      "title": "Interactive Kuromi Purse Pets!| Kuromi How To"
+    },
+    {
+      "id": "MlVTwaEDsQs",
+      "channel": "Hatchimals",
+      "duration": 177.0,
+      "title": "Purse Pets – INTERACTIVE Pet and Purse! – Unboxing and How-To"
+    },
+    {
+      "id": "uSJ0r4Be_9c",
+      "channel": "TTPM Toy Reviews",
+      "duration": 109.0,
+      "title": "Purse Pets Treat Yo Self, Print Perfect, and Hello Kitty and Friends from Spin Master Review!"
+    }
+  ]
+}

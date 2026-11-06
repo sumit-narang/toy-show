@@ -1,0 +1,57 @@
+{
+  "id": "2018-giant-jelly-baby",
+  "year": 2018,
+  "name": "Giant Jelly Baby",
+  "price_eur": 15.0,
+  "price_text": "€15",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OBDz4WjK1KA",
+      "channel": "SimpleCookingChannel",
+      "duration": 329.0,
+      "title": "This Giant Gummy Baby Is Absolutely Huge"
+    },
+    {
+      "id": "Oywd3Mt0pws",
+      "channel": "WAVE TV",
+      "duration": 583.0,
+      "title": "GIANT JELLY BABY"
+    },
+    {
+      "id": "RCZSDrjH0kY",
+      "channel": "Science Revision Channel",
+      "duration": 64.0,
+      "title": "The Screaming Jelly Baby"
+    },
+    {
+      "id": "Wio34SG_0OM",
+      "channel": "The Royal Society",
+      "duration": 207.0,
+      "title": "Big Manny and the screaming jelly baby experiment | The Royal Society"
+    },
+    {
+      "id": "3jSxRrtLd88",
+      "channel": "Jemma Baker",
+      "duration": 424.0,
+      "title": "Eating a giant jelly baby"
+    }
+  ]
+}

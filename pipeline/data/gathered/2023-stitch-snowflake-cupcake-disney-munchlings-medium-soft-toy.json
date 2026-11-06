@@ -1,0 +1,23 @@
+{
+  "id": "2023-stitch-snowflake-cupcake-disney-munchlings-medium-soft-toy",
+  "year": 2023,
+  "name": "Stitch Snowflake Cupcake Disney Munchlings Medium Soft Toy",
+  "price_eur": 35.0,
+  "price_text": "€35",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/stitch-snowflake-cupcake-disney-munchlings-medium-soft-toy-lilo-and-stitch-415157298956.html?isProductSearch=0&plpPosition=undefined&searchType=redirect"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/stitch-snowflake-cupcake-disney-munchlings-medium-soft-toy-lilo-and-stitch-415157298956.html?isProductSearch=0&plpPosition=undefined&searchType=redirect"
+    }
+  ],
+  "video_candidates": []
+}

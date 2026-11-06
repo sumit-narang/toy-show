@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-boba-fett-helmet",
+  "year": 2021,
+  "name": "LEGO Boba Fett Helmet",
+  "price_eur": 64.99,
+  "price_text": "€64.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/boba-fett-helmet-75277"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/boba-fett-helmet-75277"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Swuti7vox4Q",
+      "channel": "MandRproductions",
+      "duration": 607.0,
+      "title": "LEGO Star Wars 75277 Boba Fett Helmet Review! (2020)"
+    },
+    {
+      "id": "cJUzLMtwPt8",
+      "channel": "AustrianBrickFan",
+      "duration": 608.0,
+      "title": "LEGO Star Wars 75277 Boba Fett Helmet - Lego Speed Build Review"
+    },
+    {
+      "id": "CJMlSsWR2Z0",
+      "channel": "Solid Brix Studios",
+      "duration": 295.0,
+      "title": "LEGO Star Wars Boba Fett Helmet 2020 Set Review - 75277"
+    },
+    {
+      "id": "RlOV05VN3K0",
+      "channel": "Solid Brix Studios",
+      "duration": 316.0,
+      "title": "Life-Sized Boba Fett LEGO Helmet!"
+    },
+    {
+      "id": "In3WGgMpzus",
+      "channel": "MandRproductions",
+      "duration": 965.0,
+      "title": "The BEST One Yet? LEGO Star Wars BOBA FETT Review! (75455)"
+    }
+  ]
+}

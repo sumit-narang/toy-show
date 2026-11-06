@@ -1,0 +1,29 @@
+{
+  "id": "2022-hanalee-studios-quillows-quillows-personalised-children-s-pillows",
+  "year": 2022,
+  "name": "Hanalee Studios Quillows Quillows - Personalised Children's Pillows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Hana Lee Studios",
+      "url": "https://hanaleestudios.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://hanaleestudios.ie/",
+      "title": "HanaLee Studios | Wedding Accessories & Irish Gifts for all occasions",
+      "description": "HanaLee Studios specialises in Wedding Accessories such as wedding guest books, bridal gift boxes and bridesmaid proposal boxes. We also craft Irish gifts such as gifts for babies, children and holy communion at our studio near Slane, Co Meath, Ireland.",
+      "image": "http://hanaleestudios.ie/cdn/shop/files/Hana-Lee-Print-01.png?height=628&pad_color=ffffff&v=1614167706&width=1200",
+      "ld_description": "These personalised Quillows are every bit as great as they sound! A quilt and a pillow in one! \nPersonalised Quillows by HanaLee Studios\nOur Quillows come in 2 colours & designs which can be personalised with your child's or anyone else's name.\nInstructions:\nZip down to release the quilt and fold back up and zip it in to put it away again. Perfect for travelling, story time or just snuggled up on the sofa for movie night. Personalised with any name, these are great for home or on the go!\nMeasurements:\nPillow size 35 x 35cm When opened as quilt 150cm x 90cm",
+      "brand": "Hana Lee Studios",
+      "ld_image": "https://hanaleestudios.ie/cdn/shop/products/Pillow_Quillow.jpg?v=1790075969&width=1920"
+    }
+  ],
+  "video_candidates": []
+}

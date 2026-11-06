@@ -1,0 +1,53 @@
+{
+  "id": "2017-glitter-dust-gold-and-pink",
+  "year": 2017,
+  "name": "Glitter Dust (gold and Pink)",
+  "price_eur": 9.95,
+  "price_text": "€9.95",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Q4BH39GERCo",
+      "channel": "JPDC",
+      "duration": 138.0,
+      "title": "Pink Wedding Glitter Background Loop (4K Preview) - Royalty Free Stock"
+    },
+    {
+      "id": "QOdRW-PHPNo",
+      "channel": "Free Video Background loops",
+      "duration": 1800.0,
+      "title": "Purple and Pink Glitter Particle Dust Glowing LED Motion Background 2022 free video background Loops"
+    },
+    {
+      "id": "6PxVBxEe-TA",
+      "channel": "TDM Footage",
+      "duration": 3781.0,
+      "title": "Golden Dust Particles Animation Background video | 4K Gold Dust"
+    },
+    {
+      "id": "hmtIvtUttEY",
+      "channel": "Saint Kriss",
+      "duration": 27.0,
+      "title": "FREE HD Gold Background Glitter Gold Dust Download Stock Footage"
+    },
+    {
+      "id": "YDkRgIiTOLQ",
+      "channel": "IncrediVFX",
+      "duration": 3612.0,
+      "title": "Gold Glitter Dust Bokeh Particle Shower Falling Shimmer Sparkle Rain 4K 60fps Wallpaper Background"
+    }
+  ]
+}

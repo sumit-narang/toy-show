@@ -1,0 +1,60 @@
+{
+  "id": "2022-peigin-leitir-m-r-by-tadhg-mac-dhonnagain-peig-n-leitir-m-ir",
+  "year": 2022,
+  "name": "Peigin Leitir Mór by Tadhg Mac Dhonnagain Peigín Leitir Móir",
+  "price_eur": 16.95,
+  "price_text": "€16.95",
+  "retailers": [
+    {
+      "name": "An Siopa Leabhar",
+      "url": "https://www.siopaleabhar.com/en/product/peigin-leitir-moir/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopaleabhar.com/en/tairgi/peigin-leitir-moir/",
+      "title": "Peigín Leitir Móir - An Siopa Leabhar",
+      "description": "A collection of traditional Irish songs and rhymes. Hardback edition, with CD.",
+      "image": "https://www.siopaleabhar.com/wp-content/uploads/2015/08/9781910945438-600x600.jpg",
+      "ld_description": "A collection of traditional Irish songs and rhymes. Hardback edition, with CD.",
+      "brand": null,
+      "ld_image": "https://www.siopaleabhar.com/wp-content/uploads/2015/08/9781910945438-600x600.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yTrySzwN48Y",
+      "channel": "Tadhg Mac Dhonnagáin - Topic",
+      "duration": 168.0,
+      "title": "Tógfaimid caisleán"
+    },
+    {
+      "id": "mPqB3ROe7pA",
+      "channel": "Tadhg Mac Dhonnagáin - Topic",
+      "duration": 136.0,
+      "title": "Fungie"
+    },
+    {
+      "id": "s6HwYCKu2nA",
+      "channel": "Release - Topic",
+      "duration": 66.0,
+      "title": "An tAsailín Deas"
+    },
+    {
+      "id": "wJqE4ANhjhc",
+      "channel": "Tadhg Mac Dhonnagáin - Topic",
+      "duration": 401.0,
+      "title": "Frog sa Spéir"
+    },
+    {
+      "id": "lm3uuFuxM6E",
+      "channel": "Release - Topic",
+      "duration": 72.0,
+      "title": "Lúrabóg, Lárabóg"
+    }
+  ]
+}

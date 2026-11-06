@@ -1,0 +1,57 @@
+{
+  "id": "2025-minecraft-movie-minecraft-movie-action-figure-man-s-best-wolf",
+  "year": 2025,
+  "name": "Minecraft Movie Minecraft Movie Action Figure Man's Best Wolf",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-action-figure-mans-best-wolf-2-pack/p/242925"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-action-figure-mans-best-wolf-2-pack/p/242925",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SN45jaZWMnU",
+      "channel": "JJ Toys Review",
+      "duration": 1089.0,
+      "title": "Unboxing ALL the MINECRAFT MOVIE TOYS!  Steve, Dennis The Wolf, Creeper, Blast Attack Ghast"
+    },
+    {
+      "id": "yZ9LCDodj54",
+      "channel": "Minecraft tommy",
+      "duration": 170.0,
+      "title": "The Minecraft movie Jack Black diamond armor Steve & man’s best wolf Dennis mystery figures preview￼"
+    },
+    {
+      "id": "M4vNf4Uv1P0",
+      "channel": "AdventureFun!",
+      "duration": 2996.0,
+      "title": "A Minecraft Movie Official Movie Trailer Ultimate Toy Action Figures Collection!"
+    },
+    {
+      "id": "Byi5DdfImLM",
+      "channel": "Bootleg Toys Collector",
+      "duration": 731.0,
+      "title": "[Minecraft] Man's Best Wolf 2 Pack Action Figures"
+    },
+    {
+      "id": "HIT2bzxmvbU",
+      "channel": "Sammys collectable toys hall",
+      "duration": 62.0,
+      "title": "New Minecraft Movie action figures revealed preorder info by Mattel"
+    }
+  ]
+}

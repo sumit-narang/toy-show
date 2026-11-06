@@ -1,0 +1,57 @@
+{
+  "id": "2022-my-first-smart-fridge-playset",
+  "year": 2022,
+  "name": "My First Smart Fridge Playset",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/kitchen-corner-my-first-smart-fridge-playset/p/205381"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/kitchen-corner-my-first-smart-fridge-playset/p/205381",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-IV4a9admSM",
+      "channel": "Toys Store",
+      "duration": 73.0,
+      "title": "Play go  my smart fridge toy "
+    },
+    {
+      "id": "xugT5l9BhzA",
+      "channel": "F22m AsmR",
+      "duration": 842.0,
+      "title": "14 Minutes Satisfying with Unboxing My Story The Biggest Refrigerator | ASMR"
+    },
+    {
+      "id": "oCbegRDxgak",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 1146.0,
+      "title": "Teach Kids Food Names with Pororo Refrigerator and Paw Patrol!"
+    },
+    {
+      "id": "PSTW_FInat8",
+      "channel": "Bee Zippo",
+      "duration": 436.0,
+      "title": "Casdon Electronic PRETEND SINK DISHWASHER & Fridge Playset! Kitchen Toys for Children! - Kidschanel"
+    },
+    {
+      "id": "gCmuvGH8NYY",
+      "channel": "Darla's Fun Times",
+      "duration": 120.0,
+      "title": "Cute Toy Refrigerator /Pretend Play"
+    }
+  ]
+}

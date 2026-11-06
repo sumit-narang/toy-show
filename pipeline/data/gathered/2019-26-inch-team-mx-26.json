@@ -1,0 +1,57 @@
+{
+  "id": "2019-26-inch-team-mx-26",
+  "year": 2019,
+  "name": "26 Inch Team MX-26",
+  "price_eur": 179.99,
+  "price_text": "€179.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/26-bikes-12%2Byrs-/26-inch-team-mx-26/p/165967"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/26-bikes-12%2Byrs-/26-inch-team-mx-26/p/165967",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DPpmtHIMvQQ",
+      "channel": "Sana Bibi MTB",
+      "duration": 762.0,
+      "title": "Team GX-26 Junior MTB Full Review and Specifications (also take a look at Zoom suspension fork)....."
+    },
+    {
+      "id": "oVnRSMKZetY",
+      "channel": "Sana Bibi MTB",
+      "duration": 431.0,
+      "title": "Team GX-26 Junior Mountain Bike Trail Ride and Skate Park Test and Slope Mound Fun"
+    },
+    {
+      "id": "KYLyNn7fewo",
+      "channel": "Allbike svideos",
+      "duration": 36.0,
+      "title": "Bicycle Orbea Mx 26 30 Dama 2014"
+    },
+    {
+      "id": "3nChl2zXXtQ",
+      "channel": "Bikely",
+      "duration": 249.0,
+      "title": "Comparing 26 Inch vs 29 Inch Mountain Bikes: Which is Right for You?"
+    },
+    {
+      "id": "GYmg75cF2zU",
+      "channel": "Allbike svideos",
+      "duration": 36.0,
+      "title": "Bicycle Orbea Mx 26 10 Dama 2014"
+    }
+  ]
+}

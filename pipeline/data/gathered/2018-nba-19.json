@@ -1,0 +1,65 @@
+{
+  "id": "2018-nba-19",
+  "year": 2018,
+  "name": "NBA 19",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Playstation",
+      "url": "https://www.playstation.com/en-za/"
+    },
+    {
+      "name": "Sony",
+      "url": "https://www.sony.ie/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.playstation.com/en-za/",
+      "title": "PlayStation® Official Site: Consoles, Games, Accessories & More",
+      "description": "Explore the new generation PlayStation 4 and PS5 consoles - experience immersive gaming with thousands of hit games in every genre to rewrite the rules for what a PlayStation console can do.",
+      "image": null
+    },
+    {
+      "status": 403,
+      "final_url": "https://www.sony.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S8DjYmupuZM",
+      "channel": "Section Plays",
+      "duration": 3163.0,
+      "title": "NBA 2K19 - PS4 Gameplay"
+    },
+    {
+      "id": "8N2VBFQd5SI",
+      "channel": "IGN",
+      "duration": 261.0,
+      "title": "NBA Live 19 Review"
+    },
+    {
+      "id": "pnmAxzC0fC4",
+      "channel": "SOFTDRINKTV",
+      "duration": 700.0,
+      "title": "NBA 2K19 Retrospective"
+    },
+    {
+      "id": "Mre6zeJ4o_k",
+      "channel": "PlayStation Europe",
+      "duration": 59.0,
+      "title": "NBA 2K19 | Gameplay Trailer | PS4"
+    },
+    {
+      "id": "smpU5Q_zngg",
+      "channel": "Zach 2K",
+      "duration": 1545.0,
+      "title": "The 2026 \"NBA Live\" Experience"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-shaker-baker",
+  "year": 2017,
+  "name": "Shaker Baker",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wvL_3XfLMwc",
+      "channel": "Mixtape Madness",
+      "duration": 411.0,
+      "title": "Shaker - Mad About Bars w/ Kenny Allstar [S4.E10] | @MixtapeMadness"
+    },
+    {
+      "id": "0Csb3bZWFzI",
+      "channel": "Link Up TV",
+      "duration": 164.0,
+      "title": "Shaker - HB Freestyle | Link Up TV"
+    },
+    {
+      "id": "vfwlV3pjaoI",
+      "channel": "Link Up TV",
+      "duration": 189.0,
+      "title": "Shaker - Jupiter Freestyle [Music Video] @ShakerTheBaker"
+    },
+    {
+      "id": "ZU7mEmmJA1Q",
+      "channel": "Shakerthebaker",
+      "duration": 182.0,
+      "title": "Shaker The Baker - Quick To Forget (Official Music Video)"
+    },
+    {
+      "id": "0ZJ5d4dXKMo",
+      "channel": "Shakerthebaker",
+      "duration": 191.0,
+      "title": "Shaker The Baker - King Of Hearts (Official Music Video)"
+    }
+  ]
+}

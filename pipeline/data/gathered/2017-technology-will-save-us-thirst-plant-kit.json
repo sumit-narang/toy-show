@@ -1,0 +1,53 @@
+{
+  "id": "2017-technology-will-save-us-thirst-plant-kit",
+  "year": 2017,
+  "name": "Technology Will Save Us \"Thirst Plant Kit",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Atnorrs",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RPRjY8-IIpo",
+      "channel": "Tech Will Save Us",
+      "duration": 465.0,
+      "title": "Make with DIY Thirsty Plant Kit"
+    },
+    {
+      "id": "-fuX4_3tDBI",
+      "channel": "Tech Will Save Us",
+      "duration": 50.0,
+      "title": "DIY Thirsty Plant Graph"
+    },
+    {
+      "id": "n93-pQ0ym_k",
+      "channel": "Brookstone",
+      "duration": 465.0,
+      "title": "DIY Thirsty Plant Moisture Sensor Solar Electricity Kit by Technology Will Save Us"
+    },
+    {
+      "id": "PWpS3iAOOWg",
+      "channel": "Tech Will Save Us",
+      "duration": 98.0,
+      "title": "Technology Will Save Us!"
+    },
+    {
+      "id": "1DGCLv38C-w",
+      "channel": "Tech Will Save Us",
+      "duration": 84.0,
+      "title": "WATER BOMB - DIY THIRSTY PLANT & ARDUINO"
+    }
+  ]
+}

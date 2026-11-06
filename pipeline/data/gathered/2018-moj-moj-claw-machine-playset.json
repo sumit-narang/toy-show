@@ -1,0 +1,72 @@
+{
+  "id": "2018-moj-moj-claw-machine-playset",
+  "year": 2018,
+  "name": "Moj Moj Claw Machine Playset",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XSjBVZ_CAfo",
+      "channel": "PatahrakPlays",
+      "duration": 642.0,
+      "title": "Toy Claw Machines - Are These Worth It? Moj Moj | Takara Tomy"
+    },
+    {
+      "id": "a_SgeuOOkR0",
+      "channel": "The Doll Archives",
+      "duration": 1147.0,
+      "title": "MOJ MOJ Squishies Claw Machine Sun Color Changers"
+    },
+    {
+      "id": "mhHTZMYx81o",
+      "channel": "Sophie's Play Day",
+      "duration": 1031.0,
+      "title": "Moj Moj Claw Machine Vs. The Claw Candy Grabber Crane Toy Unboxing Moj Moj Sparkle Series Squishes"
+    },
+    {
+      "id": "wduEhc88WRI",
+      "channel": "Seiyaest",
+      "duration": 714.0,
+      "title": "Moj Moj Claw Machine | But why it’s so hard @.@😿"
+    },
+    {
+      "id": "_bEUaihnptM",
+      "channel": "Scoop on Stuff",
+      "duration": 959.0,
+      "title": "New Moj Moj Claw Machine Toy"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-nevermoor",
+  "year": 2017,
+  "name": "Nevermoor",
+  "price_eur": 10.49,
+  "price_text": "€10.49",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qWZ0P7UQE7w",
+      "channel": "sl33p¥_x_g0bl!n",
+      "duration": 23.0,
+      "title": "/-The Accident-/-A Quick and Messy Nevermoor Animatic-/"
+    },
+    {
+      "id": "y73w0Rp49gg",
+      "channel": "his kiss, the riot",
+      "duration": 47.0,
+      "title": "Inferno - Nevermoor Skit"
+    },
+    {
+      "id": "JtCo8MqgctQ",
+      "channel": "thad",
+      "duration": 274.0,
+      "title": "nevermoor, but it's starkid"
+    },
+    {
+      "id": "PAzT3Ykp360",
+      "channel": "Emily!!!!",
+      "duration": 352.0,
+      "title": "The plot of Nevermoor explained by random videos I found to commemorate the release of Silverborn"
+    },
+    {
+      "id": "OBQF0-aAVO8",
+      "channel": "Little, Brown Young Readers",
+      "duration": 43.0,
+      "title": "Jessica Townsend Presents an Introduction to NEVERMOOR"
+    }
+  ]
+}

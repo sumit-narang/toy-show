@@ -1,0 +1,57 @@
+{
+  "id": "2022-mattel-jurassic-world-extreme-chompin-spinosaurus",
+  "year": 2022,
+  "name": "Mattel Jurassic World Extreme Chompin' Spinosaurus",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MLp18_Q-J58",
+      "channel": "Antosaurus",
+      "duration": 590.0,
+      "title": "Jurassic World Extreme Chompin' Spinosaurus | Mattel Toy Unboxing and Review"
+    },
+    {
+      "id": "bCeEp6BSy-0",
+      "channel": "Legacy Studios",
+      "duration": 336.0,
+      "title": "THE JURASSIC WORLD CAMP CRETACEOUS EXTREME CHOMPIN’ SPINOSAURUS UNBOXING/REVIEW"
+    },
+    {
+      "id": "VuxAcIM2bXY",
+      "channel": "T-Rexcellent Reviews",
+      "duration": 21.0,
+      "title": "Jurassic World: Camp Cretaceous Extreme Chomping Spinosaurus Mattel Toy Commercial"
+    },
+    {
+      "id": "2nb2o74tfC4",
+      "channel": "SquirrelStampede",
+      "duration": 1269.0,
+      "title": "Jurassic World Camp Cretaceous Spinosaurus Extreme Chompin Review"
+    },
+    {
+      "id": "-gkHB-hXHqM",
+      "channel": "Dino Scream Reviews",
+      "duration": 722.0,
+      "title": "Mattel Camp Cretaceous Extreme Chompin’ Spinosaurus Review!! Jurassic World"
+    }
+  ]
+}

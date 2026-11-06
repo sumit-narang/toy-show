@@ -1,0 +1,26 @@
+{
+  "id": "2022-twinky-the-bunny-by-the-wonky-woolins",
+  "year": 2022,
+  "name": "Twinky the Bunny by The Wonky Woolins",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Wonky Woolins",
+      "url": "https://www.thewonkywoolins.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thewonkywoolins.com/",
+      "title": "The Wonky Woolins, Baby Gifts Ireland | Handmade Heirloom Quality Toys",
+      "description": "We create memories that last for generations with our range of ethically handmade and heirloom-quality children's toys and baby gifts. All of our handmade toys are created using high-quality materials and age-old techniques to ensure that they are the perfect unique and memorable gift for a new baby or toddler.",
+      "image": "http://www.thewonkywoolins.com/cdn/shop/files/Wonky_Woolins_Logo_6_c4fe031d-a79e-4e8a-88e6-fab93219701d.png?v=1707400228"
+    }
+  ],
+  "video_candidates": []
+}

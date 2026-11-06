@@ -1,0 +1,60 @@
+{
+  "id": "2023-finding-my-voice",
+  "year": 2023,
+  "name": "Finding My Voice",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/finding-my-voice-aoife-dooley-9780702307386"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/finding-my-voice-aoife-dooley-9780702307386",
+      "title": "Frankies World 2 Finding My Voice By Aoife Dooley",
+      "description": "Frankies World 2 Finding My Voice by Aoife Dooley. A two-colour graphic novel about speaking-up and standing out when you feel different. Perfect for fans of Raina Telgemeier.",
+      "image": null,
+      "ld_description": "A two-colour graphic novel about speaking-up and standing out\n      when you feel different. Perfect for fans of Raina Telgemeier\n\n      How do you find your voice when everyone around you is\n      telling you to be quiet?\n      Frankie is different, and so is her best-friend, Sam. So when\n      they both start secondary school, it's tough. Particularly when there\n      are so many rules to follow, like: No talking in class! Be quiet\n      in the hallways! Silence for assembly!\n      Frankie doesn't know how she'll manage, because constantly talking\n      is how she copes. So when she gets the chance to compete in\n      a Battle of the Bands contest, Frankie couldn't be more\n      excited. Except, to have a band, you need to have band members. And\n      to have band members, you need to be good at making friends...\n\n      Can Frankie learn to find her voice and stand out?\n\n      \n      A unique perspective on Autism, told with humour and\n      heart.\n      Brought to life with glorious colour artwork in a distinctive\n      blue and orange palette.\n      Perfect for fans of Raina Telgemeier.\n      \n       \n      Praise for FRANKIE'S WORLD:\n      \"I loved Frankie's story and could really identify with\n      her character. This is such an amazing graphic novel that represents\n      neurodiversity really realistically.\" Libby Scott\n\n      \"Aoife Dooley captures Frankie's autistic experience with\n      great care, humour and love.\" Lizzie Huxley-Jones\n\n      \"A fun and relatable r",
+      "brand": "Scholastic",
+      "ld_image": "https://www.easons.com/images/asset/b6c39923-b79d-4ab1-a635-10821bad8ae4/9780702307386_5642242049.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RCt-vE-YlAk",
+      "channel": "DT Film Productions",
+      "duration": 91.0,
+      "title": "FINDING MY VOICE (OFFICIAL TRAILER)"
+    },
+    {
+      "id": "D9eml4m_hDg",
+      "channel": "DT Film Productions",
+      "duration": 91.0,
+      "title": "Finding my Voice official trailer. "
+    },
+    {
+      "id": "U0wVEvGe8f8",
+      "channel": "Rainbow High",
+      "duration": 157.0,
+      "title": "Found My Voice 🔥 | Official Music Video | Rainbow High"
+    },
+    {
+      "id": "TPZB5Yyp4iA",
+      "channel": "Rainbow High",
+      "duration": 108.0,
+      "title": "Find My Voice 🎹 | Glitch's Song from Season 3 | Rainbow High"
+    },
+    {
+      "id": "AmNmm3R7giw",
+      "channel": "AI Prompta",
+      "duration": 234.0,
+      "title": "Finding My Voice"
+    }
+  ]
+}

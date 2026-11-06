@@ -1,0 +1,57 @@
+{
+  "id": "2018-alphabet-jigsaws",
+  "year": 2018,
+  "name": "Alphabet Jigsaws",
+  "price_eur": 31.95,
+  "price_text": "€31.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bKAloX0cE0c",
+      "channel": "ChupiChapa",
+      "duration": 2581.0,
+      "title": "discover ABC with Puzzles | Alphabet Puzzle | kids Toddler fun videos"
+    },
+    {
+      "id": "t4s13Q9gzpA",
+      "channel": "Shinee - Educational Videos for Kids",
+      "duration": 1682.0,
+      "title": "Discover ABC with Puzzles | Alphabet Puzzle | Kids Toddler Fun Videos"
+    },
+    {
+      "id": "dcv4l8oxd0Q",
+      "channel": "ChupiChapa",
+      "duration": 658.0,
+      "title": "discover Alphabet, Colors, Numbers & Animals 🧩🔤 fun Puzzles for Kids"
+    },
+    {
+      "id": "XcO00stzj_w",
+      "channel": "Kids Learn and Grow - Educational Videos",
+      "duration": 1756.0,
+      "title": "Kids ABC Toy Learning Puzzle! Toddlers practice counting, colors, numbers, shapes & alphabet | ABCDE"
+    },
+    {
+      "id": "pfXZo-63Bk0",
+      "channel": "a4cwsn",
+      "duration": 180.0,
+      "title": "My first Puzzles: Alphabet"
+    }
+  ]
+}

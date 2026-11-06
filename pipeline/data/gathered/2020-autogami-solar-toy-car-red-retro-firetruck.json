@@ -1,0 +1,23 @@
+{
+  "id": "2020-autogami-solar-toy-car-red-retro-firetruck",
+  "year": 2020,
+  "name": "Autogami Solar Toy Car – Red Retro Firetruck",
+  "price_eur": 15.73,
+  "price_text": "€15.73",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/autogami-solar-powered-built-charge-play-car-firetruck?_pos=2&_sid=37067e52a&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://jiminy.ie/products/autogami-solar-powered-built-charge-play-car-firetruck?_pos=2&_sid=37067e52a&_ss=r"
+    }
+  ],
+  "video_candidates": []
+}

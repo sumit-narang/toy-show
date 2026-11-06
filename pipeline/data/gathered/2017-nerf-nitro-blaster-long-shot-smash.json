@@ -1,0 +1,64 @@
+{
+  "id": "2017-nerf-nitro-blaster-long-shot-smash",
+  "year": 2017,
+  "name": "Nerf Nitro Blaster Long Shot Smash",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EnXzlggeTM0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 99.0,
+      "title": "Nerf Nitro Longshot Smash Blaster [REVIEW] | Hasbro Toys & Games"
+    },
+    {
+      "id": "bnSnJjYfelA",
+      "channel": "Panel Kırtasiye Mağaza",
+      "duration": 23.0,
+      "title": "Nerf Nitro Longshot Smash C0784"
+    },
+    {
+      "id": "nRkvf8XaHIw",
+      "channel": "Toymaster Ltd",
+      "duration": 23.0,
+      "title": "Nerf Nitro LongShot Smash"
+    },
+    {
+      "id": "0AkOu6MAB28",
+      "channel": "Coop772",
+      "duration": 1000.0,
+      "title": "[REVIEW] Nerf Nitro Launchers | Bulk Review!"
+    },
+    {
+      "id": "zs1Npz4-x38",
+      "channel": "minsoo Park",
+      "duration": 32.0,
+      "title": "Hasbro Nerf Nitro Blaster"
+    }
+  ]
+}

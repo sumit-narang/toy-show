@@ -1,0 +1,44 @@
+{
+  "id": "2022-adam-wins-the-internet-adam-b",
+  "year": 2022,
+  "name": "Adam Wins the Internet - Adam B",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "LY6xMHI0cC8",
+      "channel": "Bloomsbury Publishing",
+      "duration": 30.0,
+      "title": "Adam Wins the Internet by Adam B - official book trailer"
+    },
+    {
+      "id": "1K3_RDGcyR4",
+      "channel": "Chapters Bookstore",
+      "duration": 28.0,
+      "title": "Adam B New Book 2023, ADAM DESTROYS THE INTERNET."
+    },
+    {
+      "id": "cfNFBp3EnFk",
+      "channel": "Easons Ireland",
+      "duration": 38.0,
+      "title": "Adam B Introduces Adam Wins The Internet"
+    },
+    {
+      "id": "4EUcMrsd65Q",
+      "channel": "Bloomsbury Publishing",
+      "duration": 31.0,
+      "title": "Adam Destroys the Internet (Book 2) by Adam B"
+    },
+    {
+      "id": "wt8RfQwSpyA",
+      "channel": "Google Play Books",
+      "duration": 938.0,
+      "title": "Adam Wins the Internet by Adam B · Audiobook preview"
+    }
+  ]
+}

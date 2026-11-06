@@ -1,0 +1,64 @@
+{
+  "id": "2017-imaginext-dc-superfriends-batbot-xtreme",
+  "year": 2017,
+  "name": "Imaginext DC Superfriends BatBot Xtreme",
+  "price_eur": 94.99,
+  "price_text": "€94.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "szm28fP1QQ4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 109.0,
+      "title": "Imaginext DC Super Friends Batbot Xtreme from Fisher-Price"
+    },
+    {
+      "id": "UCugkVPYi8w",
+      "channel": "Echoes of PlayTime",
+      "duration": 15.0,
+      "title": "Imaginext DC Super Friends Batbot Xtreme (Fisher-Price / Mattel) TV Commercial - 2017"
+    },
+    {
+      "id": "20W0VGauqkg",
+      "channel": "Baz Fam",
+      "duration": 383.0,
+      "title": "Imaginext Batbot Xtreme | Parent Review | Super Hero Toys for Kids | Batman Toys | Robots for Kids"
+    },
+    {
+      "id": "1ASWHjaNPdA",
+      "channel": "Just4fun290 Original Videos ",
+      "duration": 696.0,
+      "title": "Imaginext Batman Batbot Xtreme - Just4fun290 Original Videos"
+    },
+    {
+      "id": "Ag3fZ4-2BNA",
+      "channel": "KhanFlicks",
+      "duration": 329.0,
+      "title": "UNBOXING & LETS PLAY! Giant BATBOT XTREME - Transforming Robot With Voice Changer FULL REVIEW!"
+    }
+  ]
+}

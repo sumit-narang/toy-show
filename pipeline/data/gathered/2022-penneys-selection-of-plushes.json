@@ -1,0 +1,54 @@
+{
+  "id": "2022-penneys-selection-of-plushes",
+  "year": 2022,
+  "name": "Penneys Selection of Plushes",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": "http://primark.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://primark.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "x_60r4Ggw_Y",
+      "channel": "Mendus in Ireland ",
+      "duration": 648.0,
+      "title": "What we shopped at Penneys Cork🛍 Penneys Shopping Haul👗💄 Dayvlog📽 Know the Penneys prices😊"
+    },
+    {
+      "id": "Th71NBDCaPQ",
+      "channel": "Miss Frodo's Toy Horde",
+      "duration": 335.0,
+      "title": "Toys of the Horde: Disney Tsum Tsum JC Penney Haul"
+    },
+    {
+      "id": "J4rm9V--Omk",
+      "channel": "Exploring the Unique & Remarkable",
+      "duration": 125.0,
+      "title": "Mickey Mouse & Minnie Mouse Merchandise @ JCPenney"
+    },
+    {
+      "id": "_L5p0th7bs4",
+      "channel": "Sanprano 🤌🤌",
+      "duration": 1030.0,
+      "title": "Toy Hunt Vlog: JCPENNEY Stacked with Marvel Legends."
+    },
+    {
+      "id": "6tJZyPUisCE",
+      "channel": "Rina in London",
+      "duration": 659.0,
+      "title": "Primark shopping "
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-hot-wheels-track-builder-stunt-box",
+  "year": 2019,
+  "name": "Hot Wheels Track Builder Stunt Box",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jpQlKxUKJA4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 93.0,
+      "title": "Hot Wheels Track Builder System Stunt Box from Mattel"
+    },
+    {
+      "id": "UL1mWoPECvw",
+      "channel": "The Entertainer",
+      "duration": 68.0,
+      "title": "Hot Wheels Track Builder Unlimited Fuel Can Stunt Box"
+    },
+    {
+      "id": "KeRuUtU79cE",
+      "channel": "FunWorldpk",
+      "duration": 38.0,
+      "title": "Hot Wheels Track Builder Deluxe Stunt Box"
+    },
+    {
+      "id": "7FSRkphLihY",
+      "channel": "64Wheels",
+      "duration": 1094.0,
+      "title": "UNBOXING: Hot Wheels Fuel Can Stunt Box Track Builder Playset (New for 2022)"
+    },
+    {
+      "id": "hYW1HTR1oZo",
+      "channel": "TTPM Toy Reviews",
+      "duration": 134.0,
+      "title": "Hot Wheels Deluxe Stunt Box from Mattel"
+    }
+  ]
+}

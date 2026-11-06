@@ -1,0 +1,54 @@
+{
+  "id": "2019-great-gizmos-steam-powered-kids-weather-station",
+  "year": 2019,
+  "name": "Great Gizmos STEAM Powered Kids Weather Station",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/great-gizmos-steam-powered-kids-weather-station/1600381904.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/great-gizmos-steam-powered-kids-weather-station/1600381904.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "G-21rOuwfV8",
+      "channel": "JOHNCO TOYS",
+      "duration": 79.0,
+      "title": "4M New STEAM Toys"
+    },
+    {
+      "id": "wsBtvKFtb3g",
+      "channel": "Estimularte Jugueteria",
+      "duration": 38.0,
+      "title": "ESTACIÓN METEOROLÓGICA STEAM 4M Kidz Labs - Weather Station Steam"
+    },
+    {
+      "id": "unCXbNDEiaE",
+      "channel": "Carousel gr",
+      "duration": 46.0,
+      "title": "Κατασκευή Μετεωρολογικός Σταθμός 4m0491"
+    },
+    {
+      "id": "7XUpvrzMDZ4",
+      "channel": "Rare Clips",
+      "duration": 110.0,
+      "title": "A BBC sketch was right about Jimmy Savile"
+    },
+    {
+      "id": "xkEWyg8vK30",
+      "channel": "North Yorkshire Moors Railway (NYMR)",
+      "duration": 60.0,
+      "title": "The North Yorkshire Moors Railway - A Fantastic Day Out"
+    }
+  ]
+}

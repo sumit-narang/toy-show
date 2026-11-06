@@ -1,0 +1,54 @@
+{
+  "id": "2024-nina-peanut-mega-mystery-solver-by-sarah-bowie",
+  "year": 2024,
+  "name": "Nina Peanut: Mega Mystery Solver by Sarah Bowie",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/nina-peanut-mega-mystery-solver-book-2"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/nina-peanut-mega-mystery-solver-book-2",
+      "title": "Bowie Sarah: Nina Peanut: Mega Mystery Solver (Book 2) [2024] paperback",
+      "description": "Bowie Sarah: Nina Peanut: Mega Mystery Solver (Book 2) [2024] paperback | The second laugh-out-loud full colour story starring Nina Peanut - top choice for Class Captain, ghost hunter and detective extraordinaire, creative genius. The funniest new friend for all kids, everywhere. Guess w",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/sarah-bowie-bowie-sarah-nina-peanut-mega-mystery-solver-book-2-2024-paperback-9780702329883-57205547729235_1200x1200.jpg?v=1771601586",
+      "ld_description": "The second laugh-out-loud full colour story starring      Nina Peanut - top choice for Class Captain, ghost hunter and detective      extraordinaire, creative genius. The funniest new friend for      all kids, everywhere.            Guess who is a GHOST and is living RIGHT HERE in this school? It's      Lady Deborah from our HISTORY LESSON, and she is stuck in her OWN      SHOE. Watch as Brian and I film our investigations to find out      WHAT she's doing there and how we can set her free. I'm also battling      Megan Dunne to become class captain - vote for me, because      who is more of a GHOST EXPERT than I am? Answer: HARDLY ANYONE!             Hilariously funny, with themes of friendship/frenemies, big dreams,      brilliant pets: hours and hours of reading fun guaranteed      for kids.      Warm, offbeat wit and gorgeous, bright full colour pictures throughout.      Perfect for fans of Wimpy Kid, Dork Diaries and      Lottie Brooks.",
+      "brand": "Bowie, Sarah",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/sarah-bowie-bowie-sarah-nina-peanut-mega-mystery-solver-book-2-2024-paperback-9780702329883-57205547729235_259x.jpg?v=1771601586"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xT80nfJE2GU",
+      "channel": "Google Play Books",
+      "duration": 924.0,
+      "title": "Nina Peanut: Mega Mystery Solver Book 2 by Sarah Bowie · Audiobook preview"
+    },
+    {
+      "id": "PCYZlAB09IE",
+      "channel": "Free Audiobook",
+      "duration": 300.0,
+      "title": "Nina Peanut: Mega Mystery Solver Audiobook by Sarah Bowie"
+    },
+    {
+      "id": "-bGxzIG20Hs",
+      "channel": "Lucy Starbuck Braidley",
+      "duration": 2753.0,
+      "title": "Comic Boom - Comics in Education with creator Isabel Greenberg"
+    },
+    {
+      "id": "UGs_C1cW4v4",
+      "channel": "School Reading List",
+      "duration": 2801.0,
+      "title": "Episode 24 - Why DuckDuckGo is best for book searches"
+    }
+  ]
+}

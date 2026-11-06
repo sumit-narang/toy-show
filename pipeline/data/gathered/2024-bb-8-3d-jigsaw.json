@@ -1,0 +1,57 @@
+{
+  "id": "2024-bb-8-3d-jigsaw",
+  "year": 2024,
+  "name": "BB-8 3D Jigsaw",
+  "price_eur": null,
+  "price_text": "£18.44",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/Ravensburger-Star-Wars-Puzzle-Years/dp/B0CSZ5R9DB"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Ravensburger-Star-Wars-Puzzle-Years/dp/B0CSZ5R9DB",
+      "title": "Ravensburger 3D Puzzle Ball - Star Wars BB-8 - Ages 8+ | 99 Pieces, Star Wars, No Glue Required, Creative Craft Construction Kits for Kids & Adults : Amazon.co.uk: Toys & Games",
+      "description": "Ravensburger 3D Puzzle Ball - Star Wars BB-8 - Ages 8+ | 99 Pieces, Star Wars, No Glue Required, Creative Craft Construction Kits for Kids & Adults : Amazon.co.uk: Toys & Games",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cqwCGY9hcck",
+      "channel": "RobotsBlog",
+      "duration": 2031.0,
+      "title": "Ravensburger Star Wars 3D Puzzle - BB-8 Robot Realtime Build "
+    },
+    {
+      "id": "A8PZqDAQu1A",
+      "channel": "RobotsBlog",
+      "duration": 32.0,
+      "title": "Ravensburger Star Wars 3D Puzzle - BB-8 Robot Timelapse Build "
+    },
+    {
+      "id": "P3aLyQvLL24",
+      "channel": "LAMBDA CRAFT",
+      "duration": 775.0,
+      "title": "Star Wars BB-8 - 3D Metal Puzzle #4"
+    },
+    {
+      "id": "lZ-qMDxDEDg",
+      "channel": "Rebel Scum",
+      "duration": 363.0,
+      "title": "Star Wars 4D Puzz BB-8 Review"
+    },
+    {
+      "id": "JIl6tM3tlEM",
+      "channel": "CityAperture",
+      "duration": 304.0,
+      "title": "Assembling the BB 8 Metal Model Kit"
+    }
+  ]
+}

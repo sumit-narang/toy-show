@@ -1,0 +1,26 @@
+{
+  "id": "2022-les-schmouks-boubou-les-schmouks",
+  "year": 2022,
+  "name": "les Schmouks: BouBou Les Schmouks",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Moulin Roty",
+      "url": "https://www.moulinroty.com/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.moulinroty.com/en/",
+      "title": "Moulin Roty - Our website is getting a makeover",
+      "description": "In the meantime, discover the story of the brand, from 1972 to today.",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

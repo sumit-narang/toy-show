@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-super-mario-adventures-with-mario",
+  "year": 2021,
+  "name": "LEGO Super Mario Adventures with Mario",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/adventures-with-mario-starter-course-71360"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/adventures-with-mario-starter-course-71360"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tuC97LtpaiM",
+      "channel": "All New Bricks",
+      "duration": 254.0,
+      "title": "LEGO Super Mario 71360: Adventures with Mario Starter Course"
+    },
+    {
+      "id": "V5hJz4eyopM",
+      "channel": "週末ひとりレゴ",
+      "duration": 576.0,
+      "title": "【New and Old】Adventures with Interactive LEGO® Mario™ 71439 Adventures with Mario 71360"
+    },
+    {
+      "id": "BAoyKfQqzYY",
+      "channel": "LEGO",
+      "duration": 62.0,
+      "title": "LEGO Super Mario - Adventures with Mario Starter Course - 71360"
+    },
+    {
+      "id": "cwgbdaMCEIM",
+      "channel": "AustrianBrickFan",
+      "duration": 349.0,
+      "title": "LEGO Super Mario 71439 Adventures with Interactive LEGO Mario - LEGO Speed Build Review"
+    },
+    {
+      "id": "IKkKDm4Mufk",
+      "channel": "Pure Builds",
+      "duration": 1620.0,
+      "title": "Pure Build 🎧 LEGO Super Mario Adventures with Mario 71360 ASMR"
+    }
+  ]
+}

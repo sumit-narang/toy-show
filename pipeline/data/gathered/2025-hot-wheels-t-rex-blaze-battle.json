@@ -1,0 +1,54 @@
+{
+  "id": "2025-hot-wheels-t-rex-blaze-battle",
+  "year": 2025,
+  "name": "Hot Wheels T-Rex Blaze Battle",
+  "price_eur": 31.99,
+  "price_text": "€31.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/hot-wheels-city-t-rex-blaze-battle/1601076579.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/hot-wheels-city-t-rex-blaze-battle/1601076579.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5LPEIbtFZzM",
+      "channel": "Lincoln's Super Fantastic Toy Review",
+      "duration": 921.0,
+      "title": "HOT WHEELS T-REX BLAZE BATTLE!  T-REX IS BACK AND LINCOLN IS HERE TO OPEN, BUILD, AND PLAY!"
+    },
+    {
+      "id": "KLL7tiY2jIo",
+      "channel": "True Toys",
+      "duration": 29.0,
+      "title": "Hot Wheels City T-Rex Blaze Battle Playset"
+    },
+    {
+      "id": "AhrjLV3eH3o",
+      "channel": "AdventureFun!",
+      "duration": 1545.0,
+      "title": "Hot Wheels City Jurassic World Dino T-Rex Battle Blaze Fire Station – Defeat The T-Rex!"
+    },
+    {
+      "id": "68Ldk6pSFFM",
+      "channel": "Toysomnia ASMR",
+      "duration": 843.0,
+      "title": "ASMR Hot Wheels Collection Unboxing/Hot Wheels T Rex Blaze Battle/Relaxing Sounds/Model Cars"
+    },
+    {
+      "id": "Pf6G0_318D0",
+      "channel": "Awesome FunToys",
+      "duration": 527.0,
+      "title": "[🤖toy asmr🤖] Hot Wheels T-Rex Blaze Battle 🦖🏎️ ASMR Unboxing No Talking | Toys Review"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-harry-potter-blanket",
+  "year": 2022,
+  "name": "Harry Potter Blanket",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Primark",
+      "url": "https://www.primark.com/en-ie/search?text=harry+potter&productPagePosition=0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/search?text=harry+potter&productPagePosition=0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y7FznmUslpI",
+      "channel": "Knitsirdar",
+      "duration": 3154.0,
+      "title": "Harry Potter™ Journey To Hogwarts Crochet Along: Week One - Hogwarts House Crest"
+    },
+    {
+      "id": "DGjFp4fqGxw",
+      "channel": "Mariam Rizvi",
+      "duration": 453.0,
+      "title": "Harry Potter Ravenclaw Oodie Unboxing"
+    },
+    {
+      "id": "f8sOJfjZ2Pw",
+      "channel": "US-Mattress.com",
+      "duration": 23.0,
+      "title": "Harry Potter Hogwarts Adult Comfy Throw by Northwest Company"
+    },
+    {
+      "id": "eiSaQCRf8FE",
+      "channel": "ClipZone: Heroes & Villains",
+      "duration": 543.0,
+      "title": "Harry Potter and the Sorcerer's Stone | An Invisibility Cloak for Christmas | ClipZone: H&V"
+    },
+    {
+      "id": "kxZnixqFdIU",
+      "channel": "Sam",
+      "duration": 3643.0,
+      "title": "An Irish Knitting Podcast 72 - Giant blanket and new Harry Potter inspired sweater"
+    }
+  ]
+}

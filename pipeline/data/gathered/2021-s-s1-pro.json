@@ -1,0 +1,54 @@
+{
+  "id": "2021-s-s1-pro",
+  "year": 2021,
+  "name": "S S1 PRO",
+  "price_eur": 399.0,
+  "price_text": "€399.00",
+  "retailers": [
+    {
+      "name": "Lifty",
+      "url": "https://www.lifty.ie/product-page/lifty-hoverboard-hummer-challenger-off-road-with-bluetooth-app"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "seqsDwt6m_E",
+      "channel": "K Squared Fitness",
+      "duration": 939.0,
+      "title": "I Would NOT buy the Aeke S1 Pro Until Watching This Video"
+    },
+    {
+      "id": "VkA-LnmxqnI",
+      "channel": "Discipline Dave",
+      "duration": 702.0,
+      "title": "AEKE S1 Pro vs Gym Monster 2 – Which One Should You Buy?"
+    },
+    {
+      "id": "zKZW7vq9nkQ",
+      "channel": "AEKE ",
+      "duration": 123.0,
+      "title": "Introducing AEKE S1 Pro | Your All-in-One Smart Home Gym"
+    },
+    {
+      "id": "6bY7NxWetgQ",
+      "channel": "Hunter Creates Things",
+      "duration": 875.0,
+      "title": "The Strangest Camera Ever Made?"
+    },
+    {
+      "id": "vrN6O2Yizsg",
+      "channel": "Discipline Dave",
+      "duration": 844.0,
+      "title": "AEKE S1 Pro Review: This Changes EVERYTHING"
+    }
+  ]
+}

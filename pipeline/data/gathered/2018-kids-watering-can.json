@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-watering-can",
+  "year": 2018,
+  "name": "Kids Watering Can",
+  "price_eur": 11.68,
+  "price_text": "€11.68",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kZktrRhwGo4",
+      "channel": "Wizard Review",
+      "duration": 110.0,
+      "title": "Nuby Fun Watering Can Bath Toy Review"
+    },
+    {
+      "id": "4IwaMf9p4hQ",
+      "channel": "TheGardenShopIreland",
+      "duration": 69.0,
+      "title": "Kids Watering Can"
+    },
+    {
+      "id": "ufztnZQNZ64",
+      "channel": "Raising Maxi",
+      "duration": 180.0,
+      "title": "Maxi's FIRST WATERNIG CAN! Melissa and Doug Watering Can review. Best watering can for toddlers."
+    },
+    {
+      "id": "0aP3eTA5f9A",
+      "channel": "The Product Critiques",
+      "duration": 167.0,
+      "title": "🌼 Melissa & Doug Sunny Patch Giddy Buggy Watering Can | Best Kids Watering Cans 🌼"
+    },
+    {
+      "id": "JzFr5t3Tzuw",
+      "channel": "Art for Kids Hub",
+      "duration": 347.0,
+      "title": "How To Draw A Funny Spring Watering Can"
+    }
+  ]
+}

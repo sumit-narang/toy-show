@@ -1,0 +1,54 @@
+{
+  "id": "2022-xootz-bumper-car",
+  "year": 2022,
+  "name": "Xootz Bumper Car",
+  "price_eur": null,
+  "price_text": "£179.99",
+  "retailers": [
+    {
+      "name": "Xootz",
+      "url": "https://www.xootz.co.uk/catalogsearch/result/?q=Xootz+Bumper+Car"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.xootz.co.uk/catalogsearch/result/?q=Xootz+Bumper+Car"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4H4eK0ouKvA",
+      "channel": "True Toys",
+      "duration": 49.0,
+      "title": "Xootz Bumper Car Ride On"
+    },
+    {
+      "id": "l1FjO_hhBfg",
+      "channel": "Messi Darwin",
+      "duration": 741.0,
+      "title": "Unboxing Xootz Bumper Car | Safety for children"
+    },
+    {
+      "id": "f67pM02VRf4",
+      "channel": "Xootz",
+      "duration": 47.0,
+      "title": "Xootz Dinosaur Bumper Car"
+    },
+    {
+      "id": "L_YcQwrMiBU",
+      "channel": "Xootz",
+      "duration": 164.0,
+      "title": "Dinosaur Bumper Car Assembly Video"
+    },
+    {
+      "id": "nU1m9UmjXWI",
+      "channel": "Xootz",
+      "duration": 46.0,
+      "title": "Xootz Dizzy Dodger Bumper Car"
+    }
+  ]
+}

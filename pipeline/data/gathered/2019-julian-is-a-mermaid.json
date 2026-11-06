@@ -1,0 +1,60 @@
+{
+  "id": "2019-julian-is-a-mermaid",
+  "year": 2019,
+  "name": "Julian is a Mermaid",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/julian-is-a-mermaid-jessica-love-9781406386424"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/julian-is-a-mermaid-jessica-love-9781406386424",
+      "title": "Julian Is A Mermaid Book By Jessica Love | Buy At Eason",
+      "description": "A glimpse of three women dressed as mermaids leaves one boy filled with wonder and ready to dazzle the world. Buy at easons.com",
+      "image": null,
+      "ld_description": "WINNER OF THE BOLOGNA RAGAZZI AWARD AND THE KLAUS FLUGGE PRIZE  \"Celebratory and ground-breaking\" The Sunday Times  \"A stand-out picture book… Will leave the reader filled with joy.\" Guardian  \"A glorious picture book celebrating self-confidence, identity and individuality.\" The Independent  \"Every choice Jessica Love makes imbues the story with charm, tenderness and humor\" The New York TImes Book Review  While riding the subway home with his Nana one day, Julian notices three women spectacularly dressed up. Their hair billows in brilliant hues, their dresses end in fishtails, and their joy fills the train carriage. When Julian gets home, daydreaming of the magic he's seen, all he can think about is dressing up just like the ladies and making his own fabulous mermaid costume. But what will Nana think about the mess he makes - and even more importantly - what will she think about how Julian sees himself?  Join Julian again with a new friend in Julian at the Wedding.",
+      "brand": "Walker Books Ltd",
+      "ld_image": "https://www.easons.com/images/asset/9ea41be9-c9b1-4d53-bd88-37dee73268ea/9781406386424_5643422048.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "62HGRe_QuhU",
+      "channel": "Learn Conmigo",
+      "duration": 325.0,
+      "title": "💫 Julian is a Mermaid [READ ALOUD] by Jessica Love"
+    },
+    {
+      "id": "-NltW9TdeFQ",
+      "channel": "The Picture Book Corner",
+      "duration": 190.0,
+      "title": "Julian is a Mermaid by Jessica Love"
+    },
+    {
+      "id": "QUd5wFSGQ7k",
+      "channel": "Magical Little Minds - Read Along Storytime",
+      "duration": 136.0,
+      "title": "Julian is a Mermaid | Kids Book Read Aloud Story 📚"
+    },
+    {
+      "id": "rLHX5i2GTkw",
+      "channel": "Story Time With Ms. Jay",
+      "duration": 143.0,
+      "title": "Julian is a Mermaid | Kids Read Aloud Books | Pride Read Alouds | Classroom Read Alouds | LGBTQ Book"
+    },
+    {
+      "id": "25r82U6bmB8",
+      "channel": "Miss B Reads",
+      "duration": 126.0,
+      "title": "Julian is a Mermaid by Jessica Love"
+    }
+  ]
+}

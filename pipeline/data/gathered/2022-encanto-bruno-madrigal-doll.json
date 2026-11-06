@@ -1,0 +1,57 @@
+{
+  "id": "2022-encanto-bruno-madrigal-doll",
+  "year": 2022,
+  "name": "Encanto Bruno Madrigal Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AcKcJIFxdx4",
+      "channel": "dollmyshop",
+      "duration": 428.0,
+      "title": "unboxing Encanto Bruno doll"
+    },
+    {
+      "id": "yBO2OumsTe0",
+      "channel": "Deluxe",
+      "duration": 654.0,
+      "title": "The REAL Reason They Never Talked About Bruno | Bruno’s Complete Backstory"
+    },
+    {
+      "id": "eK4t5MzauCo",
+      "channel": "Disney Doll Story",
+      "duration": 244.0,
+      "title": "Bruno Madrigal | Disney Encanto | Character Review and Toy Opening Series"
+    },
+    {
+      "id": "akpyOfagLVo",
+      "channel": "Kristina Land",
+      "duration": 500.0,
+      "title": "It's Time to Talk About Bruno! Reviewing the NEW Jakks Pacific Encanto Bruno Madrigal Fashion Doll"
+    },
+    {
+      "id": "9Fddjrdxe18",
+      "channel": "Supercooldolls",
+      "duration": 362.0,
+      "title": "I FINALLY Completed the Madrigal Family 😭✨ | Encanto Doll Collection"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2023-lego-dreamzzz-nightmare-shark-ship",
+  "year": 2023,
+  "name": "LEGO DREAMZzz Nightmare Shark Ship",
+  "price_eur": 140.0,
+  "price_text": "€140.00",
+  "retailers": [
+    {
+      "name": "LEGO",
+      "url": "https://www.lego.com/en-ie/product/nightmare-shark-ship-71469?consent-modal=show"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/nightmare-shark-ship-71469?consent-modal=show",
+      "title": "Nightmare Shark Ship 71469 | LEGO® DREAMZzz™ | Buy online at the Official LEGO® Shop IE",
+      "description": "A fun LEGO® DREAMZzz™ building set based on the TV show",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt218ef1ee6a4a99ac/71469.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "A fun LEGO® DREAMZzz™ building set based on the TV show",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/blt218ef1ee6a4a99ac/71469.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1q5dshHczuw",
+      "channel": "AustrianBrickFan",
+      "duration": 1356.0,
+      "title": "LEGO DREAMZzz 71469 Nightmare Shark Ship - LEGO Speed Build Review"
+    },
+    {
+      "id": "cnMdkbUaCFQ",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1018.0,
+      "title": "LEGO Dreamzzz Nightmare Shark Ship review! Massive, creepy, cool pieces"
+    },
+    {
+      "id": "3UcSL_zgsfk",
+      "channel": "Bricks By Mind",
+      "duration": 1399.0,
+      "title": "Nightmare Shark Ship EARLY Review! (BOTH BUILDS) | LEGO Dreamzzz Set 71469"
+    },
+    {
+      "id": "voRMZocwibM",
+      "channel": "Smyths Toys Superstores",
+      "duration": 19.0,
+      "title": "LEGO DREAMZzz 71469 Nightmare Shark Ship Building Toy Set - Smyths Toys"
+    },
+    {
+      "id": "TfL8LcP52d8",
+      "channel": "All New Bricks",
+      "duration": 575.0,
+      "title": "Lego Fortnite DreamZzz Nightmare Shark Ship with Supply Llama Speed Build"
+    }
+  ]
+}

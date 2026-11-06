@@ -1,0 +1,54 @@
+{
+  "id": "2021-squeakee-the-balloon-dino",
+  "year": 2021,
+  "name": "Squeakee the Balloon Dino",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/squeakee-the-balloon-dino/1600603873.prd?sku=sku24009035"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/squeakee-the-balloon-dino/1600603873.prd?sku=sku24009035"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kMFwvC9vNq8",
+      "channel": "Vat19 Product Demos",
+      "duration": 91.0,
+      "title": "This Plastic Toy is Part Balloon, Part Dino • Squeakee the Balloon Dino"
+    },
+    {
+      "id": "YfCI1Y9qqDc",
+      "channel": "Moose Top TV Commercials",
+      "duration": 31.0,
+      "title": "SQUEAKEE DINO | Your Balloon Dinosaur Best Friend! | TVC 30"
+    },
+    {
+      "id": "-QlM0EybBIQ",
+      "channel": "Jaxen Ross is b-a-c-k! | Reels & Ruins",
+      "duration": 471.0,
+      "title": "Squeakee The Balloon Dino Destruction"
+    },
+    {
+      "id": "ohvCPEbdeBc",
+      "channel": "TheRykerDane Reviews",
+      "duration": 170.0,
+      "title": "Squeakee The Balloon Dino | Interactive Dinosaur Pet Toy That Stomps, Roars and Dances"
+    },
+    {
+      "id": "dlibQkBPmWU",
+      "channel": "OhcluckToys",
+      "duration": 271.0,
+      "title": "Squeakee The Balloon Dino Unboxing Review"
+    }
+  ]
+}

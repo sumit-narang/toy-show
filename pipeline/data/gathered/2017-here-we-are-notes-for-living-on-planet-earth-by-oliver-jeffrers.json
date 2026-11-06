@@ -1,0 +1,53 @@
+{
+  "id": "2017-here-we-are-notes-for-living-on-planet-earth-by-oliver-jeffrers",
+  "year": 2017,
+  "name": "Here We Are: Notes For Living on Planet Earth by Oliver Jeffrers",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZgJzUet0-uE",
+      "channel": "Read Right Now",
+      "duration": 303.0,
+      "title": "Here We Are: Notes for Living on Planet Earth (Read Aloud)"
+    },
+    {
+      "id": "jU6gPNCZG-8",
+      "channel": "StoryTime Out Loud",
+      "duration": 482.0,
+      "title": "Here We Are: Notes for Living on Planet Earth - An Animated Read Out Loud with Moving Pictures"
+    },
+    {
+      "id": "2M3Q4-zCTHc",
+      "channel": "Apple TV",
+      "duration": 100.0,
+      "title": "Here We Are: Notes for Living on Planet Earth — Official Trailer | Apple TV"
+    },
+    {
+      "id": "cPPQdDwTUvE",
+      "channel": "Brightly Storytime",
+      "duration": 322.0,
+      "title": "Here We Are - Read Aloud Picture Book | Brightly Storytime"
+    },
+    {
+      "id": "ZKyVtRd0tzA",
+      "channel": "Pachamama and friends (bilingual storytime)",
+      "duration": 306.0,
+      "title": "HERE WE ARE by Oliver Jeffers | A wondrous and gentle guide to Life on Earth for Children | Inspire"
+    }
+  ]
+}

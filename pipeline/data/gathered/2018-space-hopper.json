@@ -1,0 +1,72 @@
+{
+  "id": "2018-space-hopper",
+  "year": 2018,
+  "name": "Space Hopper",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fyTFyXPKT5U",
+      "channel": "Wow! Stuff",
+      "duration": 36.0,
+      "title": "Tandem Space Hopper from The Science Museum"
+    },
+    {
+      "id": "S6_0vFMz03c",
+      "channel": "Macky Gee - Topic",
+      "duration": 267.0,
+      "title": "Space Hopper"
+    },
+    {
+      "id": "414gHJ1Nn5k",
+      "channel": "Sporting Dreams Coaching",
+      "duration": 35.0,
+      "title": "Space Hopper Races"
+    },
+    {
+      "id": "nlz5f9WfGno",
+      "channel": "Wow! Stuff",
+      "duration": 36.0,
+      "title": "Space Hopper from The Science Museum - HQ WIDESCREEN"
+    },
+    {
+      "id": "uKDY1vglSyc",
+      "channel": "Britclip",
+      "duration": 173.0,
+      "title": "Space Hopper Race"
+    }
+  ]
+}

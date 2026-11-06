@@ -1,0 +1,53 @@
+{
+  "id": "2017-joke-teeth",
+  "year": 2017,
+  "name": "Joke Teeth",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Silly Shop Stephens Green",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9ZaO1SLiYc4",
+      "channel": "HYST Show",
+      "duration": 183.0,
+      "title": "Funny Losing Teeth Videos Compilation"
+    },
+    {
+      "id": "AR5AwVQQAK8",
+      "channel": "Top Ten Daily",
+      "duration": 244.0,
+      "title": "Top 10 Denture Fails of 2017"
+    },
+    {
+      "id": "Ly069NHWZMI",
+      "channel": "HelmslyFooker",
+      "duration": 6.0,
+      "title": "korean minister's teeth fall out. FUNNY!"
+    },
+    {
+      "id": "nYtKWoEuVLw",
+      "channel": "Adult Swim",
+      "duration": 53.0,
+      "title": "How To Brush Your Teeth | adult swim"
+    },
+    {
+      "id": "K1FPxvdB_to",
+      "channel": "Classic Mr Bean",
+      "duration": 90.0,
+      "title": "Brushing Teeth | Funny Clip | Classic Mr Bean"
+    }
+  ]
+}

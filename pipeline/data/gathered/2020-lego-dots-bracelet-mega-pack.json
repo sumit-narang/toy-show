@@ -1,0 +1,54 @@
+{
+  "id": "2020-lego-dots-bracelet-mega-pack",
+  "year": 2020,
+  "name": "LEGO DOTS Bracelet Mega Pack",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "McGreevy's Toys Direct",
+      "url": "https://toysdirect.ie/products/lego-41913-dots-bracelet-mega-pack?_pos=1&_sid=0152845b0&_ss=r&variant=36260978753685"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/lego-41913-dots-bracelet-mega-pack?_pos=1&_sid=0152845b0&_ss=r&variant=36260978753685"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Wt2KK0lrbQs",
+      "channel": "ellieV ",
+      "duration": 649.0,
+      "title": "300 pieces but they're all teeny - Lego DOTS Bracelet mega pack review DIY craft"
+    },
+    {
+      "id": "m9eKQmHh-vg",
+      "channel": "LEGO",
+      "duration": 198.0,
+      "title": "LEGO® DOTS Designer Studio: Let’s Talk Bracelets"
+    },
+    {
+      "id": "GDayRAd7XVM",
+      "channel": "ellieV ",
+      "duration": 925.0,
+      "title": "Make your own customisable wristbands! *NEW* Lego DOTS Series 2"
+    },
+    {
+      "id": "-2KHxDAE4ZE",
+      "channel": "Doria",
+      "duration": 172.0,
+      "title": "NEW 2022 LEGO DOTS Gamer +Into the Deep Bracelet with Charms 41943 41942"
+    },
+    {
+      "id": "DCf5TEEnQuc",
+      "channel": "MarisBricks",
+      "duration": 489.0,
+      "title": "LEGO DOTS Bracelet Mega Pack 41913"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2017-light-boxes",
+  "year": 2017,
+  "name": "Light Boxes",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Moss Cottage",
+      "url": "http://www.moss.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7ZS1Lq0DR6c",
+      "channel": "LC SIGN",
+      "duration": 71.0,
+      "title": "Ultra-thin light box"
+    },
+    {
+      "id": "rVc7d6JRQ84",
+      "channel": "LC SIGN",
+      "duration": 417.0,
+      "title": "About Ultra-thin Light Box"
+    },
+    {
+      "id": "1R36Fi-lxn4",
+      "channel": "Household Hacker",
+      "duration": 213.0,
+      "title": "Make A Light Box Cheap & Easy - Take Incredible Photos"
+    },
+    {
+      "id": "Gls4IJm-IeU",
+      "channel": "Leap of Faith Crafting",
+      "duration": 970.0,
+      "title": "How to Make Paper Cut Light Box that Lights Up!"
+    },
+    {
+      "id": "7ZOXIcCxtCs",
+      "channel": "chezlin",
+      "duration": 619.0,
+      "title": "How to Make a Paper-cut Light Box : DIY"
+    }
+  ]
+}

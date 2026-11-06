@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-x-factor-bluetooth-karaoke-microphone-speaker",
+  "year": 2022,
+  "name": "The X Factor Bluetooth Karaoke Microphone Speaker",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "kenblack.ie",
+      "url": "https://www.kenblack.ie/the-x-factor-bluetooth-karaoke-microphone-speaker-166408"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://kenblack.ie/the-x-factor-bluetooth-karaoke-microphone-speaker-166408"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-BejpZXU_KU",
+      "channel": "SIBLINGS ' LOVES' TOY'S",
+      "duration": 545.0,
+      "title": "New MI-MIC / X FACTOR KARAOKE MICROPHONE, MAKING MUSIC COOL ,PART TWO."
+    },
+    {
+      "id": "IdxXN0PVu2U",
+      "channel": "P. Qevani",
+      "duration": 478.0,
+      "title": "The X Factor Microphone Review"
+    },
+    {
+      "id": "M-NieBFwZ3w",
+      "channel": "Naaptol",
+      "duration": 35.0,
+      "title": "Mic Bluetooth Speaker  -LPO (Code: 9664) DEMO VIDEO  23644"
+    },
+    {
+      "id": "cHI5nsUE2O0",
+      "channel": "Unwrapped and Rated",
+      "duration": 437.0,
+      "title": "How to Use Wireless Bluetooth Karaoke Microphones?"
+    },
+    {
+      "id": "YDnFQxYh9rM",
+      "channel": "Maxwell Devonish",
+      "duration": 50.0,
+      "title": "Wireless microphone karaoke bluetooth   Karaoke Mike Your portable karaoke machine like KTV"
+    }
+  ]
+}

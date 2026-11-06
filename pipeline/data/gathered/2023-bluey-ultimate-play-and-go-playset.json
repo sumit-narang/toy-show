@@ -1,0 +1,57 @@
+{
+  "id": "2023-bluey-ultimate-play-and-go-playset",
+  "year": 2023,
+  "name": "Bluey Ultimate Play and Go Playset",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/blueys-ultimate-play-and-go-collector-case-playset/p/208599"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/blueys-ultimate-play-and-go-collector-case-playset/p/208599",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C0dTELdt7DM",
+      "channel": "Blue Love",
+      "duration": 5443.0,
+      "title": "Bluey Toy Collection Unboxing Review 🐾 Bluey's Ultimate Play and Go Playset"
+    },
+    {
+      "id": "V1rpGmMKpW4",
+      "channel": "Revew Pea Toys",
+      "duration": 5660.0,
+      "title": "Bluey Toy Collection Unboxing Review 💙 Bluey Ultimate Play and Go & Bluey's Unipony Ride Playset"
+    },
+    {
+      "id": "j_vEfEHdmTM",
+      "channel": "Sonic Asmr",
+      "duration": 5656.0,
+      "title": "Bluey Toy Collection Unboxing Review🐾Bluey Ultimate Play and Go & Bluey’s Escape Convertible Playset"
+    },
+    {
+      "id": "tWu2z2H42RE",
+      "channel": "Sonic Asmr",
+      "duration": 5564.0,
+      "title": "Bluey Toy Collection Unboxing Review💙Bluey Ultimate Play and Go & Bluey’s Escape Convertible Playset"
+    },
+    {
+      "id": "sXmXAx3ehUQ",
+      "channel": "Hoori Unboxing Toys ",
+      "duration": 819.0,
+      "title": "Bluey Toys Collection Unboxing Review 💙 Bluey Deluxe House Playset & Bluey's Play and Go Playset"
+    }
+  ]
+}

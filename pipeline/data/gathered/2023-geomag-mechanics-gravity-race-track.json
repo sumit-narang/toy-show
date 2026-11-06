@@ -1,0 +1,57 @@
+{
+  "id": "2023-geomag-mechanics-gravity-race-track",
+  "year": 2023,
+  "name": "Geomag Mechanics Gravity Race Track",
+  "price_eur": 25.99,
+  "price_text": "€25.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/geomag-mechanics-gravity-race-track-made-from-recycled-plas"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vuWX24p9OKU",
+      "channel": "60 Seconds Toy Review",
+      "duration": 61.0,
+      "title": "Mechanics Gravity Race Track, by Geomag"
+    },
+    {
+      "id": "w4mh2zMSuTI",
+      "channel": "Magnet Hrou Geomag",
+      "duration": 251.0,
+      "title": "Geomag Gravity Race Track"
+    },
+    {
+      "id": "GdsOXJAtzmQ",
+      "channel": "GeomagworldSA",
+      "duration": 34.0,
+      "title": "Geomag Mechanics Gravity - Magnetic Track"
+    },
+    {
+      "id": "Uf28W2SbP4A",
+      "channel": "Maxíkovy Hračky",
+      "duration": 43.0,
+      "title": "Geomag Mechanics Gravity 169 dílků od maxikovy-hracky.cz"
+    },
+    {
+      "id": "J_d-buO5uBk",
+      "channel": "Magnet Hrou Geomag",
+      "duration": 142.0,
+      "title": "EASYCOMBO Gravity Race Track"
+    }
+  ]
+}

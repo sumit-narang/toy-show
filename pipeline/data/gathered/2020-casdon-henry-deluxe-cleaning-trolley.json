@@ -1,0 +1,54 @@
+{
+  "id": "2020-casdon-henry-deluxe-cleaning-trolley",
+  "year": 2020,
+  "name": "Casdon Henry Deluxe Cleaning Trolley",
+  "price_eur": 37.99,
+  "price_text": "€37.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/casdon-deluxe-cleaning-trolley/1460674473.prd?_requestid=998814&Ntt=casdon%20henry%20cleaning"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/casdon-deluxe-cleaning-trolley/1460674473.prd?_requestid=998814&Ntt=casdon%20henry%20cleaning"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1oRlZKvTe_w",
+      "channel": "iHomeEducate",
+      "duration": 161.0,
+      "title": "Casdon Henry Cleaning Trolley | Best Home Schooling Toys"
+    },
+    {
+      "id": "hBEVg1XypmQ",
+      "channel": "Ride On Cars Unlimited",
+      "duration": 271.0,
+      "title": "Pink Hetty Henry Cleaning Trolley by Casdon | Kids Surprise Toy Unboxing & Review"
+    },
+    {
+      "id": "CIcnM_EtvAM",
+      "channel": "The Cooperman Project!",
+      "duration": 455.0,
+      "title": "Unboxing Cadson Henry Cleaning Trolley - Kids Cleaning Trolley Set"
+    },
+    {
+      "id": "e-dOvTDVUTA",
+      "channel": "Henry Hoover Tube",
+      "duration": 526.0,
+      "title": "unboxing HENRY Cleaning Trolly toy! kids vacuum toys #henryhoover #cleaningmotivation"
+    },
+    {
+      "id": "yADytj757O4",
+      "channel": "Tana home gardening",
+      "duration": 120.0,
+      "title": "Hetty cleaning trolley review"
+    }
+  ]
+}

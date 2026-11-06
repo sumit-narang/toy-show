@@ -1,0 +1,54 @@
+{
+  "id": "2020-kiddies-affirmation-kards",
+  "year": 2020,
+  "name": "Kiddies Affirmation Kards",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "The Cool Food School",
+      "url": "https://www.thecoolfoodschool.ie/shop/kiddies-affirmation-kards"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thecoolfoodschool.ie/shop/kiddies-affirmation-kards"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rfSQYk2nWC4",
+      "channel": "NamasteInSchool",
+      "duration": 63.0,
+      "title": "10 Daily Positive Affirmations for Kids | Boost Your Child's Confidence and Self-Esteem"
+    },
+    {
+      "id": "0cGVU_UBi6U",
+      "channel": "Teresa Patterson",
+      "duration": 253.0,
+      "title": "How to Create Kids Affirmation Cards Using ChatGPT & Canva | DIY Printable Tutorial"
+    },
+    {
+      "id": "MS7O3xlpyBM",
+      "channel": "SandZ Academy",
+      "duration": 172.0,
+      "title": "25 Morning Affirmations for Preschoolers, Pre-K and Kinder  #sandzaffirmations #positiveaffirmations"
+    },
+    {
+      "id": "NwqxgzqhCvg",
+      "channel": "SandZ Academy",
+      "duration": 134.0,
+      "title": "I Am Spiritual Affirmations For Kids Bible Based Affirmations Trust In The Lord"
+    },
+    {
+      "id": "Vz8HzzKTgMQ",
+      "channel": "Nana's Art",
+      "duration": 337.0,
+      "title": "Positive Affirmation Cards for Kids"
+    }
+  ]
+}

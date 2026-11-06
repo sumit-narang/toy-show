@@ -1,0 +1,57 @@
+{
+  "id": "2022-football-rebounder",
+  "year": 2022,
+  "name": "Football Rebounder",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Rebounder",
+      "url": "http://rebounder.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://rebounder.ie/",
+      "title": "Rebounder for hurling - football - soccer practice - giving you that extra edge",
+      "description": "Rebounder for hurling, soccer, football training. Suitable for schools and famiy. Irish Made and durable. Help improve your skills on the field.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1v8hHuSMOjM",
+      "channel": "QUICKPLAY",
+      "duration": 32.0,
+      "title": "PRO Rebounder Soccer Rebounder | QUICKPLAY"
+    },
+    {
+      "id": "ZI34hymxwvA",
+      "channel": "Net World Sports",
+      "duration": 48.0,
+      "title": "Introducing: The RapidFire Football Rebound Net | Net World Sports"
+    },
+    {
+      "id": "M6qlL61NtBU",
+      "channel": "Become Elite",
+      "duration": 847.0,
+      "title": "Pro Footballer Ranks Best Training Equipment!"
+    },
+    {
+      "id": "RPyHT6N8Yg8",
+      "channel": "PodiuMax",
+      "duration": 99.0,
+      "title": "PodiuMax Soccer Rebounder Net Installation Instruction"
+    },
+    {
+      "id": "j0hQrIMeH34",
+      "channel": "SKLZ Australia",
+      "duration": 32.0,
+      "title": "SKLZ Quickster Soccer Trainer - Multi-Touch Dual Side Rebounder"
+    }
+  ]
+}

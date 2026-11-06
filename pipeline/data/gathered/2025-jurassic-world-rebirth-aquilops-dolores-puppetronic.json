@@ -1,0 +1,57 @@
+{
+  "id": "2025-jurassic-world-rebirth-aquilops-dolores-puppetronic",
+  "year": 2025,
+  "name": "Jurassic World: Rebirth Aquilops Dolores Puppetronic",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/jurassic-world-rebirth-aquilops-dolores-puppetronic-interactive-toy/p/252474"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/jurassic-world-rebirth-aquilops-dolores-puppetronic-interactive-toy/p/252474",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VH41m9jVVts",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 869.0,
+      "title": "AMAZING PUPPETRONIC Jurassic World Rebirth Dolores the Aquilops Review by WOW! Stuff!!!"
+    },
+    {
+      "id": "ivOBbVicpSw",
+      "channel": "HUB",
+      "duration": 20.0,
+      "title": "WOW! Stuff - Jurassic World: Rebirth Aquilops Dolores Puppetronic 20\" Ad"
+    },
+    {
+      "id": "FK-T11Nk-jg",
+      "channel": "Jaré",
+      "duration": 146.0,
+      "title": "Jurassic World Rebirth [2025] - Aquilops \"Dolores\" Screen Time "
+    },
+    {
+      "id": "-T984qbp7uI",
+      "channel": "T-Rexcellent Reviews",
+      "duration": 20.0,
+      "title": "Jurassic World: Rebirth Dolores the Aquilops Puppetronic Toy Commercial "
+    },
+    {
+      "id": "4qKqHAZYGho",
+      "channel": "Martón Presenta",
+      "duration": 664.0,
+      "title": "I BOUGHT a REAL DOLORES! 🟡 JURASSIC WORLD Puppetronics Review"
+    }
+  ]
+}

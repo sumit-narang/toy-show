@@ -1,0 +1,42 @@
+{
+  "id": "2020-michael-collins-by-eithne-massey",
+  "year": 2020,
+  "name": "Michael Collins by Eithne Massey",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/michael-collins-eithne-massey-9781788492102"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/michael-collins-eithne-massey-9781788492102",
+      "title": "Buy Michael Collins Book at Easons",
+      "description": "I want to be part of it, thought Michael. I want to be part of the song, part of the story.\n\nListening to tales of old Ireland on a West Cork farm and fighting his corner in the school playground, a little fella with a fierce sense of injustice and an equa",
+      "image": null,
+      "ld_description": "I want to be part of it, thought Michael. I want to be part of the song, part of the story.\n\nListening to tales of old Ireland on a West Cork farm and fighting his corner in the school playground, a little fella with a fierce sense of injustice and an equally fierce temper vows to fight for Irish independence.\n\n'I'd rather have a living brother than a brother who goes down in the history books as a hero, a dead hero!' says Hannie Collins. But headstrong as ever, young Michael leaves his job in London and returns to Ireland to fight in the 1916 Rising. Later, he creates a spy ring of ordinary people, in a Dublin where nothing is quite what it seems.\n\nThis is the story of Michael Collins - brave hero and determined leader, loyal friend and dangerous enemy. He loved life. In the summer of1922 he was full of plans for his own future and for that of his country. But history had other plans for Michael.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/5669cad9-ac5f-4afc-ad4a-a87d5f729f0b/9781788492102_5642683470.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9fCxAuTULY8",
+      "channel": "Dublin City Libraries",
+      "duration": 465.0,
+      "title": "Michael Collins: Hero and Rebel"
+    },
+    {
+      "id": "Upx8-enH_9k",
+      "channel": "Dr. Oliver Snr. Whyte",
+      "duration": 390.0,
+      "title": "Michael Ring With Bobby Kerr"
+    }
+  ]
+}

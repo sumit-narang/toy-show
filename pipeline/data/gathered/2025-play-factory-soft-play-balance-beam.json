@@ -1,0 +1,57 @@
+{
+  "id": "2025-play-factory-soft-play-balance-beam",
+  "year": 2025,
+  "name": "Play Factory Soft Play Balance Beam",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-soft-play-balance-beam/p/230645"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-soft-play-balance-beam/p/230645",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "57w-zUoqdVU",
+      "channel": "Keya-globalltoy",
+      "duration": 37.0,
+      "title": "Gray Soft Play Balance Beam  Indoor Play Equipment for Toddlers & Daycare Centers"
+    },
+    {
+      "id": "jCMAPFe6ZLw",
+      "channel": "Traneum",
+      "duration": 57.0,
+      "title": "B. toys – Balance Beam for Kids – Musical Games & Activities"
+    },
+    {
+      "id": "XNQ3Ze6d-bg",
+      "channel": "Smyths Toys Superstores",
+      "duration": 34.0,
+      "title": "Play Factory Wooden Climbing Frame - Smyths Toys"
+    },
+    {
+      "id": "saT4-FAzU1g",
+      "channel": "Smyths Toys Superstores",
+      "duration": 27.0,
+      "title": "Play Factory Gymnastics Inflatable Mat Air Track - Smyths Toys"
+    },
+    {
+      "id": "cBWfgBXBD4E",
+      "channel": "Baby To Child",
+      "duration": 398.0,
+      "title": "This Soft Balance Beam Promises Safer Play for Toddlers — Honest Review Inside."
+    }
+  ]
+}

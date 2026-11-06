@@ -1,0 +1,57 @@
+{
+  "id": "2022-wall-climbing-super-car-in-red-red5",
+  "year": 2022,
+  "name": "Wall Climbing Super Car in Red - RED5",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Source Wholesale",
+      "url": "https://thesourcewholesale.co.uk/product/wall-climbing-super-car-red/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thesourcewholesale.co.uk/product/wall-climbing-super-car-red/",
+      "title": "RC Wall Climbing Super Car Red - RED5 Control+, RED5 Remote Control and Drones - The Source Wholesale",
+      "description": "This radio-controlled car drives vertically and upside down, it sticks to the walls and ceiling with vacuum suction. Controlled with an infrared remote control. Ages 8+.",
+      "image": "https://thesourcewholesale.co.uk/wp-content/uploads/86032_1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EBLqjq04JHc",
+      "channel": "Menkind",
+      "duration": 30.0,
+      "title": "RED5 Wall Climbing Super Car Red"
+    },
+    {
+      "id": "hjFIYAmLqig",
+      "channel": "Menkind",
+      "duration": 30.0,
+      "title": "RED5 Wall Climbing Super Car Red"
+    },
+    {
+      "id": "IEYGLe8mKxI",
+      "channel": "Menkind",
+      "duration": 37.0,
+      "title": "RED5 Wall Climbing Super Car Blue"
+    },
+    {
+      "id": "sR-EprDy3N0",
+      "channel": "Wicked Uncle",
+      "duration": 69.0,
+      "title": "Wall Climbing Super Car - Defy Gravity!"
+    },
+    {
+      "id": "Q__jZgphwuo",
+      "channel": "Menkind",
+      "duration": 84.0,
+      "title": "Wall Climbing Super Car @ Menkind.co.uk"
+    }
+  ]
+}

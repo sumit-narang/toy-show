@@ -1,0 +1,57 @@
+{
+  "id": "2018-safari-wooden-stroller-book-small",
+  "year": 2018,
+  "name": "Safari Wooden Stroller Book (Small)",
+  "price_eur": 12.0,
+  "price_text": "€12.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Jszt4a80dgk",
+      "channel": "TTPM Baby Gear Reviews",
+      "duration": 89.0,
+      "title": "Safari Zebra Activity Toy from The Manhattan Toy Company"
+    },
+    {
+      "id": "7kEKj1nNVv0",
+      "channel": "Khyati & Anuj",
+      "duration": 885.0,
+      "title": "Dubai Desert Safari Complete Detail - How to Book, Cost, Entertainment, Food, Dune Bashing!"
+    },
+    {
+      "id": "nTzEdLT1eHo",
+      "channel": "VTech Canada",
+      "duration": 43.0,
+      "title": "Toddle & Stroll Musical Elephant Walker™ | Demo Video | VTech® Canada"
+    },
+    {
+      "id": "Unn8S4_1nlQ",
+      "channel": "April's Toy World",
+      "duration": 505.0,
+      "title": "Zoo Troop Safari Animals Playsets & A Small World Wild Animal Diorama"
+    },
+    {
+      "id": "hGZpgnKDikg",
+      "channel": "RaceToyTime",
+      "duration": 548.0,
+      "title": "Playmobil Wildlife Safari Toy Sets For Kids - Fun Build and Play"
+    }
+  ]
+}

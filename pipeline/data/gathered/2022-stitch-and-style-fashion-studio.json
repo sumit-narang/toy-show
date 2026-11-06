@@ -1,0 +1,54 @@
+{
+  "id": "2022-stitch-and-style-fashion-studio",
+  "year": 2022,
+  "name": "Stitch and Style Fashion studio",
+  "price_eur": 40.97,
+  "price_text": "€40.97",
+  "retailers": [
+    {
+      "name": "World Of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product/coolmaker-stitch-n-style-fashion-studio/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://worldofwondertoys.ie/product/coolmaker-stitch-n-style-fashion-studio/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2X8MAlnUoPI",
+      "channel": "Cool Maker",
+      "duration": 93.0,
+      "title": "Cool Maker Stitch N’ Style Fashion Studio | Troubleshooting Tips | Toys for Kids"
+    },
+    {
+      "id": "7hr0AbMzxYA",
+      "channel": "Cool Maker",
+      "duration": 295.0,
+      "title": "Bring your Fashion Dream to Life with Sitich N Style Fashion Studio | Cool Maker | Toys for kids"
+    },
+    {
+      "id": "bJnjOW79GBU",
+      "channel": "Smyths Toys Superstores",
+      "duration": 299.0,
+      "title": "Coolmaker Stitch n Style Sewing Machine (How To Use Video) - Smyths Toys"
+    },
+    {
+      "id": "8tPM8E537dw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 95.0,
+      "title": "Cool Maker Stitch 'N Style Fashion Studio from Spin Master Review!"
+    },
+    {
+      "id": "UKcRvXCfr6M",
+      "channel": "Cool Maker",
+      "duration": 16.0,
+      "title": "NEW Stitch N’ Style Fashion Studio :15 | Cool Maker | Toys for Kids"
+    }
+  ]
+}

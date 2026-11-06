@@ -1,0 +1,57 @@
+{
+  "id": "2018-fitbit-ace",
+  "year": 2018,
+  "name": "Fitbit Ace",
+  "price_eur": 99.95,
+  "price_text": "€99.95",
+  "retailers": [
+    {
+      "name": "Fitbit",
+      "url": "http://fitbit.com"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://consent.google.com/m?continue=https://store.google.com/ie/category/watches?hl%3Den-GB%26utm_source%3Dfitbit_redirect%26utm_medium%3Dgoogle_ooo%26utm_campaign%3Dcategory&gl=IE&m=0&pc=gs&cm=2&hl=en-GB&src=1",
+      "title": "Before you continue",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-vZjHGWEi58",
+      "channel": "Android Authority",
+      "duration": 251.0,
+      "title": "The BEST smartwatch for your KIDS? (Fitbit Ace LTE REVIEW)"
+    },
+    {
+      "id": "g4ePOv65f10",
+      "channel": "Tech With Brett",
+      "duration": 1747.0,
+      "title": "Getting to Know the Fitbit Ace LTE, a Smart Watch for Kids"
+    },
+    {
+      "id": "6VZFeg6DCTE",
+      "channel": "Made by Google",
+      "duration": 50.0,
+      "title": "Fitbit Ace LTE: Reach Your Kids Without a Smartphone"
+    },
+    {
+      "id": "YB3t9BGTND8",
+      "channel": "Tech with Jerad (How I Use This)",
+      "duration": 797.0,
+      "title": "Fitbit Ace Smartwatch for Kids Review"
+    },
+    {
+      "id": "t3iyLXCMMeg",
+      "channel": "Tech with Jerad (How I Use This)",
+      "duration": 937.0,
+      "title": "Fitbit Ace vs Garmin Bounce - Best Smartwatch for Kids?"
+    }
+  ]
+}

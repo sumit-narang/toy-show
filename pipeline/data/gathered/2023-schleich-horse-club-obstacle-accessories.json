@@ -1,0 +1,60 @@
+{
+  "id": "2023-schleich-horse-club-obstacle-accessories",
+  "year": 2023,
+  "name": "Schleich Horse Club Obstacle Accessories",
+  "price_eur": 22.0,
+  "price_text": "€22.00",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/sh42612"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/products/sh42612",
+      "title": "Schleich Horse Club: Obstacle Accessories",
+      "description": "Challenge yourself –and your horses –with the obstacle course from schleich®Horse Club. Adjustable poles let you jump to new heights. Be careful jumping over the water ditch! You'll be ready for the tournament in no time thanks to all the practice with the Horse Obstacle Course Accessories.",
+      "image": "http://banbatoys.ie/cdn/shop/products/20_3e5b6ee1-78ca-4d58-868c-d0a86aa79ef8.webp?v=1675964309",
+      "ld_description": "Challenge yourself –and your horses –with the obstacle course from schleich®Horse Club. Adjustable poles let you jump to new heights. Be careful jumping over the water ditch! You'll be ready for the tournament in no time thanks to all the practice with the Horse Obstacle Course Accessories.",
+      "brand": "SCHLEICH PRODUCTIONS",
+      "ld_image": "https://banbatoys.ie/cdn/shop/products/20_3e5b6ee1-78ca-4d58-868c-d0a86aa79ef8.webp?v=1675964309&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pzxDOQeLsyk",
+      "channel": "schleich®",
+      "duration": 69.0,
+      "title": "schleich® Horse Club Transporter 🐴"
+    },
+    {
+      "id": "__cKk6Sv1w4",
+      "channel": "Mia",
+      "duration": 1143.0,
+      "title": "SCHLEICH HORSE CLUB ADVENT CALENDER UNBOXING || Sofia's Winter Surprise 99092"
+    },
+    {
+      "id": "uG6N6lmcAnU",
+      "channel": "Princess Square Channel",
+      "duration": 342.0,
+      "title": "Schleich Horse Club Lisa’s tournament training Unboxing | Schleich 42433"
+    },
+    {
+      "id": "NmiRQwuIiHU",
+      "channel": "Julia C.",
+      "duration": 1473.0,
+      "title": "Zestaw przeszkód dla koni || Składanie oraz recenzja zestawu || 🐎🏆🏵️"
+    },
+    {
+      "id": "e4iv1euRV7g",
+      "channel": "schleich®",
+      "duration": 69.0,
+      "title": "schleich® Horse Club Transporter 🐴"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-sphero-bb8-droid-w-force-band-watch",
+  "year": 2017,
+  "name": "Sphero BB8 Droid w/Force Band Watch",
+  "price_eur": 229.95,
+  "price_text": "€229.95",
+  "retailers": [
+    {
+      "name": "CompuB",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wtMaf4xlmYQ",
+      "channel": "SuperdanTech",
+      "duration": 983.0,
+      "title": "Sphero Star Wars Force Band | Unboxing, setup and full review"
+    },
+    {
+      "id": "219iGj1Yj44",
+      "channel": "Smart Gadgets",
+      "duration": 36.0,
+      "title": "Sphero Special Edition Battle-Worn BB-8 with Force Band"
+    },
+    {
+      "id": "TqzFGmsTF38",
+      "channel": "Mashable",
+      "duration": 72.0,
+      "title": "Sphero BB-8 Force Band Hands-On | Mashable CES 2016"
+    },
+    {
+      "id": "3XCv8Tu8wKY",
+      "channel": "CNET",
+      "duration": 77.0,
+      "title": "Use the Force Band to control BB-8 and more"
+    },
+    {
+      "id": "fo4PqVRzCOo",
+      "channel": "MXDOUT",
+      "duration": 823.0,
+      "title": "Sphero BB-8 Droid with Force Band Review"
+    }
+  ]
+}

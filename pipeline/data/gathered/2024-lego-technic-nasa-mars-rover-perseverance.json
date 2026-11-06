@@ -1,0 +1,54 @@
+{
+  "id": "2024-lego-technic-nasa-mars-rover-perseverance",
+  "year": 2024,
+  "name": "LEGO Technic NASA Mars Rover Perseverance",
+  "price_eur": 104.99,
+  "price_text": "€ 104.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-technic-nasa-mars-rover-perseverance-42158-7301870"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-technic-nasa-mars-rover-perseverance-42158-7301870"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "alRfBAe3T38",
+      "channel": "Josh Builds Stuff",
+      "duration": 712.0,
+      "title": "LEGO Technic Mars Rover Perseverance Review"
+    },
+    {
+      "id": "s3FN6enaf-M",
+      "channel": "AustrianBrickFan",
+      "duration": 893.0,
+      "title": "LEGO Technic 42158 NASA Mars Perseverance Rover - LEGO Speed Build Review"
+    },
+    {
+      "id": "tbbI_l4mDqc",
+      "channel": "RacingBrick",
+      "duration": 671.0,
+      "title": "LEGO Technic 42158 NASA Mars Rover Perseverance detailed building review"
+    },
+    {
+      "id": "XvSjVHqH8iA",
+      "channel": "All The Bricks Together",
+      "duration": 340.0,
+      "title": "LEGO 42158 Review | LEGO Technic NASA Mars Rover Perseverance | Review 42158 | LEGO 2023"
+    },
+    {
+      "id": "8CblvIQdrY8",
+      "channel": "Top Brick Builder",
+      "duration": 321.0,
+      "title": "LEGO® Technic™ NASA Mars Rover Perseverance (30682)[83 pcs] Building Instructions @TopBrickBuilder"
+    }
+  ]
+}

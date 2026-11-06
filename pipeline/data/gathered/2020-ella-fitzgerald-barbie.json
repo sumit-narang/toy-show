@@ -1,0 +1,53 @@
+{
+  "id": "2020-ella-fitzgerald-barbie",
+  "year": 2020,
+  "name": "Ella Fitzgerald Barbie",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mattel",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xVrE5todJKk",
+      "channel": "Edmond's Collectible World",
+      "duration": 698.0,
+      "title": "👑 Edmond's Collectible World 🌎: Barbie Signature Inspiring Women Ella Fitzgerald Doll Review"
+    },
+    {
+      "id": "pNaKkBP8CkQ",
+      "channel": "MyFroggyStuff",
+      "duration": 765.0,
+      "title": "Inspiring Women Series - Billie Jean King | Ella Fitzgerald | Florence Nightingale"
+    },
+    {
+      "id": "zkNJin3R86s",
+      "channel": "RubyRed’s World Of Dolls",
+      "duration": 803.0,
+      "title": "Barbie Signature Doll Ella Fitzgerald, Adult Doll Collector Review"
+    },
+    {
+      "id": "hdf5vpOYF1M",
+      "channel": "Barbara Emanuele",
+      "duration": 598.0,
+      "title": "Baz Reviews: Barbie's Inspiring Women Series: Ella Fitzgerald"
+    },
+    {
+      "id": "DYC_bt2C2EU",
+      "channel": "BarbiePedia",
+      "duration": 16.0,
+      "title": "Ella Fitzgerald Barbie® Inspiring Women™ Muñeca"
+    }
+  ]
+}

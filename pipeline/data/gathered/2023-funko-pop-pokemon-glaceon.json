@@ -1,0 +1,54 @@
+{
+  "id": "2023-funko-pop-pokemon-glaceon",
+  "year": 2023,
+  "name": "Funko Pop! Pokemon - Glaceon",
+  "price_eur": 16.0,
+  "price_text": "€16",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/funko-pop-poke-glaceon-emea-toys"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/funko-pop-poke-glaceon-emea-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "j-AjjIdlZLc",
+      "channel": "Aria Collectable Quest",
+      "duration": 125.0,
+      "title": "Pokemon Glaceon Flocked Pop! Vinyl Figure"
+    },
+    {
+      "id": "SRGtDacOUjA",
+      "channel": "Petes Popculture (Pete's Pop Culture)",
+      "duration": 326.0,
+      "title": "Unboxing: Pokemon Funko Pop Vinyl Figures - Arcanine, Glaceon + Flocked and scorbunny - July 2023"
+    },
+    {
+      "id": "oxYNHQXa4XE",
+      "channel": "BumbleTronMedia",
+      "duration": 479.0,
+      "title": "Funko Pop Reviews #64: Pokémon: Eevee and Glaceon"
+    },
+    {
+      "id": "Lt7kGjXU5cw",
+      "channel": "King Pops sr",
+      "duration": 190.0,
+      "title": "Glaceon Pokemon Exclusive From Hot Topic"
+    },
+    {
+      "id": "sLSnO5c61-g",
+      "channel": "LadyVentia",
+      "duration": 97.0,
+      "title": "NEW FUNKO POP FOR MY COLLECTION! GLACEON FUNKO POP UNBOXING"
+    }
+  ]
+}

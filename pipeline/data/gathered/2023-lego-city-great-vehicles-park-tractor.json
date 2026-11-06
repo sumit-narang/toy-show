@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-great-vehicles-park-tractor",
+  "year": 2023,
+  "name": "LEGO City Great Vehicles Park Tractor",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-great-vehicles-park-tractor-60390-7301712"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-great-vehicles-park-tractor-60390-7301712"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fUl5SpZ0E5o",
+      "channel": "AustrianBrickFan",
+      "duration": 260.0,
+      "title": "LEGO City 60390 Park Tractor - LEGO Speed Build Review"
+    },
+    {
+      "id": "sKxv9AyTYro",
+      "channel": "Daniels Building",
+      "duration": 281.0,
+      "title": "LEGO City  60390   Park Tractor ❤️ SPEED BUILD"
+    },
+    {
+      "id": "aK97Q7esh38",
+      "channel": "Taulandia",
+      "duration": 138.0,
+      "title": "LEGO City 60390: Park Tractor (2023) - unboxing and speed building"
+    },
+    {
+      "id": "eWHjXEagmm4",
+      "channel": "Levic Bricks",
+      "duration": 83.0,
+      "title": "LEGO City 60390 Park Tractor Speed Build"
+    },
+    {
+      "id": "w3wfEuIOg8I",
+      "channel": "Weaver Reviews",
+      "duration": 76.0,
+      "title": "LEGO City Park Tractor Review | Interactive Pretend Play | Farm Vehicle"
+    }
+  ]
+}

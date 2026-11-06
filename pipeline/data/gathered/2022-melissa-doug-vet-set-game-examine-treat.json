@@ -1,0 +1,54 @@
+{
+  "id": "2022-melissa-doug-vet-set-game-examine-treat",
+  "year": 2022,
+  "name": "Melissa & Doug Vet Set Game Examine & Treat",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Cogs The Brain Shop",
+      "url": "https://cogsthebrainshop.ie/product/pet-vet-play-set/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/examine-treat-pet-vet-play-set-melissa-and-doug"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-59VeieKvkc",
+      "channel": "Nicholas Demski Product Reviews",
+      "duration": 171.0,
+      "title": "WHAT'S INSIDE the Melissa & Doug Examine and Treat Pet Vet Play Set? | Unboxing and Review!"
+    },
+    {
+      "id": "vAUwaM2ULJs",
+      "channel": "Family Hughs Reviews",
+      "duration": 61.0,
+      "title": "Review of Melissa & Doug Pet Vet Play Set | Veterinarian Kit for Kids"
+    },
+    {
+      "id": "cKdlyuxQ1N8",
+      "channel": "Kath's Katalytic Picks",
+      "duration": 62.0,
+      "title": "What your Kids can Learn from Melissa & Doug's Pet Vet Play Set"
+    },
+    {
+      "id": "zgXRemsN0yE",
+      "channel": "Jordan's Adventures",
+      "duration": 435.0,
+      "title": "Melissa & Doug Examine &Treat PETVET Play Set | Jordan Adventure's  Examine and Treat Melissa & Doug"
+    },
+    {
+      "id": "jacE9entjTY",
+      "channel": "Cassie's Prime Finds",
+      "duration": 139.0,
+      "title": "Melissa & Doug Vet Kit Review: Sparking Compassion & Creativity! 🐶🐱💖 "
+    }
+  ]
+}

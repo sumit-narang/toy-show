@@ -1,0 +1,60 @@
+{
+  "id": "2024-build-a-blizzard-experiment-kit",
+  "year": 2024,
+  "name": "Build-A-Blizzard Experiment Kit",
+  "price_eur": 12.0,
+  "price_text": "€12",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/kids/toys-games/science-education/fao-schwarz-fao-dolls/build-a-blizzard-experiment-kit/2000796308.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/science-education/fao-discovery-mindblown/build-a-blizzard-experiment-kit/2000796308.html",
+      "title": "FAO DISCOVERY MINDBLOWN Build-A-Blizzard Experiment Kit - Multi",
+      "description": "Discovery Mindblown offers a range of educational toys suitable for young children and teens with an interest in STEM. The collection includes everything from science experiment kits to robotic builds, space themed sets and more. The perfect present for any budding young scientist.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000796308_01.jpg?$product_tile_plp$",
+      "ld_description": "Discovery Mindblown offers a range of educational toys suitable for young children and teens with an interest in STEM. The collection includes everything from science experiment kits to robotic builds, space themed sets and more. The perfect present for any budding young scientist.",
+      "brand": "FAO DISCOVERY MINDBLOWN",
+      "ld_image": "https://images.brownthomas.com/bta/2000796308_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5i6SkoJAEYA",
+      "channel": "National Space Centre",
+      "duration": 138.0,
+      "title": "How to Make a Snow Storm in a Jar"
+    },
+    {
+      "id": "zEHDTaDWVH8",
+      "channel": "Camtec Marketing",
+      "duration": 25.0,
+      "title": "Discovery Mindblown Build-a-Blizzard Snow Making Experiment Kit"
+    },
+    {
+      "id": "y1VZYfKMBUw",
+      "channel": "SODA POP science",
+      "duration": 341.0,
+      "title": "Tornado in a jar"
+    },
+    {
+      "id": "Th9Y2a2Muc0",
+      "channel": "Super Sema",
+      "duration": 213.0,
+      "title": "How To Make Shaving Cream Rain Clouds In A Jar | Science Experiment For Kids | Sema's Lab"
+    },
+    {
+      "id": "wuNoWHAE8XA",
+      "channel": "MaMa JaZz LiFe",
+      "duration": 1703.0,
+      "title": "Discovery #Mindblown The Ultimate Science Kit - Build a Volcano, Dig for Gems and Create Slime"
+    }
+  ]
+}

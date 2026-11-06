@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-sleep-scan-by-niall-breslin",
+  "year": 2022,
+  "name": "The Sleep Scan by Niall Breslin",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/product/sleep-scan-9780717195657"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/sleep-scan-9780717195657"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sp050Bgnwuk",
+      "channel": "Niall Breslin",
+      "duration": 579.0,
+      "title": "Mindful Moments for Children | Episode 5: Body Scan"
+    },
+    {
+      "id": "9qhY-nrYVjY",
+      "channel": "Google Play Books",
+      "duration": 381.0,
+      "title": "The Magic Moment and Other Stories: Mindful… by Niall Breslin · Audiobook preview"
+    },
+    {
+      "id": "3ceHq2Bbl3g",
+      "channel": "Kevin Street",
+      "duration": 528.0,
+      "title": "Storytime Reading of The Chill Skill by Niall Breslin, illustrated by Emma Proctor"
+    },
+    {
+      "id": "4UG4ekgkDYQ",
+      "channel": "Gympluscoffee",
+      "duration": 97.0,
+      "title": "Gym+Coffee Presents: MARATHON MIND with Niall Breslin"
+    },
+    {
+      "id": "zwrCm6Jgrso",
+      "channel": "Niall Breslin",
+      "duration": 552.0,
+      "title": "Mindful Moments for Children | Episode 1: Colour Breathing"
+    }
+  ]
+}

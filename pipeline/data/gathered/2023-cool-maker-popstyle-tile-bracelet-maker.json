@@ -1,0 +1,57 @@
+{
+  "id": "2023-cool-maker-popstyle-tile-bracelet-maker",
+  "year": 2023,
+  "name": "Cool Maker PopStyle Tile Bracelet Maker",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/cool-maker-popstyle-bracelet-maker/p/224796"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/cool-maker-popstyle-bracelet-maker/p/224796",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QjexHlB0gSM",
+      "channel": "Cool Maker",
+      "duration": 53.0,
+      "title": "PopStyle Bracelet Maker Quick Start Guide | Cool Maker | Toys for Kids"
+    },
+    {
+      "id": "WSenzJ0bpvg",
+      "channel": "Cool Maker",
+      "duration": 278.0,
+      "title": "How to Use Your PopStyle Bracelet Maker | Cool Maker | Toys for Kids"
+    },
+    {
+      "id": "dRyHf1mxni8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 83.0,
+      "title": "Cool Maker Pop Style Bracelet Maker"
+    },
+    {
+      "id": "uJGGNxbMYD8",
+      "channel": "GBR - Giochi per Bambini e Ragazzi",
+      "duration": 507.0,
+      "title": "LA MACCHINA CREA BRACCIALETTI: Matilde Prova Popstyle di Cool Maker"
+    },
+    {
+      "id": "6TAavJRuBp4",
+      "channel": "Alder & Jade Reviews",
+      "duration": 124.0,
+      "title": "Create Awesome Bracelets with the PopStyle Bracelet Maker"
+    }
+  ]
+}

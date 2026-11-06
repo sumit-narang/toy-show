@@ -1,0 +1,54 @@
+{
+  "id": "2023-little-angel-rose-dollhouse",
+  "year": 2023,
+  "name": "Little Angel Rose Dollhouse",
+  "price_eur": 195.0,
+  "price_text": "€195",
+  "retailers": [
+    {
+      "name": "Little Angel Rose",
+      "url": "https://www.littleangelrose.com/products/siennas-doll-house"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.littleangelrose.com/products/siennas-doll-house"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hGnMSib9Fuw",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 607.0,
+      "title": "Kids, let's learn common words with Pororo's fun Toy Dollhouse!"
+    },
+    {
+      "id": "Nhza6A-6-DA",
+      "channel": "Mariam's Nursery",
+      "duration": 885.0,
+      "title": "NEW Baby alive crib life dolls Morning routine ☀️"
+    },
+    {
+      "id": "zm7pzG1N8SA",
+      "channel": "Mariam's Nursery",
+      "duration": 726.0,
+      "title": "NEW Baby alive crib life doll gets Sick in the Bath! 🤢"
+    },
+    {
+      "id": "p8Ks_TLfEs8",
+      "channel": "Christina's Reborns",
+      "duration": 262.0,
+      "title": "Reborn Baby Kami Rose a Little Angel!"
+    },
+    {
+      "id": "BXRrSG7TMPQ",
+      "channel": "Kidibli (Kinder Spielzeug Kanal)",
+      "duration": 668.0,
+      "title": "Masha and the Bear Dolls and Playhouse for Kids"
+    }
+  ]
+}

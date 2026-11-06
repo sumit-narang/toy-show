@@ -1,0 +1,54 @@
+{
+  "id": "2020-thomas-friends-cassia-crane-set",
+  "year": 2020,
+  "name": "Thomas & Friends Cassia Crane Set",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/thomas-friends-cassia-crane-set/1600431653.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/thomas-friends-cassia-crane-set/1600431653.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TvFCzujSAMY",
+      "channel": "Preston's World",
+      "duration": 317.0,
+      "title": "Preston's World: Cassia Crane & Cargo Set (Thomas and Friends)"
+    },
+    {
+      "id": "mTQAxQEPUSI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 170.0,
+      "title": "Thomas & Friends TrackMaster Press 'N Spin Harold and Cassia Crane & Cargo Set from Fisher-Price"
+    },
+    {
+      "id": "Fxq-kQqniLk",
+      "channel": "Debakidz",
+      "duration": 879.0,
+      "title": "THOMAS & CASSIA CRANE SET"
+    },
+    {
+      "id": "Kr6Hg1jgJCY",
+      "channel": "Trackmaster’s Lionel Trains ",
+      "duration": 1123.0,
+      "title": "TRACKMASTER CASSIA CRANE AND CARGO SET REVIEW"
+    },
+    {
+      "id": "h2xrDTWpy_M",
+      "channel": "Custom Trackmasters",
+      "duration": 238.0,
+      "title": "Cassia Crane & cargo set Trackmaster Thomas & friends Thomas y sus amigos 托馬斯和朋友 Томас и друзья"
+    }
+  ]
+}

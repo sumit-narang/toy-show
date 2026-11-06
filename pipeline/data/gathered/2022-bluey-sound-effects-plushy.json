@@ -1,0 +1,57 @@
+{
+  "id": "2022-bluey-sound-effects-plushy",
+  "year": 2022,
+  "name": "Bluey Sound Effects Plushy",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/bluey-s-talking-bluey-plush/p/199290"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/bluey-s-talking-bluey-plush/p/199290",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "25QIt5FPj4c",
+      "channel": "LMG Reviews",
+      "duration": 36.0,
+      "title": "Bluey Sound Effects Talking Bingo Plush Toy, Adorable Bingo for kids toddlers!"
+    },
+    {
+      "id": "2ttsK0PdJbo",
+      "channel": "ShopByKayy",
+      "duration": 55.0,
+      "title": "Bluey 13-Inch Talking Plush: A Parent's Review"
+    },
+    {
+      "id": "LFDzUTdiw9Q",
+      "channel": "Beetoyriffic ",
+      "duration": 33.0,
+      "title": "Sleepytime Bluey Sound Effect Plush"
+    },
+    {
+      "id": "htCcQ9qnIVQ",
+      "channel": "Smyths Toys Superstores",
+      "duration": 30.0,
+      "title": "Bluey Ultimate Lights & Sounds Playhouse - Smyths Toys"
+    },
+    {
+      "id": "YgqldSMmDCU",
+      "channel": "BrickBuzz",
+      "duration": 143.0,
+      "title": "Review Bluey Sound Effects Talking Bingo Plush Toy, 13” Soft Bingo Toy, Interactive Stuffed Animal w"
+    }
+  ]
+}

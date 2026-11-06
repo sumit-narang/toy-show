@@ -1,0 +1,57 @@
+{
+  "id": "2019-disney-princess-royal-horse-and-carriage-electric-ride-on",
+  "year": 2019,
+  "name": "Disney Princess Royal Horse and Carriage Electric Ride On",
+  "price_eur": 229.99,
+  "price_text": "€229.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/6v-disney-princess-royal-horse-and-carriage-electric-ride-on/p/176180"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/6v-disney-princess-royal-horse-and-carriage-electric-ride-on/p/176180",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Qee8AyVHxow",
+      "channel": "Huffy Bicycles",
+      "duration": 67.0,
+      "title": "Disney Princess Royal Horse and Carriage Ride-On Toy by Huffy"
+    },
+    {
+      "id": "eYmPiMnwjJI",
+      "channel": "Twinkle Smiley",
+      "duration": 256.0,
+      "title": "Unboxing Disney Princess Royal horse and carriage"
+    },
+    {
+      "id": "zB0T9BLUwHI",
+      "channel": "Electric Ride on Cars Online",
+      "duration": 65.0,
+      "title": "Disney Princess Horse and Carriage Ride On"
+    },
+    {
+      "id": "Y4TkcKUicK0",
+      "channel": "DaisyYCanelatv",
+      "duration": 222.0,
+      "title": "Huffy DISNEY PRINCESS CARRIAGE pretend play, toy review ride on toy for girls"
+    },
+    {
+      "id": "TlqAUyGYlaQ",
+      "channel": "Cali Boys J&R",
+      "duration": 149.0,
+      "title": "Riding like a princess 👸"
+    }
+  ]
+}

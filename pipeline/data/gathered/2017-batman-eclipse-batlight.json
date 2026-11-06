@@ -1,0 +1,53 @@
+{
+  "id": "2017-batman-eclipse-batlight",
+  "year": 2017,
+  "name": "Batman Eclipse Batlight",
+  "price_eur": 25.95,
+  "price_text": "€25.95",
+  "retailers": [
+    {
+      "name": "bCool Gadgt Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DdUQ14g0f0M",
+      "channel": "Latest Products",
+      "duration": 32.0,
+      "title": "Batman Eclipse Night Light | Batman Wall Light Lamp"
+    },
+    {
+      "id": "9T1gUcmPnKc",
+      "channel": "Paladone",
+      "duration": 31.0,
+      "title": "Batman Eclipse Light"
+    },
+    {
+      "id": "jdGDKxn6ock",
+      "channel": "Monsterville Store",
+      "duration": 27.0,
+      "title": "Διακοσμητικό Batman Eclipse Light - monsterville.gr"
+    },
+    {
+      "id": "U_Q9KBL655E",
+      "channel": "Monsterville Store",
+      "duration": 124.0,
+      "title": "Unboxing Batman Logo Eclipse Light"
+    },
+    {
+      "id": "EUdARZqotO4",
+      "channel": "Gamesky",
+      "duration": 148.0,
+      "title": "Look What I found...BATMAN ECLIPSE LIGHT"
+    }
+  ]
+}

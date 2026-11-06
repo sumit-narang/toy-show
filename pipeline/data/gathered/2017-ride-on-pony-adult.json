@@ -1,0 +1,64 @@
+{
+  "id": "2017-ride-on-pony-adult",
+  "year": 2017,
+  "name": "Ride ON Pony Adult",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rbhshnTP0yw",
+      "channel": "Kid Trax Toys",
+      "duration": 108.0,
+      "title": "Rideamals Scout Pony Play Guide | Rideons for Kids"
+    },
+    {
+      "id": "9Tg-4iLGXNY",
+      "channel": "The Honeybee Hive",
+      "duration": 21.0,
+      "title": "Review UFREE Large Ride on Horse, Action Pony Toy, Ride on Large 44 inch for Children 6 Years Old to"
+    },
+    {
+      "id": "yXGvb54tnhU",
+      "channel": "Adventures of Pupkin & Bob",
+      "duration": 340.0,
+      "title": "Pony Cycle Pony Versus UFree Action Pony Review"
+    },
+    {
+      "id": "3S9Pir2BW1M",
+      "channel": "DiscoverTheHorse",
+      "duration": 777.0,
+      "title": "Riding the Fell Pony in England"
+    },
+    {
+      "id": "MrU7h1vZspI",
+      "channel": "Harlow Luna White ",
+      "duration": 1383.0,
+      "title": "HARLOW AND POPCORN TRY PONY CLUB MOUNTED GAMES... WITH THE PRO'S!"
+    }
+  ]
+}

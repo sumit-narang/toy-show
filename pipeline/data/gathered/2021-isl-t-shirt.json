@@ -1,0 +1,57 @@
+{
+  "id": "2021-isl-t-shirt",
+  "year": 2021,
+  "name": "ISL T-Shirt",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Instagram: @crazy_craftymas",
+      "url": "https://www.instagram.com/crazy_craftymas/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.instagram.com/crazy_craftymas/",
+      "title": "Instagram",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X0dqH62H2ps",
+      "channel": "Chris Faison",
+      "duration": 178.0,
+      "title": "ISL/Workwear Outfitters Commercial 2023"
+    },
+    {
+      "id": "rtRIMhcuNko",
+      "channel": "Sports Info 2",
+      "duration": 120.0,
+      "title": "ISL All Teams Jersey 2024-25 | ISL All Teams Jersey Kits | ISL"
+    },
+    {
+      "id": "noApekVFmrI",
+      "channel": "Boonary TV",
+      "duration": 186.0,
+      "title": "Boonarycart shopping l Great products l ISL printed mugs, t-shirts and many more."
+    },
+    {
+      "id": "RnD3hEwgBiQ",
+      "channel": "VINVENT",
+      "duration": 542.0,
+      "title": "ISL ( season 7 ) All teams jersey concepts | Designed by MBK"
+    },
+    {
+      "id": "a-4SSHce2HY",
+      "channel": "Boonary",
+      "duration": 186.0,
+      "title": "Boonarycart shopping l Great products l ISL printed mugs, t-shirts and many more."
+    }
+  ]
+}

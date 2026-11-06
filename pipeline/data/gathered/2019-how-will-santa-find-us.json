@@ -1,0 +1,54 @@
+{
+  "id": "2019-how-will-santa-find-us",
+  "year": 2019,
+  "name": "How Will Santa Find Us",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/How-Will-Santa-Find-Us-FS-HB-en-us.aspx"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.easons.com/How-Will-Santa-Find-Us-FS-HB-en-us.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AK_hy3YDscw",
+      "channel": "Bunch of Friends",
+      "duration": 753.0,
+      "title": "Which one of these people is secretly Santa?"
+    },
+    {
+      "id": "PkGNhUCe5fE",
+      "channel": "CBS New York",
+      "duration": 25.0,
+      "title": "NORAD Santa Tracker 11PM Update"
+    },
+    {
+      "id": "jnyTYzxDNlk",
+      "channel": "Amyy Woahh",
+      "duration": 1577.0,
+      "title": "Santa Sent Us on a Secret Mission"
+    },
+    {
+      "id": "FQHl8OVz-js",
+      "channel": "Lively Lewis Show",
+      "duration": 481.0,
+      "title": "SANTA watches us on YouTube!! Can he find our new house!?!"
+    },
+    {
+      "id": "334DJvK9FJE",
+      "channel": "Scratch Garden",
+      "duration": 190.0,
+      "title": "Santa Claus Auditions! | Scratch Garden"
+    }
+  ]
+}

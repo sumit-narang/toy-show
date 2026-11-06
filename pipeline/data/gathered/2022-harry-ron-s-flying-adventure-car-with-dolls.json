@@ -1,0 +1,57 @@
+{
+  "id": "2022-harry-ron-s-flying-adventure-car-with-dolls",
+  "year": 2022,
+  "name": "Harry & Ron's Flying Adventure Car with dolls",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/harry-potter-harry-and-ron-s-flying-adventure-car-with-harry-and-ron-dolls/p/210171"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/harry-potter-harry-and-ron-s-flying-adventure-car-with-harry-and-ron-dolls/p/210171",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xxiuru9Iae8",
+      "channel": "Marvi Model Cars",
+      "duration": 377.0,
+      "title": "Harry Potter by JADA Nano Hollywood Rides EP.9"
+    },
+    {
+      "id": "GMOJm0ASthY",
+      "channel": "Rachel's Room of Requirement",
+      "duration": 958.0,
+      "title": "Unboxing Harry Potter Mattel Ford Anglia  Flying Cars 2001 & 2022"
+    },
+    {
+      "id": "lnS8a-jgQrk",
+      "channel": "Carla Giojammies",
+      "duration": 462.0,
+      "title": "UNBOXING THE BIGGEST FORD ANGLIA | HARRY POTTER COMPARISON"
+    },
+    {
+      "id": "b-A_gPX5RZw",
+      "channel": "Geekguy Prentis",
+      "duration": 437.0,
+      "title": "Is this Harry Potter car set good for Xmas?"
+    },
+    {
+      "id": "pw6jp5SWIyY",
+      "channel": "SiriToyCollections",
+      "duration": 402.0,
+      "title": "Harry Potter 1967 Ford Anglia Car With Harry Potter Action Figure 1:24 Scale Model car"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-retro-moomin-book",
+  "year": 2017,
+  "name": "Retro Moomin Book",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XECZcnu561Q",
+      "channel": "Loxytocin",
+      "duration": 446.0,
+      "title": "My ENTIRE Amazing Moomin Collection"
+    },
+    {
+      "id": "PaSEj3xGQTo",
+      "channel": "Union Square & Co.",
+      "duration": 39.0,
+      "title": "The Moomins Find a New Home Pop-Up Flip-Through"
+    },
+    {
+      "id": "vqf895W1RMk",
+      "channel": "Moomin Official",
+      "duration": 60.0,
+      "title": "#mytove Sophia Jansson about her favourite book by Tove Jansson"
+    },
+    {
+      "id": "tE9ZDEeMVtE",
+      "channel": "Pickles Reads",
+      "duration": 295.0,
+      "title": "Moomin Comics Review | #REMbooks"
+    },
+    {
+      "id": "14of3H5y6Js",
+      "channel": "Mrs.Eriksstory Time",
+      "duration": 540.0,
+      "title": "The Book about Moomin, Mymble and Little My"
+    }
+  ]
+}

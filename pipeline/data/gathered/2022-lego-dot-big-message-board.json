@@ -1,0 +1,54 @@
+{
+  "id": "2022-lego-dot-big-message-board",
+  "year": 2022,
+  "name": "Lego Dot Big Message Board",
+  "price_eur": 40.0,
+  "price_text": "€40",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/big-message-board-41952"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/big-message-board-41952"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4xpQ8sRfFb8",
+      "channel": "MarisBricks",
+      "duration": 477.0,
+      "title": "LEGO DOTS Big Message Board 41952"
+    },
+    {
+      "id": "qnSfm-WbvRk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 64.0,
+      "title": "LEGO Dots Big Message Board Review!"
+    },
+    {
+      "id": "mrCSd0kexi4",
+      "channel": "L of Elle",
+      "duration": 490.0,
+      "title": "LEGO 2022 DOTS PARTS REVIEW!! Big Message Board! Lego set #41952"
+    },
+    {
+      "id": "C_mQdxKnKkw",
+      "channel": "Adrian Kniewald",
+      "duration": 582.0,
+      "title": "LEGO® DOTS 41952 - PurLEGOist"
+    },
+    {
+      "id": "V4gcJzb46sY",
+      "channel": "The Lego Stud",
+      "duration": 294.0,
+      "title": "LEGO Message Board for Some Super Creative Fun: Review Set #41952"
+    }
+  ]
+}

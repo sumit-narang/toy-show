@@ -1,0 +1,54 @@
+{
+  "id": "2022-talking-peter-rabbit-soft-toy",
+  "year": 2022,
+  "name": "Talking Peter Rabbit Soft Toy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FrKykhCnKcI",
+      "channel": "MusicRoad1",
+      "duration": 79.0,
+      "title": "Peter Rabbit Talking Toy!"
+    },
+    {
+      "id": "FaEFBTCKATk",
+      "channel": "Memory Lane Toys",
+      "duration": 24.0,
+      "title": "Hopping & Talking Peter Rabbit Soft Toy"
+    },
+    {
+      "id": "_eaTVyyGi-o",
+      "channel": "Rainbow Designs",
+      "duration": 44.0,
+      "title": "Talking and Hopping Peter Rabbit"
+    },
+    {
+      "id": "1-WELLdIL8U",
+      "channel": "Memory Lane Toys",
+      "duration": 198.0,
+      "title": "Peter Rabbit Talking Moving Soft Toy - Reads The Tale Of Peter Rabbit Story Book"
+    },
+    {
+      "id": "i6ymP0bqIKs",
+      "channel": "Martin Ansell",
+      "duration": 49.0,
+      "title": "Switch Adapted Talking peter rabbit"
+    }
+  ]
+}

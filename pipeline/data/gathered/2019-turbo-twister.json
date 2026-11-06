@@ -1,0 +1,57 @@
+{
+  "id": "2019-turbo-twister",
+  "year": 2019,
+  "name": "Turbo Twister",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mpwXDLWoofw",
+      "channel": "Review Central",
+      "duration": 288.0,
+      "title": "S.R. Smith Turbo Twister Review: The Ultimate Pool Slide for Summer"
+    },
+    {
+      "id": "hGRZSKQh-IE",
+      "channel": "TUBERIDES",
+      "duration": 121.0,
+      "title": "Turbo Twist Water Slide | Splash Aqua Park Craigieburn"
+    },
+    {
+      "id": "8Pqz_3huFtI",
+      "channel": "KSECTOR",
+      "duration": 245.0,
+      "title": "TURBO - \"Twist King\" Lyrics [Color Coded Han/Rom/Eng]"
+    },
+    {
+      "id": "OJMbKW_YJBI",
+      "channel": "MBCkpop",
+      "duration": 238.0,
+      "title": "Turbo - Twist King, 터보 - 트위스트 킹, MBC Top Music 19960907"
+    },
+    {
+      "id": "WMh4VyEyTzU",
+      "channel": "Gezen Adam",
+      "duration": 79.0,
+      "title": "Turbo Twister Water Slide at Center Parcs De Eemhof, Netherlands"
+    }
+  ]
+}

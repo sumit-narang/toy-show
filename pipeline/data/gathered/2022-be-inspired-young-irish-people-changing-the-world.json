@@ -1,0 +1,44 @@
+{
+  "id": "2022-be-inspired-young-irish-people-changing-the-world",
+  "year": 2022,
+  "name": "Be Inspired: Young Irish People Changing the World",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "Us-TVg40ExM",
+      "channel": "Playing For Change",
+      "duration": 328.0,
+      "title": "Stand By Me | Playing For Change | Song Around The World"
+    },
+    {
+      "id": "G5cpE-CxPUo",
+      "channel": "Dust & Stories and Celtic Journals",
+      "duration": 983.0,
+      "title": "5 MORE Irish People Who Changed The World — And Were ERASED From History"
+    },
+    {
+      "id": "gRJSXj1Z0uY",
+      "channel": "MMA Core",
+      "duration": 1442.0,
+      "title": "Conor McGregor's Speech Will Leave You SPEECHLESS | One of The Best Motivational Videos Ever"
+    },
+    {
+      "id": "P5AuFDHdrrg",
+      "channel": "Playing For Change",
+      "duration": 375.0,
+      "title": "Teach Your Children | Playing For Change | Live in Australia"
+    },
+    {
+      "id": "TBuIGBCF9jc",
+      "channel": "MotivationHub",
+      "duration": 960.0,
+      "title": "Admiral McRaven Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches"
+    }
+  ]
+}

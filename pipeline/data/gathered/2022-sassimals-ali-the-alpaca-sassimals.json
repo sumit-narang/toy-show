@@ -1,0 +1,54 @@
+{
+  "id": "2022-sassimals-ali-the-alpaca-sassimals",
+  "year": 2022,
+  "name": "SASSIMALS ALI THE ALPACA SASSIMALS",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4mmI1UeDsv4",
+      "channel": "SAFFRON 2",
+      "duration": 84.0,
+      "title": "Танцююча Лама Альпака  Ali Alpaca Sassimals"
+    },
+    {
+      "id": "JEgtpnVAgrk",
+      "channel": "MiniturePharell",
+      "duration": 35.0,
+      "title": "New Sassimals Alli The Alpace (reupload)"
+    },
+    {
+      "id": "UJ6dVYFSUkc",
+      "channel": "MiniturePharell",
+      "duration": 37.0,
+      "title": "Sassimals Flossi Flamingo"
+    },
+    {
+      "id": "Diw3UTSMxH0",
+      "channel": "Fritz Hansen Toys",
+      "duration": 21.0,
+      "title": "Sassimals"
+    },
+    {
+      "id": "2jwBTkMe3UU",
+      "channel": "ABC4 Utah",
+      "duration": 303.0,
+      "title": "Ali Kisses an Alpaca"
+    }
+  ]
+}

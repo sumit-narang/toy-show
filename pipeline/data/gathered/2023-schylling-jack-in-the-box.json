@@ -1,0 +1,60 @@
+{
+  "id": "2023-schylling-jack-in-the-box",
+  "year": 2023,
+  "name": "Schylling Jack In The Box",
+  "price_eur": 25.95,
+  "price_text": "€25.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/jack-in-the-box-by-schylling"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/jack-in-the-box-by-schylling",
+      "title": "Jack In The Box by Schylling",
+      "description": "Jack-in-the-Box by Schylling: turn the handle, hear the music, and watch the plush character pop out. Ages 18 months+.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/jack-in-the-box.jpg?v=1683530855",
+      "ld_description": "Jack-in-the-Box - Regular\n\nClassic metal jack-in-the-box toy with bright colours and cheerful design.\nTurn the handle to hear the music play - then watch the surprise pop out!\nEncourages anticipation, motor skills, and early cause-and-effect learning.\nIncludes soft plush character inside, safe for young children.\nDurable, nostalgic design loved by generations.\nSuitable for ages 18 months and up.\n\nA timeless toy that brings delight and giggles - perfect for sharing joy and surprise with the littlest learners.",
+      "brand": "Schylling",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lZjHvn58aOs",
+      "channel": "Olimphia Bradshow (mysontoys)",
+      "duration": 38.0,
+      "title": "I&K's toys: Schylling Jack In The Box Peek - A- Boo Monkey"
+    },
+    {
+      "id": "x0B0xseJ9FE",
+      "channel": "Freddy Hays",
+      "duration": 98.0,
+      "title": "A Review on the Jack-in-the-Box from Baby Van Gogh"
+    },
+    {
+      "id": "1To51HfwKxs",
+      "channel": "Gbg Mechanical",
+      "duration": 37.0,
+      "title": "Schylling - Jack-in-the-Box (60fps Version)"
+    },
+    {
+      "id": "bgMfj3hxJLk",
+      "channel": "Noah Rozon",
+      "duration": 20.0,
+      "title": "Jack-in-the-box Clown Friends Schylling Jester-In-The-Box New 2026"
+    },
+    {
+      "id": "L39XBKcttx4",
+      "channel": "Kristopher Walker",
+      "duration": 30.0,
+      "title": "Jack-in-the-Box"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-raleigh-pioneer-grand-tour-ladies-hybrid-bike",
+  "year": 2022,
+  "name": "Raleigh Pioneer Grand Tour Ladies Hybrid Bike",
+  "price_eur": 715.0,
+  "price_text": "€715",
+  "retailers": [
+    {
+      "name": "Eurocycles",
+      "url": "https://eurocycles.com/raleigh-pioneer-grand-tour-ladies-hybrid-bike-burgundy-silver-2021/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DqqZ7PbAQRo",
+      "channel": "It's Mark Field",
+      "duration": 99.0,
+      "title": "Raleigh Pioneer Tour......one year on."
+    },
+    {
+      "id": "nviJXzb48iM",
+      "channel": "Interesting Motorcycles",
+      "duration": 121.0,
+      "title": "Raleigh Pioneer Classic"
+    },
+    {
+      "id": "j1qC0yVjSzg",
+      "channel": "Jim Wolfe (Bikeme ie)",
+      "duration": 65.0,
+      "title": "Raleigh Pioneer Electric Low Step"
+    },
+    {
+      "id": "HCLbQXRLQMQ",
+      "channel": "businesslead1",
+      "duration": 24.0,
+      "title": "Beautiful Tall Ladies Light Weight Raleigh Pioneer Town Bike + Full Guards + New Cables"
+    },
+    {
+      "id": "-J38LZ6wzHc",
+      "channel": "businesslead1",
+      "duration": 24.0,
+      "title": "Beautiful Tall Ladies Light Weight Raleigh Pioneer Town Bike + Full Guards + New Cables"
+    }
+  ]
+}

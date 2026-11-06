@@ -1,0 +1,54 @@
+{
+  "id": "2023-do-you-remember",
+  "year": 2023,
+  "name": "Do You Remember?",
+  "price_eur": 18.2,
+  "price_text": "€18.20",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/do-you-remember-hb-9781529519914"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/do-you-remember-hb-9781529519914"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a81eP2E8MEQ",
+      "channel": "jayseanworldwide",
+      "duration": 219.0,
+      "title": "Jay Sean - Do You Remember ft. Sean Paul, Lil Jon"
+    },
+    {
+      "id": "l4n5gJTeqWY",
+      "channel": "Melody Base",
+      "duration": 212.0,
+      "title": "Do You Remember - Jay Sean ft. Sean Paul, Lil Jon (Lyrics)"
+    },
+    {
+      "id": "QQ7XJG0Z2ho",
+      "channel": "Jarryd James",
+      "duration": 234.0,
+      "title": "Jarryd James - Do You Remember (Official Video)"
+    },
+    {
+      "id": "Gs069dndIYk",
+      "channel": "Earth Wind & Fire",
+      "duration": 216.0,
+      "title": "Earth, Wind & Fire - September (Official HD Video)"
+    },
+    {
+      "id": "hhfx1MdjnZc",
+      "channel": "Phil Collins",
+      "duration": 337.0,
+      "title": "Phil Collins - Do You Remember? (Official Music Video)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2021-jurassic-world-legacy-collection-tyrannosaurus-rex-escape-pack",
+  "year": 2021,
+  "name": "Jurassic World Legacy Collection Tyrannosaurus Rex Escape Pack",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-legacy-collection-tyrannosaurus-rex-escape-pack/p/193265"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-legacy-collection-tyrannosaurus-rex-escape-pack/p/193265",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HXTP9FCIeFw",
+      "channel": "Dino Scream Reviews",
+      "duration": 1121.0,
+      "title": "Mattel Legacy Collection Tyrannosaurus rex Escape Pack Review!! Jurassic Park | Jurassic World"
+    },
+    {
+      "id": "XTi-csGsc7s",
+      "channel": "Marco Makes",
+      "duration": 750.0,
+      "title": "TYRANNOSAURUS REX ESCAPE PACK Review - Jurassic World Legacy Collection by Mattel Unboxing & Review"
+    },
+    {
+      "id": "IuCY69Trhpk",
+      "channel": "Collect Jurassic",
+      "duration": 1018.0,
+      "title": "UNBOXING Jurassic Park Legacy Collection T-Rex Escape Set - Mattel 4K Review / collectjurassic.com"
+    },
+    {
+      "id": "weEjW5p7hMk",
+      "channel": "Jurassic Collections",
+      "duration": 477.0,
+      "title": "Jurassic World Legacy Collection T. rex Escape Pack Unboxing!"
+    },
+    {
+      "id": "1JxUdH0P0eA",
+      "channel": "Luke Malone",
+      "duration": 527.0,
+      "title": "Jurassic World 🌎 Legacy Collection Tyrannosaurus Rex 🦖 Escape Pack by Mattel Full Detailed Review"
+    }
+  ]
+}

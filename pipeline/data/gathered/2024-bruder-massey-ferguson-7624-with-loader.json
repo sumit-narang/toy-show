@@ -1,0 +1,60 @@
+{
+  "id": "2024-bruder-massey-ferguson-7624-with-loader",
+  "year": 2024,
+  "name": "Bruder Massey Ferguson 7624 With Loader",
+  "price_eur": 53.0,
+  "price_text": "€53",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-massey-ferguson-7624-with-loader"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-massey-ferguson-7624-with-loader",
+      "title": "Bruder Massey Ferguson 7624 With | Clarkes of Cavan",
+      "description": "Shop Bruder Massey Ferguson 7624 With Loader at Clarkes of Cavan. A realistic Bruder farm toy for hands-on play. Available online in Ireland.",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/csmf030474ccr97ymrgjn7kba5be49530.webp?crop=center&height=1200&v=1786110334&width=1200",
+      "ld_description": "Item Description\n\nApart from winning distinction as the \"Machine of the Year 2012\" in the category of premium tractors (180 hp to 260 hp) at Agritechnica in Germany, the tractors of the model MF 7600 series won numerous other international awards such as the \"Tractor of the Year for Design 2012\". It is, therefore, no wonder that BRUDER adopted this powerhouse into its line of most powerful tractors (PREMIUM-PRO). The model matches all the features that are characteristic of this class of tractors including a glazed cab, doors and an engine bonnet that open(s) as well as a realistic imitation of the original steering which is provided by an additional steering rod that is guided through the roof of the tractor. The off-road full floating axle improves agility while the detachable front weight and the front loader turn the tractor into a versatile all-rounder. The height-adjustable drawbar coupling can be used to add various BRUDER accessories and trailers, allowing the children to imitate any situation a tractor operator may encounter. The necessary toy figures are included in BRUDER's comprehensive range as well.\n\nHighlights\n\nAutomotive body\n\n\n\tdetachable front weight\n\tTow coupling with height-adjustable lifting gear\n\treceiver for front loader\n\tengine bonnet can be opened\n\n\nChassis\n\n\n\tsteerable and off-road front axle\n\ttread tyres\n\n\nMotion/Function\n\n\n\tdetachable and fully functioning front loader\n\tadditional steering rod allows steering through the sliding tractor roof\n\n\nWARN",
+      "brand": "Bruder",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/csmf030474ccr97ymrgjn7kba5be49530.webp?v=1786110334&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nrZcWHYArjo",
+      "channel": "BruderSpielwaren",
+      "duration": 166.0,
+      "title": "Massey Ferguson 7624 -- 03046 -- BRUDER Spielwaren"
+    },
+    {
+      "id": "dc7iwISYyL8",
+      "channel": "Çebitoys ",
+      "duration": 42.0,
+      "title": "Bruder Massey Ferguson 7600 Tractor #03046"
+    },
+    {
+      "id": "5On2ZQx1Tuk",
+      "channel": "интернет магазин Motodim",
+      "duration": 88.0,
+      "title": "Трактор Massey Ferguson 7624 Bruder 03046"
+    },
+    {
+      "id": "mZJdNpkWcXk",
+      "channel": "RC CONSTRUCTION EXCLUSIVE and RC TANKS",
+      "duration": 94.0,
+      "title": "Exclusive Bruder Massey Ferguson 7624 thanks to Mr. Casey."
+    },
+    {
+      "id": "IYgiF9QBC_Q",
+      "channel": "RC T4K",
+      "duration": 139.0,
+      "title": "BRUDER TOYS TRAKTOR MASSEY FERGUSON 7624"
+    }
+  ]
+}

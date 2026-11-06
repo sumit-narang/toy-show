@@ -1,0 +1,54 @@
+{
+  "id": "2019-marmite-500-piece-jigsaw-puzzle",
+  "year": 2019,
+  "name": "Marmite 500 Piece Jigsaw Puzzle",
+  "price_eur": null,
+  "price_text": "£15.95",
+  "retailers": [
+    {
+      "name": "Gibsons Games",
+      "url": "https://gibsonsgames.co.uk/collections/all-puzzles/products/marmite-500-piece-jigsaw-puzzle"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://gibsonsgames.co.uk/en-eu/collections/all-puzzles/products/marmite-500-piece-jigsaw-puzzle"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BzA_gTIbEsM",
+      "channel": "brian richard brown",
+      "duration": 44.0,
+      "title": "Marmite 500 piece puzzle-wall mounted"
+    },
+    {
+      "id": "fCPpUi1Ow1g",
+      "channel": "Gibsons Games",
+      "duration": 69.0,
+      "title": "Gibsons Jigsaw Puzzle Collection"
+    },
+    {
+      "id": "tjfJlDuoqK4",
+      "channel": "NK Cubed",
+      "duration": 586.0,
+      "title": "Marmite - WILL IT LUBE?! + 3D Printed 3x3 Announcement"
+    },
+    {
+      "id": "9iwA-xlydeg",
+      "channel": "Mr. Weaverface",
+      "duration": 58.0,
+      "title": "Map of Skyrim Puzzle 550 Pieces"
+    },
+    {
+      "id": "brTDu2QZ46s",
+      "channel": "Chands3rdLeg",
+      "duration": 36.0,
+      "title": "Unboxing Cadbury Roses"
+    }
+  ]
+}

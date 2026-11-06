@@ -1,0 +1,57 @@
+{
+  "id": "2019-pump-up-pirate",
+  "year": 2019,
+  "name": "Pump Up Pirate",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/pump-up-pirate/p/178335"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/pump-up-pirate/p/178335",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5YCM72drV-Q",
+      "channel": "Calvin Jacks (Original)",
+      "duration": 21.0,
+      "title": "Pump Up Pirates Ad 2 (2019 UK)"
+    },
+    {
+      "id": "rAJzLDJJUrg",
+      "channel": "The CJ Advert Archive",
+      "duration": 31.0,
+      "title": "Pump Up Pirate & Pop Up Pirate Ads (2019 UK)"
+    },
+    {
+      "id": "WfoaeHC-fiY",
+      "channel": "T4PProductions",
+      "duration": 166.0,
+      "title": "2014 Pittsburgh Pirates Playoffs Pump Up"
+    },
+    {
+      "id": "7IdPOKEWl6E",
+      "channel": "The CJ Advert Archive",
+      "duration": 21.0,
+      "title": "Pop Up Pirate Ad 1 (2014)"
+    },
+    {
+      "id": "gfoISCOszCo",
+      "channel": "펌프잇업공식 PUMP IT UP Official",
+      "duration": 130.0,
+      "title": "[PUMP IT UP PHOENIX] Pirate (파이렛) S6, S9"
+    }
+  ]
+}

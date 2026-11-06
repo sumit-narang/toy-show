@@ -1,0 +1,54 @@
+{
+  "id": "2022-cocomelon-musical-bedtime-jj-doll",
+  "year": 2022,
+  "name": "Cocomelon Musical Bedtime JJ Doll",
+  "price_eur": 34.0,
+  "price_text": "€34",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/bawt80114?_pos=18&_sid=24a9baf86&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/bawt80114?_pos=18&_sid=24a9baf86&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bV0Hs3oF-Tg",
+      "channel": "C0C0 Cadz",
+      "duration": 355.0,
+      "title": "Unboxing COCOMELON Musical Bedtime JJ Doll"
+    },
+    {
+      "id": "RciTeCrpDgM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 93.0,
+      "title": "CoComelon Musical Bedtime JJ Doll from Jazwares | Nursery Rhymes and Kid Songs"
+    },
+    {
+      "id": "gxnRLtdQE8U",
+      "channel": "Freddie griffiths",
+      "duration": 20.0,
+      "title": "cocomelon musical bedtime JJ doll - smyths toys"
+    },
+    {
+      "id": "9Y88m7ysqzo",
+      "channel": "Harper's Playhouse",
+      "duration": 594.0,
+      "title": "Cocomelon Musical Bedtime JJ Doll/Musical Doctor Checkup Set/Friends & Family!"
+    },
+    {
+      "id": "mn-GquzXhxc",
+      "channel": "Dehlers Deals",
+      "duration": 34.0,
+      "title": "CoComelon Official Musical Bedtime JJ Doll, Soft Plush Body – Press Tummy Toys"
+    }
+  ]
+}

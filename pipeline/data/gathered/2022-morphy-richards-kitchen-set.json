@@ -1,0 +1,54 @@
+{
+  "id": "2022-morphy-richards-kitchen-set",
+  "year": 2022,
+  "name": "Morphy Richards Kitchen Set",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product/morphy-richards-kitchen-set/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://worldofwondertoys.ie/product/morphy-richards-kitchen-set/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FNw49gxuJx8",
+      "channel": "Casdon Toys Ltd",
+      "duration": 68.0,
+      "title": "Morphy Richards Kitchen Set by Casdon Toys"
+    },
+    {
+      "id": "abo5sH2pJv4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 89.0,
+      "title": "Morphy Richards Little Cook Kitchen Set from Casdon"
+    },
+    {
+      "id": "WwJmk_laknI",
+      "channel": "Kidspeak UK",
+      "duration": 484.0,
+      "title": "Henry & Jaxon Pretend Play with Morphy Richards Kitchen Set from Casdon"
+    },
+    {
+      "id": "l6xEEt_bRUw",
+      "channel": "Smyths Toys Superstores",
+      "duration": 20.0,
+      "title": "Morphy Richards Kitchen Set - Smyths Toys"
+    },
+    {
+      "id": "_cogTDjK7nY",
+      "channel": "Toys Galaxy Reviews",
+      "duration": 354.0,
+      "title": "MORPHY RICHARDS KITCHEN SET UNBOXING! | TOYS GALAXY"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-plasma-ball",
+  "year": 2024,
+  "name": "Plasma Ball",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/plasma-ball-thames-kosmos"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/plasma-ball-thames-kosmos",
+      "title": "Plasma Ball - Thames & Kosmos",
+      "description": "Watch electricity dance with this interactive plasma ball for ages 14+. A fascinating STEM gift from Cogs Toys & Games Ireland. Touch the glass to see!",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/files/blob-2023-09-13T135203.723.jpg?v=1694609552",
+      "ld_description": "Plasma Ball – Thames & Kosmos\n\n\nRecommended for ages 14 years and up, providing a safe and fascinating way to explore electricity and plasma.\n\n\nFeatures a glass globe filled with plasma filaments that respond to touch, creating dancing streams of colorful light.\n\n\nInteractive design reacts to both physical contact and sound, producing stunning light shows to music. ⚡\n\n\nDemonstrates important physics concepts such as electric fields, ionized gases, and energy transfer.\n\n\nCompact and durable design makes it perfect for use as a desk accessory, bedroom décor, or science project centerpiece.\n\n\nSafe for educational use with low current, offering captivating effects without danger.\n\n\nWhat’s in the box: Plasma ball globe, base stand with power switch, power adapter, and instruction manual. 🌟\n\n\nBring science to life with this mesmerizing plasma ball! Whether for learning, decoration, or fun, it inspires curiosity and wonder, turning electricity into an unforgettable light show. ✨",
+      "brand": "Thames & Kosmos",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sntyc99ufnQ",
+      "channel": "theBraintist",
+      "duration": 28.0,
+      "title": "How does a plasma ball work? - A REAL BIG PLASMA GLOBE"
+    },
+    {
+      "id": "-bfWAxkZw8E",
+      "channel": "DestructiveCreativity",
+      "duration": 368.0,
+      "title": "How do Plasma Balls work? Plasma ball explained!"
+    },
+    {
+      "id": "7T5El83C7Bw",
+      "channel": "Thames & Kosmos",
+      "duration": 46.0,
+      "title": "The Thames & Kosmos Plasma Ball"
+    },
+    {
+      "id": "nhbeaHuZMQ0",
+      "channel": "ElectroBOOM",
+      "duration": 679.0,
+      "title": "Plasma Globe is a ⚡Shocking⚡🔥Fire Hazard🔥"
+    },
+    {
+      "id": "Zk3B16rt8To",
+      "channel": "Autism Calming Sensory",
+      "duration": 3600.0,
+      "title": "Autism Calming Sensory: Plasma Ball (1 hour version)"
+    }
+  ]
+}

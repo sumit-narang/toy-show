@@ -1,0 +1,39 @@
+{
+  "id": "2018-blazing-a-trail-irish-women-who-changed-the-world-by-sarah-webb",
+  "year": 2018,
+  "name": "Blazing a Trail: Irish Women Who Changed the World by Sarah Webb",
+  "price_eur": 12.74,
+  "price_text": "€12.74",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2tEFR7ELYF0",
+      "channel": "Libraries Ireland",
+      "duration": 281.0,
+      "title": "Sarah Webb reads from 'Blazing A Trail'"
+    },
+    {
+      "id": "6cFB_ParXMw",
+      "channel": "Children in Hospital Ireland",
+      "duration": 91.0,
+      "title": "Award-Winning Children's Writer and Champion of Children's Books, Sarah Webb"
+    }
+  ]
+}

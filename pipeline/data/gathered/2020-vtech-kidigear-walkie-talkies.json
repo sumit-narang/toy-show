@@ -1,0 +1,53 @@
+{
+  "id": "2020-vtech-kidigear-walkie-talkies",
+  "year": 2020,
+  "name": "VTech KidiGear Walkie Talkies",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uijUs_yeaF4",
+      "channel": "Quick Look & Teardown",
+      "duration": 1174.0,
+      "title": "Vtech Kidigear walkie talkies review. Quick look and teardown"
+    },
+    {
+      "id": "kKKSfo3WvK0",
+      "channel": "Thorstein TV (Thorstein Theodore)",
+      "duration": 256.0,
+      "title": "TTV TOY REVIEW: Vtech Kiddie Gear Walkie Talkie"
+    },
+    {
+      "id": "URisoGMIzjc",
+      "channel": "VTechToys",
+      "duration": 58.0,
+      "title": "KidiGo Walkie Talkies DX | Demo Video | VTech®"
+    },
+    {
+      "id": "xBDBIvn9TWQ",
+      "channel": "VTech Toys UK",
+      "duration": 21.0,
+      "title": "VTech | Kidigear Explorer Walkie Talkies | TVC"
+    },
+    {
+      "id": "ppuD27w9MMg",
+      "channel": "jungle dongle",
+      "duration": 750.0,
+      "title": "Unboxing Vtech Kidi Walkie Talkie Explorer Kinder Spielzeug 4 - 12 Jahre"
+    }
+  ]
+}

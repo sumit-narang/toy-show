@@ -1,0 +1,54 @@
+{
+  "id": "2023-delonghi-barista-coffee-machine",
+  "year": 2023,
+  "name": "DeLonghi Barista Coffee Machine",
+  "price_eur": 28.99,
+  "price_text": "€28.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/casdon-delonghi-barista-coffee-machine/1600895566.prd?_requestid=317052&Ntt=delonghi%20barista%20coffee%20machine"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/casdon-delonghi-barista-coffee-machine/1600895566.prd?_requestid=317052&Ntt=delonghi%20barista%20coffee%20machine"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6KlccTZ8cI4",
+      "channel": "Tom's Coffee Corner",
+      "duration": 877.0,
+      "title": "Delonghi La Specialista Touch EC9455 Review - Touchscreen Worth it?"
+    },
+    {
+      "id": "HgVQdtZ2uMM",
+      "channel": "Tom's Coffee Corner",
+      "duration": 322.0,
+      "title": "HOW TO Setup the Delonghi Specialista Arte EC9155: Shot Time, Temperature, Preinfusion"
+    },
+    {
+      "id": "gR-80f4UMMk",
+      "channel": "Tom's Coffee Corner",
+      "duration": 911.0,
+      "title": "Breville vs Delonghi - Which Tampered Machine is Better??"
+    },
+    {
+      "id": "Kkl4sO2l45w",
+      "channel": "Tom's Coffee Corner",
+      "duration": 647.0,
+      "title": "Become a Better Barista in 10 Minutes: Delonghi La Specialista Arte EC9155"
+    },
+    {
+      "id": "cXd6u2AkEMw",
+      "channel": "Tom's Coffee Corner",
+      "duration": 821.0,
+      "title": "Delonghi La Specialista Opera EC9555 Review - FINALLY, a GOOD La Specialista."
+    }
+  ]
+}

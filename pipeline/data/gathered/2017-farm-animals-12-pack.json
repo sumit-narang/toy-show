@@ -1,0 +1,64 @@
+{
+  "id": "2017-farm-animals-12-pack",
+  "year": 2017,
+  "name": "farm animals 12 pack",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uOeUNHX0v7k",
+      "channel": "Idea's 420M",
+      "duration": 360.0,
+      "title": "Zoo Animals Figure Unboxing And Review - Panda Snake Shark Cow Dinosaurs Lion Horse Camel Cat. 13+"
+    },
+    {
+      "id": "o60r1nVQ1MM",
+      "channel": "Kidibli (Kinder Spielzeug Kanal)",
+      "duration": 1033.0,
+      "title": "Toy Tractor Plays in the Crazy Farm with Fun Animals 🚜 Collection of Toys 🐮 Video for Kids | Kidibli"
+    },
+    {
+      "id": "Qh_WYmiJNR4",
+      "channel": "An Animal Toy",
+      "duration": 453.0,
+      "title": "Satisfying Video Animal Toys, New Unboxing Farm Animals Toy kingdom Collection Toys Asmr"
+    },
+    {
+      "id": "2mw1kemsKk0",
+      "channel": "THE MOON CHILD",
+      "duration": 255.0,
+      "title": "Plastic animals Unboxing order Flipkart | animals toys unboxing | 3 animals toys set |toy collection"
+    },
+    {
+      "id": "jw6kTfa4oxA",
+      "channel": "Idea's 420M",
+      "duration": 293.0,
+      "title": "Plastic animals figure | animals toys collection | animals toys 15 packet"
+    }
+  ]
+}

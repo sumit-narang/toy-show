@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-source-rc-tarantula",
+  "year": 2022,
+  "name": "The Source RC Tarantula",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "GVryHS8zJRQ",
+      "channel": "Open Circuit RC & Tech",
+      "duration": 579.0,
+      "title": "Remote Control Wall Climbing Spider!! | Great for Halloween!!!"
+    },
+    {
+      "id": "bkIiAm6hlL0",
+      "channel": "chatpat toy tv",
+      "duration": 581.0,
+      "title": "RC Realistic Wall Climbing Tarantula Fastest Spider Unboxing & Testing – Chatpat toy tv"
+    },
+    {
+      "id": "jNZ8PDM0d6o",
+      "channel": "Lenka Zheng",
+      "duration": 11.0,
+      "title": "Mechanical World Simulation Spider Toys RC Moving Flexible with Ergonomic Controller"
+    },
+    {
+      "id": "zzf2I2EWdCE",
+      "channel": "Lenka Zheng",
+      "duration": 21.0,
+      "title": "Technology Spider Remote Control Toys Robot Spider Smoke"
+    },
+    {
+      "id": "TQXgsfm8yc8",
+      "channel": "John Romero",
+      "duration": 22.0,
+      "title": "Rylie RC Spider"
+    }
+  ]
+}

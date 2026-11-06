@@ -1,0 +1,54 @@
+{
+  "id": "2022-sponge-bob-square-pants-teddy",
+  "year": 2022,
+  "name": "Sponge Bob Square Pants teddy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Primark",
+      "url": "https://www.primark.com/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "enDIxsBk34E",
+      "channel": "AquaticNeptune",
+      "duration": 601.0,
+      "title": "SPONGEBOB SQUAREPANTS CEREAL COMMERCIAL"
+    },
+    {
+      "id": "AfMYOD02oHE",
+      "channel": "Spongebob and Friends",
+      "duration": 878.0,
+      "title": "SpongeBob Goes To WALLMART!"
+    },
+    {
+      "id": "hNTiJ5QEhl0",
+      "channel": "Fried Chili Cheese Dogs",
+      "duration": 1116.0,
+      "title": "SpongeBob Plush - FCCD"
+    },
+    {
+      "id": "tD8bYx1s4Fc",
+      "channel": "Unboxing Playset",
+      "duration": 3759.0,
+      "title": "ASMR 62 Minutes SPONGEBOB SquarePants Oddly Satisfying Unboxing Toy Surprises | Unboxing Playset"
+    },
+    {
+      "id": "FuXmd132SjE",
+      "channel": "GiftWhat",
+      "duration": 426.0,
+      "title": "Spongebob Squarepants Everything Collection 【 GiftWhat 】"
+    }
+  ]
+}

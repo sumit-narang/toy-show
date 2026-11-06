@@ -1,0 +1,44 @@
+{
+  "id": "2022-an-garbh-n-g-julia-donaldon-axel-scheffler",
+  "year": 2022,
+  "name": "An Garbhán Óg - Julia Donaldon & Axel Scheffler",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "mWUvVN5jTRU",
+      "channel": "Laureate na nÓg",
+      "duration": 28.0,
+      "title": "AN GARBHÁN ÓG, by Julia Donaldson and Axel Scheffler (trans. Tadhg Mac Dhonnagáin)"
+    },
+    {
+      "id": "BIjZy4r-1Rw",
+      "channel": "Eileen Duffy",
+      "duration": 442.0,
+      "title": "An Garbhán le Julia Donaldson.."
+    },
+    {
+      "id": "_48iAQyMB0s",
+      "channel": "Pan Macmillan India",
+      "duration": 44.0,
+      "title": "Gruffalo Granny by Julia Donaldson and Axel Scheffler"
+    },
+    {
+      "id": "JWYiOcwS_1c",
+      "channel": "Summer and Bug",
+      "duration": 317.0,
+      "title": "🐭 The Gruffalo’s Child - by Julia Donaldson and Axel Scheffler | Summer and Bug Read Aloud"
+    },
+    {
+      "id": "-vjLfQHvXnQ",
+      "channel": "Reading is",
+      "duration": 3600.0,
+      "title": "60 min 6 Animated & Read Aloud Books by Julia Donaldson & Axel Scheffler"
+    }
+  ]
+}

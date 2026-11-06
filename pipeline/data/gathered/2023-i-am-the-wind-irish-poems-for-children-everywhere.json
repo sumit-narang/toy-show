@@ -1,0 +1,57 @@
+{
+  "id": "2023-i-am-the-wind-irish-poems-for-children-everywhere",
+  "year": 2023,
+  "name": "I Am The Wind: Irish Poems for Children Everywhere",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Little Island Books",
+      "url": "https://www.littleisland.ie/products/i-am-the-wind-irish-poems-for-children-everywhere"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleisland.ie/products/i-am-the-wind-irish-poems-for-children-everywhere",
+      "title": "I Am the Wind: Irish Poems for Children Everywhere",
+      "description": "As seen on the Late Late Toy Show! A fully illustrated collection of Irish poems, ranging from medieval classics to modern poems from old favourites to new voices in English and Irish, edited by Lucinda Jacob and Sarah Webb and illustrated by Ashwin Chacko. Discover thoughtful, surprising and powerful poems in this col",
+      "image": "http://www.littleisland.ie/cdn/shop/files/IATWIBA_1200x1200.png?v=1701262804"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sBW8Vnp8BzU",
+      "channel": "Chrysalis Records",
+      "duration": 301.0,
+      "title": "The Waterboys - The Whole of the Moon [Official HD Remastered Video]"
+    },
+    {
+      "id": "SM1IdMn8Pbs",
+      "channel": "illneas",
+      "duration": 94.0,
+      "title": "Do not Stand at my Grave and Weep"
+    },
+    {
+      "id": "CzmkQC9jzUo",
+      "channel": "SZABO MUSIC-Hymn&Old Song Singalong",
+      "duration": 85.0,
+      "title": "MEN IMPROVE WITH THE YEARS Song poem Yeats Lyrics Words text verse poetry Sing along song Music"
+    },
+    {
+      "id": "rVgIZ_-akvw",
+      "channel": "Sing and Learn with Vicky",
+      "duration": 188.0,
+      "title": "Down in the Jungle! Nursery Rhyme for babies and toddlers from Sing and Learn!"
+    },
+    {
+      "id": "Oa-ae6_okmg",
+      "channel": "Christina",
+      "duration": 183.0,
+      "title": "Mad World - Gary Jules (Lyrics)"
+    }
+  ]
+}

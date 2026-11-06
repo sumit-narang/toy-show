@@ -1,0 +1,54 @@
+{
+  "id": "2024-little-angel-rose-down-syndrome-doll",
+  "year": 2024,
+  "name": "Little Angel Rose Down Syndrome Doll",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/products/miniland-caucasian-brunette-girl-doll-with-glasses-and-romper"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.littleangelrose.com/products/miniland-caucasian-brunette-girl-doll-with-glasses-and-romper"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CEOus4-TMbQ",
+      "channel": "Good Morning America",
+      "duration": 241.0,
+      "title": "1st look at Barbie doll with Down syndrome l GMA"
+    },
+    {
+      "id": "yEWTkgkaLQQ",
+      "channel": "Cole's Cozy Cradle",
+      "duration": 828.0,
+      "title": "An Extra Special Angel 👼 Kit Review of MaryJo by DMH - Toddler with Down Syndrome - She's PRECIOUS!"
+    },
+    {
+      "id": "Zp_ccdHA6uM",
+      "channel": "Kelli Maple",
+      "duration": 647.0,
+      "title": "Night Time with Reborn Baby Auggie! Happy Baby with Down Syndrome! | Kelli Maple"
+    },
+    {
+      "id": "p11ckR2vysQ",
+      "channel": "Kelli Maple",
+      "duration": 457.0,
+      "title": "NEW Reborn Baby with Down Syndrome! Adorable New Baby | Kelli Maple"
+    },
+    {
+      "id": "rIBsf3j5hAM",
+      "channel": "FRANCE 24 English",
+      "duration": 99.0,
+      "title": "Meet the newest Barbie: Mattel introduces first doll with down syndrome • FRANCE 24 English"
+    }
+  ]
+}

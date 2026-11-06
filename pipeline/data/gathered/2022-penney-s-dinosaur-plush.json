@@ -1,0 +1,54 @@
+{
+  "id": "2022-penney-s-dinosaur-plush",
+  "year": 2022,
+  "name": "Penney's Dinosaur Plush",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Primark",
+      "url": "https://www.primark.com/en-ie/search?text=plush&productPagePosition=0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/search?text=plush&productPagePosition=0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "urAuCkmsXAc",
+      "channel": "CaRtOoNs and DiSnEy",
+      "duration": 942.0,
+      "title": "QUICK LOOK AT TOYS AT JCPENNEY - FROZEN - MICKEY MOUSE - TOY STORY - PLUSH - ELMO - MARVEL - COSTUME"
+    },
+    {
+      "id": "hBbbF9gYYUg",
+      "channel": "Mark Witt",
+      "duration": 377.0,
+      "title": "Rachel at JC Penny's."
+    },
+    {
+      "id": "6-mBoWmXo_Y",
+      "channel": "Black Friday Deals",
+      "duration": 115.0,
+      "title": "Black Friday 2018: JCPenney Top 20 Toys List for Holiday 2018"
+    },
+    {
+      "id": "ifi90MlkaNA",
+      "channel": "HarshTatsuya",
+      "duration": 833.0,
+      "title": "Franklin and Little Franklin Fight Pennywise in Indian Bike Driving 3D "
+    },
+    {
+      "id": "oQUd-f--8dQ",
+      "channel": "Vampo",
+      "duration": 1462.0,
+      "title": "Pennywise Living Luxury Life & Bought Heavy Bike!"
+    }
+  ]
+}

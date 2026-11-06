@@ -1,0 +1,44 @@
+{
+  "id": "2022-monster-island-freddie-alexander",
+  "year": 2022,
+  "name": "Monster Island - Freddie Alexander",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "GNvlfMt6RWc",
+      "channel": "Free Audiobooks",
+      "duration": 300.0,
+      "title": "Monster Island by Freddie Alexander | Full Audiobook"
+    },
+    {
+      "id": "qZV5f2ppYZU",
+      "channel": "Deen Kids TV - English",
+      "duration": 259.0,
+      "title": "Ramadan Is Here Now 🌙| Islamic version of london bridge is falling down | Ramadan Song for Kids 2026"
+    },
+    {
+      "id": "RwziV1V_ZSs",
+      "channel": "Banijay Crime - Crime Documentary",
+      "duration": 2678.0,
+      "title": "Affluenza Teen's Second Chance - Scandal Made Me Famous - True Crime"
+    },
+    {
+      "id": "xby81m1GtH8",
+      "channel": "Movieclips",
+      "duration": 175.0,
+      "title": "Scooby-Doo (7/10) Movie CLIP - What Up, Dawg? (2002) HD"
+    },
+    {
+      "id": "Xn-kxe39hFg",
+      "channel": "The Voice: Best Blind Auditions",
+      "duration": 505.0,
+      "title": "The Coaches Thought He Was Just a Random Singer | Best Blind Auditions"
+    }
+  ]
+}

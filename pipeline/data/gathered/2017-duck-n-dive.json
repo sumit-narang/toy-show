@@ -1,0 +1,53 @@
+{
+  "id": "2017-duck-n-dive",
+  "year": 2017,
+  "name": "Duck n' Dive",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wUbH_6aUwVI",
+      "channel": "olin yazzie",
+      "duration": 140.0,
+      "title": "Mens northern Traditional Duck and Dive Tie breaker.MPG"
+    },
+    {
+      "id": "_TOMwqjZb-U",
+      "channel": "Suite1491",
+      "duration": 154.0,
+      "title": "4K Duck and Dive Song - Mens Traditional Contest Bishop Pow Wow"
+    },
+    {
+      "id": "0YTkgaB6s58",
+      "channel": "86INK",
+      "duration": 129.0,
+      "title": "86INK - DUCK \"N\" DIVE  (IRISH DRILL MUSIC)"
+    },
+    {
+      "id": "_EKlahQC0_o",
+      "channel": "GRM Daily",
+      "duration": 176.0,
+      "title": "K Trap - Duck & Dive [Music Video] | GRM Daily"
+    },
+    {
+      "id": "rPkDJAGbJ70",
+      "channel": "Tox UK",
+      "duration": 344.0,
+      "title": "Young Tallest ft Rome - \" Duck n Dive\" [NET VIDEO] @youngtallest @Cirocboy_rome | #TOXICTV @TVTOXIC"
+    }
+  ]
+}

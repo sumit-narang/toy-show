@@ -1,0 +1,57 @@
+{
+  "id": "2023-shopping-trolley",
+  "year": 2023,
+  "name": "Shopping Trolley",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/supermarket-shopping/shopping-trolley/p/227886"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/supermarket-shopping/shopping-trolley/p/227886",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_1btDc5xJe0",
+      "channel": "Bosnian Ape Society",
+      "duration": 157.0,
+      "title": "How to Protect Your Shopping Trolley From Improvised Explosives"
+    },
+    {
+      "id": "zNURXMzgOuw",
+      "channel": "BlankTV",
+      "duration": 172.0,
+      "title": "Beth Orton - \"Shopping Trolley\""
+    },
+    {
+      "id": "M66ZU2PCIcM",
+      "channel": "Alfonso Neri",
+      "duration": 493.0,
+      "title": "ABC Nightline - IDEO Shopping Cart"
+    },
+    {
+      "id": "B55gpo3OgQk",
+      "channel": "Jeaney Collects",
+      "duration": 86.0,
+      "title": "The Shopping Cart Theory"
+    },
+    {
+      "id": "HY-ofY5jlO4",
+      "channel": "CoComelon - Cody Time",
+      "duration": 201.0,
+      "title": "Shopping Cart Song | @cocomelon - It's Cody Time Songs for Kids & Nursery Rhymes"
+    }
+  ]
+}

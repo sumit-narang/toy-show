@@ -1,0 +1,60 @@
+{
+  "id": "2023-gods-don-t-cry",
+  "year": 2023,
+  "name": "Gods Don't Cry",
+  "price_eur": 20.99,
+  "price_text": "€20.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/gods-don-t-cry?_pos=1&_sid=391ce4207&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/gods-don-t-cry?_pos=1&_sid=391ce4207&_ss=r",
+      "title": "Ryan Ellen: Gods Don't Cry [2023] hardback",
+      "description": "Ryan Ellen: Gods Don't Cry [2023] hardback | Ancient stories that challenge modern notions of what it means to be a hero. The ancient gods of Ireland were once worshipped throughout the land. Powerful and brave, they were unafraid to show their vulnerability, reject violence, or lean on others for support. Sad",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/ryan-ellen-merriman-conor-ryan-ellen-gods-don-t-cry-2023-hardback-56713383838035_1200x1200.jpg?v=1718273110",
+      "ld_description": "Ancient stories that challenge modern notions of what it means to be a hero.          The ancient gods of Ireland were once worshipped throughout the land. Powerful and brave, they were unafraid to show their vulnerability, reject violence, or lean on others for support. Sadly, their stories - passed down by our ancestors - are all but forgotten.          Gods Don't Cry reawakens these gods, whose ancient tales redefine modern ideas of what it means to be a hero. From Mannanan, who uses his neurodiversity to discover the Otherworld, to Meiche, who finds the courage to accept his illness, Fer Maisse, a monster slayer who gives up glory to become a healer, and Cnu Deroil, who overcomes bullies with his musical talent. Hurlers and warriors, academics, and activists - these are gods of many abilities, sizes, and skin shades, from every corner of Ireland.          Follow their adventures as they perform magic, battle demons, overcome struggles and find the courage to be true to themselves. You might even see yourself in their stories and discover, that you too, are a hero.",
+      "brand": "Ryan, Ellen &amp; Merriman, Conor",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/ryan-ellen-merriman-conor-ryan-ellen-gods-don-t-cry-2023-hardback-56713383838035_308x.jpg?v=1718273110"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HnZvwXxr1Kk",
+      "channel": "Void Knight Echoes",
+      "duration": 303.0,
+      "title": "Gods Don't Cry — Nightcore (Lyrics)"
+    },
+    {
+      "id": "NKcWKS2MW1M",
+      "channel": "ImagineDragons",
+      "duration": 170.0,
+      "title": "Imagine Dragons - Gods Don't Pray (Official Lyric Video)"
+    },
+    {
+      "id": "-jaVV-j728E",
+      "channel": "Void Knight Echoes - Topic",
+      "duration": 303.0,
+      "title": "Gods Don't Cry"
+    },
+    {
+      "id": "1G5LArU7tmE",
+      "channel": "Gossip Goblin",
+      "duration": 109.0,
+      "title": "Gods Don't Give Gifts - Official Trailer (2026)"
+    },
+    {
+      "id": "p5cjROk3gqw",
+      "channel": "HARMXN",
+      "duration": 227.0,
+      "title": "Gods don’t cry "
+    }
+  ]
+}

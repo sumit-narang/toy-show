@@ -1,0 +1,53 @@
+{
+  "id": "2017-wild-atlantic-way-puzzle",
+  "year": 2017,
+  "name": "Wild Atlantic Way Puzzle",
+  "price_eur": 14.95,
+  "price_text": "€14.95",
+  "retailers": [
+    {
+      "name": "O'Mahonys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kcqpJoxpkzo",
+      "channel": "David Hobson",
+      "duration": 1259.0,
+      "title": "Downings Ireland - Wild Atlantic Way"
+    },
+    {
+      "id": "Er25_ZTY5V0",
+      "channel": "olivia lindsley",
+      "duration": 192.0,
+      "title": "Downings Puzzle'"
+    },
+    {
+      "id": "zwgaTYOx0RI",
+      "channel": "Mark Rober",
+      "duration": 682.0,
+      "title": "Beat Any Escape Room- 10 proven tricks and tips"
+    },
+    {
+      "id": "FnDYWsSawBw",
+      "channel": "Phills Jigsaw Puzzles",
+      "duration": 712.0,
+      "title": "Worlds smallest jigsaw. Is your eyesight good enough?"
+    },
+    {
+      "id": "bFq3c30MB9s",
+      "channel": "One Minute Explore",
+      "duration": 137.0,
+      "title": "Why do the two oceans not mix ? | Atlantic and Pacific | Gulf of Alaska"
+    }
+  ]
+}

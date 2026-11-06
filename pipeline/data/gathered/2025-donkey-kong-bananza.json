@@ -1,0 +1,54 @@
+{
+  "id": "2025-donkey-kong-bananza",
+  "year": 2025,
+  "name": "Donkey Kong: Bananza",
+  "price_eur": 62.99,
+  "price_text": "€62.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.very.ie/nintendo-switch-2-donkey-kong-bananza/1601076428.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-All-Products-Standard-Shopping&gclid=186bb5dd70a1180b9ae8dcfa4b26d86b&gclsrc=3p.ds&msclkid=186bb5dd70a1180b9ae8dcfa4b26d86b#sku=sku28985228"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/nintendo-switch-2-donkey-kong-bananza/1601076428.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-All-Products-Standard-Shopping&gclid=186bb5dd70a1180b9ae8dcfa4b26d86b&gclsrc=3p.ds&msclkid=186bb5dd70a1180b9ae8dcfa4b26d86b#sku=sku28985228"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NtM3RMWOAsM",
+      "channel": "gameranx",
+      "duration": 753.0,
+      "title": "Donkey Kong Bananza - Before You Buy"
+    },
+    {
+      "id": "mIddsPkdX9U",
+      "channel": "Nintendo of America",
+      "duration": 146.0,
+      "title": "Donkey Kong Bananza – Nintendo Direct | Nintendo Switch 2"
+    },
+    {
+      "id": "1wgdM0o9V3c",
+      "channel": "packattack04082",
+      "duration": 20582.0,
+      "title": "Donkey Kong Bananza - Full Game Walkthrough"
+    },
+    {
+      "id": "Am14yeTAeOc",
+      "channel": "IGN",
+      "duration": 1142.0,
+      "title": "Donkey Kong Bananza Review"
+    },
+    {
+      "id": "-uvyh8cv2fg",
+      "channel": "BeardBear",
+      "duration": 86301.0,
+      "title": "Donkey Kong Bananza - Full Game 100% Walkthrough"
+    }
+  ]
+}

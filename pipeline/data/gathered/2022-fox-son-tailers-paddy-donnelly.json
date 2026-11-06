@@ -1,0 +1,44 @@
+{
+  "id": "2022-fox-son-tailers-paddy-donnelly",
+  "year": 2022,
+  "name": "Fox & Son Tailers - Paddy Donnelly",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "jeVbdv8xVsc",
+      "channel": "The O'Brien Press",
+      "duration": 60.0,
+      "title": "Magpie Collectables | New Paddy Donnelly Picture Book | Out Spring 2027"
+    },
+    {
+      "id": "PExBMyNjW5o",
+      "channel": "Sophie's Teaching",
+      "duration": 308.0,
+      "title": "EP01 Fox & Son Tailers By Paddy Donnelly"
+    },
+    {
+      "id": "2mPlXLhJjdc",
+      "channel": "Donegal County Council",
+      "duration": 378.0,
+      "title": "My Little Libraries - Donegal librarian Sinead Noonan reads ‘Fox & Son Tailers’ by Paddy Donnelly"
+    },
+    {
+      "id": "gQl-EgeDVeI",
+      "channel": "Clever Fox Books",
+      "duration": 72.0,
+      "title": "Fox & Son Tailers : World Book Day 2025"
+    },
+    {
+      "id": "ZpX58b7xSIM",
+      "channel": "Craigbank Primary School",
+      "duration": 301.0,
+      "title": "Fox & Son Tailers"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-rainbow-loom-bands",
+  "year": 2024,
+  "name": "Rainbow Loom Bands",
+  "price_eur": 17.0,
+  "price_text": "€17",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/arts-crafts/rainbow-loom/rainbow-loom-rubber-band-crafting-set/2000775207.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/arts-crafts/rainbow-loom/rainbow-loom-rubber-band-crafting-set/2000775207.html",
+      "title": "RAINBOW LOOM Rainbow Loom Rubber Band Crafting Set - Multi",
+      "description": "The Original rubber band set from Rainbow Loom is the perfect craft to keep your kids busy for hours! This kit includes 600 bands, 25 clips, gift bags and a metal hook. Kids can create bracelets, necklaces, rings, charms, action figures and so much more! These high quality latex-free rubber bands with great elasticity are the original rubber band bracelets first ever made by multiple TOTY award winning Choons Design the creator of Rainbow Loom. Recommended for ages 8 and up.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000775207_01.jpg?$product_tile_plp$",
+      "ld_description": "The Original rubber band set from Rainbow Loom is the perfect craft to keep your kids busy for hours! This kit includes 600 bands, 25 clips, gift bags and a metal hook. Kids can create bracelets, necklaces, rings, charms, action figures and so much more! These high quality latex-free rubber bands with great elasticity are the original rubber band bracelets first ever made by multiple TOTY award winning Choon's Design the creator of Rainbow Loom. Recommended for ages 8 and up.",
+      "brand": "RAINBOW LOOM",
+      "ld_image": "https://images.brownthomas.com/bta/2000775207_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p9iDndxGTmk",
+      "channel": "Rainbow Loom Room",
+      "duration": 605.0,
+      "title": "Rainbow Loom English - DRAGON SCALE BRACELET - Loom Bands, easy, how to, DIY, Tutorial"
+    },
+    {
+      "id": "CWEq1vE_aHY",
+      "channel": "gingercel",
+      "duration": 3229.0,
+      "title": "Loomigurumi Rainbow Tutorial (Rainbowloom)"
+    },
+    {
+      "id": "hHUG3sMqlUM",
+      "channel": "Rainbow Loom Room",
+      "duration": 999.0,
+      "title": "Rainbow Loom English - STARBURST - Loom Bands, easy, how to, DIY"
+    },
+    {
+      "id": "q24PdEFFzVs",
+      "channel": "Rainbow Loom Room",
+      "duration": 684.0,
+      "title": "Rainbow Loom English - ROTINI - Loom Bands, easy, how to, DIY"
+    },
+    {
+      "id": "m6Av_F_7kO4",
+      "channel": "Rainbow Loom",
+      "duration": 1803.0,
+      "title": "Cherries Charm + Phone Dangle Rainbow Loom Tutorial by Angelynn (TutorialsByA™) - Intermediate Level"
+    }
+  ]
+}

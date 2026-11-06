@@ -1,0 +1,57 @@
+{
+  "id": "2022-dressed-animal-hand-puppet-owl-folkmanis-puppets-snowy-owl",
+  "year": 2022,
+  "name": "Dressed Animal Hand Puppet - Owl Folkmanis Puppets Snowy Owl",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/",
+      "title": "Mimitoys.ie | Quality Toys, Puppets & Educational Toys in Ireland",
+      "description": "Shop quality toys, puppets, arts and crafts, role play toys and educational gifts at Mimitoys.ie. Trusted for over 20 years by Irish parents, teachers, childcare providers and play therapists. Irish-owned online toy shop with real stock in Ireland and fast delivery nationwide.",
+      "image": "http://mimitoys.ie/cdn/shop/files/Mimitoys_Social_Share_Image.webp?v=1683541818"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NHL-hZOcNfw",
+      "channel": "IROGERTHAT",
+      "duration": 130.0,
+      "title": "I Roger That: Little Pig Hand Puppet From the Puppet Company | TREE LIFE"
+    },
+    {
+      "id": "54YroFGrbPQ",
+      "channel": "Puppet Nerd",
+      "duration": 1793.0,
+      "title": "NO SEW Puppet Build - Easy to Follow - Make a Puppet Easy"
+    },
+    {
+      "id": "bFZSw-ccumU",
+      "channel": "theBeastcub",
+      "duration": 103.0,
+      "title": "Owl Costume with \"Arm Wings\" - Must be 18 or older to order"
+    },
+    {
+      "id": "xlSfDLDnkcE",
+      "channel": "mykirastarsib",
+      "duration": 69.0,
+      "title": "Eva and her Snowy Bear puppet book x 15/5/15"
+    },
+    {
+      "id": "LrRzjC8Hx94",
+      "channel": "Baby Annabell Doll",
+      "duration": 1457.0,
+      "title": "Baby Alive doll & Baby Annabell doll videos for kids. Pretend play & baby dolls' morning routine."
+    }
+  ]
+}

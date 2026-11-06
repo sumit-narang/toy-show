@@ -1,0 +1,54 @@
+{
+  "id": "2023-bruder-sprinter-horse-box-and-horse",
+  "year": 2023,
+  "name": "Bruder Sprinter (Horse Box and Horse)",
+  "price_eur": 58.99,
+  "price_text": "€58.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Bruder-Mb-Sprinter-Animal-Transporter--Horse/m-9719.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Bruder-Mb-Sprinter-Animal-Transporter--Horse/m-9719.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2nojYEoCcPU",
+      "channel": "Bruder Toys",
+      "duration": 227.0,
+      "title": "Bruder Toys Land Rover Defender with Horse Trailer & Horse #02592"
+    },
+    {
+      "id": "h851RqUnKtY",
+      "channel": "BruderSpielwaren",
+      "duration": 192.0,
+      "title": "Mercedes-Benz Sprinter Pferdetransporter -- 02533  -- BRUDER Spielwaren"
+    },
+    {
+      "id": "7CDR4kslclk",
+      "channel": "Bruder Toys",
+      "duration": 363.0,
+      "title": "Bruder Toys RAM 2500 Pick Up Truck w/ Horse Trailer & Horse - #02501"
+    },
+    {
+      "id": "QdbyPfD1ZwU",
+      "channel": "Bruder Toys",
+      "duration": 90.0,
+      "title": "Bruder Toys Land Rover Defender with Horse Trailer & Horse #02592"
+    },
+    {
+      "id": "GAaEAf_3RMs",
+      "channel": "ISE Forest and Garden ltd",
+      "duration": 35.0,
+      "title": "Bruder MB Sprinter Animal Transporter With Horse"
+    }
+  ]
+}

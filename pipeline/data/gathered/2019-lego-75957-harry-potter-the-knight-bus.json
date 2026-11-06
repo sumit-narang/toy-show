@@ -1,0 +1,57 @@
+{
+  "id": "2019-lego-75957-harry-potter-the-knight-bus",
+  "year": 2019,
+  "name": "LEGO 75957 Harry Potter The Knight Bus",
+  "price_eur": 33.99,
+  "price_text": "€33.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/harry-potter/lego-harry-potter-sets/lego-75957-harry-potter-the-knight-bus-toy/p/176253"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/harry-potter/lego-harry-potter-sets/lego-75957-harry-potter-the-knight-bus-toy/p/176253",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eJcCR8y6nMk",
+      "channel": "MandRproductions",
+      "duration": 604.0,
+      "title": "LEGO Harry Potter 75957 The Knight Bus REVIEW!"
+    },
+    {
+      "id": "Bcj0nKxJYjQ",
+      "channel": "MADABOUTLEGO",
+      "duration": 281.0,
+      "title": "LEGO Harry Potter The Knight Bus 75957."
+    },
+    {
+      "id": "0KxawsX-lpw",
+      "channel": "AustrianBrickFan",
+      "duration": 434.0,
+      "title": "Lego Harry Potter 75957 The Knight Bus Speed Build"
+    },
+    {
+      "id": "b1MTwU4NQgQ",
+      "channel": "HollyOnFilm",
+      "duration": 614.0,
+      "title": "LEGO Harry Potter Knight Bus Comparison (2004, 2011, 2019, 2025)"
+    },
+    {
+      "id": "bZyLiTPOVPM",
+      "channel": "CraftD Bricks",
+      "duration": 1529.0,
+      "title": "Building The LEGO Harry Potter #75957 \"The Knight Bus\""
+    }
+  ]
+}

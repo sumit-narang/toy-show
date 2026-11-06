@@ -1,0 +1,57 @@
+{
+  "id": "2020-david-walliams-collection-of-books",
+  "year": 2020,
+  "name": "David Walliams' Collection of Books",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/custom-catalog/search-result-pages/popular-authors-kids/david-walliams/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/custom-catalog/children-books/authors/david-walliams",
+      "title": "David Walliams Books - Shop At Eason",
+      "description": "Shop David Walliams books in order including Bad Dad, The Ice Monster and \nDavid Walliams new book World's Worse Teachers. Buy at www.easons.com",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UV-3rIdif88",
+      "channel": "NA",
+      "duration": 1078.0,
+      "title": "My David Williams Book Collection"
+    },
+    {
+      "id": "nMbCxws-b-c",
+      "channel": "NA",
+      "duration": 514.0,
+      "title": "David Walliams collection of books"
+    },
+    {
+      "id": "AyjVEoA9yi0",
+      "channel": "NA",
+      "duration": 62.0,
+      "title": "David Walliams Series 1 - Best Boxset Ever 5 Books Collection Set"
+    },
+    {
+      "id": "I02nqqEW7Qg",
+      "channel": "NA",
+      "duration": 56.0,
+      "title": "World of David Walliams 10 Books"
+    },
+    {
+      "id": "45-QdO0najM",
+      "channel": "NA",
+      "duration": 51.0,
+      "title": "David Walliams Book Collection | Children's Book Collection"
+    }
+  ]
+}

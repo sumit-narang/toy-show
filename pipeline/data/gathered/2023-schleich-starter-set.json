@@ -1,0 +1,54 @@
+{
+  "id": "2023-schleich-starter-set",
+  "year": 2023,
+  "name": "Schleich Starter Set",
+  "price_eur": 35.99,
+  "price_text": "€35.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Schleich-Starter-Set-Sofia-and-Dusty/m-10179.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Schleich-Starter-Set-Sofia-and-Dusty/m-10179.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pC00KHGoYMI",
+      "channel": "Modern Brands",
+      "duration": 16.0,
+      "title": "Schleich - Horse Club Starter Set"
+    },
+    {
+      "id": "xyiXJXRpzJ0",
+      "channel": "Beck's Creations",
+      "duration": 533.0,
+      "title": "Huge Schleich Haul! Dog and Horse Toy Unboxing with Me"
+    },
+    {
+      "id": "wH2fts9gvTA",
+      "channel": "Modern Brands",
+      "duration": 23.0,
+      "title": "Schleich - Farm World Starter Set 2025"
+    },
+    {
+      "id": "fV8eWMTt0zk",
+      "channel": "Princess Square Channel",
+      "duration": 299.0,
+      "title": "Schleich 14794 Small Wild Animals Set Unboxing | Schleich Animal Babies Set"
+    },
+    {
+      "id": "t0cXssLBn9Q",
+      "channel": "Beck's Creations",
+      "duration": 334.0,
+      "title": "Setting up NEW Peppertree Riding Arena! Schleich Horse Barn Unboxing"
+    }
+  ]
+}

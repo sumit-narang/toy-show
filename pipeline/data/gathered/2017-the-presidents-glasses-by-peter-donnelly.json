@@ -1,0 +1,53 @@
+{
+  "id": "2017-the-presidents-glasses-by-peter-donnelly",
+  "year": 2017,
+  "name": "The Presidents Glasses by Peter Donnelly",
+  "price_eur": 9.74,
+  "price_text": "€9.74",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "paTY0PGVld0",
+      "channel": "Meath County Library",
+      "duration": 148.0,
+      "title": "The President's Glasses"
+    },
+    {
+      "id": "xoYWoRd5jok",
+      "channel": "Squashua Stories",
+      "duration": 417.0,
+      "title": "The President's Glasses by Peter Donnelly"
+    },
+    {
+      "id": "RZ7fbkxR3zs",
+      "channel": "Dubray Books",
+      "duration": 287.0,
+      "title": "Dubray StoryFest at Home Peter Donnelly reads from The President's Glasses"
+    },
+    {
+      "id": "5bRcrH5zLE0",
+      "channel": "Encounter Culture ",
+      "duration": 388.0,
+      "title": "Sydney Reads: The President's Glasses by Peter Donnelly"
+    },
+    {
+      "id": "vXHnmvWoR-E",
+      "channel": "Dublin City Libraries",
+      "duration": 175.0,
+      "title": "Walkinstown Library Presents The President's Glasses"
+    }
+  ]
+}

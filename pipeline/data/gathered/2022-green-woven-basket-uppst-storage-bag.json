@@ -1,0 +1,26 @@
+{
+  "id": "2022-green-woven-basket-uppst-storage-bag",
+  "year": 2022,
+  "name": "Green Woven Basket UPPSTÅ Storage bag",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "IKEA Ireland",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": []
+}

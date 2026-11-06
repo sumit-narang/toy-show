@@ -1,0 +1,57 @@
+{
+  "id": "2019-pikachu-plush-assortment",
+  "year": 2019,
+  "name": "Pikachu Plush Assortment",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/search/?text=pikachu"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/search/?text=pikachu",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E9r5XkfBu6k",
+      "channel": "TTPM Toy Reviews",
+      "duration": 117.0,
+      "title": "Pokemon Train & Play Deluxe Pikachu"
+    },
+    {
+      "id": "mvq0B5tPUCs",
+      "channel": "Kerry Ramsey",
+      "duration": 165.0,
+      "title": "Best 7 Pokémon Pikachu Throw N Pop Poké Ball Tomy TV Toys Full HD Commercial - Fisher-Price Think"
+    },
+    {
+      "id": "pd-dxxhSUwc",
+      "channel": "johtogiraffe",
+      "duration": 1530.0,
+      "title": "All Pikachu 25th Celebration Plushies & First Partner Packs! #pokemon25"
+    },
+    {
+      "id": "UqQSUWFlsHo",
+      "channel": "GiftWhat",
+      "duration": 496.0,
+      "title": "Opening 8 Different Pokemon Merchandise Collection 【 GiftWhat 】"
+    },
+    {
+      "id": "13Cpv_WEE9g",
+      "channel": "Shadow GWR",
+      "duration": 448.0,
+      "title": "Gigantamax Pikachu plush review"
+    }
+  ]
+}

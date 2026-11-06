@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-polar-bear",
+  "year": 2022,
+  "name": "Living Nature Polar Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Oakgh52SZTI",
+      "channel": "BBC World Service",
+      "duration": 1620.0,
+      "title": "Living alongside polar bears in the Canadian Arctic - BBC World Service"
+    },
+    {
+      "id": "o1-wZHFsbLE",
+      "channel": "Tropical Critters",
+      "duration": 171.0,
+      "title": "Living Nature Polar Bear Plush Unboxing & Review"
+    },
+    {
+      "id": "F-TtpRWsIhc",
+      "channel": "WildCiencias",
+      "duration": 863.0,
+      "title": "What If Polar Bears Were Introduced to Antarctica?"
+    },
+    {
+      "id": "xul1q3-esDE",
+      "channel": "BBC Earth",
+      "duration": 156.0,
+      "title": "Living Next to a Killer | Wild: Polar Bear Diary | BBC Earth"
+    },
+    {
+      "id": "D6_e6yKH26Q",
+      "channel": "National Geographic",
+      "duration": 2665.0,
+      "title": "Clan of the North (Full Episode) | Kingdom of the Polar Bears"
+    }
+  ]
+}

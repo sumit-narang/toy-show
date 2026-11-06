@@ -1,0 +1,54 @@
+{
+  "id": "2022-fisher-price-toys-retro-little-snoopy",
+  "year": 2022,
+  "name": "Fisher-Price Toys Retro Little Snoopy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mTedp4DmCUg",
+      "channel": "CrazCollectibles",
+      "duration": 31.0,
+      "title": "Vintage Fisher Price Little Snoopy Collectible Toy From 1980s - Parts or Restore"
+    },
+    {
+      "id": "nlNW1eibOnE",
+      "channel": "nik62es",
+      "duration": 53.0,
+      "title": "Fisher Price Little Snoopy 1960's"
+    },
+    {
+      "id": "VNbGVqUno1s",
+      "channel": "What Do Toys Do?",
+      "duration": 86.0,
+      "title": "Fisher Price Lil Snoopy Pull Along Toy Mattel 2005 Vintage Retro"
+    },
+    {
+      "id": "XPoMnVR4-cc",
+      "channel": "Me Myself And Momlife",
+      "duration": 46.0,
+      "title": "Fisher-Price Little Snoopy Toy | Real Life Toy Review"
+    },
+    {
+      "id": "ORvj3EIxVXo",
+      "channel": "paradiseonpeabody",
+      "duration": 52.0,
+      "title": "Little Snoopy Fisher Price 2034 Dog TOY"
+    }
+  ]
+}

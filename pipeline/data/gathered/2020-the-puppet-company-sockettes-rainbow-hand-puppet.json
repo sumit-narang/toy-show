@@ -1,0 +1,60 @@
+{
+  "id": "2020-the-puppet-company-sockettes-rainbow-hand-puppet",
+  "year": 2020,
+  "name": "The Puppet Company Sockettes Rainbow Hand Puppet",
+  "price_eur": 19.5,
+  "price_text": "€19.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/products/the-puppet-company-sockettes-rainbow-hand-puppet?_pos=3&_sid=5ba84965b&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebubbleroom.ie/products/the-puppet-company-sockettes-rainbow-hand-puppet?_pos=3&_sid=5ba84965b&_ss=r",
+      "title": "The Puppet Company Eco Sockettes Rainbow Hand Puppet",
+      "description": "Squeak, squeak! This long sleeved sockette glove puppet is a brightly coloured, loud character. Excellent for play or puppet theatre. Children and adults alike are fascinated and enchanted by the magic of puppetry, and the mystical puppets from The Puppet Company take the art to a whole new dimension. Puppets encoura",
+      "image": "http://www.thebubbleroom.ie/cdn/shop/products/Puppet_Company_Rainbow_1200x1200.png?v=1574938729",
+      "ld_description": "Squeak, squeak! This long sleeved sockette glove puppet is a brightly coloured, loud character. Excellent for play or puppet theatre. Children and adults alike are fascinated and enchanted by the magic of puppetry, and the mystical puppets from The Puppet Company take the art to a whole new dimension. Puppets encourage children to be creative, use their imagination to tell exciting stories, to bring fairy tales to life, to entertain and to have fun. The Puppet Company have been producing high quality toys for many years and have built their reputation on their ability to translate any animal or character into a beautifully made and well-functioning puppet.\nAge 18 months +",
+      "brand": "The Puppet Company",
+      "ld_image": "https://www.thebubbleroom.ie/cdn/shop/products/Puppet_Company_Rainbow_778x.png?v=1574938729"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HTSpr3IYUBY",
+      "channel": "Reviewing Literally Everything",
+      "duration": 104.0,
+      "title": "Soft, colorful, and fun! // Puppet Company Puppet Review"
+    },
+    {
+      "id": "TnHVDWppVw0",
+      "channel": "HitchinTV",
+      "duration": 185.0,
+      "title": "Meet The Sockettes - The Puppet Company"
+    },
+    {
+      "id": "LNgUROjguGU",
+      "channel": "Le Monde De La Marionnette",
+      "duration": 53.0,
+      "title": "Marionnettes Monstres Chaussettes - LMM#145 - The Puppet Company - Le Monde de la Marionnette"
+    },
+    {
+      "id": "xFk6nOtYKs8",
+      "channel": "Evan Gritter",
+      "duration": 194.0,
+      "title": "Hand Puppets: Over the Rainbow"
+    },
+    {
+      "id": "B6fdyCDAdg0",
+      "channel": "speak2su",
+      "duration": 19.0,
+      "title": "Rainbow  Puppets! !"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-holler-and-glow-get-lit-brightening-mask",
+  "year": 2017,
+  "name": "Holler and Glow \"get lit\" Brightening Mask",
+  "price_eur": 4.0,
+  "price_text": "€4.00",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c3g97SswhuQ",
+      "channel": "Curly Tells",
+      "duration": 399.0,
+      "title": "MASK-NIFICENT! HOLLER AND GLOW GET LIT SHEET MASK FROM TARGET | FIRST IMPRESSION | Curly Tells"
+    },
+    {
+      "id": "kb0Cr7FfHNQ",
+      "channel": "Sariah Rena",
+      "duration": 441.0,
+      "title": "Holler And Glow Face Mask| Test And Review"
+    },
+    {
+      "id": "TKM6yKqlDXQ",
+      "channel": "Molly ParkerSykes",
+      "duration": 196.0,
+      "title": "Testing Holler and Glow Face Mask Demo | Molly ParkerSykes"
+    },
+    {
+      "id": "nYCzdmD_Sj8",
+      "channel": "Molly ParkerSykes",
+      "duration": 216.0,
+      "title": "Holler and Glow Gold Face Mask Demo | Molly ParkerSykes"
+    },
+    {
+      "id": "-h0USuYKzEw",
+      "channel": "Molly ParkerSykes",
+      "duration": 309.0,
+      "title": "Holler and Glow Rainbow Sheet Face Mask Demo | Molly ParkerSykes"
+    }
+  ]
+}

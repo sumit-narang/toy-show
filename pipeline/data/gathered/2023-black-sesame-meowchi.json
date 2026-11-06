@@ -1,0 +1,54 @@
+{
+  "id": "2023-black-sesame-meowchi",
+  "year": 2023,
+  "name": "Black Sesame Meowchi",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/tp-black-sesame-meowchi-7in-plush"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/tp-black-sesame-meowchi-7in-plush"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ytJX45TxdLE",
+      "channel": "Design in Blender and Canva",
+      "duration": 1264.0,
+      "title": "How to model a Meowchi (Black sesame version) in Blender!"
+    },
+    {
+      "id": "tJWjOY3ts3c",
+      "channel": "Design in Blender and Canva",
+      "duration": 917.0,
+      "title": "¡Cómo hacer un Meowchi (versión 'Black Sesame') en Blender!"
+    },
+    {
+      "id": "RLB0VVXUNCw",
+      "channel": "PlayPalm",
+      "duration": 61.0,
+      "title": "Draw Meowchi"
+    },
+    {
+      "id": "_IzQrvZ3BwA",
+      "channel": "Dumpster Diva",
+      "duration": 1549.0,
+      "title": "I SNATCHED This Up Before Other RESELLERS Could! 🤑"
+    },
+    {
+      "id": "Mknw_a3JBuI",
+      "channel": "A Boomer and Millennial Try",
+      "duration": 653.0,
+      "title": "Japanese Rice Cake Mochi Daifuku ~ Food Review"
+    }
+  ]
+}

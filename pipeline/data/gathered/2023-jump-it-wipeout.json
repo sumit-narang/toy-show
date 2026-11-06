@@ -1,0 +1,57 @@
+{
+  "id": "2023-jump-it-wipeout",
+  "year": 2023,
+  "name": "Jump It Wipeout",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-equipment/more-sports/stay-active-jump-it-wipeout/p/213055"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-equipment/more-sports/stay-active-jump-it-wipeout/p/213055",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "D4iwBRmPeug",
+      "channel": "Smyths Toys Superstores",
+      "duration": 37.0,
+      "title": "Stay Active Jump-It Wipeout - Smyths Toys"
+    },
+    {
+      "id": "5gAUavbB7xM",
+      "channel": "Smyths Toys France",
+      "duration": 24.0,
+      "title": "Le jeu de saut Jump-It Wipeout est chez Smyths Toys"
+    },
+    {
+      "id": "19WuZpJixQI",
+      "channel": "Wipeout",
+      "duration": 300.0,
+      "title": "Jump or get hit 🔝| Total Wipeout | Clip"
+    },
+    {
+      "id": "0M8RWZWZK7o",
+      "channel": "Wipeout",
+      "duration": 111.0,
+      "title": "Fail Fest on The Double Cross | Wipeout HD"
+    },
+    {
+      "id": "zn9vPzAZp3Y",
+      "channel": "Sidemen",
+      "duration": 1269.0,
+      "title": "SIDEMEN TOTAL WIPEOUT CHALLENGE"
+    }
+  ]
+}

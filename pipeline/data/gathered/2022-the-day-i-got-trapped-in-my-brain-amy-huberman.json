@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-day-i-got-trapped-in-my-brain-amy-huberman",
+  "year": 2022,
+  "name": "The Day I Got Trapped in my Brain - Amy Huberman",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "BWAvK55ShtQ",
+      "channel": "An Post",
+      "duration": 434.0,
+      "title": "Amy Huberman – The Day I Got Trapped In My Brain"
+    },
+    {
+      "id": "JLpLvLuohes",
+      "channel": "Easons Ireland",
+      "duration": 50.0,
+      "title": "Amy Huberman Introduces The Day I Got Trapped in my Brain (Pre-Order)"
+    },
+    {
+      "id": "0cSdm6CJuUE",
+      "channel": "The Late Late Show",
+      "duration": 150.0,
+      "title": "\"It was so haunting, I will never forget it\" - Amy Huberman | The Late Late Show | RTÉ One"
+    },
+    {
+      "id": "aNCFuKl7JRA",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 142.0,
+      "title": "Amy Huberman talks about her husband's career | RTÉ"
+    },
+    {
+      "id": "jq4RmxZrZcE",
+      "channel": "NK Productions",
+      "duration": 2742.0,
+      "title": "Amy Huberman | The Bookshelf with Ryan Tubridy"
+    }
+  ]
+}

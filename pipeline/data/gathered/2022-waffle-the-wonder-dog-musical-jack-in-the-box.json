@@ -1,0 +1,44 @@
+{
+  "id": "2022-waffle-the-wonder-dog-musical-jack-in-the-box",
+  "year": 2022,
+  "name": "Waffle the Wonder Dog Musical Jack in the Box",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "497u8trevbk",
+      "channel": "Waffle The Wonder Dog ",
+      "duration": 203.0,
+      "title": "Waffle and the Mystery Box 🐶 📦 | Waffle the Wonder Dog Official Full Clip 🧡"
+    },
+    {
+      "id": "5eEWSXy_deQ",
+      "channel": "CBeebies",
+      "duration": 472.0,
+      "title": "🎉 Waffle’s Musical Adventures! | Waffle's After School Club Compilation | CBeebies"
+    },
+    {
+      "id": "Td8BeK2NYTc",
+      "channel": "Waffle The Wonder Dog ",
+      "duration": 1564.0,
+      "title": "Evie's Top 20 Waffle Moments | Waffle the Wonder Dog Official Clips 🧡"
+    },
+    {
+      "id": "VWLX8yP2oFQ",
+      "channel": "Waffle The Wonder Dog ",
+      "duration": 106.0,
+      "title": "Poodles Class Song Singalong! 🎶🎤🐶 | Waffle the Wonder Dog Official Singalong 🎵🧡"
+    },
+    {
+      "id": "TIHn4LPBZqU",
+      "channel": "WildBrain Playhouse",
+      "duration": 2465.0,
+      "title": "Waffle the Wonder Dog - Waffle Steals the Show | Best Shows for Kids | WildBrain Zigzag"
+    }
+  ]
+}

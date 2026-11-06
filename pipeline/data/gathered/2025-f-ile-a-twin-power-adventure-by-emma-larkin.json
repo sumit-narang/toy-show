@@ -1,0 +1,29 @@
+{
+  "id": "2025-f-ile-a-twin-power-adventure-by-emma-larkin",
+  "year": 2025,
+  "name": "Féile: A Twin Power Adventure by Emma Larkin",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/emma-larkin-feile-a-twin-power-adventure-2025?_pos=1&_sid=b935482dc&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/emma-larkin-feile-a-twin-power-adventure-2025?_pos=1&_sid=b935482dc&_ss=r",
+      "title": "Emma Larkin: Feile! A Twin Power Adventure [2025]",
+      "description": "Emma Larkin: Feile! A Twin Power Adventure [2025] | Aoife and Aidan Power love playing Gaelic football. They're so skilful and fast their friends call them 'Twin Power'. Every young Gaelic footballer dreams of playing in Feile, the biggest competition there is. Both Aoife and Aidan's teams are vying to qualify, but wha",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/larkin-emma-o-neill-lauren-emma-larkin-feile-a-twin-power-adventure-2025-9781788495301-1204806083_1200x1200.jpg?v=1768065646",
+      "ld_description": "Aoife and Aidan Power love playing Gaelic football. They're so skilful and fast their friends call them 'Twin Power'. Every young Gaelic footballer dreams of playing in Feile, the biggest competition there is. Both Aoife and Aidan's teams are vying to qualify, but what will happen now that the twins are on separate boys' and girls' teams for the first time?With secondary school to navigate, new teams to get used to, and a family mystery to solve ... it's going to be a busy season for Twin Power!",
+      "brand": "Larkin, Emma &amp; O&#39;neill, Lauren",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/larkin-emma-o-neill-lauren-emma-larkin-feile-a-twin-power-adventure-2025-9781788495301-1204806083_263x.jpg?v=1768065646"
+    }
+  ],
+  "video_candidates": []
+}

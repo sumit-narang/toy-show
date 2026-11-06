@@ -1,0 +1,57 @@
+{
+  "id": "2018-wreck-it-ralph-figure",
+  "year": 2018,
+  "name": "Wreck It Ralph Figure",
+  "price_eur": 36.0,
+  "price_text": "€36.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WvEQdTO5n8g",
+      "channel": "SquirrelStampede",
+      "duration": 848.0,
+      "title": "Wreck it Ralph 2 Breaks the Internet Disney Toys Action Figures Review"
+    },
+    {
+      "id": "wUUd-r7VPXs",
+      "channel": "Toya's Toys",
+      "duration": 685.0,
+      "title": "Disney Wreck-it Ralph Toy Collection Unboxing Review l Wreck It Ralph Action Figure"
+    },
+    {
+      "id": "Q_bk7CTDVyM",
+      "channel": "Christian Milan",
+      "duration": 705.0,
+      "title": "Disney's Wreck-It-Ralph Collection Sugar Rush Racers"
+    },
+    {
+      "id": "9LzpweRSBMw",
+      "channel": "SEAN LONG",
+      "duration": 624.0,
+      "title": "Wreck-It Ralph Talking Ralph 12\" Movie Action Figure Toy Review"
+    },
+    {
+      "id": "kR5pLDyehCg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 49.0,
+      "title": "Ralph Breaks the Internet Wrecking Ralph from Bandai"
+    }
+  ]
+}

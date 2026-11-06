@@ -1,0 +1,57 @@
+{
+  "id": "2017-the-field-paddock",
+  "year": 2017,
+  "name": "The Field Paddock",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "TheField.ie",
+      "url": "https://www.thefield.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7Y56wHGV0UI",
+      "channel": "Barenbrug UK",
+      "duration": 458.0,
+      "title": "How to Maintain and Renovate Horse Grass Paddocks. Advice on Equine Paddocks"
+    },
+    {
+      "id": "YFCY0S7tR9A",
+      "channel": "Tom Beckbe",
+      "duration": 172.0,
+      "title": "Tom Beckbe Paddock Jacket | Rugged Comfort and Classic Style"
+    },
+    {
+      "id": "s5rJV0Z96cE",
+      "channel": "Produce It. Protect It. VIC Farmer Time",
+      "duration": 60.0,
+      "title": "Wheat- The Journey from Paddock to Plate"
+    },
+    {
+      "id": "R9CKgDVb2QQ",
+      "channel": "The Wisdom of The Horse",
+      "duration": 25.0,
+      "title": "Lessons from the field - evening at the paddock"
+    },
+    {
+      "id": "CXtlrieEBv4",
+      "channel": "The Crafty Kelpie",
+      "duration": 327.0,
+      "title": "Chain Harrowing Horses Paddock Maintenence"
+    }
+  ]
+}

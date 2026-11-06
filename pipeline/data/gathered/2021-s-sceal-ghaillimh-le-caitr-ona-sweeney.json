@@ -1,0 +1,26 @@
+{
+  "id": "2021-s-sceal-ghaillimh-le-caitr-ona-sweeney",
+  "year": 2021,
+  "name": "Sísceal Ó Ghaillimh le Caitríona Sweeney",
+  "price_eur": 11.36,
+  "price_text": "€11.36",
+  "retailers": [
+    {
+      "name": "Siopa Gaeilge",
+      "url": "https://www.kennys.ie/pre-order/S-sc-al-Ghaillimh-Sweeney-Caitriona-Mac-Conghail-Marcus"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.kennys.ie/pre-order/S-sc-al-Ghaillimh-Sweeney-Caitriona-Mac-Conghail-Marcus",
+      "title": "Síscéal ó Ghaillimh",
+      "description": "Hardcover. Fans of A Dublin Fairytale will be enchanted by this contemporary take on the Hansel and Gretel fairytale set in modern-day Galway. Irish Language Edition.",
+      "image": "https://www.kennys.ie/products/full/9781788492720.jpg"
+    }
+  ],
+  "video_candidates": []
+}

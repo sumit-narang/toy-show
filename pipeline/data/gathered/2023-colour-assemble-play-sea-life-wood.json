@@ -1,0 +1,57 @@
+{
+  "id": "2023-colour-assemble-play-sea-life-wood",
+  "year": 2023,
+  "name": "Colour. Assemble. Play. - Sea Life & Wood",
+  "price_eur": null,
+  "price_text": "£8.99",
+  "retailers": [
+    {
+      "name": "Pinocchio's Toys and Gifts",
+      "url": "https://www.pinocchios.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.pinocchios.ie/",
+      "title": "Pinocchio's Toys and Gifts | Toys and Gifts | Cork",
+      "description": "Discover the magic of traditional wooden toys at Pinocchio's Toys & Gifts in Cork. Quality, classic toys that inspire imagination for all ages.",
+      "image": "https://www.pinocchios.ie"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kw1TCQT8_44",
+      "channel": "RaceToyTime",
+      "duration": 374.0,
+      "title": "Playmobil 1-2-3 Animals Zoo and Aquarium Playset  - Fun Learning Video for Toddlers"
+    },
+    {
+      "id": "LCVl6umyIz0",
+      "channel": "Fairy Pen for kids",
+      "duration": 735.0,
+      "title": "Meet marine animals-Learn Sea animals names and build a huge ocean diorama for preschool"
+    },
+    {
+      "id": "inb6uPLY8yQ",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 492.0,
+      "title": "Let's build a fun marble maze with building blocks!"
+    },
+    {
+      "id": "Po0bvHkWjBY",
+      "channel": "Tudor Totz - Learning Videos for Kids!",
+      "duration": 802.0,
+      "title": "Meet the Amazing Ocean Animals | Let's Build an Underwater Diorama!"
+    },
+    {
+      "id": "C45KlwMg1JU",
+      "channel": "Manga Rush Recaps",
+      "duration": 13136.0,
+      "title": "Everyone Uses Rafts to Survive, But His Supplies Have Their Own Minds and Build His Ocean Empire!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-selection-of-barbies-dolls",
+  "year": 2022,
+  "name": "Selection of Barbies dolls",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MVuqhmtN7QA",
+      "channel": "✿ Kids Diana Show",
+      "duration": 475.0,
+      "title": "Diana and Roma play with Barbie Toys from Barbie Princess Adventure"
+    },
+    {
+      "id": "sY3xOhvZVaU",
+      "channel": "Mattel",
+      "duration": 20.0,
+      "title": "Barbie® DreamHouse™ | AD"
+    },
+    {
+      "id": "2yvEpBRWOt4",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie New Dream Camper! | AD"
+    },
+    {
+      "id": "R1hYA3YTzl8",
+      "channel": "Titi Toys and Dolls",
+      "duration": 482.0,
+      "title": "Barbie & Ken Doll Family Pack Backpacks for School"
+    },
+    {
+      "id": "fUWbBFtCjqM",
+      "channel": "Unboxing Xtra",
+      "duration": 3507.0,
+      "title": "ASMR Barbie CUTIE COLOR REVEAL DOLLS Unboxing Toys OVER 100 SURPRISES ‼️"
+    }
+  ]
+}

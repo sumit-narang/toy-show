@@ -1,0 +1,57 @@
+{
+  "id": "2024-jakks-playdate-elsa-doll",
+  "year": 2024,
+  "name": "Jakks Playdate Elsa Doll",
+  "price_eur": 84.99,
+  "price_text": "€84.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/toys-catalogue/disney-frozen-playdate-81cm-posable-elsa-doll/p/192922"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/toys-catalogue/disney-frozen-playdate-81cm-posable-elsa-doll/p/192922",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZtHJkJLxvjI",
+      "channel": "Life Through a Blind Girl’s Eyes",
+      "duration": 672.0,
+      "title": "Jakks, Disney Frozen! Ice and Snow Singing PlayDate Elsa Doll Review!! Part 2/3❄️💜❄️"
+    },
+    {
+      "id": "Ub7xrNK-b28",
+      "channel": "Life Through a Blind Girl’s Eyes",
+      "duration": 335.0,
+      "title": "Jakks, Disney Frozen! Ice Powers PlayDate Elsa Doll Comparison!!! Part 3/3💜❄️💜"
+    },
+    {
+      "id": "Vc9QfSY8hLo",
+      "channel": "Life Through a Blind Girl’s Eyes",
+      "duration": 242.0,
+      "title": "Jakks Disney Frozen Sing Along Elsa Doll 2021 Edition on Extremely Low Batteries!!!!!"
+    },
+    {
+      "id": "TSkCJvDTflg",
+      "channel": "Echoes of PlayTime",
+      "duration": 21.0,
+      "title": "Disney Princess Playdate Dolls & Dresses TV Commercial - 2025"
+    },
+    {
+      "id": "AGkTkBE05DM",
+      "channel": "Life Through a Blind Girl’s Eyes",
+      "duration": 513.0,
+      "title": "Jakks , Disney Frozen! Ice and Snow Singing PlayDate Elsa Doll Unboxing! Part 1/3!💜❄️💜"
+    }
+  ]
+}

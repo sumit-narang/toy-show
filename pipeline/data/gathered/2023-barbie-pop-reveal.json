@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-pop-reveal",
+  "year": 2023,
+  "name": "Barbie Pop Reveal",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-pop-reveal-fruit-series-grape-fizz-scented-doll-and-surprises/p/223909"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-pop-reveal-fruit-series-grape-fizz-scented-doll-and-surprises/p/223909",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DrGl2jta_F8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 86.0,
+      "title": "Barbie Pop Reveal Fruit Series"
+    },
+    {
+      "id": "XteR7CcQev8",
+      "channel": "Calm Toys Corner",
+      "duration": 373.0,
+      "title": "Barbie Pop Reveal 💖 Unboxing 3 Cups! What Did I Get?! "
+    },
+    {
+      "id": "pbbWah3Vf3k",
+      "channel": "TTPM Toy Reviews",
+      "duration": 78.0,
+      "title": "Barbie Pop Reveal Rise & Surprise"
+    },
+    {
+      "id": "f39kTbbjWms",
+      "channel": "Unboxing Xtra",
+      "duration": 2636.0,
+      "title": "ASMR Barbie POP COLOR REVEAL DOLLS Slime surprise Unboxing Toys ‼️"
+    },
+    {
+      "id": "cieTII8V5rU",
+      "channel": "Barbination",
+      "duration": 2300.0,
+      "title": "Barbie Pop Reveal! (Treats Milkshake Series) Review & Restyle!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-garden-hoe",
+  "year": 2018,
+  "name": "Kids Garden Hoe",
+  "price_eur": 2.99,
+  "price_text": "€2.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mYaEBgeebf4",
+      "channel": "PRARAMBHIK BAL SHIKSHA",
+      "duration": 202.0,
+      "title": "Gardening Tools | Learning Garden Tools | Gardening Tools for Kids | Simple Garden Tools for Kids"
+    },
+    {
+      "id": "w8hSYPiYF4Q",
+      "channel": "Moo & Roar Kids",
+      "duration": 89.0,
+      "title": "Gardening Tools Song for Kids 🌱 Dig Dig Dig! Learn Garden Tools & Planting Song (Fun Nursery Rhyme)"
+    },
+    {
+      "id": "UHaKaB28GCY",
+      "channel": "ehowgarden",
+      "duration": 60.0,
+      "title": "How to Use a Garden Hoe : Garden Tool Guides"
+    },
+    {
+      "id": "dkOODyW8-EI",
+      "channel": "Harrison Duke",
+      "duration": 625.0,
+      "title": "GARDENING TOOLS FOR KIDS! Spring Planting with handy kids tool set! Shovel, rake, hoe and more"
+    },
+    {
+      "id": "6K7wB8mhhfg",
+      "channel": "Little English Lab",
+      "duration": 276.0,
+      "title": "Gardening Tools for Kids 🌱 | Learn 30 Garden Tools with Uses | Easy English for Beginners"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-where-are-you-book",
+  "year": 2018,
+  "name": "Where Are You, Book?",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Wonderbly",
+      "url": "http://www.wonderbly.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.wonderbly.com/",
+      "title": "Personalized Books For Kids & Adults | Wonderbly",
+      "description": "Browse Wonderbly's personalized kidsâ and adult books for the perfect gift to make your loved ones feel extraordinarily special. Choose yours today.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VfveGf_fmwM",
+      "channel": "Vooks - Stories and Read Alouds for Kids",
+      "duration": 269.0,
+      "title": "Where Are You? | Animated Read Aloud Kids Book | Vooks Narrated Storybooks"
+    },
+    {
+      "id": "efPqI_FRu7I",
+      "channel": "CSUF Future Titans Read",
+      "duration": 181.0,
+      "title": "Where Are You From by Yamile Saied Méndez and Jaime Kim / Storytime Read Aloud"
+    },
+    {
+      "id": "gqaIE1Skn6Y",
+      "channel": "HarperKids",
+      "duration": 218.0,
+      "title": "WHERE ARE YOU FROM? | Storytime with Yamile Saied Méndez"
+    },
+    {
+      "id": "34UihBwASD8",
+      "channel": "StoryTimeFamily",
+      "duration": 186.0,
+      "title": "Where Are You? | Children's Books Read Aloud"
+    },
+    {
+      "id": "EZZQ8EswjOw",
+      "channel": "ImagiNation Storytime",
+      "duration": 302.0,
+      "title": "Where Are You From- A Read Aloud About Culture"
+    }
+  ]
+}

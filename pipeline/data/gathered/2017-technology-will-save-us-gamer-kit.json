@@ -1,0 +1,53 @@
+{
+  "id": "2017-technology-will-save-us-gamer-kit",
+  "year": 2017,
+  "name": "Technology Will Save Us \"Gamer Kit\"",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MOSPkQl2p0c",
+      "channel": "Tech Will Save Us",
+      "duration": 76.0,
+      "title": "DIY Gamer Kit - Make/Play/Code/Invent"
+    },
+    {
+      "id": "SnxqNnVYKWE",
+      "channel": "Electric Sparkles",
+      "duration": 1448.0,
+      "title": "Tech Will Save Us - Gamer Kit (build)"
+    },
+    {
+      "id": "CBm7LYoYx7c",
+      "channel": "Tech Will Save Us",
+      "duration": 76.0,
+      "title": "DIY Gamer Kit - Make your own video console"
+    },
+    {
+      "id": "9QPH6UEPHOs",
+      "channel": "Tech Will Save Us",
+      "duration": 48.0,
+      "title": "Build and code your own games on The Gamer Kit"
+    },
+    {
+      "id": "FdIT5UMTOEY",
+      "channel": "TONYA STAAB",
+      "duration": 70.0,
+      "title": "DIY Gamer Kit | Technology Will Save Us"
+    }
+  ]
+}

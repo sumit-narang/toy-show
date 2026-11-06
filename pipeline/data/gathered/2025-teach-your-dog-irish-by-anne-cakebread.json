@@ -1,0 +1,36 @@
+{
+  "id": "2025-teach-your-dog-irish-by-anne-cakebread",
+  "year": 2025,
+  "name": "Teach Your Dog Irish by Anne Cakebread",
+  "price_eur": 7.8,
+  "price_text": "€7.80",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/anne-cakebread-teach-your-dog-irish-2019-paperback?_pos=2&_sid=ecd586c52&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/anne-cakebread-teach-your-dog-irish-2019-paperback?_pos=2&_sid=ecd586c52&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-CFwTUDDFjM",
+      "channel": "For the Rest of Us - Mythology and Folklore",
+      "duration": 283.0,
+      "title": "Phrases for your Pet"
+    },
+    {
+      "id": "gbhlieL2i4E",
+      "channel": "Oh Yum with Anna Olson",
+      "duration": 226.0,
+      "title": "Professional Baker Teaches You How To Make BREAD PUDDING!"
+    }
+  ]
+}

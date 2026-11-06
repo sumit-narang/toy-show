@@ -1,0 +1,57 @@
+{
+  "id": "2025-cuan-the-support-elf",
+  "year": 2025,
+  "name": "Cuan the Support Elf",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Cuan & Co",
+      "url": "https://supportelf.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://cuantheelf.com",
+      "title": "Cuan the support elf",
+      "description": "Cuan the support elf offers a fun and engaging supportive shopping experience. Connect with us today!",
+      "image": "https://img1.wsimg.com/isteam/ip/bffbf29d-26f5-49e3-9d2c-0cc5b1787068/blob.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DXSRdl19aUM",
+      "channel": "CNBC",
+      "duration": 735.0,
+      "title": "Is The $1B Hailey Bieber Deal Enough To Keep E.l.f. Beauty Relevant?"
+    },
+    {
+      "id": "NJWNlopXMHc",
+      "channel": "Saturday Night Live",
+      "duration": 265.0,
+      "title": "Mrs. Claus & The Elves - SNL"
+    },
+    {
+      "id": "0CgvAT3SGv8",
+      "channel": "Miniac",
+      "duration": 977.0,
+      "title": "The First GW Wood Elf in SEVEN YEARS."
+    },
+    {
+      "id": "Uf65PARE4RI",
+      "channel": "The Late Late Show with James Corden",
+      "duration": 288.0,
+      "title": "Bryan Cranston is The Elf on the Shelf"
+    },
+    {
+      "id": "Jwqdbr0PtPQ",
+      "channel": "Curious Archive",
+      "duration": 1300.0,
+      "title": "I Kind of Hate Elves"
+    }
+  ]
+}

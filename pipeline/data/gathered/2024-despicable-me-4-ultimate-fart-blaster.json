@@ -1,0 +1,57 @@
+{
+  "id": "2024-despicable-me-4-ultimate-fart-blaster",
+  "year": 2024,
+  "name": "Despicable Me 4 Ultimate Fart Blaster",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minions/despicable-me-4-the-ultimate-fart-blaster/p/235889"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minions/despicable-me-4-the-ultimate-fart-blaster/p/235889",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YWg3hRdqbro",
+      "channel": "AdventureFun!",
+      "duration": 1358.0,
+      "title": "Despicable ME 4 Official Movie Trailer Ultimate Fart Blaster – Fart Gun Shoots Real Fart Rings Toy!"
+    },
+    {
+      "id": "KYC9BAN8GQg",
+      "channel": "Toymaster Ltd",
+      "duration": 21.0,
+      "title": "Despicable Me 4 Ultimate Fart Blaster"
+    },
+    {
+      "id": "U_OgZ53D8DI",
+      "channel": "Moose Top TV Commercials",
+      "duration": 95.0,
+      "title": "DM4 I Ultimate Fart Blaster How To Video I"
+    },
+    {
+      "id": "KiC8fXmykaA",
+      "channel": "News, Sport and Commercials.",
+      "duration": 17.0,
+      "title": "Despicable Me 4 The Ultimate Fart Blaster."
+    },
+    {
+      "id": "O49PhPeCC58",
+      "channel": "Lucky Penny Shop",
+      "duration": 1642.0,
+      "title": "Despicable Me 4 The Ultimate Fart Blaster Demonstration"
+    }
+  ]
+}

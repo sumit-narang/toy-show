@@ -1,0 +1,57 @@
+{
+  "id": "2022-snowman-hand-puppet",
+  "year": 2022,
+  "name": "Snowman Hand Puppet",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H8PL7nBU0WE",
+      "channel": "Glow Guards Toys",
+      "duration": 34.0,
+      "title": "Christmas hand puppet set! Santa, Elk and Snowman"
+    },
+    {
+      "id": "gUay-FCJQ_M",
+      "channel": "Kalyani's corner",
+      "duration": 488.0,
+      "title": "How I Made 2 Sock Snowmen in One Evening | Easy DIY Christmas & New Year Gift ☃️🎄"
+    },
+    {
+      "id": "nBlVxwjLo9Q",
+      "channel": "MonaJedPOV",
+      "duration": 158.0,
+      "title": "The Snowman a Puppet Play Book by Raymond Briggs"
+    },
+    {
+      "id": "Pguw6JN_eGM",
+      "channel": "Artcrafts by Lili",
+      "duration": 214.0,
+      "title": "Make Your Own Grinch & Snowman hand Puppets 🎅 | Easy Christmas Craft for Kids & Adults"
+    },
+    {
+      "id": "SKmua759p7E",
+      "channel": "Bookieezone",
+      "duration": 14.0,
+      "title": "Jolly Snowman-₹239-PuppetBook #prelovedbooks #kidsbooks #puppet #snowman #christmas #handpuppetbook"
+    }
+  ]
+}

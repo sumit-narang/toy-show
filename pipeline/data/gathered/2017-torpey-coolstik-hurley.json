@@ -1,0 +1,23 @@
+{
+  "id": "2017-torpey-coolstik-hurley",
+  "year": 2017,
+  "name": "Torpey CoolStik Hurley",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "torpeyhurleys.com",
+      "url": "https://www.torpeyhurleys.com/shop/coolstik?rq=Cool%20"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": []
+}

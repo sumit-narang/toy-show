@@ -1,0 +1,54 @@
+{
+  "id": "2021-spikeball-set",
+  "year": 2021,
+  "name": "Spikeball Set",
+  "price_eur": 59.95,
+  "price_text": "€59.95",
+  "retailers": [
+    {
+      "name": "Roundnet Ireland",
+      "url": "https://www.roundnetireland.com/product-page/spikeball-family"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.roundnetireland.com/product-page/spikeball-family"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5B1ANDuxAOQ",
+      "channel": "Spikeball",
+      "duration": 43.0,
+      "title": "Spikeball Pro Set vs. Standard Set"
+    },
+    {
+      "id": "RULU1m9_008",
+      "channel": "AuthenTech - Ben Schmanke",
+      "duration": 120.0,
+      "title": "How-to Play SPIKEBALL w/ Pro Tips & Tricks!"
+    },
+    {
+      "id": "VZ9MIii7UX8",
+      "channel": "Always Read The Reviews",
+      "duration": 61.0,
+      "title": "Must Watch Spikeball Set Review After 6 Months Of Use"
+    },
+    {
+      "id": "8C1rU2URo1Y",
+      "channel": "Michelle's List | Sharing Amazon Favorites",
+      "duration": 205.0,
+      "title": "Compare Best Spikeball Titan, Pro vs Original | Stronger Pro-Levels vs Classic 3-Ball Set"
+    },
+    {
+      "id": "6SPr5Qu_aPY",
+      "channel": "ROUNDNETWORK",
+      "duration": 1524.0,
+      "title": "2024 Spikeball Pro Championship | Open Finals Game 1 | J.A.R.V.I.S. vs Ultra Instinct"
+    }
+  ]
+}

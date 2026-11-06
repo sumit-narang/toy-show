@@ -1,0 +1,60 @@
+{
+  "id": "2023-the-first-move",
+  "year": 2023,
+  "name": "The First Move",
+  "price_eur": 12.6,
+  "price_text": "€12.60",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-first-move-jenny-ireland-9780241591826"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-first-move-jenny-ireland-9780241591826",
+      "title": "Buy The First Move Book at Easons",
+      "description": "Juliet believes girls like her - girls with arthritis - don't get their own love stories. She exists at the edges of her friends' social lives, skipping parties to play online chess under a pseudonym with strangers around the world. There, she isn't just '",
+      "image": null,
+      "ld_description": "Juliet believes girls like her - girls with arthritis - don't get their own love stories. She exists at the edges of her friends' social lives, skipping parties to play online chess under a pseudonym with strangers around the world. There, she isn't just 'the girl with crutches'.  Ronan is the new kid: good looking, smart, a bad boy plagued by guilt over what happened to his brother Ciaran. Chesslife is his escape.  Juliet thinks Ronan thinks someone like Ronan could never be interested in someone like her - and she wouldn't want him to be anyway - he always acts like he's cooler than everyone else.  Little do they know they've already discovered each other online, and have more in common than they think . . .",
+      "brand": "Penguin Books",
+      "ld_image": "https://www.easons.com/images/asset/a9991a3f-69fe-455e-9294-8385df435a4b/9780241591826_5642703946.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-2bo1N-nOM4",
+      "channel": "Abishek Kumar and Nirmal Pillai",
+      "duration": 2677.0,
+      "title": "FIRST MOVE | EP 15 | With @NirmalPillaiOriginal  | Comedy Dating Show"
+    },
+    {
+      "id": "CfILas3T5dA",
+      "channel": "Abishek Kumar and Nirmal Pillai",
+      "duration": 2309.0,
+      "title": "FIRST MOVE | EP 14 | With  @NirmalPillaiOriginal  | Comedy Dating Show"
+    },
+    {
+      "id": "lZOlwm4xmJg",
+      "channel": "Winta Groove",
+      "duration": 405.0,
+      "title": "Winta - First Move"
+    },
+    {
+      "id": "W5r_LlqU6P0",
+      "channel": "aurela",
+      "duration": 274.0,
+      "title": "the first move.ᯓ♡     [forced]"
+    },
+    {
+      "id": "r31GvxOb2_o",
+      "channel": "Abishek Kumar",
+      "duration": 3711.0,
+      "title": "FIRST MOVE | EP 07 with ‪@NirmalPillaiOriginal & @KennySebastian  | Comedy Dating Show"
+    }
+  ]
+}

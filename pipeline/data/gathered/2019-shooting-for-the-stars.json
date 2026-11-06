@@ -1,0 +1,60 @@
+{
+  "id": "2019-shooting-for-the-stars",
+  "year": 2019,
+  "name": "Shooting for the Stars",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/shooting-for-the-stars-norah-patten-9781788491006"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/shooting-for-the-stars-norah-patten-9781788491006",
+      "title": "Buy Shooting For The Stars Book at Easons",
+      "description": "Since I was eleven years old, I've been obsessed with space and exploration and rockets. I wanted to go to space, and I did everything I could to make that happen. Come with me on a journey to the stars!\n\nDr Norah Patten is about to become the first Irish",
+      "image": null,
+      "ld_description": "Since I was eleven years old, I've been obsessed with space and exploration and rockets. I wanted to go to space, and I did everything I could to make that happen. Come with me on a journey to the stars!\n\nDr Norah Patten is about to become the first Irish person in space. Here, she tells us all about her mission, all about space and the life of an astronaut: What is the solar system? How do astronauts travel to space? What do they eat up there? How do they go to the toilet?! Where will astronauts go next? And most importantly … how can you get there too?",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/2e968337-45fb-4881-933b-766e6c70e07b/9781788491006_5642740858.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "em6r6X1sKNA",
+      "channel": "SB19 Official",
+      "duration": 237.0,
+      "title": "SB19 'Shooting for the Stars' Lyric Video"
+    },
+    {
+      "id": "f0SBhmdVBhw",
+      "channel": "7clouds Philippines",
+      "duration": 237.0,
+      "title": "SB19 - Shooting for the Stars (Lyrics)"
+    },
+    {
+      "id": "7VsaERvzPwk",
+      "channel": "Lil Tjay",
+      "duration": 149.0,
+      "title": "Lil Tjay - Shoot for the Stars (Official Audio) ft. Fivio Foreign"
+    },
+    {
+      "id": "chI5M7iZfJQ",
+      "channel": "Musixa",
+      "duration": 237.0,
+      "title": "SB19 - Shooting for the Stars (Lyrics)"
+    },
+    {
+      "id": "-S6-JSl9KJk",
+      "channel": "Release - Topic",
+      "duration": 202.0,
+      "title": "Shooting for the Stars"
+    }
+  ]
+}

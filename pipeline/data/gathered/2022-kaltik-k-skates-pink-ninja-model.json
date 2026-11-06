@@ -1,0 +1,30 @@
+{
+  "id": "2022-kaltik-k-skates-pink-ninja-model",
+  "year": 2022,
+  "name": "Kaltik K Skates Pink Ninja Model",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "KALTIK",
+      "url": "https://www.kaltik.eu/product-page/k-skate-pink-ninja-model"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vtjwxzkwO9w",
+      "channel": "Vintage Roller",
+      "duration": 515.0,
+      "title": "New Skate Day - Kaltik K Skates"
+    }
+  ]
+}

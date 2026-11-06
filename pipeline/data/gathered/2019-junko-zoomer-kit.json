@@ -1,0 +1,57 @@
+{
+  "id": "2019-junko-zoomer-kit",
+  "year": 2019,
+  "name": "Junko - Zoomer Kit!",
+  "price_eur": 46.99,
+  "price_text": "€46.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/junko-make-working-cars-boats-buildings-from-junk?variant=29500590620733"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/?variant=29500590620733",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dGgutMTboWc",
+      "channel": "Planet Junko",
+      "duration": 361.0,
+      "title": "JUNKO Zoomer! Kit - Assembly Instructions"
+    },
+    {
+      "id": "VtiDrcel08w",
+      "channel": "Planet Junko",
+      "duration": 144.0,
+      "title": "Unboxing and Making a Toy from Junk with the amazing JUNKO Zoomer! Kit"
+    },
+    {
+      "id": "Lm8VaPVdliA",
+      "channel": "Put a rubber band on it",
+      "duration": 1270.0,
+      "title": "Put a rubber band on it 0445 Junko Zoomer Kit"
+    },
+    {
+      "id": "_lZLJCU68sk",
+      "channel": "Wicked Uncle",
+      "duration": 36.0,
+      "title": "Junko Core Zoomer Kit"
+    },
+    {
+      "id": "Lfhp1OFgrac",
+      "channel": "Put a rubber band on it",
+      "duration": 565.0,
+      "title": "Put a rubber band on it 0449 Junko Zoomer Kit - replacement part arrives"
+    }
+  ]
+}

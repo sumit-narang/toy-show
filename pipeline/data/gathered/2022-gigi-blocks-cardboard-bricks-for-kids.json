@@ -1,0 +1,54 @@
+{
+  "id": "2022-gigi-blocks-cardboard-bricks-for-kids",
+  "year": 2022,
+  "name": "Gigi Blocks & Cardboard Bricks for Kids",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "GIGI Bloks",
+      "url": "https://gigibloks.com/collections/all"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://gigibloks.com/collections/all"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ka2fTRGJ4NA",
+      "channel": "GIGI BLOKS",
+      "duration": 138.0,
+      "title": "Look inside - 30 Big (XL) Building Blocks Set with Labels, Stencils and Crayons (XL) - Christmas"
+    },
+    {
+      "id": "aHesPbo_2KA",
+      "channel": "Hannah Lazenby",
+      "duration": 527.0,
+      "title": "Gigi Bloks Bigjigs Review"
+    },
+    {
+      "id": "MDlAsOfL5iY",
+      "channel": "GIGI BLOKS",
+      "duration": 44.0,
+      "title": "Create Your Own Building Blocks"
+    },
+    {
+      "id": "DLcUfZi9Rh0",
+      "channel": "Rêve de Pan",
+      "duration": 101.0,
+      "title": "Gigi blocks - les briques de jeu en carton"
+    },
+    {
+      "id": "L4mPbTD5qEI",
+      "channel": "Kevin Lu",
+      "duration": 410.0,
+      "title": "Gigi Bloks Review | Life Sized Building Blocks"
+    }
+  ]
+}

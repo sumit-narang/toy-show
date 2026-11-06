@@ -1,0 +1,53 @@
+{
+  "id": "2017-seaseme-street-bert",
+  "year": 2017,
+  "name": "Seaseme Street Bert",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Retro Nation",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i7jUMk7-37k",
+      "channel": "Sesame Street",
+      "duration": 3087.0,
+      "title": "Bert Takes a Nap in Big Bird's Nest | 2 Sesame Street Full Episodes"
+    },
+    {
+      "id": "cUusX1Js6R0",
+      "channel": "Sesame Street",
+      "duration": 167.0,
+      "title": "Sesame Street: Bert and Ernie's Fish Call"
+    },
+    {
+      "id": "e_Uv6vD4v1A",
+      "channel": "Sesame Street",
+      "duration": 137.0,
+      "title": "Sesame Street: Ernie Gets Bert to Exercise"
+    },
+    {
+      "id": "mulgE1lI8F8",
+      "channel": "Sesame Street Classics ",
+      "duration": 5103.0,
+      "title": "Classic Bert and Ernie Moments | Sesame Street Compilation"
+    },
+    {
+      "id": "8X03VasFY38",
+      "channel": "Sesame Workshop",
+      "duration": 101.0,
+      "title": "Wants and Needs with Bert and Ernie | Financial Education"
+    }
+  ]
+}

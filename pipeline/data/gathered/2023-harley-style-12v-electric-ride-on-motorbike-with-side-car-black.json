@@ -1,0 +1,54 @@
+{
+  "id": "2023-harley-style-12v-electric-ride-on-motorbike-with-side-car-black",
+  "year": 2023,
+  "name": "Harley Style 12V Electric Ride On Motorbike with Side Car Black",
+  "price_eur": 399.95,
+  "price_text": "€399.95",
+  "retailers": [
+    {
+      "name": "FunStuff",
+      "url": "https://funstuff.ie/harley-style-12v-electric-ride-on-motorbike-with-side-car-black/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://funstuff.ie/harley-style-12v-electric-ride-on-motorbike-with-side-car-black/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y1Z8JKqTVlM",
+      "channel": "Kashius Alexander",
+      "duration": 412.0,
+      "title": "Hyper GoGo Electric Mini Motorbike Unboxing & Testing // Cruiser 12 Plus"
+    },
+    {
+      "id": "OK2rrxrEXpw",
+      "channel": "RiiRoo",
+      "duration": 121.0,
+      "title": "RiiRoo 6V, 12V Electric Ride on Motorbike and Trike Battery Troubleshooting Guidance"
+    },
+    {
+      "id": "JpvWj_kbiV0",
+      "channel": "Star Light Kids",
+      "duration": 507.0,
+      "title": "Power Wheels Harley Davidson Ride On Kids Motorcycle - Unboxing and Riding"
+    },
+    {
+      "id": "xyFHOJyYf2I",
+      "channel": "Kid Motorz",
+      "duration": 47.0,
+      "title": "KID MOTORZ  i 12V police motorcycle 0957 pink color"
+    },
+    {
+      "id": "7J82g5SlKBs",
+      "channel": "Really Cool Products",
+      "duration": 114.0,
+      "title": "12V Electric Ride-On Kids Dirt Bike – Training Wheels, Bluetooth, Throttle Grip, Suspension & Music"
+    }
+  ]
+}

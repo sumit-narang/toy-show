@@ -1,0 +1,53 @@
+{
+  "id": "2017-things-a-bright-girl-can-do",
+  "year": 2017,
+  "name": "Things A Bright Girl Can Do",
+  "price_eur": 11.24,
+  "price_text": "€11.24",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1Ya8GSd55Yo",
+      "channel": "Google Play Books",
+      "duration": 3407.0,
+      "title": "Things a Bright Girl Can Do by Sally Nicholls · Audiobook preview"
+    },
+    {
+      "id": "LWGi3R81hms",
+      "channel": "getmealibrary",
+      "duration": 1318.0,
+      "title": "THINGS A BRIGHT GIRL CAN DO - BOOK REVIEW - SALLY NICHOLLS"
+    },
+    {
+      "id": "iRmcx7XEwI8",
+      "channel": "West Sussex Libraries",
+      "duration": 122.0,
+      "title": "Fully Booked: Things A Bright Girl Can Do"
+    },
+    {
+      "id": "47KFycz1iPY",
+      "channel": "Internationales Literaturfestival Berlin",
+      "duration": 4880.0,
+      "title": "Sally Nicholls: Things A Bright Girl Can Do – Opening Speech KJL"
+    },
+    {
+      "id": "_ioKUGbWlAc",
+      "channel": "elementarymydear",
+      "duration": 642.0,
+      "title": "lgbtq+ historical fiction recommendations 📚 regency romance, tudor intrique and more!"
+    }
+  ]
+}

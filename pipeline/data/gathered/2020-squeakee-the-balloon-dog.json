@@ -1,0 +1,54 @@
+{
+  "id": "2020-squeakee-the-balloon-dog",
+  "year": 2020,
+  "name": "Squeakee the Balloon Dog",
+  "price_eur": 76.0,
+  "price_text": "€76",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 500,
+      "final_url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bdd9PCsRQ7A",
+      "channel": "TTPM Toy Reviews",
+      "duration": 200.0,
+      "title": "Toy Review | Squeakee the Balloon Dog from Moose Toys | Feed Him, Teach Him Tricks, Pop Him, & more"
+    },
+    {
+      "id": "FO6D_ICEWEo",
+      "channel": "Joe Blogs",
+      "duration": 332.0,
+      "title": "SQUEAKEE THE BALLOON DOG - Great Toy? Worth the Money? Full demonstration & HONEST REVIEW"
+    },
+    {
+      "id": "wBttf72gofY",
+      "channel": "Jaxen Ross is b-a-c-k! | Reels & Ruins",
+      "duration": 758.0,
+      "title": "Squeakee The Balloon Dog Destruction"
+    },
+    {
+      "id": "YCTtC_V6iD0",
+      "channel": "Make Science Fun",
+      "duration": 981.0,
+      "title": "What's inside Squeakee the red balloon dog toy"
+    },
+    {
+      "id": "vI5QK9djo5Q",
+      "channel": "toy tiny",
+      "duration": 100.0,
+      "title": "Squeakee the Balloon Dog 🎈| Toy Tiny"
+    }
+  ]
+}

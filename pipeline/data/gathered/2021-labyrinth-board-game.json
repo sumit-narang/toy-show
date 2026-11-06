@@ -1,0 +1,54 @@
+{
+  "id": "2021-labyrinth-board-game",
+  "year": 2021,
+  "name": "Labyrinth Board Game",
+  "price_eur": 26.0,
+  "price_text": "€26.00",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/ravensburger/labyrinth-board-game/150145467.html"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/children/ravensburger/150145467.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sbBjW0wtNz8",
+      "channel": "Ravensburger UK",
+      "duration": 186.0,
+      "title": "How to Play Labyrinth | The race for treasures in the moving maze 🧙‍♀️"
+    },
+    {
+      "id": "Vh_UccGyJrQ",
+      "channel": "Watch It Played",
+      "duration": 435.0,
+      "title": "Labyrinth - How To Play"
+    },
+    {
+      "id": "cFPS5symQKs",
+      "channel": "BoardGameBollocks",
+      "duration": 809.0,
+      "title": "Labyrinth Chronicles Board Game Review"
+    },
+    {
+      "id": "FMLqnXsYSGY",
+      "channel": "The Dice Tower",
+      "duration": 798.0,
+      "title": "Labyrinth Chronicles Review: Chronicles of Fine"
+    },
+    {
+      "id": "dEPLMdZtsE4",
+      "channel": "BoardGameBollocks",
+      "duration": 513.0,
+      "title": "Labyrinth Boardgame Review - Still Worth It?"
+    }
+  ]
+}

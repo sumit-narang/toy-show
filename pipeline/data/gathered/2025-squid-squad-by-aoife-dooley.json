@@ -1,0 +1,54 @@
+{
+  "id": "2025-squid-squad-by-aoife-dooley",
+  "year": 2025,
+  "name": "Squid Squad by Aoife Dooley",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/squid-squad?_pos=1&_sid=2a91a0c66&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/squid-squad?_pos=1&_sid=2a91a0c66&_ss=r",
+      "title": "Aoife Dooley: The Squid Squad [2025] paperback",
+      "description": "Aoife Dooley: The Squid Squad [2025] paperback | SPONGEBOB SQUAREPANTS meets BUNNY VERSUS MONKEY in this hilarious, zany and action-packed full-colour graphic novel for readers aged 5-8. Join naughty best friends Ollie the vampire squid and Zing the toxin-squirting sea bunny as they cause chaos in the",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/aoife-dooley-squid-squad-9780702337109-1155472616_1200x1200.jpg?v=1744415000",
+      "ld_description": "SPONGEBOB SQUAREPANTS meets BUNNY VERSUS MONKEY in this hilarious,      zany and action-packed full-colour graphic novel for readers      aged 5-8. Join naughty best friends Ollie the vampire squid and      Zing the toxin-squirting sea bunny as they cause chaos in the      deep sea with the rest of their undersea crew!      Ollie and Zing live in a town called Nowhere, deep under the sea      - a place that's home to the wackiest and weirdest creatures of      the ocean, like the stinky Blob, crafty Hypno-snail, and the mysterious      Snakey Unicorn Thing... Ollie and Zing's antics with their      colourful neighbours always keep things lively - especially when      they get the better of dastardly old Thornelius, the thorn-shooting      sea slug!      This book contains four hilarious mini episodes, featuring a missing      pet sea anemone (who makes a dashing wig), a very mysterious      noise, and a magical portal toilet...       Aoife's striking, bold and friendly art style welcomes even      less confident readers in these action-packed mini episodes       Hilarious and anarchic visual humour with a loveable cast of      vibrant characters       A celebration of imagination, friendship and being completely      unique!",
+      "brand": "Dooley, Aoife",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/aoife-dooley-squid-squad-9780702337109-1155472616_266x.jpg?v=1744415000"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "10JNbnHxuOo",
+      "channel": "Ross K. Foad",
+      "duration": 54.0,
+      "title": "6 Character Voices in 60 Seconds Or Less (Volume 221: Squid Squad Edition)"
+    },
+    {
+      "id": "mNjRa37HKxk",
+      "channel": "School Reading List",
+      "duration": 2017.0,
+      "title": "Episode 30 - Why Investing in Your School Library Can Boost Your School Inspection Grade"
+    },
+    {
+      "id": "Tep9dRsuanU",
+      "channel": "The Reader Teacher",
+      "duration": 1255.0,
+      "title": "April 2026 Children’s Books I’m Most Excited About | Coming Soon: Series 6: Episode 4"
+    },
+    {
+      "id": "JV2qRbYtG_E",
+      "channel": "The Reader Teacher",
+      "duration": 1563.0,
+      "title": "May 2025 Children’s Books I’m Most Excited About | Coming Soon: Season 5: Episode 5"
+    }
+  ]
+}

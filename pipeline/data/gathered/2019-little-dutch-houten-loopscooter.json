@@ -1,0 +1,57 @@
+{
+  "id": "2019-little-dutch-houten-loopscooter",
+  "year": 2019,
+  "name": "Little Dutch Houten Loopscooter",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Kid Store",
+      "url": "https://kidstore.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kidstore.ie/password",
+      "title": "KID store",
+      "description": "Unlock the magic of playtime with our luxurious wooden toys and beautiful gifts at KID. Ignite your child's imagination and inspire their creativity with our carefully curated collection. As an Irish-owned and family-run business, we handpick each item with love. Shop now to explore our enchanting world of play.",
+      "image": "http://kidstore.ie/cdn/shop/files/KID-Store-KID-Store-Dublin.jpg?height=628&pad_color=fff&v=1689268829&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "v6HttBJlP8k",
+      "channel": "Toyfan",
+      "duration": 24.0,
+      "title": "Bandits & Angels - Italian rider mint loopfiets."
+    },
+    {
+      "id": "nuRXlokM2t4",
+      "channel": "Toyfan",
+      "duration": 24.0,
+      "title": "Bandits & Angels - Italian rider grijs loopfiets."
+    },
+    {
+      "id": "RJMbSeRvbJY",
+      "channel": "Toyfan",
+      "duration": 28.0,
+      "title": "Bandits & Angels - Italian rider grijs loopfiets."
+    },
+    {
+      "id": "mvnfKcj5EyU",
+      "channel": "Toyfan",
+      "duration": 20.0,
+      "title": "Bandits & Angels - loopfiets Starter mat zwart met retro bruin zadel en handvaten"
+    },
+    {
+      "id": "FM7p3k3P-AQ",
+      "channel": "bertinelyppens",
+      "duration": 14.0,
+      "title": "Robert 2 jaar op de BROEMIE Groot loopfiets / loopmotor"
+    }
+  ]
+}

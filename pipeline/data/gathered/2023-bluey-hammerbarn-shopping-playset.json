@@ -1,0 +1,57 @@
+{
+  "id": "2023-bluey-hammerbarn-shopping-playset",
+  "year": 2023,
+  "name": "Bluey Hammerbarn Shopping Playset",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/bluey-hammerbarn-shopping-centre-playset/p/225082"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/bluey-hammerbarn-shopping-centre-playset/p/225082",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t9nE4APrM8I",
+      "channel": "TTPM Toy Reviews",
+      "duration": 98.0,
+      "title": "Bluey Hammerbarn Shopping Playset"
+    },
+    {
+      "id": "fbUf2ZSNm_A",
+      "channel": "PupaPu Toys ",
+      "duration": 913.0,
+      "title": "ASMR Unboxing Bluey Hammerbarn Shopping Playset | No Talking Video"
+    },
+    {
+      "id": "7eWEloaARW0",
+      "channel": "Toya's Toys",
+      "duration": 705.0,
+      "title": "Bluey Toy Collection Unboxing Review | Bluey Hammerbarn Shopping Playset"
+    },
+    {
+      "id": "Ogz9vwU27RQ",
+      "channel": "Bunya Toy Town",
+      "duration": 1833.0,
+      "title": "BLUEY Hammerbarn - Don't Feel Jealous | Lessons For Kids | Pretend Play with Bluey Toys"
+    },
+    {
+      "id": "8boZJSZeUS8",
+      "channel": "PupaPu Toys ",
+      "duration": 859.0,
+      "title": "ASMR Unboxing Bluey SUPERMARKET Playset  | Toy Review | No Talking Video"
+    }
+  ]
+}

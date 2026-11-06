@@ -1,0 +1,54 @@
+{
+  "id": "2020-casdon-henry-toy-vacuum-cleaner",
+  "year": 2020,
+  "name": "Casdon Henry Toy Vacuum Cleaner",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/casdon-henry-toy-vacuum-cleaner/439141261.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/casdon-henry-toy-vacuum-cleaner/439141261.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-t-URz3rLjg",
+      "channel": "ibaisaic",
+      "duration": 944.0,
+      "title": "New Version Henry Toy Vacuum Cleaner By Casdon Unboxing & Demonstration"
+    },
+    {
+      "id": "S7cybsKmmG4",
+      "channel": "Ride On Cars Unlimited",
+      "duration": 303.0,
+      "title": "Kids Henry Toy Vacuum Cleaner by Casdon | Surprise Toy Unboxing & Review"
+    },
+    {
+      "id": "Crf78OZSG3I",
+      "channel": "ibaisaic",
+      "duration": 662.0,
+      "title": "Little Numatic Henry Vacuum Cleaner By Casdon Review & Demonstration"
+    },
+    {
+      "id": "5j8BUKDP-lk",
+      "channel": "Orens Toybox Treasures",
+      "duration": 833.0,
+      "title": "Toy Henry Numatic Vacuum Casden"
+    },
+    {
+      "id": "ddXer4nd5xU",
+      "channel": "ibaisaic",
+      "duration": 3214.0,
+      "title": "Unboxing & Assembling All The Henry Vacuum Cleaner Toys From Casdon"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-leap-globe-touch-leapfrog-junior-globe",
+  "year": 2022,
+  "name": "Leap Globe Touch LeapFrog Junior Globe",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k-if51UXrpg",
+      "channel": "Emily Clark",
+      "duration": 106.0,
+      "title": "Review of Leap Frog Globe (A Moms Perspective)"
+    },
+    {
+      "id": "1HzZOALjX6k",
+      "channel": "PureReviews",
+      "duration": 148.0,
+      "title": "GREAT KID STEM TOY - LeapFrog Magic Adventures Globe Review"
+    },
+    {
+      "id": "am9M-L9Up8E",
+      "channel": "Lindsey's Toys",
+      "duration": 260.0,
+      "title": "LeapFrog Junior Explorer Interactive Globe"
+    },
+    {
+      "id": "99dkFGUgrNA",
+      "channel": "Victoria Styles",
+      "duration": 126.0,
+      "title": "LeapFrog Magic Adventures Learning Globe"
+    },
+    {
+      "id": "ElLtbQw3Htc",
+      "channel": "ictio",
+      "duration": 184.0,
+      "title": "LeapFrog Junior Explorer Globe - Search The World"
+    }
+  ]
+}

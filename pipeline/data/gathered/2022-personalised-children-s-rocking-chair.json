@@ -1,0 +1,57 @@
+{
+  "id": "2022-personalised-children-s-rocking-chair",
+  "year": 2022,
+  "name": "Personalised Children's Rocking Chair",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Kerry Signature Furniture",
+      "url": "https://www.kerrysignaturefurniture.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.kerrysignaturefurniture.ie/",
+      "title": "Kerry Signature Furniture – Kitchens | Media Units | Wardrobes",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-Isl-0x5vuE",
+      "channel": "Miles Kimball",
+      "duration": 58.0,
+      "title": "Personalized Childs Natural Rocker | Miles Kimball"
+    },
+    {
+      "id": "kEMAwKBc8vo",
+      "channel": "Miles Kimball",
+      "duration": 58.0,
+      "title": "Personalized Childs White Rocker | Miles Kimball"
+    },
+    {
+      "id": "zKJZMEISXSU",
+      "channel": "Tianfeng baby",
+      "duration": 197.0,
+      "title": "How to Assemble TF-6064 Wooden Nursery Rocking Chair with Ottoman"
+    },
+    {
+      "id": "ELNqfNhc6Xo",
+      "channel": "Zad Crafts",
+      "duration": 403.0,
+      "title": "Turn Clothespins into a Beautiful Rocking Chair 🪑| Amazing DIY Decoration & Gift Idea ✨️"
+    },
+    {
+      "id": "AEFjXSyCeFE",
+      "channel": "AR Day Out ",
+      "duration": 323.0,
+      "title": "✅ Top 5 Best Rocking Chairs Reviews For Kids"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-dublin-fire-brigade-rapid-response-vehicle",
+  "year": 2020,
+  "name": "Dublin Fire Brigade Rapid Response Vehicle",
+  "price_eur": 329.0,
+  "price_text": "€329",
+  "retailers": [
+    {
+      "name": "Esmark Finch",
+      "url": "https://esmarkfinch.ie/shop/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FQ0htHZOPW8",
+      "channel": "Emergency Responses of NI & Ireland",
+      "duration": 16.0,
+      "title": "Dublin Fire Brigade / DN13A2 / Scania P270 / WrL - Turning out from Tara St Fire Station"
+    },
+    {
+      "id": "04OSQTNsJ7Y",
+      "channel": "Emergency Responses of NI & Ireland",
+      "duration": 32.0,
+      "title": "Dublin Fire Brigade / D106 / Scania P320 / Turntable Ladder / Turn Out from Tara Street"
+    },
+    {
+      "id": "WzdUHZ8iA1E",
+      "channel": "Einsatzfahrten Dreiländereck",
+      "duration": 50.0,
+      "title": "[300 Abos] Cork City Fire Brigade turn out with 2x WrL, RRV & ALP"
+    },
+    {
+      "id": "mhoZXMbzs0g",
+      "channel": "Emergency Responses of NI & Ireland",
+      "duration": 26.0,
+      "title": "[RARE] Dublin Airport Fire & Rescue Service / Rescue 8 / Rapid Intervention Foam Tender / Responding"
+    },
+    {
+      "id": "r_tfuPYXQeU",
+      "channel": "Emergency Responses of NI & Ireland",
+      "duration": 21.0,
+      "title": "Dublin Fire Brigade - Four Units Responding!"
+    }
+  ]
+}

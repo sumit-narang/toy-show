@@ -1,0 +1,57 @@
+{
+  "id": "2024-yoto-player-3rd-generation",
+  "year": 2024,
+  "name": "Yoto Player 3rd Generation",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Lulabug Kids",
+      "url": "https://lulabug.ie/collections/yoto-player/products/yoto-player-3rd-generation"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://lulabug.ie/collections/yoto-player/products/yoto-player-3rd-generation",
+      "title": "Yoto Player - 3rd Generation",
+      "description": "Yoto Player (3rd Generation) opens up kids’ creative play to a whole new world of potential. Build independence, inspire imagination and let kids lead the way through family life. No microphone. No camera. No ads. Your new Yoto Player comes with a welcome card to let you know about all the great things you can do with",
+      "image": "http://lulabug.ie/cdn/shop/files/1697018361-image-9_1200x1200.webp?v=1726749848"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DFU9D4cIL9w",
+      "channel": "Yoto",
+      "duration": 137.0,
+      "title": "Introducing Yoto Player (3rd Generation)"
+    },
+    {
+      "id": "1s11v0XLIY0",
+      "channel": "Tara Willoughby",
+      "duration": 443.0,
+      "title": "NEW Yoto 3rd Generation Review - Everything You Need To Know!"
+    },
+    {
+      "id": "ttQUB6qzT5E",
+      "channel": "Kevin Lu",
+      "duration": 752.0,
+      "title": "Yoto Player 3rd Generation Review and Unboxing - Worth the upgrade?"
+    },
+    {
+      "id": "ivoUfGISNdU",
+      "channel": "Kevin Lu",
+      "duration": 449.0,
+      "title": "Yoto 4th Gen vs 3rd Gen: Who Should Buy Which, and Who Should Wait"
+    },
+    {
+      "id": "WA5DCUPSD44",
+      "channel": "Bethany Barrow",
+      "duration": 279.0,
+      "title": "Yoto Player 3rd Gen, 4 Years Later What I Wish I Knew Sooner And You Will Too!"
+    }
+  ]
+}

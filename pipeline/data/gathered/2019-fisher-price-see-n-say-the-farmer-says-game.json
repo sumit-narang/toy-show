@@ -1,0 +1,54 @@
+{
+  "id": "2019-fisher-price-see-n-say-the-farmer-says-game",
+  "year": 2019,
+  "name": "Fisher Price See 'n Say The Farmer Says Game",
+  "price_eur": 24.0,
+  "price_text": "€24.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/ages/ages-0-3/fisher-price/see-n-say-the-farmer-says-game/144047211.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/toys/ages/ages-0-3/fisher-price/see-n-say-the-farmer-says-game/144047211.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iJ7Tn6L29iA",
+      "channel": "Super toys for kids",
+      "duration": 671.0,
+      "title": "Fisher Price Little People See N' Say Farmer Eddie Says"
+    },
+    {
+      "id": "TUp4Sse9pgk",
+      "channel": "See 'n Say Fan",
+      "duration": 121.0,
+      "title": "1996 \"The Farmer Says\" See 'n Say Talking Toy"
+    },
+    {
+      "id": "DNgDKMjLu2Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "Fisher-Price Classics See 'n Say The Farmer Says from The Bridge Direct"
+    },
+    {
+      "id": "-pBgTt7ekEk",
+      "channel": "Theo G. Bear",
+      "duration": 487.0,
+      "title": "Fisher-Price See 'n Say The Farmer Says"
+    },
+    {
+      "id": "YxgN7UgiX4w",
+      "channel": "Kids View Toys",
+      "duration": 400.0,
+      "title": "SEE N' SAY THE FARMER SAYS | FISHER PRICE CLASSIC TOYS | LEARN ANIMAL SOUNDS"
+    }
+  ]
+}

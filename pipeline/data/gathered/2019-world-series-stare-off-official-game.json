@@ -1,0 +1,57 @@
+{
+  "id": "2019-world-series-stare-off-official-game",
+  "year": 2019,
+  "name": "World Series Stare Off Official Game",
+  "price_eur": null,
+  "price_text": "£13.00",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Ideal-10820-Stare-Off-Multicolour/dp/B07Z248BS7"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Ideal-10820-Stare-Off-Multicolour/dp/B07Z248BS7",
+      "title": "Stare Off : Amazon.co.uk: Toys & Games",
+      "description": "Stare Off : Amazon.co.uk: Toys & Games",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CY76KRAp52w",
+      "channel": "First Alert 6",
+      "duration": 60.0,
+      "title": "WEBEXTRA: Young Omaha CWS fan's epic stare-down goes viral"
+    },
+    {
+      "id": "eswK_ur9wIo",
+      "channel": "KMTV 3 News Now",
+      "duration": 199.0,
+      "title": "Omaha boy goes viral after stare down with ESPN at College World Series"
+    },
+    {
+      "id": "6BuURRXmPJ8",
+      "channel": "oldies viral ",
+      "duration": 86.0,
+      "title": "\"Only One Can Win – Kids Epic Stare Challenge!\" "
+    },
+    {
+      "id": "nVmJQ0zbHM0",
+      "channel": "InfoWars DIxie 🇷🇺",
+      "duration": 98.0,
+      "title": "EPIC stare down at the College World Series."
+    },
+    {
+      "id": "9ybjZfA-ZY4",
+      "channel": "RandomThis",
+      "duration": 98.0,
+      "title": "Boy's Epic Stare-down Battle Goes Viral"
+    }
+  ]
+}

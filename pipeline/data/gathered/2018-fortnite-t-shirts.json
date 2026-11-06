@@ -1,0 +1,54 @@
+{
+  "id": "2018-fortnite-t-shirts",
+  "year": 2018,
+  "name": "Fortnite T-Shirts",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_O4MgINW_AE",
+      "channel": "Lamarr Wilson",
+      "duration": 490.0,
+      "title": "FORTNITE SHIRTS & BOOKS!"
+    },
+    {
+      "id": "xETvUZDxztw",
+      "channel": "Hew Moran",
+      "duration": 112.0,
+      "title": "Kids FLEXING the $500 Fortnite Balenciaga Shirt"
+    },
+    {
+      "id": "tRmSWh4smxo",
+      "channel": "M2 ANIMATION",
+      "duration": 49.0,
+      "title": "Meet Freddy Fazbear"
+    },
+    {
+      "id": "mLwEIEXsSb0",
+      "channel": "PikaShoute",
+      "duration": 759.0,
+      "title": "MAKE FORTNITE T-SHIRTS EASILY!"
+    },
+    {
+      "id": "gkRG0MYFy7M",
+      "channel": "PWR",
+      "duration": 263.0,
+      "title": "Revealing our NEW Apparel: PWR TO PLAY!"
+    }
+  ]
+}

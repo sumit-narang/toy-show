@@ -1,0 +1,64 @@
+{
+  "id": "2017-magix-tracks",
+  "year": 2017,
+  "name": "Magix Tracks",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Tv-ZUT66Xwg",
+      "channel": "NorthernTech",
+      "duration": 169.0,
+      "title": "Magix Movie Edit Pro - How to have Audio and Video on seperate tracks"
+    },
+    {
+      "id": "_PVvITZeKNg",
+      "channel": "MAGIX",
+      "duration": 44.0,
+      "title": "FREE! MAGIX Guitar Backing Maker (EN)"
+    },
+    {
+      "id": "Gy7sEJHivYE",
+      "channel": "Dave Merc Productions",
+      "duration": 647.0,
+      "title": "How to Adjust Audio Levels and Use Volume Curves - Magix Movie Edit Pro 2017 Plus"
+    },
+    {
+      "id": "xp2rkmgG06I",
+      "channel": "MAGIX",
+      "duration": 51.0,
+      "title": "How to level up your music: Working with Effects"
+    },
+    {
+      "id": "onSSN-FixOg",
+      "channel": "Tony Savage",
+      "duration": 493.0,
+      "title": "Magix Music Maker Tutorial - Setting Your Record Point"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-queen-deluxe-anthology-updated",
+  "year": 2020,
+  "name": "Queen Deluxe Anthology, Updated",
+  "price_eur": 29.1,
+  "price_text": "€29.10",
+  "retailers": [
+    {
+      "name": "Waltons Music",
+      "url": "https://www.waltons.ie/home/products/view/11amus-hl00278683-queen-deluxe-anthology-updated/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.waltons.ie/home/products/view/11amus-hl00278683-queen-deluxe-anthology-updated/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w-rzPAb6fN4",
+      "channel": "VinylCollector James",
+      "duration": 1983.0,
+      "title": "QUEEN Studio Collection Vinyl Box Set"
+    },
+    {
+      "id": "G1VVvhiiX04",
+      "channel": "KRAZEEIZATION",
+      "duration": 941.0,
+      "title": "QUEEN DEEP CUTS COLLECTION (1, 2 & 3)"
+    },
+    {
+      "id": "k4V3l1sIfdg",
+      "channel": "James Rundle",
+      "duration": 768.0,
+      "title": "Queen Songbook and Guitar Tab Collection"
+    },
+    {
+      "id": "-dDck3ru6VM",
+      "channel": "Hal Leonard Piano, Guitar & Vocals",
+      "duration": 31.0,
+      "title": "Queen Platinum Collection - Complete Scores Collector's Edition"
+    },
+    {
+      "id": "nX5XJAqEGGw",
+      "channel": "QUEEN 78",
+      "duration": 99.0,
+      "title": "QUEEN- The Singles Collection 1-2-3-4 Box Set(2008/2010 EMI Mktg)"
+    }
+  ]
+}

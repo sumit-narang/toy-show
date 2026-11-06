@@ -1,0 +1,57 @@
+{
+  "id": "2024-ponycycle-brown-horse-ride-on-with-brakes",
+  "year": 2024,
+  "name": "PonyCycle Brown Horse Ride-On with Brakes",
+  "price_eur": 249.99,
+  "price_text": "€249.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/ride-ons/ponycycle-brown-horse-ride-on-with-brakes/p/231612"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/ride-ons/ponycycle-brown-horse-ride-on-with-brakes/p/231612",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MhYyGhKmCRg",
+      "channel": "Ashley | AMAZON FINDS",
+      "duration": 39.0,
+      "title": "Is the PonyCycle Ride on Toy Worth the cost?"
+    },
+    {
+      "id": "kUR6Nl4Jkp0",
+      "channel": "Biz Me",
+      "duration": 99.0,
+      "title": "SMART GEAR PONY Cycle White Unicorn Ride on Toy"
+    },
+    {
+      "id": "HBsHSVWHB4U",
+      "channel": "Biz Me",
+      "duration": 99.0,
+      "title": "SMART GEAR BLACK STALLION Pony Cycle"
+    },
+    {
+      "id": "TdEUOmltz8k",
+      "channel": "PonyCycle",
+      "duration": 42.0,
+      "title": "PonyCycle® Toy：Model U 2021 | new functions | brake | ride on horse | walking unicorn pink | review"
+    },
+    {
+      "id": "3YigyjJju30",
+      "channel": "PonyCycle",
+      "duration": 34.0,
+      "title": "PonyCycle toy (2020): Official Trailer |rides like a REAL pony|kids powered|ride on unicorn & horse"
+    }
+  ]
+}

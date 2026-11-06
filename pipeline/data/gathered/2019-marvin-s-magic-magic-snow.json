@@ -1,0 +1,60 @@
+{
+  "id": "2019-marvin-s-magic-magic-snow",
+  "year": 2019,
+  "name": "Marvin's Magic: Magic Snow",
+  "price_eur": 22.0,
+  "price_text": "€22.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/kids/toys-games/creativity/marvins-magic/magic-snow/143335879.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/electronics/marvins-magic/magic-snow/143335879.html",
+      "title": "MARVINS MAGIC Magic Snow - White",
+      "description": "Amaze friends and family by magically making snow appear! Just add water and watch the snow grow 100 times its size! Create beautiful snowy scenes perfect for decoration and great for play.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000144330_01.jpg?$product_tile_plp$",
+      "ld_description": "Amaze friends and family by magically making snow appear! Just add water and watch the snow grow 100 times its size! Create beautiful snowy scenes perfect for decoration and great for play.",
+      "brand": "MARVIN'S MAGIC",
+      "ld_image": "https://images.brownthomas.com/bta/2000144330_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XWibP4ASyVs",
+      "channel": "Marvin's Magic",
+      "duration": 31.0,
+      "title": "Marvin's Magic Snow"
+    },
+    {
+      "id": "lC7lvyqFAeY",
+      "channel": "Cols Carping UK",
+      "duration": 39.0,
+      "title": "Hamley's Magic Snow"
+    },
+    {
+      "id": "VPoMC8AIYmE",
+      "channel": "Pegani",
+      "duration": 31.0,
+      "title": "MARVIN'S MAGIC SNOW"
+    },
+    {
+      "id": "Oy5mHPcVf_s",
+      "channel": "SpecialtyToysNetwork",
+      "duration": 31.0,
+      "title": "Marvins Magic Snow"
+    },
+    {
+      "id": "IXTkxpHM2So",
+      "channel": "Matt Smith Magic",
+      "duration": 700.0,
+      "title": "CLASSIC MAGICAL MYSTERIES MAGIC SET REVIEW!!"
+    }
+  ]
+}

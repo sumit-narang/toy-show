@@ -1,0 +1,53 @@
+{
+  "id": "2017-frames-for-prints",
+  "year": 2017,
+  "name": "Frames for prints",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2ruzoEZhbJ4",
+      "channel": "Erik Fremstad",
+      "duration": 532.0,
+      "title": "SAVE MONEY!  How to Cut a Custom Mat for Your Artwork STEP-BY-STEP (Logan Bevel Mat Cutter)"
+    },
+    {
+      "id": "ytufwk_5YJ0",
+      "channel": "HGTV Home",
+      "duration": 397.0,
+      "title": "Make A Custom Floating Frame With Scrap Wood | DIY Floating Frame"
+    },
+    {
+      "id": "0wxpcfMB-qc",
+      "channel": "Adam Savage’s Tested",
+      "duration": 1774.0,
+      "title": "How To Professionally Frame Your Artwork at Home!"
+    },
+    {
+      "id": "c0l69OePDyA",
+      "channel": "Living with LK",
+      "duration": 2338.0,
+      "title": "How I Made Old Frames Look Chic—NOT DIY’d ✨ 20 EASY Framing Tricks"
+    },
+    {
+      "id": "8qGACDynTbw",
+      "channel": "The Wood Whisperer",
+      "duration": 1595.0,
+      "title": "DIY Floating Frames that Anyone Can Make!"
+    }
+  ]
+}

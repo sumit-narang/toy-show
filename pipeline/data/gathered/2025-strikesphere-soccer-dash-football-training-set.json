@@ -1,0 +1,57 @@
+{
+  "id": "2025-strikesphere-soccer-dash-football-training-set",
+  "year": 2025,
+  "name": "Strikesphere Soccer Dash Football Training Set",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/strikesphere-soccer-dash-football-training-set/p/250245"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/strikesphere-soccer-dash-football-training-set/p/250245",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MU1pXrn-oqk",
+      "channel": "strikesphere",
+      "duration": 65.0,
+      "title": "Strikesphere Soccer Dash Talking Head"
+    },
+    {
+      "id": "VeJRAIUr8MM",
+      "channel": "PROXY Toys",
+      "duration": 39.0,
+      "title": "Strikesphere Soccer Dash"
+    },
+    {
+      "id": "yevnGVP-D6E",
+      "channel": "strikesphere",
+      "duration": 32.0,
+      "title": "Strikesphere Soccer Dash TVC"
+    },
+    {
+      "id": "z8SD1ZuR-L0",
+      "channel": "Spectron Toys",
+      "duration": 16.0,
+      "title": "Soccer Dash - Interactive soccer trainer for dribbling and reaction speed"
+    },
+    {
+      "id": "8hEpn-fgd_w",
+      "channel": "Smyths Toys Superstores DE",
+      "duration": 20.0,
+      "title": "Strikesphere Soccer Dash Football Training Set - Smyths Toys Superstores DE"
+    }
+  ]
+}

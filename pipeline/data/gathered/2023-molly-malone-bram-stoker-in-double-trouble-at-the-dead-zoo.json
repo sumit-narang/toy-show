@@ -1,0 +1,60 @@
+{
+  "id": "2023-molly-malone-bram-stoker-in-double-trouble-at-the-dead-zoo",
+  "year": 2023,
+  "name": "Molly Malone & Bram Stoker in Double Trouble at the Dead Zoo",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/molly-malone-bram-stoker-in-double-trouble-at-the-dead-zoo-alan-nolan-9781788494342"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/molly-malone-bram-stoker-in-double-trouble-at-the-dead-zoo-alan-nolan-9781788494342",
+      "title": "Buy Molly Malone & Bram Stoker In Double Trouble At The Dead Zoo Book at Easons",
+      "description": "Dublin, 1859\n\nBram Stoker: Boy seeking adventure (and things to write about) \nMolly Malone: Part-time sneak thief and full-time Dublin legend!\n\nWhen Bram and his best pal Molly meet a lonely boy called Sanjit in Dublin's Natural History Museum, they can se",
+      "image": null,
+      "ld_description": "Dublin, 1859\n\nBram Stoker: Boy seeking adventure (and things to write about) \nMolly Malone: Part-time sneak thief and full-time Dublin legend!\n\nWhen Bram and his best pal Molly meet a lonely boy called Sanjit in Dublin's Natural History Museum, they can see he needs some friends. So they, along with Molly's gang, The Sackville Street Spooks, take him under their wing.\n\nSanjit tells them the tale of the dread (and very dead) pirate, Captain Lamprey and his links to the Museum. Soon the new shipmates find themselves outwitting vagabonds and villains, hot on the trail of a mysterious long-lost treasure … the Rajapur Ruby!\n\nBut little do they know that not everyone they come across is who they claim to be!\n\nWhere CAN that ruby be?",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/4cfb789b-c881-4652-9d88-e85edd9c682e/9781788494342_5642401106.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AEjKF3IAr_0",
+      "channel": "Google Play Books",
+      "duration": 1094.0,
+      "title": "Double Trouble at the Dead Zoo Book 2 by Alan Nolan · Audiobook preview"
+    },
+    {
+      "id": "1URIq5cvfwI",
+      "channel": "Alan Nolan",
+      "duration": 185.0,
+      "title": "Trailer: Molly Malone & Bram Stoker in the Curious Case of the Irish Yeti"
+    },
+    {
+      "id": "NGdgCsB3DAU",
+      "channel": "Alan Nolan",
+      "duration": 49.0,
+      "title": "Molly Malone & Bram Stoker in the Curious Case of the Irish Yeti"
+    },
+    {
+      "id": "AnzBfP4W-3I",
+      "channel": "Alan Nolan",
+      "duration": 43.0,
+      "title": "Molly Malone & Bram Stoker in The Sackville Street Caper"
+    },
+    {
+      "id": "1pvcA6rDC28",
+      "channel": "Alan Nolan",
+      "duration": 107.0,
+      "title": "Captain Lamprey's Pirate Shanty by Captain Lamprey & The Menagerie Crew"
+    }
+  ]
+}

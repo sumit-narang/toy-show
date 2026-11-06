@@ -1,0 +1,57 @@
+{
+  "id": "2024-woom-helmet",
+  "year": 2024,
+  "name": "Woom Helmet",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://donnybrookbikes.ie/shop/woom-helmet/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://donnybrookbikes.ie/shop/woom-helmet/",
+      "title": "Woom Helmet - Donnybrook Bikes",
+      "description": "Our helmet comes with a practical magnetic closure system and a whole host of innovative features to provide all-round protection for your child's head as well as maximum ventilation.",
+      "image": "https://donnybrookbikes.ie/wp-content/uploads/2021/03/Helmets-01.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d7w__pHKSek",
+      "channel": "woom",
+      "duration": 236.0,
+      "title": "Finding the right size bike helmet for your child ⛑️ | woom bikes"
+    },
+    {
+      "id": "Yz2ox_kpgIM",
+      "channel": "woom",
+      "duration": 114.0,
+      "title": "The READY Kids' Helmet by woom® | All-adventure ready"
+    },
+    {
+      "id": "zHKa9xw8UPM",
+      "channel": "Water and Wild",
+      "duration": 277.0,
+      "title": "Woom Kids' Bike Helmet Review"
+    },
+    {
+      "id": "CjxHfm8M3AY",
+      "channel": "Review My Stuff Now ",
+      "duration": 112.0,
+      "title": "Protect your kid's adventures with the Woom READY Kids' Helmet!"
+    },
+    {
+      "id": "hCTABWdkfG8",
+      "channel": "woom bikes USA",
+      "duration": 50.0,
+      "title": "The woom HELMET"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-mega-figurine-set",
+  "year": 2017,
+  "name": "Star Wars Mega Figurine Set",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l6_gBb5N2bY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 90.0,
+      "title": "Star Wars Mega Figurine 20 Piece Playset from The Disney Store"
+    },
+    {
+      "id": "7qlb0Obh3hE",
+      "channel": "Dougalorian - Toy Figure Collector",
+      "duration": 710.0,
+      "title": "Mega Figurines for Star Wars and Marvel"
+    },
+    {
+      "id": "_9sYfxy-T-E",
+      "channel": "regjuvenate",
+      "duration": 241.0,
+      "title": "Disney Store Exclusive Star Wars Mega Figurine Set | Prequel and Original Trilogy"
+    },
+    {
+      "id": "iXKqGIcMPZk",
+      "channel": "UKToyCollector1977",
+      "duration": 167.0,
+      "title": "STAR WARS DISNEY STORE MEGA FIGURINE PLAYSET"
+    },
+    {
+      "id": "jk_w29IgnCg",
+      "channel": "LukeForever",
+      "duration": 894.0,
+      "title": "MEGA STAR WARS TOY HAUL REVIEW!!! (30th Anniversary, Saga Collection, TVC Figures, Etc;)"
+    }
+  ]
+}

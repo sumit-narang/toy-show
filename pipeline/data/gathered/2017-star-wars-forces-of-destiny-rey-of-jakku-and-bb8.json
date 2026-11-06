@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-forces-of-destiny-rey-of-jakku-and-bb8",
+  "year": 2017,
+  "name": "Star Wars Forces of Destiny Rey of Jakku and BB8",
+  "price_eur": 33.0,
+  "price_text": "€33.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eBrWfXQJP7g",
+      "channel": "Mommy's DollCorner",
+      "duration": 543.0,
+      "title": "Star Wars Forces of Destiny Rey of Jakku and BB-8 Doll Review"
+    },
+    {
+      "id": "_u_4j_YvuXc",
+      "channel": "Toy Shelf Review",
+      "duration": 564.0,
+      "title": "Star Wars Forces of Destiny Rey Jakku"
+    },
+    {
+      "id": "1OX0uP6sJcs",
+      "channel": "UltimateToyCollector",
+      "duration": 657.0,
+      "title": "Unboxing Hasbro's Star Wars Forces of Destiny: Rey of Jakku & BB 8"
+    },
+    {
+      "id": "sUHDqn6zbXQ",
+      "channel": "Monkey Cookie",
+      "duration": 428.0,
+      "title": "Star Wars Forces of Destiny| Rey of Jakku and BB-8"
+    },
+    {
+      "id": "iEFyx7-M89s",
+      "channel": "610 Hobbies",
+      "duration": 1069.0,
+      "title": "Unboxing: Star Wars - Forces of Destiny: Rey of Jakku & BB-8"
+    }
+  ]
+}

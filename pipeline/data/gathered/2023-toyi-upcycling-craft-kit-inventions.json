@@ -1,0 +1,23 @@
+{
+  "id": "2023-toyi-upcycling-craft-kit-inventions",
+  "year": 2023,
+  "name": "TOYI Upcycling Craft Kit 'Inventions'",
+  "price_eur": 33.27,
+  "price_text": "€33.27",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/toyi-craft-kit-inventions"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://jiminy.ie/products/toyi-craft-kit-inventions"
+    }
+  ],
+  "video_candidates": []
+}

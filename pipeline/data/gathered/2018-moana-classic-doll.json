@@ -1,0 +1,57 @@
+{
+  "id": "2018-moana-classic-doll",
+  "year": 2018,
+  "name": "Moana Classic Doll",
+  "price_eur": 16.0,
+  "price_text": "€16.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cdMRfPATv0U",
+      "channel": "Cupcake Toys And Art ",
+      "duration": 564.0,
+      "title": "Disney store Moana classic doll review recorded on the 4th of April my birthday"
+    },
+    {
+      "id": "Ok22d5xSSkQ",
+      "channel": "Chaymie Creates",
+      "duration": 376.0,
+      "title": "Disney Moana Classic Doll Review & Unboxing - Disney Store"
+    },
+    {
+      "id": "fKvshqMXh9A",
+      "channel": "WTI",
+      "duration": 67.0,
+      "title": "Disney Store Moana Doll for Kids | Our Point Of View"
+    },
+    {
+      "id": "icZXICi8UYU",
+      "channel": "Dazzling Diamond14",
+      "duration": 274.0,
+      "title": "Disney Store Moana Original Classic Doll Review"
+    },
+    {
+      "id": "1iA15k7z27U",
+      "channel": "Enchanted Dill ♥️ Disney Dolls and More",
+      "duration": 1415.0,
+      "title": "Moana Disney Story Doll Review / Unboxing 🌊🥥 Disney Princess"
+    }
+  ]
+}

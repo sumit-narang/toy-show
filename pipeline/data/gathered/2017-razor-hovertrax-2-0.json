@@ -1,0 +1,64 @@
+{
+  "id": "2017-razor-hovertrax-2-0",
+  "year": 2017,
+  "name": "Razor Hovertrax 2.0",
+  "price_eur": 439.99,
+  "price_text": "€439.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l_JSxq-Vl3w",
+      "channel": "RazorWorldwide",
+      "duration": 86.0,
+      "title": "Razor Presents: Hovertrax™ 2.0"
+    },
+    {
+      "id": "yR55YG4t7jQ",
+      "channel": "StreetSaw Hoverboards",
+      "duration": 56.0,
+      "title": "Razor Hovertrax 2.0 is Dangerous! Wheels Move on their Own!"
+    },
+    {
+      "id": "lPLHdKKoUbQ",
+      "channel": "RazorWorldwide",
+      "duration": 117.0,
+      "title": "Razor Hovertrax 2.0 Hoverboard Ride Video"
+    },
+    {
+      "id": "Un7gNe3aLsg",
+      "channel": "Pluvia Machina",
+      "duration": 596.0,
+      "title": "A Thorough Review of the Razor Hovertrax 2.0 (After 2+ Years)"
+    },
+    {
+      "id": "79b_8wsE28Y",
+      "channel": "RazorWorldwide",
+      "duration": 92.0,
+      "title": "How to Calibrate the Hovertrax 2.0 Hoverboard"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2020-65cm-ernie-se100",
+  "year": 2020,
+  "name": "65cm Ernie SE100",
+  "price_eur": 90.0,
+  "price_text": "€90.00",
+  "retailers": [
+    {
+      "name": "Duffy's Toy World",
+      "url": "https://www.duffystoyworld.ie/product-page/ernie-se100"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://duffystoyworld.ie/product-page/ernie-se100"
+    }
+  ],
+  "video_candidates": []
+}

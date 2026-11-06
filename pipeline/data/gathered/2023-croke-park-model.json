@@ -1,0 +1,60 @@
+{
+  "id": "2023-croke-park-model",
+  "year": 2023,
+  "name": "Croke Park Model",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Cogs the Brain Shop",
+      "url": "https://www.cogstoysandgames.ie/products/croke-park-3d-puzzle"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/croke-park-3d-puzzle",
+      "title": "Croke Park 3D Puzzle",
+      "description": "Build your own 135-piece 3D model of Croke Park. No glue or tools needed! A must-have for GAA fans aged 7+ at Cogs Toys & Games Ireland.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/Croke-Park-3D-puzzle-packshot-cogs-1.jpg?v=1699823709",
+      "ld_description": "Croke Park 3D Puzzle\n\n\nOfficially licensed 3D puzzle of Croke Park stadium, perfect for GAA fans of all ages. 🏟️\n\n\nContains 135 durable pieces with precise detailing—no scissors, tools, or glue required.\n\n\nRecommended for ages 7+; not suitable for children under 36 months due to small parts (choking hazard).\n\n\nAverage build time is around 2 hours, making it a great family or collector’s project.\n\n\nCompleted model measures 38cm x 34cm x 9cm and is a true-to-life replica.\n\n\nThis Croke Park puzzle celebrates Ireland’s iconic GAA stadium, offering hours of rewarding, hands-on building fun for sports fans. 🌟",
+      "brand": "Pro-Lion",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O7qXWGRB2XY",
+      "channel": "Croke Park",
+      "duration": 393.0,
+      "title": "Primary School Virtual Tour"
+    },
+    {
+      "id": "kCrBYMmPryg",
+      "channel": "RTÉ Sport",
+      "duration": 441.0,
+      "title": "Katie Taylor's final ringwalk at Croke Park | RTÉ Sport"
+    },
+    {
+      "id": "lSGaVqUSEu8",
+      "channel": "Croke Park",
+      "duration": 173.0,
+      "title": "Welcome to Croke Park"
+    },
+    {
+      "id": "wLA8byKMWAs",
+      "channel": "RTÉ News",
+      "duration": 120.0,
+      "title": "Roof-top Tour of Croke Park"
+    },
+    {
+      "id": "cX4ka-5j2vU",
+      "channel": "docathail",
+      "duration": 244.0,
+      "title": "The Anthems from Ireland vs England at Croke Park"
+    }
+  ]
+}

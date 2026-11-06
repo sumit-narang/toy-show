@@ -1,0 +1,60 @@
+{
+  "id": "2023-lulu-s-nana-visits",
+  "year": 2023,
+  "name": "Lulu's Nana Visits",
+  "price_eur": 18.19,
+  "price_text": "€18.19",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/lulus-nana-visits-9781907825514"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/lulus-nana-visits-9781907825514",
+      "title": "Lulu's Nana Visits - Dubray Books",
+      "description": "Lulu loves when her Nana visits and can't wait for all the family fun. The family spends the week shopping for presents for family back in Tanzania, having dance parties, and making special mandazi doughnuts. Nana-Bibi tells Lulu about all the things she used to do with her Nana.",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Lulu loves when her Nana visits and can't wait for all the family fun. The family spends the week shopping for presents for family back in Tanzania, having dance parties, and making special mandazi doughnuts. Nana-Bibi tells Lulu about all the things she used to do with her Nana.",
+      "brand": "Anna McQuinn",
+      "ld_image": "https://media.dubraybooks.ie/asset/2d65c746-51c5-4261-a95e-1bc38dc3ac53/9781907825514_5643117686.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l8HPnZOFlKw",
+      "channel": "Kids Book Corner",
+      "duration": 143.0,
+      "title": "Lulu’s nana visits"
+    },
+    {
+      "id": "mIDgOBbS9UU",
+      "channel": "Baby Alive Dolls & Cartoons For Kids Official",
+      "duration": 1256.0,
+      "title": "Lulu's New Tooth! 🦷 | Full Episodes | Animation for Kids | Baby Alive Official 🍼👶🏼"
+    },
+    {
+      "id": "QCPEecC8P1Q",
+      "channel": "Baby Alive Dolls & Cartoons For Kids Official",
+      "duration": 3228.0,
+      "title": "Lulu's Trip to the Dentist! 🦷 Baby Alive Official 🍼 Funny Cartoons for Kids ✨ Kids Videos 💕"
+    },
+    {
+      "id": "04es1RyM6Bc",
+      "channel": "CRISPR Classroom",
+      "duration": 117.0,
+      "title": "The short story of Lulu and Nana"
+    },
+    {
+      "id": "XcCXVScpAaQ",
+      "channel": "Milkshake!",
+      "duration": 190.0,
+      "title": "Kiera Reads 'Lulu's First Day' by Anna McQuinn | Story Den | Milkshake!"
+    }
+  ]
+}

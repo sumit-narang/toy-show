@@ -1,0 +1,64 @@
+{
+  "id": "2017-hot-wheels-20-car-pack-assortment",
+  "year": 2017,
+  "name": "Hot Wheels 20 Car Pack Assortment",
+  "price_eur": 36.99,
+  "price_text": "€36.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FDLKHu6PQXY",
+      "channel": "PLAY WITH TOYS  🏎️",
+      "duration": 425.0,
+      "title": "Hotwheels 20 car pack unboxing"
+    },
+    {
+      "id": "uYSPCnUV-HY",
+      "channel": "Orange Track TV Hot Wheels",
+      "duration": 980.0,
+      "title": "Opening 20 Pack of Hot Wheels"
+    },
+    {
+      "id": "UZIvbziHEwY",
+      "channel": "Milton's Motors",
+      "duration": 1777.0,
+      "title": "Unboxing 2026 Hot Wheels 20 Pack #1!"
+    },
+    {
+      "id": "Tey_Alu2JKY",
+      "channel": "Chasing Diecast Cars",
+      "duration": 1210.0,
+      "title": "2026 Hot Wheels 20-pack: what's in it will surprise you! + 8-packs with plenty multipack exclusives"
+    },
+    {
+      "id": "tzi4zZdhHck",
+      "channel": "Milton's Motors",
+      "duration": 1041.0,
+      "title": "Unboxing 2025 Hot Wheels 20-Pack; MULTIPLE EXCLUSIVE CARS!!"
+    }
+  ]
+}

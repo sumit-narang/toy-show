@@ -1,0 +1,54 @@
+{
+  "id": "2022-match-attax",
+  "year": 2022,
+  "name": "Match Attax",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Book Centre",
+      "url": "https://www.thebookcentre.ie/match-attax?_ga=2.89240155.1715105340.1669401088-1174765892.1669401088"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.thebookcentre.ie/match-attax?_ga=2.89240155.1715105340.1669401088-1174765892.1669401088"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vZnJ9Y_YMis",
+      "channel": "Luke Solve Collectibles",
+      "duration": 677.0,
+      "title": "I Spent £10,000 on Match Attax and Found _______"
+    },
+    {
+      "id": "fC6GSlx0_pw",
+      "channel": "Match Attax",
+      "duration": 188.0,
+      "title": "Match Attax |  'How To Play' Special"
+    },
+    {
+      "id": "6gRTOgxfJak",
+      "channel": "Artison23 Collects",
+      "duration": 391.0,
+      "title": "🤯 MY COMPLETE MATCH ATTAX 25/26 COLLECTION! 🔥 BINDER UPDATE & RARE HITS! ⚽️"
+    },
+    {
+      "id": "8MtklAHcESQ",
+      "channel": "Jack's Fun Shack",
+      "duration": 610.0,
+      "title": "Match Attax Unboxing - Hit the target, Open a pack!"
+    },
+    {
+      "id": "Qe79iBlNKm8",
+      "channel": "S2G Collects and S2G",
+      "duration": 1870.0,
+      "title": "I Opened 100 Match Attax Packs..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2017-breaking-ball-gaa-boardgame",
+  "year": 2017,
+  "name": "Breaking Ball GAA BoardGame",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "GAABoardgames.com",
+      "url": "http://GAABoardgames.com"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zFBh8hkrff0",
+      "channel": "The Lucky Roll",
+      "duration": 546.0,
+      "title": "Breaking Ball - Gaelic Football Board Game - REVIEW"
+    },
+    {
+      "id": "23czv2VgoIY",
+      "channel": "Gaelic BoardGames",
+      "duration": 76.0,
+      "title": "BREAKING BALL GAA BOARD GAME - Whats in the Box!!"
+    },
+    {
+      "id": "7bv8TxrWlgo",
+      "channel": "Gaelic BoardGames",
+      "duration": 74.0,
+      "title": "1 Breaking Ball - Setting Up a Game"
+    },
+    {
+      "id": "26P1KyvrmjI",
+      "channel": "Mark Rober",
+      "duration": 1734.0,
+      "title": "I Solved Every Board Game"
+    },
+    {
+      "id": "pj3Y_M94hPM",
+      "channel": "Ben Azelart and Stay Wild",
+      "duration": 2440.0,
+      "title": "Giant YouTuber Board Game In Real Life!"
+    }
+  ]
+}

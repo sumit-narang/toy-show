@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-sensory-walker",
+  "year": 2017,
+  "name": "ELC Sensory Walker",
+  "price_eur": 67.99,
+  "price_text": "€67.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yuJzebJXteA",
+      "channel": "Early Learning Centre",
+      "duration": 46.0,
+      "title": "Little Senses Light and Sound Sensory Walker (6 months+) Early Learning Centre"
+    },
+    {
+      "id": "NMAyFUhzYNg",
+      "channel": "Early Learning Centre",
+      "duration": 60.0,
+      "title": "Early Learning Centre - Brilliant Start Lights and Sounds Walker"
+    },
+    {
+      "id": "3kFJuvR9o98",
+      "channel": "ELC Toys",
+      "duration": 46.0,
+      "title": "Little Senses Sensory Walker"
+    },
+    {
+      "id": "R6ypXSpFv0Y",
+      "channel": "Fideltoys",
+      "duration": 129.0,
+      "title": "ELC Brilliant Walker"
+    },
+    {
+      "id": "BvxvXX-MkBk",
+      "channel": "Early Learning Centre Indonesia",
+      "duration": 46.0,
+      "title": "ELC Indonesia - Serunya Belajar Berjalan dengan Little Senses Light and Sounds Sensory Walker"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-great-gizmos-knitting-art",
+  "year": 2019,
+  "name": "Great Gizmos Knitting Art",
+  "price_eur": 36.0,
+  "price_text": "€36.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting/1600424610.prd"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting/1600424610.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kwF7yLQv22Q",
+      "channel": "Great Gizmos",
+      "duration": 37.0,
+      "title": "Create Your Own Crochet Animal Brooches"
+    },
+    {
+      "id": "QnLfvknY5KM",
+      "channel": "Good Morning America",
+      "duration": 242.0,
+      "title": "Giant knitting art helped mom overcome depression and grief l GMA"
+    },
+    {
+      "id": "3i6hOuKyRdU",
+      "channel": "ExpressionFiberArts",
+      "duration": 502.0,
+      "title": "How to Knit this GORGEOUS Shawl! Easy Beginner Knitting Pattern"
+    },
+    {
+      "id": "ES7gTLtcEVs",
+      "channel": "LoveCrafts",
+      "duration": 686.0,
+      "title": "How to Knit Intarsia #craftwithme"
+    },
+    {
+      "id": "1LW8nWC1bD0",
+      "channel": "ExpressionFiberArts",
+      "duration": 497.0,
+      "title": "SO EASY - Beginner Summer Lace Shawl w/ a Unique Technique!"
+    }
+  ]
+}

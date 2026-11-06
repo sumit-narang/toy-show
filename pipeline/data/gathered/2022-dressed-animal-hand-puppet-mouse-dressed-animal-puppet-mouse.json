@@ -1,0 +1,57 @@
+{
+  "id": "2022-dressed-animal-hand-puppet-mouse-dressed-animal-puppet-mouse",
+  "year": 2022,
+  "name": "Dressed Animal Hand Puppet - Mouse Dressed Animal Puppet Mouse",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/",
+      "title": "Mimitoys.ie | Quality Toys, Puppets & Educational Toys in Ireland",
+      "description": "Shop quality toys, puppets, arts and crafts, role play toys and educational gifts at Mimitoys.ie. Trusted for over 20 years by Irish parents, teachers, childcare providers and play therapists. Irish-owned online toy shop with real stock in Ireland and fast delivery nationwide.",
+      "image": "http://mimitoys.ie/cdn/shop/files/Mimitoys_Social_Share_Image.webp?v=1683541818"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "llhxyyk2TwE",
+      "channel": "CraftISH Corner",
+      "duration": 288.0,
+      "title": "How to make a mouse mask | DIY rat/mouse mask with paper"
+    },
+    {
+      "id": "JGRUKdiUrfU",
+      "channel": "San Marcos Public Library",
+      "duration": 343.0,
+      "title": "The Lion and the Mouse - Children's Puppet Show"
+    },
+    {
+      "id": "aLTTtX3ML84",
+      "channel": "Shridhar M",
+      "duration": 19.0,
+      "title": "Fancy dress duck"
+    },
+    {
+      "id": "aOG7sbrCHv4",
+      "channel": "Baker Ross",
+      "duration": 94.0,
+      "title": "How to make a Rat Sock Puppet | Chinese New Year Crafts"
+    },
+    {
+      "id": "zZuV7IfpY2k",
+      "channel": "Shemark Crafts",
+      "duration": 179.0,
+      "title": "How To Make a Sock Puppet?"
+    }
+  ]
+}

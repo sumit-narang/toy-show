@@ -1,0 +1,54 @@
+{
+  "id": "2018-gelli-worlds-dino-pack",
+  "year": 2018,
+  "name": "Gelli Worlds Dino Pack",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "alRMYJ_jRYE",
+      "channel": "Kidspeak UK",
+      "duration": 402.0,
+      "title": "Gelli Worlds Dino Pack by Zimpli Kids #ad"
+    },
+    {
+      "id": "FfeOgW168iA",
+      "channel": "OzToyReviews",
+      "duration": 702.0,
+      "title": "Gelli Worlds DINO PACK!  Opening and Review  |   Instantly turn water in to Jelly Crystals!!"
+    },
+    {
+      "id": "s4kuJtNv5G4",
+      "channel": "Lucas' Show with Lucy!",
+      "duration": 219.0,
+      "title": "Kids Gelli Fun - Gelli Worlds Dino Pack - Zimpli Kids - Lucas' Show - Slime fun - Kids Dinosaurs"
+    },
+    {
+      "id": "9LQAzwi45aY",
+      "channel": "Viviana Divertiamoci 76",
+      "duration": 441.0,
+      "title": "Gelli Worlds - Dino Pack"
+    },
+    {
+      "id": "5j16y4dW2Zs",
+      "channel": "untuk de el",
+      "duration": 66.0,
+      "title": "Gelli worlds “Dino Pack”"
+    }
+  ]
+}

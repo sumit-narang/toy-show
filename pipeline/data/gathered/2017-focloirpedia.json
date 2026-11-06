@@ -1,0 +1,22 @@
+{
+  "id": "2017-focloirpedia",
+  "year": 2017,
+  "name": "Focloirpedia",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": []
+}

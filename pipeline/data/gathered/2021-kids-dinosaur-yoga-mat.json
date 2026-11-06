@@ -1,0 +1,54 @@
+{
+  "id": "2021-kids-dinosaur-yoga-mat",
+  "year": 2021,
+  "name": "Kids Dinosaur Yoga Mat",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Mr. Price",
+      "url": "https://www.mrpriceonline.ie/product/kids-dinosaur-yoga-mat/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sjq2OPw3AMQ",
+      "channel": "Cosmic Kids Yoga",
+      "duration": 1006.0,
+      "title": "Dinosaur Yoga for Kids! Dinosaur Park | A Cosmic Kids Yoga Adventure!"
+    },
+    {
+      "id": "Y_qr15LQ6kI",
+      "channel": "Yogapalooza with Bari Koral",
+      "duration": 301.0,
+      "title": "Dinosaur Yoga! March, Stretch, Breathe and Roar like a Dinosaur!"
+    },
+    {
+      "id": "ctDboS9Zq18",
+      "channel": "Coach Brenda Becker",
+      "duration": 293.0,
+      "title": "Dinosaur Yoga | Calming yoga for Kids | PE Cool Down | Brain Break"
+    },
+    {
+      "id": "n5-u4RMoGjE",
+      "channel": "YogaQuest Kids",
+      "duration": 209.0,
+      "title": "Dinosaur Yoga for Kids 🦕 5 Roaring Dino Poses for Little Explorers"
+    },
+    {
+      "id": "dg84wx6PPPI",
+      "channel": "Miss Linky",
+      "duration": 862.0,
+      "title": "Dinosaur Exercise for Kids | The Floor is Lava Game| Indoor Workout for Children"
+    }
+  ]
+}

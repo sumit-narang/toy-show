@@ -1,0 +1,57 @@
+{
+  "id": "2024-irish-bracelet-weaving-set",
+  "year": 2024,
+  "name": "Irish Bracelet Weaving Set",
+  "price_eur": 24.0,
+  "price_text": "€24",
+  "retailers": [
+    {
+      "name": "Pop Out Projects",
+      "url": "https://www.popoutprojects.com/products/bracelet-weaving-kits"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.popoutprojects.com/products/bracelet-weaving-kits",
+      "title": "Bracelet weaving kits",
+      "description": "Create unique, handmade bracelets with our weaving kit. Perfect for beginners, it includes a frame loom, colorful yarns, and step-by-step instructions. Designed and made in Ireland from premium birch and featuring 100% Irish grown and spun yarn. With this beautiful sustainable kit you can craft unique, personalized woven jewelry with ease. UP to 50 designs included. For ages 8+",
+      "image": "http://www.popoutprojects.com/cdn/shop/files/rn-image_picker_lib_temp_5068e2ca-a570-403e-9f76-14090062fdc6.jpg?v=1773749018&width=1024"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "D3t84S273SQ",
+      "channel": "Nidhi Surana Bead Jewellery",
+      "duration": 939.0,
+      "title": "🌟 Celtic Knot Jewellery Set || Seed bead Jewelry making step by step Tutorial."
+    },
+    {
+      "id": "POn_BHjKh_0",
+      "channel": "MACRAME MAGIC KNOTS",
+      "duration": 2408.0,
+      "title": "Macrame Celtic Knot Bracelet Tutorial"
+    },
+    {
+      "id": "yGYiofrFIs0",
+      "channel": "Khang By",
+      "duration": 93.0,
+      "title": "Celtic Bracelets"
+    },
+    {
+      "id": "rMTe3vOA7D4",
+      "channel": "sainabaft",
+      "duration": 743.0,
+      "title": "Celtic Style Men's Bracelet Tutorial | Boho Style Macrame Bracelet"
+    },
+    {
+      "id": "vIIZFVvocw8",
+      "channel": "TRYL",
+      "duration": 264.0,
+      "title": "Girl's Creator Toy Bracelet Braiding Kit"
+    }
+  ]
+}

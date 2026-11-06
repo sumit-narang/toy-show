@@ -1,0 +1,51 @@
+{
+  "id": "2019-gangsta-granny-mental-maths-game",
+  "year": 2019,
+  "name": "Gangsta Granny Mental Maths Game",
+  "price_eur": null,
+  "price_text": "£8.20",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Gangsta-Grannys-Mental-Maths-Games/dp/B07DVGS96R"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Gangsta-Grannys-Mental-Maths-Games/dp/B07DVGS96R",
+      "title": "Lagoon Group Gangsta Granny's Mental Maths Games, Nylon/a : Amazon.co.uk: Toys & Games",
+      "description": "A collection of engaging mental math games where players add, subtract, or multiply to get high scores. Ideal for ages 5-11, with Gangsta Granny illustrations.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TmOZcqSxxrk",
+      "channel": "Glasgow’s Improvement Challenge",
+      "duration": 170.0,
+      "title": "Primary 5 Games Project - Gangsta Granny Mental Maths"
+    },
+    {
+      "id": "njPogX3-guI",
+      "channel": "Mr O : Board Games, Books & Educational Mischief",
+      "duration": 497.0,
+      "title": "CHEAT! | Mr O Plays... David Walliams Games 3 #cheat #davidwalliams"
+    },
+    {
+      "id": "iVxHr3MmnrQ",
+      "channel": "Mr O : Board Games, Books & Educational Mischief",
+      "duration": 730.0,
+      "title": "I Tried the GANGSTA GRANNY Game (And It’s Pretty Good!)"
+    },
+    {
+      "id": "X8h6N8pC-f4",
+      "channel": "UnizGalaxy",
+      "duration": 63.0,
+      "title": "Skitzo turns a friend of cartoon cat #skitzo #cartooncat"
+    }
+  ]
+}

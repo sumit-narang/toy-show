@@ -1,0 +1,60 @@
+{
+  "id": "2023-dorothy-plush-white-cat",
+  "year": 2023,
+  "name": "Dorothy Plush (White Cat)",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/yabu-tinyk-dorothy-cat-purple-posters-merchandise"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goldendiscs.ie/products/yabu-tinyk-dorothy-cat-purple-posters-merchandise",
+      "title": "Kenji Yabu Tiny-K Dorothy Cat - Purple [Toys]",
+      "description": "Kenji Yabu Tiny-K Dorothy Cat - Purple [Toys]",
+      "image": "http://goldendiscs.ie/cdn/shop/products/DOROTHY-A_2048x_20ecf463-b4a9-4213-81b7-4a2123db9f62.png?v=1691137411",
+      "ld_description": "Kenji Yabu Tiny-K Dorothy Cat - Purple [Toys]",
+      "brand": "Golden Discs",
+      "ld_image": "https://goldendiscs.ie/cdn/shop/products/DOROTHY-A_2048x_20ecf463-b4a9-4213-81b7-4a2123db9f62.png?v=1691137411&width=512"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J77ntTmZvR8",
+      "channel": "Avocado Handmade",
+      "duration": 1600.0,
+      "title": "Crochet CAT -  P1 #cat #amigurumi #handmade #crochet"
+    },
+    {
+      "id": "fMlMn2dIYUo",
+      "channel": "Simon's Cat",
+      "duration": 604.0,
+      "title": "THE ORIGINS STORY - Full Colour Special"
+    },
+    {
+      "id": "cVKzhmXs8Ks",
+      "channel": "British Pathé",
+      "duration": 191.0,
+      "title": "Cat's Accessories (1965)"
+    },
+    {
+      "id": "J_He-z9wFus",
+      "channel": "Michael Burton",
+      "duration": 123.0,
+      "title": "👠👠 Madame Alexander Wizard Of Oz Plush Dolls 🏡 - Wizard Of Oz Collection"
+    },
+    {
+      "id": "LOUnADItacA",
+      "channel": "Adora",
+      "duration": 55.0,
+      "title": "Adora Dolls - White Daisies"
+    }
+  ]
+}

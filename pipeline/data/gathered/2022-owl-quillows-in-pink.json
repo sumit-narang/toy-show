@@ -1,0 +1,54 @@
+{
+  "id": "2022-owl-quillows-in-pink",
+  "year": 2022,
+  "name": "Owl Quillows in pink",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Hana Lee Studios",
+      "url": "https://hanaleestudios.ie/collections/baby-children/products/owl-quillows-pink"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://hanaleestudios.ie/collections/baby-children/products/owl-quillows-pink"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KgD26ZRTAQg",
+      "channel": "BERNINA of Naperville",
+      "duration": 924.0,
+      "title": "Block Of The Month: #3 Owl"
+    },
+    {
+      "id": "3YfMc8XWQOo",
+      "channel": "Gma Alice",
+      "duration": 104.0,
+      "title": "Frog quilt and owl crinkle toy"
+    },
+    {
+      "id": "TipQKzIgsNs",
+      "channel": "The Crafty Author",
+      "duration": 1638.0,
+      "title": "EASY RAG QUILT QUILLOW"
+    },
+    {
+      "id": "as_IUHXR3oA",
+      "channel": "Missouri Star",
+      "duration": 630.0,
+      "title": "Make a Soft Pillow Quilt!  Quilting with Cuddle Cloth (Minky Fabric)"
+    },
+    {
+      "id": "-FDy8wTwPb0",
+      "channel": "Chantia Sales",
+      "duration": 46.0,
+      "title": "Chantiasales - 2IN1 PILLOW/BLANKET"
+    }
+  ]
+}

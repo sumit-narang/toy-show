@@ -1,0 +1,54 @@
+{
+  "id": "2021-batman-bat-tech-batcave-giant-transforming-playset",
+  "year": 2021,
+  "name": "Batman Bat-Tech Batcave Giant Transforming Playset",
+  "price_eur": 139.99,
+  "price_text": "€139.99",
+  "retailers": [
+    {
+      "name": "Fagans Toys",
+      "url": "https://www.fagantoys.ie/batman-bat-tech-batcave-giant-transforming-playset-with-4-batman"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 453,
+      "final_url": "https://www.fagantoys.ie/batman-bat-tech-batcave-giant-transforming-playset-with-4-batman"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-eQAVKotZVA",
+      "channel": "Spin Master",
+      "duration": 520.0,
+      "title": "Unboxing the BATMAN Bat-Tech Giant Transforming Batcave Playset - How to Assemble | Toys For Kids"
+    },
+    {
+      "id": "MXp7RM__dz4",
+      "channel": "Kluztaphukd ",
+      "duration": 467.0,
+      "title": "Batman bat-tech giant batcave playset review and thoughts. Full set up at the end! #toys"
+    },
+    {
+      "id": "MozAJC4pO9o",
+      "channel": "fanboysforever",
+      "duration": 1537.0,
+      "title": "Batman IS the Batcave?!  Spin Master Bat Tech Batcave Review!"
+    },
+    {
+      "id": "nn0wi98wid0",
+      "channel": "Spin Master",
+      "duration": 470.0,
+      "title": "How to assemble the TRANSFORMING BAT-TECH BATCAVE!"
+    },
+    {
+      "id": "h82Pum4LnrI",
+      "channel": "The Entertainer Egypt ",
+      "duration": 20.0,
+      "title": "Batman, Bat-Tech Batcave, Giant Transforming Playset"
+    }
+  ]
+}

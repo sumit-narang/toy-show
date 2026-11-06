@@ -1,0 +1,54 @@
+{
+  "id": "2022-monster-jam-megalodon-car",
+  "year": 2022,
+  "name": "Monster Jam Megalodon car",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/monster-jam-megalodon-42134"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/monster-jam-megalodon-42134"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3MKdIUtH-QQ",
+      "channel": "Kevin Talbot",
+      "duration": 1010.0,
+      "title": "Mini Monster Jam Truck BACKFLIPS"
+    },
+    {
+      "id": "xpuO_G8Bb4Q",
+      "channel": "Monster Jam",
+      "duration": 31.0,
+      "title": "Megalodon Storm All-Terrain Remote Control Monster Truck | Monster Jam"
+    },
+    {
+      "id": "4vSMvhRS2RQ",
+      "channel": "Stasiun Monsta Jam ",
+      "duration": 509.0,
+      "title": "HOT WHEELS Monster Jam, GraveDigger, Megalodon, Mutt, Monster Truck in the Flowing Stream! 🌊💥"
+    },
+    {
+      "id": "kRmInOi3Wvc",
+      "channel": "KIDS2KIDS",
+      "duration": 1925.0,
+      "title": "Monster Jam RC Trucks - MEGA MEGALODON RC CHALLENGE vs. Mega El Toro Loco & Mega Grave Digger"
+    },
+    {
+      "id": "PUJGFGq9GRc",
+      "channel": "Monster Jam Kids",
+      "duration": 175.0,
+      "title": "How to Do Stunts with the Megalodon Storm RC!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-bruder-tipping-trailer",
+  "year": 2025,
+  "name": "Bruder Tipping Trailer",
+  "price_eur": 24.0,
+  "price_text": "€24",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-tipping-trailer2"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-tipping-trailer2",
+      "title": "Bruder Tipping Trailer Removable Top | Clarkes of Cavan",
+      "description": "Shop Bruder Tipping Trailer Removable Top at Clarkes of Cavan. A realistic Bruder farm toy for hands-on play. Available online in Ireland.",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/csm02010-a37bcd105ba.webp?crop=center&height=1200&v=1786110313&width=1200",
+      "ld_description": "Item Description\n\nThe gates of the tipping tandem axle trailer can be opened up on three sides. Also, the grain outlet slide can be opened and the top retaining gates are removable. A stabiliser ensures stability and tread tyres complete the picture. The tandem axle tipping trailer can be combined with all tractors of the Profi series (not included).\n\nHighlights\n\nautomotive body\n\n\n\n\tremovable top\n\tside gates open up on three sides\n\ttipping trailer\n\tfolding stabilizer\n\n< /div>\n\nchassis\n\n\n\n\ttread tyres\n\n\n\nmotion/function\n\n\n\tThe fertilizer spreader outlet slide opens and closes\n\n\ncommon\n\n\n\tWARNING! Not suitable for children under 36 months. Choking hazard - small parts.\n\tRecommended age: suitable from 3 years upwards for playing indoors and outdoors\n\tmanufactured from high-quality plastics such as ABS\n\tMade by Bruder\n\tScale 1:16",
+      "brand": "Bruder",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/csm02010-a37bcd105ba.webp?v=1786110313&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HKbmgPt0b0o",
+      "channel": "Bruder Toys",
+      "duration": 37.0,
+      "title": "Bruder Toys Joskin Tipping Trailer #02212"
+    },
+    {
+      "id": "F0-ylCwHMto",
+      "channel": "Georgieframe",
+      "duration": 139.0,
+      "title": "Bruder tipping trailer with WPL B16 rc car"
+    },
+    {
+      "id": "_WXnIax_ACw",
+      "channel": "Bruder Toys",
+      "duration": 10.0,
+      "title": "Bruder Toys Dumping Trailer #02019"
+    },
+    {
+      "id": "hP6oqmLle8Q",
+      "channel": "Bruder Toys",
+      "duration": 14.0,
+      "title": "Bruder Toys Tipping Trailer (Red) #02211"
+    },
+    {
+      "id": "oe7KgwZrDCk",
+      "channel": "Bruder Toys",
+      "duration": 53.0,
+      "title": "Bruder Toys Fendt Favorit 926 Vario Tractor w. Tipping Trailer #02068"
+    }
+  ]
+}

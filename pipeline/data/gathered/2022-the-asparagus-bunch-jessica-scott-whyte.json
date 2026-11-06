@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-asparagus-bunch-jessica-scott-whyte",
+  "year": 2022,
+  "name": "The Asparagus Bunch - Jessica Scott-Whyte",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "pxVby9JEero",
+      "channel": "ReadingZone Bookclub",
+      "duration": 422.0,
+      "title": "Jessica Scott Whyte on what inspired  The Asparagus Bunch"
+    },
+    {
+      "id": "67oDclfIcQM",
+      "channel": "Google Play Books",
+      "duration": 2386.0,
+      "title": "The Asparagus Bunch by Jessica Scott-Whyte · Audiobook preview"
+    },
+    {
+      "id": "Jx2SsEg_Cf4",
+      "channel": "Jack Moorby",
+      "duration": 116.0,
+      "title": "'The Asparagus Bunch' | Audiobook (Exclusive Clip)"
+    },
+    {
+      "id": "kOMirKt8mK8",
+      "channel": "Coffee&Comics Nerd",
+      "duration": 6296.0,
+      "title": "The Asparagus bunch Interview FEAT. Jack Moorby & Jessica Scott Whyte"
+    },
+    {
+      "id": "gzvwK6fPIOM",
+      "channel": "Coffee&Comics Nerd",
+      "duration": 6296.0,
+      "title": "Jessica scott whyte interview feat. Jack moorby (2022)"
+    }
+  ]
+}

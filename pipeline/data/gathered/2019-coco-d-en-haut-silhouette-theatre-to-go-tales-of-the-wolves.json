@@ -1,0 +1,57 @@
+{
+  "id": "2019-coco-d-en-haut-silhouette-theatre-to-go-tales-of-the-wolves",
+  "year": 2019,
+  "name": "Coco d'en Haut Silhouette Theatre-to-go: Tales of the Wolves",
+  "price_eur": 46.99,
+  "price_text": "€46.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/coco-den-haut-silhouette-theatre-to-go-tales-of-the-wolves"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_8Xj0U_1fSg",
+      "channel": "偏爱甜剧社",
+      "duration": 8495.0,
+      "title": "✨Cheap-looking genius has loved her for 8 years!"
+    },
+    {
+      "id": "wfuwLIKNMFA",
+      "channel": "MOMO的短剧时刻",
+      "duration": 7532.0,
+      "title": "穿书成活不过三章的恶毒女配，她刚睁眼就被网恋对象约见面！原主竟盗用校花照片和校草网恋，女主本想当面坦白跑路，谁知校草见到真人后彻底沦陷，非但不生气，反而天天黏着她，恨不得时时刻刻贴在一起！"
+    },
+    {
+      "id": "xmQrQOrl200",
+      "channel": "प्यार की दुनिया TV",
+      "duration": 5265.0,
+      "title": "Reborn as a Maid, My Family Can Hear My Thoughts, Exposing the Fake Heir, Changing My Tragic Fate!"
+    },
+    {
+      "id": "TKVMQJkq50I",
+      "channel": "阅文漫画",
+      "duration": 20725.0,
+      "title": "🦾【FULL完結】EP01-48一口氣《戰神聯盟/Gods of War Alliance》#動畫 #動態漫畫 #小說改編 #奇幻 #熱血 #異能 #comics #anime"
+    },
+    {
+      "id": "cqvUQfJo7mw",
+      "channel": "苍穹漫域 Anime Realm",
+      "duration": 78560.0,
+      "title": "🔥《全职法师》第八季高燃回归！莫凡神秘委托开启，红兽真身颠覆认知！【S1-最新合集】【全职法师 AlmightyMage 】"
+    }
+  ]
+}

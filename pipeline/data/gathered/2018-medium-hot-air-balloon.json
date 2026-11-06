@@ -1,0 +1,57 @@
+{
+  "id": "2018-medium-hot-air-balloon",
+  "year": 2018,
+  "name": "Medium Hot Air Balloon",
+  "price_eur": 49.0,
+  "price_text": "€49.00",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Nf3TCweumZ0",
+      "channel": "Slayermusiq1",
+      "duration": 638.0,
+      "title": "Unlocking every hot air balloon route"
+    },
+    {
+      "id": "Lhmqc1HhmJ8",
+      "channel": "Slayermusiq1",
+      "duration": 794.0,
+      "title": "[Updated] Ardougne Medium diary guide & hot air balloon route"
+    },
+    {
+      "id": "CZCPv2JI2OU",
+      "channel": "Slayermusiq1",
+      "duration": 660.0,
+      "title": "[OSRS] Hot air balloon transportation guide"
+    },
+    {
+      "id": "kwTmjWlW4vo",
+      "channel": "Melissa Broad",
+      "duration": 577.0,
+      "title": "How to draw a hot air balloon with Pointillism background"
+    },
+    {
+      "id": "7IEGNATpRPA",
+      "channel": "Million Gears",
+      "duration": 481.0,
+      "title": "How To Make A Hot Air Balloon at Home | Easy Sky Lantern | DIY Project"
+    }
+  ]
+}

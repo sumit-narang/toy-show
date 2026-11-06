@@ -1,0 +1,57 @@
+{
+  "id": "2019-lottie-dolls-assortment",
+  "year": 2019,
+  "name": "Lottie Dolls Assortment",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/collections/vendors?q=lottie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/collections/vendors?q=lottie",
+      "title": "lottie",
+      "description": null,
+      "image": "http://nimblefingers.ie/cdn/shop/products/AutumnLeaves-Box-Doll_1024x1024_6aa7f1c6-becb-4bb9-8a62-4ade1d6cf334_600x.jpg?v=1708532569"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OXIsD9QBjLs",
+      "channel": "CookieSwirlC",
+      "duration": 568.0,
+      "title": "NEW Lotta Looks Mix + Match Fashion Style Makeover  Review"
+    },
+    {
+      "id": "TAnfbCT0wWI",
+      "channel": "Yara's Funtube!",
+      "duration": 357.0,
+      "title": "Lottie's Dollhouse!"
+    },
+    {
+      "id": "P7SIJ86iHDY",
+      "channel": "MGA Entertainment",
+      "duration": 15.0,
+      "title": "Mini Sweets | L.O.L. Surprise! Dolls | Bazooka"
+    },
+    {
+      "id": "XyY-iHi1tW8",
+      "channel": "Beauty Inside A Box",
+      "duration": 416.0,
+      "title": "Bratz The Movie (2007) - Doll & Party Bus Review - Beauty Inside A Box"
+    },
+    {
+      "id": "DmN5VRFVMYw",
+      "channel": "MyFroggyStuff",
+      "duration": 920.0,
+      "title": "Mash Ups: Doll Storage Crafts | Hidden Dollhouse 1 & 2 | Wardrobe & more"
+    }
+  ]
+}

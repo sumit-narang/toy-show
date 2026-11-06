@@ -1,0 +1,57 @@
+{
+  "id": "2018-djungelskog-lion",
+  "year": 2018,
+  "name": "Djungelskog Lion",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UefJyrT25Ms",
+      "channel": "Dusktail",
+      "duration": 120.0,
+      "title": "Destroy Stuffed Ikea Lion Plush Toy Animal"
+    },
+    {
+      "id": "jF0bMFdtg8E",
+      "channel": "Antonius Angga",
+      "duration": 154.0,
+      "title": "IKEA Djungelskog boneka singa Lion IKEA Indonesia"
+    },
+    {
+      "id": "gmolUs_Lzt0",
+      "channel": "3D VR World",
+      "duration": 130.0,
+      "title": "3D 180VR 4K Ikea Toy for Children Lion, Monkey, Panda, Bear and All kind of lovely Dolls"
+    },
+    {
+      "id": "bUsMDXlfJR0",
+      "channel": "Peek of the Net",
+      "duration": 61.0,
+      "title": "IKEA - Lion Man Commercial"
+    },
+    {
+      "id": "yKMOUyiEbdU",
+      "channel": "IKEA UK",
+      "duration": 21.0,
+      "title": "KEA THINGS - Shark"
+    }
+  ]
+}

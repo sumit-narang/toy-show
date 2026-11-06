@@ -1,0 +1,57 @@
+{
+  "id": "2019-owleez",
+  "year": 2019,
+  "name": "Owleez",
+  "price_eur": 46.99,
+  "price_text": "€46.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets/owleez-pink/p/176138"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets/owleez-pink/p/176138",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Te4P67zE_zM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 176.0,
+      "title": "Owleez Flying Radio Control Owl Review from Spin Master"
+    },
+    {
+      "id": "2hdnytWdxwc",
+      "channel": "Hatchimals",
+      "duration": 587.0,
+      "title": "Owleez | Unboxing & How-To"
+    },
+    {
+      "id": "gMMYb1ZEVqg",
+      "channel": "Daisy Games",
+      "duration": 672.0,
+      "title": "OWLEEZ FLYING OWL TOY REVIEW | TIPS AND TRICKS | DEMO AND REVIEW | SPIN MASTER"
+    },
+    {
+      "id": "oOxZWI5wr0A",
+      "channel": "Lucinda Barton",
+      "duration": 25.0,
+      "title": "Owleez flying"
+    },
+    {
+      "id": "Kjh9oE81MJs",
+      "channel": "Hatchimals",
+      "duration": 613.0,
+      "title": "Owleez & TIC TAC TOY! All About our NEW Baby Owl Flying Toy!"
+    }
+  ]
+}

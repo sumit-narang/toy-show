@@ -1,0 +1,60 @@
+{
+  "id": "2025-the-traitors-card-game",
+  "year": 2025,
+  "name": "The Traitors Card Game",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-traitors-card-game-0190105"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-traitors-card-game-0190105",
+      "title": "The Traitors Card Game | Shop Now at Easons.com",
+      "description": "Test your loyalty and deception in The Traitors card game inspired by the thrilling TV series. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "Work together to build up a communal prize pot of gold, whilst trying to survive the nightly murders and banishments, to claim the prize. Players are secretly allocated their roles of either Faithful or Traitor. The Faithful must correctly identify and banish all the Traitors in their midst to win the Gold, whereas the Traitors need to remain undetected until the round ends to take the prize pot! Use the digital functionality to immerse yourself in the tension and excitement when the Night cards are drawn. Secretly nominate and reveal those who are murdered, vote to banish at the round table with the virtual chalkboard, or feel the relief when you discover there will be no murder or banishment on a given night. All to the soundtrack of the show!",
+      "brand": null,
+      "ld_image": "https://www.easons.com/images/m/50a861d51313a8dc/original/0190105_5638272320.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TyzQDyrISP0",
+      "channel": "JestaThaRogue",
+      "duration": 295.0,
+      "title": "How to play The Traitors: Card Game"
+    },
+    {
+      "id": "owI3-lPUq64",
+      "channel": "Ginger Fox",
+      "duration": 456.0,
+      "title": "How To Play The Official Traitors 2023 Edition Card Game With Digital Gameplay"
+    },
+    {
+      "id": "LFBYxz2sNOA",
+      "channel": "Chaos Cards",
+      "duration": 654.0,
+      "title": "The Traitors Card Game | UNBOXING"
+    },
+    {
+      "id": "dAeXQolEyXE",
+      "channel": "JestaThaRogue",
+      "duration": 456.0,
+      "title": "How to play The Traitors: The Official Board Game"
+    },
+    {
+      "id": "AbBVRKlOKUE",
+      "channel": "NBC and Shiloh & Bros",
+      "duration": 1024.0,
+      "title": "Welcome to a Game Night of Treachery | The Traitors: New Blood | NBC"
+    }
+  ]
+}

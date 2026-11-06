@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-twinkle-lights-ballerina-doll",
+  "year": 2023,
+  "name": "Barbie Twinkle Lights Ballerina Doll",
+  "price_eur": 26.99,
+  "price_text": "€26.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dreamtopia-twinkle-lights-ballerina-doll/p/217783"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dreamtopia-twinkle-lights-ballerina-doll/p/217783",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tzmGUNGYpoU",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie® Twinkle Lights Ballerina Doll | AD"
+    },
+    {
+      "id": "-TSQNbcMamQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 72.0,
+      "title": "Barbie Dreamtopia Twinkle Lights Ballerina"
+    },
+    {
+      "id": "Gl6yL6CSXJ0",
+      "channel": "DisneyD Prince",
+      "duration": 528.0,
+      "title": "Barbie: Dreamtopia Twinkle Lights Ballerina Doll Unboxing and Review"
+    },
+    {
+      "id": "QhLnJNCXXnw",
+      "channel": "Madison Castle",
+      "duration": 43.0,
+      "title": "Barbie Twinkle Lights Ballerina Doll Commercial Slow Motion 2x"
+    },
+    {
+      "id": "MJangOkz2kY",
+      "channel": "Kid Toys Videos Channel",
+      "duration": 23.0,
+      "title": "Mattel   Barbie Twinkle Toes   'Ballet Magic'"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2024-zhu-zhu-aquarium-toy-fish",
+  "year": 2024,
+  "name": "Zhu Zhu Aquarium Toy Fish",
+  "price_eur": 15.0,
+  "price_text": "€15",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/ja11543?_pos=1&_sid=3a00dbc96&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/ja11543?_pos=1&_sid=3a00dbc96&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TltSUTFilPQ",
+      "channel": "RyderRenegade",
+      "duration": 529.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Speedboat & Dock"
+    },
+    {
+      "id": "z5fmMeTX9sw",
+      "channel": "RyderRenegade",
+      "duration": 451.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Talulla the Mandarinfish"
+    },
+    {
+      "id": "M2S8J2VDh-w",
+      "channel": "RyderRenegade",
+      "duration": 846.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Coral Reef Tunnel Combo Set"
+    },
+    {
+      "id": "XhNO2XCgJuY",
+      "channel": "RyderRenegade",
+      "duration": 1576.0,
+      "title": "Zhu Zhu Aquarium Fish Review and Demonstration Compilation (April 2024 by RyderRenegade)"
+    },
+    {
+      "id": "D3PQuEDU-is",
+      "channel": "CoolToys",
+      "duration": 89.0,
+      "title": "Zhu Zhu Aquarium Starter Set with Fish ASMR Toy Unboxing"
+    }
+  ]
+}

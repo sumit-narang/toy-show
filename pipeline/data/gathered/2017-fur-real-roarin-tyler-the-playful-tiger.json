@@ -1,0 +1,64 @@
+{
+  "id": "2017-fur-real-roarin-tyler-the-playful-tiger",
+  "year": 2017,
+  "name": "Fur Real Roarin' Tyler The Playful Tiger",
+  "price_eur": 119.99,
+  "price_text": "€119.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "m9jMicsx5w0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 115.0,
+      "title": "FurReal Roarin' Tyler The Playful Tiger from Hasbro"
+    },
+    {
+      "id": "kYkaEfSzEs0",
+      "channel": "Lucky Penny Shop",
+      "duration": 1322.0,
+      "title": "FurReal Roarin' Tyler The Playful Tiger - Toy Review"
+    },
+    {
+      "id": "jPteN_1CPhQ",
+      "channel": "growingyourbaby",
+      "duration": 76.0,
+      "title": "Preview!  FurReal Roarin Tyler The Playful Tiger - Toy Fair 2017"
+    },
+    {
+      "id": "mC5iNlOruLM",
+      "channel": "This Morning",
+      "duration": 48.0,
+      "title": "Holly and Phillip Play With 'Roarin Tyler the Tiger' | This Morning"
+    },
+    {
+      "id": "tP_vD6nM2bU",
+      "channel": "litlgeeks",
+      "duration": 53.0,
+      "title": "Toy Fair 2017: Hasbro FurReal Friends Roarin Tyler The Playful Tiger"
+    }
+  ]
+}

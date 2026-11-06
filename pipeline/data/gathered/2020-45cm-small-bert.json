@@ -1,0 +1,54 @@
+{
+  "id": "2020-45cm-small-bert",
+  "year": 2020,
+  "name": "45cm Small Bert",
+  "price_eur": 55.0,
+  "price_text": "€55",
+  "retailers": [
+    {
+      "name": "Duffy's Toy World",
+      "url": "https://www.duffystoyworld.ie/product-page/45cm-small-bert"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://duffystoyworld.ie/product-page/45cm-small-bert"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MIcYS6HQluA",
+      "channel": "Sesame Street Classics ",
+      "duration": 239.0,
+      "title": "Sesame Street: Adding Song with Bert and Ernie | #ThrowbackThursday"
+    },
+    {
+      "id": "7DXcCOaVc5o",
+      "channel": "Sesame Street Classics ",
+      "duration": 74.0,
+      "title": "Sesame Street: Bert and Ernie Celebrate the Letter U's Birthday!"
+    },
+    {
+      "id": "sS7_-h882Ls",
+      "channel": "Sesame Street Classics ",
+      "duration": 183.0,
+      "title": "Sesame Street: Bert's Brother Bart Visits"
+    },
+    {
+      "id": "j4BDP1StVQU",
+      "channel": "ELLE",
+      "duration": 602.0,
+      "title": "Sesame Street's Bert & Ernie Sing 'You've Got A Friend In Me' in a Game of Song Association | ELLE"
+    },
+    {
+      "id": "pxg113O_SRI",
+      "channel": "Sesame Street",
+      "duration": 320.0,
+      "title": "Sesame Street: Conversations with Bert: Andy Samberg, Part 1"
+    }
+  ]
+}

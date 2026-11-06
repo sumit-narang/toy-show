@@ -1,0 +1,54 @@
+{
+  "id": "2023-huffy-disney-princess-16-girls-bike",
+  "year": 2023,
+  "name": "Huffy Disney Princess 16\" Girls Bike",
+  "price_eur": 199.95,
+  "price_text": "€199.95",
+  "retailers": [
+    {
+      "name": "Euro Cycles",
+      "url": "https://eurocycles.com/huffy-princess-kids-bike-16-4-to-6-years-old/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lESwYUaDZDk",
+      "channel": "artrkm",
+      "duration": 34.0,
+      "title": "Huffy Disney Princess Bike Commercial.mp4"
+    },
+    {
+      "id": "SsQDqeIxo0w",
+      "channel": "Huffy UK EU",
+      "duration": 47.0,
+      "title": "Disney Princess 12in and 16in Bike | Huffy"
+    },
+    {
+      "id": "-GZIDrwWMmg",
+      "channel": "Danny Johnson’s Garage",
+      "duration": 675.0,
+      "title": "Huffy Princess bike assembly step by step"
+    },
+    {
+      "id": "S6-LHKjGXzY",
+      "channel": "Shazam Shaha",
+      "duration": 53.0,
+      "title": "Shazeema review huffy Disney princess bike 16inch part one"
+    },
+    {
+      "id": "eL6JhJ608k4",
+      "channel": "Dad life projects",
+      "duration": 774.0,
+      "title": "HOW TO ASSEMBLE THE 16 INCH HUFFY PRINCESS BIKE"
+    }
+  ]
+}

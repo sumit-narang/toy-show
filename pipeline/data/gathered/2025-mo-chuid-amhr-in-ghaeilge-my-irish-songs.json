@@ -1,0 +1,60 @@
+{
+  "id": "2025-mo-chuid-amhr-in-ghaeilge-my-irish-songs",
+  "year": 2025,
+  "name": "Mo Chuid Amhráin Ghaeilge (My Irish Songs)",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-1"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-1",
+      "title": "Mo Chuid Amhráin Ghaeilge 1",
+      "description": "Mo Chuid Amhráin Ghaeilge is a collection of favourite Irish songs for children, helping little ones learn and sing as Gaeilge.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/products/mo-chuid-amhrain-ghaeilge-1.jpg?v=1683529207",
+      "ld_description": "Mo Chuid Amhráin Ghaeilge 1\n\n\nSuitable for young children and families, making it easy to share the joy of Irish music from an early age.\n\n\nA Cogs bestseller: beautiful interactive sound book featuring 6 beloved traditional Irish songs, including Báidín Fheilimí, Peigín Leitir Móir, and Óró, Sé do Bheatha Abhaile. 🎶\n\n\nPress a button to hear each song sung by four talented young Irish singers, encouraging kids to sing along.\n\n\nIllustrated by Tatyana Feeney with bright pastel artwork throughout, making every page visually captivating.\n\n\nEncourages cultural connection and Irish language learning through music and play.\n\n\nBattery included and replaceable, so the songs can be enjoyed for years to come.\n\n\nFeatured on the Late Late Toy Show, praised for its charm and educational value.\n\n\nThis delightful sound book is a perfect way for families to bond, share culture, and celebrate Ireland’s musical heritage—one enchanting song at a time. 🌟",
+      "brand": "My Irish Books",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A5wVm--lMfQ",
+      "channel": "My Irish Books",
+      "duration": 81.0,
+      "title": "Late Late Toy Show 2020 - Mo Chuid Amhráin Ghaeilge Review - (My Irish Songs)"
+    },
+    {
+      "id": "K6s_AgwqNmg",
+      "channel": "My Irish Books",
+      "duration": 15.0,
+      "title": "6. Éireoidh mé ar maidin (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "VVLbpn9yxzk",
+      "channel": "My Irish Books",
+      "duration": 17.0,
+      "title": "5. Hup Hup Amach (Mo Chéad Rainn Ghaeilge)"
+    },
+    {
+      "id": "ZqMu58zS9JU",
+      "channel": "My Irish Books",
+      "duration": 21.0,
+      "title": "3. Sean Ó Loinn (Mo Chéad Rainn Ghaeilge)"
+    },
+    {
+      "id": "VpmSnTtS47c",
+      "channel": "My Irish Books",
+      "duration": 23.0,
+      "title": "6. Na Cleaganna (Mo Chuid Amhráin Ghaeilge 3)"
+    }
+  ]
+}

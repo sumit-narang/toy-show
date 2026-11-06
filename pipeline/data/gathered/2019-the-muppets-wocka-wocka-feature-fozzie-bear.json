@@ -1,0 +1,53 @@
+{
+  "id": "2019-the-muppets-wocka-wocka-feature-fozzie-bear",
+  "year": 2019,
+  "name": "The Muppets Wocka Wocka Feature Fozzie Bear",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "teczmoXvGCs",
+      "channel": "TTPM Toy Reviews",
+      "duration": 114.0,
+      "title": "Muppet Babies Wocka Wocka Feature Fozzie from Just Play"
+    },
+    {
+      "id": "j5KY2_2G_HE",
+      "channel": "MomaGirl Toy Demos",
+      "duration": 77.0,
+      "title": "WOCKA WOCKA FOZZIE BEAR Talking & Shaking, Light Up  Plush Muppet Babies Disney"
+    },
+    {
+      "id": "ie0CnWaAfgM",
+      "channel": "eastanders",
+      "duration": 18.0,
+      "title": "Wocka Wocka"
+    },
+    {
+      "id": "ZWhRTgQi5XA",
+      "channel": "Dennis Blair",
+      "duration": 10.0,
+      "title": "Wocka Wocka"
+    },
+    {
+      "id": "mz6gOaI17E4",
+      "channel": "WockaFunny",
+      "duration": 11.0,
+      "title": "Wocka Wocka #25"
+    }
+  ]
+}

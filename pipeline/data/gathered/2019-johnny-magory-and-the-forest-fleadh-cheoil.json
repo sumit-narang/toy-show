@@ -1,0 +1,36 @@
+{
+  "id": "2019-johnny-magory-and-the-forest-fleadh-cheoil",
+  "year": 2019,
+  "name": "Johnny Magory and the Forest Fleadh Cheoil",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "JohnnyMagory.com",
+      "url": "https://www.johnnymagory.com/product/johnny-magory-and-the-forest-fleadh-cheoil-pre-order-illustrated-by-don-conroy/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://johnnymagory.com/product/forest-fleadh-cheoil-don-conroy/",
+      "title": "The Don Conroy Book - Johnny Magory and the Forest Fleadh Cheoil",
+      "description": "The Don Conroy Book - Johnny Magory and the Forest Fleadh Cheoil. Written by Emma-Jane Leeson exploring Irish native woodland creatures & music",
+      "image": "https://johnnymagory.com/wp-content/uploads/2024/01/54.jpg",
+      "ld_description": "A collaboration between Emma-Jane Leeson and Don Conroy. Johnny Magory, his trusty dog Ruairi and his sister Lily-May have a magical adventure in a woodland setting with all their Irish animal friends. They can’t believe their good luck when they learn the animals are having a Fleadh Cheoil (music competition) that day and join in the fun and frolics.\r\n\r\nJohnny climbs the giant oak tree to sit beside the judge, Layla Barn Owl, but then realises he can’t get down. Can Lily-May and Ruairi save the day? Inspired by the astounding beauty of the trees and trails at Donadea Forest Park, Co. Kildare.",
+      "brand": null,
+      "ld_image": "https://johnnymagory.com/wp-content/uploads/2024/01/54.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OJJdSJQ1BfE",
+      "channel": "Kerry Library",
+      "duration": 1448.0,
+      "title": "Day 4: Read a story with author Emma Larkin: Ireland Reads 2022"
+    }
+  ]
+}

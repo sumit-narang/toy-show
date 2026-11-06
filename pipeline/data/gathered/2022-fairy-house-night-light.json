@@ -1,0 +1,54 @@
+{
+  "id": "2022-fairy-house-night-light",
+  "year": 2022,
+  "name": "Fairy House Night Light",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2uyc96NkI2k",
+      "channel": "Amanda's Cookin' & Crafts",
+      "duration": 270.0,
+      "title": "Plastic Bottle Fairy House Night Lights"
+    },
+    {
+      "id": "Jlq1PqSbIgw",
+      "channel": "Art is Funn",
+      "duration": 483.0,
+      "title": "How to make Fairy House Lamp|Tea Light Holder|Night Lamp|Fairy House|Felt sheet Craft|Christmas lamp"
+    },
+    {
+      "id": "0B0E3kaGSeg",
+      "channel": "Away with the fairies. Fairy Garden",
+      "duration": 60.0,
+      "title": "Fairy House Night Lights from Away with the Fairies"
+    },
+    {
+      "id": "-XfylbVpZXA",
+      "channel": "Creative Mom",
+      "duration": 691.0,
+      "title": "❣DIY Fairy House Lamp Using Coke Plastic Bottles❣"
+    },
+    {
+      "id": "6qtAgLofFlQ",
+      "channel": "Away with the fairies. Fairy Garden",
+      "duration": 61.0,
+      "title": "Fairy House Night Lights"
+    }
+  ]
+}

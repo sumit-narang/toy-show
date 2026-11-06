@@ -1,0 +1,54 @@
+{
+  "id": "2022-frozen-ii-anna-50cm",
+  "year": 2022,
+  "name": "FROZEN II ANNA 50CM",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Uu6EgI2i7MA",
+      "channel": "ToyVerse Chronicles",
+      "duration": 82.0,
+      "title": "3256806958385982 30 50 CM Frozen Anna Elsa Dolls Snow Queen Princess Anna Elsa Doll Toy"
+    },
+    {
+      "id": "TlBoTFoZs7M",
+      "channel": "Tiffany Owens (HuffleTiff)",
+      "duration": 502.0,
+      "title": "Frozen 2 Plush series 2"
+    },
+    {
+      "id": "NNCSLOypPik",
+      "channel": "Yuyu Yusof",
+      "duration": 95.0,
+      "title": "Olaf from Frozen 50cm Unboxing"
+    },
+    {
+      "id": "4ZyYPnu0Vzw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 77.0,
+      "title": "Frozen Fever Elsa & Anna Plush from The Disney Store"
+    },
+    {
+      "id": "Ct1bZncDBJk",
+      "channel": "mrsayao",
+      "duration": 248.0,
+      "title": "Princess Anna Win!"
+    }
+  ]
+}

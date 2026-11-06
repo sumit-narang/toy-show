@@ -1,0 +1,53 @@
+{
+  "id": "2017-john-deere-forage-harvester",
+  "year": 2017,
+  "name": "John Deere Forage Harvester",
+  "price_eur": 19.0,
+  "price_text": "€19.00",
+  "retailers": [
+    {
+      "name": "Ken Black Toys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PryO49qgDww",
+      "channel": "John Deere",
+      "duration": 144.0,
+      "title": "The new F8 and F9 Self-Propelled Forage Harvesters | John Deere"
+    },
+    {
+      "id": "kIkazjvDBH4",
+      "channel": "John Deere UK IE",
+      "duration": 203.0,
+      "title": "Next-Gen Forage Harvesting: John Deere SPFH F8 & F9"
+    },
+    {
+      "id": "3kg60tCv95E",
+      "channel": "Farmworld_TV",
+      "duration": 480.0,
+      "title": "John Deere F8 / F9 forage harvester | Test-Drive | New: 425 to 1020 HP | Agricultural technology"
+    },
+    {
+      "id": "f-fMmvS5S9o",
+      "channel": "John Deere Asia",
+      "duration": 126.0,
+      "title": "John Deere’s 50 Years of Evolution of Forage Harvesters"
+    },
+    {
+      "id": "yXpq9MjSwIo",
+      "channel": "GRASSMEN",
+      "duration": 3157.0,
+      "title": "The NEW F8 and F9 from John Deere!  "
+    }
+  ]
+}

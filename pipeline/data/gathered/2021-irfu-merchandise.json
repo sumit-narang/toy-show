@@ -1,0 +1,57 @@
+{
+  "id": "2021-irfu-merchandise",
+  "year": 2021,
+  "name": "IRFU Merchandise",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Elverys",
+      "url": "https://www.elverys.ie/Elverys/Rugby/IrelandRugbyJerseyShopIrishRugbyElverys/c/391"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.elverys.ie/collections/irish-rugby-shop",
+      "title": "Ireland Rugby Jersey, Shirts & Training Wear | Elverys",
+      "description": "Ireland rugby jersey and official team clothing including shirts, training wear and supporter gear from Intersport Elverys Ireland for Irish rugby fans.",
+      "image": "http://www.elverys.ie/cdn/shop/collections/Home_page_CollectionIMG_Wider.jpg?crop=center&height=1200&v=1788422003&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pE5_fm-dpT8",
+      "channel": "Intersport Elverys",
+      "duration": 23.0,
+      "title": "New Irish Rugby Home Jersey"
+    },
+    {
+      "id": "LgsByhXrlE8",
+      "channel": "Intersport Elverys",
+      "duration": 82.0,
+      "title": "Irish Rugby Jersey In-Store Launch"
+    },
+    {
+      "id": "cB4HkIK-6ZE",
+      "channel": "Irish Rugby",
+      "duration": 40.0,
+      "title": "#TogetherForIreland: The New Ireland Kit From Canterbury"
+    },
+    {
+      "id": "oCc0wQMX5jU",
+      "channel": "Intersport Elverys",
+      "duration": 55.0,
+      "title": "Dublin GAA in-store launch event"
+    },
+    {
+      "id": "rqlk6oHIj2Y",
+      "channel": "Intersport Elverys",
+      "duration": 21.0,
+      "title": "Shoulder to shoulder. Together | Irish Rugby 26/27 Kit Launch"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-engino-stem-heroes-greenhouse",
+  "year": 2019,
+  "name": "Engino STEM Heroes Greenhouse",
+  "price_eur": 74.99,
+  "price_text": "€74.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/engineering/engino-stem-heroes-greenhouse/p/177413"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/engineering/engino-stem-heroes-greenhouse/p/177413",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "b9a8NGrjVaY",
+      "channel": "Engino Toy System",
+      "duration": 42.0,
+      "title": "Stage 1: Constructing the Greenhouse."
+    },
+    {
+      "id": "4C-c7WPOmcM",
+      "channel": "Engino Toy System",
+      "duration": 88.0,
+      "title": "Stage 6: Automatizing the Greenhouse"
+    },
+    {
+      "id": "QK7681afmyU",
+      "channel": "The Brick Castle",
+      "duration": 392.0,
+      "title": "Engino STEM Heroes Greenhouse Construction Toy Review Age 8+ Sent for review by Engino"
+    },
+    {
+      "id": "tTSaaCCxcF0",
+      "channel": "Engino Toy System",
+      "duration": 51.0,
+      "title": "Stage 9: A time-lapse of plant growth."
+    },
+    {
+      "id": "uEEbvmpoLEg",
+      "channel": "urbankid punct ro",
+      "duration": 150.0,
+      "title": "Toys Review: Engino Toys Stem Heroes - Greenhouse & Sea Exploration"
+    }
+  ]
+}

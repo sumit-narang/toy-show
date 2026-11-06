@@ -1,0 +1,57 @@
+{
+  "id": "2019-sporter-2-pink-scooter",
+  "year": 2019,
+  "name": "Sporter 2 Pink Scooter",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/sporter-scooters/sporter-2-pink-scooter/p/146731"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/sporter-scooters/sporter-2-pink-scooter/p/146731",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RYesDmTn6J0",
+      "channel": "Dynamic Hope",
+      "duration": 606.0,
+      "title": "#sporter2scooter #smythstoys Unboxing my daughter sporter 2 scooter from smyths"
+    },
+    {
+      "id": "cB9qu2VnFKo",
+      "channel": "Kevin Williams",
+      "duration": 65.0,
+      "title": "Sporter scooter 2 review by Niall"
+    },
+    {
+      "id": "Yy9Tuoss5dc",
+      "channel": "Cecilia Wang",
+      "duration": 47.0,
+      "title": "Kids iSporter Lolly Scooter"
+    },
+    {
+      "id": "6raZ6yDMbSk",
+      "channel": "HTIGroupMedia",
+      "duration": 12.0,
+      "title": "Pink Evo Light Flash Scooter"
+    },
+    {
+      "id": "s2nyhOxTPYI",
+      "channel": "gamble clowns",
+      "duration": 68.0,
+      "title": "Sporter scooter"
+    }
+  ]
+}

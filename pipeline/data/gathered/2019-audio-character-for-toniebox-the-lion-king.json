@@ -1,0 +1,64 @@
+{
+  "id": "2019-audio-character-for-toniebox-the-lion-king",
+  "year": 2019,
+  "name": "Audio Character for Toniebox: The Lion King",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-lion-king"
+    },
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-lion-king",
+      "title": "Audio Character For Toniebox: The Lion King",
+      "description": "Listen, play, collect. These Tonies are up for everything! Handcrafted for hands-on play. Every Tonie is hand-painted, yet tough enough to be part of the fun not just on, but also off the box. On this Tonie you will find a reading of the famous \"The Lion King\", narrated by Robert Guillaume, as well as four of most well",
+      "image": "http://nimblefingers.ie/cdn/shop/products/10000020-50000060-b_600x.png?v=1565796393"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3LWO8_Ov0uM",
+      "channel": "Kobe The Bear",
+      "duration": 1141.0,
+      "title": "Disney Lion King | Tonie Box | Audio Book"
+    },
+    {
+      "id": "Nirs2yp5uNs",
+      "channel": "ToniesWorld",
+      "duration": 580.0,
+      "title": "Lion Tonie - Audio Preview"
+    },
+    {
+      "id": "BnX6M5rC5hY",
+      "channel": "SamuelJohnstonBaby",
+      "duration": 63.0,
+      "title": "The Lion King Audio Sample by Tonies"
+    },
+    {
+      "id": "uTI1x15zjrA",
+      "channel": "playnstay87-20",
+      "duration": 71.0,
+      "title": "Toniebox - The Interactive Audio System for Kids – Fun, Screen-Free Storytelling and Music!"
+    },
+    {
+      "id": "S3zUwDfuB6o",
+      "channel": "balancedfindsbymegan",
+      "duration": 42.0,
+      "title": "Tonie Lion King Figurine Overview #ad"
+    }
+  ]
+}

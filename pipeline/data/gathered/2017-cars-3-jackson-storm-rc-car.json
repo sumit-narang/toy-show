@@ -1,0 +1,53 @@
+{
+  "id": "2017-cars-3-jackson-storm-rc-car",
+  "year": 2017,
+  "name": "Cars 3 Jackson Storm RC Car",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NWaQWIniGBE",
+      "channel": "Toysall",
+      "duration": 62.0,
+      "title": "Dickie RC Cars 3 Feature Jackson Storm 1:16, 26cm, Uzaktan Kumandalı Araba 203086007038"
+    },
+    {
+      "id": "hqL-m0yNYBI",
+      "channel": "CarsToysMovies",
+      "duration": 124.0,
+      "title": "Building Lightning McQueen & Jackson Storm from Scratch  Epic Race Start Disney Cars Toys StopMotion"
+    },
+    {
+      "id": "27wmV55j1Ng",
+      "channel": "TTPM Toy Reviews",
+      "duration": 131.0,
+      "title": "Cars 3 Cruz Ramirez, Jackson Storm & Lightning McQueen Remote Control Vehicle from The Disney Store"
+    },
+    {
+      "id": "JVOmT9v4VeM",
+      "channel": "Jay Drone",
+      "duration": 373.0,
+      "title": "Disney Cars 3 Toys RC Ultimate Jackson Storm $19.99 Ollies Review"
+    },
+    {
+      "id": "1gi_hk5jbpU",
+      "channel": "Growing Little Ones for Jesus",
+      "duration": 602.0,
+      "title": "Remote Control Disney Cars 3 Toys! RC Lightning McQueen Jackson Storm Cruz Ramirez Race Crash Toys"
+    }
+  ]
+}

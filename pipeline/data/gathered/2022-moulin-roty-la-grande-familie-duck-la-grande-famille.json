@@ -1,0 +1,57 @@
+{
+  "id": "2022-moulin-roty-la-grande-familie-duck-la-grande-famille",
+  "year": 2022,
+  "name": "Moulin Roty la Grande Familie: Duck La Grande Famille",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Moulin Roty",
+      "url": "https://www.moulinroty.com/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.moulinroty.com/en/",
+      "title": "Moulin Roty - Our website is getting a makeover",
+      "description": "In the meantime, discover the story of the brand, from 1972 to today.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Qiy5uxxTW3E",
+      "channel": "Gifts For Little Ones",
+      "duration": 118.0,
+      "title": "Moulin Roty Jeanne the Duck - La Grande Famile"
+    },
+    {
+      "id": "nmVfvOcnv8c",
+      "channel": "Gifts For Little Ones",
+      "duration": 97.0,
+      "title": "Moulin Roty - La Grande Famille - Apolline"
+    },
+    {
+      "id": "kU5g_1rVt-M",
+      "channel": "Gifts For Little Ones",
+      "duration": 94.0,
+      "title": "Moulin Roty Julius The Dog - La Grande Famille"
+    },
+    {
+      "id": "YwmEWY6nems",
+      "channel": "La Petite Armoire",
+      "duration": 60.0,
+      "title": "www lapetitearmoire ro"
+    },
+    {
+      "id": "Rl36oruJ2gw",
+      "channel": "Nando Battiati",
+      "duration": 149.0,
+      "title": "moulinroty"
+    }
+  ]
+}

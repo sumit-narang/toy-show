@@ -1,0 +1,64 @@
+{
+  "id": "2017-oonies-mega-starter-pack",
+  "year": 2017,
+  "name": "Oonies Mega Starter Pack",
+  "price_eur": 36.99,
+  "price_text": "€36.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Ebrzq9qZJJk",
+      "channel": "Freddie griffiths",
+      "duration": 41.0,
+      "title": "oonies mega starter pack - smyths toys"
+    },
+    {
+      "id": "WMyUcdgmKnI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 188.0,
+      "title": "Oonies Inflator Starter Pack from Moose Toys"
+    },
+    {
+      "id": "H_V459qUb6k",
+      "channel": "Little Kelly & Friends ToysReview for Kids",
+      "duration": 859.0,
+      "title": "OONIES - INFLATE, STICK, CREATE WITH PIXIE & AMELIE | Little Kelly & Friends ToysReview for Kids"
+    },
+    {
+      "id": "ioi5gMkqb7w",
+      "channel": "RAINE and RICH Amazing World",
+      "duration": 347.0,
+      "title": "OONIES STARTER PACK"
+    },
+    {
+      "id": "Kzwsf05uKHY",
+      "channel": "ellieV ",
+      "duration": 843.0,
+      "title": "Oonies Sticky Bubble like Balloons Craft DIY Starter Pack Review Silly Play Kids Toys"
+    }
+  ]
+}

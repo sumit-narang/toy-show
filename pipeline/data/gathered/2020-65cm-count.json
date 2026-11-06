@@ -1,0 +1,54 @@
+{
+  "id": "2020-65cm-count",
+  "year": 2020,
+  "name": "65cm Count",
+  "price_eur": 95.0,
+  "price_text": "€95.00",
+  "retailers": [
+    {
+      "name": "Duffy's Toy World",
+      "url": "https://www.duffystoyworld.ie/product-page/65cm-count"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://duffystoyworld.ie/product-page/65cm-count"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oCipXKTrdqw",
+      "channel": "Aurore Dubuisson",
+      "duration": 62.0,
+      "title": "Basècles , 65cm Comète"
+    },
+    {
+      "id": "GY-aq7rM4Iw",
+      "channel": "Sub pls",
+      "duration": 239.0,
+      "title": "Body Balance 65   Track 6"
+    },
+    {
+      "id": "vxEgCg2aD_M",
+      "channel": "Georgie Wilson",
+      "duration": 109.0,
+      "title": "Apple jack 65cm"
+    },
+    {
+      "id": "-WCCi8mUwIw",
+      "channel": "Shauna3gypsy",
+      "duration": 155.0,
+      "title": "Pairs 65cm Ledston with Gracie Franey"
+    },
+    {
+      "id": "qFfKqKP2EWQ",
+      "channel": "Brick Video Instructions",
+      "duration": 571.0,
+      "title": "LEGO 10184 - Town Plan"
+    }
+  ]
+}

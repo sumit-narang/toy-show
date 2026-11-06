@@ -1,0 +1,57 @@
+{
+  "id": "2018-organic-soft-book-and-teether",
+  "year": 2018,
+  "name": "Organic Soft Book and Teether",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fH9gOfmmK4c",
+      "channel": "Mint Parenting",
+      "duration": 69.0,
+      "title": "10 Best Organic, Natural, BPA Free Teethers, Rattles & Toys On Amazon"
+    },
+    {
+      "id": "Rfl7YnYL2eo",
+      "channel": "Stork Approved",
+      "duration": 141.0,
+      "title": "Review BBWOO Soft Baby Book Toy, Touch and Feel Sensory Crinkle Book with Teether"
+    },
+    {
+      "id": "BL1obS_wEYo",
+      "channel": "For The Baby",
+      "duration": 42.0,
+      "title": "Ocean Friends Baby Fabric Book: Crinkle Book with Silicone Ring"
+    },
+    {
+      "id": "AjS08QsU5Vg",
+      "channel": "Naturally Creative Home",
+      "duration": 169.0,
+      "title": "Organic Natural Teether - The Mama Shop"
+    },
+    {
+      "id": "zWm9od3UNfg",
+      "channel": "Green Sprouts",
+      "duration": 80.0,
+      "title": "green sprouts® Muslin Blankie Teether made from Organic Cotton"
+    }
+  ]
+}

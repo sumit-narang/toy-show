@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-bros-mario",
+  "year": 2022,
+  "name": "Super Mario Bros Mario",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c_b9Yn34pdI",
+      "channel": "Typhlosion4President",
+      "duration": 1844.0,
+      "title": "Super Mario Bros - Complete Walkthrough"
+    },
+    {
+      "id": "Ta6x1TGzmhc",
+      "channel": "SURGE - Movie Clips",
+      "duration": 1257.0,
+      "title": "Every Fight Scene In The Super Mario Bros. Movie"
+    },
+    {
+      "id": "jWb7Qpba264",
+      "channel": "Luigi Weegee",
+      "duration": 563.0,
+      "title": "When All Power-Ups Help Mario Win Super Mario Bros. While Sleeping!"
+    },
+    {
+      "id": "9HQX6IQYD_U",
+      "channel": "BOX STORY GAME",
+      "duration": 175.0,
+      "title": "Super Mario Bros., but Every Enemy Mario Defeats Becomes His Friend!"
+    },
+    {
+      "id": "5dJIua3HkPc",
+      "channel": "BOX STORY GAME",
+      "duration": 1820.0,
+      "title": "If Mario Has Too Many Gold Super Stars in Super Mario Bros.?"
+    }
+  ]
+}

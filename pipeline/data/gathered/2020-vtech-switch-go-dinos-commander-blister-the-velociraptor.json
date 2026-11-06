@@ -1,0 +1,54 @@
+{
+  "id": "2020-vtech-switch-go-dinos-commander-blister-the-velociraptor",
+  "year": 2020,
+  "name": "VTech Switch & Go Dinos Commander Blister the Velociraptor",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/vtech-switch-go-dinos-commander-blister-the-velociraptor/1600376113.prd?_requestid=1002813&Ntt=switch%20and%20go%20dinosaurs"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/vtech-switch-go-dinos-commander-blister-the-velociraptor/1600376113.prd?_requestid=1002813&Ntt=switch%20and%20go%20dinosaurs"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7gdYK18B0yY",
+      "channel": "ForFranc",
+      "duration": 16.0,
+      "title": "VTech: Switch & Go Dinos: Commander Clade the Velociraptor / Blister UK Startup & Shutdown (Dino)"
+    },
+    {
+      "id": "amJl9vpFwtk",
+      "channel": "Made for Kids",
+      "duration": 42.0,
+      "title": "Toy - VTech Switch & Go Commander Blister the Velociraptor"
+    },
+    {
+      "id": "IUyKSO_boGE",
+      "channel": "ForFranc",
+      "duration": 16.0,
+      "title": "VTech: Switch & Go Dinos: Commander Clade the Velociraptor / Blister UK Startup & Shutdown (Plane)"
+    },
+    {
+      "id": "QUIxxSEA93g",
+      "channel": "TheRykerDane Reviews",
+      "duration": 114.0,
+      "title": "VTech Switch and Go - Velociraptor Helicopter"
+    },
+    {
+      "id": "y6CyOe--NkE",
+      "channel": "ForFranc",
+      "duration": 19.0,
+      "title": "VTech: Switch & Go Dinos: Grando the Giganotosaurus / MC Roar UK Startup & Shutdown (Driver Mode)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2020-ty-beanie-boo-spirit",
+  "year": 2020,
+  "name": "Ty Beanie Boo Spirit",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/this-is-spirit-the-german-shepherd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebubbleroom.ie/products/this-is-spirit-the-german-shepherd",
+      "title": "Ty Beanie Boo Spirit",
+      "description": "This is Spirit part of the amazing TY Beanie Boo glitter eyed range. Approx 6\"",
+      "image": "http://www.thebubbleroom.ie/cdn/shop/products/BeanieBooSpirit_1200x1200.jpg?v=1593266016",
+      "ld_description": "This is Spirit part of the amazing TY Beanie Boo glitter eyed range. Approx 6\"",
+      "brand": "Ty",
+      "ld_image": "https://www.thebubbleroom.ie/cdn/shop/products/BeanieBooSpirit_383x.jpg?v=1593266016"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8UJxwPtZqIY",
+      "channel": "BeanieTV Productions",
+      "duration": 245.0,
+      "title": "Beanie Boo Spirit Review!"
+    },
+    {
+      "id": "qzhTD0cmScs",
+      "channel": "FreshTake",
+      "duration": 37.0,
+      "title": "Spirit the German Shepherd TY Animal REVIEW"
+    },
+    {
+      "id": "RBG833zyzxA",
+      "channel": "Amanda's Adventure",
+      "duration": 140.0,
+      "title": "Beanie Boo Review (Spirit)"
+    },
+    {
+      "id": "RGNAJqB97LA",
+      "channel": "Ha Sa",
+      "duration": 434.0,
+      "title": "Top 10 CUTEST Beanie Boos!"
+    },
+    {
+      "id": "mFqyKnU0LYQ",
+      "channel": "Ty World",
+      "duration": 233.0,
+      "title": "Spirit x Phoenix wedding (love story)"
+    }
+  ]
+}

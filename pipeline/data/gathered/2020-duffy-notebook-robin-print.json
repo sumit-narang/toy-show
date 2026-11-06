@@ -1,0 +1,54 @@
+{
+  "id": "2020-duffy-notebook-robin-print",
+  "year": 2020,
+  "name": "Duffy Notebook - Robin Print",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "Designist, Dublin",
+      "url": "https://shop.designist.ie/collections/irish-gifts/products/20695512"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://shop.designist.ie/collections/irish-gifts/products/20695512"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MkHnTd06B4Y",
+      "channel": "Robin’s Notebook",
+      "duration": 225.0,
+      "title": "CBSE 2027  Is Getting Harder Because of These Teachers! (The Truth Exposed)"
+    },
+    {
+      "id": "RY-WBBKDQJg",
+      "channel": "The Guardian",
+      "duration": 205.0,
+      "title": "Guardian Goggles: because life's too short to think for yourself"
+    },
+    {
+      "id": "_La9NC90oCk",
+      "channel": "NPR Music and Mumford & Sons",
+      "duration": 1019.0,
+      "title": "Mumford & Sons: Tiny Desk Concert"
+    },
+    {
+      "id": "_2ZwabG0Zgw",
+      "channel": "iVillage",
+      "duration": 324.0,
+      "title": "Andrea Mitchell: 2010 the Year of the \"Angry\" and \"Ticked Off\" Moms and Non-Moms"
+    },
+    {
+      "id": "4qPQBcWcsdk",
+      "channel": "Esdichi - Soluciones Informáticas",
+      "duration": 1257.0,
+      "title": "♐ How to KNOW if a laptop SCREEN WORKS 🏉 T80S TESTER 🍈"
+    }
+  ]
+}

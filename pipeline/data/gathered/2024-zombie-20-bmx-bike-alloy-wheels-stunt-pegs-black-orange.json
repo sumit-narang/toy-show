@@ -1,0 +1,42 @@
+{
+  "id": "2024-zombie-20-bmx-bike-alloy-wheels-stunt-pegs-black-orange",
+  "year": 2024,
+  "name": "Zombie 20\" BMX Bike – Alloy Wheels, Stunt Pegs, Black/Orange",
+  "price_eur": 243.0,
+  "price_text": "€243",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/20-zombie-bmx"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/20-zombie-bmx",
+      "title": "Zombie Outbreak 20\" BMX Bike - Alloy | Clarkes of Cavan",
+      "description": "Shop Zombie Outbreak 20\" BMX Bike - Alloy Wheels at Clarkes of Cavan. A kids' BMX bike for active riding and learning new skills. Available online in Ireland.",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/zombie-outbreak-20-bmx-bike-1_f5b6e29e-9651-4ba8-8e64-f4177ef6d0d8.webp?crop=center&height=1200&v=1783009346&width=1200",
+      "ld_description": "The Zombie Outbreak 20\" BMX Bike is the ideal entry-level bike for riders looking to dive into the world of BMX flatland tricks. Built around a durable Hi-Tensile steel frame, the bike is designed to withstand the demands of beginner BMX riders. Its 20\" alloy wheels provide a smooth and strong foundation for various tricks, while the powerful V-brakes ensure responsive stopping power. The stunt pegs offer the perfect introduction to learning key tricks such as peg wings, hang 5’s, tailwhips, and bunny hops, giving new riders the confidence to explore and perform.\n\nThis BMX bike is suitable for riders with an inside leg measurement of 20 inches or more, and is designed to accommodate a wide range of ages (7 to adult). Its unisex design ensures it is perfect for all BMX enthusiasts.\n\nKey Features:\n\n\n\t\nHi-Tensile Steel Frame: Strong and durable, the Hi-Tensile steel frame provides a sturdy foundation for learning BMX tricks and stunts.\n\t\n20\" Alloy Wheels: Lightweight yet strong, these alloy wheels are built for durability and smooth riding on various surfaces.\n\t\nPowerful V-Brakes: Front and rear V-brakes offer reliable stopping power, providing control and safety during stunts and tricks.\n\t\nStunt Pegs: Comes equipped with a set of stunt pegs, making it ideal for flatland tricks like peg wings, hang 5’s, tailwhips, and bunny hops.\n\t\nUnisex Design: Designed to suit both boys and girls, the Zombie Outbreak BMX bike is a great choice for all riders.\n\t\nAge Range: Suitable for riders ",
+      "brand": "Clarkes of Cavan",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/zombie-outbreak-20-bmx-bike-1_f5b6e29e-9651-4ba8-8e64-f4177ef6d0d8.webp?v=1783009346&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0qcWOTXCrUY",
+      "channel": "Scotty Cranmer",
+      "duration": 873.0,
+      "title": "Matty Cranmer Rides Both Of These Bikes And The Results Will SHOCK You"
+    },
+    {
+      "id": "zC9V6tbWkc4",
+      "channel": "Diamondback Bicycles",
+      "duration": 146.0,
+      "title": "Diamondback Tech: BMX Gyro Brake Cable Installation and Adjust"
+    }
+  ]
+}

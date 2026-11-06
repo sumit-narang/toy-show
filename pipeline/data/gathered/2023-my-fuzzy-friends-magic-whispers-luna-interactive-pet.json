@@ -1,0 +1,57 @@
+{
+  "id": "2023-my-fuzzy-friends-magic-whispers-luna-interactive-pet",
+  "year": 2023,
+  "name": "My Fuzzy Friends Magic Whispers Luna Interactive Pet",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/my-fuzzy-friends-magic-whispers-luna-interactive-pet/p/226590"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/my-fuzzy-friends-magic-whispers-luna-interactive-pet/p/226590",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RhNjRty948k",
+      "channel": "TTPM Toy Reviews",
+      "duration": 131.0,
+      "title": "My Fuzzy Friends Magic Whispers Kitty"
+    },
+    {
+      "id": "KJFVXxJjiJM",
+      "channel": "QVC",
+      "duration": 453.0,
+      "title": "My Fuzzy Friends Magic Whispers Interactive Kitty on QVC"
+    },
+    {
+      "id": "ZjY1K0lsDjI",
+      "channel": "QVC",
+      "duration": 656.0,
+      "title": "My Fuzzy Friends Magic Whispers Interactive Kitty on QVC"
+    },
+    {
+      "id": "5cwnE4fz6o0",
+      "channel": "jumbostores",
+      "duration": 18.0,
+      "title": "My Fuzzy Friends Magic Whisper Kitty Διαδραστικό Γατάκι - Giochi Preziosi"
+    },
+    {
+      "id": "qhdX0nhrCwo",
+      "channel": "A LaCroix",
+      "duration": 141.0,
+      "title": "A little interaction with my fuzzy friends."
+    }
+  ]
+}

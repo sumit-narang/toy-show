@@ -1,0 +1,29 @@
+{
+  "id": "2025-an-it-a-neitl-onn-na-mada-crainn-by-aileen-crossley",
+  "year": 2025,
+  "name": "An Áit a nEitlíonn na Madaí Crainn by Aileen Crossley",
+  "price_eur": 14.0,
+  "price_text": "€14.00",
+  "retailers": [
+    {
+      "name": "Eabhloid",
+      "url": "https://eabhloid.com/siopa/madai-crainn/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://eabhloid.com/siopa/madai-crainn/",
+      "title": "An Áit a nEitlíonn na Madaí Crainn - Éabhlóid",
+      "description": "Leabhar Pictiúr do pháistí le Aileen Crossley. Leabhar pictiúr álainn do pháistí le Aileen Crossley a thugann ar thuras draíochtach tríd an nádúr dúchasach muid go dtí na háiteanna speisialta a thógann do chroí.",
+      "image": "https://eabhloid.com/wp-content/uploads/2025/04/Madaitabla-scaled.jpg",
+      "ld_description": "Leabhar pictiúr álainn do pháistí le Aileen Crossley a thugann ar thuras draíochtach tríd an nádúr dúchasach muid go dtí na háiteanna speisialta a thógann do chroí.",
+      "brand": "éabhlóid",
+      "ld_image": "https://eabhloid.com/wp-content/uploads/2025/04/Madaitabla-scaled.jpg"
+    }
+  ],
+  "video_candidates": []
+}

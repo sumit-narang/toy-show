@@ -1,0 +1,54 @@
+{
+  "id": "2023-play-doh-multi-pack",
+  "year": 2023,
+  "name": "Play-Doh Multi-Pack",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Art & Hobby",
+      "url": "https://www.artnhobby.ie/products/pd-super-colour-pack-20-pack-h0617924"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.artnhobby.ie/products/pd-super-colour-pack-20-pack-h0617924"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WSr-QxMbfxA",
+      "channel": "Cutting Webb Designs ",
+      "duration": 44.0,
+      "title": "Play-Doh Jewel Colors Bulk 12-Pack - Review"
+    },
+    {
+      "id": "VlLCHyBdghk",
+      "channel": "DCTC Toy Channel",
+      "duration": 581.0,
+      "title": "Play Doh SUPER TOOLS 3 Playdough Extruders Colorful Shapes and Molds DCTC Toy Episodes"
+    },
+    {
+      "id": "5izFGvh5nhA",
+      "channel": "Navya Singh",
+      "duration": 171.0,
+      "title": "Unboxing Funskool Fundoh Gift Set, Multicolor Play Doh - Set Of 5 Colors"
+    },
+    {
+      "id": "-BLmUNt_PUU",
+      "channel": "Tips Mania",
+      "duration": 102.0,
+      "title": "Play-Doh Modeling Compound 36-Pack Case of Colors, Non-Toxic, Assorted Colors"
+    },
+    {
+      "id": "ZGYT4bI-w7E",
+      "channel": "TTPM Toy Reviews",
+      "duration": 184.0,
+      "title": "Play-Doh Grown Up Scents 90s Edition from Hasbro Review!"
+    }
+  ]
+}

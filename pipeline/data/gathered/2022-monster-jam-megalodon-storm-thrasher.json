@@ -1,0 +1,57 @@
+{
+  "id": "2022-monster-jam-megalodon-storm-thrasher",
+  "year": 2022,
+  "name": "Monster Jam Megalodon Storm Thrasher",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SAt-XTT4r8I",
+      "channel": "TTPM Toy Reviews",
+      "duration": 108.0,
+      "title": "Monster Jam Official Megalodon Storm All-Terrain Remote Control from Spin Master"
+    },
+    {
+      "id": "hUUaLybdlcg",
+      "channel": "Scattered Adventures",
+      "duration": 203.0,
+      "title": "Monster Jam, Official Megalodon Storm All-Terrain Remote Control Monster Truck, 1:15 Scale"
+    },
+    {
+      "id": "8a7NArczoEk",
+      "channel": "RC Ninja",
+      "duration": 72.0,
+      "title": "Monster Jam Megalodon “Storm Thrasher” - Test Drive"
+    },
+    {
+      "id": "oIwxRTN2SP4",
+      "channel": "ExtremeToys TV",
+      "duration": 540.0,
+      "title": "Monster Jam Megalodon Storm RC! Ethan and Cole Have a Extreme RC Challenge!"
+    },
+    {
+      "id": "xpuO_G8Bb4Q",
+      "channel": "Monster Jam",
+      "duration": 31.0,
+      "title": "Megalodon Storm All-Terrain Remote Control Monster Truck | Monster Jam"
+    }
+  ]
+}

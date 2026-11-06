@@ -1,0 +1,51 @@
+{
+  "id": "2023-puppy-surprise",
+  "year": 2023,
+  "name": "Puppy Surprise",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/soft-toys-and-teddy-bears/puppy-surprise-cherry-and-her-puppies/p/219090"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/soft-toys-and-teddy-bears/puppy-surprise-cherry-and-her-puppies/p/219090",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E7bGlQ095Mc",
+      "channel": "Ginger Cat",
+      "duration": 650.0,
+      "title": "New Puppy Surprise Compilation 2024! The Best DOG Moments"
+    },
+    {
+      "id": "efH56w7RAiE",
+      "channel": "wtcvidman",
+      "duration": 61.0,
+      "title": "1991 Puppy Surprise Commercial"
+    },
+    {
+      "id": "sbdpLNAZphc",
+      "channel": "T H",
+      "duration": 43.0,
+      "title": "Christmas Puppy Surprise leaves kids in tears"
+    },
+    {
+      "id": "lAidEvxUS4M",
+      "channel": "Compliation station",
+      "duration": 1086.0,
+      "title": "Puppy Surprise COMPILATION !!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-moulin-roty-large-octopus",
+  "year": 2024,
+  "name": "Moulin Roty Large Octopus",
+  "price_eur": 80.0,
+  "price_text": "€80",
+  "retailers": [
+    {
+      "name": "Green Chair Sneem",
+      "url": "https://greenchair.ie/product/moulin-roty-large-octopus/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://greenchair.ie/product/moulin-roty-large-octopus/",
+      "title": "Moulin Roty Large Octopus - Green Chair Sneem",
+      "description": "Moulin Roty Tout Autour Du Monde is a  collection of soft toys from ‘All round the World’.  Animals from under the sea (Sous la Mer) and in the air (Dans la Airs) take us on a fabulous adventure with fur, feathers tentacles and scales. There is no shortage of long…",
+      "image": "https://greenchair.ie/wp-content/uploads/2022/11/719025_1-scaled.jpg",
+      "ld_description": "Moulin Roty Tout Autour Du Monde is a  collection of soft toys from ‘All round the World’.  Animals from under the sea (Sous la Mer) and in the air (Dans la Airs) take us on a fabulous adventure with fur, feathers tentacles and scales.\r\n\r\nThere is no shortage of long limbs for this large octopus to hug you with.  He has blue eyes, a soft gold furry body and 8 long curled tentacles.  The tentacles are different lengths and are lined with different fabrics including velvet and cord.  Also available in a smaller size.\r\n\r\nApprox 69 cm\r\n\r\nMaterial: cotton, polyester,  fibres\r\nCare: Washable at 30 ° C delicate wash. Not suitable for the drier.\r\n\r\nSuitable from 10 months\r\n\r\n&nbsp;",
+      "brand": null,
+      "ld_image": "https://greenchair.ie/wp-content/uploads/2022/11/719025_1-scaled.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qBKREaX4lS8",
+      "channel": "Fleurtations",
+      "duration": 125.0,
+      "title": "Moulin Roty Fleurtations"
+    },
+    {
+      "id": "nl7Z2twWHmE",
+      "channel": "Little Tiger Gifts",
+      "duration": 66.0,
+      "title": "Moulin Roty Tout Autor Du Monde Heron"
+    },
+    {
+      "id": "e6N4GX2e5Qg",
+      "channel": "Sous Vide Everything",
+      "duration": 602.0,
+      "title": "Sous Vide OCTOPUS Experiment - AKA Pulpo!"
+    },
+    {
+      "id": "6lFMbFr5dHg",
+      "channel": "Maileg",
+      "duration": 726.0,
+      "title": "LouiMax Dreams of Being an Adult | Maileg Original Short Film for Kids | EN"
+    },
+    {
+      "id": "jPhbVUphxGk",
+      "channel": "Toy Life",
+      "duration": 46.0,
+      "title": "TOY Life Kites for Kids Easy to Fly - Large Rainbow Delta Kite and 2 Giant Octopus Kite"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-swingball-reflex-soccer",
+  "year": 2025,
+  "name": "Swingball Reflex Soccer",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/all-surface-soccer-sq"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/all-surface-soccer-sq"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Hctf908bGkc",
+      "channel": "ToysEpic",
+      "duration": 28.0,
+      "title": "Reflex Soccer Football Sports Swing Ball Training Play Set Toy for Kids | Toysfactory.in"
+    },
+    {
+      "id": "qf5zMaEwRf8",
+      "channel": "Ricardo Inverno",
+      "duration": 244.0,
+      "title": "Unboxing swingball"
+    },
+    {
+      "id": "iif6BJ_09R4",
+      "channel": "Devil Deals",
+      "duration": 482.0,
+      "title": "Physical Activity Game | Reflex Soccer Playset | Unboxing"
+    },
+    {
+      "id": "Uyslrnrkjf4",
+      "channel": "Kills4Skillz",
+      "duration": 32.0,
+      "title": "Stupid Swingball Soccer"
+    },
+    {
+      "id": "BY1QMZWZu-U",
+      "channel": "Hearthsong",
+      "duration": 40.0,
+      "title": "Family-Friendly Classic Swingball Game is a Backyard Hit"
+    }
+  ]
+}

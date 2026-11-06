@@ -1,0 +1,57 @@
+{
+  "id": "2020-greta-thunberg-little-people-big-dreams",
+  "year": 2020,
+  "name": "Greta Thunberg - Little People, Big Dreams",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/greta-thunberg-a-big-dreams-little-people-hardback-book-by"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dCqtSg0brFc",
+      "channel": "Castle Hill",
+      "duration": 337.0,
+      "title": "Little People, Big Dreams - Greta Thunberg Story - Year 4"
+    },
+    {
+      "id": "tl8H2T4o8H8",
+      "channel": "StoryTimeFamily",
+      "duration": 720.0,
+      "title": "Greta Thunberg - Little People, Big Dreams | A story standing up for change"
+    },
+    {
+      "id": "Hlswzi0sO1U",
+      "channel": "Books For Kids read aloud by Flying Dragons (Books Read Aloud for Kids)",
+      "duration": 354.0,
+      "title": "Little People Big Dreams Greta Thunberg by Isabel Vegara  Books Read Aloud for Children | Audiobooks"
+    },
+    {
+      "id": "d1whd7FQ3oc",
+      "channel": "Reading Is Life",
+      "duration": 262.0,
+      "title": "Greta Thunberg | Kids Book Read Aloud | Women’s History Month"
+    },
+    {
+      "id": "uJrdIgKs2SM",
+      "channel": "Read Out Loud 4 Me",
+      "duration": 217.0,
+      "title": "GRETA THUNBERG (LITTLE PEOPLE, BIG DREAMS) ⭐️🌈 📚 Read Out Loud 4 Me!"
+    }
+  ]
+}

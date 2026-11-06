@@ -1,0 +1,57 @@
+{
+  "id": "2022-happy-hopperz-turquoise-unicorn",
+  "year": 2022,
+  "name": "Happy Hopperz Turquoise Unicorn",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X05aHGTDZL0",
+      "channel": "Autocar India",
+      "duration": 752.0,
+      "title": "MG Hector Tomahawk - Plug-in hybrid XUV 7XO rival | First Look | Autocar India"
+    },
+    {
+      "id": "1G7h9o3F9fk",
+      "channel": "Sunwave Postcards",
+      "duration": 183.0,
+      "title": "Island Hopper – Tropical Island Trip | Free Vlog Music (Royalty Free)"
+    },
+    {
+      "id": "Hrz34nzZXRs",
+      "channel": "KidsFirstTV",
+      "duration": 1747.0,
+      "title": "Helper Cars & the colored tow trucks for kids. New full episodes of car cartoons for kids."
+    },
+    {
+      "id": "n1M9omhIo6g",
+      "channel": "CoComelon JJ's Animal Time - Nursery Rhymes",
+      "duration": 239.0,
+      "title": "The Tortoise and the Hare! | CoComelon Furry Friends | Animals for Kids"
+    },
+    {
+      "id": "FUAlpS6-9Ns",
+      "channel": "Hello Insect",
+      "duration": 750.0,
+      "title": "Insect: Centipede, Butterfly, Hercules Beetle, Jewel Flower Mantis, Cockcroach, Mealworm, Spider"
+    }
+  ]
+}

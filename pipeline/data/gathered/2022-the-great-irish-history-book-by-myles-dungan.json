@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-great-irish-history-book-by-myles-dungan",
+  "year": 2022,
+  "name": "The Great Irish History Book by Myles Dungan",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/myles-dungan-the-great-irish-history-book"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://nimblefingers.ie/products/myles-dungan-the-great-irish-history-book"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lJugaJOG8B8",
+      "channel": "Alan Dunne",
+      "duration": 46.0,
+      "title": "The Great Irish History Book by Myles Dungan, illustrated by Alan Dunne."
+    },
+    {
+      "id": "npBs5rKI-Xw",
+      "channel": "Google Play Books",
+      "duration": 1224.0,
+      "title": "Land Is All That Matters: The Struggle That… by Myles Dungan · Audiobook preview"
+    },
+    {
+      "id": "X7twwbz5Eqs",
+      "channel": "Royal Irish Academy",
+      "duration": 292.0,
+      "title": "Meet the authors: Myles Dungan"
+    },
+    {
+      "id": "y3flYtjVn0s",
+      "channel": "Google Play Books",
+      "duration": 1015.0,
+      "title": "The Plot Against Ireland: The Forger, Spies,… by Myles Dungan · Audiobook preview"
+    },
+    {
+      "id": "d_qFfYFua00",
+      "channel": "Alan Dunne",
+      "duration": 49.0,
+      "title": "The Forgettables. A history book by Myles Dungan, illustrated by Alan Dunne."
+    }
+  ]
+}

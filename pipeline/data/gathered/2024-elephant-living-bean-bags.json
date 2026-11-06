@@ -1,0 +1,57 @@
+{
+  "id": "2024-elephant-living-bean-bags",
+  "year": 2024,
+  "name": "Elephant Living Bean Bags",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Elephant Living",
+      "url": "https://elephantliving.com/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://elephantliving.com/",
+      "title": "Buy Bean Bags in Ireland & Home Furnishings | Elephant Living",
+      "description": "Buy bean bags in Ireland from Elephant Living, Irish-made bean bags & homeware, delivered pre-filled nationwide with fast delivery and easy returns.",
+      "image": "http://elephantliving.com/cdn/shop/files/Elephant_by_Julia_Dunin_Photography_38_grande.jpg?v=1614301011"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EwBHmyMHMzg",
+      "channel": "Elephant Beanbags",
+      "duration": 34.0,
+      "title": "Elephant Kumo Bean Bag"
+    },
+    {
+      "id": "8c8pgC2sto0",
+      "channel": "Elephant Beanbags",
+      "duration": 33.0,
+      "title": "Elephant Lounger Bean Bag"
+    },
+    {
+      "id": "hOMNMUF-Q2c",
+      "channel": "Elephant Beanbags",
+      "duration": 6.0,
+      "title": "Elephant Bean Bag Outdoor"
+    },
+    {
+      "id": "kK9tatBW1_I",
+      "channel": "Elephant Beanbags",
+      "duration": 55.0,
+      "title": "Elephant Kumo"
+    },
+    {
+      "id": "tHQJ7mJp7PQ",
+      "channel": "KID 2 KID MULLINGAR",
+      "duration": 67.0,
+      "title": "Elephant Bean Bag"
+    }
+  ]
+}

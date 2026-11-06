@@ -1,0 +1,54 @@
+{
+  "id": "2025-topmodel-dress-me-up-sticker-book-cosy",
+  "year": 2025,
+  "name": "TOPModel Dress Me Up sticker book – COSY",
+  "price_eur": 5.95,
+  "price_text": "€5.95",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/topmodel-dress-me-up-stickerbook-cosy-6366506"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/topmodel-dress-me-up-stickerbook-cosy-6366506"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tFWjdIhz0eo",
+      "channel": "Krystal Klear Ideas",
+      "duration": 499.0,
+      "title": "Goldmine & Coco  Fashion Sticker Book Flip-thru | Krystal Klear Ideas"
+    },
+    {
+      "id": "pKy50W6k0xk",
+      "channel": "Hello katty toys",
+      "duration": 478.0,
+      "title": "Oddly Satisfying ASMR Sticker Book Sanrio dress up stickers anime | NO TALKING  # 2 🎀 👗"
+    },
+    {
+      "id": "oPeye6mfYaE",
+      "channel": "GJS Channel",
+      "duration": 27.0,
+      "title": "Popstar Princess Dress-up Fun! Stickers Book (Dress us with Over 50 Stickers!)"
+    },
+    {
+      "id": "fSEJRUbYlgk",
+      "channel": "Web of Books",
+      "duration": 72.0,
+      "title": "Sticker Dolly Dressing Parties"
+    },
+    {
+      "id": "sa_fQCsQkgg",
+      "channel": "GJS Channel",
+      "duration": 33.0,
+      "title": "Pretty Princess Dress-up Fun! Stickers Book (Dress us with Over 50 Stickers!)"
+    }
+  ]
+}

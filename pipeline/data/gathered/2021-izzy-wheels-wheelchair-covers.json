@@ -1,0 +1,57 @@
+{
+  "id": "2021-izzy-wheels-wheelchair-covers",
+  "year": 2021,
+  "name": "Izzy Wheels Wheelchair Covers",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Izzy Wheels",
+      "url": "https://www.izzywheels.com/"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.izzywheels.com/",
+      "title": "Wheelchair Spoke Guards | Izzy Wheels | Fashion Wheel Covers Ireland",
+      "description": "Shop designer wheelchair spoke covers by Izzy Wheels. Stylish, custom wheel covers that express personality and ship worldwide",
+      "image": "https://static.wixstatic.com/media/38036e_a27d414619114eb59cdec2dd4ca0ee25%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/38036e_a27d414619114eb59cdec2dd4ca0ee25%7Emv2.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "58D8EpTuw7g",
+      "channel": "Adaptive Parent Project",
+      "duration": 238.0,
+      "title": "Unboxing Izzy Wheels: Helping Wheelchair Users Protect Little Hands and Feet From Getting Hurt"
+    },
+    {
+      "id": "vy5rg46R4Ak",
+      "channel": "Wheelsnoheels - Gem Hubbard",
+      "duration": 598.0,
+      "title": "♿️ MOBILITY AID REVIEW: WHEELCHAIR PUSH-RIM COVERS! ARE THEY WORTH IT?🤔 Gripoz [CC]"
+    },
+    {
+      "id": "lXvYtzBRZWo",
+      "channel": "Microsoft Ireland",
+      "duration": 92.0,
+      "title": "Izzy Wheels - Beneath The Surface"
+    },
+    {
+      "id": "vGGDSkJZEog",
+      "channel": "Inspirefest HQ",
+      "duration": 430.0,
+      "title": "Ailbhe and Izzy Keane present Izzy Wheels at Inspirefest 2017"
+    },
+    {
+      "id": "KgtGTtPmOww",
+      "channel": "Colleen Cosplay",
+      "duration": 868.0,
+      "title": "Small Business Unboxing! Cool Crutches & Izzy Wheels"
+    }
+  ]
+}

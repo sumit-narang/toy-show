@@ -1,0 +1,53 @@
+{
+  "id": "2017-discovery-globe-build-your-own-globe-kit",
+  "year": 2017,
+  "name": "Discovery Globe: Build Your Own Globe Kit",
+  "price_eur": 16.8,
+  "price_text": "€16.80",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3xDazXmMndc",
+      "channel": "Candlewick Press",
+      "duration": 37.0,
+      "title": "Discovery Globe: Build-Your-Own Globe Kit Virtual Book Video"
+    },
+    {
+      "id": "Xk-m1_MfyIE",
+      "channel": "Candlewick Press",
+      "duration": 44.0,
+      "title": "Discovery Globe: Build-Your-Own Globe Kit Timelapse"
+    },
+    {
+      "id": "OktuUGDdVkY",
+      "channel": "Shouldigetit2",
+      "duration": 83.0,
+      "title": "Discovery Kids 2-in-1 World Globe LED Lamp Review"
+    },
+    {
+      "id": "ZqpeuxS_Nrs",
+      "channel": "Robotime",
+      "duration": 50.0,
+      "title": "ROKR The Globe ST002 Huge 3D Wooden Model"
+    },
+    {
+      "id": "H3LmSFC8fDI",
+      "channel": "Globe Market",
+      "duration": 32.0,
+      "title": "Snap Circuits LIGHT Electronics Exploration Kit | Over 175 Exciting STEM Projects"
+    }
+  ]
+}

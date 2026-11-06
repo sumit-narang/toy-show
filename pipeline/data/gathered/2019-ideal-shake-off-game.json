@@ -1,0 +1,54 @@
+{
+  "id": "2019-ideal-shake-off-game",
+  "year": 2019,
+  "name": "IDEAL Shake Off Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/ideal-shake-off/1600374309.prd"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/ideal-shake-off/1600374309.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "W6VhxJ8el7Q",
+      "channel": "johnadamstoys",
+      "duration": 22.0,
+      "title": "Shake Off Game by Ideal"
+    },
+    {
+      "id": "GQ-KV9gG7oU",
+      "channel": "johnadamstoys",
+      "duration": 152.0,
+      "title": "Toy Fair TV kids play the Shake Off game!"
+    },
+    {
+      "id": "8foGjQWjrQk",
+      "channel": "Fishy Beats",
+      "duration": 215.0,
+      "title": "Shake it Off by Taylor Swift Body Percussion"
+    },
+    {
+      "id": "TCrYqhxIRRg",
+      "channel": "Kent Hamilton",
+      "duration": 146.0,
+      "title": "Cardio Desk Drumming - “Shake It Off”"
+    },
+    {
+      "id": "0w6h-W4My2I",
+      "channel": "hotcyder",
+      "duration": 1847.0,
+      "title": "Best of Steam Next Fest - October 2026"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2021-the-sock-game-board-game",
+  "year": 2021,
+  "name": "The Sock Game Board Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/search?options%5Bprefix%5D=last&q=the+sock+game"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/search?options%5Bprefix%5D=last&q=the+sock+game",
+      "title": "Search: 17 results found for \"the sock game\"",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QtljQXSjjt0",
+      "channel": "BoardGameBollocks",
+      "duration": 388.0,
+      "title": "The Sock Game - Quick Review"
+    },
+    {
+      "id": "4k2XGT5syQU",
+      "channel": "Nikki Bush, Business Speaker",
+      "duration": 85.0,
+      "title": "The Sock Game from Spin Master | SHOP NOW on takealot.com"
+    },
+    {
+      "id": "YErtZEW56fo",
+      "channel": "asmodee UK",
+      "duration": 42.0,
+      "title": "The Sock Game - How to Play"
+    },
+    {
+      "id": "5w_QzzaC6_s",
+      "channel": "Wade Cuevas",
+      "duration": 35.0,
+      "title": "The Sock Game Hilarious Family Game for Kids Ages 8 and Up review"
+    },
+    {
+      "id": "7nvTLmCxmpo",
+      "channel": "Daddy'sToyKingdom",
+      "duration": 503.0,
+      "title": "DAD VS SON The Sock Game Challenge! Fun Family Game By Spinmaster Games!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-fisher-price-disney-winnie-the-pooh-my-friend-pooh",
+  "year": 2022,
+  "name": "Fisher Price Disney Winnie the Pooh, My Friend Pooh",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/mthgr58?_pos=1&_sid=fe84ba128&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/mthgr58?_pos=1&_sid=fe84ba128&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-N2aLlNFHQY",
+      "channel": "Clovernook Country Club Bear's videos ",
+      "duration": 17.0,
+      "title": "Magic Rattle Pooh Commercial (2002)"
+    },
+    {
+      "id": "Vf_aNaqXJ9o",
+      "channel": "Christmas Everyday",
+      "duration": 199.0,
+      "title": "SHOWTIME POOH"
+    },
+    {
+      "id": "kO1WxqRWFtw",
+      "channel": "Katrina's Toy Channel",
+      "duration": 69.0,
+      "title": "2001 Disney Winnie the Pooh Touch My Toes Pooh Bear Plush By Fisher Price"
+    },
+    {
+      "id": "m-4GAPs2GDk",
+      "channel": "Bestseller4u",
+      "duration": 178.0,
+      "title": "Fisher Price Winnie the Pooh Rumbly Tummy Pooh"
+    },
+    {
+      "id": "RV2B4uyZbZE",
+      "channel": "irysky",
+      "duration": 80.0,
+      "title": "Radio tigger Mattel Winnie Pooh"
+    }
+  ]
+}

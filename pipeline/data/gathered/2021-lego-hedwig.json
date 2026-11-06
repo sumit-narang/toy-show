@@ -1,0 +1,60 @@
+{
+  "id": "2021-lego-hedwig",
+  "year": 2021,
+  "name": "LEGO Hedwig",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/hedwig-75979"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/hedwig-75979",
+      "title": "Hedwig™ 75979 | Harry Potter™ | Buy online at the Official LEGO® Shop IE",
+      "description": "Collectible LEGO® Hedwig™ the owl with ‘flying’ wings",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt0f0fe1926e707af5/75979.jpg?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "Collectible LEGO® Hedwig™ the owl with ‘flying’ wings",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/blt0f0fe1926e707af5/75979.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "74zI4PmNnMA",
+      "channel": "AustrianBrickFan",
+      "duration": 620.0,
+      "title": "LEGO Harry Potter 75979 Buildable Hedwig - Lego Speed Build Review"
+    },
+    {
+      "id": "2cNzMBOiyCI",
+      "channel": "BuilderTim",
+      "duration": 184.0,
+      "title": "Every LEGO Hedwig"
+    },
+    {
+      "id": "8J0ociF8m50",
+      "channel": "AustrianBrickFan",
+      "duration": 386.0,
+      "title": "LEGO Harry Potter 76425 Hedwig at 4 Privet Drive – LEGO Speed Build Review"
+    },
+    {
+      "id": "xZAUcmIryEM",
+      "channel": "Tiago Catarino",
+      "duration": 586.0,
+      "title": "LEGO Hogwarts Icons Review"
+    },
+    {
+      "id": "jlwyFOFTrGQ",
+      "channel": "AustrianBrickFan",
+      "duration": 1968.0,
+      "title": "LEGO Harry Potter 76391 Hogwarts™ Icons - Collectors' Edition Speed Build"
+    }
+  ]
+}

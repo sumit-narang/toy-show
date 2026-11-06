@@ -1,0 +1,57 @@
+{
+  "id": "2017-good-night-stories-for-rebel-girls",
+  "year": 2017,
+  "name": "Good Night Stories for Rebel Girls",
+  "price_eur": 22.5,
+  "price_text": "€22.50",
+  "retailers": [
+    {
+      "name": "Designist or Easonsfor",
+      "url": "http://designist.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://shop.designist.ie/",
+      "title": "designist | Irish & European Gifts, Home Décor, Cards & Stationery",
+      "description": "Discover beautifully designed Irish & European gifts, home décor, greeting cards, stationery, candles & souvenirs at designist. Thoughtful presents for birthdays & every occasion.",
+      "image": "https://shop.designist.ie/cdn/shop/files/shop_front_1204x630.jpg?v=1781710494"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_3hPRe85rjI",
+      "channel": "Stories for Kids",
+      "duration": 911.0,
+      "title": "Good Night Stories for Rebel Girls - Ada Lovelace read by Jodi Kantor"
+    },
+    {
+      "id": "DS4qdvFxGXo",
+      "channel": "Stories for Kids",
+      "duration": 991.0,
+      "title": "Good Night Stories for Rebel Girls - Grace O'Malley read by Allison Mosshart"
+    },
+    {
+      "id": "k6QVTyStubc",
+      "channel": "Stories for Kids",
+      "duration": 1105.0,
+      "title": "Good Night Stories for Rebel Girls- Yusra Mardini read by Diana Nyad"
+    },
+    {
+      "id": "zhHB3Nr0KMo",
+      "channel": "Brains N Motion Toys",
+      "duration": 194.0,
+      "title": "'Good Night Stories for Rebel Girls'"
+    },
+    {
+      "id": "DvimjQHUTRM",
+      "channel": "Stories for Kids",
+      "duration": 1060.0,
+      "title": "Good Night Stories for Rebel Girls- Harriet Tubman read by Tarana Burke"
+    }
+  ]
+}

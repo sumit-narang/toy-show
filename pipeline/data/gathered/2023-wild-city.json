@@ -1,0 +1,54 @@
+{
+  "id": "2023-wild-city",
+  "year": 2023,
+  "name": "Wild City",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.dubraybooks.ie/product/do-you-remember-hb-9781529519914"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/do-you-remember-hb-9781529519914"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "atLQdPXnt7w",
+      "channel": "The Pretty Reckless",
+      "duration": 289.0,
+      "title": "Wild City"
+    },
+    {
+      "id": "xnI6jzKV6h0",
+      "channel": "Go Wild",
+      "duration": 2773.0,
+      "title": "Hidden Wild | David Attenborough's Wild City 1/6 | Go Wild"
+    },
+    {
+      "id": "v2Y4VL1v1KE",
+      "channel": "Rotten Tomatoes Indie",
+      "duration": 112.0,
+      "title": "Wild City Official Trailer 1 (2015) - Action Movie HD"
+    },
+    {
+      "id": "DpiOX1JVkHs",
+      "channel": "Go Wild",
+      "duration": 2708.0,
+      "title": "Secret Forests | David Attenborough's Wild City 4/6 | Go Wild"
+    },
+    {
+      "id": "2XDLaNUCnmY",
+      "channel": "Go Wild",
+      "duration": 2763.0,
+      "title": "Islands| David Attenborough's Wild City 3/6 | Go Wild"
+    }
+  ]
+}

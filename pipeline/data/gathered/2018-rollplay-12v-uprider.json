@@ -1,0 +1,65 @@
+{
+  "id": "2018-rollplay-12v-uprider",
+  "year": 2018,
+  "name": "Rollplay 12V Uprider",
+  "price_eur": 249.99,
+  "price_text": "€249.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xdZs3TgV81E",
+      "channel": "The Parent Panel",
+      "duration": 63.0,
+      "title": "Rollplay 12V Uprider Ride On"
+    },
+    {
+      "id": "Kr7TtyoUGXg",
+      "channel": "Freddie griffiths",
+      "duration": 31.0,
+      "title": "rollplay 12V uprider - smyths toys"
+    },
+    {
+      "id": "OyNGr-QFL1g",
+      "channel": "Rollplay",
+      "duration": 55.0,
+      "title": "12V Up-Rider"
+    },
+    {
+      "id": "1VVla7khaf4",
+      "channel": "Baby Julius",
+      "duration": 114.0,
+      "title": "Rollplay 12V Nighthawk Electric Ride: Unboxing & Setup"
+    },
+    {
+      "id": "X96enqHQ-3k",
+      "channel": "Eileen Teo (ET Speaks From Home)",
+      "duration": 166.0,
+      "title": "Rollplay Nighthawk Ride On Review"
+    }
+  ]
+}

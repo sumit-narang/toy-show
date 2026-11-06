@@ -1,0 +1,57 @@
+{
+  "id": "2017-arckit-cityscape",
+  "year": 2017,
+  "name": "Arckit Cityscape",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "arckit.com",
+      "url": "http://arckit.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arckit.com/",
+      "title": "Arckit Architectural Model Building Blocks for Kids and Professionals",
+      "description": "Arckit is a collection of architectural model kits that encourage learning while playing. Professional and STEM series of model kits that are perfect for kids, architects, budding Architects, hobbyists, students and adults of all ages. The sophisticated building block for a new generation of creators.",
+      "image": "http://www.arckit.com/cdn/shop/files/arckit-1_copy_82f345a4-25f4-40b2-bd76-4156f56bc564_grande.jpg?v=1664527484"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i6r_QW6GEeI",
+      "channel": "Arckit",
+      "duration": 802.0,
+      "title": "Arckit CityScape Tutorial 1"
+    },
+    {
+      "id": "cgOFG6HaT_4",
+      "channel": "Arckit",
+      "duration": 948.0,
+      "title": "Arckit Cityscape Tutorial 5"
+    },
+    {
+      "id": "0OThBNFhC54",
+      "channel": "Arckit",
+      "duration": 504.0,
+      "title": "*NEW* Arckit Cityscape Unboxing and Test Model"
+    },
+    {
+      "id": "IFmRi3L5Ysw",
+      "channel": "Arckit",
+      "duration": 168.0,
+      "title": "How to Build | Arckit Model Representation of the Taj Mahal using Cityscape 2.0 Kit"
+    },
+    {
+      "id": "5Agp5Q7K-aI",
+      "channel": "Arckit",
+      "duration": 119.0,
+      "title": "Arckit Cityscape/Masterplan Launch"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2021-squeakee-minis-redgy-red-puppy",
+  "year": 2021,
+  "name": "Squeakee Minis Redgy Red Puppy",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/squeakee-minis-redgy-red-puppy/1600632576.prd?_requestid=610898&Ntt=squeakee"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/squeakee-minis-redgy-red-puppy/1600632576.prd?_requestid=610898&Ntt=squeakee"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yARtNXBzO9c",
+      "channel": "eddy rodriguez",
+      "duration": 98.0,
+      "title": "How to use Squeakee Minis"
+    },
+    {
+      "id": "JrlAGdpp3fM",
+      "channel": "Fun 3 Kids",
+      "duration": 201.0,
+      "title": "Squeakee Minis Interactive Party Balloon Animals Unboxing and Review"
+    },
+    {
+      "id": "q0jSkvV6ElI",
+      "channel": "Liam’s Toys and Taewondo",
+      "duration": 178.0,
+      "title": "Squeakee Minis"
+    },
+    {
+      "id": "gS2cuN2Ko5c",
+      "channel": "TTPM Toy Reviews",
+      "duration": 92.0,
+      "title": "Squeakee Minis from Moose Toys | Toy Review | Interactive Balloon Animals for Kids"
+    },
+    {
+      "id": "nqdd7FbEVZQ",
+      "channel": "Arianna & Friends",
+      "duration": 678.0,
+      "title": "SQUEAKEE MINIS TOY REVIEW!"
+    }
+  ]
+}

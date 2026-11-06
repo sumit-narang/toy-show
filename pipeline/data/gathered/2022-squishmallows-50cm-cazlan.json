@@ -1,0 +1,39 @@
+{
+  "id": "2022-squishmallows-50cm-cazlan",
+  "year": 2022,
+  "name": "Squishmallows 50cm Cazlan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FHC5iVD0FAk",
+      "channel": "TikTokTea",
+      "duration": 611.0,
+      "title": "squishmallow tiktoks that made me become a robber😈💵🤑"
+    },
+    {
+      "id": "1JWR3JweoA8",
+      "channel": "Top Best Picks",
+      "duration": 434.0,
+      "title": "The Top 5 Best Stackable Squishmallows in 2025 - Must Watch Before Buying!"
+    }
+  ]
+}

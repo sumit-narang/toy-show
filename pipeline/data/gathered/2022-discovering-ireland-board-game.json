@@ -1,0 +1,57 @@
+{
+  "id": "2022-discovering-ireland-board-game",
+  "year": 2022,
+  "name": "Discovering Ireland Board Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Gosling Gifts",
+      "url": "http://goslinggames.ie"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goslinggames.ie/",
+      "title": "Irish Jigsaw Puzzles & Board Games | Made in Ireland Since 1987",
+      "description": "Shop Irish jigsaw puzzles, board games and gifts, proudly designed and made in Ireland. Discover unique Irish designs from Gosling Games, established in 1987.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vjAn5RYj8ik",
+      "channel": "The Lucky Roll",
+      "duration": 247.0,
+      "title": "Discovering Ireland boardgame - Lucky Roll Reviews - Irish language review"
+    },
+    {
+      "id": "LU6x0SFX0xo",
+      "channel": "Rochs World",
+      "duration": 347.0,
+      "title": "Discovering Europe with Game Footage"
+    },
+    {
+      "id": "GR6uGdcI3_M",
+      "channel": "Little Big Thumbs",
+      "duration": 538.0,
+      "title": "4 Games of Ancient Europe - Are They Ready to Run it Back? | Board Game Mini Reviews"
+    },
+    {
+      "id": "Yr4XXkch1E8",
+      "channel": "Bottom Shelf Board Games",
+      "duration": 61.0,
+      "title": "Irish Gauge Promo"
+    },
+    {
+      "id": "xN4ALd9eQZM",
+      "channel": "Mike´s Crime and Travel",
+      "duration": 121.0,
+      "title": "Learn Irish the FUN way - BOTIN IRELAND board game"
+    }
+  ]
+}

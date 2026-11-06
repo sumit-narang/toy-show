@@ -1,0 +1,26 @@
+{
+  "id": "2022-red-rufus-gracie-sockbear",
+  "year": 2022,
+  "name": "Red Rufus Gracie Sockbear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Red Rufus",
+      "url": "https://www.redrufus.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": []
+}

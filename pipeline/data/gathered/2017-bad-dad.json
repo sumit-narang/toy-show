@@ -1,0 +1,53 @@
+{
+  "id": "2017-bad-dad",
+  "year": 2017,
+  "name": "Bad Dad",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6dnCGkcn5xI",
+      "channel": "Sheet Music Boss",
+      "duration": 114.0,
+      "title": "BAD DAD"
+    },
+    {
+      "id": "zT95NVGIjmg",
+      "channel": "Blond in Car",
+      "duration": 174.0,
+      "title": "Blond In Car - Bad Dad (Lyric Video)"
+    },
+    {
+      "id": "jJPMnTXl63E",
+      "channel": "Powfu",
+      "duration": 174.0,
+      "title": "Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee"
+    },
+    {
+      "id": "unqMSYGhmHs",
+      "channel": "MURSALIN  1K",
+      "duration": 319.0,
+      "title": "BATDAN SONG "
+    },
+    {
+      "id": "UYwX17BcwdU",
+      "channel": "BabyBus TV - Kids Cartoon",
+      "duration": 458.0,
+      "title": "Magical Chinese Characters Ep 19 - Good Dad VS Bad Dad | BabyBus TV - Kids Cartoon"
+    }
+  ]
+}

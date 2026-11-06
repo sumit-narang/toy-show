@@ -1,0 +1,29 @@
+{
+  "id": "2024-mama-g-le-gabriel-rosenstock-agus-kim-sharkey",
+  "year": 2024,
+  "name": "Mamaí Gé le Gabriel Rosenstock agus Kim Sharkey",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Éabhlóid",
+      "url": "https://eabhloid.com/siopa/mamai-ge/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://eabhloid.com/siopa/mamai-ge/",
+      "title": "Mamaí Gé - Éabhlóid",
+      "description": "Órchiste de rannta do pháistí óga, i nGaeilge agus i mBéarla. Aistriúcháin Gaeilge le Gabriel Rosenstock ar rannta Mhamaí Gé (Mother Goose Rhymes) le léaráidí gleoite le Kim Sharkey.",
+      "image": "https://eabhloid.com/wp-content/uploads/2024/09/Twitter-MamaiGe.png",
+      "ld_description": "Órchiste de rannta do pháistí óga, i nGaeilge agus i mBéarla. Aistriúcháin Gaeilge le Gabriel Rosenstock ar rannta Mhamaí Gé (Mother Goose Rhymes) le léaráidí gleoite le Kim Sharkey.",
+      "brand": "éabhlóid",
+      "ld_image": "https://eabhloid.com/wp-content/uploads/2024/09/Mamai-GeCC-scaled.jpg"
+    }
+  ],
+  "video_candidates": []
+}

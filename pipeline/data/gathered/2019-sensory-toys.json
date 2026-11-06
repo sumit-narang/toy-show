@@ -1,0 +1,64 @@
+{
+  "id": "2019-sensory-toys",
+  "year": 2019,
+  "name": "Sensory Toys",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Thinking Toys",
+      "url": "http://thinkingtoys.ie"
+    },
+    {
+      "name": "XYZ",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thinkingtoys.ie/",
+      "title": "Thinking Toys - Special Needs Toys and Sensory Toys Ireland",
+      "description": "Shop Our Range Of Over 3000 Products Online- Irelands Leading Supplier of Toys & Equipment For Children & Adults with Sensory Difficulties & Additional Needs.",
+      "image": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AINhaeNHM5w",
+      "channel": "Sunshine Kids",
+      "duration": 341.0,
+      "title": "Sensory Toys for Kids | 20 Sensory Play Objects Names with Picture & Sound Kids Video #sensoryplay"
+    },
+    {
+      "id": "yN58_x6QbO4",
+      "channel": "Courtney, Literally",
+      "duration": 1928.0,
+      "title": "My FAVE Fidget Toys as a Late-Diagnosed Autistic Adult"
+    },
+    {
+      "id": "XQF1UrqnZt8",
+      "channel": "DingJoy 딩조이",
+      "duration": 1024.0,
+      "title": "[🐰toy asmr🐰] Big Fidget Board & Colorful fidget toys ASMR 피젯보드 Satisfying with Unboxing 🔇No talking🔇"
+    },
+    {
+      "id": "GkQmkZNLCeM",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 613.0,
+      "title": "Best Toy Learning Video for Toddlers and Kids Learn Colors with Surprise Crayons!"
+    },
+    {
+      "id": "lYWhX4JuYxI",
+      "channel": "Super Kids TV",
+      "duration": 1326.0,
+      "title": "Colors with Preschool Toy Train and Color Balls - Shapes & Colors Collection for Children"
+    }
+  ]
+}

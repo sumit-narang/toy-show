@@ -1,0 +1,60 @@
+{
+  "id": "2024-bruder-john-deere-7r-350",
+  "year": 2024,
+  "name": "Bruder John Deere 7R 350",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-john-deere-7r-350-tractor2"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-john-deere-7r-350-tractor2",
+      "title": "Bruder John Deere 7R 350 Tractor",
+      "description": "Bruder John Deere 7R 350 Tractor - detachable front weight, Tow coupling with height-adjustable lifting gear, receiver for front loader, engine bonnet can be opened",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/john-deere-7r-350.webp?crop=center&height=1200&v=1778250178&width=1200",
+      "ld_description": "Modern agriculture is no longer conceivable without modern tractors. As farmers’ work is not only complex, but also full of challenges, they need the right technology. John Deere 7R series tractors combine a low total weight with high performance. This agile tractor not only speeds up transport, but also moves every farm forward.\n\nThis important tractor is new at BRUDER, where it can be found in the agriculture theme world. True to the Bruder motto “Just like the real thing”, the tractor is equipped with many realistic details. The bonnet opens and shows the impressive engine. Doors can be opened and offer the optionally available bworld figures space in a modern cabin. Typical of BRUDER is the excellent controllability and ride comfort due to the installed oscillating axle as well as the steering extension that can be inserted through the sliding roof. The front loader (item no. 03333) can be mounted to increase the playing fun. All trailers from the BRUDER agricultural range can be mounted on this tractor.\n\ndrivers cab\n\n\n\tdoors can be opened\n\n\nautomotive body\n\n\n\tdetachable front weight\n\tTow coupling with height-adjustable lifting gear\n\treceiver for front loader\n\tengine bonnet can be opened\n\n\nchassis\n\n\n\tsteerable and off-road front axle\n\n\nmotion/function\n\n\n\tadditional steering rod allows steering through the sliding tractor roof\n\n\ncommon\n\n\n\tWARNING! Not suitable for children under 36 months. Choking hazard - small parts.\n\tRecommended age: suitable from 3 years upwards for pl",
+      "brand": "Bruder",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/john-deere-7r-350.webp?v=1778250178&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cXExBwM9q38",
+      "channel": "BruderSpielwaren",
+      "duration": 298.0,
+      "title": "John Deere 7R 350 mit Anhänger -- 03155 -- BRUDER Spielwaren"
+    },
+    {
+      "id": "SYQc43FcMhc",
+      "channel": "Bruder Brasil",
+      "duration": 205.0,
+      "title": "Bruder 03150 - Trator John Deere 7R 350"
+    },
+    {
+      "id": "SNci19QBSIk",
+      "channel": "CurrentProductReviews",
+      "duration": 52.0,
+      "title": "REVIEW (2026): Bruder 09825 John Deere 7R. First Look."
+    },
+    {
+      "id": "PC5fyzLIkzg",
+      "channel": "CurrentProductReviews",
+      "duration": 58.0,
+      "title": "REVIEW (2026): Bruder 09829 John Deere 7R. First Look."
+    },
+    {
+      "id": "0nlCCXcjrxk",
+      "channel": "CurrentProductReviews",
+      "duration": 67.0,
+      "title": "REVIEW (2026): John Deere 7R 350 BTA09826. First Look."
+    }
+  ]
+}

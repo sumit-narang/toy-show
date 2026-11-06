@@ -1,0 +1,65 @@
+{
+  "id": "2023-ikea-duktig-felt-fruit-and-vegetables",
+  "year": 2023,
+  "name": "IKEA DUKTIG Felt Fruit and Vegetables",
+  "price_eur": null,
+  "price_text": "£8.50",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/gb/en/p/duktig-14-piece-vegetables-set-10185748/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/gb/en/p/duktig-14-piece-vegetables-set-10185748/",
+      "title": "DUKTIG 14-piece vegetables set  - IKEA UK",
+      "description": "DUKTIG 14-piece vegetables set Play is a fun way to learn about the colours, shapes and names of different vegetables. These are made of a soft material and are easy to wash, so your child can be just as creative as a master chef. Helps the child develop fine motor skills and hand/eye co-ordination.",
+      "image": "https://www.ikea.com/gb/en/images/products/duktig-14-piece-vegetables-set__0712393_pe728809_s5.jpg",
+      "ld_description": "DUKTIG 14-piece vegetables set. Fresh vegetables every day. What a luxury! Wondering what little chefs can create using what’s in the vegetable box? Maybe it will be a colourful salad or a savoury ratatouille? Yummy. Helps the child develop fine motor skills and hand/eye co-ordination.",
+      "brand": "IKEA",
+      "ld_image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/gb/en/images/products/duktig-14-piece-vegetables-set__0712393_pe728809_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oWRi3L9kowk",
+      "channel": "Victoria Ann",
+      "duration": 439.0,
+      "title": "Play Food | PBK Mini Grocery Basket Fruit | IKEA Duktig Comparison"
+    },
+    {
+      "id": "v6ysetBzcDE",
+      "channel": "Victoria Ann",
+      "duration": 803.0,
+      "title": "Play Food | PBK Soft Veggie Garden Set | PBK Mini Grocery Basket Set | Ikea Duktig Comparison"
+    },
+    {
+      "id": "C9uq2TGFsIA",
+      "channel": "New Parents in Training",
+      "duration": 515.0,
+      "title": "IKEA SPISIG Play Kitchen | Unboxing, Review and Setup"
+    },
+    {
+      "id": "FaRbmiJ8Xg0",
+      "channel": "Rachel Stevens",
+      "duration": 77.0,
+      "title": "Play Food at IKEA"
+    },
+    {
+      "id": "633fXYsPtoA",
+      "channel": "Dandelion ",
+      "duration": 64.0,
+      "title": "Развивающие детские игрушки. Набор овощей Ikea"
+    }
+  ]
+}

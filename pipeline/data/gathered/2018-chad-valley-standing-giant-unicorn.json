@@ -1,0 +1,54 @@
+{
+  "id": "2018-chad-valley-standing-giant-unicorn",
+  "year": 2018,
+  "name": "Chad Valley Standing Giant Unicorn",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Argos",
+      "url": "http://www.argos.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/features/republic-of-ireland"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5X_ryMfrRE0",
+      "channel": "Onlooker UK",
+      "duration": 42.0,
+      "title": "Christmas Toys 2012: What will be big this year"
+    },
+    {
+      "id": "vYFDqvDeKtc",
+      "channel": "Argos",
+      "duration": 101.0,
+      "title": "Chad Valley Wooden Castle - Argos Toy Unboxing"
+    },
+    {
+      "id": "gmUR3SBztxs",
+      "channel": "Kendall's Finds",
+      "duration": 44.0,
+      "title": "Bright Starts Giggling Safari Walker Review + How to Fold for Easy Storage!"
+    },
+    {
+      "id": "2Fb-HerWKrA",
+      "channel": "jaxtraw",
+      "duration": 1098.0,
+      "title": "Chad Valley (Argos) Toy Electronic Keyboard Review And Demonstration"
+    },
+    {
+      "id": "S4S9I9C3_04",
+      "channel": "J&S Originals",
+      "duration": 84.0,
+      "title": "July 1, 2018"
+    }
+  ]
+}

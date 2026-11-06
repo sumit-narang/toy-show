@@ -1,0 +1,57 @@
+{
+  "id": "2022-my-crafty-pal",
+  "year": 2022,
+  "name": "My Crafty Pal",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Arty Fox",
+      "url": "https://www.theartyfox.com/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theartyfox.com/",
+      "title": "The Arty Fox | Creative Craft Boxes for Children | Christmas Gifts",
+      "description": "We create craft boxes for children age 3-12. We encourage children to be creative and make art they can be proud of. Creative Craft Boxes. Gifts for boys. Gifts for girls. Craft sets Ireland. Keep your kids busy with our wonderful craft boxes. Art at home. Painting with children. Arts and Crafts for kids",
+      "image": "http://www.theartyfox.com/cdn/shop/files/my_crafty_pal_character_box_kids_arts_and_crafts_boxes.png?v=1666559984"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4PsDvF7zQvc",
+      "channel": "Stationery Pal",
+      "duration": 511.0,
+      "title": "Stationery Pal Compilation 2026 Week 32 🤩| Stationery Pal 🥰💖"
+    },
+    {
+      "id": "lvM59mHrOlw",
+      "channel": "The Arty Fox",
+      "duration": 160.0,
+      "title": "My Crafty Pal Ideas Video"
+    },
+    {
+      "id": "dyr0vwLYn_c",
+      "channel": "Stationery Pal",
+      "duration": 483.0,
+      "title": "Stationery Pal Compilation 2026 Week 11 | Stationery Pal"
+    },
+    {
+      "id": "Md1JwV8-F2c",
+      "channel": "My Vagabond Style",
+      "duration": 3112.0,
+      "title": "Fodder and a bit of tea. #collagewithme"
+    },
+    {
+      "id": "wCGCB4MOOxE",
+      "channel": "AlsoSirud",
+      "duration": 3986.0,
+      "title": "I Unlocked INSANE New Mounts in Palworld!"
+    }
+  ]
+}

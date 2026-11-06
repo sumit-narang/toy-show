@@ -1,0 +1,57 @@
+{
+  "id": "2025-sylvanian-families-family-chocolate-labrador",
+  "year": 2025,
+  "name": "Sylvanian Families Family Chocolate Labrador",
+  "price_eur": 32.99,
+  "price_text": "€32.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-sets/sylvanian-families-family-chocolate-labrador/p/219652"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-sets/sylvanian-families-family-chocolate-labrador/p/219652",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zSSZhCz41vw",
+      "channel": "Beccas Toy Collection",
+      "duration": 200.0,
+      "title": "Hunter-Smyth Chocolate Labrador Family - Sylvanian Families / Calico Critters"
+    },
+    {
+      "id": "GaQbYumto6k",
+      "channel": "Sylvanian Friends Collection ",
+      "duration": 395.0,
+      "title": "Unboxing Chocolate Labrador Family and triplets, comparing to Golden Labrador - Sylvanian Families"
+    },
+    {
+      "id": "3TMSCJ-ODhY",
+      "channel": "SylvaMAnian",
+      "duration": 260.0,
+      "title": "Calico Critters シルバニア　Chocolate lab family　珍しいチョコラブ一家"
+    },
+    {
+      "id": "zq1iTvuR948",
+      "channel": "MotherGeek",
+      "duration": 168.0,
+      "title": "Sylvanian Families Chocolate Labrador Family"
+    },
+    {
+      "id": "Qj-N7H6x-98",
+      "channel": "Sweet Sylvanians",
+      "duration": 306.0,
+      "title": "Unboxing the Doughty dog family and babies | Sylvanian Families シフォンイヌファミリー"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-cars-3-jumbo-rc-lightening-mcqueen",
+  "year": 2017,
+  "name": "Cars 3 Jumbo RC Lightening McQueen",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vhqUP6-cCn4",
+      "channel": "Piston Cup Productions",
+      "duration": 673.0,
+      "title": "2026 Animated Lightning McQueen RC Vehicle By Jada: Unboxing & Review — Is It Worth The Price? "
+    },
+    {
+      "id": "X3nXIw5AoKI",
+      "channel": "Inside the Magic",
+      "duration": 1008.0,
+      "title": "Sphero Ultimate Lightning McQueen from \"Cars 3\" UNBOXING / REVIEW"
+    },
+    {
+      "id": "xRg56s6zp1A",
+      "channel": "JJ Toys Review",
+      "duration": 914.0,
+      "title": "Disney Pixar Cars Unboxing Review l  Lightning McQueen Bubble RC Car | Super Downhill Race Track"
+    },
+    {
+      "id": "F8sJ5lNJUgY",
+      "channel": "BIBO TOYS",
+      "duration": 136.0,
+      "title": "Bibo Play with Toys Disney Pixar Lightning McQueen Cars 3 Toys"
+    },
+    {
+      "id": "IcvyW0wcXRg",
+      "channel": "Kidibli (Kinder Spielzeug Kanal)",
+      "duration": 604.0,
+      "title": "Cars 3 Toys with Lightning McQueen for Kids"
+    }
+  ]
+}

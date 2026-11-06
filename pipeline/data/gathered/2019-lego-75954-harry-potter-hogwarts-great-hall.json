@@ -1,0 +1,57 @@
+{
+  "id": "2019-lego-75954-harry-potter-hogwarts-great-hall",
+  "year": 2019,
+  "name": "LEGO 75954 Harry Potter Hogwarts Great Hall",
+  "price_eur": 94.99,
+  "price_text": "€94.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-harry-potter/lego-75954-harry-potter-hogwarts-great-hall-toy/p/166906"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-harry-potter/lego-75954-harry-potter-hogwarts-great-hall-toy/p/166906",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p-eznmUafKw",
+      "channel": "All New Bricks",
+      "duration": 379.0,
+      "title": "Lego Harry Potter 75954 Hogwarts Great Hall Speed Build"
+    },
+    {
+      "id": "4Jg5jJGmZgU",
+      "channel": "AustrianBrickFan",
+      "duration": 758.0,
+      "title": "Lego Harry Potter 75954 Hogwarts Great Hall Speed Build"
+    },
+    {
+      "id": "y8JTkO6EvDY",
+      "channel": "Jeremy Herbert",
+      "duration": 1692.0,
+      "title": "LEGO Harry Potter 2018 Hogwarts Great Hall 75954 Review!"
+    },
+    {
+      "id": "w6eSkfXXx2c",
+      "channel": "HollyOnFilm",
+      "duration": 1187.0,
+      "title": "What's The Best Hogwarts Set? | LEGO Harry Potter Great Hall (75954) VS Chamber Of Secrets (76389)"
+    },
+    {
+      "id": "bCb5Q_D5Z8o",
+      "channel": "ellieV ",
+      "duration": 1496.0,
+      "title": "Lego Harry Potter Hogwarts Great Hall 2018 Speed Build"
+    }
+  ]
+}

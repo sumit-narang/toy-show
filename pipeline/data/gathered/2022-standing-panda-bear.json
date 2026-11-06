@@ -1,0 +1,54 @@
+{
+  "id": "2022-standing-panda-bear",
+  "year": 2022,
+  "name": "Standing Panda Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sGF6bOi1NfA",
+      "channel": "Chengdu PAW",
+      "duration": 87.0,
+      "title": "Cute pandas playing on the slide"
+    },
+    {
+      "id": "dqT-UlYlg1s",
+      "channel": "Nat Geo Animals",
+      "duration": 272.0,
+      "title": "Giant Pandas 101 | Nat Geo Wild"
+    },
+    {
+      "id": "zHZP6pPCUgs",
+      "channel": "Dean Blunt - Topic",
+      "duration": 88.0,
+      "title": "9"
+    },
+    {
+      "id": "mLi1Ex9t128",
+      "channel": "Real Science",
+      "duration": 1359.0,
+      "title": "Why Pandas Are Impressively Bad at Existing"
+    },
+    {
+      "id": "A1VAA5YgriY",
+      "channel": "We Bare Bears Hindi",
+      "duration": 145.0,
+      "title": "We Bare Bears | Panda's Dream (Hindi) | Minisode | Cartoon Network"
+    }
+  ]
+}

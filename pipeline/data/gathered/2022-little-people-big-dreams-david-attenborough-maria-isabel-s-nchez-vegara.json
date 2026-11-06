@@ -1,0 +1,44 @@
+{
+  "id": "2022-little-people-big-dreams-david-attenborough-maria-isabel-s-nchez-vegara",
+  "year": 2022,
+  "name": "Little People, Big Dreams: David Attenborough - Maria Isabel Sánchez Vegara",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "oAh-U0WBfl4",
+      "channel": "Annie's workshop - Books Read Aloud for Kids",
+      "duration": 321.0,
+      "title": "David Attenborough - Little People, Big Dreams I Read Aloud I Biographies for kids"
+    },
+    {
+      "id": "754b2GKY7C0",
+      "channel": "All Saints Primary School",
+      "duration": 197.0,
+      "title": "Mrs Wardle - David Attenborough: Little People, Big Dreams by Maria Isabel Sanchez Vegara"
+    },
+    {
+      "id": "mTBWVRY0iUU",
+      "channel": "READ ALOUD BOOKS FOR CHILDREN",
+      "duration": 362.0,
+      "title": "🦋Kids Books Read Aloud:Little people, big dreams, DAVID ATTENBOROUGH, By  Isabel Sánchez Vergara"
+    },
+    {
+      "id": "DrvoQvrUBcU",
+      "channel": "Reading with Ms. Cherie",
+      "duration": 334.0,
+      "title": "Little People, BIG DREAMS: Zaha Hadid"
+    },
+    {
+      "id": "XEeDiYz0kK4",
+      "channel": "Lady C's Reading Jamboree",
+      "duration": 297.0,
+      "title": "Little People Big Dreams |  Amelia Earhart by Maria Isabel Sanchez Vergara"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-turtles-all-the-way-down-john-green",
+  "year": 2017,
+  "name": "Turtles All The Way Down John Green",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9XBFNmV0Bzc",
+      "channel": "HBO Max",
+      "duration": 155.0,
+      "title": "Turtles All The Way Down | Official Trailer | Max"
+    },
+    {
+      "id": "LjqeV_BbTBM",
+      "channel": "vlogbrothers",
+      "duration": 229.0,
+      "title": "Everything Wrong with Turtles All the Way Down"
+    },
+    {
+      "id": "11UxQwcclLk",
+      "channel": "BuzzFeed Celeb",
+      "duration": 753.0,
+      "title": "The Cast Of “Turtles All the Way Down” Finds Out Which John Green Characters They Are"
+    },
+    {
+      "id": "fEXi6HPlbFU",
+      "channel": "vlogbrothers",
+      "duration": 241.0,
+      "title": "Hello! Meet Aza!"
+    },
+    {
+      "id": "9vin5EU09Ac",
+      "channel": "Good Morning America",
+      "duration": 244.0,
+      "title": "John Green discusses his new book 'Turtles All The Way Down'"
+    }
+  ]
+}

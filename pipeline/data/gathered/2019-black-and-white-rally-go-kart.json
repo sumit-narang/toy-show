@@ -1,0 +1,57 @@
+{
+  "id": "2019-black-and-white-rally-go-kart",
+  "year": 2019,
+  "name": "Black and White Rally Go-Kart",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/go-karts/black-and-white-rally-go-kart/p/173453"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/go-karts/black-and-white-rally-go-kart/p/173453",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UNeuJK1D-PQ",
+      "channel": "BMW3PowerSA",
+      "duration": 61.0,
+      "title": "2011-05-28 - Zwartkops Kart - White & Black Subaru.avi"
+    },
+    {
+      "id": "flhEu8YtjwM",
+      "channel": "kmatzFD3S",
+      "duration": 591.0,
+      "title": "POV DRIFT karts in the city vs SECURITY"
+    },
+    {
+      "id": "LXzPkkQirnM",
+      "channel": "Hoonigan",
+      "duration": 627.0,
+      "title": "[HOONIGAN] Gymkhana 2022: Travis Pastrana Goes BERSERK in Florida in a 862HP Subaru Wagon"
+    },
+    {
+      "id": "C56KtIpZlxk",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 78.0,
+      "title": "BERG Race & BERG Black Edition Pedal go-karts"
+    },
+    {
+      "id": "qtn6Kcgksa8",
+      "channel": "Ipswich Round Table",
+      "duration": 124.0,
+      "title": "Go-Karting Night with plenty of crash, bang, drama 😅"
+    }
+  ]
+}

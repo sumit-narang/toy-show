@@ -1,0 +1,26 @@
+{
+  "id": "2022-stemwizz-gears-motors-gift-boxes",
+  "year": 2022,
+  "name": "StemWizz Gears & Motors Gift Boxes",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Stem Wizz",
+      "url": "https://stemwizz.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://stemwizz.com/",
+      "title": "Home | Stem Wizz",
+      "description": "Stem, Wizz, Stem education, education, learn, learning, learner, junior, teen, maths, technology, science, tralee, ardfert, ireland, kerry, educate,",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

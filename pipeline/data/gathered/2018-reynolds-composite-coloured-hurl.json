@@ -1,0 +1,26 @@
+{
+  "id": "2018-reynolds-composite-coloured-hurl",
+  "year": 2018,
+  "name": "Reynolds Composite Coloured Hurl",
+  "price_eur": 32.99,
+  "price_text": "from €32.99",
+  "retailers": [
+    {
+      "name": "The GAA Store",
+      "url": "http://www.thegaastore.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.mckeeversports.com/",
+      "title": "McKvr | Built for performance",
+      "description": "Offering an unrivaled range of sports clothing, footwear, accessories and equipment",
+      "image": "http://www.mckeeversports.com/cdn/shop/files/McKeever_Sports_Hero_Black_Green_1200x1200.png?v=1634127520"
+    }
+  ],
+  "video_candidates": []
+}

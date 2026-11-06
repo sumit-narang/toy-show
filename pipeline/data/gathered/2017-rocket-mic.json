@@ -1,0 +1,64 @@
+{
+  "id": "2017-rocket-mic",
+  "year": 2017,
+  "name": "Rocket Mic",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oWR5tFgJKIQ",
+      "channel": "Cosmic Perspective",
+      "duration": 639.0,
+      "title": "Artemis Launch Sound Experience - Listen to NASA's SLS Rocket Roar with mics placed inside the pad"
+    },
+    {
+      "id": "Kc-SFQxbG6c",
+      "channel": "Your Fix Guide",
+      "duration": 148.0,
+      "title": "How To Fix Rocket League Voice Chat Not Working & Mic Issues"
+    },
+    {
+      "id": "X-1y5MhvCEk",
+      "channel": "noah doorslam",
+      "duration": 11.0,
+      "title": "Rocket League® first pinch dont mind my mic"
+    },
+    {
+      "id": "J8mXSxeo5Io",
+      "channel": "mobiscrub",
+      "duration": 441.0,
+      "title": "The Wireless Mic That Every Creator Needs - Connects to Anything!"
+    },
+    {
+      "id": "CYypB395gZQ",
+      "channel": "oFoxzy",
+      "duration": 10149.0,
+      "title": "(Twitch nwpo_rl) grind mic [5-4-2026]"
+    }
+  ]
+}

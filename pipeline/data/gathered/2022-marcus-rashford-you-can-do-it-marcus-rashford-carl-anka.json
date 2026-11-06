@@ -1,0 +1,44 @@
+{
+  "id": "2022-marcus-rashford-you-can-do-it-marcus-rashford-carl-anka",
+  "year": 2022,
+  "name": "Marcus Rashford: You Can Do It - Marcus Rashford & Carl Anka",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "YN2NoDjWFOY",
+      "channel": "Google Play Books",
+      "duration": 1224.0,
+      "title": "You Can Do It: How to Find Your Voice and Make… by Marcus Rashford · Audiobook preview"
+    },
+    {
+      "id": "eJb65hObNY0",
+      "channel": "The Athletic FC Podcast",
+      "duration": 2862.0,
+      "title": "Why are Barcelona signing Rashford?"
+    },
+    {
+      "id": "5DSnSHdJDyY",
+      "channel": "The Athletic FC",
+      "duration": 380.0,
+      "title": "Why Marcus Rashford is back to his best"
+    },
+    {
+      "id": "Zkga62zKOyc",
+      "channel": "Google Play Books",
+      "duration": 924.0,
+      "title": "Marcus Rashford: World of Football: Packed with… by Marcus Rashford · Audiobook preview"
+    },
+    {
+      "id": "AHdGfpA0oqI",
+      "channel": "Free Audiobook",
+      "duration": 305.0,
+      "title": "You Can Do It: How to Find Your Voice and Make a Difference Audiobook by Marcus Rashford"
+    }
+  ]
+}

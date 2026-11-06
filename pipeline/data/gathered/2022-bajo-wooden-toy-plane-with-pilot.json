@@ -1,0 +1,54 @@
+{
+  "id": "2022-bajo-wooden-toy-plane-with-pilot",
+  "year": 2022,
+  "name": "Bajo Wooden Toy Plane with Pilot",
+  "price_eur": 18.95,
+  "price_text": "€18.95",
+  "retailers": [
+    {
+      "name": "BeoVERDE",
+      "url": "https://beoverde.ie/products/wooden-toys-bajo-push-and-pull-toy-plane-with-pilot?_pos=1&_sid=b86b04d22&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://beoverde.ie/products/wooden-toys-bajo-push-and-pull-toy-plane-with-pilot?_pos=1&_sid=b86b04d22&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rM0oLZwXWlQ",
+      "channel": "Toys and Colors",
+      "duration": 983.0,
+      "title": "Eric & Ellie's Airplane Adventures - Learning Lessons with Friends"
+    },
+    {
+      "id": "XPvf-246rio",
+      "channel": "Toy Inventor",
+      "duration": 550.0,
+      "title": "4 Amazing flying toys in the sky || Awesome DIY Toys #unboxing "
+    },
+    {
+      "id": "LL2k_cTERvk",
+      "channel": "gadgets ki duniya ",
+      "duration": 368.0,
+      "title": "|| RC Jet Fighter Plane | Real Flying Reviews in Hindi #rcplane #fighterjet #toy "
+    },
+    {
+      "id": "hgUlIYeA-7k",
+      "channel": "PeterSripol",
+      "duration": 1048.0,
+      "title": "How LONG can RC Airplanes be?!?"
+    },
+    {
+      "id": "0S79s49-KMg",
+      "channel": "Quantum Makers",
+      "duration": 1430.0,
+      "title": "Man Builds Hyperrealistic RC Plane at Scale | Airbus A350 Replica by @RamyRC"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-valentino-plush",
+  "year": 2023,
+  "name": "Valentino Plush",
+  "price_eur": 32.9,
+  "price_text": "€32.90",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/valentino-medium-soft-toy-wish-415157301090.html?isProductSearch=1&plpPosition=undefined&searchType=regular"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/valentino-medium-soft-toy-wish-415157301090.html?isProductSearch=1&plpPosition=undefined&searchType=regular"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yQ4yFoI6-bg",
+      "channel": "Hazbindust",
+      "duration": 15.0,
+      "title": "Hazbin Hotel Valentino Plush"
+    },
+    {
+      "id": "3qST8aXzidU",
+      "channel": "Fiction Films Los Angeles",
+      "duration": 31.0,
+      "title": "Disney's Wish Moving and Talking Valentino & Singing Asha Doll TVC | JAKKS Pacific"
+    },
+    {
+      "id": "h7PM-IF3XP0",
+      "channel": "Toya's Toys",
+      "duration": 519.0,
+      "title": "Disney Wish Toy Collection Unboxing Review | Walk 'N Talk Valentino Goat"
+    },
+    {
+      "id": "g8s0SFYDTZk",
+      "channel": "lizeindisney",
+      "duration": 542.0,
+      "title": "my top 5 valentine's disney plushes 💕 | valentine's day plush collection"
+    },
+    {
+      "id": "bGnPuu_gSRU",
+      "channel": "Sonny Toy",
+      "duration": 116.0,
+      "title": "1338JR-20 Valentino gift plush animated toy new material"
+    }
+  ]
+}

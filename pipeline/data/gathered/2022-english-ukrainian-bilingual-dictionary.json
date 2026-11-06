@@ -1,0 +1,44 @@
+{
+  "id": "2022-english-ukrainian-bilingual-dictionary",
+  "year": 2022,
+  "name": "English / Ukrainian Bilingual Dictionary",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "l_BxKWl9zJU",
+      "channel": "Yuri Shevchuk",
+      "duration": 248.0,
+      "title": "Ukrainian-English Collocation Dictionary"
+    },
+    {
+      "id": "a1RLLeUsyHs",
+      "channel": "The Harriman Institute at Columbia University",
+      "duration": 5040.0,
+      "title": "Book Talk. Ukrainian-English Collocation Dictionary by Yuri Shevchuk"
+    },
+    {
+      "id": "Hzbu8fbqPH0",
+      "channel": "Harvard Ukrainian Research Institute (HURI)",
+      "duration": 3435.0,
+      "title": "Ukrainian-English Collocation Dictionary by Yuri Shevchuk"
+    },
+    {
+      "id": "Bls5_2cF0TE",
+      "channel": "Penguin Audiobook",
+      "duration": 56.0,
+      "title": "Ukrainian Fruits Names Guide: Fun Visual Dictionary"
+    },
+    {
+      "id": "yBiWZzcFNH4",
+      "channel": "Basic ESL",
+      "duration": 255.0,
+      "title": "Lesson  8 | Kitchen | Learn English | Workbook 1 | Translation of Ukrainian to English"
+    }
+  ]
+}

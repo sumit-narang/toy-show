@@ -1,0 +1,54 @@
+{
+  "id": "2023-holotoyz-tattoos-pet-party-creative-sea-creatures",
+  "year": 2023,
+  "name": "Holotoyz Tattoos - Pet Party & Creative Sea Creatures",
+  "price_eur": 5.99,
+  "price_text": "€5.99",
+  "retailers": [
+    {
+      "name": "HoloToyz",
+      "url": "https://holotoyz.com/products/super-sea-creatures-temporary-tattoos"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://holotoyz.com/products/super-sea-creatures-temporary-tattoos",
+      "title": "Super Sea Creatures AR Tattoos",
+      "description": "Bring the Ocean to Life on your arm! Turn your skin into an underwater adventure with Sea Creatures AR Temporary Tattoos! Featuring an amazing cast of marine life, including majestic sea turtles, graceful dolphins, vibrant jellyfish, playful crabs, and fearsome sharks, these tattoos are perfect for kids who love the oc",
+      "image": "http://holotoyz.com/cdn/shop/files/3D_RENDER_SeaTatt_small_d2dcc1e5-165c-4419-b372-8db2e6acbd3f.png?v=1732061609",
+      "ld_description": "Bring the Ocean to Life on your arm!\nTurn your skin into an underwater adventure with Sea Creatures AR Temporary Tattoos! Featuring an amazing cast of marine life, including majestic sea turtles, graceful dolphins, vibrant jellyfish, playful crabs, and fearsome sharks, these tattoos are perfect for kids who love the ocean.\nApply with just a little water and watch the magic unfold! Use our free, kid-safe app to bring these sea creatures to life with incredible animations. Watch them swim, flip, and play, and even place them in your room for unforgettable photos and videos!\nGentle on the skin and easy to remove, these tattoos are perfect for parties, beach days, or adding a splash of fun anytime.\nMake waves with Sea Creatures AR Temporary Tattoos – where the ocean comes to life!",
+      "brand": "HoloToyz",
+      "ld_image": "https://holotoyz.com/cdn/shop/files/3D_RENDER_SeaTatt_small_d2dcc1e5-165c-4419-b372-8db2e6acbd3f_827x.png?v=1732061609"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_OC9XYAg7HI",
+      "channel": "snooplaydotin",
+      "duration": 73.0,
+      "title": "Holotoyz - Augmented Reality Stickers, Tattoos and Books!"
+    },
+    {
+      "id": "dnQWgucl60U",
+      "channel": "Naivri",
+      "duration": 172.0,
+      "title": "HoloToyz | Stickers | Tattoos | 3d Books | Decal Now Available In Ghaziabad"
+    },
+    {
+      "id": "uQFWuv8tiO0",
+      "channel": "KENS 5: Your San Antonio News Source",
+      "duration": 106.0,
+      "title": "UTSA brings augmented reality books to San Antonio"
+    },
+    {
+      "id": "FDNfUp28iGw",
+      "channel": "BeeKrafstik",
+      "duration": 456.0,
+      "title": "Holotats Tattoos | Augmented Reality | Holographic Tattoos | Hologram | Temporary Tattoos for Kids"
+    }
+  ]
+}

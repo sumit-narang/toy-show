@@ -1,0 +1,60 @@
+{
+  "id": "2024-lost-and-found-by-oliver-jeffers",
+  "year": 2024,
+  "name": "Lost and Found by Oliver Jeffers",
+  "price_eur": 9.27,
+  "price_text": "€9.27",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lost-and-found-oliver-jeffers-9780007150366"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/lost-and-found-oliver-jeffers-9780007150366",
+      "title": "Buy Lost And Found Book at Easons",
+      "description": "New cover reissue of this magical story from award-winning international bestselling picture book creator, Oliver JeffersThere once was a boy… and one day a penguin arrives on his doorstep. The boy decides the penguin must be lost and tries to return him.",
+      "image": null,
+      "ld_description": "New cover reissue of this magical story from award-winning international bestselling picture book creator, Oliver JeffersThere once was a boy… and one day a penguin arrives on his doorstep. The boy decides the penguin must be lost and tries to return him. But no one seems to be missing a penguin. So the boy decides to take the penguin home himself, and they set out in his row boat on a journey to the South Pole.But when they get there, the boy discovers that maybe home wasn't what the penguin was looking for after all…",
+      "brand": "HarperCollins Children&#x27;s Books",
+      "ld_image": "https://www.easons.com/images/m/18a81c867860497e/original/9780007150366_5638868919.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cRAAQ8EWzig",
+      "channel": "Annie's workshop - Books Read Aloud for Kids",
+      "duration": 299.0,
+      "title": "Lost and Found By Oliver Jeffers I Read Aloud"
+    },
+    {
+      "id": "DArr2GhXhf0",
+      "channel": "jere chestera",
+      "duration": 1350.0,
+      "title": "✨ Lost and Found | Full English Movie | Animation • Adventure • Family ✨"
+    },
+    {
+      "id": "aTLIWzg4i08",
+      "channel": "Hoot & Stories",
+      "duration": 248.0,
+      "title": "Lost and Found 🐧👦 | Sweet Story About True Friendship | Read Aloud"
+    },
+    {
+      "id": "Dc3E9y5E99o",
+      "channel": "Kidz Story Time",
+      "duration": 336.0,
+      "title": "Lost and Found by Oliver Jeffers - Story Time | READ ALOUD"
+    },
+    {
+      "id": "kZD1RDY4Q9w",
+      "channel": "Story Time with Rocket",
+      "duration": 247.0,
+      "title": "📚 LOST AND FOUND - OLIVER JEFFERS - STORY TIME READ ALOUD FOR KIDS - BOOKS FOR KS1 CHILDREN"
+    }
+  ]
+}

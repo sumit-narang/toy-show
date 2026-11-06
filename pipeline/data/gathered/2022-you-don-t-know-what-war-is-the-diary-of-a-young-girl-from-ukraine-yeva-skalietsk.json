@@ -1,0 +1,44 @@
+{
+  "id": "2022-you-don-t-know-what-war-is-the-diary-of-a-young-girl-from-ukraine-yeva-skalietsk",
+  "year": 2022,
+  "name": "You Don't Know What War Is: The Diary of a Young Girl from Ukraine - Yeva Skalietska",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "etfFaTdtM54",
+      "channel": "TEDx Talks",
+      "duration": 928.0,
+      "title": "You Don't Know What War Is  | Yeva Skalietska | TEDxOxford"
+    },
+    {
+      "id": "Pix3ob9kHJ4",
+      "channel": "Waterstones Kids",
+      "duration": 97.0,
+      "title": "You Don't Know What War Is by Yeva Skalietska"
+    },
+    {
+      "id": "_tgqi5fsnhk",
+      "channel": "Free Audiobooks",
+      "duration": 185.0,
+      "title": "You Don't Know What War Is: The Diary of a Young Girl from Ukraine - Yeva Skalietska"
+    },
+    {
+      "id": "8MSZ6RXPG0A",
+      "channel": "Sanctuary Foundation",
+      "duration": 238.0,
+      "title": "500 days - \"You Don't Know What War Is\" read by Yeva Skalietska"
+    },
+    {
+      "id": "4bztp5QX4Jo",
+      "channel": "Bloomsbury Publishing",
+      "duration": 16.0,
+      "title": "OUT NOW : You Don't Know What War Is: The Diary of a Young Girl From Ukraine"
+    }
+  ]
+}

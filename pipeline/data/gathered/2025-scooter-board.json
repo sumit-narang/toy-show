@@ -1,0 +1,54 @@
+{
+  "id": "2025-scooter-board",
+  "year": 2025,
+  "name": "Scooter Board",
+  "price_eur": 45.0,
+  "price_text": "€45",
+  "retailers": [
+    {
+      "name": "Everyday OT",
+      "url": "https://www.everydayotireland.com/products/scooter-boards?_pos=1&_psq=scooter+board&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.everydayotireland.com/products/scooter-boards?_pos=1&_psq=scooter+board&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3plxeImXwyY",
+      "channel": "Playapy",
+      "duration": 107.0,
+      "title": "5 SCOOTER BOARD EXERCISES TO TEACH KIDS | Fun Sensory Seeking & Motor Play Activities | OT Tips"
+    },
+    {
+      "id": "VqReSIEdbuc",
+      "channel": "Whispers of Wonder",
+      "duration": 724.0,
+      "title": "5 Scooter Board Activities for Autistic Kids | Home Occupational Therapy"
+    },
+    {
+      "id": "Y2n-RK5mxtI",
+      "channel": "EUCO - Electric Unicycle Collective",
+      "duration": 175.0,
+      "title": "Scooterboard: How-To"
+    },
+    {
+      "id": "_MlfWxi9hk8",
+      "channel": "HL SPORTS",
+      "duration": 55.0,
+      "title": "Scooter Boards"
+    },
+    {
+      "id": "oFUbEuejjLs",
+      "channel": "OPENPhysEd.org",
+      "duration": 190.0,
+      "title": "Scooter Board Rules"
+    }
+  ]
+}

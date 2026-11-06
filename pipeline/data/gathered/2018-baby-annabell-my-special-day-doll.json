@@ -1,0 +1,72 @@
+{
+  "id": "2018-baby-annabell-my-special-day-doll",
+  "year": 2018,
+  "name": "Baby Annabell My Special Day Doll",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pRT3gU7Oav8",
+      "channel": "MotherGeek",
+      "duration": 736.0,
+      "title": "Baby Annabell My Special Day Doll"
+    },
+    {
+      "id": "LrRzjC8Hx94",
+      "channel": "Baby Annabell Doll",
+      "duration": 1457.0,
+      "title": "Baby Alive doll & Baby Annabell doll videos for kids. Pretend play & baby dolls' morning routine."
+    },
+    {
+      "id": "7masoOLB2FI",
+      "channel": "Zapf Creation: BABY born, Baby Annabell & Friends",
+      "duration": 20.0,
+      "title": "Baby Annabell 👣 Emily Walk with Me"
+    },
+    {
+      "id": "qzSTR1GhlGM",
+      "channel": "BABY DOLL",
+      "duration": 475.0,
+      "title": "BABY anabell Doll  Brush Your Teeth with Baby anabel – Daily Hygiene Fun 🪥"
+    },
+    {
+      "id": "SI9ywtF3Ric",
+      "channel": "Baby Annabell Doll",
+      "duration": 349.0,
+      "title": "Baby Annabell doll goes camping with a new toy tent for dolls and has fun outdoors."
+    }
+  ]
+}

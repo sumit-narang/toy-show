@@ -1,0 +1,57 @@
+{
+  "id": "2023-disney-ears-beauty-and-the-beast-belle",
+  "year": 2023,
+  "name": "Disney Ears - Beauty and the Beast Belle",
+  "price_eur": 35.0,
+  "price_text": "€35",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/belle-ears-headband-for-adults-beauty-and-the-beast-445037282287.html?isProductSearch=1&plpPosition=undefined&searchType=regular"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.eu/clothing/accessories",
+      "title": "Accessories | Bags, Jewellery, Hats & More | Disney Store",
+      "description": "Find the perfect accessories for Disney fans of all ages including bags, jewellery, hats, sunglasses & more featuring all of your favourite Disney characters.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WNr6UJfc2Oc",
+      "channel": "DreamItDIY",
+      "duration": 786.0,
+      "title": "Easy Sew Mickey Ears Beauty and the Beast Inspired - Adult and Kids Sizes"
+    },
+    {
+      "id": "VL8QAnXJHIg",
+      "channel": "AnxietyASMR",
+      "duration": 343.0,
+      "title": "How To: Beauty and the Beast Belle Inspired Floral Wire Disney Ears"
+    },
+    {
+      "id": "HX8VB3Zcn2s",
+      "channel": "DreamItDIY",
+      "duration": 885.0,
+      "title": "DIY Light Up Enchanted Rose Mickey Ears | Beauty and the Beast Inspired"
+    },
+    {
+      "id": "o_HUwzew2Kk",
+      "channel": "KMHTELEVISION",
+      "duration": 56.0,
+      "title": "Inspired Beauty and the Beast's Belle Ears"
+    },
+    {
+      "id": "zQ3-wNPWHwE",
+      "channel": "Megan Makes",
+      "duration": 74.0,
+      "title": "DIY | Belle Floral Wire Minnie Mouse Ears"
+    }
+  ]
+}

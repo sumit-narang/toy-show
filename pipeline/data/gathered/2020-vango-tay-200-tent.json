@@ -1,0 +1,54 @@
+{
+  "id": "2020-vango-tay-200-tent",
+  "year": 2020,
+  "name": "Vango Tay 200 Tent",
+  "price_eur": 70.52,
+  "price_text": "€70.52",
+  "retailers": [
+    {
+      "name": "Great Outdoors",
+      "url": "https://www.greatoutdoors.ie/shop/vango-tay-200-sun-orange"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.greatoutdoors.ie/products/tay-200-treetops"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3ugES5r8X1A",
+      "channel": "Attwoolls Outdoors",
+      "duration": 441.0,
+      "title": "Vango Tay 200, 300, 400 Tent Review 2024"
+    },
+    {
+      "id": "MYP2IDA4rwA",
+      "channel": "Attwoolls Outdoors",
+      "duration": 688.0,
+      "title": "Vango Tay 200, 300 & 400 Tent Pitching Video"
+    },
+    {
+      "id": "i2sEjl7pzJc",
+      "channel": "Attwoolls Outdoors",
+      "duration": 218.0,
+      "title": "Vango Tay 200, 300 & 400 Tent Review 2022"
+    },
+    {
+      "id": "OgFgwOAaOpI",
+      "channel": "Vango",
+      "duration": 53.0,
+      "title": "Vango Tay Range • 200, 300 & 400"
+    },
+    {
+      "id": "QYhfqkclF80",
+      "channel": "Charlotte Fay",
+      "duration": 918.0,
+      "title": "Slow Minimalist Camping With The Vango Tay 300 For Our First Wilder Camp"
+    }
+  ]
+}

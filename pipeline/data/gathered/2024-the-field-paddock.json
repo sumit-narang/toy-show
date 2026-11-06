@@ -1,0 +1,60 @@
+{
+  "id": "2024-the-field-paddock",
+  "year": 2024,
+  "name": "The Field Paddock",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "The Field",
+      "url": "https://www.thefield.ie/product/the-field-paddocks/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/product/the-field-paddocks/",
+      "title": "The Field Paddocks | Farm Toy Fields | THE FIELD TOY",
+      "description": "The Paddocks is 3 fields in 1 and each field offers a different play experience! With the changing seasons your little farmer will be busy!",
+      "image": "https://www.thefield.ie/wp-content/uploads/2017/09/Web-Version-Paddocks.jpg",
+      "ld_description": "Our latest edition to our model toy Field collection! The Field Paddocks is three fields in one! Each field offers a different play experience! With the changing seasons, your budding farmer will be kept busy! Mowing their meadow, baling hay, reaping the corn harvest, moving livestock to lush green pastures and sowing crops!\r\n\r\nThe Field, model toy fields allow a child to create their own play, igniting their imagination and creativity! Our new Field, The Field Paddocks comes alive with the use of premium quality grasses in different colours and textures to create realistic fields! Loved by both girls and boys alike, these durable fields can be used both indoors and outside!\r\n\r\nThe Field Paddocks comes complete with Certificate of Title, realistic hedging, three paddocks with grasses of different textures and colours and traditional wooded farm gates. The Field Paddocks measures 63 x 44 x 6 cm.\r\n\r\nCreate your own outdoors and let the fun begin!\r\n\r\nSuitable for children aged 3+\r\n\r\nFigurines, farm machinery and props as seen in images not included \r\n\r\nAdd some of our Farm Play Sets!\r\n\r\n  See More",
+      "brand": null,
+      "ld_image": "https://www.thefield.ie/wp-content/uploads/2017/09/Web-Version-Paddocks.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CXtlrieEBv4",
+      "channel": "The Crafty Kelpie",
+      "duration": 327.0,
+      "title": "Chain Harrowing Horses Paddock Maintenence"
+    },
+    {
+      "id": "UgNq4c6bjVQ",
+      "channel": "Agriland",
+      "duration": 204.0,
+      "title": "How this simple paddock system is leading to better grass management"
+    },
+    {
+      "id": "-r8ROxXGXKw",
+      "channel": "Paul Dinning",
+      "duration": 36324.0,
+      "title": "Dog TV Relaxation : Videos for Dogs - Cows In The Field ~ Relax with Nature"
+    },
+    {
+      "id": "VMYMJdAGx7Q",
+      "channel": "Teagasc",
+      "duration": 191.0,
+      "title": "Managing a Reseeded Paddock"
+    },
+    {
+      "id": "OvEytLDO4O0",
+      "channel": "Irish Farmers Journal",
+      "duration": 124.0,
+      "title": "Draining a heavy sloped field in Co Meath"
+    }
+  ]
+}

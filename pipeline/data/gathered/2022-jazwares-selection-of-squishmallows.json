@@ -1,0 +1,54 @@
+{
+  "id": "2022-jazwares-selection-of-squishmallows",
+  "year": 2022,
+  "name": "Jazwares Selection of Squishmallows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3r-GidAHeTo",
+      "channel": "Jake Sweet",
+      "duration": 680.0,
+      "title": "Unboxing 100 Mystery Squishmallows! (WE GOT THE RARE!)"
+    },
+    {
+      "id": "2o7yqwQ88lo",
+      "channel": "Offbeat Plush",
+      "duration": 912.0,
+      "title": "Unboxing Four Boxes of Squishmallows From Jazwares Lots of New Bigfoots Haul"
+    },
+    {
+      "id": "aZHWxepNtAc",
+      "channel": "JonnyBlox",
+      "duration": 1910.0,
+      "title": "FNAF JAZWARES REVIEW & UNBOXING! (Action Figures, Plush, Endo Series, Squishmallows, & MORE!)"
+    },
+    {
+      "id": "idyWKdkxQus",
+      "channel": "Haley Bear",
+      "duration": 750.0,
+      "title": "OPENING SQUISHMALLOWS MYSTERY BOXES & BLIND BAGS! I CAN'T BELIEVE I GOT THIS..."
+    },
+    {
+      "id": "ZCRdVL0hpUY",
+      "channel": "TheJerseyMomma",
+      "duration": 266.0,
+      "title": "Squishmallows Hunt at Toy Fair New York: Jazwares and BigMouth Booth Tours"
+    }
+  ]
+}

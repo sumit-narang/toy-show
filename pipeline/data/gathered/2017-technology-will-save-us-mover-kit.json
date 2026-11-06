@@ -1,0 +1,53 @@
+{
+  "id": "2017-technology-will-save-us-mover-kit",
+  "year": 2017,
+  "name": "Technology Will Save Us \"Mover Kit\"",
+  "price_eur": 80.0,
+  "price_text": "€80.00",
+  "retailers": [
+    {
+      "name": "Atnorrs",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RQGmDnak8iI",
+      "channel": "Tech Will Save Us",
+      "duration": 70.0,
+      "title": "How does the Mover Kit work?"
+    },
+    {
+      "id": "JuTTbYIRhFs",
+      "channel": "Tech Will Save Us",
+      "duration": 97.0,
+      "title": "Say hello to the Mover Kit"
+    },
+    {
+      "id": "DAq_NDVT7M0",
+      "channel": "Tech Will Save Us",
+      "duration": 48.0,
+      "title": "How to Build and Code the Mover Kit!"
+    },
+    {
+      "id": "EboTSY5cEuQ",
+      "channel": "World of Toys & Games Channel",
+      "duration": 61.0,
+      "title": "Tech Will Save Us, Mover Kit | Coding for Kids, Ages 8 and Up by Tech Will Save Us"
+    },
+    {
+      "id": "2aMvFLJr8U4",
+      "channel": "Tech Will Save Us",
+      "duration": 77.0,
+      "title": "Smart watch VS Mover Kit!"
+    }
+  ]
+}

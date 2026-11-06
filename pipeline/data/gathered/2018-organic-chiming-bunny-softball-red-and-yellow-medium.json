@@ -1,0 +1,26 @@
+{
+  "id": "2018-organic-chiming-bunny-softball-red-and-yellow-medium",
+  "year": 2018,
+  "name": "Organic Chiming Bunny Softball (Red and Yellow, Medium)",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

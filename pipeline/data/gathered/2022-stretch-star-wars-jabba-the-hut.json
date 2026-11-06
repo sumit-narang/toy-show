@@ -1,0 +1,54 @@
+{
+  "id": "2022-stretch-star-wars-jabba-the-hut",
+  "year": 2022,
+  "name": "Stretch Star Wars, Jabba the Hut",
+  "price_eur": 42.0,
+  "price_text": "€42",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/stretch-stretch-star-wars-jabba-the-hutt/1600804706.prd?sku=sku25647264&msclkid=a9b7b4a405b816910cf8d7da13f8df81"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/stretch-stretch-star-wars-jabba-the-hutt/1600804706.prd?sku=sku25647264&msclkid=a9b7b4a405b816910cf8d7da13f8df81"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6ZBM_X_Glxs",
+      "channel": "Mighty Jabba's Collection",
+      "duration": 606.0,
+      "title": "Stretch Armstrong + Jabba the Hutt = ???"
+    },
+    {
+      "id": "0gyT20xT5_w",
+      "channel": "AdventureFun!",
+      "duration": 1733.0,
+      "title": "7 Stretch Star Wars Toy Action Goo Figures Toy Review AdventureFun!"
+    },
+    {
+      "id": "QbtDIix2zeg",
+      "channel": "The Padawan Collector",
+      "duration": 883.0,
+      "title": "Star Wars Vintage Playsets: Jabba the Hutt Action Playset Review - EP 03 - The Padawan Collector"
+    },
+    {
+      "id": "-Ce0gxs4ak8",
+      "channel": "Salacious Rum",
+      "duration": 178.0,
+      "title": "Jabba the Hutt is stretchy!"
+    },
+    {
+      "id": "ujWqrHigxKE",
+      "channel": "Big Balloon Toys Australia",
+      "duration": 11.0,
+      "title": "Stretch Star Wars I Jabba The Hutt I 10\" TV Commercial"
+    }
+  ]
+}

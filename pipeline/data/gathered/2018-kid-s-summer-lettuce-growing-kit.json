@@ -1,0 +1,57 @@
+{
+  "id": "2018-kid-s-summer-lettuce-growing-kit",
+  "year": 2018,
+  "name": "Kid's Summer Lettuce Growing Kit",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wknQKsUZL6Y",
+      "channel": "TheGardenShopIreland",
+      "duration": 113.0,
+      "title": "Kids Summer Lettuce Growing Kit"
+    },
+    {
+      "id": "PxGEsw06oT4",
+      "channel": "TheGardenShopIreland",
+      "duration": 177.0,
+      "title": "Kid's Growing Kit (Summer Salad)"
+    },
+    {
+      "id": "wj6hN9oQ4d4",
+      "channel": "Epic Gardening",
+      "duration": 1019.0,
+      "title": "Growing Lettuce, From Seed to Harvest 🌱"
+    },
+    {
+      "id": "KfNhnMDRiRg",
+      "channel": "Veggie Life",
+      "duration": 117.0,
+      "title": "Veggie Life Cultivation Kit Instructional Video"
+    },
+    {
+      "id": "zJmEnjjMVDk",
+      "channel": "UrbanAgMike",
+      "duration": 277.0,
+      "title": "How To Grow Lettuce In Trays - 3 Methods EXPERIMENT!"
+    }
+  ]
+}

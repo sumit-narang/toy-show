@@ -1,0 +1,57 @@
+{
+  "id": "2018-i-am-the-seed-that-grew-the-tree-by-fiona-waters",
+  "year": 2018,
+  "name": "I Am the Seed That Grew the Tree by Fiona Waters",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7xq8StZR0vU",
+      "channel": "Nosy Crow",
+      "duration": 62.0,
+      "title": "I Am The Seed That Grew The Tree: A Nature Poem For Every Day Of The Year"
+    },
+    {
+      "id": "LZZSuIifuw8",
+      "channel": "Nosy Crow",
+      "duration": 151.0,
+      "title": "Kate Wilson introduces I Am The Seed That Grew The Tree: A Nature Poem For Every Day Of The Year"
+    },
+    {
+      "id": "7kyZMfCUxpE",
+      "channel": "Nosy Crow",
+      "duration": 75.0,
+      "title": "I Am The Seed That Grew The Tree - our favourite artwork"
+    },
+    {
+      "id": "gZYegn1EWIo",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 224.0,
+      "title": "I Am the Seed That Grew the Tree - A Poem for Every Day of the Year"
+    },
+    {
+      "id": "l5YS4EZW7NU",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 243.0,
+      "title": "I Am the Seed That Grew the Tree - A Poem for Every Day of the Year"
+    }
+  ]
+}

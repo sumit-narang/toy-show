@@ -1,0 +1,44 @@
+{
+  "id": "2022-harry-potter-and-the-order-of-the-phoenix-j-k-rowling",
+  "year": 2022,
+  "name": "Harry Potter and the Order of the Phoenix - J.K. Rowling",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "sFRp9JCnbbc",
+      "channel": "polandbananasBOOKS",
+      "duration": 1003.0,
+      "title": "HARRY POTTER AND THE ORDER OF PHOENIX BY JK ROWLING | booktalk with XTINEMAY"
+    },
+    {
+      "id": "gZDS8y0j59w",
+      "channel": "Merphy Napier | Manga",
+      "duration": 1769.0,
+      "title": "Harry Potter and the Order of the Phoenix Review"
+    },
+    {
+      "id": "rxwhYxHHolo",
+      "channel": "Spinster's Library",
+      "duration": 363.0,
+      "title": "Harry Potter and the Order of the Phoenix by J.K. Rowling | Bookish Favourites"
+    },
+    {
+      "id": "-_hUC7_SGIc",
+      "channel": "Harry Potter",
+      "duration": 305.0,
+      "title": "Detention with Umbridge | Full Scene | Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "id": "LLdNPmJ20H8",
+      "channel": "Harry Potter",
+      "duration": 381.0,
+      "title": "Dumbledore vs. Voldemort | Full Scene | Harry Potter and the Order of the Phoenix"
+    }
+  ]
+}

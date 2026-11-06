@@ -1,0 +1,57 @@
+{
+  "id": "2022-5-second-rule-electronic-board-game",
+  "year": 2022,
+  "name": "5 Second Rule Electronic Board Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3dYQn_po1As",
+      "channel": "The Review Guy",
+      "duration": 210.0,
+      "title": "5 Second Rule Relay: A Hilarious and Fast-Talking Game for Everyone!"
+    },
+    {
+      "id": "htOXlTJWCCc",
+      "channel": "Deanne Gustafson",
+      "duration": 109.0,
+      "title": "5 Second Rule Game - How to Play This Fast Paced Family Card Game"
+    },
+    {
+      "id": "JYn44TLDE8U",
+      "channel": "The One Minute Review Channel ",
+      "duration": 280.0,
+      "title": "5 Second Rule Relay Game Review: Is It Fun for Families?"
+    },
+    {
+      "id": "G6zkf0eCfR4",
+      "channel": "manuals_plus",
+      "duration": 200.0,
+      "title": "Five Second Rule Board Game - Rules & How To Play"
+    },
+    {
+      "id": "m2cbs4FHelQ",
+      "channel": "AmassGames",
+      "duration": 174.0,
+      "title": "5 Second Rule mini game party trivia board game how to setup play and review AmassGames #fun #party"
+    }
+  ]
+}

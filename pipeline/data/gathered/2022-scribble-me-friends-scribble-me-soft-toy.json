@@ -1,0 +1,44 @@
+{
+  "id": "2022-scribble-me-friends-scribble-me-soft-toy",
+  "year": 2022,
+  "name": "Scribble Me Friends - Scribble Me Soft Toy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "Whgpk069wGQ",
+      "channel": "Wonder World TV",
+      "duration": 225.0,
+      "title": "MLP Pinkie Pie Scribble Me Draw and Doodle on me, Wash me out and Start again"
+    },
+    {
+      "id": "KniZg8LPEsQ",
+      "channel": "Toy reviewer and store guy",
+      "duration": 5.0,
+      "title": "VTECH Myla's Sparkling Friends Penny saying hi to Leapfrog Read With Me SCOUT UK"
+    },
+    {
+      "id": "xti81lI-Qd8",
+      "channel": "Real Mom Stuff",
+      "duration": 49.0,
+      "title": "Real Mom Stuff | Sketch Pals Doodle Board |Boogie Board Sketch Pals | Ocean's Friend Edition"
+    },
+    {
+      "id": "FLw9VKtWze4",
+      "channel": "LankyBox",
+      "duration": 6673.0,
+      "title": "Our FAVORITE Toy Unboxing EVER!"
+    },
+    {
+      "id": "p_Nb1vvPz9k",
+      "channel": "AmandaRachLee",
+      "duration": 1109.0,
+      "title": "I Made My Own Blind Boxes! (unboxing for the first time!)"
+    }
+  ]
+}

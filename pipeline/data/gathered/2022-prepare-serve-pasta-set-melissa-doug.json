@@ -1,0 +1,54 @@
+{
+  "id": "2022-prepare-serve-pasta-set-melissa-doug",
+  "year": 2022,
+  "name": "Prepare & Serve Pasta Set - Melissa & Doug",
+  "price_eur": 38.49,
+  "price_text": "€38.49",
+  "retailers": [
+    {
+      "name": "The Learning Lab",
+      "url": "https://learninglab.ie/product/prepare-serve-pasta-set/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://learninglab.ie/product/prepare-serve-pasta-set/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IKDyJCD-r9o",
+      "channel": "Melissa & Doug",
+      "duration": 50.0,
+      "title": "Melissa & Doug Prepare & Serve Pasta Set"
+    },
+    {
+      "id": "OEbWo4M9Xkc",
+      "channel": "예리몽 Yerimong",
+      "duration": 493.0,
+      "title": "Cooking toys 🍳 Melissa and Doug Pasta Set ASMR Satisfying with Unboxing | Review toys"
+    },
+    {
+      "id": "hYJynca06G4",
+      "channel": "ABA Naturally",
+      "duration": 100.0,
+      "title": "Melissa and Doug Prepare and Serve Pasta Set Toy Review"
+    },
+    {
+      "id": "I0ggHH-R9uM",
+      "channel": "ASMR Toys & Party",
+      "duration": 719.0,
+      "title": "🍝 ASMR Unboxing & Playing with Melissa & Doug Pasta Play Set | No Talking, Tingly Sounds"
+    },
+    {
+      "id": "i2spaO2sR1Y",
+      "channel": "Gnome",
+      "duration": 336.0,
+      "title": "Melissa And Doug Prepare And Serve Pasta Set"
+    }
+  ]
+}

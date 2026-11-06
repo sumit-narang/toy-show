@@ -1,0 +1,57 @@
+{
+  "id": "2025-kitchen-corner-play-kitchen-sink",
+  "year": 2025,
+  "name": "Kitchen Corner Play Kitchen Sink",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/kitchen-corner-play-kitchen-sink-wash-up-with-colour-change/p/248171"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/kitchen-corner-play-kitchen-sink-wash-up-with-colour-change/p/248171",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EBs9vkoMfUM",
+      "channel": "Brian E. Niskala",
+      "duration": 262.0,
+      "title": "CUTE STONE Kitchen Sink Toy Unboxing & Demonstration"
+    },
+    {
+      "id": "Ht0ytKWANpA",
+      "channel": "Everyday Family Finds",
+      "duration": 111.0,
+      "title": "CUTE STONE Color Changing Kitchen Sink!"
+    },
+    {
+      "id": "r2jQeh9KzuU",
+      "channel": "Smyths Toys Superstores",
+      "duration": 20.0,
+      "title": "Kitchen Corner Luxury Wooden Kitchen - Smyths Toys"
+    },
+    {
+      "id": "1MT5OFoARYM",
+      "channel": "Playgo Toys Enterprises Ltd",
+      "duration": 22.0,
+      "title": "My Little Kitchen Sink"
+    },
+    {
+      "id": "-MT8j82AJbA",
+      "channel": "Costway",
+      "duration": 542.0,
+      "title": "How to Install the Kids Corner Pretend Kitchen Playset | 41569837 #costway #howto"
+    }
+  ]
+}

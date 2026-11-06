@@ -1,0 +1,60 @@
+{
+  "id": "2025-jellycat-christmas-tree-ricky-rain-frog",
+  "year": 2025,
+  "name": "Jellycat Christmas Tree Ricky Rain Frog",
+  "price_eur": 62.0,
+  "price_text": "€62",
+  "retailers": [
+    {
+      "name": "Jellycat",
+      "url": "https://eu.jellycat.com/christmas-tree-ricky-rain-frog/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://eu.jellycat.com/christmas-tree-ricky-rain-frog/",
+      "title": "Christmas Tree Ricky Rain Frog",
+      "description": "Buy Christmas Tree Ricky Rain Frog online from the Official Jellycat store. Shop authentic Jellycat stuffed toys and gifts. International delivery available.",
+      "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/products/4005/images/122128/RR3FC__21025.1762532861.386.513.jpg?c=1",
+      "ld_description": "Christmas Tree Ricky Rain Frog did not sign up for this. One minute Ricky was minding his own business, nursing a mug of tea. The next, he’s wrapped in tinsel, jammed into a tree costume, and blinking through fairy lights. (“It’s festive, Ricky!” insisted Bartholomew Bear. Ricky remains unconvinced.) He’s not a natural Christmas tree. The baubles jangle when he sighs. The star on his head tilts dramatically whenever someone mentions carolling. But he’s promised not to moan... too much!",
+      "brand": null,
+      "ld_image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1280x1280/products/4005/119625/RR3FC__49863.1750802909.jpg?c=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GxF5FWMnGhY",
+      "channel": "Kayden",
+      "duration": 365.0,
+      "title": "Vlog: Picking up my NEW CHRISTMAS JELLYCATS!"
+    },
+    {
+      "id": "d2M8wOs6zX4",
+      "channel": "Daniel Ferri",
+      "duration": 1150.0,
+      "title": "I Made My Frogs MEET For The First Time... (IT WAS BAD)"
+    },
+    {
+      "id": "TDRNpcXaRWI",
+      "channel": "Daniel Ferri",
+      "duration": 1346.0,
+      "title": "I LOST My Pet FROG in NEW YORK CITY... (IT WAS SAD)"
+    },
+    {
+      "id": "YsF-4HxX-_8",
+      "channel": "Daniel Ferri",
+      "duration": 1407.0,
+      "title": "RIP. I Found My Lost Baby Pet Frogs and Fish... can I save them?"
+    },
+    {
+      "id": "7Mpe9o7nlNE",
+      "channel": "teddiemush",
+      "duration": 639.0,
+      "title": "the new holiday jellycats are INCREDIBLE"
+    }
+  ]
+}

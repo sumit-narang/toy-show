@@ -1,0 +1,60 @@
+{
+  "id": "2019-little-women",
+  "year": 2019,
+  "name": "Little Women",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/little-women-louisa-may-alcott-9780008195540"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/little-women-louisa-may-alcott-9780008195540",
+      "title": "Little Women Book By Louisa May Alcott | Buy At Eason",
+      "description": "Full of charm and heart, Little Women is the first novel in a series cherished by children and adults alike. Buy at easons.com",
+      "image": null,
+      "ld_description": "HarperCollins is proud to present its range of best-loved, essential classics.'Wouldn't it be fun if all the castles in the air which we make could come true, and we could live in them?'An endearing tale of hardship, love and sisterhood during the American Civil War, Little Women tells the story of the March family. Newly impoverished, Meg, Jo, Beth and Amy undertake their journey through life together, bound to each other and their beloved mother Marmee by fierce loyalty. Good and bad times come and go as they struggle with the trials of growing up, getting along, and exploring life outside the comforting walls of home, each discovering her own distinct personality along the way.Full of charm and heart, Little Women is the first novel in a series cherished by children and adults alike.",
+      "brand": "William Collins",
+      "ld_image": "https://www.easons.com/images/m/47012f2c92b77d0f/original/9780008195540_5641397794.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qeSZZKz3FSA",
+      "channel": "leni Buii",
+      "duration": 5877.0,
+      "title": "Little Women (1994) Movie - Susan Sarandon, Winona Ryder"
+    },
+    {
+      "id": "bYM6o0fQRfE",
+      "channel": "Sony Pictures Entertainment India",
+      "duration": 654.0,
+      "title": "Laurie Realizes His Love For Amy | Little Women (2019)"
+    },
+    {
+      "id": "gkH4AVq8fD8",
+      "channel": "Lifetime",
+      "duration": 1126.0,
+      "title": "Little Women: BIGGEST Betrayals (Compilation) | Lifetime"
+    },
+    {
+      "id": "QJrSOoNwzIc",
+      "channel": "SparkTV",
+      "duration": 7129.0,
+      "title": "Little Women (2018) | Full Modern Classic Movie | Lea Thompson | Melanie Stone"
+    },
+    {
+      "id": "3cEg2HCl50I",
+      "channel": "Movieclips",
+      "duration": 227.0,
+      "title": "Little Women (2019) - Laurie Proposes to Jo Scene (6/10) | Movieclips"
+    }
+  ]
+}

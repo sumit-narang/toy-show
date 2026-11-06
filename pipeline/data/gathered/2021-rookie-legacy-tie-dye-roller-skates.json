@@ -1,0 +1,54 @@
+{
+  "id": "2021-rookie-legacy-tie-dye-roller-skates",
+  "year": 2021,
+  "name": "Rookie Legacy Tie Dye Roller Skates",
+  "price_eur": 89.95,
+  "price_text": "€89.95",
+  "retailers": [
+    {
+      "name": "GoSk8",
+      "url": "https://gosk8.ie/rookie-legacy-tie-dye-roller-skates"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "https://gosk8.ie/rookie-legacy-tie-dye-roller-skates"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RC0YyRNiEXU",
+      "channel": "Momma Trucker",
+      "duration": 27.0,
+      "title": "Rookie Roller Skates Legacy Tie Dye"
+    },
+    {
+      "id": "UqBGaKWj1Ps",
+      "channel": "Flash Skate",
+      "duration": 37.0,
+      "title": "Ролики квади Rookie Legacy Tie Dye"
+    },
+    {
+      "id": "HpENRl1LRlw",
+      "channel": "Momma Trucker",
+      "duration": 14.0,
+      "title": "Rookie Roller Skates Magic Checker"
+    },
+    {
+      "id": "tYesoEudRSQ",
+      "channel": "SkateHut",
+      "duration": 488.0,
+      "title": "ROOKIE - BRAND OF THE MONTH MAR 2021"
+    },
+    {
+      "id": "PeEwTAvfBDI",
+      "channel": "Momma Trucker",
+      "duration": 29.0,
+      "title": "Rookie Roller Skates Harmony Leopard"
+    }
+  ]
+}

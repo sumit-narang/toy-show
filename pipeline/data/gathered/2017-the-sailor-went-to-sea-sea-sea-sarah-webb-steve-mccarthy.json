@@ -1,0 +1,41 @@
+{
+  "id": "2017-the-sailor-went-to-sea-sea-sea-sarah-webb-steve-mccarthy",
+  "year": 2017,
+  "name": "The Sailor Went To Sea, Sea, Sea Sarah Webb & Steve McCarthy",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "u0eJu_J7X_A",
+      "channel": "Scoil Cholmcille",
+      "duration": 124.0,
+      "title": "Review of A SAILOR WENT TO SEA, SEA, SEA"
+    },
+    {
+      "id": "uIkonHq2G1Q",
+      "channel": "Dublin City Libraries",
+      "duration": 152.0,
+      "title": "Teddy Bear, Teddy Bear"
+    },
+    {
+      "id": "7XUpvrzMDZ4",
+      "channel": "Rare Clips",
+      "duration": 110.0,
+      "title": "A BBC sketch was right about Jimmy Savile"
+    }
+  ]
+}

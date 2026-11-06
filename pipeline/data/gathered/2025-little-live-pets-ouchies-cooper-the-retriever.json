@@ -1,0 +1,57 @@
+{
+  "id": "2025-little-live-pets-ouchies-cooper-the-retriever",
+  "year": 2025,
+  "name": "Little Live Pets Ouchies Cooper the Retriever",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-ouchies-cooper-the-retriever/p/245108"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-ouchies-cooper-the-retriever/p/245108",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Jd9qdFc-K5k",
+      "channel": "UMBIT Toys",
+      "duration": 800.0,
+      "title": "Little Live Pets Ouchies Cooper the Retriever Unboxing - No Talking - ASMR"
+    },
+    {
+      "id": "A4ipcrGusuw",
+      "channel": "Toys & Smiles",
+      "duration": 588.0,
+      "title": "Little Live Pets Ouchies Cooper the Retriever"
+    },
+    {
+      "id": "JIhqMbXqTok",
+      "channel": "Prima Toys South Africa",
+      "duration": 330.0,
+      "title": "Little Live Pets Ouchies - How To"
+    },
+    {
+      "id": "_m3iU4PGCGA",
+      "channel": "AdventureFun!",
+      "duration": 2531.0,
+      "title": "2 Little Live Pets Ouchies Puppies! Heal the Hurt Puppy Adventure Fun Toy review!"
+    },
+    {
+      "id": "4fBq6Dcaeu8",
+      "channel": "Brick Latitude",
+      "duration": 186.0,
+      "title": "Review Little Live Pets Ouchies Cooper The Retriever Puppy, 50+ Sounds, Limping to Walking Puppy Toy"
+    }
+  ]
+}

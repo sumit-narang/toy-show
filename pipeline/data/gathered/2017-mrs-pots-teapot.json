@@ -1,0 +1,54 @@
+{
+  "id": "2017-mrs-pots-teapot",
+  "year": 2017,
+  "name": "Mrs. Pots Teapot",
+  "price_eur": 14.0,
+  "price_text": "€14.00",
+  "retailers": [
+    {
+      "name": "Penneysfor",
+      "url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DsEo90y7QP4",
+      "channel": "Dan Geyk",
+      "duration": 83.0,
+      "title": "Beauty and the BeastBelle meeting Mrs Potts and Chip HD"
+    },
+    {
+      "id": "9nzEoD1RBus",
+      "channel": "Spike Dragon",
+      "duration": 23.0,
+      "title": "Chip Shows Belle A Trick - Beauty And The Beast (2017)"
+    },
+    {
+      "id": "a-KrRMBVIi8",
+      "channel": "Spike Dragon",
+      "duration": 23.0,
+      "title": "Chip Tells Mrs. Potts That There's A Girl In The Castle - Beauty And The Beast (1991)"
+    },
+    {
+      "id": "DiobBa9XKG0",
+      "channel": "TruffleShuffle.com",
+      "duration": 33.0,
+      "title": "Disney Beauty and The Beast Mrs Potts Teapot | TruffleShuffle - You love it, we get it."
+    },
+    {
+      "id": "Yi6Sz6AzOI0",
+      "channel": "CoolThings Australia",
+      "duration": 105.0,
+      "title": "Beauty And The Beast Mrs Potts Teapot and Chip Cup Tea Set"
+    }
+  ]
+}

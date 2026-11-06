@@ -1,0 +1,57 @@
+{
+  "id": "2022-batman-beyond-batbot",
+  "year": 2022,
+  "name": "Batman Beyond Batbot",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/imaginext-dc-super-friends-bat-tech-batbot-and-batman-figure/p/200448"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/imaginext-dc-super-friends-bat-tech-batbot-and-batman-figure/p/200448",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kIRCnkwnHqM",
+      "channel": "Cheeb",
+      "duration": 137.0,
+      "title": "Batman Beyond: Bruce puts on one last Batsuit"
+    },
+    {
+      "id": "Soqc5t6k1UE",
+      "channel": "The Night Beyond",
+      "duration": 216.0,
+      "title": "Batman Beyond The Batsuit is taken over"
+    },
+    {
+      "id": "5Ua9YNsR7p0",
+      "channel": "OzToyReviews",
+      "duration": 626.0,
+      "title": "Imaginext Batman Beyond time travels to stop Iron Man!  Imaginext DC Super Friends New Toy 2018 !"
+    },
+    {
+      "id": "mq-NbT5LGBU",
+      "channel": "Just4fun290",
+      "duration": 361.0,
+      "title": "Batman Beyond And Thomas Wayne Batman Dad Time Travels | Batman Makes New Obstacle Course"
+    },
+    {
+      "id": "6haS4v5sC3o",
+      "channel": "DC Kids",
+      "duration": 164.0,
+      "title": "Batman Beyond | Destroying The Bat Signal?! | @dckids"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2018-wooden-postbox",
+  "year": 2018,
+  "name": "Wooden Postbox",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre / Mothercare",
+      "url": "https://www.mothercare.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dmlBmXGkFhc",
+      "channel": "DIY Builds",
+      "duration": 326.0,
+      "title": "DIY Mail Box - Free Plans!"
+    },
+    {
+      "id": "1iMoXMp-0rM",
+      "channel": "Woodfather",
+      "duration": 534.0,
+      "title": "Building a Letterbox (mailbox) - TheWoodfather"
+    },
+    {
+      "id": "Q_wQsXIPBpI",
+      "channel": "Avenue Woodwork",
+      "duration": 1844.0,
+      "title": "Behind The Scenes: Wooden Postbox"
+    },
+    {
+      "id": "rcLkpMNj_kY",
+      "channel": "Wood By Wright How To",
+      "duration": 798.0,
+      "title": "Timber Framed Mailbox Post How to Version"
+    },
+    {
+      "id": "DQos6TG-hn8",
+      "channel": "Woodworking Tools TV",
+      "duration": 517.0,
+      "title": "Making A Sample DIY Wooden Mailbox"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-garden-brush",
+  "year": 2018,
+  "name": "Kids Garden Brush",
+  "price_eur": 4.35,
+  "price_text": "€4.35",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nJur9lcT5Cs",
+      "channel": "TheGardenShopIreland",
+      "duration": 43.0,
+      "title": "Kids Garden Brush"
+    },
+    {
+      "id": "UHYFvwmKsb0",
+      "channel": "Garden and Forest",
+      "duration": 81.0,
+      "title": "Brushcutter Stihl for Kids #toys"
+    },
+    {
+      "id": "Kw-5vjvYCu4",
+      "channel": "Kids Garden",
+      "duration": 88.0,
+      "title": "Brush, Brush, Brush (For Healthy Smiles) | Toothbrushing Song for Kids "
+    },
+    {
+      "id": "N888krE9IQ4",
+      "channel": "Kids Garden",
+      "duration": 52.0,
+      "title": "Brush Your Teeth Song 🦷 | Brush Time! Nursery Rhymes & Kids Songs"
+    },
+    {
+      "id": "Bjq8rZNUCE8",
+      "channel": "STIHL",
+      "duration": 47.0,
+      "title": "Kids power tools to play hard with | STIHL​"
+    }
+  ]
+}

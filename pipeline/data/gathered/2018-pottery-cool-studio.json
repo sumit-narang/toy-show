@@ -1,0 +1,69 @@
+{
+  "id": "2018-pottery-cool-studio",
+  "year": 2018,
+  "name": "Pottery Cool Studio",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MZOMDqb2V_8",
+      "channel": "Cool Maker",
+      "duration": 330.0,
+      "title": "Cool Maker | Pottery Studio | Tips and Tricks"
+    },
+    {
+      "id": "xHzQutpDUWY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 97.0,
+      "title": "Pottery Cool Studio from Spin Master"
+    },
+    {
+      "id": "_QL7EMeu86E",
+      "channel": "Cool Maker",
+      "duration": 260.0,
+      "title": "TikTok Filming HACK! 🎶 Making a Phone Stand with the Pottery Studio | Cool Maker Hangout"
+    },
+    {
+      "id": "5LcPBXG1ktA",
+      "channel": "Cool Maker",
+      "duration": 320.0,
+      "title": "Cool Maker | Pottery Studio | How To Make A Jewelry Holder"
+    },
+    {
+      "id": "QRZHu5bWnzY",
+      "channel": "Cool Maker",
+      "duration": 241.0,
+      "title": "Cool Maker | Pottery Studio | Jazzy Jewelry"
+    }
+  ]
+}

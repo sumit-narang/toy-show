@@ -1,0 +1,60 @@
+{
+  "id": "2024-micro-helmet-red",
+  "year": 2024,
+  "name": "Micro Helmet Red",
+  "price_eur": 36.95,
+  "price_text": "€36.95",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/outdoor-toys-scooters/micro-scooters/deluxe-premium-logo-helmet-small/2000764399.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/micro-scooters/micro-scooter-plain-small-bike-helmet/2000764399.html",
+      "title": "MICRO SCOOTERS Micro Scooter Plain Small Bike Helmet - Red",
+      "description": "Micro helmets are designed with solid ABS construction and EPS foam lining to for impact protection. They feature an LED rear light and reflective rear Micro logo so they can be seen and safe, while detailed with a protective chin pad for comfort. They’re made with a multi adjustable sizing wheel for the perfect fit alongside inner padding and easy squeeze buckleunbuckle so kids can do it themselves. The multiple air vents keep heads cool and adjustable straps allow the helmet to grow with them, while the shape covers more of the head and forehead for all-round protection.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000764399_01.jpg?$product_tile_plp$",
+      "ld_description": "Micro helmets are designed with solid ABS construction and EPS foam lining to for impact protection. They feature an LED rear light and reflective rear Micro logo so they can be seen and safe, while detailed with a protective chin pad for comfort. They’re made with a multi adjustable sizing wheel for the perfect fit alongside inner padding and easy squeeze buckle/unbuckle so kids can do it themselves. The multiple air vents keep heads cool and adjustable straps allow the helmet to grow with them, while the shape covers more of the head and forehead for all-round protection.",
+      "brand": "MICRO SCOOTERS",
+      "ld_image": "https://images.brownthomas.com/bta/2000764399_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PfVePVy8k4s",
+      "channel": "Micro Kickboard",
+      "duration": 60.0,
+      "title": "How to properly fit and wear a Micro helmet"
+    },
+    {
+      "id": "AWsEAlTewDY",
+      "channel": "LEM Helmets",
+      "duration": 61.0,
+      "title": "Flow Mountain Bike Helmet - Made for Dirt"
+    },
+    {
+      "id": "C8UmEyh1MEo",
+      "channel": "Micro Mobility Official",
+      "duration": 41.0,
+      "title": "Mini Micro & Maxi Micro Deluxe LED - Shine bright like a star!"
+    },
+    {
+      "id": "ZyNMPBs-eXw",
+      "channel": "Retro Toys and Cartoons",
+      "duration": 65.0,
+      "title": "Johnny Seven O.M.A. Micro Helmet Phone Set Topper Toys Commercial Retro Toys and Cartoons"
+    },
+    {
+      "id": "hh5L03osCwc",
+      "channel": "Powersport Junkies",
+      "duration": 47.0,
+      "title": "FLY RACING Formula S Carbon Byte Helmet Red Carbon/Red/Grey Xl 73-4451X"
+    }
+  ]
+}

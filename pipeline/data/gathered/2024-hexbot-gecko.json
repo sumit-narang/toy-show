@@ -1,0 +1,57 @@
+{
+  "id": "2024-hexbot-gecko",
+  "year": 2024,
+  "name": "Hexbot Gecko",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/hex-bots-wall-crawler-gecko/p/237767"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/hex-bots-wall-crawler-gecko/p/237767",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AhcUJLI520g",
+      "channel": "Spin Toys for Kids",
+      "duration": 125.0,
+      "title": "How to Use Your NEW Wall-Crawler Gecko | Hex Bots | Toys for Kids"
+    },
+    {
+      "id": "11W1TU8VJDM",
+      "channel": "The Entertainer",
+      "duration": 16.0,
+      "title": "Hex Bots Wall Crawler Gecko Remote Control Figure"
+    },
+    {
+      "id": "YvCD5NchpbU",
+      "channel": "Planet Zizzle",
+      "duration": 610.0,
+      "title": "HEX BOTS Wall Crawler Gecko"
+    },
+    {
+      "id": "nDjVICzcYs0",
+      "channel": "Tom Leeman",
+      "duration": 286.0,
+      "title": "How to use the Hex Bots Wall Crawler Gecko"
+    },
+    {
+      "id": "-BRBPrd5Uec",
+      "channel": "Mini fun toys",
+      "duration": 666.0,
+      "title": "Hex Bots Wall Crawler Gecko Toys Unboxing & Review"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-lego-star-wars-first-order-star-destroyer",
+  "year": 2017,
+  "name": "LEGO Star Wars First Order Star Destroyer",
+  "price_eur": 159.0,
+  "price_text": "€159.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YAk8TrU-UZs",
+      "channel": "Anthony's Brick Builds",
+      "duration": 553.0,
+      "title": "LEGO First Order Vs Imperial Star Destroyer Comparison 75394, 75190!"
+    },
+    {
+      "id": "S20MtNc__o4",
+      "channel": "Solid Brix Studios",
+      "duration": 1319.0,
+      "title": "LEGO Star Wars First Order Star Destroyer (Timelapse & Review) - Set 75190"
+    },
+    {
+      "id": "G3Grj7EZAFA",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 746.0,
+      "title": "🔄 LEGO Star Wars 2017 First Order Star Destroyer review! 75190 re upload"
+    },
+    {
+      "id": "A685xeLmMs0",
+      "channel": "All New Bricks",
+      "duration": 581.0,
+      "title": "Lego Star Wars 75190 First Order Star Destroyer Speed Build"
+    },
+    {
+      "id": "VDD6Fhg1F64",
+      "channel": "LEGO",
+      "duration": 35.0,
+      "title": "First Order Star Destroyer - LEGO Star Wars - 75190 - Product Animation"
+    }
+  ]
+}

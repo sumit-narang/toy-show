@@ -1,0 +1,65 @@
+{
+  "id": "2019-david-walliams-books-as-gaeilge",
+  "year": 2019,
+  "name": "David Walliams Books as Gaeilge",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Futa Fata",
+      "url": "http://www.futafata.ie/David-Walliams-as%20Gaeilge"
+    },
+    {
+      "name": "Easons",
+      "url": null
+    },
+    {
+      "name": "Dubray Books",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.futafata.ie/index.php?_route_=David-Walliams-as+Gaeilge"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iunef_wqTtM",
+      "channel": "Newstalk",
+      "duration": 102.0,
+      "title": "'Parents should talk about issues with children' - Irish author on David Walliams controversy"
+    },
+    {
+      "id": "NyshZ-8iu48",
+      "channel": "The Jonathan Ross",
+      "duration": 507.0,
+      "title": "The Jonathan Ross Show - Simon Cowell,  David Walliams, Dara OBriain  Danny DeVito. Part 3"
+    },
+    {
+      "id": "-p_i8CzlGlY",
+      "channel": "Words of Clover",
+      "duration": 1354.0,
+      "title": "Irish Books by Non Irish Authors I Loved and Hated #TheIrishReadathon"
+    },
+    {
+      "id": "kZdzno-Njzk",
+      "channel": "Andy DT",
+      "duration": 81.0,
+      "title": "Dara Ó Briain on Backpackers"
+    },
+    {
+      "id": "AFmJQE-EU3E",
+      "channel": "entdeckeirland",
+      "duration": 114.0,
+      "title": "Marian Keyes - \"Grown Ups\""
+    }
+  ]
+}

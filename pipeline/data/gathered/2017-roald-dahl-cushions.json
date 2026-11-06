@@ -1,0 +1,53 @@
+{
+  "id": "2017-roald-dahl-cushions",
+  "year": 2017,
+  "name": "Roald Dahl Cushions",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Iun8_Nl1bF8",
+      "channel": "Crafty Little Amie",
+      "duration": 327.0,
+      "title": "Handmade Roald Dahl Cushions"
+    },
+    {
+      "id": "2hjK8Qgzhl8",
+      "channel": "ALICIAMETCALF84",
+      "duration": 100.0,
+      "title": "A not so safe safety pin!"
+    },
+    {
+      "id": "faWA-IJELeg",
+      "channel": "Sarah Thomas",
+      "duration": 34.0,
+      "title": "Gigi broke the Whoopy cushion"
+    },
+    {
+      "id": "6ja_qvM32ZE",
+      "channel": "Cheryl",
+      "duration": 381.0,
+      "title": "Last Minute Christmas Gift Ideas and Tips for Age Spots on hands 🙂"
+    },
+    {
+      "id": "qRvtRmjUbz8",
+      "channel": "daisyjoni",
+      "duration": 100.0,
+      "title": "Monkey on the Couch Cushions.wmv"
+    }
+  ]
+}

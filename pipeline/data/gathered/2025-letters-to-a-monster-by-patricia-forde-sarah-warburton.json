@@ -1,0 +1,54 @@
+{
+  "id": "2025-letters-to-a-monster-by-patricia-forde-sarah-warburton",
+  "year": 2025,
+  "name": "Letters to a Monster by Patricia Forde & Sarah Warburton",
+  "price_eur": 10.4,
+  "price_text": "€10.40",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/patricia-forde-letters-to-a-monster-2025-paperback?_pos=1&_sid=8ddefc71c&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/patricia-forde-letters-to-a-monster-2025-paperback?_pos=1&_sid=8ddefc71c&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wRNRetWS2jE",
+      "channel": "Family Story Time Videos",
+      "duration": 401.0,
+      "title": "Letters to a Monster by Patricia Forde & Sarah Warburton | Read Aloud | Storytime"
+    },
+    {
+      "id": "tIn3GXK8Iyk",
+      "channel": "Happily ever after storytime",
+      "duration": 286.0,
+      "title": "Letters to a monster written by Patricia Forde and Sarah Warburton "
+    },
+    {
+      "id": "dMkXUB3O1HY",
+      "channel": "Dani Bassi",
+      "duration": 372.0,
+      "title": "\"Letters to a Monster by Patricia Forde\""
+    },
+    {
+      "id": "642UAzeioxE",
+      "channel": "Yogi Squad",
+      "duration": 275.0,
+      "title": "📚 Kids Book Read Aloud: A Letter to my Best Friend 💌"
+    },
+    {
+      "id": "m3K0o14J1qE",
+      "channel": "Read Aloud Edu",
+      "duration": 356.0,
+      "title": "DEAR MR. BLUEBERRY | IMAGINATIVE & EDUCATIONAL | LETTER-WRITING | TEACHERS’ PICK! | #readaloud #esl"
+    }
+  ]
+}

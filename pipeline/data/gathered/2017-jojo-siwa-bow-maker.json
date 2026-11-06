@@ -1,0 +1,64 @@
+{
+  "id": "2017-jojo-siwa-bow-maker",
+  "year": 2017,
+  "name": "JoJo Siwa Bow Maker",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2L1hQv_QCDc",
+      "channel": "Sambro",
+      "duration": 194.0,
+      "title": "Jojo Siwa Bow Maker  How To Video"
+    },
+    {
+      "id": "EHec4XvQZys",
+      "channel": "JoJo Siwa",
+      "duration": 858.0,
+      "title": "Testing JoJo Siwa’s Bow Maker!!"
+    },
+    {
+      "id": "OMjemJFpOmE",
+      "channel": "JoJo Siwa",
+      "duration": 211.0,
+      "title": "TESTING JOJO SIWA TOYS! (JoJo Bow Maker!!)"
+    },
+    {
+      "id": "-ohsjxQ3LdQ",
+      "channel": "MotherGeek",
+      "duration": 764.0,
+      "title": "Jojo Siwa Bow Maker Tutorial"
+    },
+    {
+      "id": "w96v_dDlQAs",
+      "channel": "JoJo Siwa",
+      "duration": 500.0,
+      "title": "MY COLLECTION OF JOJO BOWS!!! (12,000+)"
+    }
+  ]
+}

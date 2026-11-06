@@ -1,0 +1,54 @@
+{
+  "id": "2020-the-den-kit-co-forest-school-potion-making-kit",
+  "year": 2020,
+  "name": "The Den Kit Co. Forest School Potion Making Kit",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-the-portable-potion-kit/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-the-portable-potion-kit/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VjjymX5gXqM",
+      "channel": "LFC_fan_gamer",
+      "duration": 1360.0,
+      "title": "The den kit co product reviews"
+    },
+    {
+      "id": "DcIcAi5kjyY",
+      "channel": "The Den Kit Co.",
+      "duration": 149.0,
+      "title": "Ignite Their Imagination Film"
+    },
+    {
+      "id": "Og6bPvv11aw",
+      "channel": "Lucky Penny Shop",
+      "duration": 955.0,
+      "title": "Lock Stars - Lock On! New Hasbro Collectibles"
+    },
+    {
+      "id": "gJYwwe-GpDI",
+      "channel": "Trap",
+      "duration": 38.0,
+      "title": "100 hours to realize Expelliarmus does this in Hogwarts Legacy..."
+    },
+    {
+      "id": "NDS2DDNniEI",
+      "channel": "Benjamin Snow",
+      "duration": 723.0,
+      "title": "Wish I Knew THIS Before Choosing My House in Hogwarts Legacy"
+    }
+  ]
+}

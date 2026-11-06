@@ -1,0 +1,54 @@
+{
+  "id": "2019-logitech-g920-driving-force-wheel",
+  "year": 2019,
+  "name": "Logitech G920 Driving Force Wheel",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "Currys/PC World",
+      "url": "https://www.currys.ie/ieen/computing-accessories/computer-accessories/game-controllers-and-joysticks/logitech-driving-force-g920-xbox-one-pc-racing-wheel-pedals-black-10136487-pdt.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.currys.ie/ieen/computing-accessories/computer-accessories/game-controllers-and-joysticks/logitech-driving-force-g920-xbox-one-pc-racing-wheel-pedals-black-10136487-pdt.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Uzx0ciQaxqM",
+      "channel": "MpowR",
+      "duration": 278.0,
+      "title": "Logitech G920/G29 Still Worth it in 2025?"
+    },
+    {
+      "id": "kH-DJyYnY4A",
+      "channel": "Leo Does Tech",
+      "duration": 550.0,
+      "title": "Logitech G920 in 2025 - Still Worth Buying?"
+    },
+    {
+      "id": "4WrxXqHBEMY",
+      "channel": "Digital Trends",
+      "duration": 263.0,
+      "title": "Logitech G920 Driving Force - Review"
+    },
+    {
+      "id": "2fj4Zc-UFJ0",
+      "channel": "Nixon Game World",
+      "duration": 513.0,
+      "title": "Logitech G920 + Shifter Unboxing | Xbox & PC Setup & Gameplay (2025)"
+    },
+    {
+      "id": "kwIEcK_7AQA",
+      "channel": "Geek Street",
+      "duration": 1596.0,
+      "title": "Logitech G920 steering wheel for a XBOX/PC for Beginners Unboxing and Setup"
+    }
+  ]
+}

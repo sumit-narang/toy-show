@@ -1,0 +1,33 @@
+{
+  "id": "2022-playmobile-city-action-airport-with-control-tower",
+  "year": 2022,
+  "name": "Playmobile City Action Airport with Control Tower",
+  "price_eur": null,
+  "price_text": "£33.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Playmobil-5338-Action-Airport-Control/dp/B01EKFF2C6"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Playmobil-5338-Action-Airport-Control/dp/B01EKFF2C6",
+      "title": "Amazon.co.uk",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sOwv6oBMYx8",
+      "channel": "AustrianBrickFan",
+      "duration": 1075.0,
+      "title": "LEGO City 60502 Airport with Airplane - LEGO Speed Build Review"
+    }
+  ]
+}

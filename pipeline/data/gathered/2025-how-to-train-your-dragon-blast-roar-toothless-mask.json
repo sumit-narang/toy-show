@@ -1,0 +1,57 @@
+{
+  "id": "2025-how-to-train-your-dragon-blast-roar-toothless-mask",
+  "year": 2025,
+  "name": "How To Train Your Dragon Blast & Roar Toothless Mask",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kids-costumes-dress-up-and-face-paint/dreamworks-how-to-train-your-dragon-blast-and-roar-toothless-mask/p/245497"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kids-costumes-dress-up-and-face-paint/dreamworks-how-to-train-your-dragon-blast-and-roar-toothless-mask/p/245497",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wfvZZx8iUyU",
+      "channel": "Spin Master",
+      "duration": 153.0,
+      "title": "How to play with your Blast & Soar Toothless mask!"
+    },
+    {
+      "id": "PIyXNL33UgQ",
+      "channel": "Mini fun toys",
+      "duration": 491.0,
+      "title": "How To Train Your Dragon Blast And Road Toothless Mask Toys Unboxing "
+    },
+    {
+      "id": "sM3zbh5PoXE",
+      "channel": "Webswinger88",
+      "duration": 372.0,
+      "title": "How to Train Your Dragon Blast and Roar Toothless Mask Review"
+    },
+    {
+      "id": "1BEQVOk81qU",
+      "channel": "Rise of Scar",
+      "duration": 721.0,
+      "title": "HTTYD: Blast & Roar Toothless Mask (Toy Unboxing!)"
+    },
+    {
+      "id": "yEPuspmMZ1A",
+      "channel": "CaRtOoNs and DiSnEy",
+      "duration": 48.0,
+      "title": "HOW TO TRAIN YOUR DRAGON TOOTHLESS MASK & CLAWS - 50% OFF SALE - SHOPPING AT UNIVERSAL STUDIOS"
+    }
+  ]
+}

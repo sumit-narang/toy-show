@@ -1,0 +1,54 @@
+{
+  "id": "2018-slimon-shooters",
+  "year": 2018,
+  "name": "Slimon Shooters",
+  "price_eur": 5.99,
+  "price_text": "€5.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "http://Amazon.co.uk"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4Kqf_GH6MGA",
+      "channel": "Cimón - Topic",
+      "duration": 182.0,
+      "title": "Shooter"
+    },
+    {
+      "id": "I72buG6nBZU",
+      "channel": "Colion Noir",
+      "duration": 2855.0,
+      "title": "The Problem With Most Shooters"
+    },
+    {
+      "id": "LOeevo7OW7E",
+      "channel": "The Mamas & The Papas",
+      "duration": 179.0,
+      "title": "Straight Shooter"
+    },
+    {
+      "id": "UGqI5i25mYU",
+      "channel": "Tenicor",
+      "duration": 295.0,
+      "title": "99% of Shooters Can’t Pass This Test. Could You?"
+    },
+    {
+      "id": "rLVuER5uPNk",
+      "channel": "The Big Gun TV",
+      "duration": 45.0,
+      "title": "Pro Shooter JJ Racaza's Sizzling Pistol Run"
+    }
+  ]
+}

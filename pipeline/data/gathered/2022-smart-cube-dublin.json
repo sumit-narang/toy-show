@@ -1,0 +1,57 @@
+{
+  "id": "2022-smart-cube-dublin",
+  "year": 2022,
+  "name": "Smart Cube Dublin",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "nimblefingers.ie",
+      "url": "https://nimblefingers.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/",
+      "title": "Dublin, Ireland Toy & Art Store",
+      "description": "Nimble Fingers Toys, Books & Hobbies Since 1962",
+      "image": "https://cdn.shopify.com/s/files/1/1980/5665/files/Nimble_fingers_Live_logo_410x_e5308b8d-acb9-41ac-bec0-29e272e60dc9.png?height=628&pad_color=fff&v=1613161081&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LbWrailMme4",
+      "channel": "SmartCube",
+      "duration": 60.0,
+      "title": "SmartCube Garden Rooms - Showcase"
+    },
+    {
+      "id": "3bL2p1_zXa4",
+      "channel": "Places Modular",
+      "duration": 31.0,
+      "title": "The Fully Mobile Smart Studio CUBE by PLACES Modular"
+    },
+    {
+      "id": "oDbkqyK-2gY",
+      "channel": "TechXP",
+      "duration": 49.0,
+      "title": "LED Display Cube | Experiential Technology | TechXP"
+    },
+    {
+      "id": "uLtD38Nz6Xc",
+      "channel": "Griffith College Dublin",
+      "duration": 70.0,
+      "title": "'Design a Cube' murals bring campus to life"
+    },
+    {
+      "id": "Be3kCmE7NQw",
+      "channel": "METALOCUS",
+      "duration": 60.0,
+      "title": "Cube Berlin opening day by 3NX / METALOCUS"
+    }
+  ]
+}

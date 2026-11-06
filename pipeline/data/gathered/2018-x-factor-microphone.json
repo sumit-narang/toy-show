@@ -1,0 +1,69 @@
+{
+  "id": "2018-x-factor-microphone",
+  "year": 2018,
+  "name": "X Factor Microphone",
+  "price_eur": 28.99,
+  "price_text": "€28.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IdxXN0PVu2U",
+      "channel": "P. Qevani",
+      "duration": 478.0,
+      "title": "The X Factor Microphone Review"
+    },
+    {
+      "id": "mpTvsV5KTA4",
+      "channel": "The X Factor UK",
+      "duration": 268.0,
+      "title": "Jahmene and Nicole sing Whitney Houston's The Greatest Love - The Final - The X Factor UK 2012"
+    },
+    {
+      "id": "YPy0uNpR7M4",
+      "channel": "The X Factor UK",
+      "duration": 352.0,
+      "title": "Mason Noise locks horns with Simon | 6 Chair Challenge | The X Factor UK 2015"
+    },
+    {
+      "id": "JQBMzQlH3sA",
+      "channel": "The X Factor UK",
+      "duration": 168.0,
+      "title": "\"Stop talking rubbish, Simon\" Triple Trouble bring the DRAMA! | Series 5 Auditions | The X Factor UK"
+    },
+    {
+      "id": "-BejpZXU_KU",
+      "channel": "SIBLINGS ' LOVES' TOY'S",
+      "duration": 545.0,
+      "title": "New MI-MIC / X FACTOR KARAOKE MICROPHONE, MAKING MUSIC COOL ,PART TWO."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-balancing-game",
+  "year": 2022,
+  "name": "Super Mario Balancing Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/eh7367?_pos=1&_psq=MARIO%20BALA&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/eh7367?_pos=1&_psq=MARIO%20BALA&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wp2swyFTjY0",
+      "channel": "Caesar Critiques",
+      "duration": 93.0,
+      "title": "Super Mario Balancing Game Review & How To Play"
+    },
+    {
+      "id": "laY5wr3DRng",
+      "channel": "EPOCH GAMES",
+      "duration": 144.0,
+      "title": "Epoch Games | SUPER MARIO  Blow Up ! Shaky Tower"
+    },
+    {
+      "id": "gG4qetQHa_g",
+      "channel": "EPOCH Games France",
+      "duration": 59.0,
+      "title": "Super Mario Balancing Games plus - EPOCH Games"
+    },
+    {
+      "id": "ptzjrcQ4nJk",
+      "channel": "ScottVsBox",
+      "duration": 642.0,
+      "title": "Super Mario Balancing Game Complete Set Unboxing"
+    },
+    {
+      "id": "LYU3vNNBbJM",
+      "channel": "CruznMJD Productions",
+      "duration": 322.0,
+      "title": "Ep 2757 - Super Mario Sky Stage Balancing Game Plus Unboxing"
+    }
+  ]
+}

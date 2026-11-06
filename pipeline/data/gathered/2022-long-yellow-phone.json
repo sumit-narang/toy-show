@@ -1,0 +1,54 @@
+{
+  "id": "2022-long-yellow-phone",
+  "year": 2022,
+  "name": "Long yellow phone",
+  "price_eur": 24.0,
+  "price_text": "€24",
+  "retailers": [
+    {
+      "name": "Talking Tubes",
+      "url": "https://thinkingtoys.ie/products/talking-tubes"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://thinkingtoys.ie/products/talking-tubes"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HYmhFoVGt2I",
+      "channel": "mobiscrub",
+      "duration": 674.0,
+      "title": "Nothing Phone (4a) – 15 Days Later. But the TRUTH!"
+    },
+    {
+      "id": "RNw1Q9_an80",
+      "channel": "Trakin Tech English",
+      "duration": 725.0,
+      "title": "Nothing Phone 4a After 2 Months – Did Nothing Finally Nail It?"
+    },
+    {
+      "id": "Ydz3Bwc27zQ",
+      "channel": "My Bright Light",
+      "duration": 3601.0,
+      "title": "Yellow Warm Light Screen HD - 1 hour"
+    },
+    {
+      "id": "xItKw0p_s-o",
+      "channel": "JerryRigEverything",
+      "duration": 612.0,
+      "title": "Nothing Phone 3 Teardown! - Revealing the Truth..."
+    },
+    {
+      "id": "jMhN5Ad1_QQ",
+      "channel": "esr",
+      "duration": 336.0,
+      "title": "Why Do Clear Phone Cases Turn Yellow? We Put Ours to the Test"
+    }
+  ]
+}

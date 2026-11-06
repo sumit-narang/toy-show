@@ -1,0 +1,45 @@
+{
+  "id": "2024-rail-supercarver-sc1-scooter",
+  "year": 2024,
+  "name": "Rail SuperCarver SC1 Scooter",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/stunt-scooters/rail-supercarver-sc1-scooter/p/235908"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/stunt-scooters/rail-supercarver-sc1-scooter/p/235908",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "16akbO5S42c",
+      "channel": "Rail",
+      "duration": 37.0,
+      "title": "Rail SuperCarver SC1"
+    },
+    {
+      "id": "cwKXBax-g84",
+      "channel": "Kiran",
+      "duration": 518.0,
+      "title": "How I warm up in the park!"
+    },
+    {
+      "id": "aDsgapy1x5k",
+      "channel": "Guwer",
+      "duration": 855.0,
+      "title": "Hardcore Scooter Tests :O WILL A 500 PLN SCOOTER SURVIVE A FALL FROM THE 7TH FLOOR?"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-lockitz-luxury-studio",
+  "year": 2024,
+  "name": "Lockitz Luxury Studio",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/lockitz-luxury-studio/p/239221"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/lockitz-luxury-studio/p/239221",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SzSYdSNRxJY",
+      "channel": "johnadamstoys",
+      "duration": 86.0,
+      "title": "Lockitz Luxury Studio How To"
+    },
+    {
+      "id": "X8z_ABU5HSA",
+      "channel": "venusstarpower94",
+      "duration": 327.0,
+      "title": "Making Some Lil' Lockitz (Part 1/2)"
+    },
+    {
+      "id": "73XFTYWwdlI",
+      "channel": "johnadamstoys",
+      "duration": 7.0,
+      "title": "Lockitz TV Advert - 6s"
+    },
+    {
+      "id": "T7Dm-FGCWUw",
+      "channel": "Emily & Ivie Reviews",
+      "duration": 82.0,
+      "title": "Lockitz luxury studio"
+    },
+    {
+      "id": "oQZGeOg2Ti4",
+      "channel": "Lockitz!",
+      "duration": 41.0,
+      "title": "lockitz!"
+    }
+  ]
+}

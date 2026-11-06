@@ -1,0 +1,60 @@
+{
+  "id": "2023-vision-mercedes-simplex-ride-on",
+  "year": 2023,
+  "name": "Vision Mercedes Simplex Ride On",
+  "price_eur": 335.0,
+  "price_text": "€335",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/vision-mercedes-simplex-ride-on-12v?_pos=1&_psq=Vision+Mercedes+Simplex+Ride+On&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.emktoys.com/products/vision-mercedes-simplex-ride-on-12v?_pos=1&_psq=Vision+Mercedes+Simplex+Ride+On&_ss=e&_v=1.0",
+      "title": "SALE ITEM - 12V Vision Mercedes Simplex Ride",
+      "description": "Introducing the Vision Mercedes Simplex! With its 12v Retro Vision style, your little one can ride around in vintage style. Whether providing luxurious transport or sparking the imagination, this ride will provide your mini-me with endless drivin' fun!",
+      "image": "http://www.emktoys.com/cdn/shop/products/psc.jpg?v=1675857927",
+      "ld_description": "On Showroom floor from NOW. Pre orders dispatched 25th / 26th November \nVehicle Specs\n·         Battery: 12V 7Ah\n·         Motors: 2 × RS550 (- 40W each → total 80W)\n·         Features: 2.4G remote control, music, lights, suspension, rear bucket & shovel (toy function)\nRecommended Age Range:    3 – 6 years old\n·         Remote control makes it safe for younger children (3 yrs., parents can control).\n·         Self-driving is generally suitable from around 3.5–6 years, depending on child size.\nSpeed Estimate:\n·         With dual 40W motors at 12V, expected max speed is around 3–5 km/h (walking pace to brisk walk).\n·         Usually comes with two speed settings:\no    Low: - 3 km/h\no    High: - 5 km/h\nThis makes it a safe ride-on toy for young children, especially with suspension, safety features, and parental remote",
+      "brand": "EMK Toys",
+      "ld_image": "https://www.emktoys.com/cdn/shop/files/yellowdumptruck.jpg?v=1759848147&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GOF0lKnh6Fo",
+      "channel": "RiiRoo",
+      "duration": 106.0,
+      "title": "Mercedes Simplex Concept 12v Battery Electric Ride-on Car For Kids"
+    },
+    {
+      "id": "ubAytIwrDc4",
+      "channel": "NB7",
+      "duration": 119.0,
+      "title": "Mercedes Benz Simplex 2022"
+    },
+    {
+      "id": "DiVQC4ihzH0",
+      "channel": "Automotiveblogz",
+      "duration": 112.0,
+      "title": "Vision Mercedes Simplex Slideshow"
+    },
+    {
+      "id": "OKJ1tj9ZiSM",
+      "channel": "carclassics2",
+      "duration": 51.0,
+      "title": "Vision Mercedes Simplex Concept"
+    },
+    {
+      "id": "SsfzSX9VL7c",
+      "channel": "Jim Waltz",
+      "duration": 140.0,
+      "title": "Vision Mercedes Simplex Concept"
+    }
+  ]
+}

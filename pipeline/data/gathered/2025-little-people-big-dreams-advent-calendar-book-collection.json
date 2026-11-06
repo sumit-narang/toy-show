@@ -1,0 +1,54 @@
+{
+  "id": "2025-little-people-big-dreams-advent-calendar-book-collection",
+  "year": 2025,
+  "name": "Little People, Big Dreams Advent Calendar Book Collection",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/little-people-big-dreams-advent-calendar-book-collection-maria-isabel-sanchez-vegara-9781836008316"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/little-people-big-dreams-advent-calendar-book-collection-maria-isabel-sanchez-vegara-9781836008316"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "seMTjUWgLFY",
+      "channel": "Lowplex Books",
+      "duration": 68.0,
+      "title": "Little People, BIG DREAMS: Advent Calendar Book Collection 2025 Edition - Book Unboxing"
+    },
+    {
+      "id": "ki5ZSj1PRrA",
+      "channel": "Quarto",
+      "duration": 22.0,
+      "title": "Little People BIG DREAMS: Book Advent Calendar"
+    },
+    {
+      "id": "DrLVt-68gzE",
+      "channel": "Quarto",
+      "duration": 24.0,
+      "title": "Little People, BIG DREAMS Advent Calendar 2026"
+    },
+    {
+      "id": "g2vI3zLYQyQ",
+      "channel": "Books2Door",
+      "duration": 42.0,
+      "title": "Little People, Big Dreams: Wonderful Women 5 Books Collection Set 1 at Books2door"
+    },
+    {
+      "id": "31l554aFiRI",
+      "channel": "Lowplex Books",
+      "duration": 71.0,
+      "title": "Little People, Big Dreams Series 1-2 10 Books Collection Set Rosa, Emmeline - Book Unboxing"
+    }
+  ]
+}

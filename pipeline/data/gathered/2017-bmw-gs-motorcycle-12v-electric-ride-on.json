@@ -1,0 +1,64 @@
+{
+  "id": "2017-bmw-gs-motorcycle-12v-electric-ride-on",
+  "year": 2017,
+  "name": "BMW GS Motorcycle 12v Electric Ride On",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dsibPea5caE",
+      "channel": "Rollplay",
+      "duration": 46.0,
+      "title": "Rollplay BMW R1200 GS Kids Motorcycle | Realistic Ride-On with LED Lights & Sounds"
+    },
+    {
+      "id": "lNoLw_V90Fw",
+      "channel": "JouéClub Liban",
+      "duration": 42.0,
+      "title": "Injusa Bmw R 1250 Gs Adventure 24v - JoueClub Lebanon"
+    },
+    {
+      "id": "Dr-X_mdJrWQ",
+      "channel": "Bodnarus Real Estate & Auction - eXp Realty",
+      "duration": 23.0,
+      "title": "BMW R1200 GS Mini Motorbike Pocket Bike powered with training wheels, charger, and wrenches"
+    },
+    {
+      "id": "fXc7UcrTsqM",
+      "channel": "Shamshad Maker",
+      "duration": 226.0,
+      "title": "RC BMW S1000RR Bike Unboxing & Testing | Ride on BMW Bike | Shamshad Maker 🔥🔥"
+    },
+    {
+      "id": "f0jZdRHpUTc",
+      "channel": "Moustakastoys",
+      "duration": 51.0,
+      "title": "RollPlay Ηλεκτροκίνητο Μηχανή BMW R1200 GS 12V (38131)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-dachshund",
+  "year": 2022,
+  "name": "Living Nature Dachshund",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HkJORj-mkdM",
+      "channel": "10 News",
+      "duration": 133.0,
+      "title": "Valerie the Lost Dachshund Found Safe After 500 Days on Kangaroo Island | 10 News First"
+    },
+    {
+      "id": "WIqp7S3zIe0",
+      "channel": "Nerdy Native",
+      "duration": 108.0,
+      "title": "The Secret Life Of Dachshunds"
+    },
+    {
+      "id": "StIWG2ZhCmk",
+      "channel": "Dachshund Station",
+      "duration": 239.0,
+      "title": "STOP Before Getting a Dachshund! (5 Essential Truths)"
+    },
+    {
+      "id": "PUozakmxc30",
+      "channel": "Sweet Dachshunds",
+      "duration": 122.0,
+      "title": "3 Different Types of Dachshund - Which is Right for You?"
+    },
+    {
+      "id": "XBsl5l6Dxqk",
+      "channel": "Sweet Dachshunds",
+      "duration": 104.0,
+      "title": "Dachshund Dogs 101: Everything You Need To Know - Is It the Right Dog for You?"
+    }
+  ]
+}

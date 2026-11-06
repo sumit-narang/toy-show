@@ -1,0 +1,57 @@
+{
+  "id": "2018-customised-hurley",
+  "year": 2018,
+  "name": "Customised Hurley",
+  "price_eur": null,
+  "price_text": "various prices",
+  "retailers": [
+    {
+      "name": "O'Neills",
+      "url": "http://Oneills.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.oneills.com/",
+      "title": "Sports apparel, international sportswear and teamwear | O’Neills",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rscSbzk16Ck",
+      "channel": "Irish Independent",
+      "duration": 145.0,
+      "title": "How a hurley is made"
+    },
+    {
+      "id": "dhdO4mFT8Gk",
+      "channel": "Goose Hurleys",
+      "duration": 347.0,
+      "title": "How to make a Hurley - By Goose Hurleys"
+    },
+    {
+      "id": "5eBxaEIpSqU",
+      "channel": "Brendan O'Rourke",
+      "duration": 152.0,
+      "title": "65 Hurls - Fine Hurley Craftsmanship in Dublin"
+    },
+    {
+      "id": "yBc8kp9_TeI",
+      "channel": "Dragons' Den Ireland",
+      "duration": 298.0,
+      "title": "Young Hurling Enthusiast Crafts Bespoke Hurley Sticks For The Dragons | Dragons' Den IRL"
+    },
+    {
+      "id": "dDFIwgFxOs4",
+      "channel": "ollie clancy",
+      "duration": 100.0,
+      "title": "Correct Lenght of Hurley"
+    }
+  ]
+}

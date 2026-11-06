@@ -1,0 +1,57 @@
+{
+  "id": "2025-jurassic-world-rebirth-remote-control-track-n-chomp-dinosaur-distortus-rex",
+  "year": 2025,
+  "name": "Jurassic World Rebirth Remote Control Track 'n Chomp Dinosaur Distortus Rex",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-rebirth-remote-control-track-n-chomp-dinosaur-distortus-rex/p/246471"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-rebirth-remote-control-track-n-chomp-dinosaur-distortus-rex/p/246471",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q2UeHiBFD-c",
+      "channel": "SquirrelStampede",
+      "duration": 1095.0,
+      "title": "Jurassic World Rebirth Track 'N Chomp Distortus Rex RC Electronic Car Chase! Review"
+    },
+    {
+      "id": "HHnF7DltcM0",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 1249.0,
+      "title": "NEW D REX! Mattel Jurassic World Rebirth Track N Chomp Distortus rex Review!!! "
+    },
+    {
+      "id": "VO2yx7zZS5M",
+      "channel": "Brennan The Paleo Dude",
+      "duration": 646.0,
+      "title": "Jurassic World Rebirth Track 'N Chomp Distortus rex Unboxing and Review"
+    },
+    {
+      "id": "9-eTICxF_OE",
+      "channel": "Dan Surprise",
+      "duration": 2094.0,
+      "title": "NEW Distortus Rex Track N Chomp! Jurassic World Rebirth Distortus Rex Collection!"
+    },
+    {
+      "id": "MsQDDznC05g",
+      "channel": "Amazing Dinosaurs",
+      "duration": 5400.0,
+      "title": "7 Jurassic World Rebirth Dinosaur Toy Unboxed Track N Chomp Distortus Rex Legacy Giganotosaurus 67"
+    }
+  ]
+}

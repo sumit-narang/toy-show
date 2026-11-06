@@ -1,0 +1,57 @@
+{
+  "id": "2018-the-wonky-donkey-by-craig-smith",
+  "year": 2018,
+  "name": "The Wonky Donkey by Craig Smith",
+  "price_eur": 6.74,
+  "price_text": "€6.74",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SDeQT9zCvi4",
+      "channel": "Craig Smith - The Wonky Donkey Man",
+      "duration": 230.0,
+      "title": "WONKY DONKEY SONG UNOFFICIAL MUSIC VIDEO"
+    },
+    {
+      "id": "8U9HeuD7Irg",
+      "channel": "Read Aloud Childrens Books And Fun Stuff",
+      "duration": 202.0,
+      "title": "The Wonky Donkey - Book Read Aloud"
+    },
+    {
+      "id": "gY3bH_Q6CK8",
+      "channel": "Craig Smith - The Wonky Donkey Man",
+      "duration": 245.0,
+      "title": "Craig Smith - Dinky Donkey Audio Visualizer WITH BOOK INTRO"
+    },
+    {
+      "id": "h-uQu7uZlFs",
+      "channel": "Craig Smith - The Wonky Donkey Man",
+      "duration": 186.0,
+      "title": "Wonky Donkey by Craig Smith (on Happy Half Hour Show)"
+    },
+    {
+      "id": "tAEuI1ga0Mw",
+      "channel": "Craig Smith - The Wonky Donkey Man",
+      "duration": 262.0,
+      "title": "The Wonky Donkey (Slow)"
+    }
+  ]
+}

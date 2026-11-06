@@ -1,0 +1,60 @@
+{
+  "id": "2024-lego-wicked-elphaba-glinda-figures",
+  "year": 2024,
+  "name": "LEGO Wicked Elphaba & Glinda Figures",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/lego/wicked-elphaba-glinda-figures-movie-set-75682/2000768223.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/lego-construction/lego/wicked-elphaba-glinda-figures-movie-set-75682/2000768223.html",
+      "title": "LEGO Wicked Elphaba & Glinda Figures Movie Set 75682 - Multi",
+      "description": "Take fans of the Wicked Movie on a magical ride to a spellbinding film moment. The LEGO Wicked Elphaba & Glinda Figures (75682) building toy for 10-plus-year-old girls and boys reimagines the scene where Elphaba finds the courage to defy gravity. This Wicked LEGO set provides hours of open-ended play as fans recreate the scene from the Wicked film or invent stories of their own. The play comes to life as kids move the characters’ arms and heads along to the iconic “Defying Gravity” hit from the film, which they can play by scanning the QR code hidden in the set with their device. Filled with familiar features from the film for kids’ creative storytelling, this role-play toy makes a great Wizard of Oz-themed gift for 10-plus-year-old girls and boys. It comes with a window that looks over the land of Oz, Elphaba’s broom toy, Glinda’s purse and crown, and a base to turn the figures into display pieces. The set is also featured on the LEGO Builder app, where kids can zoom in and rotate their model in 3D, save sets and track progress.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000768223_01.jpg?$product_tile_plp$",
+      "ld_description": "Take fans of the Wicked Movie on a magical ride to a spellbinding film moment. The LEGO Wicked Elphaba & Glinda Figures (75682) building toy for 10-plus-year-old girls and boys reimagines the scene where Elphaba finds the courage to defy gravity. This Wicked LEGO set provides hours of open-ended play as fans recreate the scene from the Wicked film or invent stories of their own. The play comes to life as kids move the characters’ arms and heads along to the iconic “Defying Gravity” hit from the film, which they can play by scanning the QR code hidden in the set with their device. Filled with familiar features from the film for kids’ creative storytelling, this role-play toy makes a great Wizard of Oz-themed gift for 10-plus-year-old girls and boys. It comes with a window that looks over the land of Oz, Elphaba’s broom toy, Glinda’s purse and crown, and a base to turn the figures into display pieces. The set is also featured on the LEGO Builder app, where kids can zoom in and rotate their model in 3D, save sets and track progress.",
+      "brand": "LEGO",
+      "ld_image": "https://images.brownthomas.com/bta/2000768223_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PaDXWO2nb2c",
+      "channel": "ellieV ",
+      "duration": 888.0,
+      "title": "You need Elphaba & Glinda on your desk! LEGO Wicked build & review"
+    },
+    {
+      "id": "WJ-aKEJMuM4",
+      "channel": "AustrianBrickFan",
+      "duration": 628.0,
+      "title": "LEGO Wicked 75682 Elphaba & Glinda Figures - LEGO Speed Build Review"
+    },
+    {
+      "id": "d3JUdsZUwrU",
+      "channel": "Brother Brick",
+      "duration": 377.0,
+      "title": "LEGO Wicked Brickheadz Elphaba & Glinda Figures (40794) - 2025 Set Review"
+    },
+    {
+      "id": "OxkiB4uFjfQ",
+      "channel": "AustrianBrickFan",
+      "duration": 2193.0,
+      "title": "All LEGO Wicked sets 2024 Compilation/Collection Speed Build"
+    },
+    {
+      "id": "TpXTpLwasSw",
+      "channel": "Brother Brick",
+      "duration": 1063.0,
+      "title": "LEGO Wicked Elphaba & Glinda Figures (75682) - 2024 Set Review"
+    }
+  ]
+}

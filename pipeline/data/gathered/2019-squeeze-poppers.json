@@ -1,0 +1,57 @@
+{
+  "id": "2019-squeeze-poppers",
+  "year": 2019,
+  "name": "Squeeze Poppers",
+  "price_eur": 13.0,
+  "price_text": "€13.00",
+  "retailers": [
+    {
+      "name": "Thinking Toys",
+      "url": "https://www.thinkingtoys.ie/index.php?route=product/product&product_id=400"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thinkingtoys.ie/index.php?route=product/product&product_id=400",
+      "title": "Thinking Toys - Special Needs Toys and Sensory Toys Ireland",
+      "description": "Shop Our Range Of Over 3000 Products Online- Irelands Leading Supplier of Toys & Equipment For Children & Adults with Sensory Difficulties & Additional Needs.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jxeVVfV1ydE",
+      "channel": "Squishee Nugget Toys",
+      "duration": 348.0,
+      "title": "Learn Wild Animals with Squeeze Poppers! Kids Learning by Squishee Nugget"
+    },
+    {
+      "id": "51jZkL_1ryQ",
+      "channel": "University Games UK",
+      "duration": 63.0,
+      "title": "Squeeze Poppers - Children's Toy"
+    },
+    {
+      "id": "qK8VSO28qkI",
+      "channel": "Isabel Abrams",
+      "duration": 19.0,
+      "title": "Squeeze Poppers"
+    },
+    {
+      "id": "cRmW2uexc58",
+      "channel": "Cheatwell Games",
+      "duration": 29.0,
+      "title": "Squeeze Poppers"
+    },
+    {
+      "id": "dN8sCjNsqJw",
+      "channel": "SAC DEP SPA",
+      "duration": 661.0,
+      "title": "Relax Every Day #SacDepSpa498"
+    }
+  ]
+}

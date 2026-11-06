@@ -1,0 +1,60 @@
+{
+  "id": "2024-concert-bracelet-kit",
+  "year": 2024,
+  "name": "Concert Bracelet Kit",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Art n Hobby",
+      "url": "https://www.artnhobby.ie/collections/jewellery/products/concert-bracelets-medium-box-sv21862"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.artnhobby.ie/collections/jewellery/products/concert-bracelets-medium-box-sv21862",
+      "title": "Concert Bracelet Making Kit",
+      "description": "Hit all the right notes with these friendship bracelet making kits! Bead set which includes everything you need to make your own beautiful concert bracelets. Perfect for music lovers and concert-goers 6 premium charms and beads 6 different sets available - random box will be delivered.",
+      "image": "http://www.artnhobby.ie/cdn/shop/files/g05735.jpg?crop=center&height=1200&v=1718885382&width=1200",
+      "ld_description": "Hit all the right notes with these friendship bracelet making kits!\nBead set which includes everything you need to make your own beautiful concert bracelets.\n\nPerfect for music lovers and concert-goers\n6 premium charms and beads\n6 different sets available - random box will be delivered.",
+      "brand": "Artnhobby",
+      "ld_image": "https://www.artnhobby.ie/cdn/shop/files/g05735.jpg?v=1718885382&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EewXnvGY9l0",
+      "channel": "Kia Creates",
+      "duration": 914.0,
+      "title": "Making Taylor Swift Eras Tour friendship bracelets ✰ tips, bead hauls, recommendations, chat"
+    },
+    {
+      "id": "kNMtj6FkMG4",
+      "channel": "Kelly Prepster Studio",
+      "duration": 1068.0,
+      "title": "LET'S MAKE TAYLOR SWIFT FRIENDSHIP BRACELETS TOGETHER FOR THE ERA'S TOUR 2023 || KellyPrepsterStudio"
+    },
+    {
+      "id": "eIoyWbQlZeI",
+      "channel": "WTI",
+      "duration": 101.0,
+      "title": "El Galeon Friendship Bracelet Kits | Our Point Of View"
+    },
+    {
+      "id": "G82zNQK-dR8",
+      "channel": "Kelly Prepster Studio",
+      "duration": 736.0,
+      "title": "HOW TO MAKE BEADED ELASTIC BRACELETS & HOW TO TIE THE KNOT ✨preppy aesthetic✨ || KellyPrepsterStudio"
+    },
+    {
+      "id": "c3fL_v_IYjM",
+      "channel": "Review products with Leta ",
+      "duration": 119.0,
+      "title": "iumulinrui Friendship Bracelet Kit Concert Bracelets Merch, 5200 Pcs Clay Beads Bracelet Making #ad"
+    }
+  ]
+}

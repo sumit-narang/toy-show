@@ -1,0 +1,26 @@
+{
+  "id": "2025-suas-sa-sp-ir-height-for-hire-by-tatyana-feeney",
+  "year": 2025,
+  "name": "Suas sa Spéir (Height for Hire) by Tatyana Feeney",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "My Irish Books",
+      "url": "https://myirishbooks.ie/product/suas-sa-speir-height-for-hire/#:~:text=Height%20for%20Hire%20%2F%2F%20Suas%20sa%20Sp%C3%A9ir%20is,stuck%20in%20a%20tree%2C%20traditional%20solutions%20fall%20short."
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://myirishbooks.ie/product/suas-sa-speir-height-for-hire/#:~:text=Height%20for%20Hire%20%2F%2F%20Suas%20sa%20Sp%C3%A9ir%20is,stuck%20in%20a%20tree%2C%20traditional%20solutions%20fall%20short.",
+      "title": "Suas sa Spéir | Height for Hire : a book without words - My Irish Books",
+      "description": "Sa scéal mealltach seo gan fhocail, éiríonn le buachaill teacht ar réiteach neamhghnách... le cabhair ó chara sna harda.  In this enchanting story without words, a boy finds an unusual solution... with the help of a friend from upon high.     “When I open a book by Tatyana, it’s like stepping into a child’s daydream. Anything and everything is possible. There’s no place for adult logic, but every inner child is welcomed.” Brian Fitzgerald",
+      "image": "https://myirishbooks.ie/wp-content/uploads/2025/06/13.-Height-for-Hire.jpg"
+    }
+  ],
+  "video_candidates": []
+}

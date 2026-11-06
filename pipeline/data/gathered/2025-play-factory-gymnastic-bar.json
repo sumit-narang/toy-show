@@ -1,0 +1,57 @@
+{
+  "id": "2025-play-factory-gymnastic-bar",
+  "year": 2025,
+  "name": "Play Factory Gymnastic Bar",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-gymnastic-bar/p/239065"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/play-factory/play-factory-gymnastic-bar/p/239065",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oEYDZPRyFEU",
+      "channel": "Smyths Toys Superstores",
+      "duration": 21.0,
+      "title": "Play Factory Gymnastic Bar - Smyths Toys"
+    },
+    {
+      "id": "K8-A76C-geY",
+      "channel": "Gymnastics Tips",
+      "duration": 246.0,
+      "title": "Gymnastics Lessons for Children - Learn How to Do Bar Skills - Coach Amy Eggleston"
+    },
+    {
+      "id": "XMzrJz0bUiE",
+      "channel": "Smyths Toys Superstores",
+      "duration": 24.0,
+      "title": "Play Factory Gymnastic Bar and Inflatable Mat - Smyths Toys"
+    },
+    {
+      "id": "zZsa45JxlC8",
+      "channel": "Sandy Says",
+      "duration": 122.0,
+      "title": "How To ASSEMBLE Gymnastic Bars for Kids from AMAZON"
+    },
+    {
+      "id": "FO6emcAulpk",
+      "channel": "Smyths Toys France",
+      "duration": 21.0,
+      "title": "The Play Factory Gymnastics Bar is at Smyths Toys"
+    }
+  ]
+}

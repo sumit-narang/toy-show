@@ -1,0 +1,57 @@
+{
+  "id": "2019-what-s-in-the-box-challenge",
+  "year": 2019,
+  "name": "What's in the Box Challenge",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/what-s-in-the-box-challenge/p/176422"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/what-s-in-the-box-challenge/p/176422",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wnZHkU5kRxU",
+      "channel": "HiHo Kids",
+      "duration": 294.0,
+      "title": "Kids Guess What's in the Box! | Episode 1 | HiHo Kids"
+    },
+    {
+      "id": "U_ntL4brcyc",
+      "channel": "Stay Wild",
+      "duration": 481.0,
+      "title": "EXTREME What’s In The Box Challenge!"
+    },
+    {
+      "id": "ultZKRpTPjU",
+      "channel": "merrelltwins",
+      "duration": 725.0,
+      "title": "What’s in The Box Challenge! Halloween Edition - Merrell Twins"
+    },
+    {
+      "id": "K2nlY7n3q78",
+      "channel": "A for Adley - Learning & Fun",
+      "duration": 2109.0,
+      "title": "WHAT'S in the BOX?  with Adley Niko & Navey!!  Mystery Challenge with Niko & Navey.. who will win?"
+    },
+    {
+      "id": "B1qPU8KAh6w",
+      "channel": "merrelltwins",
+      "duration": 703.0,
+      "title": "What's In The Box Challenge! Merrell Twins"
+    }
+  ]
+}

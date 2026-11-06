@@ -1,0 +1,54 @@
+{
+  "id": "2023-funko-bitty-pop-disney-mystery-4-pack",
+  "year": 2023,
+  "name": "Funko Bitty Pop! Disney Mystery 4 Pack",
+  "price_eur": 16.0,
+  "price_text": "€16",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/funko-bitty-pop-tnbc-toys"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/funko-bitty-pop-tnbc-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "63BxevkbBMU",
+      "channel": "OhcluckToys",
+      "duration": 278.0,
+      "title": "Funko Bitty Pop Disney Pixar Toy Story 4 Pack Unboxing Review"
+    },
+    {
+      "id": "hbLBWioIt94",
+      "channel": "FYNE Playground",
+      "duration": 839.0,
+      "title": "Unbox TOY STORY 4 FUNKO BITTY POP Series 1, 2, 3, 4 Complete Set Mystery Bitty Pop"
+    },
+    {
+      "id": "-zZ6uxdUq_I",
+      "channel": "Dave Experience",
+      "duration": 61.0,
+      "title": "Dave and Alex open Funko Bitty Pop Disney Princesses 4 packs and reveal chase figures. "
+    },
+    {
+      "id": "nGpBdSeVroo",
+      "channel": "JHCartoons",
+      "duration": 82.0,
+      "title": "Opening 2 \"TOY STORY\" Bitty Pop! Packs"
+    },
+    {
+      "id": "7CSnakrWKb0",
+      "channel": "Dlromo43",
+      "duration": 369.0,
+      "title": "Bitty Pops Are Taking Over Funko Pops!!!! (Funko News Friday)"
+    }
+  ]
+}

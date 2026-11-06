@@ -1,0 +1,29 @@
+{
+  "id": "2017-slimebaff",
+  "year": 2017,
+  "name": "SlimeBaff",
+  "price_eur": null,
+  "price_text": "£4.99",
+  "retailers": [
+    {
+      "name": "Zimplikids",
+      "url": null
+    },
+    {
+      "name": "Amazon",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": []
+}

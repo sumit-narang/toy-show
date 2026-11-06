@@ -1,0 +1,53 @@
+{
+  "id": "2017-unice-unicorn-large-soft-toy",
+  "year": 2017,
+  "name": "Unice Unicorn Large Soft Toy",
+  "price_eur": 95.0,
+  "price_text": "€95.00",
+  "retailers": [
+    {
+      "name": "Hamleysfor",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "15QvomOC-M4",
+      "channel": "Layla shop",
+      "duration": 38.0,
+      "title": "Embrace Enchantment: Kawaii Giant Unicorn Plush Toys Await!"
+    },
+    {
+      "id": "DmTv3xJYzEs",
+      "channel": "duckduckbaby",
+      "duration": 67.0,
+      "title": "Playshifu ZeeZee Smart Unicorn - Overview"
+    },
+    {
+      "id": "Z2C11sjGGt4",
+      "channel": "Unicorn Jazz by Author Lisa Caprelli",
+      "duration": 40.0,
+      "title": "UNICORN GIFTS: The most unique unicorn in the world, Unicorn Plush Toy by Unicorn Jazz"
+    },
+    {
+      "id": "Mkw-nZltBXU",
+      "channel": "Unicorn Jazz by Author Lisa Caprelli",
+      "duration": 83.0,
+      "title": "Unicorn Jazz Children's Book series and Unicorn Plush Toy Stuffed Animal"
+    },
+    {
+      "id": "guiB8XGDMzY",
+      "channel": "Unicorn Jazz by Author Lisa Caprelli",
+      "duration": 83.0,
+      "title": "The most Unique Unicorn In the World: Unicorn Jazz Book and Plush Gift Set"
+    }
+  ]
+}

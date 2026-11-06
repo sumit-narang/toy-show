@@ -1,0 +1,57 @@
+{
+  "id": "2022-my-christmas-wreath",
+  "year": 2022,
+  "name": "My Christmas Wreath",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Arty Fox",
+      "url": "https://www.theartyfox.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theartyfox.com/",
+      "title": "The Arty Fox | Creative Craft Boxes for Children | Christmas Gifts",
+      "description": "We create craft boxes for children age 3-12. We encourage children to be creative and make art they can be proud of. Creative Craft Boxes. Gifts for boys. Gifts for girls. Craft sets Ireland. Keep your kids busy with our wonderful craft boxes. Art at home. Painting with children. Arts and Crafts for kids",
+      "image": "http://www.theartyfox.com/cdn/shop/files/my_crafty_pal_character_box_kids_arts_and_crafts_boxes.png?v=1666559984"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wewd90alv_c",
+      "channel": "Jennifer Decorates",
+      "duration": 847.0,
+      "title": "Elegant HOBBY LOBBY Christmas Wreath | Christmas Wreath Tutorial"
+    },
+    {
+      "id": "Z63AWJDz4WU",
+      "channel": "Ramon - at HOME",
+      "duration": 7739.0,
+      "title": "How To Make 5 Luxury Christmas Wreaths That Look Expensive / 5 Christmas Wreath Ideas"
+    },
+    {
+      "id": "DH2xaPVwwBk",
+      "channel": "Gleespen Designs",
+      "duration": 7113.0,
+      "title": "14 DIY Stunning Christmas Wreaths & Christmas Tree Home Decor Crafts #diy #homedecor"
+    },
+    {
+      "id": "OOERD6uycxs",
+      "channel": "Knitting my hobby",
+      "duration": 447.0,
+      "title": "~♡Woww~♡🎄 mini christmas wreat I crochet christmas wreath ornaments #crochet"
+    },
+    {
+      "id": "GYKSU-hhaoc",
+      "channel": "Crochet with Meera ",
+      "duration": 380.0,
+      "title": "Easy Crochet Mini Christmas Wreath | Christmas Decoration DIY"
+    }
+  ]
+}

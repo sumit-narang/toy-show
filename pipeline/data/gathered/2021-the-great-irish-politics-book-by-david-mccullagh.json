@@ -1,0 +1,54 @@
+{
+  "id": "2021-the-great-irish-politics-book-by-david-mccullagh",
+  "year": 2021,
+  "name": "The Great Irish Politics Book by David McCullagh",
+  "price_eur": 23.0,
+  "price_text": "€23.00",
+  "retailers": [
+    {
+      "name": "Khans Books",
+      "url": "https://www.khansbooks.ie/The-Great-Irish-Politics-Book_9780717190287"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.khansbooks.ie/page-not-found"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AbjsW2ysST4",
+      "channel": "The Little Museum Of Dublin",
+      "duration": 2283.0,
+      "title": "David McCullagh - Young Dev"
+    },
+    {
+      "id": "O1PGjYSvoYw",
+      "channel": "The Little Museum Of Dublin",
+      "duration": 38.0,
+      "title": "Extract from David McCullagh  - Young Dev"
+    },
+    {
+      "id": "uPwOBcGr6Qs",
+      "channel": "Irish BookAwards",
+      "duration": 90.0,
+      "title": "David McCullagh"
+    },
+    {
+      "id": "riDjsnsOx9w",
+      "channel": "Century Ireland",
+      "duration": 169.0,
+      "title": "Ireland & the Empire in 1913"
+    },
+    {
+      "id": "l1dT766vpFY",
+      "channel": "Eoghan Corry",
+      "duration": 735.0,
+      "title": "Anne Cadwallader speaking about her debut novel Crossing Over"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2019-disney-store-rex-talking-action-figure",
+  "year": 2019,
+  "name": "Disney Store Rex Talking Action Figure",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DRfv1LCWy8k",
+      "channel": "TodayIGrewUP",
+      "duration": 536.0,
+      "title": "Toy Story 4 Disney Store Talking Rex Review"
+    },
+    {
+      "id": "EJnQ08MXZgc",
+      "channel": "collectorsunite",
+      "duration": 413.0,
+      "title": "Toy Story Rex true talkers Disney Store"
+    },
+    {
+      "id": "HWSxodeTwCs",
+      "channel": "Jerome Brown",
+      "duration": 65.0,
+      "title": "All phrases of Disney Store Toy Story Talking Rex Action Figure"
+    },
+    {
+      "id": "42RIzH6fscU",
+      "channel": "Dehlers Deals",
+      "duration": 16.0,
+      "title": "Disney Store Official Rex Interactive Talking Action Figure 12\" Tall"
+    },
+    {
+      "id": "donqijXjiso",
+      "channel": "TodayIGrewUP",
+      "duration": 917.0,
+      "title": "The Best Rex Toy Battle"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2020-my-very-own-moon",
+  "year": 2020,
+  "name": "My Very Own Moon",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "McGreevy's Toys Direct",
+      "url": "https://toysdirect.ie/products/my-very-own-moon?_pos=1&_sid=e868d13bc&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/my-very-own-moon?_pos=1&_sid=e868d13bc&_ss=r",
+      "title": "My Very Own Moon",
+      "description": "TorchBring the moon into your own room with this stunning room accessory or reassuring night light A unique, interactive model of the moon with 12 illuminated lunar phases The moon phases can be automatic or manual via the infared remote control With auto shut-off mechanism to preserve battery life  Bring the moon into",
+      "image": "http://toysdirect.ie/cdn/shop/products/My-Very-Own-Moon.jpg?crop=center&height=1200&v=1787581661&width=1200",
+      "ld_description": "TorchBring the moon into your own room with this stunning room accessory or reassuring night light\nA unique, interactive model of the moon with 12 illuminated lunar phases\nThe moon phases can be automatic or manual via the infared remote control\nWith auto shut-off mechanism to preserve battery life \nBring the moon into your own room with My Very Own Moon from Brainstorm Toys. This authentically detailed model of the moon is designed to hang easily on your wall like a picture and the realistic moonscape shines moonlight just like the actual moon. Use the remote control to automatically scroll through twelve illuminated lunar phases or use the manual function which allows you to set your own moon to look just like the moon outside from a new moon all the way to a full moon. The moon also includes an auto shut-off mechanism after 30 minutes to preserve battery life, making this item perfect for bedtime.\nIt is really easy to set up and no mains electrics are required, it is powered by just 4 x AA batteries in the moon and 2 x AAA batteries in the remote. You can also read fascinating information about the moon online by using the secret code supplied in the pack. This detailed moon makes a stunning room accessory or a reassuring night light.\nRecommended for ages 6+",
+      "brand": "Brainstorm",
+      "ld_image": "https://toysdirect.ie/cdn/shop/products/My-Very-Own-Moon.jpg?v=1787581661&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6Ebt9hYB-4k",
+      "channel": "BrainstormLtd",
+      "duration": 169.0,
+      "title": "My Very Own Moon"
+    },
+    {
+      "id": "g54MX2lzi4E",
+      "channel": "Daves Mancave IRL",
+      "duration": 837.0,
+      "title": "My very own Moon by Brainstorm "
+    },
+    {
+      "id": "YVwWyhnxGQo",
+      "channel": "Galaxy Music",
+      "duration": 239.0,
+      "title": "My Very Own - Susan LaBarr - scrolling score"
+    },
+    {
+      "id": "znpn-oaCfuc",
+      "channel": "Smyths Toys Superstores",
+      "duration": 26.0,
+      "title": "My Very Own Moon - Smyths Toys"
+    },
+    {
+      "id": "OVgYAerfwas",
+      "channel": "TwoBeeps UK",
+      "duration": 169.0,
+      "title": "My Very Own Moon"
+    }
+  ]
+}

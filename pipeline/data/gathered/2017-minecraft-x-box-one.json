@@ -1,0 +1,64 @@
+{
+  "id": "2017-minecraft-x-box-one",
+  "year": 2017,
+  "name": "Minecraft X Box One",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SgJUl3hm71Q",
+      "channel": "Danvacraft",
+      "duration": 11437.0,
+      "title": "Minecraft Xbox ONE Edition -  FULL GAME Walkthrough - No Commentary"
+    },
+    {
+      "id": "fL7TKXu1HFs",
+      "channel": "NeonSwordX",
+      "duration": 11449.0,
+      "title": "Minecraft Hardcore Xbox One Edition | FULL GAME Playthrough | No Commentary"
+    },
+    {
+      "id": "T_tVZ-jx65o",
+      "channel": "StuartisUnoriginal",
+      "duration": 1307.0,
+      "title": "Minecraft Xbox One Edition Hasn't Been This Active in YEARS"
+    },
+    {
+      "id": "rdagFZ6Cuo0",
+      "channel": "Jeroo",
+      "duration": 2279.0,
+      "title": "Playing Minecraft Xbox 360 Edition in 2026"
+    },
+    {
+      "id": "K5ynPQ6tiQ0",
+      "channel": "Wackofeather",
+      "duration": 874.0,
+      "title": "The BEST Minecraft You CAN'T Play"
+    }
+  ]
+}

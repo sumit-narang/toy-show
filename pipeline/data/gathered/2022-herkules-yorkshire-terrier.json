@@ -1,0 +1,54 @@
+{
+  "id": "2022-herkules-yorkshire-terrier",
+  "year": 2022,
+  "name": "Herkules Yorkshire Terrier",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PDf6kxNKves",
+      "channel": "Herkules",
+      "duration": 31.0,
+      "title": "Így játszik Herkules..."
+    },
+    {
+      "id": "jj9eObxT2aM",
+      "channel": "Ninerl74",
+      "duration": 767.0,
+      "title": "Herkules + 30.03.2016"
+    },
+    {
+      "id": "uKF7OAM_Ncs",
+      "channel": "Herkules",
+      "duration": 128.0,
+      "title": "Yorkie és a Scifi-portál"
+    },
+    {
+      "id": "ToopUzvnTfo",
+      "channel": "Animal Facts (Fun Animal Videos) ",
+      "duration": 428.0,
+      "title": "Yorkshire Terrier vs Silky Terrier Which Is Best? Dog vs. Dog"
+    },
+    {
+      "id": "pu0QV8tM3Fs",
+      "channel": "Robomelodie",
+      "duration": 155.0,
+      "title": "Robomelodie - Jorkšírek | Psí album 2 | O psím plemeni Jorkšírský teriér"
+    }
+  ]
+}

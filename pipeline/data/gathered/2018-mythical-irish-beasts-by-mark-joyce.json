@@ -1,0 +1,57 @@
+{
+  "id": "2018-mythical-irish-beasts-by-mark-joyce",
+  "year": 2018,
+  "name": "Mythical Irish Beasts by Mark Joyce",
+  "price_eur": 23.0,
+  "price_text": "€23.00",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "http://www.dubraybooks.ie"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/",
+      "title": "Dubray Books - Ireland's Specialist Bookshop",
+      "description": "Shop books online with Dubray, Ireland’s specialist bookshop. Discover bestsellers, new releases, staff picks and gifts with fast Irish delivery.",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "v6uX4W0Gkb4",
+      "channel": "Sister Rose",
+      "duration": 3334.0,
+      "title": "Reading Mythical Irish Beasts by Mark Joyce! Pt. 1"
+    },
+    {
+      "id": "7VsiLLtwCbM",
+      "channel": "Columba Currach",
+      "duration": 12.0,
+      "title": "Mythical Irish Beasts Flip Through"
+    },
+    {
+      "id": "uoKuDA7Qbho",
+      "channel": "Sister Rose",
+      "duration": 3913.0,
+      "title": "Reading Mark Joyce's Mythical Irish Beats - Part 3: Finale!"
+    },
+    {
+      "id": "bTpLqAxYapM",
+      "channel": "Sister Rose",
+      "duration": 5300.0,
+      "title": "Reading Mark Joyce's Mythical Irish Beasts! Part 2! (VOD)"
+    },
+    {
+      "id": "6LsGVnGsQgs",
+      "channel": "Ian Kiely",
+      "duration": 3402.0,
+      "title": "Hunting The Creature Of Cratloe - 2020 Documentary"
+    }
+  ]
+}

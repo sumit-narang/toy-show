@@ -1,0 +1,53 @@
+{
+  "id": "2018-oh-the-places-you-ll-go-by-dr-seuss",
+  "year": 2018,
+  "name": "Oh, the Places You'll Go! by Dr Seuss",
+  "price_eur": 20.99,
+  "price_text": "€20.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FJtH6K3aqJE",
+      "channel": "Dr. Seuss",
+      "duration": 425.0,
+      "title": "Full Episode: Oh, the Places You'll Go! | Official Animated Read-Along | Dr. Seuss"
+    },
+    {
+      "id": "abw43kcLrbg",
+      "channel": "Helder Bertoldo",
+      "duration": 354.0,
+      "title": "Oh, the Places You’ll Go! by Dr. Seuss | Subtitled"
+    },
+    {
+      "id": "wa-0yJXFeKk",
+      "channel": "Voices By Paul: Story Time",
+      "duration": 401.0,
+      "title": "Oh, The Places You'll Go! by Dr. Suess | Read Aloud Children's Book"
+    },
+    {
+      "id": "owjYSGCoSjw",
+      "channel": "Ms. Sarah's Storytime",
+      "duration": 386.0,
+      "title": "Oh, Baby, the Places You'll Go! | Dr. Seuss | Read aloud | Children Book | Bedtime story | Storytime"
+    },
+    {
+      "id": "kByx4MaffeA",
+      "channel": "Book in Bed",
+      "duration": 560.0,
+      "title": "Oh, The Places you’ll Go by Dr. Seuss Audiobook Read Along @ Book in Bed"
+    }
+  ]
+}

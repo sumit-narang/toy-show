@@ -1,0 +1,54 @@
+{
+  "id": "2023-disney-encanto-suitcase",
+  "year": 2023,
+  "name": "Disney Encanto Suitcase",
+  "price_eur": 45.0,
+  "price_text": "€45.00",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/encanto-rolling-luggage-427244241172.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/encanto-rolling-luggage-427244241172.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4ITPzCKt-o4",
+      "channel": "Fun Caboodle",
+      "duration": 408.0,
+      "title": "Disney Encanto Mirabel and Isabela Dolls Pack Suitcase for Vacation"
+    },
+    {
+      "id": "qRFjCxyTQrM",
+      "channel": "Fun Caboodle",
+      "duration": 259.0,
+      "title": "Real Littles Roller Case and Journal Surprises with Disney Encanto Luisa! Decorate Suitcase  Journal"
+    },
+    {
+      "id": "dl7WJT3QKhQ",
+      "channel": "Fun Caboodle",
+      "duration": 320.0,
+      "title": "Disney Encanto Mirabel Doll Packs Suitcase for Vacation + Mini Fashion Purse"
+    },
+    {
+      "id": "lOWZiJTCmbU",
+      "channel": "Fun Caboodle",
+      "duration": 334.0,
+      "title": "Disney Encanto Mirabel, Luisa, Isabela Dolls Packing Backpack and Suitcase for Camping Trip"
+    },
+    {
+      "id": "AkZkG7G4j6Q",
+      "channel": "Songs From A Suitcase",
+      "duration": 4794.0,
+      "title": "Encanto (2021) React Compilation"
+    }
+  ]
+}

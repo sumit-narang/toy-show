@@ -1,0 +1,54 @@
+{
+  "id": "2018-my-gratitude-journal",
+  "year": 2018,
+  "name": "My Gratitude Journal",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Positive Vibes",
+      "url": "https://www.positivevibes.ie/gratitude-journal-for-kids"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P0gUfOjENXE",
+      "channel": "Zach Mayfield",
+      "duration": 586.0,
+      "title": "I tried a gratitude journal for one year"
+    },
+    {
+      "id": "WI-picmRquE",
+      "channel": "WheezyWaiter",
+      "duration": 998.0,
+      "title": "I Tried Gratitude Journaling for 30 Days, Here's What Happened"
+    },
+    {
+      "id": "PPuzYRDc4Is",
+      "channel": "Claudia Spaurel",
+      "duration": 923.0,
+      "title": "Easy gratitude bullet journal spreads you can start today"
+    },
+    {
+      "id": "u2lxWJnf0fk",
+      "channel": "Simplify Create Inspire",
+      "duration": 459.0,
+      "title": "The Happy Self Journal For Kids | Gratitude Journal For Kids"
+    },
+    {
+      "id": "LX1kn3Lg1PQ",
+      "channel": "Sixty and Me",
+      "duration": 597.0,
+      "title": "Keeping a Gratitude Journal Changed My Life… and it Can Make You Happier Too!"
+    }
+  ]
+}

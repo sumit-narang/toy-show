@@ -1,0 +1,57 @@
+{
+  "id": "2022-spider-man-savings-bank",
+  "year": 2022,
+  "name": "Spider-Man Savings Bank",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OZQgtnh58Jo",
+      "channel": "FilmIsNow Epic Scenes",
+      "duration": 509.0,
+      "title": "Peter Rescues His Classmates In Washington | SPIDER-MAN: HOMECOMING"
+    },
+    {
+      "id": "mk2eTYjmtWw",
+      "channel": "LongBeachGriffy",
+      "duration": 169.0,
+      "title": "If Spider-Man quit saving people for free"
+    },
+    {
+      "id": "2OPOGUUkauc",
+      "channel": "Scene City",
+      "duration": 540.0,
+      "title": "Spider-Man 2: Doc Ock Train Fight Scene (ALFRED MOLINA, TOBEY MAGUIRE 4K HD CLIP) | With Captions"
+    },
+    {
+      "id": "FngbevVuUzk",
+      "channel": "Waffloos",
+      "duration": 1635.0,
+      "title": "$1 to $1,000,000 Spiderman in GTA 5"
+    },
+    {
+      "id": "sPffT-fDIgE",
+      "channel": "TopMovieClips",
+      "duration": 185.0,
+      "title": "Spider-Man vs Avengers - ATM Robbery Scene - Spider-Man: Homecoming (2017) Movie CLIP HD"
+    }
+  ]
+}

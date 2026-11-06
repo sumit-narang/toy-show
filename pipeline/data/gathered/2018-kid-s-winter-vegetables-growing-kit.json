@@ -1,0 +1,57 @@
+{
+  "id": "2018-kid-s-winter-vegetables-growing-kit",
+  "year": 2018,
+  "name": "Kid's Winter Vegetables Growing Kit",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WBGmuJa4_Y0",
+      "channel": "TheGardenShopIreland",
+      "duration": 117.0,
+      "title": "Kid's Growing Kit (Winter Vegetables)"
+    },
+    {
+      "id": "gwRh0NtrVDc",
+      "channel": "Garden Republic",
+      "duration": 85.0,
+      "title": "Indoor Exotic Veggie Grow Kit Instructional Video"
+    },
+    {
+      "id": "Ka_sJnKs9-4",
+      "channel": "Matt DeStefano",
+      "duration": 161.0,
+      "title": "Review of Children's Vegetable Kit To View plants Growing roots"
+    },
+    {
+      "id": "hSozM3mvl5Y",
+      "channel": "Garden Republic",
+      "duration": 31.0,
+      "title": "Unboxing The Garden Republic Exotic Veggie Kit!"
+    },
+    {
+      "id": "wknQKsUZL6Y",
+      "channel": "TheGardenShopIreland",
+      "duration": 113.0,
+      "title": "Kids Summer Lettuce Growing Kit"
+    }
+  ]
+}

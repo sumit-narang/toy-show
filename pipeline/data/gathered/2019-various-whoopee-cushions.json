@@ -1,0 +1,65 @@
+{
+  "id": "2019-various-whoopee-cushions",
+  "year": 2019,
+  "name": "Various Whoopee Cushions",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Party City",
+      "url": "https://www.partycity.ie/KeywordSearch.aspx?KWSearchText=Whoopi+Cushions"
+    },
+    {
+      "name": "Fun Place",
+      "url": "https://www.funplace.ie/index.php?route=product/search&search=whoopi%20cushion"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    },
+    {
+      "status": 200,
+      "final_url": "https://funplace.ie/index.php?route=product/search&search=whoopi%20cushion",
+      "title": "Halloween Costumes Dublin Ireland and Nationwide Delivery",
+      "description": "All our products are stocked and shipped from our Irish warehouse. We stock a range of halloween costumes including Peppa Pig, The Traitors, Spiderman and Roblox.",
+      "image": "https://cdn.shopify.com/s/files/1/0562/4286/4279/files/fun_place_logo.jpg?height=628&pad_color=fff&v=1622545527&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nuPqRocAw18",
+      "channel": "TNW Australia",
+      "duration": 11.0,
+      "title": "SY146 - Whoopee Cushion"
+    },
+    {
+      "id": "5NFMCXw5h8s",
+      "channel": "Unboxingexperience7",
+      "duration": 43.0,
+      "title": "Whoopee cushion"
+    },
+    {
+      "id": "PY8SnAhX34A",
+      "channel": "Grand Illusions",
+      "duration": 61.0,
+      "title": "Electronic Whoopee Cushion"
+    },
+    {
+      "id": "L-sM5oUFFck",
+      "channel": "Ryan's World",
+      "duration": 432.0,
+      "title": "GIANT WHOOPEE CUSHION Toys for kids with Ryan"
+    },
+    {
+      "id": "3QWXB0158lg",
+      "channel": "HobbyFamilyTV",
+      "duration": 518.0,
+      "title": "Giant SQUEAKY Cushion Surprise Egg! Novelty Toy Review with HobbyKids"
+    }
+  ]
+}

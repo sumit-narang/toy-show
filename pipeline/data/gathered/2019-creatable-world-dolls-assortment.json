@@ -1,0 +1,57 @@
+{
+  "id": "2019-creatable-world-dolls-assortment",
+  "year": 2019,
+  "name": "Creatable World Dolls Assortment",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/creatable-world/c/SM06010445"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/creatable-world/c/SM06010445",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S0VIJjGmWq0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 824.0,
+      "title": "Unboxing | Create Your Own Unique Doll with Creatable World from Mattel"
+    },
+    {
+      "id": "RsnsDYfvZ_A",
+      "channel": "Aunt Mikie's Place",
+      "duration": 1964.0,
+      "title": "Three Creatable World dolls unboxing!"
+    },
+    {
+      "id": "_hCBOQEfrYc",
+      "channel": "Jacci Rocker",
+      "duration": 604.0,
+      "title": "Quick Review of Creatable World dolls"
+    },
+    {
+      "id": "-jczthnNnJI",
+      "channel": "onesixthrift",
+      "duration": 3046.0,
+      "title": "Dollogmas Day 14: New Favorite Mattel Mashup Action Doll Wild Hearts Crew Barbie Extra Color Reveal"
+    },
+    {
+      "id": "oIcW3RbrW0E",
+      "channel": "toohunky toys",
+      "duration": 612.0,
+      "title": "CAVE CLUB EMBERLY WILD ABOUT BBQ MATTEL PLAYSET DOLL UNBOXING REVIEW & SLATE IN CREATABLE WORLD"
+    }
+  ]
+}

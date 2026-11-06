@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-soil-rake",
+  "year": 2018,
+  "name": "Kids Soil Rake",
+  "price_eur": 2.99,
+  "price_text": "€2.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MKvS5aprbQA",
+      "channel": "TheGardenShopIreland",
+      "duration": 74.0,
+      "title": "Kids Soil Rake"
+    },
+    {
+      "id": "CL2X_JEyqrM",
+      "channel": "TheGardenShopIreland",
+      "duration": 97.0,
+      "title": "Kids Garden Hand Rake"
+    },
+    {
+      "id": "ss6WbPi40WU",
+      "channel": "Brandi Hollis - Product Reviews",
+      "duration": 72.0,
+      "title": "15” Gardener’s Claw Rake— by TOYPOPOR"
+    },
+    {
+      "id": "aI4PxvCzzck",
+      "channel": "Robud",
+      "duration": 40.0,
+      "title": "ROBUD Kids Gardening Set with Wooden Trolley WH012"
+    },
+    {
+      "id": "8B0kkAe0Zj8",
+      "channel": "Hearthsong",
+      "duration": 42.0,
+      "title": "Grow With Me Gardening Tools Sized Just Right For Kids"
+    }
+  ]
+}

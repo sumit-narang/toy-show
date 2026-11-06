@@ -1,0 +1,57 @@
+{
+  "id": "2022-thor-love-thunder-hammer-marvel",
+  "year": 2022,
+  "name": "Thor Love Thunder Hammer Marvel",
+  "price_eur": 36.99,
+  "price_text": "€36.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-thor-love-and-thunder-mighty-fx-mjolnir-electronic-hammer/p/204724"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-thor-love-and-thunder-mighty-fx-mjolnir-electronic-hammer/p/204724",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2aphoPK_IpI",
+      "channel": "Explore Wh!te",
+      "duration": 313.0,
+      "title": "Mighty Thor (Jane Foster) - All Scenes Powers | Thor: Love and Thunder"
+    },
+    {
+      "id": "bcabCMDJgo4",
+      "channel": "Heavy wave ",
+      "duration": 27.0,
+      "title": "Stormbreaker got jealous of Mjolnir ⚡ | THOR : Love And Thunder"
+    },
+    {
+      "id": "erpH3I7Ce2A",
+      "channel": "Quotes",
+      "duration": 68.0,
+      "title": "Thor Lifts Mjolnir - Thor: Love and Thunder (2022) Movie Clip"
+    },
+    {
+      "id": "o3bhQwY0KCY",
+      "channel": "TopMovieClips",
+      "duration": 135.0,
+      "title": "Avengers: Age of Ultron - Lifting Thor's Hammer - Movie CLIP HD"
+    },
+    {
+      "id": "-k1RUykvzfA",
+      "channel": "Marvel Universe Entertainment",
+      "duration": 110.0,
+      "title": "\"Hela Destroys Mjolnir\" - Thor: Ragnarok (2017) | Movie Clip HD"
+    }
+  ]
+}

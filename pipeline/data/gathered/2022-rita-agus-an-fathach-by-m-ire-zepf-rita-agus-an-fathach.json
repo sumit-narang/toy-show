@@ -1,0 +1,65 @@
+{
+  "id": "2022-rita-agus-an-fathach-by-m-ire-zepf-rita-agus-an-fathach",
+  "year": 2022,
+  "name": "Rita agus an Fathach by Máire Zepf Rita agus an Fathach",
+  "price_eur": 16.0,
+  "price_text": "€16",
+  "retailers": [
+    {
+      "name": "cic.ie",
+      "url": "https://cic.ie/shop/leabhair/rita-agus-an-fathach/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://cic.ie/shop/leabhair/paisti-daoine-oga/4-7-bliana-daois/rita-agus-an-fathach/",
+      "title": "Rita agus an Fathach | Cló Iar-Chonnacht",
+      "description": null,
+      "image": "https://cic.ie/wp-content/uploads/2022/06/Rita-an-Fathach.jpg",
+      "ld_description": "",
+      "brand": null,
+      "ld_image": {
+        "@type": "ImageObject",
+        "url": "https://cic.ie/wp-content/uploads/2022/06/Rita-an-Fathach.jpg",
+        "height": "600",
+        "width": "600"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OkjHASpJbCg",
+      "channel": "Children's Books Ireland",
+      "duration": 3399.0,
+      "title": "World Book Day - Session 1 - Rita agus an Dragún - Le húdar Máire Zepf agus maisitheoir Mr. Ando"
+    },
+    {
+      "id": "xmKN3sCYZ04",
+      "channel": "Laureate na nÓg",
+      "duration": 39.0,
+      "title": "Give Leabhar Gaeilge - Rita agus an Fathach"
+    },
+    {
+      "id": "Gn93M9dIWr8",
+      "channel": "Graffeg",
+      "duration": 84.0,
+      "title": "Rita Wants a Dragon read by Máire Zepf"
+    },
+    {
+      "id": "j3yuiTYxbJU",
+      "channel": "An tSnáthaid Mhór",
+      "duration": 232.0,
+      "title": "RITA (Gaeilge)"
+    },
+    {
+      "id": "EB--0gI2xd8",
+      "channel": "Galway Public Libraries",
+      "duration": 243.0,
+      "title": "SnaG22 - Scéal sa leabharlann - Leabharlanna Poiblí na Gaillimhe"
+    }
+  ]
+}

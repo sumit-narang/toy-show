@@ -1,0 +1,54 @@
+{
+  "id": "2021-my-little-world-ireland",
+  "year": 2021,
+  "name": "My Little World Ireland",
+  "price_eur": 5.99,
+  "price_text": "€5.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/my-little-world-ireland-dublin-castle"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/my-little-world-ireland-dublin-castle"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6eMLP6yr-Js",
+      "channel": "Irish Country Soul",
+      "duration": 255.0,
+      "title": "My little world"
+    },
+    {
+      "id": "dETi7TIQCxc",
+      "channel": "ICS - Topic",
+      "duration": 255.0,
+      "title": "My Little World"
+    },
+    {
+      "id": "4cqDhbpmqHQ",
+      "channel": "Eurovision del Siglo XX HD",
+      "duration": 166.0,
+      "title": "ESC 1976—AUSTRIA. MY LITTLE WORLD (HD)"
+    },
+    {
+      "id": "Fygu-9NmApo",
+      "channel": "Ron Ireland",
+      "duration": 175.0,
+      "title": "My Little World"
+    },
+    {
+      "id": "o5aNxQoWPT0",
+      "channel": "Onur Safak",
+      "duration": 209.0,
+      "title": "UMK17 // CLUB LA PERSÉ: “My Little World”"
+    }
+  ]
+}

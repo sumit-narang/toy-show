@@ -1,0 +1,60 @@
+{
+  "id": "2019-fisher-price-music-box-teaching-clock",
+  "year": 2019,
+  "name": "Fisher Price Music Box Teaching Clock",
+  "price_eur": 24.0,
+  "price_text": "€24.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/mattel/fisher-price/music-box-teaching-clock/144048185.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/electronics/mattel/music-box-teaching-clock/144048185.html",
+      "title": "MATTEL Music Box Teaching Clock - Multi",
+      "description": "Introduced in 1968, the Fisher-Price Music Box Teaching Clock has made learning to tell time fun for generations of children. Designed as a little red schoolhouse, this educational toy will help your little ones to learn about time whilst having fun.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000800678_01.jpg?$product_tile_plp$",
+      "ld_description": "Introduced in 1968, the Fisher-Price Music Box Teaching Clock has made learning to tell time fun for generations of children. Designed as a little red schoolhouse, this educational toy will help your little ones to learn about time whilst having fun.",
+      "brand": "MATTEL",
+      "ld_image": "https://images.brownthomas.com/bta/2000800678_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H2cYsBNL3SM",
+      "channel": "Bergen Pickers",
+      "duration": 272.0,
+      "title": "Vintage 1962 1968 Fisher Price Music Box Teaching Clock Toy #998"
+    },
+    {
+      "id": "YqIh70iR1iE",
+      "channel": "Lucky Penny Shop",
+      "duration": 295.0,
+      "title": "Fisher Price Music Box Teaching Wind Up Clock, 2005 Mattel Toys"
+    },
+    {
+      "id": "fX1QzO6CLPE",
+      "channel": "EveryHours Resale Shop",
+      "duration": 71.0,
+      "title": "Vintage 1968 Fisher Price Music Box Teaching Clock Wind Up Kids Toy Play Grandfather's Clock Tune"
+    },
+    {
+      "id": "IMJhbbIx1n0",
+      "channel": "niihau2000",
+      "duration": 61.0,
+      "title": "Fisher-Price teaching clock"
+    },
+    {
+      "id": "W-o_ulFPjG8",
+      "channel": "eye flow",
+      "duration": 56.0,
+      "title": "Fisher Price Teaching Clock Music Box 1968"
+    }
+  ]
+}

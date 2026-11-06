@@ -1,0 +1,57 @@
+{
+  "id": "2022-model-cows",
+  "year": 2022,
+  "name": "Model Cows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Field",
+      "url": "https://www.thefield.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ndoirQWVIA4",
+      "channel": "RaceToyTime",
+      "duration": 884.0,
+      "title": "Horses Cows Bulls Farm Animal Figurines Collection"
+    },
+    {
+      "id": "haelRxp2E1A",
+      "channel": "Tinka Videos",
+      "duration": 224.0,
+      "title": "How I made this Tinka Dairy Farm Miniature Diorama DIY | Miniature Cows | Cow Lovers Farm"
+    },
+    {
+      "id": "hl8HdFf4Frg",
+      "channel": "Creative Farm World",
+      "duration": 1339.0,
+      "title": "Build a Miniature Dairy Cow Farm | Barn for Cows | Cattle Farm | DIY Farm Diorama"
+    },
+    {
+      "id": "lmcBI0YmPks",
+      "channel": "Tinka Videos",
+      "duration": 272.0,
+      "title": "How to Make Cows, Goats, Sheep, Camels, Horses and Donkey showcase | Cattle Market Miniature Model"
+    },
+    {
+      "id": "SJ8bu9JOrXc",
+      "channel": "Gaby Animals",
+      "duration": 309.0,
+      "title": "DIY how to make mini Cows, Horse Farm Diorama - Cattle Farm - Barn Animal - Farm House"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-little-tikes-first-washer-dryer",
+  "year": 2020,
+  "name": "Little Tikes First Washer Dryer",
+  "price_eur": 62.99,
+  "price_text": "€62.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/little-tikes-first-washer-dryer/1600494332.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/little-tikes-first-washer-dryer/1600494332.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NPcSSkL3WXU",
+      "channel": "Little Tikes",
+      "duration": 183.0,
+      "title": "Little Tikes First Washer - Dryer | Assembly Instructions"
+    },
+    {
+      "id": "BJWhd7mhK0g",
+      "channel": "Super KAF",
+      "duration": 421.0,
+      "title": "KIDS WASHING MACHINE! - Little Tikes First WASHER/DRYER (Pretend Play Series) - UNBOXING & REVIEW!"
+    },
+    {
+      "id": "Xbg83pl-efY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 142.0,
+      "title": "Little Tikes First Fridge, First Washer-Dryer, and First Oven from MGA Entertainment"
+    },
+    {
+      "id": "hnRHu9A4aiM",
+      "channel": "Greyson’s Fabulous Adventures",
+      "duration": 2074.0,
+      "title": "Wash race 70 - Little Tikes First Washer Dryer vs Retro Washer Dryer / Rapid Wash and Dry"
+    },
+    {
+      "id": "8Rlh3rCZryU",
+      "channel": "konas2002",
+      "duration": 596.0,
+      "title": "Little Tikes First Washer Dryer & Fridge ! || Toy Unboxing || Konas2002"
+    }
+  ]
+}

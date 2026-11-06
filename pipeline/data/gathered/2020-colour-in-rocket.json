@@ -1,0 +1,54 @@
+{
+  "id": "2020-colour-in-rocket",
+  "year": 2020,
+  "name": "Colour-In Rocket",
+  "price_eur": 38.0,
+  "price_text": "€38.00",
+  "retailers": [
+    {
+      "name": "Cardboard Magic",
+      "url": "https://cardboardmagic.ie/products/colour-in-rocket?_pos=2&_sid=4d3cd778b&_ss=r"
+    }
+  ],
+  "kind": "craft",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LfdBmKgkoUY",
+      "channel": "Happy Coloring",
+      "duration": 308.0,
+      "title": "Rocket Coloring Pages | Step by Step Coloring for kids"
+    },
+    {
+      "id": "ALgpOElog2E",
+      "channel": "Preschool Paintings",
+      "duration": 332.0,
+      "title": "Learning Colors for Kids by Drawing ROCKET, Coloring Pages for Children"
+    },
+    {
+      "id": "VdROyPZheBk",
+      "channel": "McGowans Digital Print",
+      "duration": 21.0,
+      "title": "Colour In Rocket. Includes cut out astronaut photo opportunity."
+    },
+    {
+      "id": "q-aRaDlrZ-c",
+      "channel": "HoveringBanana",
+      "duration": 723.0,
+      "title": "A Guide To Colours In Rocket League Trading"
+    },
+    {
+      "id": "BIp4zpYfFdU",
+      "channel": "Art for Kids Hub",
+      "duration": 704.0,
+      "title": "How To Draw A Rocket (Young Artists)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2017-dolphin-handpuppet",
+  "year": 2017,
+  "name": "Dolphin Handpuppet",
+  "price_eur": 5.0,
+  "price_text": "€5.00",
+  "retailers": [
+    {
+      "name": "Penneysfor",
+      "url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "64LLBkyLCjg",
+      "channel": "Josh Mosh",
+      "duration": 28.0,
+      "title": "Beleduc - Dolphin Glove Puppet"
+    },
+    {
+      "id": "_hE9Uj10gbc",
+      "channel": "Creative Dolphin",
+      "duration": 195.0,
+      "title": "How To Make Hand Puppets || Puppets"
+    },
+    {
+      "id": "ayFG5Ow4wXI",
+      "channel": "Maison ZiZou",
+      "duration": 286.0,
+      "title": "How to make a hand puppet from one sheet of paper | Animal hand puppets DIY | Maison Zizou"
+    },
+    {
+      "id": "-oYDcRzLVO4",
+      "channel": "ChanelMovies",
+      "duration": 31.0,
+      "title": "Dolphin hand puppet"
+    },
+    {
+      "id": "pYTwSf8ojH0",
+      "channel": "FolkmanisPuppets",
+      "duration": 18.0,
+      "title": "Folkmanis® Dolphin Puppet Demo - Retired"
+    }
+  ]
+}

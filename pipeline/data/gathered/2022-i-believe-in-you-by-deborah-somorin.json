@@ -1,0 +1,60 @@
+{
+  "id": "2022-i-believe-in-you-by-deborah-somorin",
+  "year": 2022,
+  "name": "I Believe in You by Deborah Somorin",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/i-believe-in-you-deborah-somorin-9780717190621"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/i-believe-in-you-deborah-somorin-9780717190621",
+      "title": "Buy I Believe In You Book at Easons",
+      "description": "Little Debbie is not having a good day.\n\nFirst, she can't find her shoes, then she forgets her pencils. Later that day, she just can't get her spellings right - if only all homework were as easy as maths!\n\nBut throughout the day, Debbie encounters people w",
+      "image": null,
+      "ld_description": "Little Debbie is not having a good day.\n\nFirst, she can't find her shoes, then she forgets her pencils. Later that day, she just can't get her spellings right - if only all homework were as easy as maths!\n\nBut throughout the day, Debbie encounters people who stop and help. Their time and their care show Debbie how much they believe in her - and how much she's worth believing in.\n\nAnd soon Debbie realises that she also has the magic to make a difference too …\n\nI Believe in You is a picture book with a powerful message from Deborah Somorin, the author of the memoir Believing in Me.",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/cdb5a4c8-21b3-4c45-aa95-51ba72e2c8e4/9780717190621_5642653534.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LL_ZZK-QkTw",
+      "channel": "enemaku",
+      "duration": 298.0,
+      "title": "Studio VLOG // Unboxing my first children's book as an illustrator"
+    },
+    {
+      "id": "6MhmPY4F9vs",
+      "channel": "Sigrun",
+      "duration": 248.0,
+      "title": "International Women's Day 2021"
+    },
+    {
+      "id": "I75hUIEpfU8",
+      "channel": "Kathy Rablah",
+      "duration": 316.0,
+      "title": "To Teenagers Everywhere"
+    },
+    {
+      "id": "1hJo3IMBJ5I",
+      "channel": "Lanre Somorin MD",
+      "duration": 3638.0,
+      "title": "Transition To Greater With Dr. Lanre Somorin and Dr. Anissa Reilly"
+    },
+    {
+      "id": "wh3K89mVI-g",
+      "channel": "First Dates",
+      "duration": 198.0,
+      "title": "Deborah Feels Like She's Being Put On Trial | First Dates Ireland"
+    }
+  ]
+}

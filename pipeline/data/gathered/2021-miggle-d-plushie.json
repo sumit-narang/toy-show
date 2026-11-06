@@ -1,0 +1,54 @@
+{
+  "id": "2021-miggle-d-plushie",
+  "year": 2021,
+  "name": "Miggle D Plushie",
+  "price_eur": 19.95,
+  "price_text": "€19.95",
+  "retailers": [
+    {
+      "name": "Miggle D Giggles",
+      "url": "http://www.miggledgiggles.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ET2GXZ3lwkA",
+      "channel": "Miggle D Giggles",
+      "duration": 17.0,
+      "title": "The press ambush Miggle D Giggles!"
+    },
+    {
+      "id": "DRF6hmYV07M",
+      "channel": "merrelltwins",
+      "duration": 1148.0,
+      "title": "Reacting to Our Old Barbie Toy Collection - Merrell Twins"
+    },
+    {
+      "id": "R8LkWzAxMgQ",
+      "channel": "Benedict Hogan",
+      "duration": 109.0,
+      "title": "Miggle D's St Patrick's Day Tour"
+    },
+    {
+      "id": "AadblnzUbRE",
+      "channel": "Rinspirit_art",
+      "duration": 1700.0,
+      "title": "Make A Small Plush with Me!"
+    },
+    {
+      "id": "D6Tw1DQys3Y",
+      "channel": "Event Answer",
+      "duration": 590.0,
+      "title": "Stuffed Animal Bubble Balloon Tutorial"
+    }
+  ]
+}

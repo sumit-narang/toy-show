@@ -1,0 +1,42 @@
+{
+  "id": "2023-milly-mccarthy-and-the-irish-dancing-disaster",
+  "year": 2023,
+  "name": "Milly McCarthy and the Irish Dancing Disaster",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/milly-mccarthy-and-the-irish-dancing-disaster-pb-9780717196142"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/milly-mccarthy-and-the-irish-dancing-disaster-pb-9780717196142",
+      "title": "Milly McCarthy and the Irish Dancing Disaster - Dubray Books",
+      "description": "It really isn't my fault that Mrs Katherine De Búrca will never be able to judge a competition again, not with post-traumatic stress disorder. And it's also not my fault that from now on there needs to be a minimum distance of five metres between the judging panel and the contestants at all times. And it's totally, one billion per cent, NOT my fault that all wigs now need to be checked to make sure that they reach EU safety standards …\n\n \n\nMilly McCarthy is a ten-year-old girl from Cork - and she's determined to win a medal for Irish dancing. But her lessons don't go according to plan, and when she is subbed into a show at short notice, there's only one way things are going to go … disastrously!",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "It really isn't my fault that Mrs Katherine De Búrca will never be able to judge a competition again, not with post-traumatic stress disorder. And it's also not my fault that from now on there needs to be a minimum distance of five metres between the judging panel and the contestants at all times. And it's totally, one billion per cent, NOT my fault that all wigs now need to be checked to make sure that they reach EU safety standards …\n\n \n\nMilly McCarthy is a ten-year-old girl from Cork - and she's determined to win a medal for Irish dancing. But her lessons don't go according to plan, and when she is subbed into a show at short notice, there's only one way things are going to go … disastrously!",
+      "brand": "Leona Forde",
+      "ld_image": "https://media.dubraybooks.ie/asset/04707e6f-b159-4a58-8d48-96992a45da73/9780717196142_5643533134.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VvVhJ6p9lv4",
+      "channel": "World Book Day",
+      "duration": 68.0,
+      "title": "World Book Day 2026:  Karen Harte - Who are you and what do you write?"
+    },
+    {
+      "id": "lwmcxpRqmjg",
+      "channel": "World Book Day",
+      "duration": 259.0,
+      "title": "World Book Day 2026 Assembly Video:  Karen Harte"
+    }
+  ]
+}

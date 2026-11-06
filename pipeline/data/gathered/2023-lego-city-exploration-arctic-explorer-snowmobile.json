@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-exploration-arctic-explorer-snowmobile",
+  "year": 2023,
+  "name": "LEGO City Exploration Arctic Explorer Snowmobile",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-exploration-arctic-explorer-snowmobile-60376-7301880"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-exploration-arctic-explorer-snowmobile-60376-7301880"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BsDpMG3Myg8",
+      "channel": "All New Bricks",
+      "duration": 143.0,
+      "title": "Lego City 60376 Arctic Explorer Snowmobile Speed Build"
+    },
+    {
+      "id": "F_RoT11O88c",
+      "channel": "MADABOUTLEGO",
+      "duration": 182.0,
+      "title": "Lego City Arctic Explorer Snowmobile 60376."
+    },
+    {
+      "id": "UK9RRLBGBKY",
+      "channel": "AustrianBrickFan",
+      "duration": 233.0,
+      "title": "LEGO City 60376 Arctic Explorer Snowmobile - LEGO Speed Build Review"
+    },
+    {
+      "id": "G2cpbcMpSMA",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 343.0,
+      "title": "LEGO City Arctic Explorer Snowmobile review! The Seal Battle Pack ™"
+    },
+    {
+      "id": "Nz9f8cg5XCk",
+      "channel": "AustrianBrickFan",
+      "duration": 1087.0,
+      "title": "LEGO City 60471 Arctic Explorer Science Lab Truck Speed Build"
+    }
+  ]
+}

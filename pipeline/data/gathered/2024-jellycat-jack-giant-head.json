@@ -1,0 +1,60 @@
+{
+  "id": "2024-jellycat-jack-giant-head",
+  "year": 2024,
+  "name": "Jellycat Jack Giant Head",
+  "price_eur": 250.0,
+  "price_text": "€250",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/kids/toys-games/teddy-bears-soft-toys/jellycat/jellycat-jack-head-giant-57cm/2000719436.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/teddy-bears-soft-toys/jellycat/jellycat-jack-head-giant-57cm/2000719436.html",
+      "title": "JELLYCAT Jellycat Jack Head Giant 57cm - Black",
+      "description": "Cute, cuddly and colourful, JellyCats soft toys and baby accessories cant help but make everyone smile. Designed with safety as well as fun in mind, these will be the toys your little one remembers fondly forever.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000719436_01.jpg?$product_tile_plp$",
+      "ld_description": "Cute, cuddly and colourful, JellyCat's soft toys and baby accessories can't help but make everyone smile. Designed with safety as well as fun in mind, these will be the toys your little one remembers fondly forever.",
+      "brand": "JELLYCAT",
+      "ld_image": "https://images.brownthomas.com/bta/2000719436_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GpD-Ai9gMZg",
+      "channel": "Guinness World Records",
+      "duration": 299.0,
+      "title": "Largest Collection of Jellycats! | Guinness World Records"
+    },
+    {
+      "id": "ICw-epzjNSE",
+      "channel": "Strawbecky",
+      "duration": 1202.0,
+      "title": "My GIANT Jellycat Collection!"
+    },
+    {
+      "id": "EEQ2F0izaKY",
+      "channel": "JUSTKASS",
+      "duration": 1579.0,
+      "title": "i Went Dumpster Diving for JELLYCATS and THiS is What I Found...."
+    },
+    {
+      "id": "N9GJuWDKoWM",
+      "channel": "JUSTKASS",
+      "duration": 2200.0,
+      "title": "i BOUGHT EVERY RARE JELLYCAT!"
+    },
+    {
+      "id": "MXifU7wGHhU",
+      "channel": "Miss Charli",
+      "duration": 1437.0,
+      "title": "SHOPPING FOR RARE JELLYCATS + FULL JELLYCAT COLLECTION TOUR 🛍"
+    }
+  ]
+}

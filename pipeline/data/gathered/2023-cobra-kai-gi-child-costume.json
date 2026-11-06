@@ -1,0 +1,54 @@
+{
+  "id": "2023-cobra-kai-gi-child-costume",
+  "year": 2023,
+  "name": "Cobra Kai Gi Child Costume",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Party Delights",
+      "url": "https://www.partydelights.ie/cobra-kai-gi-child-costume"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8TpIYGufuRI",
+      "channel": "Top 5 Best Report",
+      "duration": 450.0,
+      "title": "The Top 5 Best Cobra Kai Costume in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "24_k6V2oesk",
+      "channel": "Queiroz Spidey",
+      "duration": 118.0,
+      "title": "Unboxing Karate Kid Costume ( Cobra Kai Suit, Karate Kid Cosplay )"
+    },
+    {
+      "id": "IJQQzMvdjsY",
+      "channel": "ThatMakes OneOfUs",
+      "duration": 97.0,
+      "title": "Johnny’s pants from Karate Kid - vintage Bugle Boy Countdown parachute - Cobra Kai Halloween costume"
+    },
+    {
+      "id": "3KHrENqy5v4",
+      "channel": "ThatMakes OneOfUs",
+      "duration": 178.0,
+      "title": "1983 Style Auto leather jacket model Johnny Lawrence wears in Karate Kid - Cobra Kai costume cosplay"
+    },
+    {
+      "id": "mMgCAnsaLGU",
+      "channel": "MAEQD",
+      "duration": 47.0,
+      "title": "Karate Kid \"Johnny & Kreese Cobra Kai\" T-Shirt - MAEQD.com"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-squishmallows-30cm-green",
+  "year": 2022,
+  "name": "Squishmallows 30cm Green",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uTjj6qAn8pg",
+      "channel": "Guinness World Records",
+      "duration": 327.0,
+      "title": "Largest Squishmallow Collection - Guinness World Records"
+    },
+    {
+      "id": "1eViT1mDyfI",
+      "channel": "ellieV ",
+      "duration": 341.0,
+      "title": "Build Squishmallow Patty's Farmer's Market"
+    },
+    {
+      "id": "T2F95aLJJNk",
+      "channel": "froggycrossing",
+      "duration": 1063.0,
+      "title": "ranking YOUR favorite (and least favorite) Squishmallows"
+    },
+    {
+      "id": "Pc3PeEXWbao",
+      "channel": "WTI",
+      "duration": 63.0,
+      "title": "Our Point of View on Squishmallows Miles Dragon Plush Toy From Amazon"
+    },
+    {
+      "id": "FEp2ufF0-Ig",
+      "channel": "Pop Culture Wonders",
+      "duration": 16.0,
+      "title": "McDonald's Squishmallow Happy Meal Toys Commercial (2023)"
+    }
+  ]
+}

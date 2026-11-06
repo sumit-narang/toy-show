@@ -1,0 +1,54 @@
+{
+  "id": "2020-junior-scrabble-as-gaeilge",
+  "year": 2020,
+  "name": "Junior Scrabble as Gaeilge",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "Glór na nGael/Gaelchultúr",
+      "url": "https://www.udar.ie/product/junior-scrabble-as-gaeilge-2/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VtMoR45hz84",
+      "channel": "Glór na nGael",
+      "duration": 56.0,
+      "title": "Scrabble as Gaeilge - Udar.ie"
+    },
+    {
+      "id": "O5_fhJ60pPs",
+      "channel": "AnSiopaLeabhar",
+      "duration": 26.0,
+      "title": "Scrabble as Gaeilge An Siopa Leabhar"
+    },
+    {
+      "id": "xsq25yfF_gc",
+      "channel": "rosgireland",
+      "duration": 120.0,
+      "title": "Colmcille : Radharc Samplach / Sample Scene : Scéal na Gaeilge (The Story of Irish)"
+    },
+    {
+      "id": "8p6_VL00Vqk",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 154.0,
+      "title": "Cruinniú na nÓg 2024 – 'The Spark', by Kabin Crew & Lisdoonvarna Crew"
+    },
+    {
+      "id": "uxX2RvKViME",
+      "channel": "Mr Doherty",
+      "duration": 219.0,
+      "title": "Gaeilge An cluiche ríomhaire nua  An scéal"
+    }
+  ]
+}

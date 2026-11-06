@@ -1,0 +1,53 @@
+{
+  "id": "2019-toy-story-characters",
+  "year": 2019,
+  "name": "Toy Story Characters",
+  "price_eur": 19.99,
+  "price_text": "from €19.99",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gtvU-sVSpkk",
+      "channel": "Celeb Stats",
+      "duration": 300.0,
+      "title": "Woody vs Buzz vs Jessie vs Bo Peep vs Andy - Toy Story Comparison"
+    },
+    {
+      "id": "LTjwoPALntA",
+      "channel": "Tech TalkToys",
+      "duration": 452.0,
+      "title": "The Forgotten Toys of Toy Story"
+    },
+    {
+      "id": "oh1O2dLfBVA",
+      "channel": "Thomas H. Smith",
+      "duration": 631.0,
+      "title": "Toy Story 1-3 | Voice Actors | Behind the Scenes | Side By Side Comparison"
+    },
+    {
+      "id": "RYEcf_z-tNo",
+      "channel": "GenerationWest",
+      "duration": 601.0,
+      "title": "Characters and Voice Actors - Toy Story (Updated)"
+    },
+    {
+      "id": "LU6vIKsvQpo",
+      "channel": "Quiz Cookie",
+      "duration": 250.0,
+      "title": "Every Toy Story Character’s First Words"
+    }
+  ]
+}

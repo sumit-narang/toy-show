@@ -1,0 +1,57 @@
+{
+  "id": "2022-sensory-toys-like-cupcake-squishes-and-putty",
+  "year": 2022,
+  "name": "Sensory toys like cupcake squishes and putty",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Sensory House",
+      "url": "https://sensoryhouse.ie/home"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://sensoryhouse.ie/home",
+      "title": "Sensory House",
+      "description": "We are 'Making Sensory Mainstream' — Creating & Collating top quality products for Reasonable Prices - Fully Grant Qualifying Sensory Room Packages",
+      "image": "https://sensoryhouse.ie/image/cache/catalog/Logos_Finals_Sensory%20House%20Logo_Landscape_RGB_Steel-600x315h.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oRxPQdYkOBw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 96.0,
+      "title": "Kinetic Sand Moves in a Different Way!"
+    },
+    {
+      "id": "5RP0IlxKAeo",
+      "channel": "Fun Caboodle",
+      "duration": 534.0,
+      "title": "Poopsie Slime Surprise Series 4 SLIME MIXING Together in One Bowl"
+    },
+    {
+      "id": "7plC2keFeKM",
+      "channel": "Doctor Squish",
+      "duration": 810.0,
+      "title": "What's Inside Squishy Toys! Slime Mesh Ball And A Crazy Crunchy Squishy!?"
+    },
+    {
+      "id": "EZaKHwK_wEI",
+      "channel": "jenny slime",
+      "duration": 599.0,
+      "title": "Mixing”Pink Starbucks” Eyeshadow and Makeup,parts,glitter Into Slime!Satisfying Slime Video!★ASMR★"
+    },
+    {
+      "id": "MqViM2zA7j8",
+      "channel": "Fun Caboodle",
+      "duration": 718.0,
+      "title": "Mixing All DIY Squishies Slime Together into One Bowl from Squishy Maker"
+    }
+  ]
+}

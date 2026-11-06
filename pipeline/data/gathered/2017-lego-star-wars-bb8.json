@@ -1,0 +1,54 @@
+{
+  "id": "2017-lego-star-wars-bb8",
+  "year": 2017,
+  "name": "LEGO Star Wars BB8",
+  "price_eur": 83.71,
+  "price_text": "€83.71",
+  "retailers": [
+    {
+      "name": "Argos.ie",
+      "url": "http://Argos.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/features/republic-of-ireland"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UF1fj4GSznI",
+      "channel": "MandRproductions",
+      "duration": 702.0,
+      "title": "LEGO Star Wars 75452 BB-8 Review! (2026)"
+    },
+    {
+      "id": "wZdYpCanYSg",
+      "channel": "Solid Brix Studios",
+      "duration": 440.0,
+      "title": "LEGO Star Wars BB-8 REVIEW | Set 75452"
+    },
+    {
+      "id": "KCvYtr5brvY",
+      "channel": "LEGO",
+      "duration": 14.0,
+      "title": "LEGO® Star Wars™ - BB-8 - Millennium Falcon™"
+    },
+    {
+      "id": "9g41MCe0xL4",
+      "channel": "LEGO",
+      "duration": 36.0,
+      "title": "BB-8 - LEGO Star Wars - 75187 - Product Animation"
+    },
+    {
+      "id": "atfJjqS9u_A",
+      "channel": "LEGO",
+      "duration": 19.0,
+      "title": "BB-8's Brother - LEGO Star Wars - 75187"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-pose-off-game",
+  "year": 2020,
+  "name": "Pose-Off Game",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/ideal-pose-off/1600490255.prd#sku=sku22689933"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/ideal-pose-off/1600490255.prd#sku=sku22689933"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mCKdu2FV5QY",
+      "channel": "Viva La Dirt League",
+      "duration": 154.0,
+      "title": "Showing off video game cosmetics - Poser"
+    },
+    {
+      "id": "AF-IQh5iDio",
+      "channel": "GoofyGap",
+      "duration": 213.0,
+      "title": "HUMAN TETRIS 3-Player 🤼 Extreme Twisting, Epic Fails! 💥 | Immersive Interactive Warm-Up"
+    },
+    {
+      "id": "Natzdl2kHKY",
+      "channel": "Plox",
+      "duration": 82.0,
+      "title": "Proton Jon Animated: The Pose-Off"
+    },
+    {
+      "id": "_gy1gdkxh3k",
+      "channel": "AnimeIRL",
+      "duration": 1283.0,
+      "title": "SO YOU THINK YOU'RE A WEEB (ft. @dontcalldom )"
+    },
+    {
+      "id": "Rm438Nvw9BA",
+      "channel": "FIT THE WALL",
+      "duration": 255.0,
+      "title": "HUMAN TETRIS | 2 Player Co-op Challenge | Don't Fall Off Your Partner!"
+    }
+  ]
+}

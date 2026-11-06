@@ -1,0 +1,54 @@
+{
+  "id": "2025-living-puppets-bibo-hand-puppet",
+  "year": 2025,
+  "name": "Living Puppets Bibo Hand Puppet",
+  "price_eur": 49.95,
+  "price_text": "€49.95",
+  "retailers": [
+    {
+      "name": "Mimi Toys",
+      "url": "https://mimitoys.ie/products/living-puppets-bibo-52cm-hand-puppet"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://mimitoys.ie/products/living-puppets-bibo-52cm-hand-puppet"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "54YroFGrbPQ",
+      "channel": "Puppet Nerd",
+      "duration": 1793.0,
+      "title": "NO SEW Puppet Build - Easy to Follow - Make a Puppet Easy"
+    },
+    {
+      "id": "f-hx7AKT9lw",
+      "channel": "Puppet Nerd",
+      "duration": 601.0,
+      "title": "How To Make A Live Hand Puppet! - Part 9 - Puppet Building 101"
+    },
+    {
+      "id": "ohh41xnuZLg",
+      "channel": "Stan Winston School",
+      "duration": 66.0,
+      "title": "How to Build a Hand and Rod Puppet Part 1 - Understructure - PREVIEW"
+    },
+    {
+      "id": "oJ8KgZbY58E",
+      "channel": "Stan Winston School",
+      "duration": 667.0,
+      "title": "How to Make a Foam Puppet: Coring Solid Foam Puppets - FREE CHAPTER"
+    },
+    {
+      "id": "vRTrzqEUxtA",
+      "channel": "Ikkecharry",
+      "duration": 97.0,
+      "title": "Lazy song met handpop"
+    }
+  ]
+}

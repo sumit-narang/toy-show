@@ -1,0 +1,57 @@
+{
+  "id": "2018-djungelskog-panda",
+  "year": 2018,
+  "name": "Djungelskog Panda",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QIszQTVHOV0",
+      "channel": "Haroon-Gavin",
+      "duration": 26.0,
+      "title": "IKEA Panda Film"
+    },
+    {
+      "id": "3RWeo9ukaag",
+      "channel": "Fun Channel by Victor and Annie",
+      "duration": 452.0,
+      "title": "Panda Bears  🐼  🐼  🐼  🐼  🐼  | Soft Squishy Stuffed Animals from Ikea"
+    },
+    {
+      "id": "G37SIuLZquw",
+      "channel": "Boxtoo",
+      "duration": 42.0,
+      "title": "Djungelskog Mondays"
+    },
+    {
+      "id": "XvURZRxRVVg",
+      "channel": "The Ultimate Aaden",
+      "duration": 21.0,
+      "title": "20 seconds of djungelskog"
+    },
+    {
+      "id": "hUVSwHsgGgM",
+      "channel": "Foxpiro!",
+      "duration": 68.0,
+      "title": "Depressed Ikea Panda"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-real-fx-disney-stitch-puppet-interactive-toy",
+  "year": 2024,
+  "name": "Real FX Disney Stitch Puppet Interactive Toy",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/disney-lilo-and-stitch/real-fx-disney-stitch-puppet-interactive-toy/p/235627"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/disney-lilo-and-stitch/real-fx-disney-stitch-puppet-interactive-toy/p/235627",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PIy6PWEQj8g",
+      "channel": "Smyths Toys Superstores",
+      "duration": 27.0,
+      "title": "Real FX Disney Stitch Puppet Interactive Toy - Smyths Toys"
+    },
+    {
+      "id": "et8isqIktko",
+      "channel": "Imagination Monster",
+      "duration": 252.0,
+      "title": "WOW !!!! Real FX Stitch Puppet Interactive Toy Unboxing | Disney Live Action Lilo & Stitch Talking"
+    },
+    {
+      "id": "P87kY7ErHsU",
+      "channel": "See Rad",
+      "duration": 709.0,
+      "title": "Wow Stuff! RealFX Stitch Puppetronics Comparison - Original Vs Live Action"
+    },
+    {
+      "id": "Z0hOFT7ZLVk",
+      "channel": "Testsofa ",
+      "duration": 707.0,
+      "title": "This STITCH is alive! Disney's animatronic plush toy!😍"
+    },
+    {
+      "id": "iHAVgRcipeI",
+      "channel": "Top-Rated Review: Jonny",
+      "duration": 241.0,
+      "title": "What Nobody Tells You About the Disney Stitch Interactive Plush"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-jaws-board-game",
+  "year": 2021,
+  "name": "Jaws Board Game",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/toys/games-puzzles-books/ravensburger/jaws-board-game/150145539.html"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/games-puzzles/ravensburger/jaws-board-game/150145539.html",
+      "title": "RAVENSBURGER Jaws Board Game - No Colour",
+      "description": "Experience Jaws as a suspenseful tabletop strategy game with Ravensburger! One player menaces the island of Amity as the three ton great white while the other players go on the hunt as Brody, Hooper and Quint. Two thrilling phases of gameplay capture the edge of your seat excitement of the classic film. Act 1: Amity Island. The shark prowls secretly through the waters around the island attacking swimmers and avoiding capture. Meanwhile the other players try to pinpoint the sharks location while also saving the tourists. Act 2: The Orca. Experience the climatic battle aboard the slowly sinking Orca. Brody, Hooper and Quint are well-armed... but they dont know where the great white will strike next!",
+      "image": "https://images.brownthomas.com/bta/2000183569_01.jpg?$product_tile_plp$",
+      "ld_description": "Experience Jaws as a suspenseful tabletop strategy game with Ravensburger! One player menaces the island of Amity as the three ton great white while the other players go on the hunt as Brody, Hooper and Quint. Two thrilling phases of gameplay capture the edge of your seat excitement of the classic film. Act 1: Amity Island. The shark prowls secretly through the waters around the island attacking swimmers and avoiding capture. Meanwhile the other players try to pinpoint the shark's location while also saving the tourists. Act 2: The Orca. Experience the climatic battle aboard the slowly sinking Orca. Brody, Hooper and Quint are well-armed... but they don't know where the great white will strike next!",
+      "brand": "RAVENSBURGER",
+      "ld_image": "https://images.brownthomas.com/bta/2000183569_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hmFGqtuYWgU",
+      "channel": "Geek & Sundry",
+      "duration": 772.0,
+      "title": "How to Play Jaws"
+    },
+    {
+      "id": "N6IIsisqDQg",
+      "channel": "GLHF Board Games",
+      "duration": 627.0,
+      "title": "Jaws Board Game Review & How to Play | Available at Target"
+    },
+    {
+      "id": "_6I3RM3zark",
+      "channel": "The Dice Tower",
+      "duration": 1419.0,
+      "title": "Jaws Review with Sam Healey"
+    },
+    {
+      "id": "W64Lzk-PDYk",
+      "channel": "No Rolls Barred",
+      "duration": 6043.0,
+      "title": "Let's Play JAWS | Board Game Club"
+    },
+    {
+      "id": "cg6hB7xCkAU",
+      "channel": "BoardGameBollocks",
+      "duration": 790.0,
+      "title": "Jaws Board Game - Quick Review"
+    }
+  ]
+}

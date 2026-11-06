@@ -1,0 +1,57 @@
+{
+  "id": "2025-stuntman-stu-nitro-boost-stunt-bike",
+  "year": 2025,
+  "name": "Stuntman Stu Nitro Boost Stunt Bike",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/stuntman-stu-nitro-boost-stunt-bike-set/p/249952"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/stuntman-stu-nitro-boost-stunt-bike-set/p/249952",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P16gfPmMQAs",
+      "channel": "StuntmanStu",
+      "duration": 27.0,
+      "title": "Stuntman Stu | Stuntman Stu Toys  | Nitro Boost Stunt Bike Set"
+    },
+    {
+      "id": "dRr-XUVCeqM",
+      "channel": "StuntmanStu",
+      "duration": 29.0,
+      "title": "Stuntman Stu | Stuntman Stu Toys  | Race Ace Stunt Car Set"
+    },
+    {
+      "id": "h__BnNJ0wCg",
+      "channel": "Character Toys",
+      "duration": 20.0,
+      "title": "StuntmanStu Bike 20s"
+    },
+    {
+      "id": "-8Ka9eZlumo",
+      "channel": "Fantasyworld Kuwait",
+      "duration": 34.0,
+      "title": "Stuntman Stu Nitro Boost Stunt Bike - ستانت مان ستو نيترو بوست ستانت بايك"
+    },
+    {
+      "id": "Bbpt68lKNQk",
+      "channel": "Pixel Dan",
+      "duration": 177.0,
+      "title": "Stuntman Stu NEW from Playmates Toys at New York Toy Fair 2025"
+    }
+  ]
+}

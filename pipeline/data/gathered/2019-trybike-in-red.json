@@ -1,0 +1,57 @@
+{
+  "id": "2019-trybike-in-red",
+  "year": 2019,
+  "name": "TryBike in Red",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Kid Store",
+      "url": "https://kidstore.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kidstore.ie/password",
+      "title": "KID store",
+      "description": "Unlock the magic of playtime with our luxurious wooden toys and beautiful gifts at KID. Ignite your child's imagination and inspire their creativity with our carefully curated collection. As an Irish-owned and family-run business, we handpick each item with love. Shop now to explore our enchanting world of play.",
+      "image": "http://kidstore.ie/cdn/shop/files/KID-Store-KID-Store-Dublin.jpg?height=628&pad_color=fff&v=1689268829&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ojL-EgcYdJk",
+      "channel": "Trybike NL",
+      "duration": 203.0,
+      "title": "montage video Trybike steel 2 wieler"
+    },
+    {
+      "id": "fV5ZIgubU38",
+      "channel": "EcoToysCity",
+      "duration": 264.0,
+      "title": "Trybike 2in1  ETC61441"
+    },
+    {
+      "id": "j8Ro14ZLXVg",
+      "channel": "Urban Baby",
+      "duration": 98.0,
+      "title": "Trybike инструкция по сборке"
+    },
+    {
+      "id": "yt46OVXtoYU",
+      "channel": "Hippychick",
+      "duration": 26.0,
+      "title": "Trybike | 2-in-1 Steel Balance Bike | From Hippychick"
+    },
+    {
+      "id": "b1ldgz4Fv28",
+      "channel": "Personalised Gifts",
+      "duration": 35.0,
+      "title": "Trybike 2 in 1 Steel Vintage Balance Bike - 15+ Months 8/11/2019 14:17"
+    }
+  ]
+}

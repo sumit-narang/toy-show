@@ -1,0 +1,60 @@
+{
+  "id": "2024-toimsa-16-vintage-bicycle-beige",
+  "year": 2024,
+  "name": "Toimsa 16″ Vintage Bicycle – Beige",
+  "price_eur": 209.0,
+  "price_text": "€209",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/vintage-bike-beige-16"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/vintage-bike-beige-16",
+      "title": "Toimsa 16″ Vintage Bicycle - Beige",
+      "description": "Toimsa 16″ Vintage Bicycle - Beige. Perfect for kids aged 5-7, featuring a retro design, front and rear brakes, adjustable components, and a wicker-style basket. Clarkes of Cavan",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/dsc9066.webp?crop=center&height=1200&v=1778151236&width=1200",
+      "ld_description": "Retro Design: Classic beige color with a vintage look, complete with a front wicker-style basket.\n\t\nFront and Rear Calliper Brakes: Ensures reliable stopping power for enhanced safety.\n\t\nPneumatic Tires: Offers a smooth ride with excellent grip on various surfaces.\n\t\nSpoked Wheels with Chrome Mudguards: Durable and stylish, providing protection from splashes.\n\t\nAdjustable Sprung Saddle and Handlebars: Customizable for growing children, ensuring comfort and proper fit.\n\t\nRear Carrier Rack: Practical for carrying school bags, groceries, or other essentials.\n\t\nRemovable Stabilisers: Helps young riders develop balance and confidence.\n\t\nFull-Length Chainguard: Provides added safety by covering the chain completely.",
+      "brand": "Clarkes of Cavan",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/dsc9066.webp?v=1778151236&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TWjDjMTN3KM",
+      "channel": "Toimsa Bicicletas",
+      "duration": 672.0,
+      "title": "Toimsa Bicycle Mount Tutorial"
+    },
+    {
+      "id": "jq2TCOLtXTY",
+      "channel": "Ceebabe2u",
+      "duration": 805.0,
+      "title": "How to Assemble a 12 Inch Beige Kids Bicycle | Step-by-Step Installation"
+    },
+    {
+      "id": "lUwMuDXYP30",
+      "channel": "U A R Videos",
+      "duration": 312.0,
+      "title": "Unboxing & Assembly - 12 inch kids bicycle"
+    },
+    {
+      "id": "moFDaFmxTXY",
+      "channel": "paul yang",
+      "duration": 62.0,
+      "title": "How to adjust royalbaby kids bike front brake if the brake pad leans to one side."
+    },
+    {
+      "id": "J8eGuH2U9Cc",
+      "channel": "The Battle Family",
+      "duration": 367.0,
+      "title": "Huffy 16 Inch Cars 2 Bicycle Assembly"
+    }
+  ]
+}

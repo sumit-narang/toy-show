@@ -1,0 +1,54 @@
+{
+  "id": "2025-berg-proxus-x1-scooter",
+  "year": 2025,
+  "name": "Berg Proxus X1 Scooter",
+  "price_eur": 118.95,
+  "price_text": "€118.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/berg-proxus-x1-blue-lime"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/berg-proxus-x1-blue-lime"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1Ry9S0n_nyA",
+      "channel": "JKC Toymaster",
+      "duration": 75.0,
+      "title": "BERG Proxus Scooters"
+    },
+    {
+      "id": "EmErdBaoWEU",
+      "channel": "John M Hanna Cycles & E-bikes",
+      "duration": 29.0,
+      "title": "BERG Proxus X1 Stunt Scooter in 3 Colours | Hanna Cycles"
+    },
+    {
+      "id": "DUMdE5XPhEI",
+      "channel": "Spielheld Onlineshop",
+      "duration": 76.0,
+      "title": "BERG Proxus X1 Stuntroller"
+    },
+    {
+      "id": "QcbAaI5jmig",
+      "channel": "Schwer Kraft",
+      "duration": 41.0,
+      "title": "Produktbewertung BERG Proxus X1 Stuntscooter für Kinder | Freestyle Scooter für Skatepark & Straße |"
+    },
+    {
+      "id": "hxHYCczWAxc",
+      "channel": "Tigerspringer",
+      "duration": 98.0,
+      "title": "Unboxing og samling af BERG Proxus X1 stuntløbehjul til børn"
+    }
+  ]
+}

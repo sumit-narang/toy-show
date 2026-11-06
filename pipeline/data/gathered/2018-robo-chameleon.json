@@ -1,0 +1,72 @@
+{
+  "id": "2018-robo-chameleon",
+  "year": 2018,
+  "name": "Robo Chameleon",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-lhVF0oknOQ",
+      "channel": "BugBox ASMR Love",
+      "duration": 2491.0,
+      "title": "ZURU ROBO ALIVE COLLECTION | UNBOXING Robo Chameleon, Robo Snake, Robo Lizard | ASMR"
+    },
+    {
+      "id": "WQu7qPw5dms",
+      "channel": "Seewhatubuy",
+      "duration": 183.0,
+      "title": "SOLD - Silverlit Robo Chameleon Electronic Toy"
+    },
+    {
+      "id": "cW63wS7RxKc",
+      "channel": "Thames & Kosmos",
+      "duration": 56.0,
+      "title": "My Robotic Pet: Coding Chameleon"
+    },
+    {
+      "id": "hAdBbfMRstY",
+      "channel": "POPPY TOYS",
+      "duration": 607.0,
+      "title": "🦎toy asmr🦎 ZURU Robo Alive Chameleon, RC Snake & Lizard Toy ASMR 🌟 Unboxing Toys"
+    },
+    {
+      "id": "srtch5Kpkb0",
+      "channel": "I4U News",
+      "duration": 23.0,
+      "title": "Silverlit Robo Chameleon at Toy Fair 2018 Nuremberg"
+    }
+  ]
+}

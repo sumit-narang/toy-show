@@ -1,0 +1,57 @@
+{
+  "id": "2023-jurassic-world-dominion-tyrannosaurus-rex-chomp-n-roar-mask",
+  "year": 2023,
+  "name": "Jurassic World Dominion Tyrannosaurus Rex Chomp n Roar Mask",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-dominion-tyrannosaurus-rex-chomp-n-roar-mask-dinosaur-toy/p/205002"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-dominion-tyrannosaurus-rex-chomp-n-roar-mask-dinosaur-toy/p/205002",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4SJd5GBN9YY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 66.0,
+      "title": "JURASSIC WORLD DOMINION! Tyrannosaurus Rex Chomp 'N Roar Mask from Mattel Review!"
+    },
+    {
+      "id": "fzieFDx8mdM",
+      "channel": "CBCK Farms",
+      "duration": 70.0,
+      "title": "Jurassic World Roaring Dinosaur Mask"
+    },
+    {
+      "id": "hcA9gHUwc6Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 92.0,
+      "title": "Turn Yourself Into a Rage 'N Roar Tyrannosaurus Rex!"
+    },
+    {
+      "id": "K6emQwX5tls",
+      "channel": "2Hands Magic",
+      "duration": 221.0,
+      "title": "Tyrannosaurus Rex Chomp 'N Roar Mask Unboxing"
+    },
+    {
+      "id": "5AuXrgQdr4g",
+      "channel": "The Jurassic Park Collection",
+      "duration": 36.0,
+      "title": "Chomp & Roar Mask｜JURASSIC WORLD: FALLEN KINGDOM | Mattel"
+    }
+  ]
+}

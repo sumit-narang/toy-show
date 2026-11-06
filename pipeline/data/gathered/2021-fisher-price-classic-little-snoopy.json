@@ -1,0 +1,54 @@
+{
+  "id": "2021-fisher-price-classic-little-snoopy",
+  "year": 2021,
+  "name": "Fisher Price Classic Little Snoopy",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/fisher-price-classic-toys-little-snoopy"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/fisher-price-classic-toys-little-snoopy"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nlNW1eibOnE",
+      "channel": "nik62es",
+      "duration": 53.0,
+      "title": "Fisher Price Little Snoopy 1960's"
+    },
+    {
+      "id": "mTedp4DmCUg",
+      "channel": "CrazCollectibles",
+      "duration": 31.0,
+      "title": "Vintage Fisher Price Little Snoopy Collectible Toy From 1980s - Parts or Restore"
+    },
+    {
+      "id": "ungit_kVeFY",
+      "channel": "Dave halverson",
+      "duration": 17.0,
+      "title": "1961 Fisher-Price Snoopy pull toy for sale on Ebay!"
+    },
+    {
+      "id": "JmHEpiBGI4w",
+      "channel": "Childhood Memories",
+      "duration": 125.0,
+      "title": "Fisher price 2005 pull along White Lil Snoopy dog toy childhood memories see it Working"
+    },
+    {
+      "id": "ORvj3EIxVXo",
+      "channel": "paradiseonpeabody",
+      "duration": 52.0,
+      "title": "Little Snoopy Fisher Price 2034 Dog TOY"
+    }
+  ]
+}

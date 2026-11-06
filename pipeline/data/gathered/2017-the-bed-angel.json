@@ -1,0 +1,54 @@
+{
+  "id": "2017-the-bed-angel",
+  "year": 2017,
+  "name": "The Bed Angel",
+  "price_eur": 50.0,
+  "price_text": "€50.00",
+  "retailers": [
+    {
+      "name": "TheBedAngel.com",
+      "url": "https://www.thebedangel.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dKmPEhJ4wjY",
+      "channel": "Anyma and LLOUD Official",
+      "duration": 150.0,
+      "title": "Anyma, LISA - Bad Angel"
+    },
+    {
+      "id": "GrRtlSoUY5I",
+      "channel": "Bible Haven",
+      "duration": 481.0,
+      "title": "5 Signs Your Guardian Angel Is Standing By Your Bed (Here's What To Know)"
+    },
+    {
+      "id": "N051c_nxoVc",
+      "channel": "Creative Chaos",
+      "duration": 154.0,
+      "title": "Anyma, LISA - Bad Angel (Lyrics)"
+    },
+    {
+      "id": "5hKdF5cHniY",
+      "channel": "Emmie's Wonder Wardrobe",
+      "duration": 182.0,
+      "title": "Ten in the Bed (Camping Edition) | Little Angel Kids Songs & Nursery Rhymes"
+    },
+    {
+      "id": "LHDaa04ue6Q",
+      "channel": "Anyma and LLOUD Official",
+      "duration": 164.0,
+      "title": "Anyma, LISA - Bad Angel (Live from Coachella)"
+    }
+  ]
+}

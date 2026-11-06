@@ -1,0 +1,60 @@
+{
+  "id": "2020-the-puppet-company-large-birds-amazon-macaw",
+  "year": 2020,
+  "name": "The Puppet Company Large Birds, Amazon Macaw",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Art & Hobby",
+      "url": "https://www.artnhobby.ie/puppet-lrg-bird-amazon-macaw"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.artnhobby.ie/products/large-birds-amazon-macaw-puppet",
+      "title": "The Puppet Company - Large Birds Amazon Macaw Puppet",
+      "description": "This puppet showcases the stunning colours and captivating presence of these birds in a highly versatile puppet. With excellent attention to detail, the Amazon Macaw Puppet showcases the fun of these remarkable birds, making it perfect for creative play and creating a touch of theatre.",
+      "image": "http://www.artnhobby.ie/cdn/shop/files/Amazon-Macaw-Large-Birds-PC003115-1-768x768.jpg?crop=center&height=1200&v=1715697971&width=1200",
+      "ld_description": "This puppet showcases the stunning colours and captivating presence of these birds in a highly versatile puppet.\nWith excellent attention to detail, the Amazon Macaw Puppet showcases the fun of these remarkable birds, making it perfect for creative play and creating a touch of theatre.\nThis Amazon Macaw glove puppet has a wonderful face, long pile and beautifully printed finishes along with a squawk and full working mouth!\nWhether for educational presentations or performances, these have fantastic play value and are great for instigating \"Tidy Up Time\".\n\nDesigned to fit children and adult hands, with access at base of puppet.\nEncourages imaginative play, language development and creativity.\nSuitable for children aged 18 months and above.\nAverage Height: 74cm x Width:30cm x Length:28cm",
+      "brand": "THE PUPPET COMPANY",
+      "ld_image": "https://www.artnhobby.ie/cdn/shop/files/Amazon-Macaw-Large-Birds-PC003115-1-768x768.jpg?v=1715697971&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eEsY3Kj4PqA",
+      "channel": "The Puppet Company",
+      "duration": 194.0,
+      "title": "The Puppet Company's Large Scarlet Macaw Puppet"
+    },
+    {
+      "id": "vlHkxUReLWw",
+      "channel": "Zalia13",
+      "duration": 149.0,
+      "title": "Updates and Scarlet Macaw Hand Puppet"
+    },
+    {
+      "id": "6U1XkJQ5BaQ",
+      "channel": "Lolly Extract",
+      "duration": 242.0,
+      "title": "Scarlet Macaw"
+    },
+    {
+      "id": "r6DBAHZh9ZY",
+      "channel": "Helen Meurs moved to youtube@helenmeurs",
+      "duration": 27.0,
+      "title": "The Scarlet Macow - A great bird puppet by the Puppet Company"
+    },
+    {
+      "id": "chZ6y7_kilo",
+      "channel": "fluoroblack",
+      "duration": 176.0,
+      "title": "Awesome New Bird Cage"
+    }
+  ]
+}

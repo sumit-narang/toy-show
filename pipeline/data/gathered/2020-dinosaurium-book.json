@@ -1,0 +1,60 @@
+{
+  "id": "2020-dinosaurium-book",
+  "year": 2020,
+  "name": "Dinosaurium Book",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/products/lily-murray-dinosaurium-illustrated-by-chris-wormell-1"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://talesfortadpoles.ie/products/lily-murray-dinosaurium-chris-wormell-junior",
+      "title": "Lily Murray: Dinosaurium, illustrated by Chris Wormell (Junior Edition) - Tales for Tadpoles",
+      "description": "Buy Lily Murray: Dinosaurium, illustrated by Chris Wormell (Junior Edition) for only €17.00 at Tales for Tadpoles! This museum is open all hours. It will transport you millions of years back in time to discover the largest and most ferocious land animals that ever lived - the dinosaurs.",
+      "image": "http://talesfortadpoles.ie/cdn/shop/files/lily-murray-dinosaurium-illustrated-by-chris-wormell-junior-edition-books-129025.jpg?v=1728391802&width=1024",
+      "ld_description": "This museum is open all hours. It will transport you millions of years back in time to discover the largest and most ferocious land animals that ever lived - the dinosaurs. So where did the T.rex live? What did Brachiosaurus eat? Could dinosaurs swim and fly? And why did they die out? Format: Hardback",
+      "brand": "Tales for Tadpoles",
+      "ld_image": "https://talesfortadpoles.ie/cdn/shop/files/lily-murray-dinosaurium-illustrated-by-chris-wormell-junior-edition-books-129025.jpg?v=1728391802"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tGaEStAHY1U",
+      "channel": "Minibabycare Books",
+      "duration": 37.0,
+      "title": "Dinosaurium Junior Edition Welcome To The Museum"
+    },
+    {
+      "id": "QLtxF6h7Dd4",
+      "channel": "Retro Dinosaurs and More",
+      "duration": 494.0,
+      "title": "Dinosaurium!"
+    },
+    {
+      "id": "wdSijxvrIw8",
+      "channel": "Knihozem",
+      "duration": 36.0,
+      "title": "Lily Murrayová, Chris Wormell: Dinosaurium"
+    },
+    {
+      "id": "6sVS27tgk4o",
+      "channel": "Minibabycare Books",
+      "duration": 56.0,
+      "title": "Dinosaurium Welcome To The Museum"
+    },
+    {
+      "id": "RAcIOYMDdH0",
+      "channel": "Omer Books",
+      "duration": 69.0,
+      "title": "Dinosaurium: Welcome to the Museum"
+    }
+  ]
+}

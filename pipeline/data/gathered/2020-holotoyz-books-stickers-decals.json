@@ -1,0 +1,57 @@
+{
+  "id": "2020-holotoyz-books-stickers-decals",
+  "year": 2020,
+  "name": "Holotoyz Books, Stickers & Decals",
+  "price_eur": 7.99,
+  "price_text": "from €7.99",
+  "retailers": [
+    {
+      "name": "Holotoyz",
+      "url": "http://holotoyz.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://holotoyz.com/",
+      "title": "HoloToyz | Kids Toys that come to life!",
+      "description": "HoloToyz uses Awesome Reality to enhance kids toys so they can play and learn with new technologies in a fun and safe way.",
+      "image": "http://holotoyz.com/cdn/shop/files/HT_LogoWebsite_sharingimage.png?v=1707399013"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_OC9XYAg7HI",
+      "channel": "snooplaydotin",
+      "duration": 73.0,
+      "title": "Holotoyz - Augmented Reality Stickers, Tattoos and Books!"
+    },
+    {
+      "id": "6HH-h80vZn8",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 14.0,
+      "title": "Interactive Book HoloToyz Jurassic Dinos Интерактивна книга с Augmented Reality HoloToyz - Динозаври"
+    },
+    {
+      "id": "YxdlT7d0x6g",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 19.0,
+      "title": "Augmented Reality Stickers, HoloToyz - Holo Heroes, Стикери Holo герои"
+    },
+    {
+      "id": "_PWDyBXGldw",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 13.0,
+      "title": "Augmented Reality Temporary Tattoos HoloToyz Holo Heroes Временни татуировки Holo герои"
+    },
+    {
+      "id": "dKCg4tucvf4",
+      "channel": "Bright Toys - Тойс БГ",
+      "duration": 25.0,
+      "title": "Interactive Book HoloToyz Pet Party Интерактивна книга с Augmented Reality HoloToyz Домашни любимци"
+    }
+  ]
+}

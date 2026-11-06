@@ -1,0 +1,2700 @@
+[
+  {
+    "name": "Disney Frozen 2 Elsa's Feature Vanity",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/disney-frozen-2-elsas-feature-vanity/1600381505.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TenderLeaf Toys Forest Deer Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Doolallie Flappers",
+    "price_eur": 6.99,
+    "price_text": "€6.99",
+    "retailers": [
+      {
+        "name": "Smyths / Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/soft-toys/doolallie-flappers-dog-brown/p/171931"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squeeze Poppers",
+    "price_eur": 13.0,
+    "price_text": "€13.00",
+    "retailers": [
+      {
+        "name": "Thinking Toys",
+        "url": "https://www.thinkingtoys.ie/index.php?route=product/product&product_id=400"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pets Alive Boppi the Booty Shakin' Llama",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths / Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Real Rescue Scruff-a-Luvs Rescue Pet Surprise",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths / Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price Classic Chatter Telephone",
+    "price_eur": 15.0,
+    "price_text": "€15.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/brands/mattel/fisher-price/classic-chatter-telephone/144048177.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price Music Box Teaching Clock",
+    "price_eur": 24.0,
+    "price_text": "€24.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/brands/mattel/fisher-price/music-box-teaching-clock/144048185.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price See 'n Say The Farmer Says Game",
+    "price_eur": 24.0,
+    "price_text": "€24.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/toys/ages/ages-0-3/fisher-price/see-n-say-the-farmer-says-game/144047211.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Muppets Wocka Wocka Feature Fozzie Bear",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Disney Store Grafton Street",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cabbage Patch Kids",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Ken Black/Smyths",
+        "url": "https://www.smythstoys.com/ie/en-ie/cabbage-patch-kids/cabbage-patch-kids-35cm-kids-assortment/p/165416"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Jack in the Box",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/toys/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Monopoly Cash Grab Game",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Ken Black/Smyths",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Toy Story Characters",
+    "price_eur": 19.99,
+    "price_text": "from €19.99",
+    "retailers": [
+      {
+        "name": "Disney Store Grafton Street",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant Peter Rabbit Plush",
+    "price_eur": 67.0,
+    "price_text": "€67",
+    "retailers": [
+      {
+        "name": "Marks and Spencer Ireland",
+        "url": "http://www.marksandspencer.com/ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant Teddy",
+    "price_eur": 580.0,
+    "price_text": "€580",
+    "retailers": [
+      {
+        "name": "FAO Schwarz",
+        "url": null
+      },
+      {
+        "name": "Arnotts",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dragon and Unicorn Ride On Wearable",
+    "price_eur": 34.0,
+    "price_text": "€34",
+    "retailers": [
+      {
+        "name": "Marks and Spencer Ireland",
+        "url": "https://www.marksandspencer.com/ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Narwhal Soft Toy",
+    "price_eur": 19.0,
+    "price_text": "€19",
+    "retailers": [
+      {
+        "name": "Marks and Spencer Ireland",
+        "url": "https://www.marksandspencer.com/ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nostalgia Puzzle",
+    "price_eur": 16.0,
+    "price_text": "€16",
+    "retailers": [
+      {
+        "name": "Marks and Spencer Ireland",
+        "url": "https://www.marksandspencer.com/ie/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jurassic World Chomp-n-Roar Mask Velociraptor Blue",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-chomp-n-roar-mask-velociraptor-blue-/p/165791"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Buzz Lightyear Feature Helmet",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-feature-helmet-disney-pixar-s-toy-story-4/p/170153"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Buzz Lightyear Rapid Disc Blaster",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-rapid-disc-blaster/p/170149"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Buzz Lightyear Infinity Blaster",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-4-buzz-lightyear-infinity-blaster/p/180249"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plan Toys Dentist Set",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/plan-toys-dentist-set"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "What's in the Box Challenge",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/what-s-in-the-box-challenge/p/176422"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Humpty Dumpty's Wall Game",
+    "price_eur": 9.0,
+    "price_text": "€9.00",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/great-value-toys-/humpty-dumpty-s-wall-game/p/122281"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature German Shepherd Plush",
+    "price_eur": null,
+    "price_text": "£19.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Living-Nature-Soft-Toy-Shepherd/dp/B07BVDHMFN"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Make and Move Mega Dinosaurs",
+    "price_eur": 12.5,
+    "price_text": "€12.50",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "https://shop.designist.ie/collections/kids/products/make-move-mega-dinosaurs"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plan Toys Vet Set",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "https://shop.designist.ie/collections/plan-toys/products/vet-set"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "World Series Stare Off Official Game",
+    "price_eur": null,
+    "price_text": "£13.00",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Ideal-10820-Stare-Off-Multicolour/dp/B07Z248BS7"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Smiffys Fart Whoopee Cushion",
+    "price_eur": 3.0,
+    "price_text": "€3.00",
+    "retailers": [
+      {
+        "name": "Fun Place",
+        "url": "https://www.funplace.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Various Whoopee Cushions",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Party City",
+        "url": "https://www.partycity.ie/KeywordSearch.aspx?KWSearchText=Whoopi+Cushions"
+      },
+      {
+        "name": "Fun Place",
+        "url": "https://www.funplace.ie/index.php?route=product/search&search=whoopi%20cushion"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Ultimate Fart Kit",
+    "price_eur": 9.99,
+    "price_text": "€9.99",
+    "retailers": [
+      {
+        "name": "Pigsback",
+        "url": "https://www.pigsback.com/en-ie/offer/432499/Ebeez"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gangsta Granny Mental Maths Game",
+    "price_eur": null,
+    "price_text": "£8.20",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Gangsta-Grannys-Mental-Maths-Games/dp/B07DVGS96R"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Plush Capes",
+    "price_eur": 40.0,
+    "price_text": "€40.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/toys/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Store Rex Talking Action Figure",
+    "price_eur": 25.0,
+    "price_text": "€25.00",
+    "retailers": [
+      {
+        "name": "Disney Store",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Guess Who?",
+    "price_eur": 16.0,
+    "price_text": "€16.00",
+    "retailers": [
+      {
+        "name": "Argos",
+        "url": "https://www.argos.ie/static/Product/partNumber/3904323/Trail/searchtext%3EGUESS+WHO.htm"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Atomic Power Popper 12 Shot Blaster",
+    "price_eur": null,
+    "price_text": "£16.00",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Cheatwell-Games-Atomic-Popper-Blaster/dp/B00CW9AOIK"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "IDEAL Shake Off Game",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/ideal-shake-off/1600374309.prd"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wireless Bluetooth Karaoke Microphone",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Pigsback",
+        "url": "https://www.pigsback.com/en-ie/offer/434033"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Happy Waggerz",
+    "price_eur": 20.0,
+    "price_text": "€20.00",
+    "retailers": [
+      {
+        "name": "Oxendales",
+        "url": "https://www.oxendales.ie/shop/happy-waggers-unicorn-tail-electronic/wu504/product/details/show.action?pdBoUid=1034"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "So Stylish Mansion Dollhouse with EZ Kraft Assembly",
+    "price_eur": 320.0,
+    "price_text": "€320.00",
+    "retailers": [
+      {
+        "name": "Trove",
+        "url": "https://trove.ie/product/so-stylish-mansion-dollhouse-with-ez-kraft-assembly/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lottie Dolls Assortment",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/collections/vendors?q=lottie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Sinéad Doll",
+    "price_eur": 20.0,
+    "price_text": "€20.00",
+    "retailers": [
+      {
+        "name": "Lottie",
+        "url": "https://eu.lottie.com/products/sinead-doll"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Barbie Wheelchair with Izzy Wheels Design and Doll Brunette",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dolls-range/barbie-wheelchair-and-doll-brunette/p/176988"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Food Truck",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-food-truck/p/169452"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Talita Doll",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-talita-doll/p/163952"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Frozen Doll Assortment",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Disney Store",
+        "url": "https://www.shopdisney.co.uk/search?q=frozen+dolls"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cutetitos",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/search/?text=cutitios"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant Burrito Blanket",
+    "price_eur": 14.99,
+    "price_text": "from €14.99",
+    "retailers": [
+      {
+        "name": "Pigsback",
+        "url": "https://www.pigsback.com/en-ie/offer/428726"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bubble Machine Freddy Fish",
+    "price_eur": 65.0,
+    "price_text": "€65.00",
+    "retailers": [
+      {
+        "name": "Safe Care Technologies",
+        "url": "https://www.safecaretechnologies.com/product/bubble-machine-freddy-fish/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Buddy Button",
+    "price_eur": 62.0,
+    "price_text": "€62.00",
+    "retailers": [
+      {
+        "name": "Safe Care Technologies",
+        "url": "https://www.safecaretechnologies.com/product/buddy-button/"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hatchimals WOW Llalacorn Tall Interactive Hatchiwow",
+    "price_eur": 94.99,
+    "price_text": "€94.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/hatchimals/hatchimals-colleggtibles/hatchimals-wow-llalacorn-tall-interactive-hatchiwow-assortment/p/176141"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "XOOTZ Bubble Scooter in Pink",
+    "price_eur": 45.99,
+    "price_text": "€45.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/xootz-bubble-scooter-pink/1600377776.prd"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Be Teens Knitting and Knitting Mill",
+    "price_eur": 36.0,
+    "price_text": "€36.00",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting-mill/1600424601.prd"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Great Gizmos Knitting Art",
+    "price_eur": 36.0,
+    "price_text": "€36.00",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting/1600424610.prd"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sylvanian Families Assortment",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-chocolate-rabbit-family/p/101587"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sylvanian Families Caravan",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-caravan/p/161105"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sylvanian Families Saloon Car",
+    "price_eur": 18.99,
+    "price_text": "€18.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-saloon-car/p/161103"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marmite 500 Piece Jigsaw Puzzle",
+    "price_eur": null,
+    "price_text": "£15.95",
+    "retailers": [
+      {
+        "name": "Gibsons Games",
+        "url": "https://gibsonsgames.co.uk/collections/all-puzzles/products/marmite-500-piece-jigsaw-puzzle"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kellogg's Cornflakes 500 Piece Jigsaw Puzzle",
+    "price_eur": null,
+    "price_text": "£12.00",
+    "retailers": [
+      {
+        "name": "Gibsons Games",
+        "url": "https://gibsonsgames.co.uk/products/kellogg-s-cornflakes-500-piece-jigsaw-puzzle"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pringles 250 Piece Jigsaw Puzzle",
+    "price_eur": null,
+    "price_text": "£11.00",
+    "retailers": [
+      {
+        "name": "Gibsons Games",
+        "url": "https://gibsonsgames.co.uk/products/pringles-250-piece-jigsaw-puzzle"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jigsaw Advent Calendar",
+    "price_eur": null,
+    "price_text": "£20.00",
+    "retailers": [
+      {
+        "name": "Gibsons Games",
+        "url": "https://gibsonsgames.co.uk/collections/all/products/christmas-is-coming-advent-calendar"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Personalised 100 Piece Jigsaw Puzzle",
+    "price_eur": 22.99,
+    "price_text": "€22.99",
+    "retailers": [
+      {
+        "name": "PhotoPuzzle.ie",
+        "url": "https://www.photopuzzle.ie/"
+      }
+    ],
+    "kind": "game",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Remote Control New Holland",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/other-radio-control/1-24-radio-control-new-holland-t7070/p/110088"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Claas Ares Set",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/farm-vehicles-and-accessories/claas-ares-set-with-tractor/p/144341"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Draught Set with Irish Pennies",
+    "price_eur": 100.0,
+    "price_text": "€100.00",
+    "retailers": [
+      {
+        "name": "O'Gowna",
+        "url": "https://ogowna.com/shop?olsPage=products%2Fdraughts-checkers-set-based-on-irish-pennies"
+      }
+    ],
+    "kind": "game",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Johnny Magory and the Forest Fleadh Cheoil",
+    "price_eur": 10.0,
+    "price_text": "€10.00",
+    "retailers": [
+      {
+        "name": "JohnnyMagory.com",
+        "url": "https://www.johnnymagory.com/product/johnny-magory-and-the-forest-fleadh-cheoil-pre-order-illustrated-by-don-conroy/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Red Rufus SockBear",
+    "price_eur": 40.0,
+    "price_text": "€40.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop Ireland",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Plush Anniversary Bear",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/soft-toys/fao-schwarz/plush-anniversary-bear-12-inches/141780792.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvin's Magic Lights From Anywhere",
+    "price_eur": 17.0,
+    "price_text": "€17.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/kids/toys-games/creativity/marvins-magic/lights-from-anywhere/135526587.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Malicious Magus Magic Set",
+    "price_eur": 27.99,
+    "price_text": "€27.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/malicious-magus-magic-set"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Science4You Science of Magic",
+    "price_eur": 22.99,
+    "price_text": "€22.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/science4you-science-of-magic/1600276649.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Most Marvellous Fantastical Wondrous Magic Tricks",
+    "price_eur": 34.0,
+    "price_text": "€34.00",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/the-most-fantastical-wondrous-box-of-magic-tricks/1600415123.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Buki My Magic Show",
+    "price_eur": 36.0,
+    "price_text": "€36.00",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/buki-my-magic-show/1600424598.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tumble Bee RC",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/radio-control-cars/radio-control-new-bright-tumble-bee/p/172826"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Turbo Twister",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hot Wheels Track Builder Stunt Box",
+    "price_eur": 30.0,
+    "price_text": "€30.00",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Arckit Sport Stadiums",
+    "price_eur": 299.99,
+    "price_text": "€299.99",
+    "retailers": [
+      {
+        "name": "Arckit",
+        "url": "https://arckit.com/collections/arckit-sports-collection/products/arckit-sports-twin-pack-bundle"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "LEGO City Deep Space Rocket and Launch Control Set",
+    "price_eur": 94.99,
+    "price_text": "€94.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-city/lego-60228-city-deep-space-rocket-and-launch-control-set/p/175257"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pump Up Pirate",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/pump-up-pirate/p/178335"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gooey Louie",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/board-games-at-smyths-toys-superstores/gooey-louie-game/p/130204"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Smart Ball: Kick Up Counting Football",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-equipment/smart-ball-kick-up-counting-football-with-lights-and-sounds/p/172699"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Fashion Designer Activity Set",
+    "price_eur": 40.0,
+    "price_text": "€40.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/creativity/fao-schwarz/fashion-plates-designer-set/141781138.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Bracelet Making Kit",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/toys/creativity/fao-schwarz/jewellery-kit-with-carrying-case/141784961.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Scrapbooking and Cards Kit",
+    "price_eur": 9.0,
+    "price_text": "€9.00",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/arts/scrapbooking-and-cards-kit/p/106423"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fuji Instax Mini 9",
+    "price_eur": 89.0,
+    "price_text": "€89.00",
+    "retailers": [
+      {
+        "name": "Currys/PC World",
+        "url": "https://www.currys.ie/ieen/cameras-and-camcorders/digital-cameras/compact-and-bridge-cameras/instax-mini-9-instant-camera-ice-blue-10162808-pdt.html"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Creatable World Dolls Assortment",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/creatable-world/c/SM06010445"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Owleez",
+    "price_eur": 46.99,
+    "price_text": "€46.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets/owleez-pink/p/176138"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO 75954 Harry Potter Hogwarts Great Hall",
+    "price_eur": 94.99,
+    "price_text": "€94.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-harry-potter/lego-75954-harry-potter-hogwarts-great-hall-toy/p/166906"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO 75957 Harry Potter The Knight Bus",
+    "price_eur": 33.99,
+    "price_text": "€33.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/harry-potter/lego-harry-potter-sets/lego-75957-harry-potter-the-knight-bus-toy/p/176253"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Toniebox Starter Set",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": null
+      },
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": null
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Audio Character for Toniebox: The Gruffalo",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/tonieboxes-starter-set-red"
+      },
+      {
+        "name": "Arnotts",
+        "url": null
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Audio Character for Toniebox: The Lion King",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-lion-king"
+      },
+      {
+        "name": "Arnotts",
+        "url": null
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Audio Character for Toniebox: The Snowman",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/audio-character-for-toniebox-the-snowman"
+      },
+      {
+        "name": "Arnotts",
+        "url": null
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Paint Your Own Russian Dolls",
+    "price_eur": 9.0,
+    "price_text": "€9.00",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/art-sets/paint-your-own-russian-dolls/p/174229"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Shimmer n' Sparkle Make Your Own Sequin Pillow Cupcake",
+    "price_eur": 9.0,
+    "price_text": "€9.00",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/fashion-craft/shimmer-n-sparkle-make-your-own-sequin-pillow-cupcake/p/175511002"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "School of Rock Musical",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "School of Rock Musical",
+        "url": "https://uk.schoolofrockthemusical.com/"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": false
+  },
+  {
+    "name": "Harry Potter Studio Tour",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Warner Bros. Studio Tour",
+        "url": "https://www.wbstudiotour.co.uk/"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": false
+  },
+  {
+    "name": "Logitech G920 Driving Force Wheel",
+    "price_eur": 299.99,
+    "price_text": "€299.99",
+    "retailers": [
+      {
+        "name": "Currys/PC World",
+        "url": "https://www.currys.ie/ieen/computing-accessories/computer-accessories/game-controllers-and-joysticks/logitech-driving-force-g920-xbox-one-pc-racing-wheel-pedals-black-10136487-pdt.html"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Xbox One S",
+    "price_eur": 299.99,
+    "price_text": "€299.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/xbox-one/xbox-one-consoles/xbox-one-s-1tb-forza-horizon-4-and-lego-speed-champions-bundle/p/181254"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Forza Horizon 4",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/forza-horizon-4-video-game/forza-horizon-4-xbox-one/p/168554"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lights and Sounds Buggy Driver",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Mothercare",
+        "url": "https://www.mothercare.ie/lights-and-sounds-buggy-driver-red-2.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nintendo Switch",
+    "price_eur": 329.99,
+    "price_text": "€329.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/nintendo-gaming/nintendo-switch/nintendo-switch-consoles/nintendo-switch-grey-improved-battery-/p/182023"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon: Let's Go Pikachu (Nintendo Switch)",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/pokemon-gaming/pok%c3%a9mon-let-s-go-pikachu-nintendo-switch/p/168351"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Arcade1Up PAC-MAN Cabinet Including Riser",
+    "price_eur": 399.99,
+    "price_text": "€399.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/retro-gaming/arcade1up-pac-man-cabinet-including-riser/p/174310"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon 32cm Detective Pikachu Feature Plush",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%c3%a9mon-32cm-detective-pikachu-feature-plush/p/172696"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon Clip 'N' Go Poké Ball Pikachu",
+    "price_eur": 10.99,
+    "price_text": "€10.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%c3%a9mon-clip-n-go-pokeball-pikachu/p/170863011"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon Power Action Pikachu",
+    "price_eur": 27.99,
+    "price_text": "€27.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/pokemon-power-action-pikachu/1600269592.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pikachu Plush Assortment",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/search/?text=pikachu"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon Trainer Guess All-Star Edition Hoenn",
+    "price_eur": 23.99,
+    "price_text": "€23.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/pokemon-pokemon-trainer-guess-all-star-edition-hoenn/1600379722.prd"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokémon Clip N Go Poké Ball Belt Set",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/pokemon-clip-n-go-poke-ball-belt-set/1600379716.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mercedes Benz Actros Heavy Truck",
+    "price_eur": 399.99,
+    "price_text": "€399.99",
+    "retailers": [
+      {
+        "name": "Fun Stuff",
+        "url": "https://www.funstuff.ie/licensed-mercedes-benz-actros-heavy-truck-12v-kids-ride-on-artic-black/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Princess Royal Horse and Carriage Electric Ride On",
+    "price_eur": 229.99,
+    "price_text": "€229.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/6v-disney-princess-royal-horse-and-carriage-electric-ride-on/p/176180"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "12 Inch Scrambler Bike",
+    "price_eur": 109.99,
+    "price_text": "€109.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/bikes/12-bikes-3-5yrs-/12-inch-scrambler-bike/p/143466"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "12V Land Rover Defender SVX Ride-On",
+    "price_eur": 259.99,
+    "price_text": "€259.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/12v-land-rover-defender-svx-ride-on/p/178433"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Black and White Rally Go-Kart",
+    "price_eur": 99.99,
+    "price_text": "€99.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/go-karts/black-and-white-rally-go-kart/p/173453"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "12V Ride On Remote Control Fire Engine / Truck Toy Car With EVA Rubber Wheels And Accessories",
+    "price_eur": 249.95,
+    "price_text": "€249.95",
+    "retailers": [
+      {
+        "name": "Fun Stuff",
+        "url": "https://www.funstuff.ie/12v-ride-on-remote-control-fire-engine-truck-toy-car-with-eva-rubber-wheels-and-accessories/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "G-Start Electric Scooter Pink/Black",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/g-start-electric-scooter-pink-black/p/176264"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sporter 2 Pink Scooter",
+    "price_eur": 69.99,
+    "price_text": "€69.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/sporter-scooters/sporter-2-pink-scooter/p/146731"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Tikes VIRO Rides VEGA Green",
+    "price_eur": 329.99,
+    "price_text": "€329.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/little-tikes-viro-rides-vega-green/p/176325"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Adapted MX Trike",
+    "price_eur": 795.0,
+    "price_text": "€795.00",
+    "retailers": [
+      {
+        "name": "Ability Ireland",
+        "url": "https://www.abilityireland.com/cycling"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Razor Drift Rider",
+    "price_eur": 269.99,
+    "price_text": "€269.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pro Monster Hoverkart (not including hoverboard)",
+    "price_eur": 80.0,
+    "price_text": "€80.00",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "24 Inch Team GX-24 Bike Pink",
+    "price_eur": 169.99,
+    "price_text": "€169.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/24-bikes-10-13yrs-/24-inch-team-gx-24-bike-pink/p/158343"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "26 Inch Team MX-26",
+    "price_eur": 179.99,
+    "price_text": "€179.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/26-bikes-12%2Byrs-/26-inch-team-mx-26/p/165967"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Scania Ride On Truck",
+    "price_eur": null,
+    "price_text": "price on request",
+    "retailers": [
+      {
+        "name": "Scaled Rigs",
+        "url": null
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "How Will Santa Find Us",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/How-Will-Santa-Find-Us-FS-HB-en-us.aspx"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Julian is a Mermaid",
+    "price_eur": 15.0,
+    "price_text": "€15.00",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/julian-is-a-mermaid-jessica-love-9781406386424"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My First Book of Birds",
+    "price_eur": 18.5,
+    "price_text": "€18.50",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/my-first-book-of-birds-zoe-ingram-9781406386790"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Beast Feast",
+    "price_eur": 14.95,
+    "price_text": "€14.95",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/Beast-Feast_9781406386639"
+      },
+      {
+        "name": "Easons",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Brian Ború: Warrior King",
+    "price_eur": 10.0,
+    "price_text": "€10.00",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/Brian-Boru-Warrior-King_9780717184569"
+      },
+      {
+        "name": "Easons",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Beast of Buckingham Palace",
+    "price_eur": 18.2,
+    "price_text": "€18.20",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/beast-of-buckingham-palace-TPB-en-us.aspx"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "David Walliams Books as Gaeilge",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Futa Fata",
+        "url": "http://www.futafata.ie/David-Walliams-as%20Gaeilge"
+      },
+      {
+        "name": "Easons",
+        "url": null
+      },
+      {
+        "name": "Dubray Books",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Hazard Farm with Billy and Lilly",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Little Red Design Studio",
+        "url": "https://littlereddesignstudio.com/products/hazard-farm-childrens-book"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Madame Badobedah",
+    "price_eur": 17.0,
+    "price_text": "€17.00",
+    "retailers": [
+      {
+        "name": "Tales for Tadpoles",
+        "url": "https://talesfortadpoles.ie/products/sophie-dahl-madame-badobedah-illustrated-by-lauren-ohara"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Snow Queen",
+    "price_eur": 10.5,
+    "price_text": "€10.50",
+    "retailers": [
+      {
+        "name": "Tales for Tadpoles",
+        "url": "https://talesfortadpoles.ie/products/hans-christian-andersen-the-snow-queen-illustrated-by-p-j-lynch"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Tiny and Teeny",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/tiny-and-teeny-chris-judge-9781406370928"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Reindeer Down",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/reindeer-down-natasha-mac-abhaird-9781788490993"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "DK Eyewitness Books: Crystal & Gem",
+    "price_eur": 10.5,
+    "price_text": "€10.50",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.bookdepository.com/DK-Eyewitness-Books-Crystal-Gem-Dr-R-F-Symes/9781465420527"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Armstrong, The Adventurous Journey of a Mouse to the Moon",
+    "price_eur": 17.0,
+    "price_text": "€17.00",
+    "retailers": [
+      {
+        "name": "Tales for Tadpoles",
+        "url": "https://talesfortadpoles.ie/products/toben-kuhlmann-armstrong-the-adventurous-journey-of-a-mouse-to-the-moon"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Planet",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/our-planet-alastair-fothergill-9780593079768"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Glengowla Mines",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Glengowla Mines",
+        "url": "http://www.glengowlamines.ie/"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "Peacockes Hotel",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Peacockes Hotel",
+        "url": "https://www.peacockes.ie/home/about-us"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "In Quest of Adventure: 25 Things to do Before You're 12",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "In Quest of Adventure",
+        "url": "https://inquestofadventure.ie/product/in-quest-of-adventure/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Scunc agus Smuirín",
+    "price_eur": 10.95,
+    "price_text": "€10.95",
+    "retailers": [
+      {
+        "name": "Futa Fata",
+        "url": "http://www.futafata.ie/Scunc-agus-smuirin-muireann-ni-chiobhain-paddy-donnelly"
+      },
+      {
+        "name": "Easons",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Dineasáir Scanrúla",
+    "price_eur": 7.95,
+    "price_text": "€7.95",
+    "retailers": [
+      {
+        "name": "Futa Fata",
+        "url": "http://www.futafata.ie/"
+      },
+      {
+        "name": "Easons",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Weird but True!",
+    "price_eur": 7.0,
+    "price_text": "€7.00",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/weird-but-true-5-national-geographic-kids-9781426311246"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sharon Shannon",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Sharon Shannon",
+        "url": "http://sharonshannon.com/tour/"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "Toffee",
+    "price_eur": 18.2,
+    "price_text": "€18.20",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/toffee-sarah-crossan-9781408868126"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Women",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/little-women-louisa-may-alcott-9780008195540"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Shooting for the Stars",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/shooting-for-the-stars-norah-patten-9781788491006"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Alice in Wonderland",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/Search?q=alice%20in%20wonderland"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plastic Sucks",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/plastic-sucks-dougie-poynter-9781529019377"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Junko - Zoomer Kit!",
+    "price_eur": 46.99,
+    "price_text": "€46.99",
+    "retailers": [
+      {
+        "name": "Jiminy",
+        "url": "https://jiminy.ie/products/junko-make-working-cars-boats-buildings-from-junk?variant=29500590620733"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Engino STEM Heroes Greenhouse",
+    "price_eur": 74.99,
+    "price_text": "€74.99",
+    "retailers": [
+      {
+        "name": "Smyths/Ken Black",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/engineering/engino-stem-heroes-greenhouse/p/177413"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Great Gizmos STEAM Powered Kids Weather Station",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/great-gizmos-steam-powered-kids-weather-station/1600381904.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Coco d'en Haut Silhouette Theatre-to-go: Tales of the Wolves",
+    "price_eur": 46.99,
+    "price_text": "€46.99",
+    "retailers": [
+      {
+        "name": "Jiminy",
+        "url": "https://jiminy.ie/products/coco-den-haut-silhouette-theatre-to-go-tales-of-the-wolves"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Thirsty Plant Kit",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Tech Will Save Us",
+        "url": "https://www.techwillsaveus.com/shop/solar-plant-kit/"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Binabo 240 Chip Multicoloured Set",
+    "price_eur": 99.99,
+    "price_text": "€99.99",
+    "retailers": [
+      {
+        "name": "Jiminy",
+        "url": "https://jiminy.ie/products/binabo-flexible-construction-strips-made-of-wood-and-sugar?variant=27087716876388"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "UGears Wooden Models",
+    "price_eur": 49.9,
+    "price_text": "€49.90",
+    "retailers": [
+      {
+        "name": "UGears",
+        "url": "https://ugearsmodels.com/roadster.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Castle Blocks 75 Pieces",
+    "price_eur": 23.0,
+    "price_text": "€23.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/construction-cars/fao-schwarz/solid-wood-castle-blocks-75-pieces/141781146.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Biodegradable Glitter",
+    "price_eur": 2.5,
+    "price_text": "€2.50",
+    "retailers": [
+      {
+        "name": "Penneys",
+        "url": "https://www.primark.com/en/categories/beauty/make-up/cosmetics/skin/biodegradable-glitter/p/124484989"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Charity Shop Challenge",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "St Vincent de Paul",
+        "url": null
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "National Geographic Telescope",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "ALDI Ireland",
+        "url": "https://www.aldi.ie/national-geographic-telescope/p/022012311129800"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ravensburger 3D Puzzle 8 Planets",
+    "price_eur": 54.99,
+    "price_text": "€54.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/collections/vendors?q=ravensburger"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Brainstorm See The World Through Others Eyes",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/brainstorm-see-the-world-through-others-eyes/1600381949.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Great Irish Science Book",
+    "price_eur": 32.5,
+    "price_text": "€32.50",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/the-great-irish-science-book-luke-a-j-oneill-9780717185580"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Discovery LED Digital Metal Detector",
+    "price_eur": 23.99,
+    "price_text": "€23.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "https://www.littlewoodsireland.ie/discovery-led-digital-metal-detector/1600377892.prd"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvin's Magic: Magic Snow",
+    "price_eur": 22.0,
+    "price_text": "€22.00",
+    "retailers": [
+      {
+        "name": "Arnotts/FAO Schwarz",
+        "url": "https://www.arnotts.ie/kids/toys-games/creativity/marvins-magic/magic-snow/143335879.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "In-A-Bubble Kit",
+    "price_eur": 147.58,
+    "price_text": "€147.58",
+    "retailers": [
+      {
+        "name": "Dr. Zigs",
+        "url": "https://drzigs.com/products/in-a-bubble-kib"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Planetarium",
+    "price_eur": 28.0,
+    "price_text": "€28.00",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/planetarium-raman-prinja-9781787411579"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "She Can Colouring Book",
+    "price_eur": 7.99,
+    "price_text": "€7.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/5637150827/all/books/childrens/childrens-activity/sticker--activity/she-can-the-colouring-book-for-tomorrows-sports-fans-pb/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Sports Equipment",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mick Dowling Sportsworld",
+        "url": null
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": false
+  },
+  {
+    "name": "Sensory Toys",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Thinking Toys",
+        "url": "http://thinkingtoys.ie"
+      },
+      {
+        "name": "XYZ",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sensory Fibre Optics",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Safe Care Technologies",
+        "url": "https://www.safecaretechnologies.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Kitchen",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Trove",
+        "url": "https://trove.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TenderLeaf Toys Cosmic Rocket Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plan Toys Make Up Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TenderLeaf Toys Cottontail Cottage",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TenderLeaf Toys Forest Table",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Concept Rocking Mammoth",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "RunBike",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Ro Óg",
+        "url": "https://www.roogltd.com/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Houten Poppen Buggy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Kid Store",
+        "url": "https://kidstore.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Dutch Knuffelpop Jim",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Kid Store",
+        "url": "https://kidstore.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TryBike in Red",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Kid Store",
+        "url": "https://kidstore.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Retro Airplane",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bygge Bo",
+        "url": "https://byggebo.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Dutch Houten Loopscooter",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Kid Store",
+        "url": "https://kidstore.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Toy Ride On Roadster",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "FAO Schwarz at Arnotts",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  }
+]

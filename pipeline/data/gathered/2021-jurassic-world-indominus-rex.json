@@ -1,0 +1,54 @@
+{
+  "id": "2021-jurassic-world-indominus-rex",
+  "year": 2021,
+  "name": "Jurassic World Indominus Rex",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Jurassic-World-DESTROY-DEVOUR-INDOMINUS/dp/B07R5QRKFJ"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Jurassic-World-DESTROY-DEVOUR-INDOMINUS/dp/B07R5QRKFJ"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uJsXpwtMANw",
+      "channel": "Screen Bites",
+      "duration": 241.0,
+      "title": "Indominus Rex vs Park Security! | Jurassic World (2015) | Screen Bites"
+    },
+    {
+      "id": "cS3VFibNvlc",
+      "channel": "Science Fiction Station",
+      "duration": 622.0,
+      "title": "Best Indominus Rex Scenes In Jurassic World | Science Fiction Station"
+    },
+    {
+      "id": "FtCslvCjZEY",
+      "channel": "Jurassic World",
+      "duration": 517.0,
+      "title": "Final Battle Scene | Jurassic World"
+    },
+    {
+      "id": "8tmhX6RFXt0",
+      "channel": "Action Picks",
+      "duration": 475.0,
+      "title": "The Indominus Rex Escapes (Full Scene) | Jurassic World"
+    },
+    {
+      "id": "eB3zX7itPNg",
+      "channel": "Screen Bites - Sci-Fi",
+      "duration": 555.0,
+      "title": "Jurassic World: Indominus Rex's Grand Reveal! | Screen Bites Sci Fi"
+    }
+  ]
+}

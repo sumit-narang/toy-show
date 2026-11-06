@@ -1,0 +1,54 @@
+{
+  "id": "2021-barbie-dreamtopia-rainbow-magic-mermaid-colour-change-doll",
+  "year": 2021,
+  "name": "Barbie Dreamtopia Rainbow Magic Mermaid Colour Change Doll",
+  "price_eur": 15.51,
+  "price_text": "€15.51",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/barbie/dreamtopia-rainbow-magic-mermaid-colour-change-doll/151866590.html?cgid=root#q=barbie&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/barbie/151866590.html?cgid=root#q=barbie&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dpzTTP-9YUw",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie™ Dreamtopia Rainbow Magic™ Mermaid"
+    },
+    {
+      "id": "7VyOYE8AcJM",
+      "channel": "Hippoland AD",
+      "duration": 12.0,
+      "title": "Barbie™ Dreamtopia Rainbow Magic™ Русалка с променящ се цвят от ХИПОЛЕНД!"
+    },
+    {
+      "id": "mgxESYFPl4M",
+      "channel": "Marina The 90s Barbie",
+      "duration": 929.0,
+      "title": "🌈 BARBIE DREAMTOPIA RAIBOW MAGIC MERMAID 2021 - UNBOXING/ REVIEW *Color Change Magic* 🌈"
+    },
+    {
+      "id": "J8fiJI9bluU",
+      "channel": "Barbination",
+      "duration": 1117.0,
+      "title": "Barbie Magical Girl Make-Over! 🌈🎀🍭 Ft. Dreamtopia Rainbow Magic Mermaid"
+    },
+    {
+      "id": "o2v-Ftgzq7o",
+      "channel": "TTPM Toy Reviews",
+      "duration": 130.0,
+      "title": "Barbie Dreamtopia Color Magic Mermaid and  Sparkle Lights Mermaid from Mattel"
+    }
+  ]
+}

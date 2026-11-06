@@ -1,0 +1,54 @@
+{
+  "id": "2023-dragon-ball-goku-yellow-hair-plush-figure",
+  "year": 2023,
+  "name": "Dragon Ball Goku Yellow Hair Plush Figure",
+  "price_eur": 11.69,
+  "price_text": "€11.69",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DcYj8MeOoHM",
+      "channel": "Mr. Figure Nerd",
+      "duration": 233.0,
+      "title": "Tamashi Effect Energy Aura (Yellow Version) PT PT ENG SUB"
+    },
+    {
+      "id": "LZx9kNAe05Y",
+      "channel": "VASCO Toys",
+      "duration": 650.0,
+      "title": "Figures Have Come A LONG Way Since 1999"
+    },
+    {
+      "id": "pdnxXOMvIXM",
+      "channel": "KnowBuddy",
+      "duration": 249.0,
+      "title": "Better in Gold? DKO Super Saiyan 2 Goku Hair and Head Sculpt Review "
+    },
+    {
+      "id": "5UpT_YztBB4",
+      "channel": "Attila Puskás",
+      "duration": 33.0,
+      "title": "Gearbest.com Animation Character Yellow Hair Wukong Model for Decoration"
+    },
+    {
+      "id": "O2_H12uIHhA",
+      "channel": "Dstar01",
+      "duration": 1046.0,
+      "title": "Unboxing: Kong Super Saiyan 2 Hair Sets (Yellow, Gold, Rose) for S.H. Figuarts Goku"
+    }
+  ]
+}

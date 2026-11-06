@@ -1,0 +1,57 @@
+{
+  "id": "2022-oxford-deluxe-titanic-construction-set",
+  "year": 2022,
+  "name": "Oxford Deluxe Titanic Construction Set",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/construction-bricks-sets/oxford-deluxe-titanic-construction-set/p/144392"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/construction-bricks-sets/oxford-deluxe-titanic-construction-set/p/144392",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5d2BLXEU9n4",
+      "channel": "HAMYVALUTECHREVU",
+      "duration": 392.0,
+      "title": "Oxford Bricks BM 3522 Titanic brick set"
+    },
+    {
+      "id": "Qqky1xd2Ekk",
+      "channel": "leokimvideo",
+      "duration": 899.0,
+      "title": "Titanic BM3522 Oxford Brick Toy $278 Online $69 At Art N Craft Shop Westfield Hornsby!"
+    },
+    {
+      "id": "Pn7MyW3vYzU",
+      "channel": "Simon's Reviews",
+      "duration": 67.0,
+      "title": "Oxford Titanic Lego Style Building Set Review!"
+    },
+    {
+      "id": "kw0_wbl8TlI",
+      "channel": "Dr Jake's Very British Reviews",
+      "duration": 536.0,
+      "title": "Sinking of the Oxford Titanic & Review of Oxford Deluxe Titanic"
+    },
+    {
+      "id": "muQl3DhrB3s",
+      "channel": "Smyths Toys France",
+      "duration": 286.0,
+      "title": "L'Ensemble de Construction Titanic de Build-It est chez Smyths Toys !"
+    }
+  ]
+}

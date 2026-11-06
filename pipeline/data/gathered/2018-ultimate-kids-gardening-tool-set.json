@@ -1,0 +1,57 @@
+{
+  "id": "2018-ultimate-kids-gardening-tool-set",
+  "year": 2018,
+  "name": "Ultimate Kids Gardening Tool Set",
+  "price_eur": 65.99,
+  "price_text": "€65.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DPibgylK3LI",
+      "channel": "Worth the Hype with Kate",
+      "duration": 199.0,
+      "title": "JustForKids Garden Tool Set Toy Review for Kids: Is it Worth the Hype?"
+    },
+    {
+      "id": "dkOODyW8-EI",
+      "channel": "Harrison Duke",
+      "duration": 625.0,
+      "title": "GARDENING TOOLS FOR KIDS! Spring Planting with handy kids tool set! Shovel, rake, hoe and more"
+    },
+    {
+      "id": "tKDvv9c-ASc",
+      "channel": "Jardineer",
+      "duration": 200.0,
+      "title": "Perfect kids gardening tool set gift"
+    },
+    {
+      "id": "g1l4sioOCxE",
+      "channel": "Turner Trendy Treasures | Marc & Kiana  ",
+      "duration": 304.0,
+      "title": "Best Kids Toy Garden Tool Set: MUZREES 3-IN-1 Power Tools Review"
+    },
+    {
+      "id": "xabCz4Lvz68",
+      "channel": "The Toy Verdict",
+      "duration": 9.0,
+      "title": "Review Dutywand Kids Gardening Tools Set with Wheelbarrow, Wooden & Metal Outdoor Gardening Toys for"
+    }
+  ]
+}

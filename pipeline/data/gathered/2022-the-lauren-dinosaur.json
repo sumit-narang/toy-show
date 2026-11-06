@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-lauren-dinosaur",
+  "year": 2022,
+  "name": "The Lauren Dinosaur",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "82ooOpJLzr8",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 184.0,
+      "title": "We Are The Dinosaurs 🦕 Best Kids Dinosaur Song by The Laurie Berkner Band (20th Year Edition)"
+    },
+    {
+      "id": "FCOfZQESgzs",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 3859.0,
+      "title": "1 hr: \"We Are The Dinosaurs,\" \"The Goldfish,\" \"Rockesthip Run,\" and other Greatest Hits! 🦖"
+    },
+    {
+      "id": "Fog90g1WC_g",
+      "channel": "LaurenZside",
+      "duration": 602.0,
+      "title": "Trying to Ride a Kids Dinosaur Pool Float for 10 Minutes Straight"
+    },
+    {
+      "id": "JTUY1ZNzNHc",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 2187.0,
+      "title": "35 mins - \"We Are The Dinosaurs\" \"Victor Vito\" and Other Laurie Berkner Greatest Hits!"
+    },
+    {
+      "id": "LTK23Ckx9O8",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 1330.0,
+      "title": "22 mins - \"We Are The Dinosaurs\" | Dinosaur Songs for Kids | Dance Remix | 🦖"
+    }
+  ]
+}

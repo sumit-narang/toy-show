@@ -1,0 +1,57 @@
+{
+  "id": "2018-elsa-classic-doll",
+  "year": 2018,
+  "name": "Elsa Classic Doll",
+  "price_eur": 16.0,
+  "price_text": "€16.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dbNdlpFjS1o",
+      "channel": "Chatabooo - Albums, Dolls and Toys Unboxing",
+      "duration": 382.0,
+      "title": "Disney Store Frozen Elsa Classic Doll Unboxing and Reviewing | Frozen Toys and Dolls | Review"
+    },
+    {
+      "id": "mSQF0xzAgL4",
+      "channel": "Enchanted Dill ♥️ Disney Dolls and More",
+      "duration": 1139.0,
+      "title": "Elsa- Frozen 1 Disney Story Doll Review and Unboxing ❄️☃️"
+    },
+    {
+      "id": "5oqteFUQEAA",
+      "channel": "Chad Marvelous",
+      "duration": 558.0,
+      "title": "Elsa Doll Review in Fantasyland at Disneyland | #Unboxing"
+    },
+    {
+      "id": "IUNQjPLybFU",
+      "channel": "Poképuff",
+      "duration": 550.0,
+      "title": "Elsa and Anna Classic Doll Unboxing and Honest Review! #disney #disneyfrozen #frozen #disney100"
+    },
+    {
+      "id": "Bq1_eBFLiI8",
+      "channel": "Chaymie Creates",
+      "duration": 563.0,
+      "title": "Anna and Elsa Classic Dolls Review | Frozen - DISNEY STORE"
+    }
+  ]
+}

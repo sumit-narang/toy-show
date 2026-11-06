@@ -1,0 +1,44 @@
+{
+  "id": "2022-little-people-big-dreams-frida-kahlo-maria-isabel-s-nchez-vegara",
+  "year": 2022,
+  "name": "Little People, Big Dreams: Frida Kahlo - Maria Isabel Sánchez Vegara",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "_fneUNgrxrE",
+      "channel": "Reading with Ms. Cherie",
+      "duration": 255.0,
+      "title": "Little People, BIG DREAMS: Frida Kahlo"
+    },
+    {
+      "id": "D0Igaq3J0mI",
+      "channel": "Moon Lane TV",
+      "duration": 221.0,
+      "title": "Little People, BIG DREAMS: Maria Isabel Sánchez Vegara reads her book ‘Frida Kahlo’ (age: 4+)"
+    },
+    {
+      "id": "wZtbh46iAV8",
+      "channel": "Books For Kids read aloud by Flying Dragons (Books Read Aloud for Kids)",
+      "duration": 229.0,
+      "title": "Little People Big Dreams - Frida Kahlo by Isabel Vegara | Books Read Aloud for Children | Audiobooks"
+    },
+    {
+      "id": "TE5VVo-x344",
+      "channel": "Easy English with miss Umeda",
+      "duration": 126.0,
+      "title": "Little people, BIG DREAMS: Frida Kahlo by Isabel Sánchez Vegara (Read Aloud) #storytime"
+    },
+    {
+      "id": "XDaTvQLmDXQ",
+      "channel": "WVIA",
+      "duration": 322.0,
+      "title": "Little People, Big Dreams - Frida Kahlo by Maria Isabel Sanchez Vegara"
+    }
+  ]
+}

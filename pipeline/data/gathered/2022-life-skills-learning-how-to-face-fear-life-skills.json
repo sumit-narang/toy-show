@@ -1,0 +1,54 @@
+{
+  "id": "2022-life-skills-learning-how-to-face-fear-life-skills",
+  "year": 2022,
+  "name": "Life Skills - Learning How to Face Fear Life Skills",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-qZdEo6HqZc",
+      "channel": "Shobha Misra Communication And Personality Development",
+      "duration": 306.0,
+      "title": "Lessons on Life Skills - How to face fear"
+    },
+    {
+      "id": "xOC0dHy9YmQ",
+      "channel": "Digital Teacher",
+      "duration": 111.0,
+      "title": "Facing Fears | Life Skills | Digital Teacher | #fear #facingfears #fearless #education #skills"
+    },
+    {
+      "id": "WyOhZreZBpE",
+      "channel": "Grow & Improve",
+      "duration": 430.0,
+      "title": "How To Face Your Fear | A Life Changing Motivational Story In English | Grow & Improve"
+    },
+    {
+      "id": "c4ytsdNN7NU",
+      "channel": "English Therapy",
+      "duration": 487.0,
+      "title": "How English Therapy Helped Her Overcome Fear & Get Placed | Rakesh Avunuri"
+    },
+    {
+      "id": "_830gZfhHQY",
+      "channel": "The English Stories Hub",
+      "duration": 255.0,
+      "title": "How to Overcome Fear & Make New Friends (Animated Guide for Kids)"
+    }
+  ]
+}

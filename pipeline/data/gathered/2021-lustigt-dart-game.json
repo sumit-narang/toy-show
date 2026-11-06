@@ -1,0 +1,57 @@
+{
+  "id": "2021-lustigt-dart-game",
+  "year": 2021,
+  "name": "LUSTIGT Dart Game",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/p/lustigt-dart-game-90385362/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/cat/lustigt-series-60752/",
+      "title": "LUSTIGT Series",
+      "description": "Discover our LUSTIGT series of educational toys and games for creative play. The series include puzzles, activities and fun games for the whole family. Shop online and in store today.",
+      "image": "https://www.ikea.com/global/assets/range-categorisation/images/lustigt-series-60752.jpeg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mndEAk7y_Dk",
+      "channel": "D3DIdeal",
+      "duration": 30.0,
+      "title": "LUSTIGT Dart game | 3DArt | 3DModel"
+    },
+    {
+      "id": "MlfCfj-ZQco",
+      "channel": "Check It Out",
+      "duration": 70.0,
+      "title": "IKEA Lustigi Tag Game"
+    },
+    {
+      "id": "JU0Y6WhQRdw",
+      "channel": "Familia Lugtu (Zara Zaint Zania & Zavian)",
+      "duration": 146.0,
+      "title": "IKEA LUSTIGT (PRIZE WHEEL GAME FOR KIDS)"
+    },
+    {
+      "id": "uVlQ1HegL_w",
+      "channel": "IKEA Australia",
+      "duration": 23.0,
+      "title": "LUSTIG limited edition collection | IKEA Australia"
+    },
+    {
+      "id": "HPGa-vUQ2mc",
+      "channel": "Life with the Peill's",
+      "duration": 1099.0,
+      "title": "How to Hack an IKEA spinning Wheel game/ Lustigt spinning Wheel game hack/ Over coming a hack fail"
+    }
+  ]
+}

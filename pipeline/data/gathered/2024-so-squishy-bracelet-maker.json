@@ -1,0 +1,57 @@
+{
+  "id": "2024-so-squishy-bracelet-maker",
+  "year": 2024,
+  "name": "So Squishy Bracelet Maker",
+  "price_eur": 27.99,
+  "price_text": "€27.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/so-squishy-squish-n-style-jewellery-studio/p/239222"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/so-squishy-squish-n-style-jewellery-studio/p/239222",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JE0IES4cmLc",
+      "channel": "johnadamstoys",
+      "duration": 61.0,
+      "title": "So Squishy Style Studio - How To Video"
+    },
+    {
+      "id": "8vgyUSNL6jA",
+      "channel": "Ambi C ",
+      "duration": 268.0,
+      "title": "Jewellery Making Kit Unboxing | Friendship Bracelets"
+    },
+    {
+      "id": "_ZprKayPXUc",
+      "channel": "Dreamy Glow Studio",
+      "duration": 1712.0,
+      "title": "ANN WILLIAMS CRAFT BOX BRACELET Maker & More!! WE LOVE IT!!! SO MUCH FUN & EASY!"
+    },
+    {
+      "id": "NkABXj1xinI",
+      "channel": "Anna Altamirano",
+      "duration": 875.0,
+      "title": "Testing VIRAL TikTok Taba Squishy Hacks! (DIY Taba squishy tutorial)"
+    },
+    {
+      "id": "Ld2KbzSWLSw",
+      "channel": "Squishin' Squishies",
+      "duration": 716.0,
+      "title": "SQUISHIES AT 7 ELEVEN!? PLUS AWESOME BRACELETS, DOG LEASH, ETC!"
+    }
+  ]
+}

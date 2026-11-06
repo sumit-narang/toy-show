@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-toy-pony-razzle",
+  "year": 2023,
+  "name": "LeMieux Mini Toy Pony Razzle",
+  "price_eur": 59.95,
+  "price_text": "€59.95",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-Toy-Pony-Razzle/22E3?stock=96412"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Razzle/22E3?stock=96412",
+      "title": "Toy Pony - Razzle",
+      "description": "Toy Pony - Razzle\n\n \n\nRazzle is a gorgeous black and white piebald pony with fluffy feathers and a plaitable mane and tail. His coat is super soft...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/XFO/1000/1000/IT03106producttoyponypiebald1.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aostyVB7ipQ",
+      "channel": "Phoebe and The Wildcard Ponies",
+      "duration": 1444.0,
+      "title": "Phoebe and Florence unbox the NEW LeMieux Toy Ponies! Razzle & Dazzle!"
+    },
+    {
+      "id": "6UXmmyjFKYE",
+      "channel": "AliyahViolet",
+      "duration": 690.0,
+      "title": "MY LEMIEUX TOY PONY COLLECTION UPDATE"
+    },
+    {
+      "id": "Oo9wViDSdcA",
+      "channel": "Harper’s Equestrian Life",
+      "duration": 619.0,
+      "title": "🌟 NEW Mini LeMieux Toy Pony Arrives! 🚛🐴 | Name Reveal & Pony Fun! 🌟"
+    },
+    {
+      "id": "GUzKgJLijSE",
+      "channel": "Harper’s Equestrian Life",
+      "duration": 595.0,
+      "title": "INSANE Toy Pony HACK🍫 MINI LEMIEUX TOY PONY!"
+    },
+    {
+      "id": "JsfhFdGxKJk",
+      "channel": "Kids Crafts and Pony Adventures",
+      "duration": 45.0,
+      "title": "This or That Lemieux Toy Pony Edition 🐴"
+    }
+  ]
+}

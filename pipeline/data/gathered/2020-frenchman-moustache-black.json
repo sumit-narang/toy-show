@@ -1,0 +1,54 @@
+{
+  "id": "2020-frenchman-moustache-black",
+  "year": 2020,
+  "name": "Frenchman Moustache, Black",
+  "price_eur": 8.0,
+  "price_text": "€8",
+  "retailers": [
+    {
+      "name": "Fancy Dress Party Store.ie",
+      "url": "https://www.fancydressstore.ie/p/frenchman-moustache-black/33403"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QSo0duY7-9s",
+      "channel": "hamnoj",
+      "duration": 130.0,
+      "title": "Monty Python and the Holy Grail - The Insulting Frenchman"
+    },
+    {
+      "id": "m_hBxdD7-OI",
+      "channel": "Sekkyo",
+      "duration": 46.0,
+      "title": "SeaLab 2021 Stormy's Casual Racism"
+    },
+    {
+      "id": "CVg-hT8FdK4",
+      "channel": "AlternativeAdaptiveImmuneSystem",
+      "duration": 187.0,
+      "title": "The Longest Day scene: Jean a de longues moustaches"
+    },
+    {
+      "id": "XUTlE90j7n8",
+      "channel": "BBC Comedy Greats",
+      "duration": 137.0,
+      "title": "Blackadder vs the French Revolution | Blackadder The Third | BBC Comedy Greats"
+    },
+    {
+      "id": "NJ7n-uYSVkA",
+      "channel": "The Fat Electrician",
+      "duration": 2858.0,
+      "title": "The Black Swallow Of Death - Eugene Bullard"
+    }
+  ]
+}

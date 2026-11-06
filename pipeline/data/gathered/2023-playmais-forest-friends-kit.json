@@ -1,0 +1,57 @@
+{
+  "id": "2023-playmais-forest-friends-kit",
+  "year": 2023,
+  "name": "PlayMais Forest Friends Kit",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/playmais%C2%AE-classic-biodegradable-forest-friends-age-3"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/products/playmais%C2%AE-classic-biodegradable-forest-friends-age-3",
+      "title": "PlayMais Forest Friends Kit (650 pieces, for age 3+) AS SEEN ON LATE LATE TOY SHOW 2023",
+      "description": "PlayMais My First Forest Friends stimulates creativity and helps you make your own forest animals. There is no need for glue with this set. All you need is your imagination and a little water! PlayMais is made from corn, water and food coloring and is therefore 100% natural, safe and biodegradable. A great set which contributes to making the world a little more sustainable!What it contains: 650 Pieces of Playmais in various colours with instructions to build lovely 3D forest friendsFeel great about where it comes from:Raw materials from Europe? Europe - GermanyOrganic? NoManufactured in Europe? Yes - GermanyWhat's it made from? Made from corn, water, and food coloring it is 100% safe, natural, and biodegradable. In terms of production the raw materials for PlayMais® are selected by Loick Biowertstoff GmbH with the greatest care and expertise. The production process is realized with 100% green electricity from renewable energies, which comes from the company's own biogas and photovoltai..",
+      "image": "http://jiminy.ie/cdn/shop/products/playmais-classic-forest-friends-age-3-910687_1200x1200.jpg?v=1700921757"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1k_rry58kps",
+      "channel": "tausendkind",
+      "duration": 41.0,
+      "title": "PlayMais |  MOSAIC LITTLE FOREST"
+    },
+    {
+      "id": "wMXZbw2TGdQ",
+      "channel": "Sindiseca Toys",
+      "duration": 30.0,
+      "title": "Playmais Classic World Jungle"
+    },
+    {
+      "id": "Lo6oFeq9XcU",
+      "channel": "A-play",
+      "duration": 30.0,
+      "title": "Playmais classic world deco"
+    },
+    {
+      "id": "LF3NEt4khGA",
+      "channel": "Kreatywne Maluchy",
+      "duration": 53.0,
+      "title": "PlayMais + Little Bits Electronics"
+    },
+    {
+      "id": "o74CA6nFYB0",
+      "channel": "tausendkind",
+      "duration": 39.0,
+      "title": "PlayMais | MOSAIC DREAM KITTEN"
+    }
+  ]
+}

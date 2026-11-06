@@ -1,0 +1,60 @@
+{
+  "id": "2019-plastic-sucks",
+  "year": 2019,
+  "name": "Plastic Sucks",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/plastic-sucks-dougie-poynter-9781529019377"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/plastic-sucks-dougie-poynter-9781529019377",
+      "title": "Buy Plastic Sucks! Book at Easons",
+      "description": "How can YOU help save our planet? This awesome and inspiring guide, written by McFly bassist and environmental activist Dougie Poynter, will show you how to get involved in the mission to cut out single-use plastic.  Plastic is everywhere and it sucks. It",
+      "image": null,
+      "ld_description": "How can YOU help save our planet? This awesome and inspiring guide, written by McFly bassist and environmental activist Dougie Poynter, will show you how to get involved in the mission to cut out single-use plastic.  Plastic is everywhere and it sucks. It fills up our oceans, endangers our wildlife and never goes away. So it's time to take action, find ways to cut down our plastic use and help protect our environment. Together we can make a difference!  As a lifelong supporter of environmental causes and a key player in the campaign to ban microbeads in the UK, Dougie is always on the hunt for ways to reduce and replace plastic. This campaigning book, his first solo authored project, draws on his own experiences in the fight against plastic waste - the problems he's encountered and the solutions he's found. It covers the history of plastic, introduces us to some key campaigners and eco entrepreneurs and is full of top tips and infographics.  The clear and easy steps in Plastic Sucks! You Can Make a Difference show us how we can all make small changes and become champions for our planet.  Includes contributions from: - Adam Lowry, founder of Method - Amanda Keetley, founder of Less Plastic UK - Anna Cummins and Marcus Eriksen, founders of 5 Gyres - Blue Ollis - Dara McAnulty - Edwin Broni-Mensah, founder of GiveMeTap - Emily Penn - James Robson and Andy Bool, Sea Life and Sea Life Trust - Jonathon Porritt - Josh White and Perry Fielding, co-founders of CanO Water - Kate Arnell",
+      "brand": "Macmillan Children&#x27;s Books",
+      "ld_image": "https://www.easons.com/images/asset/438e436e-1317-4d63-b177-4288e44bb588/9781529019377_5641722911.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lxcYFEhPzMA",
+      "channel": "Henley Literary Festival",
+      "duration": 183.0,
+      "title": "Dougie Poynter at Henley Literary Festival | ...on Plastic Sucks"
+    },
+    {
+      "id": "Cggj9x4ONUQ",
+      "channel": "Google Play Books",
+      "duration": 984.0,
+      "title": "Plastic Sucks by Dougie Poynter · Audiobook preview"
+    },
+    {
+      "id": "NUc5NzvUz4U",
+      "channel": "Macmillan Children's Books",
+      "duration": 136.0,
+      "title": "Dougie Poynter - Plastic Sucks! - announcement"
+    },
+    {
+      "id": "msKFM4FHpWk",
+      "channel": "Macmillan Children's Books",
+      "duration": 195.0,
+      "title": "Plastic Sucks! - Alternative options with Dougie Poynter"
+    },
+    {
+      "id": "F65np73kGk4",
+      "channel": "Best Audiobook",
+      "duration": 300.0,
+      "title": "Plastic Sucks by Dougie Poynter | Free Audiobook"
+    }
+  ]
+}

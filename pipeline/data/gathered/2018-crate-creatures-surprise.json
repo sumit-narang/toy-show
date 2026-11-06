@@ -1,0 +1,69 @@
+{
+  "id": "2018-crate-creatures-surprise",
+  "year": 2018,
+  "name": "Crate Creatures Surprise",
+  "price_eur": 36.99,
+  "price_text": "€36.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c0mHXA-f-y4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 128.0,
+      "title": "Crate Creatures Blizz & Sizzle from MGA Entertainment"
+    },
+    {
+      "id": "e2YN_tYEQP0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 159.0,
+      "title": "Crate Creatures Surprise! Snort Hog and Pudge from MGA Entertainment"
+    },
+    {
+      "id": "m0q7ckwy5Uk",
+      "channel": "OhcluckToys",
+      "duration": 574.0,
+      "title": "Crate Creatures Sizzle Unboxing Toy Review"
+    },
+    {
+      "id": "Yx_Wr3qsdAQ",
+      "channel": "Pinkoddy",
+      "duration": 115.0,
+      "title": "Crate Creatures Snort Hog from MGA Entertainment Demo"
+    },
+    {
+      "id": "nw1lnaiJr1g",
+      "channel": "TTPM Toy Reviews",
+      "duration": 124.0,
+      "title": "Crate Creatures Surprise Kaboom Box from MGA Entertainment"
+    }
+  ]
+}

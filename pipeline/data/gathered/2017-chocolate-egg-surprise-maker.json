@@ -1,0 +1,64 @@
+{
+  "id": "2017-chocolate-egg-surprise-maker",
+  "year": 2017,
+  "name": "Chocolate Egg Surprise Maker",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "e_bR6L-NV2I",
+      "channel": "CKN ",
+      "duration": 327.0,
+      "title": "Chocolate Surprise Egg Maker DIY Kinder Surprise Egg CKN"
+    },
+    {
+      "id": "K1kLs1_SnlY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 105.0,
+      "title": "Chocolate Egg Surprise Maker & Refill Pack from Jakks Pacific"
+    },
+    {
+      "id": "jZT7dTCWdiA",
+      "channel": "KIDS Studio",
+      "duration": 1033.0,
+      "title": "NEW - CHOCOLATE EGG SURPRISE MAKER!!! Fun Kids Surprise Egg Maker"
+    },
+    {
+      "id": "IZ-NBEV2aws",
+      "channel": "Marshall Tupia",
+      "duration": 29.0,
+      "title": "Nickelodeon New + Now Chocolate Egg Surprise Maker from Jakks Pacific Advert"
+    },
+    {
+      "id": "2GZY8jgttGs",
+      "channel": "TheEngineeringFamily",
+      "duration": 1575.0,
+      "title": "The Chocolate Surprise Egg Maker with Hidden Paw Patrol and PJ Masks Toys"
+    }
+  ]
+}

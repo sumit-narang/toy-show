@@ -1,0 +1,57 @@
+{
+  "id": "2018-usa-glasses",
+  "year": 2018,
+  "name": "USA Glasses",
+  "price_eur": 4.0,
+  "price_text": "from €4.00",
+  "retailers": [
+    {
+      "name": "Funplace",
+      "url": "http://www.funplace.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funplace.ie/",
+      "title": "Halloween Costumes Dublin Ireland and Nationwide Delivery",
+      "description": "All our products are stocked and shipped from our Irish warehouse. We stock a range of halloween costumes including Peppa Pig, The Traitors, Spiderman and Roblox.",
+      "image": "https://cdn.shopify.com/s/files/1/0562/4286/4279/files/fun_place_logo.jpg?height=628&pad_color=fff&v=1622545527&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jCwXHdMIrAg",
+      "channel": "Doctor Eye Health",
+      "duration": 736.0,
+      "title": "Buying Prescription Glasses Online VS In Store"
+    },
+    {
+      "id": "a9TZC4HqgDA",
+      "channel": "Alexia Reid",
+      "duration": 671.0,
+      "title": "Glasses USA Full Review! | Detailed How To | Lex Get It"
+    },
+    {
+      "id": "h6c9m7CUesE",
+      "channel": "Fashion While",
+      "duration": 474.0,
+      "title": "Top 10 Best Sunglasses Made In USA (2025)"
+    },
+    {
+      "id": "sSJKfqMbaNI",
+      "channel": "Shirleann Frances",
+      "duration": 734.0,
+      "title": "HONEST REVIEW of GLASSES USA: is it really worth the hype??"
+    },
+    {
+      "id": "yLCm0AWGHe4",
+      "channel": "Martin Campero",
+      "duration": 211.0,
+      "title": "Glasses USA Review"
+    }
+  ]
+}

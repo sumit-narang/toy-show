@@ -1,0 +1,53 @@
+{
+  "id": "2017-ps-toe-separators",
+  "year": 2017,
+  "name": "PS... Toe Separators",
+  "price_eur": 0.5,
+  "price_text": "€0.50",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JjV9EMGgCyk",
+      "channel": "Justin Town",
+      "duration": 121.0,
+      "title": "Best Toe separators for cerebral palsy CP"
+    },
+    {
+      "id": "CzOWyMC5XSo",
+      "channel": "Donald E. Pelto, DPM",
+      "duration": 49.0,
+      "title": "Ever wonder about toe separators? Click here!"
+    },
+    {
+      "id": "oFe10qkymrM",
+      "channel": "Angelina Laidler",
+      "duration": 14.0,
+      "title": "Predicura Toe Separators"
+    },
+    {
+      "id": "PsnzBipIHF0",
+      "channel": "MAMCOTS",
+      "duration": 419.0,
+      "title": "Management and Treatment Options for Hallux Valgus | Dr. P. S. Mamtora"
+    },
+    {
+      "id": "NRB15wiau20",
+      "channel": "Najin Dom",
+      "duration": 17.0,
+      "title": "Hanksome Separátory prstov"
+    }
+  ]
+}

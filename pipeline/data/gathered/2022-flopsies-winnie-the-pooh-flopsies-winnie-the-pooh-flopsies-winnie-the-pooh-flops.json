@@ -1,0 +1,57 @@
+{
+  "id": "2022-flopsies-winnie-the-pooh-flopsies-winnie-the-pooh-flopsies-winnie-the-pooh-flops",
+  "year": 2022,
+  "name": "Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pZ3pA13yHj8",
+      "channel": "My Balancing Act",
+      "duration": 165.0,
+      "title": "We Took Our Toys to Pooh Bridge and This Happened"
+    },
+    {
+      "id": "ln5MlV79WeM",
+      "channel": "lizeindisney",
+      "duration": 431.0,
+      "title": "WINNIE THE POOH PLUSH REVIEW | Gifted by SimbaToysUK"
+    },
+    {
+      "id": "7ch9BfTz3tQ",
+      "channel": "Dr Mom & Little Traveller ",
+      "duration": 218.0,
+      "title": "Disney Goofy Flopsies Plush 10” Review-Hamleys soft toy(cartoon character best soft toy for your kid"
+    },
+    {
+      "id": "qHxxgvwTxzM",
+      "channel": "Thom Goddard",
+      "duration": 1418.0,
+      "title": "The World Of Peter Rabbit & Friends - The Tale of the Flopsy Bunnies & Mrs Tittlemouse"
+    },
+    {
+      "id": "T0VYnbS3m6o",
+      "channel": "The Rapunzel Railfan",
+      "duration": 44.0,
+      "title": "My plush paint horse collection"
+    }
+  ]
+}

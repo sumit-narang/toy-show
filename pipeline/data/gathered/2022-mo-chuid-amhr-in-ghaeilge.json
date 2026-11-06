@@ -1,0 +1,57 @@
+{
+  "id": "2022-mo-chuid-amhr-in-ghaeilge",
+  "year": 2022,
+  "name": "Mo Chuid Amhráin Ghaeilge",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "An Siopa Gaeilge",
+      "url": "http://siopagaeilge.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopagaeilge.ie/",
+      "title": "An Siopa Gaeilge | Oideas Gael",
+      "description": "Books, music & gifts from the Donegal Gaeltacht. We cater for language learners, teachers, schools and all those interested in Irish literature and culture.",
+      "image": "https://cdn.shopify.com/s/files/1/0502/6260/6004/files/siopa-gaeilge-logo2_c971dd95-1935-461e-a030-4e4f5371295e.jpg?v=1611144350"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xGm-kejG_50",
+      "channel": "My Irish Books",
+      "duration": 20.0,
+      "title": "2. Báidín Fheilimí (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "A8K338Glug4",
+      "channel": "My Irish Books",
+      "duration": 11.0,
+      "title": "5. Dúlamán (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "K6s_AgwqNmg",
+      "channel": "My Irish Books",
+      "duration": 15.0,
+      "title": "6. Éireoidh mé ar maidin (Mo Chuid Amhráin Ghaeilge)"
+    },
+    {
+      "id": "A5wVm--lMfQ",
+      "channel": "My Irish Books",
+      "duration": 81.0,
+      "title": "Late Late Toy Show 2020 - Mo Chuid Amhráin Ghaeilge Review - (My Irish Songs)"
+    },
+    {
+      "id": "VpmSnTtS47c",
+      "channel": "My Irish Books",
+      "duration": 23.0,
+      "title": "6. Na Cleaganna (Mo Chuid Amhráin Ghaeilge 3)"
+    }
+  ]
+}

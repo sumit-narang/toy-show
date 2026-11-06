@@ -1,0 +1,60 @@
+{
+  "id": "2022-my-super-fun-voice-changer",
+  "year": 2022,
+  "name": "My Super Fun Voice Changer",
+  "price_eur": 14.39,
+  "price_text": "€14.39",
+  "retailers": [
+    {
+      "name": "O'Mahonys",
+      "url": "https://www.omahonys.ie/my-superfun-voice-changer-p-10530179.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.omahonys.ie/my-superfun-voice-changer-p-10530179.html",
+      "title": "My Super-fun Voice Changer - Brainstorm - 5060122735308",
+      "description": "Make your voice sound super-weird with this mega-fun voice changer. Eight different sounds including echo, slow, low, high, squeaky and two robots.With record and play back function. Have hilarious fun with your friends! Brainstorm Toys is a range of fun, educational and interactive STEM toys that brings together a host of fascinating items.STEM toys incorporate science, technology, engineering and maths and encourage children to explore and develop a passion for these subjects. The aim of Brainstorm Toys branded products is to entertain children but also to inspire them to learn more about their environment.Contains: My Super-fun Voice Changer.Age: 3 Years+.Batteries: 2x AA Batteries Required (Not Included) - 5060122735308",
+      "image": null,
+      "ld_description": "Make your voice sound super-weird with this mega-fun voice changer. Eight different sounds including echo, slow, low, high, squeaky and two robots.With record and play back function. Have hilarious fun with your friends! Brainstorm Toys is a range of fun, educational and interactive STEM toys that brings together a host of fascinating items.STEM toys incorporate science, technology, engineering and maths and encourage children to explore and develop a passion for these subjects. The aim of Brainstorm Toys branded products is to entertain children but also to inspire them to learn more about their environment.Contains: My Super-fun Voice Changer.Age: 3 Years+.Batteries: 2x AA Batteries Required (Not Included) - 5060122735308",
+      "brand": null,
+      "ld_image": "//omimages.s3.eu-west-1.amazonaws.com/covers/5060122735308.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KCl-FueFIFU",
+      "channel": "StephenCGN",
+      "duration": 174.0,
+      "title": "Top 5 BEST Voice Changers You NEED to Try in 2025"
+    },
+    {
+      "id": "YYc5jZgvC8s",
+      "channel": "PiiyuGamer",
+      "duration": 382.0,
+      "title": "Top New Best Voice Changer 2025 for Free Fire and BGMI – Change Your Voice Like a Pro!"
+    },
+    {
+      "id": "smg8o2DC7IA",
+      "channel": "JessKappa",
+      "duration": 21.0,
+      "title": "Student Forgets To Turn Off Voice Changer, Animated"
+    },
+    {
+      "id": "kiMeoNfWEhc",
+      "channel": "ABox-Real Time Voice Changer",
+      "duration": 35.0,
+      "title": "Voice Changer for WhatsApp"
+    },
+    {
+      "id": "H-pxPKk8IAY",
+      "channel": "Himanto GMR",
+      "duration": 610.0,
+      "title": "Free Fire Female Voice Changer in Mobile 📱😱 Full Setup 🔥"
+    }
+  ]
+}

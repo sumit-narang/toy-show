@@ -1,0 +1,72 @@
+{
+  "id": "2018-our-generation-jovie-doll",
+  "year": 2018,
+  "name": "Our Generation Jovie Doll",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_int11KGIVQ",
+      "channel": "Sallyheartsjack80",
+      "duration": 419.0,
+      "title": "Our Generation “Jovie” 18” Doll Review✨"
+    },
+    {
+      "id": "Sy-XdIhKoZ4",
+      "channel": "sew4dolls",
+      "duration": 292.0,
+      "title": "Our Generation Doll Jovie"
+    },
+    {
+      "id": "y2quFmqo2Gs",
+      "channel": "Selena's Elegant Dolls Official💞",
+      "duration": 1300.0,
+      "title": "Our Generation Stella Doll Starter Kit"
+    },
+    {
+      "id": "AmNbOlTIMwI",
+      "channel": "Amber Ruxpin ʕ ᴖᴥᴖ ʔ",
+      "duration": 770.0,
+      "title": "Our Generation Jovie doll"
+    },
+    {
+      "id": "8Rt73u4p7ys",
+      "channel": "hayley loves god",
+      "duration": 554.0,
+      "title": "Our generation Jovie, cherry on top , and heals on wheels review"
+    }
+  ]
+}

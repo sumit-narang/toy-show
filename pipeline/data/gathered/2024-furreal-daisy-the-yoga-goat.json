@@ -1,0 +1,54 @@
+{
+  "id": "2024-furreal-daisy-the-yoga-goat",
+  "year": 2024,
+  "name": "FurReal Daisy the Yoga Goat",
+  "price_eur": 60.0,
+  "price_text": "€60",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/jp28104"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/jp28104"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1oeT2rYBbco",
+      "channel": "Toy Time Together",
+      "duration": 540.0,
+      "title": "FurReal Daisy The Yoga Goat Interactive Toy Unboxing & Playthrough"
+    },
+    {
+      "id": "xI77QvOCOug",
+      "channel": "Tech Reviews with phil",
+      "duration": 118.0,
+      "title": "furReal Daisy the Yoga Goat Interactive Toy, 11-inch Realistic Plush"
+    },
+    {
+      "id": "xr2k0l46DvI",
+      "channel": "BetterOnceThanNever",
+      "duration": 241.0,
+      "title": "Fur Real Daisy The Yoga Goat!"
+    },
+    {
+      "id": "HTjJUhqsL4s",
+      "channel": "Prima Toys South Africa",
+      "duration": 31.0,
+      "title": "Furreal Daisy th Yoga Goat - 30Sec"
+    },
+    {
+      "id": "1r6t5-7D_DA",
+      "channel": "Honest Reviews by Rebecca",
+      "duration": 109.0,
+      "title": "Favorite present this past year furReal Daisy the Yoga Goat"
+    }
+  ]
+}

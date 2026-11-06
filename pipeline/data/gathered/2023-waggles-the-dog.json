@@ -1,0 +1,57 @@
+{
+  "id": "2023-waggles-the-dog",
+  "year": 2023,
+  "name": "Waggles the Dog",
+  "price_eur": 26.99,
+  "price_text": "€26.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/animagic-waggles-my-wigglin-walkin-pup/p/167999"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/animagic-waggles-my-wigglin-walkin-pup/p/167999",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pgt4FM8lcMs",
+      "channel": "The Wiggles",
+      "duration": 111.0,
+      "title": "Wags the Dog, He Likes to Tango 🐶🌹 The Wiggles"
+    },
+    {
+      "id": "lloFGjyefco",
+      "channel": "Jooniz",
+      "duration": 56.0,
+      "title": "Waggles chiot rigolo (Vivid Toy) | Jooniz.com"
+    },
+    {
+      "id": "FTXMUfZgvGc",
+      "channel": "The Entertainer",
+      "duration": 22.0,
+      "title": "Animagic Waggles Puppy (Styles Vary)"
+    },
+    {
+      "id": "gT60IrTBN4Q",
+      "channel": "TheEngineeringFamily",
+      "duration": 1370.0,
+      "title": "Assistant Looks for Bad Dogs Wiggles and Waggles in Holiday Town"
+    },
+    {
+      "id": "cbUCEZpd2BU",
+      "channel": "TheEngineeringFamily",
+      "duration": 1493.0,
+      "title": "Wiggles and Waggles Pet Care Challenge with the Assistant"
+    }
+  ]
+}

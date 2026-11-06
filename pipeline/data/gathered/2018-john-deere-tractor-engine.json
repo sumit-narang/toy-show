@@ -1,0 +1,64 @@
+{
+  "id": "2018-john-deere-tractor-engine",
+  "year": 2018,
+  "name": "John Deere Tractor Engine",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XkchkJOouik",
+      "channel": "Sf John Deere Service",
+      "duration": 255.0,
+      "title": "john deere 5050d tractor engine repairing | john deere tractor engine repair | part 1"
+    },
+    {
+      "id": "XtpVJhMjTYY",
+      "channel": "ZK MasterTech",
+      "duration": 3041.0,
+      "title": "Replacing a Failed 12.5L — John Deere 9520 Complete Block Build"
+    },
+    {
+      "id": "z6RkUsXlOTk",
+      "channel": "John Deere",
+      "duration": 142.0,
+      "title": "John Deere Final Tier 4/Stage IV Technology | John Deere Engines & Drivetrain"
+    },
+    {
+      "id": "CBazxPl9Sk0",
+      "channel": "MicksGarage.Com",
+      "duration": 226.0,
+      "title": "John Deere Tractor Engine by Klein Toys"
+    },
+    {
+      "id": "Q7YCOt1HzaE",
+      "channel": "John Deere",
+      "duration": 161.0,
+      "title": "JD18 Engine Expanded Power | John Deere Engines & Drivetrain"
+    }
+  ]
+}

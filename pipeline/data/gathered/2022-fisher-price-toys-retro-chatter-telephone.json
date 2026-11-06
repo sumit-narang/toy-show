@@ -1,0 +1,54 @@
+{
+  "id": "2022-fisher-price-toys-retro-chatter-telephone",
+  "year": 2022,
+  "name": "Fisher-Price Toys Retro Chatter Telephone",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0a4-scP_Rs8",
+      "channel": "CNET",
+      "duration": 550.0,
+      "title": "Fisher-Price made a baby phone for adults because sure why not (Unboxing and review)"
+    },
+    {
+      "id": "VGKlUZMaI0w",
+      "channel": "GoliathAngelus",
+      "duration": 413.0,
+      "title": "Original Classic chatter telephone from Fisher Price Toys"
+    },
+    {
+      "id": "cRrp8yr-0EY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 94.0,
+      "title": "Fisher-Price Classics Chatter Telephone from The Bridge Direct"
+    },
+    {
+      "id": "covkiVvR-Vo",
+      "channel": "Lucky Penny Shop",
+      "duration": 56.0,
+      "title": "Vintage Fisher-Price Toy Story 3 Classic Chatter Telephone # 747"
+    },
+    {
+      "id": "pHr8U7pl8Yw",
+      "channel": "Lucky Penny Shop",
+      "duration": 96.0,
+      "title": "Vintage 1960's Fisher-Price Rolling Chatter Telephone Toy #747"
+    }
+  ]
+}

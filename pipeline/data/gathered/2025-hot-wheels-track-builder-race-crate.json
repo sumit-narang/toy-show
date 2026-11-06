@@ -1,0 +1,57 @@
+{
+  "id": "2025-hot-wheels-track-builder-race-crate",
+  "year": 2025,
+  "name": "Hot Wheels Track Builder Race Crate",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-track-builder-race-crate-with-2-die-cast-cars/p/166983"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-track-builder-race-crate-with-2-die-cast-cars/p/166983",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oBIylOUrO-k",
+      "channel": "Hot Wheels",
+      "duration": 365.0,
+      "title": "The Track Builder Race Crate | How To Build Epic Sets | @HotWheels"
+    },
+    {
+      "id": "obd2It8GORk",
+      "channel": "GiggleBlaggle Toys!",
+      "duration": 1047.0,
+      "title": "Hot Wheels Race Crate Track Builder Set - Unboxing and Demonstration"
+    },
+    {
+      "id": "msFOxMDcqkE",
+      "channel": "RaceGrooves",
+      "duration": 824.0,
+      "title": "Hot Wheels Race Crate NEW FOR 2018 Hot Wheels Track Set Review by RaceGrooves DHR Downhill Racing"
+    },
+    {
+      "id": "KUMPVDHDLbw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 74.0,
+      "title": "Hot Wheels Race Crate from Mattel"
+    },
+    {
+      "id": "LpyRtHiAfMQ",
+      "channel": "Peak Time Racing",
+      "duration": 169.0,
+      "title": "Hot Wheels Race Crate - BIG DROP & LOOPS!"
+    }
+  ]
+}

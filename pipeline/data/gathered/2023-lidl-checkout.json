@@ -1,0 +1,57 @@
+{
+  "id": "2023-lidl-checkout",
+  "year": 2023,
+  "name": "Lidl Checkout",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Lidl",
+      "url": "https://www.lidl.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lidl.ie/",
+      "title": "Lidl - Special Offers, Super Savers & More - Lidl Ireland - www.lidl.ie",
+      "description": "Lidl supermarkets have a range of high-quality fresh food groceries at prices you'll love. Browse our weekly special offers and Super Savers online.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-b_NPHkVrLc",
+      "channel": "nePRICEPUTUL ",
+      "duration": 98.0,
+      "title": "How Self Checkout works at Lidl 🛒 | Fast and easy payment without a cashier!"
+    },
+    {
+      "id": "cWQpGjyO2Ow",
+      "channel": "Mia Haskurti's Rail Videos",
+      "duration": 399.0,
+      "title": "Brand New Diebold Nixdorf Self Checkout Machine @ Lidl - Ashford (Surrey) - Surrey."
+    },
+    {
+      "id": "jAKDv6S0tKE",
+      "channel": "Mia Haskurti's Rail Videos",
+      "duration": 169.0,
+      "title": "Diebold Nixdorf Self Checkout Machine - Lidl - Greenford Westway Cross Retail Park - West London"
+    },
+    {
+      "id": "Xy3d5JlpnWQ",
+      "channel": "Mia Haskurti's Rail Videos",
+      "duration": 82.0,
+      "title": "Brand New Wincor Nixdorf Self Checkout Machine @ Lidl - Feltham - West London."
+    },
+    {
+      "id": "oXxBV8F7EZc",
+      "channel": "Skyline Gang Fan",
+      "duration": 76.0,
+      "title": "Diebold Nixdorf Self Checkout at Lidi Harold Hill Romford"
+    }
+  ]
+}

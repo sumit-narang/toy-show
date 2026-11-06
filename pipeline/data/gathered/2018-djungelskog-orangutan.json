@@ -1,0 +1,57 @@
+{
+  "id": "2018-djungelskog-orangutan",
+  "year": 2018,
+  "name": "Djungelskog Orangutan",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zzJSdFmiHQI",
+      "channel": "Global News",
+      "duration": 76.0,
+      "title": "Punch the monkey’s stuffed orangutan from Ikea sold out in stores"
+    },
+    {
+      "id": "tXVnlWyvQik",
+      "channel": "CBS19",
+      "duration": 65.0,
+      "title": "Ikea orangutan toy sells out after baby monkey bonds with plush surrogate"
+    },
+    {
+      "id": "bIOAApmyWVg",
+      "channel": "CNBC-TV18",
+      "duration": 187.0,
+      "title": "IKEA Orangutan Plush Sells Out After Baby Monkey 'Punch' Goes Viral | Punch Monkey | N18G"
+    },
+    {
+      "id": "Dq_458atqbU",
+      "channel": "ttttrav",
+      "duration": 467.0,
+      "title": "I BOUGHT a DJUNGELSKOG (Ikea Monkey)"
+    },
+    {
+      "id": "mJZUK6Ag8vM",
+      "channel": "Info Produk",
+      "duration": 144.0,
+      "title": "Boneka Ikea Orang Utan - Djungelskog"
+    }
+  ]
+}

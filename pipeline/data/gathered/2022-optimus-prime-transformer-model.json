@@ -1,0 +1,54 @@
+{
+  "id": "2022-optimus-prime-transformer-model",
+  "year": 2022,
+  "name": "Optimus Prime Transformer Model",
+  "price_eur": 144.0,
+  "price_text": "€144",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/optimus-prime-10302"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/optimus-prime-10302"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FYFXcOWJLxI",
+      "channel": "Toys Zone D",
+      "duration": 628.0,
+      "title": "Robosen- Transformers Auto Transforming Optimus Prime ~ Detailed Showcase (Adult Collector)"
+    },
+    {
+      "id": "TcfJ6gBjryk",
+      "channel": "Fill Room Plan",
+      "duration": 489.0,
+      "title": "♪Build: Optimus Prime｜Transformers: Prime｜Satisfying beat building｜Speed build｜Model Kit"
+    },
+    {
+      "id": "ra3v2BfQ8js",
+      "channel": "Z Hobby",
+      "duration": 579.0,
+      "title": "Transformers Optimus Prime Model Kit Speed Build"
+    },
+    {
+      "id": "qj5f5Dr592k",
+      "channel": "Blokees.Official",
+      "duration": 60.0,
+      "title": "Blokees Transformers Action Edition——G1 Optimus Prime"
+    },
+    {
+      "id": "WniKzBXXego",
+      "channel": "Ryan's Box",
+      "duration": 782.0,
+      "title": "YOLOPARK transformers one Optimus Prime Megatron Badasstron Elita-1"
+    }
+  ]
+}

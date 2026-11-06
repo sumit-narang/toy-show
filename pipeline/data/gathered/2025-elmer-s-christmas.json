@@ -1,0 +1,60 @@
+{
+  "id": "2025-elmer-s-christmas",
+  "year": 2025,
+  "name": "Elmer’s Christmas",
+  "price_eur": 9.8,
+  "price_text": "€9.80",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/elmers-christmas-9781783444663"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/elmers-christmas-9781783444663",
+      "title": "Elmer's Christmas - Dubray Books",
+      "description": "Discover the classic Elmer's Christmas story in a golden board book gift edition, perfect for sharing with little ones this festive season.\nIt's two days before Christmas Eve, the night Papa Red visits,  and the young elephants are very excited.  They choose a tree to  decorate and prepare the presents for Papa Red to collect during the  night to take to those who need them.  But this year Elmer the patchwork elephant has a special  treat in store for the young elephants, if they can keep quiet and out  of sight . . .",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Discover the classic Elmer's Christmas story in a golden board book gift edition, perfect for sharing with little ones this festive season.\nIt's two days before Christmas Eve, the night Papa Red visits,  and the young elephants are very excited.  They choose a tree to  decorate and prepare the presents for Papa Red to collect during the  night to take to those who need them.  But this year Elmer the patchwork elephant has a special  treat in store for the young elephants, if they can keep quiet and out  of sight . . .",
+      "brand": "David McKee",
+      "ld_image": "https://media.dubraybooks.ie/asset/9c2c89de-6f0b-4bb9-8e96-f674d0f94093/9781783444663_5642846221.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RXQ3Rb4M_NQ",
+      "channel": "Educational Videos For Kids ",
+      "duration": 230.0,
+      "title": "Kids Book Read Aloud: Elmer's Christmas / Children’s Books Read Aloud / Christmas  Read Aloud ￼"
+    },
+    {
+      "id": "psR8jySjxq0",
+      "channel": "Educational Videos For Kids ",
+      "duration": 228.0,
+      "title": "Elmer's Christmas / kids book read aloud - kindergarten read aloud books - children books read aloud"
+    },
+    {
+      "id": "P5th1BNsDbE",
+      "channel": "MotherGeek",
+      "duration": 213.0,
+      "title": "Elmer's Christmas - Read Along With Me"
+    },
+    {
+      "id": "Ls1NYjlAegk",
+      "channel": "It’s Storytime Kids!",
+      "duration": 499.0,
+      "title": "Elmer’s Christmas by David McKee"
+    },
+    {
+      "id": "Wl-urcw51og",
+      "channel": "Learning with Ms Jacquot",
+      "duration": 333.0,
+      "title": "Elmer's Christmas"
+    }
+  ]
+}

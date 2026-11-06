@@ -1,0 +1,54 @@
+{
+  "id": "2023-funko-pop-my-hero-academia-mirio-in-hero-costume",
+  "year": 2023,
+  "name": "Funko Pop My Hero Academia Mirio in Hero Costume",
+  "price_eur": 9.89,
+  "price_text": "€9.89",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P9Lm_YwCPnY",
+      "channel": "Halloween Maker Funko Pop",
+      "duration": 64.0,
+      "title": "Mirio in Hero Costume Funko Pop! Vinyl My Hero Academia"
+    },
+    {
+      "id": "4RDq8gQxN1M",
+      "channel": "Carlos C.",
+      "duration": 583.0,
+      "title": "Unboxing Mirio Togata in hero suit (MHA) funko pop"
+    },
+    {
+      "id": "ImcD61jLAFg",
+      "channel": "VDI Toys",
+      "duration": 235.0,
+      "title": "Unboxing Mirio Togata 1004 GITD SE Funko Pop | Funko Pop Mirio Togata | Funko Pop My Hero Academia"
+    },
+    {
+      "id": "h5DqNGr-p-k",
+      "channel": "ocio puro",
+      "duration": 214.0,
+      "title": "🌟Funko Pop! Mirio Togata My Hero Academia | Unboxing🌟"
+    },
+    {
+      "id": "hHJOP8lW3bE",
+      "channel": "Place des Pop",
+      "duration": 80.0,
+      "title": "Funko Pop My Hero Academia 2021"
+    }
+  ]
+}

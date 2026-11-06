@@ -1,0 +1,60 @@
+{
+  "id": "2022-batpig-when-pigs-fly-by-rob-harrell",
+  "year": 2022,
+  "name": "Batpig: When Pigs Fly by Rob Harrell",
+  "price_eur": 12.6,
+  "price_text": "€12.60",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/when-pigs-fly-rob-harrell-9781529510270"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/when-pigs-fly-rob-harrell-9781529510270",
+      "title": "Buy When Pigs Fly Book at Easons",
+      "description": "Some pigs are born great, other pigs have greatness thrust upon them.  A laugh-out-loud graphic novel series from a Carnegie-shortlisted author, perfect for fans of Dog Man, Bunny vs Monkey and Investigators!  \"I love Batpig. It's oinking brilliant!\" Jamie",
+      "image": null,
+      "ld_description": "Some pigs are born great, other pigs have greatness thrust upon them.  A laugh-out-loud graphic novel series from a Carnegie-shortlisted author, perfect for fans of Dog Man, Bunny vs Monkey and Investigators!  \"I love Batpig. It's oinking brilliant!\" Jamie Smart, author of Bunny vs Monkey  BATPIG follows the amazing, porktastic adventures of Gary Yorkshire - an entirely normal piglet whose world is turned upside down when he's bitten by his friend, Brooklyn the bat, and develops the power of flight! And what could Gary do with this newfound talent other than become a superhero?  Alternating between Batpig's origin story and a furious and hilarious battle with his nemesis, Repto-Man, this is a brilliantly funny and skilfully rendered commercial young graphic novel series, with each book containing two separate stories.",
+      "brand": "Walker Books Ltd",
+      "ld_image": "https://www.easons.com/images/m/2115152dcfdfe622/original/9781529510270_5638946273.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YyszHV4xgNA",
+      "channel": "Penguin Middle School",
+      "duration": 31.0,
+      "title": "Batpig: When Pigs Fly | Animated Book Trailer"
+    },
+    {
+      "id": "OT_Ae3gJTbI",
+      "channel": "Reading With Your Kids",
+      "duration": 1759.0,
+      "title": "Reading With Your Kids - Batpig!"
+    },
+    {
+      "id": "lvGxsJusPio",
+      "channel": "Rob Harrell",
+      "duration": 571.0,
+      "title": "Drawing Batpig in eerie silence!"
+    },
+    {
+      "id": "QP6wJeHgBuo",
+      "channel": "Hot Key Books",
+      "duration": 94.0,
+      "title": "Batpig VS the Butterflies of DOOM from WINK by Rob Harrell"
+    },
+    {
+      "id": "iK9G9Pb2aDs",
+      "channel": "Rob Harrell",
+      "duration": 272.0,
+      "title": "Rob Harrell talks about Wink!"
+    }
+  ]
+}

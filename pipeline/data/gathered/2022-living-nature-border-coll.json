@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-border-coll",
+  "year": 2022,
+  "name": "Living Nature Border Coll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lVN136aH4W0",
+      "channel": "Tropical Critters",
+      "duration": 265.0,
+      "title": "Living Nature Border Collie Plush Unboxing & Review"
+    },
+    {
+      "id": "sc7aiZcYdDg",
+      "channel": "Life with Border Collie",
+      "duration": 356.0,
+      "title": "A Calm Walk with Bella 🐾 | Border Collie Puppy Exploring Nature"
+    },
+    {
+      "id": "FyF4cmsJj2g",
+      "channel": "Bee Nord",
+      "duration": 264.0,
+      "title": "Arctic life: Border collie in Svalbard"
+    },
+    {
+      "id": "bCUgvVMeE8s",
+      "channel": "Border Collies Life",
+      "duration": 443.0,
+      "title": "Border Collies and Toddlers: 7 Essential Safety Rules for Harmonious Living"
+    },
+    {
+      "id": "BOKTVGDn7KM",
+      "channel": "Peaceful Life Studio Official ",
+      "duration": 236.0,
+      "title": "A Shepherd’s Hut, a Border Collie, and the Silence of the Mountains 🌙🐕"
+    }
+  ]
+}

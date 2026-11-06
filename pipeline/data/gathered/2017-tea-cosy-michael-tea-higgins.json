@@ -1,0 +1,54 @@
+{
+  "id": "2017-tea-cosy-michael-tea-higgins",
+  "year": 2017,
+  "name": "Tea Cosy \"Michael Tea Higgins\"",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "JK Pure Crafty",
+      "url": "https://www.etsy.com/shop/jkpurecrafty"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.etsy.com/shop/jkpurecrafty"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ESVsIj4TmZ8",
+      "channel": "Westley Alkin",
+      "duration": 150.0,
+      "title": "Michael Tea Higgins by Not Just Hats on TV3"
+    },
+    {
+      "id": "OJLncPcwxCg",
+      "channel": "Westley Alkin",
+      "duration": 362.0,
+      "title": "Michael Tea Higgins by Not Just Hats on the Radio"
+    },
+    {
+      "id": "LqWaoB4LTPM",
+      "channel": "Allied Productions",
+      "duration": 75.0,
+      "title": "Unique tea cosies knitted for a good cause"
+    },
+    {
+      "id": "DeAk02ySb7o",
+      "channel": "Jerry Candelario",
+      "duration": 31.0,
+      "title": "Download How Tea Cosies Changed the World PDF"
+    },
+    {
+      "id": "jrCaCqaPt8o",
+      "channel": "The Tea Cosy",
+      "duration": 892.0,
+      "title": "Unboxing!! Character Tea Cosies."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-care-bears-cheer-bear-large",
+  "year": 2022,
+  "name": "Care Bears Cheer Bear Large",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gcNi1EXHhFg",
+      "channel": "Care Bears",
+      "duration": 1729.0,
+      "title": "Cheer Bear Spreads Happiness Everywhere 🌈 25+ Min Compilation | Care Bears: Unlock The Magic"
+    },
+    {
+      "id": "ImB5xfPYhZs",
+      "channel": "Care Bears",
+      "duration": 199.0,
+      "title": "Classic Care Bears | Cheer Bear and the Egg"
+    },
+    {
+      "id": "Uoiy4XBgm1c",
+      "channel": "Care Bears",
+      "duration": 683.0,
+      "title": "Classic Care Bears | Cheer of the Jungle"
+    },
+    {
+      "id": "1j06Hr1j0mU",
+      "channel": "Care Bears",
+      "duration": 961.0,
+      "title": "Classic Care Bears | The Evolution of Cheer Bear!"
+    },
+    {
+      "id": "ZQi2AWsl-9o",
+      "channel": "Care Bears",
+      "duration": 641.0,
+      "title": "@carebears 🐻❤️  😢☀️ Funshine's Unfun Day ☀️😢 | Full Episode | Unlock the Magic"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-selection-of-squishmallows",
+  "year": 2022,
+  "name": "Selection of Squishmallows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/squishmallows/c/SM06010424"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/squishmallows/c/SM06010424",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "n6ATktGB5vE",
+      "channel": "Offbeat Plush",
+      "duration": 589.0,
+      "title": "Unboxing Squishmallows Match Game Early Access Select Series Potato Plush and Valloween New Dragon"
+    },
+    {
+      "id": "9EkaIEQLoBw",
+      "channel": "Southern Squishes",
+      "duration": 325.0,
+      "title": "Squishmallows Season of Squish Select Series Emily Snowman Bat UNBOXING!"
+    },
+    {
+      "id": "KT5kH_EPprQ",
+      "channel": "Spiritual Amethyst",
+      "duration": 1854.0,
+      "title": "My COW Squishmallows 🐮 | The Collection"
+    },
+    {
+      "id": "R35cv49MRlQ",
+      "channel": "Mara N Mom's Squishmallows",
+      "duration": 558.0,
+      "title": "How Do We Pick Our 10 Most Favorite Squishmallows?"
+    },
+    {
+      "id": "UPIbJbNmQ0A",
+      "channel": "Sarah's Picks",
+      "duration": 25.0,
+      "title": "Squismallows Micromallows Select Series 6 Pack"
+    }
+  ]
+}

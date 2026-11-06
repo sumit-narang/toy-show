@@ -1,0 +1,57 @@
+{
+  "id": "2018-ranch-wagon",
+  "year": 2018,
+  "name": "Ranch Wagon",
+  "price_eur": 449.95,
+  "price_text": "€449.95",
+  "retailers": [
+    {
+      "name": "funstuff.ie",
+      "url": "https://www.funstuff.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/",
+      "title": "Lifestyle, Ride on Cars, Outdoor Toys Ireland - Funstuff.ie",
+      "description": "Shop now at Funstuff.ie for the best electric ride on cars, go karts, quads, motorbikes, tractors, jeeps, balance bikes and more.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KVBeWqP8xPM",
+      "channel": "Robby Sparks",
+      "duration": 193.0,
+      "title": "1952 Ford Ranch Wagon AC and heater"
+    },
+    {
+      "id": "w4dzFntBXMU",
+      "channel": "Mortske Repair",
+      "duration": 2083.0,
+      "title": "1960 Ford Ranch Wagon Sitting in a Junkyard for 39 years! Will it run?!? Last registered in 1982!"
+    },
+    {
+      "id": "PQXddNQQtAM",
+      "channel": "Bobs Classic Cars & Parts",
+      "duration": 136.0,
+      "title": "1961 Ford Ranch Wagon restomod"
+    },
+    {
+      "id": "BcimZQHkWbg",
+      "channel": "Streetside Classics",
+      "duration": 150.0,
+      "title": "3889 ATL 1957 Ford Ranch Wagon"
+    },
+    {
+      "id": "TvJaE1_2w7I",
+      "channel": "Dale Brisby and 6666ranch",
+      "duration": 1709.0,
+      "title": "A Day In The Life of 6666 Wagon Boss Kye Fuston!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-retro-airplane",
+  "year": 2019,
+  "name": "Retro Airplane",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rp855FsDvtk",
+      "channel": "CM's Garage",
+      "duration": 971.0,
+      "title": "Rare 1970 Vintage Testors .049 Airplanes! P-40 vs ME-109 vs Zero | Which Runs Best?"
+    },
+    {
+      "id": "XbLN10qXmps",
+      "channel": "MojoGrip",
+      "duration": 317.0,
+      "title": "The Most Beautiful American Made Airplane | WACO"
+    },
+    {
+      "id": "eWUuPFUoX2E",
+      "channel": "Heavy Metal Horizons",
+      "duration": 1049.0,
+      "title": "Buying a 77 YEAR OLD AIRPLANE (and flying it home!)"
+    },
+    {
+      "id": "uYI0PyZVZBk",
+      "channel": "AirshowStuffVideos",
+      "duration": 2205.0,
+      "title": "\"Warbirds Spectacular\" Airshow - Friday Warbirds - EAA AirVenture Oshkosh 2022"
+    },
+    {
+      "id": "TyEvsrsxYgM",
+      "channel": "JR Aviation",
+      "duration": 2148.0,
+      "title": "Buying The Cheapest Cessna 210 In The World & Flying It 1,000 Miles Home!"
+    }
+  ]
+}

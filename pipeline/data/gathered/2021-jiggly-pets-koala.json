@@ -1,0 +1,54 @@
+{
+  "id": "2021-jiggly-pets-koala",
+  "year": 2021,
+  "name": "Jiggly Pets Koala",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/cojp007?_pos=2&_sid=c754543bb&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/cojp007?_pos=2&_sid=c754543bb&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zgruIDZXugA",
+      "channel": "MiniturePharell",
+      "duration": 7.0,
+      "title": "New Jiggly pets Koala"
+    },
+    {
+      "id": "KFxFAikxVzg",
+      "channel": "Ian McJolli",
+      "duration": 127.0,
+      "title": "My JigglyPets - Koala 🐨"
+    },
+    {
+      "id": "OLkvhFseOpE",
+      "channel": "Fun Fam",
+      "duration": 161.0,
+      "title": "Jiggly Pets Pup And Koala - Wiggle And Jiggle Time"
+    },
+    {
+      "id": "fiGHVOk4j0E",
+      "channel": "ElectricGemZ",
+      "duration": 21.0,
+      "title": "Jiggly Pets Walking Jiggling Tail Wagging Pups"
+    },
+    {
+      "id": "4jZ3KDBYdHc",
+      "channel": "MiniturePharell",
+      "duration": 5.0,
+      "title": "Jiggly Pets Koala (Purple)"
+    }
+  ]
+}

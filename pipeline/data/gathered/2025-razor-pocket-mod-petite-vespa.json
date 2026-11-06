@@ -1,0 +1,54 @@
+{
+  "id": "2025-razor-pocket-mod-petite-vespa",
+  "year": 2025,
+  "name": "Razor Pocket Mod Petite Vespa",
+  "price_eur": 399.0,
+  "price_text": "€399",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/razor-pocket-mod-petite"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/razor-pocket-mod-petite"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DVA-dL5dzGY",
+      "channel": "RazorWorldwide",
+      "duration": 89.0,
+      "title": "Introducing the new Pocket Mod Petite from Razor"
+    },
+    {
+      "id": "EMvpXqTcHDM",
+      "channel": "Raspy Rides",
+      "duration": 576.0,
+      "title": "I'm Making This \"Kid's Toy\" Go +60 MPH | Razor Pocket Mod Upgrade Pt. 1"
+    },
+    {
+      "id": "xdkXy6HYT40",
+      "channel": "RazorWorldwide",
+      "duration": 100.0,
+      "title": "Retro Cool, Electric Power: Meet the New Razor Pocket Mod in Capri Pink"
+    },
+    {
+      "id": "MISuhrWLh0w",
+      "channel": "Phillips Vision",
+      "duration": 1107.0,
+      "title": "How To Replace The Battery On A Razor Pocket Mod Petite Scooter (Phillips Vision: Episode - 81)"
+    },
+    {
+      "id": "puaINglA8Ek",
+      "channel": "Raspy Rides",
+      "duration": 1189.0,
+      "title": "I Made This Kids Toy Insanely Fast | Razor Pocket Mod Range Test"
+    }
+  ]
+}

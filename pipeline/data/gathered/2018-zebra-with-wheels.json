@@ -1,0 +1,57 @@
+{
+  "id": "2018-zebra-with-wheels",
+  "year": 2018,
+  "name": "Zebra with Wheels",
+  "price_eur": 44.95,
+  "price_text": "€44.95",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wOmjnioNulo",
+      "channel": "CGP Grey",
+      "duration": 383.0,
+      "title": "Zebras Look Like Horses. Inside, They're Nothing Alike."
+    },
+    {
+      "id": "7pflZm5-isM",
+      "channel": "TMV Group",
+      "duration": 47.0,
+      "title": "Zebra | Jeep commercial | TMV Group"
+    },
+    {
+      "id": "PqI3hgnG6kw",
+      "channel": "Zeze Zebra Nursery Rhymes And Kids Exercise Videos",
+      "duration": 308.0,
+      "title": "Zeze Zebra's Fun Adventures: Epic School Bus Ride - Wheels on the Bus | Nursery Rhymes for kids"
+    },
+    {
+      "id": "yu2ne1Z225g",
+      "channel": "Olen Hendricks",
+      "duration": 2330.0,
+      "title": "Zebra Wheels On The Bus | Nursery Rhymes For Childrens And Kids"
+    },
+    {
+      "id": "CU02TYnkMVI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 62.0,
+      "title": "Ziggy Zebra from The Original Toy Company"
+    }
+  ]
+}

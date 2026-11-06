@@ -1,0 +1,60 @@
+{
+  "id": "2023-12v-vintage-mercedes-retro-type",
+  "year": 2023,
+  "name": "12V Vintage Mercedes Retro Type",
+  "price_eur": 230.0,
+  "price_text": "€230",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/12v-battery-powered-vintage-mercedes-retro-classic-toy-car-with-remote-control?_pos=1&_sid=1f3411bcf&_ss=r"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.emktoys.com/products/12v-battery-powered-vintage-mercedes-retro-classic-toy-car-with-remote-control?_pos=1&_sid=1f3411bcf&_ss=r",
+      "title": "12V Vintage Mercedes Retro Type 540k",
+      "description": "With a stylish retro design, this car will transport your child back in time while providing hours of fun. Made with durable materials and featuring a powerful 12v motor, this car is built to last and can handle any adventure your child can dream up. Equipped with a remote control, parents can also take control of the",
+      "image": "http://www.emktoys.com/cdn/shop/files/Type540kmerc.png?v=1694602479",
+      "ld_description": "On Showroom floor from NOW. Pre orders dispatched 25th / 26th November \nVehicle Specs\n·         Battery: 12V 7Ah\n·         Motors: 2 × RS550 (- 40W each → total 80W)\n·         Features: 2.4G remote control, music, lights, suspension, rear bucket & shovel (toy function)\nRecommended Age Range:    3 – 6 years old\n·         Remote control makes it safe for younger children (3 yrs., parents can control).\n·         Self-driving is generally suitable from around 3.5–6 years, depending on child size.\nSpeed Estimate:\n·         With dual 40W motors at 12V, expected max speed is around 3–5 km/h (walking pace to brisk walk).\n·         Usually comes with two speed settings:\no    Low: - 3 km/h\no    High: - 5 km/h\nThis makes it a safe ride-on toy for young children, especially with suspension, safety features, and parental remote",
+      "brand": "EMK Toys",
+      "ld_image": "https://www.emktoys.com/cdn/shop/files/yellowdumptruck.jpg?v=1759848147&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XuZFcyjp0gI",
+      "channel": "Laquetta Day",
+      "duration": 45.0,
+      "title": "sopbost Ride Classic On Car Compatible with Mercedes Benz 12V Electric Vehicle with Remote Control"
+    },
+    {
+      "id": "Hinp0xZydG4",
+      "channel": "PATOYS",
+      "duration": 67.0,
+      "title": "PATOYS | Mercedes Simplex Style Vintage jumbo size 12 volt Kids Car | 4X4 Wheel Drive | Leather Seat"
+    },
+    {
+      "id": "owVhCpfOdQ0",
+      "channel": "dzikieswinie - Motorcycle Club and Adventures",
+      "duration": 534.0,
+      "title": "Riding the Mercedes-Benz 300 S Electric Car"
+    },
+    {
+      "id": "5ajbxcvshYs",
+      "channel": "ATAA Cars",
+      "duration": 75.0,
+      "title": "⚜️ Mercedes Benz 300S 12v | ATAA Cars"
+    },
+    {
+      "id": "P3r4B43P9E8",
+      "channel": "RiiRoo",
+      "duration": 115.0,
+      "title": "Mercedes Benz Classic 300S Licensed 12v Battery Electric Ride On Car For Kids With Parental Remo..."
+    }
+  ]
+}

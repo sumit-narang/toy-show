@@ -1,0 +1,44 @@
+{
+  "id": "2022-loom-bands",
+  "year": 2022,
+  "name": "Loom bands",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "VpF2PQk9rrc",
+      "channel": "NA",
+      "duration": 352.0,
+      "title": "DIY - How to make Rainbow Loom Bracelet with your fingers - EASY TUTORIAL - Friendship Bracelet"
+    },
+    {
+      "id": "QWEsSBeHuP8",
+      "channel": "NA",
+      "duration": 423.0,
+      "title": "Cali Blossom | Hook Only | Rainbow Loom Charm"
+    },
+    {
+      "id": "aYmd-7ySzgE",
+      "channel": "NA",
+      "duration": 400.0,
+      "title": "Rainbow loom bands Viper Fish Tutorial by TheCheeseThief"
+    },
+    {
+      "id": "hHUG3sMqlUM",
+      "channel": "NA",
+      "duration": 999.0,
+      "title": "Rainbow Loom English - STARBURST - Loom Bands, easy, how to, DIY"
+    },
+    {
+      "id": "vRxDRc9wkgI",
+      "channel": "NA",
+      "duration": 417.0,
+      "title": "rainbow Loom Bands Infinity Fish bracelet tutorial"
+    }
+  ]
+}

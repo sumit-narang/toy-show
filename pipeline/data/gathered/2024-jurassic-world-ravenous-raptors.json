@@ -1,0 +1,57 @@
+{
+  "id": "2024-jurassic-world-ravenous-raptors",
+  "year": 2024,
+  "name": "Jurassic World Ravenous Raptors",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-ravenous-raptors/p/221243"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-ravenous-raptors/p/221243",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qDhD55OxpZs",
+      "channel": "TTPM Toy Reviews",
+      "duration": 62.0,
+      "title": "Jurassic World Ravenous Raptors"
+    },
+    {
+      "id": "aAlJUJBRZNY",
+      "channel": "ToyMonster",
+      "duration": 69.0,
+      "title": "How To Set Up Your Ravenous Raptors Playset - ToyMonster"
+    },
+    {
+      "id": "hpeQnZMhwhc",
+      "channel": "Caleb Kids Show",
+      "duration": 513.0,
+      "title": "CALEB and Dad Play Jurassic World RAVENOUS RAPTORS Board Game for Kids!"
+    },
+    {
+      "id": "zzFAq5nFOcM",
+      "channel": "FTR - Toy Collector & Gaming",
+      "duration": 130.0,
+      "title": "Jurassic World Hungry Hippos! Ravenous Raptors Dino Chomping Game Review"
+    },
+    {
+      "id": "nlxjh0_CZO8",
+      "channel": "Smyths Toys Superstores",
+      "duration": 24.0,
+      "title": "Jurassic World Ravenous Raptors Game - Smyths Toys"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-granuaile-the-pirate-queen-by-john-fatti-burke",
+  "year": 2018,
+  "name": "Granuaile the Pirate Queen by John & Fatti Burke",
+  "price_eur": 12.74,
+  "price_text": "€12.74",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "F2GAXUFVBLE",
+      "channel": "Meath County Library",
+      "duration": 356.0,
+      "title": "Granuaile: The Pirate Queen by John and Fatti Burke"
+    },
+    {
+      "id": "inGHvQVqn6Y",
+      "channel": "Limerick Libraries",
+      "duration": 495.0,
+      "title": "Spring into Storytime - Granuaile, The Pirate Queen"
+    },
+    {
+      "id": "DknYyXMEmtc",
+      "channel": "Kayleigh Jones",
+      "duration": 346.0,
+      "title": "Granuaile The Pirate Queen - Audio only"
+    },
+    {
+      "id": "V8SyMmoJ9KM",
+      "channel": "Clare Libraries",
+      "duration": 472.0,
+      "title": "Aidan from Corofin Library reads Granuaile The Pirate Queen"
+    },
+    {
+      "id": "PtUF3LIITDM",
+      "channel": "Dublin City Libraries",
+      "duration": 447.0,
+      "title": "Granualie with Subtitles"
+    }
+  ]
+}

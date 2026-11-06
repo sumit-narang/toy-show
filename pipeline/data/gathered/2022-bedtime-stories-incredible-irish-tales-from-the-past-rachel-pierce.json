@@ -1,0 +1,44 @@
+{
+  "id": "2022-bedtime-stories-incredible-irish-tales-from-the-past-rachel-pierce",
+  "year": 2022,
+  "name": "Bedtime Stories: Incredible Irish Tales from the Past - Rachel Pierce",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "JcrcXtjRTTE",
+      "channel": "Calm",
+      "duration": 1795.0,
+      "title": "Calm Sleep Stories | The Nordland Night Train with Erik Braa"
+    },
+    {
+      "id": "dfueGxYy-_E",
+      "channel": "Fairy Tales and Stories for Kids",
+      "duration": 486.0,
+      "title": "Rapunzel: The Magical Story 🌟✨ | 3D 4K | Bedtime Stories for Kids in English | Fairy Tales"
+    },
+    {
+      "id": "jBvzOfT8_44",
+      "channel": "Ms Rachel - Toddler Learning Videos",
+      "duration": null,
+      "title": "🔴 Learn with Ms Rachel - Toddler Learning - Kids Songs & Nursery Rhymes - Wheels On The Bus"
+    },
+    {
+      "id": "jaH7fXba87k",
+      "channel": "Get Sleepy",
+      "duration": 14400.0,
+      "title": "Bedtime story for Overthinking Minds..💤💤💤A Relaxing Visit to a Hawaiian Coral Reef"
+    },
+    {
+      "id": "W35AppiMkUA",
+      "channel": "Little Artie - Kids Songs",
+      "duration": 690.0,
+      "title": "Biggest Sea Monster & Underwater Dinosaur | Dinosaur Song for Kids | Nursery Rhymes | Little Artie"
+    }
+  ]
+}

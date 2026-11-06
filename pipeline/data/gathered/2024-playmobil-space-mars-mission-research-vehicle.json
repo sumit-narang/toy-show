@@ -1,0 +1,57 @@
+{
+  "id": "2024-playmobil-space-mars-mission-research-vehicle",
+  "year": 2024,
+  "name": "Playmobil Space Mars Mission Research Vehicle",
+  "price_eur": null,
+  "price_text": "£37.87",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/Playmobil-9489-Space-Research-Vehicle/dp/B079MPNCHW"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Playmobil-9489-Space-Research-Vehicle/dp/B079MPNCHW",
+      "title": "Playmobil 9489 Space Mars Mission Research Vehicle with interchangable Attachments - Amazon Exclusive : Amazon.co.uk: Outlet",
+      "description": "Playmobil 9489 Space Mars Mission Research Vehicle with interchangable Attachments - Amazon Exclusive : Amazon.co.uk: Outlet",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s_g5nvBiYY8",
+      "channel": "JANGmobil",
+      "duration": 952.0,
+      "title": "Playmobil Mars Research Vehicle 9489 review!"
+    },
+    {
+      "id": "lp_uDTzMqOs",
+      "channel": "OhcluckToys",
+      "duration": 660.0,
+      "title": "PlayMobil Mars Research Vehicle, Rover and Astronaut Robot Pack Unboxing Toy Review Speed Build"
+    },
+    {
+      "id": "S85NWyl6baQ",
+      "channel": "DisneyToysReview",
+      "duration": 512.0,
+      "title": "UNBOXING PLAYMOBIL MARS RESEARCH VEHICLE WITH ASTRONAUT & LAUNCHER"
+    },
+    {
+      "id": "rgUgsDz5vaQ",
+      "channel": "Bui Quoc Dai",
+      "duration": 62.0,
+      "title": "PLAYMOBIL Mars Research Vehicle Reviews"
+    },
+    {
+      "id": "0RakVVWLDVw",
+      "channel": "OhcluckToys",
+      "duration": 563.0,
+      "title": "PlayMobil Mars Mission Rocket with Launch Site Unboxing Toy Review Speed Build"
+    }
+  ]
+}

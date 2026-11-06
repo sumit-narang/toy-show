@@ -1,0 +1,57 @@
+{
+  "id": "2024-little-live-pets-mango-baby-monkey",
+  "year": 2024,
+  "name": "Little Live Pets Mango Baby Monkey",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-my-baby-monkey-mango/p/235686"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-my-baby-monkey-mango/p/235686",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Fn49tWk3Kjs",
+      "channel": "OhcluckToys",
+      "duration": 364.0,
+      "title": "Little Live Pets My Baby Monkey Mango Unboxing Review"
+    },
+    {
+      "id": "QlnTrkN16HU",
+      "channel": "Toy Time Together",
+      "duration": 1094.0,
+      "title": "Little Live Pets My Baby Monkey Mango Unboxing & Playthrough"
+    },
+    {
+      "id": "ob3Cjl9HagQ",
+      "channel": "See Rad",
+      "duration": 521.0,
+      "title": "What Does The Little Live Pets My Baby Monkey Mango Do?"
+    },
+    {
+      "id": "tjZZqqZeIkc",
+      "channel": "MagicalDisneyFan1618",
+      "duration": 15.0,
+      "title": "Little Live Pets My Baby Monkey Minis Ad!"
+    },
+    {
+      "id": "FI7kHyF0WHw",
+      "channel": "Play, Live, Repeat | Collectibles & Travel Reviews",
+      "duration": 728.0,
+      "title": "Little Live Pets Mango the Baby Monkey, Waddles the Penguin, Mini Puppy Home Unboxing + Demo #gifted"
+    }
+  ]
+}

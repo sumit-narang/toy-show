@@ -1,0 +1,54 @@
+{
+  "id": "2019-happy-waggerz",
+  "year": 2019,
+  "name": "Happy Waggerz",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "Oxendales",
+      "url": "https://www.oxendales.ie/shop/happy-waggers-unicorn-tail-electronic/wu504/product/details/show.action?pdBoUid=1034"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.oxendales.ie/shop/happy-waggers-unicorn-tail-electronic/wu504/product/details/show.action?pdBoUid=1034"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dLZLActbl88",
+      "channel": "MiniturePharell",
+      "duration": 32.0,
+      "title": "Happy Waggerz Thing"
+    },
+    {
+      "id": "rwoUo2spNtg",
+      "channel": "OllyFursuits",
+      "duration": 354.0,
+      "title": "Turning Happy Waggerz into a Fursuit Tail! | Tutorial"
+    },
+    {
+      "id": "LBDWpcbieY0",
+      "channel": "Waggerz Groom Room !",
+      "duration": 356.0,
+      "title": "Wren Magnolia's First Amazing 7 Step Deshed Package!"
+    },
+    {
+      "id": "-2JT22gD5Nk",
+      "channel": "pine needle",
+      "duration": 5.0,
+      "title": "Tail wag (first animation)"
+    },
+    {
+      "id": "eziPtHl9YE4",
+      "channel": "Waggerz Groom Room !",
+      "duration": 220.0,
+      "title": "Deshed Fun at Waggerz Groom Room"
+    }
+  ]
+}

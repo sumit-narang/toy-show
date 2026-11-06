@@ -1,0 +1,33 @@
+{
+  "id": "2020-roald-dahl-prints-badges-and-cushions",
+  "year": 2020,
+  "name": "Roald Dahl Prints, Badges and Cushions",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://talesfortadpoles.ie/",
+      "title": "Tales for Tadpoles | Buy Beautiful Children's Books & Gifts Ireland",
+      "description": "A celebration of children's book illustration. We sell beautiful books, stationery and prints - perfect gifts for both children and adults alike.",
+      "image": "http://talesfortadpoles.ie/cdn/shop/files/Tales_for_Tadpole_Logo_for_Light_Wood.jpg?v=1636974912&width=1024"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q4yvZ2sABg8",
+      "channel": "Dundee Mink",
+      "duration": 332.0,
+      "title": "Liz Barker Queen Elizabeth the first"
+    }
+  ]
+}

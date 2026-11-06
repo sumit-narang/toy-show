@@ -1,0 +1,57 @@
+{
+  "id": "2023-woom-6-bike",
+  "year": 2023,
+  "name": "Woom 6 Bike",
+  "price_eur": 619.0,
+  "price_text": "€619-€629",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://donnybrookbikes.ie/shop/woom-6/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://donnybrookbikes.ie/shop/woom-6-off-air/",
+      "title": "Woom OFF AIR 6 - Donnybrook Bikes",
+      "description": "Bike 26″ • 11kg Child 10 – 14 years • 140 – 165 cm – Disc brake, Suspension fork     The woom OFF AIR 6 offers children aged ten years and older a superlight and durable mountain bike with front suspension ideal for mastering even the trickiest of trails. This is all down to the suspension fork along with the special narrow-wide chainring, ultra-smooth shifting and grippy, wide tyres. All that mountain-biking parents will see of their kids is a cloud of dust!",
+      "image": "https://donnybrookbikes.ie/wp-content/uploads/2021/11/3to2-woom_OFFAIR_6_side_right_product.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AMSVhHfcj0c",
+      "channel": "woom",
+      "duration": 239.0,
+      "title": "How to assemble 🧰 your woom 4, 5 and 6 | woom bikes"
+    },
+    {
+      "id": "aaHv6cxy-Uk",
+      "channel": "woom",
+      "duration": 128.0,
+      "title": "Kids' Bike with Gears - woom 4 / woom 5 / woom 6 🚲"
+    },
+    {
+      "id": "4tJSSmTkI8Y",
+      "channel": "Bike Magazine",
+      "duration": 306.0,
+      "title": "Woom Explore Review: The Best Ultralight Kids Bike on the Market"
+    },
+    {
+      "id": "dUF3rFx5bSM",
+      "channel": "Rascal Rides",
+      "duration": 379.0,
+      "title": "Woom Explore Kids Bike Review"
+    },
+    {
+      "id": "mlgjhI7FmtI",
+      "channel": "Rascal Rides",
+      "duration": 239.0,
+      "title": "Woom OFF AIR Review: Why It's One Of Our Favorite Kids Mountain Bikes!"
+    }
+  ]
+}

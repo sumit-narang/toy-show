@@ -1,0 +1,57 @@
+{
+  "id": "2022-fionn-mac-cumhaill-100-piece-puzzle",
+  "year": 2022,
+  "name": "Fionn mac Cumhaill 100 Piece Puzzle",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Gosling Gifts",
+      "url": "http://goslinggames.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goslinggames.ie/",
+      "title": "Irish Jigsaw Puzzles & Board Games | Made in Ireland Since 1987",
+      "description": "Shop Irish jigsaw puzzles, board games and gifts, proudly designed and made in Ireland. Discover unique Irish designs from Gosling Games, established in 1987.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "M5Nsm7fyf4s",
+      "channel": "BuffMaister",
+      "duration": 496.0,
+      "title": "Shin Megami Tensei 5 Vengeance - Fionn mac Cumhaill Quest"
+    },
+    {
+      "id": "OW5D70axXrM",
+      "channel": "Legend or Evidence",
+      "duration": 728.0,
+      "title": "Nature Doesn't Build in Hexagons: The 100-Year Mystery of This Beach"
+    },
+    {
+      "id": "9aT4-jfFwPk",
+      "channel": "Harry Type-C",
+      "duration": 122.0,
+      "title": "Surely the Strongest Physical Ability in Shin Megami Tensei V"
+    },
+    {
+      "id": "PuW-ejQEkGI",
+      "channel": "The Gentle Stroll",
+      "duration": 8184.0,
+      "title": "Misty & Haunting Autumn Forest Stroll🕯️🍂 | Secret Castle Ruins of Tollymore, Ireland | 4K "
+    },
+    {
+      "id": "Yoiit7unfP4",
+      "channel": "BBC",
+      "duration": 164.0,
+      "title": "Nothing gets in the way of a good tale | SAS Rogue Heroes  - BBC"
+    }
+  ]
+}

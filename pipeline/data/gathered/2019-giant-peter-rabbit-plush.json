@@ -1,0 +1,57 @@
+{
+  "id": "2019-giant-peter-rabbit-plush",
+  "year": 2019,
+  "name": "Giant Peter Rabbit Plush",
+  "price_eur": 67.0,
+  "price_text": "€67",
+  "retailers": [
+    {
+      "name": "Marks and Spencer Ireland",
+      "url": "http://www.marksandspencer.com/ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.marksandspencer.com/ie/",
+      "title": "Welcome to Marks & Spencer IE",
+      "description": "Welcome to the M&S IE website. Shop clothing, home, furniture, beauty, food, wine, flowers & gifts. Buy now for free delivery, store collections and returns.",
+      "image": "https://images.ctfassets.net/prxuf37q3ta2/4q135QYXPP18bPt1tw4OWp/ffd6d8c9985079696b5507f3f87f6c20/DESKTOP_TRIO_851X1130-1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MjfjnTIWuB0",
+      "channel": "The Bright Side",
+      "duration": 11.0,
+      "title": "Peter Rabbit Talking Plush 10s SS14"
+    },
+    {
+      "id": "cyFhYpm4PYs",
+      "channel": "Memory Lane Toys",
+      "duration": 188.0,
+      "title": "Story Reading Animated Peter Rabbit Battery Operated Soft Toy ** Reads the Book **"
+    },
+    {
+      "id": "_eaTVyyGi-o",
+      "channel": "Rainbow Designs",
+      "duration": 44.0,
+      "title": "Talking and Hopping Peter Rabbit"
+    },
+    {
+      "id": "VVT61zazrR0",
+      "channel": "BeautifulHusky",
+      "duration": 448.0,
+      "title": "Peter Rabbit Ty Beanie Babies Movie Plush 2018"
+    },
+    {
+      "id": "i6ymP0bqIKs",
+      "channel": "Martin Ansell",
+      "duration": 49.0,
+      "title": "Switch Adapted Talking peter rabbit"
+    }
+  ]
+}

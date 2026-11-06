@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-careers-care-clinic-vehicle-playset",
+  "year": 2023,
+  "name": "Barbie Careers Care Clinic Vehicle Playset",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-careers-care-clinic-playset/p/223901"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-careers-care-clinic-playset/p/223901",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8J5k9Jh7iBU",
+      "channel": "Learn and Play for Fun",
+      "duration": 199.0,
+      "title": "Barbie Care Clinic Vehicle"
+    },
+    {
+      "id": "rQCpcagt41c",
+      "channel": "Mattel",
+      "duration": 66.0,
+      "title": "Barbie Care Clinic Playset | Mattel"
+    },
+    {
+      "id": "o1-YV8u6238",
+      "channel": "Mattel",
+      "duration": 27.0,
+      "title": "Barbie® Care Clinic Vehicle® | Barbie"
+    },
+    {
+      "id": "XJQsw36qRMk",
+      "channel": "Play with me - Toys for Kids",
+      "duration": 299.0,
+      "title": "Barbie AMBULANCE & HOSPITAL 2 in 1 - Doctor Barbie sees patients in mobile clinic!"
+    },
+    {
+      "id": "pZmsIWIqSto",
+      "channel": "Titi Toys and Dolls",
+      "duration": 601.0,
+      "title": "Barbie Doll Ambulance and Hospital Playset - Best Barbie Toy!"
+    }
+  ]
+}

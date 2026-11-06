@@ -1,0 +1,57 @@
+{
+  "id": "2023-cry-babies-newborn-coney",
+  "year": 2023,
+  "name": "Cry Babies Newborn Coney",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/cry-babies/cry-babies-newborn-coney/p/224773"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/cry-babies/cry-babies-newborn-coney/p/224773",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "n5UHqMqCqyc",
+      "channel": "Morzsa játékbolt",
+      "duration": 51.0,
+      "title": "Cry Babies - Újszülött Coney interaktív játékbaba 32cm"
+    },
+    {
+      "id": "rvH5RGX8Xow",
+      "channel": "TTPM Toy Reviews",
+      "duration": 149.0,
+      "title": "Cry Babies Newborn Molly and Crawling Miley"
+    },
+    {
+      "id": "r8r7g-FAFWc",
+      "channel": "dollsmummydiaries",
+      "duration": 664.0,
+      "title": "NEW: Doll review video!!Cry baby new born Coney by IMC toys ! Part 1"
+    },
+    {
+      "id": "XHdIozI0jUw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 99.0,
+      "title": "Cry Babies Coney, Lala, and Lea from IMC Toys"
+    },
+    {
+      "id": "Ih-Z1NECSkw",
+      "channel": "None",
+      "duration": 65.0,
+      "title": "Cry babies coney"
+    }
+  ]
+}

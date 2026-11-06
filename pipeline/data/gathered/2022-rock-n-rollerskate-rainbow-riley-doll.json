@@ -1,0 +1,57 @@
+{
+  "id": "2022-rock-n-rollerskate-rainbow-riley-doll",
+  "year": 2022,
+  "name": "Rock N Rollerskate Rainbow Riley Doll",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/rock-n-rollerskate-rainbow-riley-doll/p/200107"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/rock-n-rollerskate-rainbow-riley-doll/p/200107",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xEaUklmjyzA",
+      "channel": "Tallie's Tricks",
+      "duration": 232.0,
+      "title": "RC Rainbow Riley Rock n’ Rollerskate"
+    },
+    {
+      "id": "WjPQ5UfdniU",
+      "channel": "The Calix Family",
+      "duration": 109.0,
+      "title": "Rock N Rollerskate Doll by Jakks Pacific Toys| RC Rainbow Riley"
+    },
+    {
+      "id": "cJNFYuyhuJc",
+      "channel": "XHONG KHEPAL",
+      "duration": 237.0,
+      "title": "Jurassic World Camp ||Amazon Exclusive || Rock N Rollerskate Doll  ||‎@XHONG KHEPAL "
+    },
+    {
+      "id": "CXz38RGXEzA",
+      "channel": "Fun Fam",
+      "duration": 107.0,
+      "title": "Rock N Rollerskate Rainbow Riley Fun Skating With Tahlia"
+    },
+    {
+      "id": "Hww9AiPwY-c",
+      "channel": "QVC",
+      "duration": 701.0,
+      "title": "Rock N' Rollerskate RC Stunt Doll with Lights and Sounds on QVC"
+    }
+  ]
+}

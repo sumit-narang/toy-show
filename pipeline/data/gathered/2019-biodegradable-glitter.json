@@ -1,0 +1,54 @@
+{
+  "id": "2019-biodegradable-glitter",
+  "year": 2019,
+  "name": "Biodegradable Glitter",
+  "price_eur": 2.5,
+  "price_text": "€2.50",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": "https://www.primark.com/en/categories/beauty/make-up/cosmetics/skin/biodegradable-glitter/p/124484989"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en/categories/beauty/make-up/cosmetics/skin/biodegradable-glitter/p/124484989"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0MWIQY2bsNY",
+      "channel": "Bramble Berry",
+      "duration": 95.0,
+      "title": "All About Crafting with Bramble Berry EcoGlitter - Biodegradable Glitter | Bramble Berry"
+    },
+    {
+      "id": "OuMYzBxS3KA",
+      "channel": "VICE Asia",
+      "duration": 180.0,
+      "title": "The World’s First Biodegradable Glitter"
+    },
+    {
+      "id": "6fcVg5AvhWI",
+      "channel": "EdensSecret1",
+      "duration": 937.0,
+      "title": "My Expensive Biodegradable Glitter Haul"
+    },
+    {
+      "id": "jGolAWJWD5A",
+      "channel": "in-cosmetics",
+      "duration": 47.0,
+      "title": "Award winning plastic free & biodegradable glitter!"
+    },
+    {
+      "id": "h1jr6LJC5sE",
+      "channel": "Bryony Claire",
+      "duration": 1863.0,
+      "title": "Is Biodegradable Glitter as Bad as Plastic Glitter? Is All Glitter Bad?"
+    }
+  ]
+}

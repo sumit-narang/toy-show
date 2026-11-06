@@ -1,0 +1,57 @@
+{
+  "id": "2025-our-generation-ice-cream-truck-sweet-stop-playset",
+  "year": 2025,
+  "name": "Our Generation Ice Cream Truck Sweet Stop Playset",
+  "price_eur": 139.99,
+  "price_text": "€139.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-ice-cream-truck-sweet-stop-playset/p/148867"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-ice-cream-truck-sweet-stop-playset/p/148867",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nM83D_miZrw",
+      "channel": "NA",
+      "duration": 593.0,
+      "title": "🍦 ASMR Organizing My Miniature Ice Cream Truck | Our Generation Sweet Stop 🍧 | No Talking"
+    },
+    {
+      "id": "p45cKCKNEp0",
+      "channel": "NA",
+      "duration": 425.0,
+      "title": "Review of the Our Generation Sweet Stop Ice Cream Truck 🍦"
+    },
+    {
+      "id": "wDvdvKL3cLo",
+      "channel": "NA",
+      "duration": 601.0,
+      "title": "Organizing My Pink Miniature Ice Cream Truck 🍦 | Our Generation Sweet Stop 🍧 | ASMR No Talking"
+    },
+    {
+      "id": "Azp1KHkyf50",
+      "channel": "NA",
+      "duration": 584.0,
+      "title": "Our Generation Doll Ice Cream Truck Comes to Town!"
+    },
+    {
+      "id": "91FYG3WDTLI",
+      "channel": "NA",
+      "duration": 78.0,
+      "title": "Our Generation Dolls - Sweet Stop Ice Cream Truck"
+    }
+  ]
+}

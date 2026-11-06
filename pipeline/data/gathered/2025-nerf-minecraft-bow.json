@@ -1,0 +1,57 @@
+{
+  "id": "2025-nerf-minecraft-bow",
+  "year": 2025,
+  "name": "NERF Minecraft Bow",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/nerf-minecraft-bow/p/245951"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/nerf-minecraft-bow/p/245951",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3uFGzipOw0I",
+      "channel": "TTPM Toy Reviews",
+      "duration": 55.0,
+      "title": "NERF Minecraft Bow Review!"
+    },
+    {
+      "id": "AdKgWGr7ThM",
+      "channel": "Bobbee Reviews",
+      "duration": 43.0,
+      "title": "Nerf Minecraft Bow Dart Blaster Review | Is This Bow Fun or Just a Toy?"
+    },
+    {
+      "id": "VxkMSkDF8vY",
+      "channel": "Minecraft",
+      "duration": 54.0,
+      "title": "Minecraft x NERF World DLC"
+    },
+    {
+      "id": "inHBPGVILD0",
+      "channel": "Firelight",
+      "duration": 3727.0,
+      "title": "How I Started NERF Tycoon in Minecraft"
+    },
+    {
+      "id": "Y-qAHr6cB4g",
+      "channel": "NerfBlaster",
+      "duration": 16.0,
+      "title": "Nerf Minecraft Sabrewing Bow Blaster (F4733)"
+    }
+  ]
+}

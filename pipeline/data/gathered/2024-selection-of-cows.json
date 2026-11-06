@@ -1,0 +1,54 @@
+{
+  "id": "2024-selection-of-cows",
+  "year": 2024,
+  "name": "Selection of cows",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Kids-Globe-12-Pack-Cows/m-7584.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Kids-Globe-12-Pack-Cows/m-7584.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-t6htBLENvY",
+      "channel": "Tick Creek Ranch",
+      "duration": 456.0,
+      "title": "Insane Profits from 11 Cows on 27 Acres. Our secrets to big profits"
+    },
+    {
+      "id": "vzZgzteb_dI",
+      "channel": "Cattleman U",
+      "duration": 220.0,
+      "title": "Most People Keep the Wrong Cows... Here's Why"
+    },
+    {
+      "id": "GafZSH2GztQ",
+      "channel": "VICE News",
+      "duration": 463.0,
+      "title": "These Supercows Are Genetically Bred To Fetch Six Figures At Auction (HBO)"
+    },
+    {
+      "id": "Y-a7-_1JRag",
+      "channel": "RealAgriculture",
+      "duration": 745.0,
+      "title": "Beef School Ep 4  - Heifer Selection"
+    },
+    {
+      "id": "MG0JeUIy2kg",
+      "channel": "Trouw Nutrition",
+      "duration": 1792.0,
+      "title": "Six dairy farm management tips to increase longevity of dairy cows"
+    }
+  ]
+}

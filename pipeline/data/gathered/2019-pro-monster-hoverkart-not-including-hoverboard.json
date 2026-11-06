@@ -1,0 +1,57 @@
+{
+  "id": "2019-pro-monster-hoverkart-not-including-hoverboard",
+  "year": 2019,
+  "name": "Pro Monster Hoverkart (not including hoverboard)",
+  "price_eur": 80.0,
+  "price_text": "€80.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vzbRKvw2pps",
+      "channel": "HoverPowered LLC",
+      "duration": 53.0,
+      "title": "Introducing HoverKart - Transform your hoverboard!"
+    },
+    {
+      "id": "lhDrlK0wSOI",
+      "channel": "Segbo Your Move",
+      "duration": 385.0,
+      "title": "How To Assemble Your New Go Monster HoverKart"
+    },
+    {
+      "id": "1-TXLtq2Q0s",
+      "channel": "HCS GADGETS",
+      "duration": 53.0,
+      "title": "Latest Graffiti Hoverboard Go Kart Racing (Hoverkart) By HCS Gadgets"
+    },
+    {
+      "id": "3-vC2yq_BBg",
+      "channel": "HCS GADGETS",
+      "duration": 6.0,
+      "title": "Suspension Go Kart Monster Hoverkart Trick For Hoverboard Swegways | HCS Gadgets"
+    },
+    {
+      "id": "9bmJahK71sg",
+      "channel": "Hoverboard Pro UK",
+      "duration": 33.0,
+      "title": "Hoverkart Bundle || 6.5 Bluetooth Hoverboard || Hoverboard Pro UK"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-discovery-kids-metal-detector",
+  "year": 2020,
+  "name": "Discovery Kids Metal Detector",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Mary's Toymaster, Cork",
+      "url": "https://www.marys.ie/discovery-kids-metal-detector"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.marys.ie/discovery-kids-metal-detector"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kGnt6tBT_I8",
+      "channel": "Blue Marble STEM Toys",
+      "duration": 46.0,
+      "title": "NATIONAL GEOGRAPHIC  Metal Detector Starter Kit"
+    },
+    {
+      "id": "DTOy7ck9Zos",
+      "channel": "Reviewed By S",
+      "duration": 45.0,
+      "title": "National Geographic Metal Detector REVIEW - Perfect for kids who love to adventure"
+    },
+    {
+      "id": "s2y-q7yUXN4",
+      "channel": "Blue Marble STEM Toys",
+      "duration": 46.0,
+      "title": "NATIONAL GEOGRAPHIC Explorer Series Metal Detector"
+    },
+    {
+      "id": "U-GL0fsiFiU",
+      "channel": "Secure Gadgets Tube",
+      "duration": 149.0,
+      "title": "Best Metal Detector for Kids? National Geographic Metal Detector Test!"
+    },
+    {
+      "id": "OQ0E6VbnTn0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "Discovery Metal Detector from Explore Scientific"
+    }
+  ]
+}

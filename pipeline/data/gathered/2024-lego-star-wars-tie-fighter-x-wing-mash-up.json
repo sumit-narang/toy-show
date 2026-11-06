@@ -1,0 +1,60 @@
+{
+  "id": "2024-lego-star-wars-tie-fighter-x-wing-mash-up",
+  "year": 2024,
+  "name": "LEGO Star Wars TIE Fighter & X-Wing Mash-up",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "LEGO Shop",
+      "url": "https://www.lego.com/en-ie/product/tie-fighter-x-wing-mash-up-75393"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/tie-fighter-x-wing-mash-up-75393",
+      "title": "TIE Fighter & X-Wing Mash-up 75393 | Star Wars™ | Buy online at the Official LEGO® Shop IE",
+      "description": "Build your own mixed-up starfighters!",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltd78a9faad57e08cc/75393_Prod.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "Build your own mixed-up starfighters!",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/bltd78a9faad57e08cc/75393_Prod.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YwRvqFYWvUY",
+      "channel": "MandRproductions",
+      "duration": 1062.0,
+      "title": "LEGO Star Wars 75393 TIE FIGHTER & X-WING MASH-UP Review! (2024)"
+    },
+    {
+      "id": "zYEj7dJpEpQ",
+      "channel": "AustrianBrickFan",
+      "duration": 840.0,
+      "title": "LEGO Star Wars 75393 TIE Fighter & X-wing Mash-up - LEGO Speed Build Review"
+    },
+    {
+      "id": "dBkYAibJS6s",
+      "channel": "Solid Brix Studios",
+      "duration": 743.0,
+      "title": "LEGO Star Wars TIE Fighter & X-Wing REVIEW | Set 75393"
+    },
+    {
+      "id": "W-kdRsL9maM",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1130.0,
+      "title": "LEGO Star Wars TIE Fighter & X-wing Mash-up fan review! More parts, same price 75393"
+    },
+    {
+      "id": "WeH0rXKYbIk",
+      "channel": "Five Lonely Clones",
+      "duration": 644.0,
+      "title": "LEGO Star Wars 75393 TIE Fighter & X-wing Mash-up Review! | August 2024"
+    }
+  ]
+}

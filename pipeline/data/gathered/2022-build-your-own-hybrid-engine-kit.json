@@ -1,0 +1,60 @@
+{
+  "id": "2022-build-your-own-hybrid-engine-kit",
+  "year": 2022,
+  "name": "Build Your Own Hybrid Engine Kit",
+  "price_eur": 76.99,
+  "price_text": "€76.99",
+  "retailers": [
+    {
+      "name": "MicksGarage",
+      "url": "https://www.micksgarage.com/d/gifts/products/3653864/haynes-build-your-own-hybrid-engine-kit?loc=ie&msclkid=eae167f961ff10cf4fba0479a605f73a&utm_source=bing&utm_medium=cpc&utm_campaign=PMax:%20Micks%20Garage_Smart%20Shopping_IE_Catch%20All_Other&utm_term=4581871127890043&utm_content=Catch%20All_Other"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.micksgarage.com/d/gifts/products/3653864/haynes-build-your-own-hybrid-engine-kit?loc=ie&msclkid=eae167f961ff10cf4fba0479a605f73a&utm_source=bing&utm_medium=cpc&utm_campaign=PMax:%20Micks%20Garage_Smart%20Shopping_IE_Catch%20All_Other&utm_term=4581871127890043&utm_content=Catch%20All_Other",
+      "title": "Haynes Build Your Own Hybrid Engine Kit | MicksGarage",
+      "description": "Haynes Build Your Own Hybrid Engine Kit",
+      "image": "https://imagetin.micksgarage.com/images/micksgarage-ie/f79750a0-7/mwhy14_1_r_fbe9d3.jpg",
+      "ld_description": "When finished this model demonstrates the internal combustion, eco mode and electric only operations of a typical hybrid system! This model is a simplified representation of a 4-cylinder internal combustion/electric hybrid engine. Through the fully functional engine model, illuminated components and a multi-function sound chip, it demonstrates the internal combustion, eco mode and electric only operations of a typical hybrid system. It's an ideal project for car enthusiasts who love building and exploring all things mechanical. When finished, it provides a practical, educational aid to understand how a full-size hybrid system works. For children and adults, this kit will keep you entertained for hours! This box contains all the parts and tools you need to assemble the model. It comes complete with a fully illustrated instruction manual, giving you clear step-by-step guidance through the build process. All you need to provide is the time and the three batteries to power the motor. Features & Benefits CONSTRUCT A functional model of a 4-cylinder internal combustion/electric hybrid engine. DISCOVER how a hybrid engine works. INCLUDES everything you need to build your own engine. Over 100 parts, instructions and step-by-step diagrams. Contents: Over 100 pieces Instruction manual Age: 10 years+ Batteries: 3 x AA (not included) Warning: Caution use under adult supervision. For children over 10 years of age only",
+      "brand": "Machine Works",
+      "ld_image": "https://imagetin.micksgarage.com/images/micksgarage-ie/b87d0e71-7/mwhy14_1_r_fbe9d3.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QB-TQqMoJEg",
+      "channel": "Edison Motors and DEBOSS GARAGE",
+      "duration": 1210.0,
+      "title": "Inside Edison Motors’ Hybrid Pickup Build, with DeBoss Garage"
+    },
+    {
+      "id": "w7hWdNdo6Rc",
+      "channel": "Trends UK ",
+      "duration": 65.0,
+      "title": "Machine Works Hybrid (Electric) Engine Kit. Timelapse Build Video"
+    },
+    {
+      "id": "hAKtdfBmNio",
+      "channel": "Trends UK ",
+      "duration": 65.0,
+      "title": "Machine Works - Hybrid (Electric) Engine Kit. Engine Model Demo"
+    },
+    {
+      "id": "JeT8cxAbPZI",
+      "channel": "Eileen Teo (ET Speaks From Home)",
+      "duration": 921.0,
+      "title": "Machine Works Haynes Hybrid Engine Kit Building it Step by Step"
+    },
+    {
+      "id": "m9sdOTUcNV4",
+      "channel": "Creative Etc.",
+      "duration": 1275.0,
+      "title": "DIY Petrol and Electric Hybrid Bike at Home"
+    }
+  ]
+}

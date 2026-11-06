@@ -1,0 +1,53 @@
+{
+  "id": "2020-bigjigs-vanity-kit",
+  "year": 2020,
+  "name": "Bigjigs Vanity Kit",
+  "price_eur": 21.95,
+  "price_text": "€21.95",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0jFakDd-0kQ",
+      "channel": "Bigjigs Toys",
+      "duration": 145.0,
+      "title": "How To Assemble Your didicar® | Quick & Easy Setup Guide"
+    },
+    {
+      "id": "eqJoxWvq6tY",
+      "channel": "The Izzys",
+      "duration": 695.0,
+      "title": "GRAND CENTRAL STATION BY BIGJIGS! Shunting Yard MEGA THOMAS TRACK"
+    },
+    {
+      "id": "SXfqVAaGnsw",
+      "channel": "The Izzys",
+      "duration": 2956.0,
+      "title": "Bigjigs Trains & Destinations COMPILATION! 🚂 Tons of Wooden Railway Fun!"
+    },
+    {
+      "id": "CUReo_D_B-w",
+      "channel": "Izzy's Toy Time",
+      "duration": 752.0,
+      "title": "BigJigs WORLD RECORD PIECE TRIBUTE TRACK! Fun Toy Trains for Kids!"
+    },
+    {
+      "id": "-NqlhqzcAeQ",
+      "channel": "Izzy's Toy Time",
+      "duration": 632.0,
+      "title": "Thomas and Friends BIGJIGS TURNTABLE AND WATERFALLS GALORE! Fun Toy Trains for Kids!"
+    }
+  ]
+}

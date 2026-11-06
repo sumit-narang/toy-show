@@ -1,0 +1,57 @@
+{
+  "id": "2019-pets-alive-boppi-the-booty-shakin-llama",
+  "year": 2019,
+  "name": "Pets Alive Boppi the Booty Shakin' Llama",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths / Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rPs0M4JS2-4",
+      "channel": "Entertainer Toy Product Videos",
+      "duration": 31.0,
+      "title": "Pets Alive - Boppi The Booty Shakin' Llama"
+    },
+    {
+      "id": "NcxmMFFh8Bw",
+      "channel": "Purab Enterprises",
+      "duration": 36.0,
+      "title": "ZURU PETS ALIVE BOPPI THE BOOTY SHAKIN LLAMA"
+    },
+    {
+      "id": "NxdPaiO3YrQ",
+      "channel": "Toyworld Noosa",
+      "duration": 39.0,
+      "title": "Zuru Pets Alive Boppi the Booty Shakin Llama"
+    },
+    {
+      "id": "s_ZfiPv2aAk",
+      "channel": "The Review Spot",
+      "duration": 717.0,
+      "title": "ZURU Toys Pets Alive Boppi The Booty Shakin' Llama Review"
+    },
+    {
+      "id": "RMf7IKn1Kyk",
+      "channel": "ZURU Toys",
+      "duration": 47.0,
+      "title": "ZURU Pets Alive's New BOPPI THE BOOTY SHAKING LLAMA | Twerking Fun For Everyone | COMING SOON"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-pok-mon-clip-n-go-pok-ball-pikachu",
+  "year": 2019,
+  "name": "Pokémon Clip 'N' Go Poké Ball Pikachu",
+  "price_eur": 10.99,
+  "price_text": "€10.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%c3%a9mon-clip-n-go-pokeball-pikachu/p/170863011"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%C3%A9mon-clip-n-go-pokeball-pikachu/p/170863011",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fWwi_eqOKas",
+      "channel": "CNET",
+      "duration": 64.0,
+      "title": "Pikachu go! Finally, a real Pokemon pokeball you can throw"
+    },
+    {
+      "id": "v-s5iAk1KEs",
+      "channel": "xsdf fgtr",
+      "duration": 113.0,
+      "title": "Pokemon XY Clip n Carry Poke Ball Belt Pikachu/Noivern from TOMY"
+    },
+    {
+      "id": "Rhaw5inmbFQ",
+      "channel": "Queen Regalos",
+      "duration": 16.0,
+      "title": "Pokémon Poké Ball Clip ‘N’ Go Belt"
+    },
+    {
+      "id": "6ZHa1FE-XnQ",
+      "channel": "Echoes of PlayTime",
+      "duration": 31.0,
+      "title": "Pokemon Clip 'N' Go (Jazwares) TV Commercial - 2025"
+    },
+    {
+      "id": "NzolNHrSCN0",
+      "channel": "Pikachu The Mouse Pokemon",
+      "duration": 29.0,
+      "title": "Pikachu Throwing Poke Ball's - Pokemon Master Journeys The Series"
+    }
+  ]
+}

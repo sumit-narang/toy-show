@@ -1,0 +1,57 @@
+{
+  "id": "2024-go-go-ufo",
+  "year": 2024,
+  "name": "Go Go UFO",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/childrens-board-games/go-go-ufo-game/p/238122"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/childrens-board-games/go-go-ufo-game/p/238122",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Z5CAQdxH4h4",
+      "channel": "TurboToyTime",
+      "duration": 816.0,
+      "title": "Father & Son PLAY GO GO UFO (Don't Get Abducted!)"
+    },
+    {
+      "id": "7_hTXnJNPYc",
+      "channel": "Vivid Toys and Games",
+      "duration": 21.0,
+      "title": "Goliath Games - GO GO UFO"
+    },
+    {
+      "id": "jk1Vrmc12jg",
+      "channel": "Goliath",
+      "duration": 21.0,
+      "title": "Go Go UFO!"
+    },
+    {
+      "id": "aEhf0zdpXJY",
+      "channel": "Nefy Imagined",
+      "duration": 113.0,
+      "title": "UFO Heroes!!! - Announcement Trailer"
+    },
+    {
+      "id": "kuq7l8TWrKM",
+      "channel": "Akupara Games",
+      "duration": 125.0,
+      "title": "UFO a Go-Go | Announcement Trailer"
+    }
+  ]
+}

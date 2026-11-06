@@ -1,0 +1,57 @@
+{
+  "id": "2019-our-generation-talita-doll",
+  "year": 2019,
+  "name": "Our Generation Talita Doll",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-talita-doll/p/163952"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-talita-doll/p/163952",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0SQlMvG9Uwk",
+      "channel": "sew4dolls",
+      "duration": 490.0,
+      "title": "Our Generation Doll Talita"
+    },
+    {
+      "id": "60s9K7sLob4",
+      "channel": "sew4dolls",
+      "duration": 451.0,
+      "title": "Our Generation Dolls Talita and Vanessa Eve"
+    },
+    {
+      "id": "VR-RdF81PDM",
+      "channel": "ButterflyOGDolls",
+      "duration": 117.0,
+      "title": "Our Generation Dolls Theodore! #ogdolls"
+    },
+    {
+      "id": "MeLuZcMvoUc",
+      "channel": "Crystal Moon",
+      "duration": 219.0,
+      "title": "Our Generation Arlee Doll Review!"
+    },
+    {
+      "id": "_fGFDuBW6Pc",
+      "channel": "Zairah Tangonan",
+      "duration": 722.0,
+      "title": "Massive Shopping with my Our Generation Dolls | Our Generation | Zairah Tangonan"
+    }
+  ]
+}

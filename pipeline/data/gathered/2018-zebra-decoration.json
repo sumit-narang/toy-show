@@ -1,0 +1,53 @@
+{
+  "id": "2018-zebra-decoration",
+  "year": 2018,
+  "name": "Zebra Decoration",
+  "price_eur": 8.45,
+  "price_text": "€8.45",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": null
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0uHfwJhyoXk",
+      "channel": "Home Design",
+      "duration": 239.0,
+      "title": "Zebra Living Room Decorating Ideas"
+    },
+    {
+      "id": "9W3tFVqc8fc",
+      "channel": "Holaholaholiday",
+      "duration": 195.0,
+      "title": "20 Cool Bedrooms With Zebra Print Decor"
+    },
+    {
+      "id": "LPqvA4-q7hs",
+      "channel": "TOP - Incredible Moments",
+      "duration": 154.0,
+      "title": "5 Ways to Decorate With Zebra Print - Did You Know This?"
+    },
+    {
+      "id": "d8wsPA6J6JQ",
+      "channel": "Jet Creations",
+      "duration": 31.0,
+      "title": "Jet Creations, Inflatable Zebra, 32 inch Tall [AN-ZEB3]"
+    },
+    {
+      "id": "hwy_gFhQb1g",
+      "channel": "eHowArtsAndCrafts",
+      "duration": 491.0,
+      "title": "How to Make Your Own Crafts for Decor With Zebra Print : DIY Crafts"
+    }
+  ]
+}

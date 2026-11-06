@@ -1,0 +1,57 @@
+{
+  "id": "2017-red-rufus-rainbow-sock-dog",
+  "year": 2017,
+  "name": "Red Rufus \"Rainbow Sock Dog\"",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "redrufus.ie",
+      "url": "http://redrufus.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Alkmr_ti4Bo",
+      "channel": "NA",
+      "duration": 175.0,
+      "title": "Dog Surprised with Technicolor Waterfall of BALLS!"
+    },
+    {
+      "id": "zW73rZsVilM",
+      "channel": "NA",
+      "duration": 1352.0,
+      "title": "22 Minutes of Dogs Having the Time of Their Lives in the Pool"
+    },
+    {
+      "id": "qtjV8ELeb3U",
+      "channel": "NA",
+      "duration": 96.0,
+      "title": "Woman Sees Tiny Legs Sticking Out Of Her Dog's Mouth | The Dodo"
+    },
+    {
+      "id": "dGmbvCgfwAc",
+      "channel": "NA",
+      "duration": 3565.0,
+      "title": "Becoming DOGS to Escape SCP FACILITY in Roblox With MY FRIENDS..."
+    },
+    {
+      "id": "0zJ-1FGr8s0",
+      "channel": "NA",
+      "duration": 104.0,
+      "title": "Ted Lasso — Jamie and Roy on the Dance Floor | Full Scene | Apple TV"
+    }
+  ]
+}

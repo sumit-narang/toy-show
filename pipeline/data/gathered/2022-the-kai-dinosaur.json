@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-kai-dinosaur",
+  "year": 2022,
+  "name": "The Kai Dinosaur",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4LHhO6B1ZXo",
+      "channel": "Kayato",
+      "duration": 57.0,
+      "title": "Kai Cenat got mad after Ray & Rakai ruined the moment Tota had as he thought that he met a dinosaur "
+    },
+    {
+      "id": "BLTY98kI58U",
+      "channel": "Dinolings : Pinkfong Dinosaurs for Kids",
+      "duration": 214.0,
+      "title": "[✨EP10] Bell the Carnotaurus | Dinosaur Cartoon | Season 2 | Dinolings: Pinkfong Dinosaurs for Kids"
+    },
+    {
+      "id": "jkOEu-ktAvY",
+      "channel": "Kaiju Capi",
+      "duration": 1966.0,
+      "title": "BATTLE ROYALE with EVERY LAND DINOSAUR! - Jurassic World Evolution 2"
+    },
+    {
+      "id": "kCCUT7S8yPI",
+      "channel": "ColtEditz",
+      "duration": 58.0,
+      "title": "Kai vs Carnotaurus"
+    },
+    {
+      "id": "faYgJjUf1qA",
+      "channel": "Tota Mc",
+      "duration": 487.0,
+      "title": "Tota Goes To Universal Studios With Kai Cenat!"
+    }
+  ]
+}

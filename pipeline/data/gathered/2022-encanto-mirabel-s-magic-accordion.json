@@ -1,0 +1,54 @@
+{
+  "id": "2022-encanto-mirabel-s-magic-accordion",
+  "year": 2022,
+  "name": "Encanto Mirabel's Magic Accordion",
+  "price_eur": 27.9,
+  "price_text": "€27.90",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/electronics/encanto/mirabels-magical-accordion/2000343608.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/toys/electronics/encanto/mirabels-magical-accordion/2000343608.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OT7Ce1yGGms",
+      "channel": "Plainquotes",
+      "duration": 395.0,
+      "title": "Disney Encanto Mirabel's Musical Accordion"
+    },
+    {
+      "id": "Yp5nPGWWMh4",
+      "channel": "DisneyMusicVEVO",
+      "duration": 295.0,
+      "title": "Stephanie Beatriz, Olga Merediz, Encanto - Cast - The Family Madrigal (From \"Encanto\")"
+    },
+    {
+      "id": "gomNysH28E4",
+      "channel": "Motivella",
+      "duration": 160.0,
+      "title": "Encanto Mirabel Doll - Sing and Play - Encanto Toy Unboxing"
+    },
+    {
+      "id": "KZYqMSgI6fM",
+      "channel": "toytent",
+      "duration": 42.0,
+      "title": "Magic Musicians Accordion Player and Dancing Girl"
+    },
+    {
+      "id": "T-3_OUQ41Oc",
+      "channel": "Mia’s Toy World",
+      "duration": 169.0,
+      "title": "Disney Encanto Toy Dolls !!  - Playing and Dancing the  Accordion with Maribel and Isabella"
+    }
+  ]
+}

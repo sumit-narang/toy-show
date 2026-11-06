@@ -1,0 +1,54 @@
+{
+  "id": "2019-toffee",
+  "year": 2019,
+  "name": "Toffee",
+  "price_eur": 18.2,
+  "price_text": "€18.20",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/toffee-sarah-crossan-9781408868126"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/toffee-sarah-crossan-9781408868126"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ixnI9sSIILw",
+      "channel": "Toffee TV : Everton Fan Channel",
+      "duration": null,
+      "title": "COFFEE WITH A TOFFEE ☕️ I Everton Chat | EP46"
+    },
+    {
+      "id": "gZxI_g8YIPY",
+      "channel": "Toffee TV : Everton Fan Channel",
+      "duration": 496.0,
+      "title": "Toffees Send Scouts To Watch Wonderkid Winger In The Champions League... | Everton News Daily"
+    },
+    {
+      "id": "7Z8MvxYovpk",
+      "channel": "Tasting History with Max Miller",
+      "duration": 1124.0,
+      "title": "Making Real English Toffee from 1881"
+    },
+    {
+      "id": "FW2r8PBXgjo",
+      "channel": "Toffee TV : Everton Fan Channel",
+      "duration": 5576.0,
+      "title": "COFFEE WITH A TOFFEE ☕️ I Everton 0-2 Chelsea & More EFC Chat | EP45"
+    },
+    {
+      "id": "2ai5701_p0g",
+      "channel": "Preppy Kitchen",
+      "duration": 515.0,
+      "title": "How to Make Toffee | My Favorite Holiday Treat!"
+    }
+  ]
+}

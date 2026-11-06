@@ -1,0 +1,54 @@
+{
+  "id": "2022-vtech-kidi-superstar-dj-kidi-dj-mix",
+  "year": 2022,
+  "name": "VTech Kidi SuperStar DJ Kidi DJ Mix",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C6Zd2O0jXeE",
+      "channel": "Vishal Sharma",
+      "duration": 255.0,
+      "title": "VTech Kidi DJ Mix Black, Toy DJ Mixer for Kids with 15 Tracks and 4 Music Styles Review"
+    },
+    {
+      "id": "CC7NZ0rUc_U",
+      "channel": "This Channel Is Not",
+      "duration": 21.0,
+      "title": "Vetch Kidi Star/Kids Star DJ Mixer Startup And Shutdown"
+    },
+    {
+      "id": "KUlySzPBATc",
+      "channel": "VTech Toys UK",
+      "duration": 20.0,
+      "title": "VTech | Kidi DJ Mix | TV AD 20s"
+    },
+    {
+      "id": "DnYEdtilUak",
+      "channel": "Pernell Portal",
+      "duration": 351.0,
+      "title": "VTech Kidi DJ MIX | Crazy Live Beats! | REVIEW | Testing and Playing"
+    },
+    {
+      "id": "JpNtI7d5kWU",
+      "channel": "ictio",
+      "duration": 341.0,
+      "title": "VTech Kidi SuperStar DJ"
+    }
+  ]
+}

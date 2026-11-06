@@ -1,0 +1,53 @@
+{
+  "id": "2018-adult-herbal-tea-garden-kit",
+  "year": 2018,
+  "name": "Adult Herbal Tea Garden Kit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w2wgaQJo1UU",
+      "channel": "TheGardenShopIreland",
+      "duration": 119.0,
+      "title": "Herbal Tea Garden Kit"
+    },
+    {
+      "id": "X9zckFyzjmU",
+      "channel": "Loako",
+      "duration": 34.0,
+      "title": "Premium Herb Garden Kit - Grow 4 of your favorite kitchen herbs"
+    },
+    {
+      "id": "yTCz3CA3ZHE",
+      "channel": "Colmo Smart Key Ring",
+      "duration": 111.0,
+      "title": "COLMO Indoor Herb Garden Kit"
+    },
+    {
+      "id": "lvQgdt9sprw",
+      "channel": "Loako",
+      "duration": 69.0,
+      "title": "Herb Garden Kit - Grow 5 of your favorites kitchen herbs"
+    },
+    {
+      "id": "Vm7MO0rHvqA",
+      "channel": "Buyers International",
+      "duration": 98.0,
+      "title": "Indoor Herb Garden Starter Kit - 5 Herb Plant Grow Kit w/Pots & Soil!"
+    }
+  ]
+}

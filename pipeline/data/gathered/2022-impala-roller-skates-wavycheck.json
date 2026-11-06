@@ -1,0 +1,54 @@
+{
+  "id": "2022-impala-roller-skates-wavycheck",
+  "year": 2022,
+  "name": "Impala Roller Skates Wavycheck",
+  "price_eur": 119.95,
+  "price_text": "€119.95",
+  "retailers": [
+    {
+      "name": "Hennessy Outdoors",
+      "url": "https://hennessyoutdoors.ie/product/impala-roller-skates-wavycheck/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://hennessyoutdoors.ie/product/impala-roller-skates-wavycheck/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_SDD_ksjChw",
+      "channel": "Impala Skate",
+      "duration": 22.0,
+      "title": "INTRODUCING: WAVY CHECK ROLLER SKATE"
+    },
+    {
+      "id": "HXO_yf_5FAs",
+      "channel": "Dream of Chims",
+      "duration": 102.0,
+      "title": "IMPALA ROLLER SKATES UNBOXING | HOLOGRAPHIC"
+    },
+    {
+      "id": "-9N9ZGoON04",
+      "channel": "from Vella Chastine",
+      "duration": 520.0,
+      "title": "Impala Roller Skates Unboxing | Marawa Rose Gold"
+    },
+    {
+      "id": "mhMns5zeKsk",
+      "channel": "Pair of Skates",
+      "duration": 312.0,
+      "title": "I Finally got skates! | Impala Roller skate unboxing"
+    },
+    {
+      "id": "djcKbAsKvAo",
+      "channel": "Imone!OnIce",
+      "duration": 518.0,
+      "title": "IMPALA ROLLER SKATES UNBOXING + REVIEW // Marawa Rose Gold | Adult Figure Skating Journey"
+    }
+  ]
+}

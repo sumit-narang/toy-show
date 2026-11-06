@@ -1,0 +1,54 @@
+{
+  "id": "2025-glow-ball",
+  "year": 2025,
+  "name": "Glow Ball!",
+  "price_eur": 27.0,
+  "price_text": "€27",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/glow-ball-fast-paced-4-in-1-fast-action-game/1601183646.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/glow-ball-fast-paced-4-in-1-fast-action-game/1601183646.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bvodfHAFgcM",
+      "channel": "UnCappedProductions",
+      "duration": 594.0,
+      "title": "Travelling to Texas for PaintballFit's GLOWBALL Paintball Tournament!"
+    },
+    {
+      "id": "0n3OB5f2x9U",
+      "channel": "The Entertainer",
+      "duration": 21.0,
+      "title": "Glow Ball Game"
+    },
+    {
+      "id": "NNLE1nuBCtQ",
+      "channel": "Lew's Sensory Therapy",
+      "duration": 7442.0,
+      "title": "Blue Glow Balls and Relaxing Music || Autism Sensory Therapy"
+    },
+    {
+      "id": "ZFT9ujsuykY",
+      "channel": "MoreBalls",
+      "duration": 1251.0,
+      "title": "Marble Race At Night  | #marbles #marblerace #marblerun #blender #animation #physics #tron"
+    },
+    {
+      "id": "f6baODG-Lbg",
+      "channel": "MoreBalls",
+      "duration": 1737.0,
+      "title": "Night Elimination Race!!!  | #marbles #marblerun #marblerace #asmr #sensory"
+    }
+  ]
+}

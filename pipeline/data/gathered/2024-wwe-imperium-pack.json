@@ -1,0 +1,57 @@
+{
+  "id": "2024-wwe-imperium-pack",
+  "year": 2024,
+  "name": "WWE Imperium Pack",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-battle-pack-figures/wwe-main-event-imperium-action-figure-3-pack/p/238558"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-battle-pack-figures/wwe-main-event-imperium-action-figure-3-pack/p/238558",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bwUVn9IShd8",
+      "channel": "Kyle Peterson",
+      "duration": 695.0,
+      "title": "Imperium WWE Elite Unboxing & Review!"
+    },
+    {
+      "id": "sDtyaqzm5Vg",
+      "channel": "Final Beat Figures",
+      "duration": 855.0,
+      "title": "Elite IMPERIUM 2-pack Figure Review!"
+    },
+    {
+      "id": "x-wYPcM6DWQ",
+      "channel": "BrettO Live",
+      "duration": 601.0,
+      "title": "WWE Elite Imperium (Ludwig Kaiser & Giovanni Vinci) TWO Pack Review"
+    },
+    {
+      "id": "mMuKHEcqHrA",
+      "channel": "Time to Wrestle",
+      "duration": 742.0,
+      "title": "Imperium 2-pack review"
+    },
+    {
+      "id": "x4UYN__PSMQ",
+      "channel": "Deadmanfigs_DFW",
+      "duration": 847.0,
+      "title": "WWE Elite 2 Pack IMPERIUM Unboxing and Review! Deadman's Deliveries Episode 114"
+    }
+  ]
+}

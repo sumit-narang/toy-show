@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-whizz-world-fire-engine",
+  "year": 2017,
+  "name": "ELC Whizz World Fire Engine",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jYv7bEmag64",
+      "channel": "kels prelovedtoys",
+      "duration": 62.0,
+      "title": "Elc whizz world lights and sounds fire engine"
+    },
+    {
+      "id": "gv2MWh-fhZo",
+      "channel": "Irmala Bey",
+      "duration": 64.0,
+      "title": "ELC Whizz World Fire Engine"
+    },
+    {
+      "id": "l2BvvdQWmWg",
+      "channel": "Didi’s Channel",
+      "duration": 20.0,
+      "title": "ELC Whizz World Lights and Sounds Emergency Centre with lights and sounds"
+    },
+    {
+      "id": "xrJf7IEus3Y",
+      "channel": "Babyplay_isfaa",
+      "duration": 26.0,
+      "title": "ELC FIRE TRUCK"
+    },
+    {
+      "id": "xwA7cK0gqHE",
+      "channel": "Toys World",
+      "duration": 173.0,
+      "title": "Early Learning Centre Small and Big Red Toy Fire Engine #earlylearningcentre #fireengine #toysworld"
+    }
+  ]
+}

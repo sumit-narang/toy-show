@@ -1,0 +1,57 @@
+{
+  "id": "2018-kid-s-big-kit-summer-salad-growing-kit",
+  "year": 2018,
+  "name": "Kid's BIG Kit Summer Salad Growing Kit",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wj6hN9oQ4d4",
+      "channel": "Epic Gardening",
+      "duration": 1019.0,
+      "title": "Growing Lettuce, From Seed to Harvest 🌱"
+    },
+    {
+      "id": "VqcrYosJf9A",
+      "channel": "TODAY",
+      "duration": 272.0,
+      "title": "DIY Sangria Kit, Salad Servers And Other Summer Hostess Gifts | TODAY"
+    },
+    {
+      "id": "R3kGBeDdyWc",
+      "channel": "Becoming a Farm Girl",
+      "duration": 2088.0,
+      "title": "Meet a DECK Gardener Growing POUNDS of Food EVERY WEEK | Ways to Grow Food Fast in a Small Space"
+    },
+    {
+      "id": "aq2TEynHNDU",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 2094.0,
+      "title": "Best Toy Food Videos for Kids - Let's Have Fun in the Kitchen!"
+    },
+    {
+      "id": "cA6ihYEm3vM",
+      "channel": "Everything From Home",
+      "duration": 183.0,
+      "title": "Fun & Easy Way To Grow Microgreens With Kids | Eggshell Planter |Kids Summer Activity |Healthy Salad"
+    }
+  ]
+}

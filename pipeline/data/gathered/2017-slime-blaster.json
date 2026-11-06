@@ -1,0 +1,60 @@
+{
+  "id": "2017-slime-blaster",
+  "year": 2017,
+  "name": "Slime Blaster",
+  "price_eur": null,
+  "price_text": "£19.99",
+  "retailers": [
+    {
+      "name": "Zimplikids",
+      "url": null
+    },
+    {
+      "name": "Amazon",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "swAbBVp6JTE",
+      "channel": "Ryan's World",
+      "duration": 309.0,
+      "title": "SLIME BLASTER CHALLENGE with Ryan's World Toys!!!!"
+    },
+    {
+      "id": "NH1BnrJNu8U",
+      "channel": "Top Reviews Lab",
+      "duration": 546.0,
+      "title": "The Top 5 Best Slime Blaster in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "JPJBqrrUdMs",
+      "channel": "Loving The Harpers",
+      "duration": 401.0,
+      "title": "Sky Boogie Buys Another Ryan's Toy Review (The Slime Blaster Gun)"
+    },
+    {
+      "id": "yLtMNrLBDl0",
+      "channel": "Stephen Sharer",
+      "duration": 815.0,
+      "title": "SLIME BLASTING NERF GUN!! (SUPER RARE)"
+    },
+    {
+      "id": "cmSakxsmKHc",
+      "channel": "Arcadius Kul",
+      "duration": 532.0,
+      "title": "Splatoon Slime Blaster ! COOL or NOT?"
+    }
+  ]
+}

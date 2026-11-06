@@ -1,0 +1,54 @@
+{
+  "id": "2023-mercedes-benz-licensed-artic-truck",
+  "year": 2023,
+  "name": "Mercedes Benz Licensed Artic Truck",
+  "price_eur": 779.95,
+  "price_text": "€779.95",
+  "retailers": [
+    {
+      "name": "Lifty Electric",
+      "url": "https://lifty.co/products/lorry-injusa-mercedes-benz-actros-red-radio-control-12-v-2022?_pos=2&_sid=b307f6d2c&_ss=r"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.liftyelectric.com/products/lorry-injusa-mercedes-benz-actros-red-radio-control-12-v-2022?_pos=2&_sid=b307f6d2c&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iHaSh3Ccyug",
+      "channel": "Mercedes-Benz Trucks UK",
+      "duration": 153.0,
+      "title": "New Actros/Arocs Tutorials:  MirrorCam Set Up"
+    },
+    {
+      "id": "1Cyfo0CCJ0s",
+      "channel": "SAGA Truck & Van",
+      "duration": 20.0,
+      "title": "The UK Limited Edition Actros 1"
+    },
+    {
+      "id": "JfRQZcKemJE",
+      "channel": "hirudov",
+      "duration": 467.0,
+      "title": "Mercedes-Benz Actros F Plus 2548 L 6x2 Swap-Body Lorry Truck (2023) Exterior and Interior"
+    },
+    {
+      "id": "n2Jrno6Um1k",
+      "channel": "Intercounty - Mercedes Benz Trucks",
+      "duration": 37.0,
+      "title": "2017 Mercedes-Benz Actros 2548LS 6x2/2 WU67 HND"
+    },
+    {
+      "id": "J_qt3gaUat4",
+      "channel": "Mercedes-Benz Trucks UK",
+      "duration": 50.0,
+      "title": "Mercedes-Benz Trucks UK, Arctic Active Brake Assist 4 - Pedestrian Testing"
+    }
+  ]
+}

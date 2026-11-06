@@ -1,0 +1,54 @@
+{
+  "id": "2019-plan-toys-vet-set",
+  "year": 2019,
+  "name": "Plan Toys Vet Set",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "https://shop.designist.ie/collections/plan-toys/products/vet-set"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://shop.designist.ie/collections/plan-toys/products/vet-set"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pMMh2tqe7Ts",
+      "channel": "Nuts For Kids",
+      "duration": 28.0,
+      "title": "PlanToys Pet Care Set"
+    },
+    {
+      "id": "5mqdQLuplXQ",
+      "channel": "Inspired Roots Ranch",
+      "duration": 688.0,
+      "title": "Wooden Toy Unboxing - Plan Toys Doctor and Very Set"
+    },
+    {
+      "id": "Oicu0fWyUVQ",
+      "channel": "ASD Specialist (Sin Yee)",
+      "duration": 307.0,
+      "title": "Plan Toys 3451 Doctor Set - A Visit to Kenryk Clinic"
+    },
+    {
+      "id": "-4EzynqNcqA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 67.0,
+      "title": "Amazimals Get Better Puppy Vet Set from Blip Toys"
+    },
+    {
+      "id": "ywUZzp4EJBg",
+      "channel": "Happy Babies",
+      "duration": 40.0,
+      "title": "PlanToys - Set per spremuta – Juicer Set"
+    }
+  ]
+}

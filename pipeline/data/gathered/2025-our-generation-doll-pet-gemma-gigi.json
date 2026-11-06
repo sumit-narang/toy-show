@@ -1,0 +1,57 @@
+{
+  "id": "2025-our-generation-doll-pet-gemma-gigi",
+  "year": 2025,
+  "name": "Our Generation Doll & Pet Gemma & Gigi",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-and-pet-gemma-and-gigi/p/236875"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-and-pet-gemma-and-gigi/p/236875",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QbkLNCU5Lgg",
+      "channel": "Sweet Shy Dollz",
+      "duration": 750.0,
+      "title": "my first our generation doll haul ♡"
+    },
+    {
+      "id": "B2Boa2DyAnk",
+      "channel": "Smyths Toys France",
+      "duration": 48.0,
+      "title": "La Poupée Gemma et son Chiot Gigi de Our Generation est chez Smyths Toys !"
+    },
+    {
+      "id": "NduvrYKLqYs",
+      "channel": "Smiles Giggles Laughs",
+      "duration": 505.0,
+      "title": "Fingerlings Baby Monkey & Playground Playsets Exclusive | How to Play Unboxing Toy Review"
+    },
+    {
+      "id": "sLr9c65A62E",
+      "channel": "Bits of Brylie 🦄",
+      "duration": 2160.0,
+      "title": "SANTA CAME!!!!🎅🏻 SHE WOKE UP TO SO MANY PRESENTS🎄🎁  |  VLOGMAS 2025"
+    },
+    {
+      "id": "INFGfBzw4gs",
+      "channel": "Yuewen Animation English",
+      "duration": 143501.0,
+      "title": "🌟ENG SUB | Stellar Transformations S1-S7 Complete Collection | Yuewen Animation"
+    }
+  ]
+}

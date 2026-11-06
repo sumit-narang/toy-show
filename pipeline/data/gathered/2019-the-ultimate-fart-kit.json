@@ -1,0 +1,57 @@
+{
+  "id": "2019-the-ultimate-fart-kit",
+  "year": 2019,
+  "name": "The Ultimate Fart Kit",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Pigsback",
+      "url": "https://www.pigsback.com/en-ie/offer/432499/Ebeez"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.pigsback.com/",
+      "title": "Pigsback",
+      "description": "Join Secret Escapes for free to enjoy luxury travel at low prices.",
+      "image": "https://images.secretescapes.io/c/facebook/invite_to_secret_escapes.jpg?w=640&h=459"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AE_eth-IdOk",
+      "channel": "DipStar The Brightest",
+      "duration": 484.0,
+      "title": "Fart Machine 2 vs Pooter Tooter vs The Pooter vs Le Tooter TESTING AND COMPARISON + Hand Farts!"
+    },
+    {
+      "id": "DXRYOKn_5EU",
+      "channel": "Dutch Oven Kits Fart Blankets",
+      "duration": 59.0,
+      "title": "The Original Dutch Oven Kits Fart Blanket Gift Box"
+    },
+    {
+      "id": "C8NU5nLxqBI",
+      "channel": "Meredith's Miracles Colon Cancer Foundation",
+      "duration": 98.0,
+      "title": "Keep Farts Funny"
+    },
+    {
+      "id": "qJU8HGR1XbQ",
+      "channel": "Top Best Picks",
+      "duration": 543.0,
+      "title": "The Top 5 Best Fart Sound Maker in 2025 - Must Watch Before Buying!"
+    },
+    {
+      "id": "7qVuoXrOf5A",
+      "channel": "Arabian Gains",
+      "duration": 256.0,
+      "title": "WATCH BEFORE YOU BUY | THE FARTER CUP REVIEW"
+    }
+  ]
+}

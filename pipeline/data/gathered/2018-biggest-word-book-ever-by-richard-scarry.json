@@ -1,0 +1,53 @@
+{
+  "id": "2018-biggest-word-book-ever-by-richard-scarry",
+  "year": 2018,
+  "name": "Biggest Word Book Ever by Richard Scarry",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0StQ6ASNoaw",
+      "channel": "Sirikanya Tiggs",
+      "duration": 53.0,
+      "title": "Richard Scarry║ Best Word Book Ever║"
+    },
+    {
+      "id": "aBOsUfTTbn8",
+      "channel": "Nita Reads",
+      "duration": 3949.0,
+      "title": "Richard Scarrys Best Word Book Ever    Read by Nita"
+    },
+    {
+      "id": "bAJo8JnQSwQ",
+      "channel": "Pui Alphabet Children books",
+      "duration": 198.0,
+      "title": "Best little word book ever! vs Best little board book ever by Richard SCARRY"
+    },
+    {
+      "id": "1Plorjp4dvY",
+      "channel": "adeliechka",
+      "duration": 116.0,
+      "title": "Richard Scarry's Best Word Book EVER!"
+    },
+    {
+      "id": "bpeHjNfJF2s",
+      "channel": "Pochitay_da_poigray",
+      "duration": 59.0,
+      "title": "Richard Scarry`s Best Picture Dictionary Ever"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2021-gangsta-granny-strikes-again-by-david-walliams",
+  "year": 2021,
+  "name": "Gangsta Granny Strikes Again! by David Walliams",
+  "price_eur": 19.0,
+  "price_text": "€19.00",
+  "retailers": [
+    {
+      "name": "Khans Books",
+      "url": "https://www.khansbooks.ie/Gangsta-Granny-Strikes-Again_9780008530259"
+    },
+    {
+      "name": "Bookshops Nationwide",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.khansbooks.ie/page-not-found"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Aga4bLptiwY",
+      "channel": "From The Box Office",
+      "duration": 73.0,
+      "title": "Gangsta Granny | Official Trailer"
+    },
+    {
+      "id": "Y2YcgL65Inc",
+      "channel": "CBBC",
+      "duration": 301.0,
+      "title": "EXCLUSIVE LOOK: Gangsta Granny Strikes Again | First 5 Minutes | CBBC"
+    },
+    {
+      "id": "PiDBgjC1h7s",
+      "channel": "Pets on Set",
+      "duration": 145.0,
+      "title": "Gangster Granny Strikes again (featuring cat)"
+    },
+    {
+      "id": "m42vx6kJqxQ",
+      "channel": "Jeanu's Official",
+      "duration": 658.0,
+      "title": "Gangsta Granny and Gangsta Granny Strikes Again!  | David Walliams | Kids Book Review"
+    },
+    {
+      "id": "l0_tmrPKKCU",
+      "channel": "Amazing world of Archee",
+      "duration": 1956.0,
+      "title": "Gangsta Granny Strikes Again David Walliams - First look and first tree chapters from the book"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-design-your-own-purse-kit",
+  "year": 2022,
+  "name": "Design Your Own Purse Kit",
+  "price_eur": 32.0,
+  "price_text": "€32.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/fao-schwarz/design-your-own-purse-kit/148744735.html?cgid=root#q=FAO%2BPURSE&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/fao-schwarz/design-your-own-purse-kit/148744735.html?cgid=root#q=FAO%2BPURSE&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xaryWDF0kFo",
+      "channel": "Madison Lynn",
+      "duration": 1860.0,
+      "title": "How To Sew Your Own Purse With Babylon Leather | DIY Leather Kit"
+    },
+    {
+      "id": "02CjWIkTy-M",
+      "channel": "Coraline Street",
+      "duration": 1004.0,
+      "title": "making a Hermès Kelly Bag at home - DIY Leather Bag"
+    },
+    {
+      "id": "BCk6Udo6da0",
+      "channel": "Shaiyeh",
+      "duration": 1044.0,
+      "title": "Can I Make A Kelly Bag?! ♥ Trying a Babylon Leather DIY Purse Kit! | Shaiyeh"
+    },
+    {
+      "id": "gqaJm_3SwhY",
+      "channel": "Katia Olivera",
+      "duration": 893.0,
+      "title": "I Tried Making a Hermès Birkin Bag With No Experience… Was It Worth It?"
+    },
+    {
+      "id": "Gi1HK_Wn3lA",
+      "channel": "Kristina Sewista",
+      "duration": 2417.0,
+      "title": "DIY Birkin Bag for $210 (Beginner Friendly!) | Sew this with a kit"
+    }
+  ]
+}

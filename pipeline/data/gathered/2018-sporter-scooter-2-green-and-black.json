@@ -1,0 +1,65 @@
+{
+  "id": "2018-sporter-scooter-2-green-and-black",
+  "year": 2018,
+  "name": "Sporter Scooter 2 Green and Black",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NHW5imPQY6A",
+      "channel": "Smyths Toys Superstores",
+      "duration": 34.0,
+      "title": "iSporter G2 Electric Scooter Black/Blue - Smyths Toys"
+    },
+    {
+      "id": "pd1_-FziSk8",
+      "channel": "Yvolution",
+      "duration": 60.0,
+      "title": "Yvolution Y Fliker 3-Wheeled Scooter | Learn to Ride"
+    },
+    {
+      "id": "sjHVF2pObPI",
+      "channel": "Easylifedeal",
+      "duration": 187.0,
+      "title": "Best Kids Scooters | Best Kick Scooter for kids"
+    },
+    {
+      "id": "uKYV2qjYIS0",
+      "channel": "Laugh Over Life",
+      "duration": 106.0,
+      "title": "Spooder-Man: Across The Spooder-Verse Trailer"
+    },
+    {
+      "id": "xQReCpjDZkM",
+      "channel": "Electric Scooter Guide",
+      "duration": 532.0,
+      "title": "Avoid These 6 Electric Scooter Riding Mistakes!"
+    }
+  ]
+}

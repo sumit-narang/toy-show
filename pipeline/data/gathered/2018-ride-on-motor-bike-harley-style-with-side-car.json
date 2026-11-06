@@ -1,0 +1,57 @@
+{
+  "id": "2018-ride-on-motor-bike-harley-style-with-side-car",
+  "year": 2018,
+  "name": "Ride On Motor Bike - Harley Style with Side Car",
+  "price_eur": 249.45,
+  "price_text": "€249.45",
+  "retailers": [
+    {
+      "name": "funstuff.ie",
+      "url": "https://www.funstuff.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/",
+      "title": "Lifestyle, Ride on Cars, Outdoor Toys Ireland - Funstuff.ie",
+      "description": "Shop now at Funstuff.ie for the best electric ride on cars, go karts, quads, motorbikes, tractors, jeeps, balance bikes and more.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t7y0EmxApNU",
+      "channel": "MOTOBOB",
+      "duration": 409.0,
+      "title": "Riding A Royal Enfield Interceptor 650 SIDECAR At Watsonian Squire!"
+    },
+    {
+      "id": "qFb2tI9aZSU",
+      "channel": "Mike S",
+      "duration": 64.0,
+      "title": "Bandit Merlin Sidecar Montage"
+    },
+    {
+      "id": "30XgWybm8zg",
+      "channel": "St. Joe Harley-Davidson",
+      "duration": 62.0,
+      "title": "St. Joe Harley-Davidson Custom Sidecar"
+    },
+    {
+      "id": "PVPfpwKd98A",
+      "channel": "Southeast Custom Cycles",
+      "duration": 76.0,
+      "title": "2001 Harley Davidson Dyna Low Rider w/ Ural Sidecar Conversion - Southeast Custom Cycles"
+    },
+    {
+      "id": "b6chiETtz5Y",
+      "channel": "Bartlett Auctions",
+      "duration": 109.0,
+      "title": "1933 Harley Davidson VL1200 Flathead with Sidecar"
+    }
+  ]
+}

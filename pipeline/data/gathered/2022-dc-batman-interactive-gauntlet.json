@@ -1,0 +1,54 @@
+{
+  "id": "2022-dc-batman-interactive-gauntlet",
+  "year": 2022,
+  "name": "DC Batman Interactive Gauntlet",
+  "price_eur": 25.0,
+  "price_text": "€25",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/sr6055411?_pos=1&_psq=gauntlet&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/sr6055411?_pos=1&_psq=gauntlet&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "47Bd8ISkaTU",
+      "channel": "Reviews 4 You",
+      "duration": 23.0,
+      "title": "BATMAN DC Comics Interactive Gauntlet (Review)"
+    },
+    {
+      "id": "kH7HtSBSyno",
+      "channel": "ARMS DASK",
+      "duration": 127.0,
+      "title": "Batman Gauntlet Toy @dckids "
+    },
+    {
+      "id": "mTmz1KcGCUw",
+      "channel": "Testing Toys",
+      "duration": 61.0,
+      "title": "Batman Interactive Gauntlet with sounds and lights up"
+    },
+    {
+      "id": "II4uUzBZOuM",
+      "channel": "Double A Kid Squad",
+      "duration": 64.0,
+      "title": "DC Comics BATMAN, Interactive Gauntlet Toy"
+    },
+    {
+      "id": "G5GR4scRG0U",
+      "channel": "TTPM Toy Reviews",
+      "duration": 232.0,
+      "title": "NEW 2020 Creature Chaos Batman Sets from Spin Master"
+    }
+  ]
+}

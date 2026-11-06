@@ -1,0 +1,54 @@
+{
+  "id": "2021-create-your-own-superhero-comic",
+  "year": 2021,
+  "name": "Create Your Own Superhero Comic",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Project 29 Stoneybatter",
+      "url": "https://www.facebook.com/project29.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 400,
+      "final_url": "https://www.facebook.com/project29.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "32I7wJPoB_E",
+      "channel": "LDJwrites",
+      "duration": 723.0,
+      "title": "i made a power system for my superhero universe🔋(it fixed my powerscaling issue)"
+    },
+    {
+      "id": "uJJTEgNtST0",
+      "channel": "Ovation",
+      "duration": 85.0,
+      "title": "The Art Of: Comics - How To Create a Superhero with Stan Lee (Exclusive) - Ovation"
+    },
+    {
+      "id": "EFoR37_0ztQ",
+      "channel": "noximation",
+      "duration": 630.0,
+      "title": "Can I Create My Own Iconic Superhero?"
+    },
+    {
+      "id": "tZLps1Wa1Ts",
+      "channel": "LDJwrites",
+      "duration": 596.0,
+      "title": "my superhero universe has its own mutants... 🧬 their origin changes everything!"
+    },
+    {
+      "id": "pQYSxgQa1OY",
+      "channel": "Jazza",
+      "duration": 1416.0,
+      "title": "Remaking my Childhood GRAPHIC NOVEL!!"
+    }
+  ]
+}

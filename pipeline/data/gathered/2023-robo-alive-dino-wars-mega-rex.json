@@ -1,0 +1,54 @@
+{
+  "id": "2023-robo-alive-dino-wars-mega-rex",
+  "year": 2023,
+  "name": "Robo Alive Dino Wars Mega Rex",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "World of Wonder",
+      "url": "https://worldofwondertoys.ie/product/robo-alive-dino-wars-giant-battling-t-rex/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://worldofwondertoys.ie/product/robo-alive-dino-wars-giant-battling-t-rex/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ubDlkIXNWBk",
+      "channel": "9malls",
+      "duration": 413.0,
+      "title": "Robo Alive Dino Wars Mega Rex By Zuru Dinosaur Battle Ready Toy Gadget Review"
+    },
+    {
+      "id": "-qZoiVVMzUE",
+      "channel": "I am Cheapo Robots Guy ",
+      "duration": 189.0,
+      "title": "Zuru's Robo Alive - DinoWars! - Mega-Rex"
+    },
+    {
+      "id": "a5qB0uwJjyY",
+      "channel": "Guillory Family",
+      "duration": 602.0,
+      "title": "Robo Alive Dino Wars Mega Rex Review! 🐱‍🐉"
+    },
+    {
+      "id": "0TiWCVRzqD8",
+      "channel": "All Brands Toys",
+      "duration": 16.0,
+      "title": "Robo Alive Dino Wars TVC"
+    },
+    {
+      "id": "jb0b_At5FhM",
+      "channel": "ASMR_TOP_TOYS",
+      "duration": 274.0,
+      "title": "ASMR | UNBOXING ZURU ROBO ALIVE | DINO WARS T-REX"
+    }
+  ]
+}

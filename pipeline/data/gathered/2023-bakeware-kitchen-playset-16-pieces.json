@@ -1,0 +1,57 @@
+{
+  "id": "2023-bakeware-kitchen-playset-16-pieces",
+  "year": 2023,
+  "name": "Bakeware Kitchen Playset 16 Pieces",
+  "price_eur": 7.99,
+  "price_text": "€7.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/bakeware-kitchen-playset-16-pieces/p/219274"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/bakeware-kitchen-playset-16-pieces/p/219274",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eVebwQwSNgM",
+      "channel": "So Mi ART ",
+      "duration": 91.0,
+      "title": "IKEA TOY COOKWARE UNBOXING (2019)."
+    },
+    {
+      "id": "nv5AdPOKXxc",
+      "channel": "Best Choice Products",
+      "duration": 55.0,
+      "title": "SKY4054 15-Piece Nonstick Cookware Kitchen Set"
+    },
+    {
+      "id": "4dc1bPRcX2E",
+      "channel": "MamaMittens",
+      "duration": 256.0,
+      "title": "Kitchen Cookware Playset Review!"
+    },
+    {
+      "id": "Tw92MJfEa-E",
+      "channel": "Selah Morgan",
+      "duration": 314.0,
+      "title": "Real Looking Kids Kitchen Toy Set  |  \"Juboury\" Amazon Childrens Toy Review"
+    },
+    {
+      "id": "uwgIyfykp5U",
+      "channel": "Josephine Phan",
+      "duration": 290.0,
+      "title": "MAGIKON 17-Piece Stainless Steel Pots and Pans Set , Pretend Play Kitchen Cooking Utensils"
+    }
+  ]
+}

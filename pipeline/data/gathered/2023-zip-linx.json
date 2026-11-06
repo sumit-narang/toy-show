@@ -1,0 +1,57 @@
+{
+  "id": "2023-zip-linx",
+  "year": 2023,
+  "name": "Zip Linx",
+  "price_eur": 14.99,
+  "price_text": "€14.99-€17.99",
+  "retailers": [
+    {
+      "name": "Beattys",
+      "url": "https://www.beattys.ie/pages/search-results-page?q=zip%20linx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/pages/search-results-page?q=zip%20linx",
+      "title": "Search Results",
+      "description": "Search Results",
+      "image": "http://www.beattys.ie/cdn/shop/files/beattys_shop_front_ppt_60583d6f-756d-4673-8260-78cfd73fbb1e.jpg?crop=center&height=1200&v=1632215453&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zvir-w_CHpg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 96.0,
+      "title": "Zip Linx Hi-Fly and Triple Tower Blast Sets from Blip Toys Review!"
+    },
+    {
+      "id": "UCE48fmoawM",
+      "channel": "ZipLinx",
+      "duration": 30.0,
+      "title": "Introducing ZipLinx! High-Flying Chain-Reaction Fun🥳🥳 |Load!  Link!  Launch! | TOTY 2022 Finalist"
+    },
+    {
+      "id": "U6sin_9eqMg",
+      "channel": "Lucky Penny Shop",
+      "duration": 2304.0,
+      "title": "Zip Linx Chain-Reaction Fun!  Triple Tower Blast And Hi-Fly Sets"
+    },
+    {
+      "id": "2iwumBcfd58",
+      "channel": "Learn Linux TV",
+      "duration": 1531.0,
+      "title": "How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series"
+    },
+    {
+      "id": "tIRIw9poM14",
+      "channel": "Scattered Adventures",
+      "duration": 173.0,
+      "title": "ZipLinx High-Flying Chain Reaction Sets! Cool Slow Motion Chain Reaction!"
+    }
+  ]
+}

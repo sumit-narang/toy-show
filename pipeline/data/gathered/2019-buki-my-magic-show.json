@@ -1,0 +1,54 @@
+{
+  "id": "2019-buki-my-magic-show",
+  "year": 2019,
+  "name": "Buki My Magic Show",
+  "price_eur": 36.0,
+  "price_text": "€36.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/buki-my-magic-show/1600424598.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/buki-my-magic-show/1600424598.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ER_H3yFxJcU",
+      "channel": "Magie jeu d'enfant",
+      "duration": 283.0,
+      "title": "Test #3 My Magic Show chez Buki"
+    },
+    {
+      "id": "jwvHEpKd7DQ",
+      "channel": "Jadugar Rajtilak",
+      "duration": 160.0,
+      "title": "My Magic Show at Arvanah"
+    },
+    {
+      "id": "pXV2qqVLUmE",
+      "channel": "Culture Jouer",
+      "duration": 161.0,
+      "title": "Avis sur la Buki France Buki - 6060 - My magic show"
+    },
+    {
+      "id": "CqdklZNHAVE",
+      "channel": "Kah Poh Ryan",
+      "duration": 44.0,
+      "title": "My magic show"
+    },
+    {
+      "id": "h-7NJK2aA10",
+      "channel": "L'atelier de Romano",
+      "duration": 707.0,
+      "title": "I'M TESTING A MAGIC SET for kids #3 🪄"
+    }
+  ]
+}

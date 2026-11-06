@@ -1,0 +1,44 @@
+{
+  "id": "2024-build-a-bear-timeless-teddy",
+  "year": 2024,
+  "name": "Build-A-Bear Timeless Teddy",
+  "price_eur": 39.0,
+  "price_text": "€39",
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "pwtek2L-U1s",
+      "channel": "Jery Lafferty ",
+      "duration": 518.0,
+      "title": "Wicked Glinda Build A Bear teddy bear with accessories full video "
+    },
+    {
+      "id": "coMGwmu-qcw",
+      "channel": "Build-A-Bear",
+      "duration": 31.0,
+      "title": "Introducing a magical new way to play: it’s Bearlieve Bear!"
+    },
+    {
+      "id": "CBz37x7wjiw",
+      "channel": "Craig",
+      "duration": 218.0,
+      "title": "Build A Bear Gift For My Mom ( Full Video )"
+    },
+    {
+      "id": "y84phyx2hNA",
+      "channel": "Maddy Ha",
+      "duration": 1359.0,
+      "title": "FIRST Time At a Build-A-Bear Workshop Experience"
+    },
+    {
+      "id": "nQDS5zgiSuc",
+      "channel": "Iffah Safa",
+      "duration": 523.0,
+      "title": "    🧸 Build-A-Bear Adventure! | Picking Our Perfect Teddy Bear 💕"
+    }
+  ]
+}

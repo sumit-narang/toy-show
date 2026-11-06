@@ -1,0 +1,57 @@
+{
+  "id": "2024-ps5-console",
+  "year": 2024,
+  "name": "PS5 Console",
+  "price_eur": 549.0,
+  "price_text": "€549",
+  "retailers": [
+    {
+      "name": "PlayStation",
+      "url": "https://www.playstation.com/en-ie/ps5/buy-now/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.playstation.com/en-ie/ps5/buy-now/",
+      "title": "PlayStation 5 | Find your PS5 console or PS5 Digital Edition from an online retailer",
+      "description": "Buy a PlayStation 5 console, PS5 Digital Edition or PS5 Pro from an online retailer, or find a software bundle with your favourite new game.",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-buy-now-product-thumbnail-01-en-18mar22?$facebook$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vVAT6MFJtkM",
+      "channel": "Tyrone Magnus",
+      "duration": 413.0,
+      "title": "Sony Just Released a NEW PS5 Update to STOP Gamers from JAILBREAKING!"
+    },
+    {
+      "id": "aSoUo1n4Wbw",
+      "channel": "SpawnPoiint",
+      "duration": 716.0,
+      "title": "This is why the PS5 is AWESOME!"
+    },
+    {
+      "id": "X-FYZjmjEck",
+      "channel": "Aqib Ullah Vlogs",
+      "duration": 1005.0,
+      "title": "Playstation 5 Unboxing and Setup | Ps5 New Gameplay"
+    },
+    {
+      "id": "3hbgBXEn6SE",
+      "channel": "Tim Dark ",
+      "duration": 502.0,
+      "title": "Sony Ends Discs in 2028 — Can This PS5 Save Them?"
+    },
+    {
+      "id": "Y95LzGdAbKk",
+      "channel": "BLASTERTECHNOLOGY",
+      "duration": 417.0,
+      "title": "All PS5 Models Explained | Standard vs Digital vs Slim vs Pro"
+    }
+  ]
+}

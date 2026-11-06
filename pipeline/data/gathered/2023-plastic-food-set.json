@@ -1,0 +1,57 @@
+{
+  "id": "2023-plastic-food-set",
+  "year": 2023,
+  "name": "Plastic Food Set",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/toy-and-wooden-play-food/kitchen-corner-120-piece-food-set/p/105794"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/toy-and-wooden-play-food/kitchen-corner-120-piece-food-set/p/105794",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aq2TEynHNDU",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 2094.0,
+      "title": "Best Toy Food Videos for Kids - Let's Have Fun in the Kitchen!"
+    },
+    {
+      "id": "OEbWo4M9Xkc",
+      "channel": "예리몽 Yerimong",
+      "duration": 493.0,
+      "title": "Cooking toys 🍳 Melissa and Doug Pasta Set ASMR Satisfying with Unboxing | Review toys"
+    },
+    {
+      "id": "vL3NEJx3DDM",
+      "channel": "백수가 꿈💸Baekkum💸",
+      "duration": 1696.0,
+      "title": "[💸toy asmr💸] Compilation of Frying food toy!  튀김 장난감 놀이 모음집 🍤"
+    },
+    {
+      "id": "j_PMGBLSG1k",
+      "channel": "DingJoy 딩조이",
+      "duration": 517.0,
+      "title": "[🐰toy asmr🐰] Japanese Food toys ASMR Satisfying with Unboxing 멜짱 식사놀이 장난감 🔇No talking🔇"
+    },
+    {
+      "id": "J5s5Jy3-k_0",
+      "channel": "Mini Cooking Foodie",
+      "duration": 467.0,
+      "title": "7:47 Mini Kitchen Set Collection for Kids Playing | Unboxing Kids Food Super Kitchen Toys Disney Set"
+    }
+  ]
+}

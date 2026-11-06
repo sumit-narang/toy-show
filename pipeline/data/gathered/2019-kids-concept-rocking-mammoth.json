@@ -1,0 +1,54 @@
+{
+  "id": "2019-kids-concept-rocking-mammoth",
+  "year": 2019,
+  "name": "Kids Concept Rocking Mammoth",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6RQCim1y4vU",
+      "channel": "Kid’s Concept",
+      "duration": 89.0,
+      "title": "How to assemble Rocking Horse Mammoth NEO by Kid's Concept | Assembly instructions step by step"
+    },
+    {
+      "id": "USXsHJkMtv0",
+      "channel": "Kid’s Concept",
+      "duration": 26.0,
+      "title": "Rocking Horse Mammoth NEO by Kid's Concept  | Gunghäst | Schaukelpferd | Cheval à bascule"
+    },
+    {
+      "id": "URPMi6suE_I",
+      "channel": "Kid’s Concept",
+      "duration": 50.0,
+      "title": "Rocking horse Neo Mammoth Mounting Instruction"
+    },
+    {
+      "id": "PPmn42vjI1I",
+      "channel": "Cuckooland",
+      "duration": 18.0,
+      "title": "Kids Concept Neo Rocking Dino"
+    },
+    {
+      "id": "QnkEUocshJ4",
+      "channel": "Kid’s Concept",
+      "duration": 71.0,
+      "title": "How to assemble Rocking horse Dino wood NEO by Kid's Concept | Assembly instructions step by step"
+    }
+  ]
+}

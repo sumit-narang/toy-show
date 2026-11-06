@@ -1,0 +1,54 @@
+{
+  "id": "2025-minecraft-diy-3d-sticker-maker",
+  "year": 2025,
+  "name": "Minecraft DIY 3D Sticker Maker",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Hopkins of Wicklow",
+      "url": "https://hopkinsofwicklow.ie/products/minecraft-3d-sticker-maker"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://hopkinsofwicklow.ie/products/minecraft-3d-sticker-maker"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ziF65o_zdm0",
+      "channel": "True Toys",
+      "duration": 33.0,
+      "title": "Minecraft 3D Sticker Maker"
+    },
+    {
+      "id": "YrpUHbJHFz8",
+      "channel": "True Toys",
+      "duration": 33.0,
+      "title": "Care Bears 3D Sticker Maker"
+    },
+    {
+      "id": "Mg1g82hnKQs",
+      "channel": "Stickdiyy",
+      "duration": 538.0,
+      "title": "Minecraft stickers #minecraft #sticker"
+    },
+    {
+      "id": "WKV1iT24UlM",
+      "channel": "Fun Caboodle",
+      "duration": 305.0,
+      "title": "Minecraft Movie DIY Silly Face Stickers with Steve, Denis, Villager, and Mob Dolls"
+    },
+    {
+      "id": "mJqIzrTKwNw",
+      "channel": "Toy Adventure Land",
+      "duration": 215.0,
+      "title": "ILY DIY 3D Sticker maker | Let's make more!"
+    }
+  ]
+}

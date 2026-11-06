@@ -1,0 +1,60 @@
+{
+  "id": "2022-girls-who-slay-monsters-by-ellen-ryan",
+  "year": 2022,
+  "name": "Girls Who Slay Monsters by Ellen Ryan",
+  "price_eur": 18.99,
+  "price_text": "€18.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/girls-who-slay-monsters-ellen-ryan-9780008538972"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/girls-who-slay-monsters-ellen-ryan-9780008538972",
+      "title": "Buy Girls Who Slay Monsters Book at Easons",
+      "description": "WINNER KPMG Book of the Year - Children's Books Ireland AwardsUnsung stories from ancient Irish myths re-imagined for nine to twelve-year oldsThere was a time when tales of Ireland's mythical goddesses - their astonishing powers, bravery, and unbreakable b",
+      "image": null,
+      "ld_description": "WINNER KPMG Book of the Year - Children's Books Ireland AwardsUnsung stories from ancient Irish myths re-imagined for nine to twelve-year oldsThere was a time when tales of Ireland's mythical goddesses - their astonishing powers, bravery, and unbreakable bonds with nature - were famous, in Ireland and beyond. But over time, these stories were lost, often replaced or rewritten to make room for male warriors and kings.Until Now.Girls Who Slay Monsters brings these heroes of Irish mythology back to vibrant, magical life. From Éire, Ireland's fierce namesake, and Bé Binn, a giant who overcame her bullies, to Badb, a gleefully gruesome death prophet, and Bé Mannair, a gender-fluid spy who challenged an entire army. These are goddesses of many shapes, skin shades and sizes, from every corner of ancient Ireland, whose daring still inspires today.Stand by their sides as they wield magic, fight monsters, and protect the powerless - and you might just discover that you, too, are a force of nature.Note From The AuthorWhile many of us grew up learning about Greek and Norse myth, the Irish goddesses were an undiscovered secret. At my convent school, I was taught about two or three magical women from mysterious lands, but they were not described as goddesses, and I had no idea how warped these tales had become.Then years later, I took a trip to Rathcroghan, an Irish archaeological site known as the ancient capital of Connacht, and learned the land there was linked with powerful goddesses.I",
+      "brand": "HarperCollins Children&#x27;s Books",
+      "ld_image": "https://www.easons.com/images/asset/0df33b2a-e1d9-4454-8049-7d519752f786/9780008538972_5643511278.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nm3rezMrMZo",
+      "channel": "Google Play Books",
+      "duration": 987.0,
+      "title": "Girls Who Slay Monsters: Daring Tales of… by Ellen Ryan · Audiobook preview"
+    },
+    {
+      "id": "u46NsTKZC8I",
+      "channel": "Full Audiobook",
+      "duration": 305.0,
+      "title": "Girls Who Slay Monsters: Daring Tales of Ireland’s Forgotten Goddesses - Ellen Ryan"
+    },
+    {
+      "id": "vs36pH2CIF4",
+      "channel": "Easons Ireland",
+      "duration": 38.0,
+      "title": "Ellen Ryan Introduces Girls Who Slay Monsters (Pre-Order)"
+    },
+    {
+      "id": "D2D_EWh89nY",
+      "channel": "An Post",
+      "duration": 79.0,
+      "title": "Ellen Ryan - Girls Who Slay Monsters"
+    },
+    {
+      "id": "Sdagd750rXI",
+      "channel": "Children's Books Ireland",
+      "duration": 588.0,
+      "title": "Girls Who Slay Monsters; KPMG Children's Books Ireland Awards 2023"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-razor-power-scooter-e100",
+  "year": 2017,
+  "name": "Razor Power Scooter E100",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rBxw0iXQLU4",
+      "channel": "RazorWorldwide",
+      "duration": 196.0,
+      "title": "How to Assemble the Razor Power Core E100 Electric Scooter"
+    },
+    {
+      "id": "zLBwBX0NXVM",
+      "channel": "Consumer Buddy",
+      "duration": 314.0,
+      "title": "Razor e100 Electric Scooter Review 2026✅"
+    },
+    {
+      "id": "bGE3DT4ynJc",
+      "channel": "Used Reviews",
+      "duration": 332.0,
+      "title": "DO NOT BUY Razor Power Core E100 Electric scooter"
+    },
+    {
+      "id": "TaKvhEy1fhE",
+      "channel": "Golf Sky",
+      "duration": 186.0,
+      "title": "Razor E100 Electric Scooter Review 2024: Electric Scooter for Beginners"
+    },
+    {
+      "id": "qrmBRoNgj7g",
+      "channel": "Hillendale Bros",
+      "duration": 194.0,
+      "title": "Razor E100 Electric Scooters!!"
+    }
+  ]
+}

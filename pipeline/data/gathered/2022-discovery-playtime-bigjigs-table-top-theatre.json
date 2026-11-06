@@ -1,0 +1,26 @@
+{
+  "id": "2022-discovery-playtime-bigjigs-table-top-theatre",
+  "year": 2022,
+  "name": "Discovery Playtime Bigjigs Table Top Theatre",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": []
+}

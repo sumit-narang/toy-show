@@ -1,0 +1,57 @@
+{
+  "id": "2023-disney-brave-merida-costume",
+  "year": 2023,
+  "name": "Disney Brave Merida Costume",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/disney-store-merida-costume-for-kids-brave-2841045240284M.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.eu/disney-store-merida-costume-for-kids-brave-2841045240284M.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1",
+      "title": "Disney Store Merida Costume For Kids, Brave | Disney Store",
+      "description": "Disney Store Merida Costume For Kids, Brave",
+      "image": "https://cdn.s7.shopdisney.eu/is/image/DisneyStoreES/2841045240284M"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LNQ-kSUyW2M",
+      "channel": "Tracy Fletcher",
+      "duration": 111.0,
+      "title": "Disney Merida Dress view in Dark Teal"
+    },
+    {
+      "id": "kJ0PDkPBjjI",
+      "channel": "MouseSteps / JWL Media",
+      "duration": 517.0,
+      "title": "Merida Coronation at Disney's Magic Kingdom - All 11 Disney Princesses Together During Ceremony"
+    },
+    {
+      "id": "txkMQEirjb0",
+      "channel": "Shappi Workshop",
+      "duration": 239.0,
+      "title": "Merida ( Brave ) cosplay review and showcase  - COSALL"
+    },
+    {
+      "id": "_oxso1pWCHY",
+      "channel": "Disney Junior MENA",
+      "duration": 109.0,
+      "title": "Brave | Merida Competes In Archery | Disney Princess"
+    },
+    {
+      "id": "c8xsTXcSnuI",
+      "channel": "Jedimanda",
+      "duration": 1017.0,
+      "title": "Merida's Cosplay Part II - Cape, Bow, and Wig"
+    }
+  ]
+}

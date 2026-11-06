@@ -1,0 +1,30 @@
+{
+  "id": "2025-mo-chuid-rinc-gaelacha-my-irish-dances",
+  "year": 2025,
+  "name": "Mo Chuid Rincí Gaelacha (My Irish Dances)",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/mo-chuid-rinci-gaelacha-my-irish-dances"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/mo-chuid-rinci-gaelacha-my-irish-dances"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rVlK-8hk_3s",
+      "channel": "My Irish Books",
+      "duration": 88.0,
+      "title": "Book`Nook - Late Late Toy Show Gramophone and Mo Chuid Rincí Gaelacha Review"
+    }
+  ]
+}

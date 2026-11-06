@@ -1,0 +1,57 @@
+{
+  "id": "2019-fao-schwarz-plush-capes",
+  "year": 2019,
+  "name": "FAO Schwarz Plush Capes",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/",
+      "title": "Kids Toys & Games | Arnotts",
+      "description": "Step into a world of wonder, where imagination knows no bounds. Discover a magical collection of toys, playful companions and imaginative adventures at Arnotts, designed to inspire curiosity, creativity and endless hours of fun. From the irresistibly charming soft toys of Jellycat to the limitless possibilities of LEGO and the enchanting storytelling of Tonies, explore something special for every little dreamer. Whether you're searching for a treasured new companion, an imaginative gift or a world of adventure waiting to unfold, discover toys that bring playtime to life at Arnotts. Arnotts",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3fgve6gsGQ8",
+      "channel": "NerdynInked",
+      "duration": 489.0,
+      "title": "Jellycat Diner Experience reopening at FAO Schwarz ! #jellycat"
+    },
+    {
+      "id": "1Mw8-NOGpUU",
+      "channel": "Tropical Critters",
+      "duration": 251.0,
+      "title": "FAO Schwarz Cheetah & Keel Toys Cheetah Plush Comparison"
+    },
+    {
+      "id": "5zX-tNnRaJY",
+      "channel": "Inside Edition",
+      "duration": 80.0,
+      "title": "How to Spend the Night Inside FAO Schwartz for Just $25"
+    },
+    {
+      "id": "nxEtfw2u2hA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 68.0,
+      "title": "Get a Glimpse of In-Store Experiences at the New FAO Schwarz store in NYC"
+    },
+    {
+      "id": "mYSH_Vh8-dU",
+      "channel": "CBS Miami",
+      "duration": 43.0,
+      "title": "Trending: FAO Schwarz"
+    }
+  ]
+}

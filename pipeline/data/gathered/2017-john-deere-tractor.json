@@ -1,0 +1,64 @@
+{
+  "id": "2017-john-deere-tractor",
+  "year": 2017,
+  "name": "John Deere Tractor",
+  "price_eur": 27.0,
+  "price_text": "€27.00",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nbLoFZuW5pI",
+      "channel": "Amrik Gaming",
+      "duration": 441.0,
+      "title": "Indian Farming Simulator 3D 🚜🌾 | John Deere Tractor Rotavator Gameplay 🔥 | Real Village #gaming "
+    },
+    {
+      "id": "K8Kf3tXtIOg",
+      "channel": "Ankit Rc Vlog",
+      "duration": 300.0,
+      "title": "Tractor Power Test: Pulling a Fully Loaded Trolley in Different Terrains | John Deere Sonalika In..."
+    },
+    {
+      "id": "AZ-dt6jzQ4Q",
+      "channel": "Aditya Rc Project",
+      "duration": 534.0,
+      "title": "Which Tractor Can Climb This track? | RealPower Test! | Swaraj | Indo Farm |John deere | Rx Sonalika"
+    },
+    {
+      "id": "fKx2-W4DnCk",
+      "channel": "bigtractorpower",
+      "duration": 854.0,
+      "title": "830 HP JOHN DEERE 9RX 830 Tractor Disking"
+    },
+    {
+      "id": "6_YEYYDZjOQ",
+      "channel": "John Deere",
+      "duration": 228.0,
+      "title": "9 Series Tractors | John Deere"
+    }
+  ]
+}

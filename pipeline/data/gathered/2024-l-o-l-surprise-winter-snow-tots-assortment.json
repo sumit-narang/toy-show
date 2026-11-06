@@ -1,0 +1,57 @@
+{
+  "id": "2024-l-o-l-surprise-winter-snow-tots-assortment",
+  "year": 2024,
+  "name": "L.O.L. Surprise! Winter Snow Tots Assortment",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-tots-assortment/p/237619"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-tots-assortment/p/237619",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d7o08SSbq2M",
+      "channel": "Tallie's Tricks",
+      "duration": 516.0,
+      "title": "LOL Surprise Winter Snow Chalet"
+    },
+    {
+      "id": "DrQ1J9RrTWE",
+      "channel": "Kristen Ingold",
+      "duration": 327.0,
+      "title": "NEW LOL Surprise FLUFFY PETS - Winter Disco - GLITTER GLOBE big Sisters Sneak Peek and CHECKLIST"
+    },
+    {
+      "id": "udS_qbbEuhs",
+      "channel": "Juviara and Jaylani",
+      "duration": 631.0,
+      "title": "L.O.L. Surprise! Winter Disco Glitter Globe (HUNT)"
+    },
+    {
+      "id": "oPmgBy9ZP5M",
+      "channel": "Brynn Yvette",
+      "duration": 1191.0,
+      "title": "LOL, Unicorn Dolls and DoDats Unboxing"
+    },
+    {
+      "id": "nS58wB3m9q8",
+      "channel": "The Doll Archives",
+      "duration": 693.0,
+      "title": "LOL Surprise All Star BBs Lucky Stars VS Heart Breakers Unboxing"
+    }
+  ]
+}

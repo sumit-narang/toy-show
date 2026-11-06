@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-strom-trooper-mask",
+  "year": 2017,
+  "name": "Star Wars Strom Trooper Mask",
+  "price_eur": 32.0,
+  "price_text": "€32.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YliR7dVSoUk",
+      "channel": "The Collectors Outpost",
+      "duration": 467.0,
+      "title": "Stormtrooper Voice Changer Helmet – Star Wars: Rogue One UNBOXING"
+    },
+    {
+      "id": "Lf1IaULJ3HM",
+      "channel": "The Flying Llama",
+      "duration": 17.0,
+      "title": "Star Wars Voice Changer Stormtrooper Helmet with Sounds Disney Store Exclusive"
+    },
+    {
+      "id": "eNpFgqv39r0",
+      "channel": "RS Prop Masters",
+      "duration": 1240.0,
+      "title": "50 Years of the Stormtrooper  Helmet - RS Prop Masters"
+    },
+    {
+      "id": "DbP2nf8yJhU",
+      "channel": "Mini fun toys",
+      "duration": 259.0,
+      "title": "Star Wars Stormtrooper Electronic Mask Toys Unboxing "
+    },
+    {
+      "id": "vGHFNnQBSx4",
+      "channel": "Andrew's Reviews",
+      "duration": 125.0,
+      "title": "First Order Stormtrooper Black Series Helmet – Premium Star Wars Collectible"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-everything-under-the-sun-by-molly-oldfield",
+  "year": 2025,
+  "name": "Everything Under the Sun by Molly Oldfield",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/everything-under-the-sun-9780241619124"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/everything-under-the-sun-9780241619124",
+      "title": "Everything Under the Sun - Dubray Books",
+      "description": "Following her first book of questions, Everything Under the Sun, award-winning podcast host Molly Oldfield once again delights readers with this new, beautifully illustrated book answering 366 curious questions asked by children from around the world.   How were rollerskates invented? How do boats float? Do snails go upside down? Where is the happiest place in the world?  Find out the answers to these curious questions from children from all around the globe. Ponder about why we daydream with author and illustrator, Lauren Child. Find out if people can mind read with magician, Derren Brown. Learn about everything from wormholes in spacetime to how frogs jump with expert scientists.  Illustrated by talented, international artists: Folasade Adeshida, Neil Badenhorst, Belinda Chen, Sophie Escavy Lim, Marta Antelo, Fernando Martin, Juliana Eigner, Andrés Landazabal, Henry Rancourt, Francesca Tiley, Daniel Gray-Barnett, Meg Rennie  Praise for Everything Under the Sun:  'Trivia fans will relish Everything Under the Sun' - The Guardian \"A wonderful gift for families\" - Evening Standard \"This is a book to treasure all year round\" - My Baba \"As cute as it is educational\" - Babyccino Kids  \"A wonderful collection of 366 curious questions about everything from science to nature, dinosaurs to space\" - Scottish Sun  \"Simply mesmerising compendium\" - Waterstones \"A beautiful gem of a book\" - BookTrust \"Fascinating for anyone who opens it\" - Red magazine \"The only thing better than the questions, in this delightful and informative book, is the answers\" - Neil Gaiman \"This book is GLORIOUS. It's heart-and-soul fabulous, page after page\" - Stephen Fry \"One of the best kids books I have ever had the pleasure of reading\" - Pandora Sykes \"This book is heaven on a stick\" - Sophie Dahl",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Following her first book of questions, Everything Under the Sun, award-winning podcast host Molly Oldfield once again delights readers with this new, beautifully illustrated book answering 366 curious questions asked by children from around the world.   How were rollerskates invented? How do boats float? Do snails go upside down? Where is the happiest place in the world?  Find out the answers to these curious questions from children from all around the globe. Ponder about why we daydream with author and illustrator, Lauren Child. Find out if people can mind read with magician, Derren Brown. Learn about everything from wormholes in spacetime to how frogs jump with expert scientists.  Illustrated by talented, international artists: Folasade Adeshida, Neil Badenhorst, Belinda Chen, Sophie Escavy Lim, Marta Antelo, Fernando Martin, Juliana Eigner, Andrés Landazabal, Henry Rancourt, Francesca Tiley, Daniel Gray-Barnett, Meg Rennie  Praise for Everything Under the Sun:  'Trivia fans will relish Everything Under the Sun' - The Guardian \"A wonderful gift for families\" - Evening Standard \"This is a book to treasure all year round\" - My Baba \"As cute as it is educational\" - Babyccino Kids  \"A wonderful collection of 366 curious questions about everything from science to nature, dinosaurs to space\" - Scottish Sun  \"Simply mesmerising compendium\" - Waterstones \"A beautiful gem of a book\" - BookTrust \"Fascinating for anyone who opens it\" - Red magazine \"The only thing better than the ques",
+      "brand": "Molly Oldfield",
+      "ld_image": "https://media.dubraybooks.ie/m/6cf5e3ba5a14c65/original/9780241619124_5640500736.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yhjs2hMZ_e4",
+      "channel": "Google Play Books",
+      "duration": 649.0,
+      "title": "Everything Under the Sun: a curious question… by Molly Oldfield · Audiobook preview"
+    },
+    {
+      "id": "sb8aikFFhME",
+      "channel": "Molly Oldfield",
+      "duration": 61.0,
+      "title": "Everything Under The Sun Trailer"
+    },
+    {
+      "id": "oQIvncUsf2E",
+      "channel": "Picture Books",
+      "duration": 85.0,
+      "title": "Everything Under the Sun: A Curious Question for Every Day of the Year"
+    },
+    {
+      "id": "W1q5h-jb1iA",
+      "channel": "Google Play Books",
+      "duration": 645.0,
+      "title": "Everything Under the Sun: All Around the World:… by Molly Oldfield · Audiobook preview"
+    },
+    {
+      "id": "-FOwsL8nMnY",
+      "channel": "Amber Shears",
+      "duration": 23.0,
+      "title": "Everything Under the Sun"
+    }
+  ]
+}

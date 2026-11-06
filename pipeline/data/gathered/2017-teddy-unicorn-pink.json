@@ -1,0 +1,53 @@
+{
+  "id": "2017-teddy-unicorn-pink",
+  "year": 2017,
+  "name": "Teddy Unicorn Pink",
+  "price_eur": 7.0,
+  "price_text": "€7.00",
+  "retailers": [
+    {
+      "name": "Tiger",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5MX1EUfhhG8",
+      "channel": "Sellet",
+      "duration": 43.0,
+      "title": "Pink Unicorn Teddy"
+    },
+    {
+      "id": "_PGE6PhnVDk",
+      "channel": "Brodali",
+      "duration": 9.0,
+      "title": "Personalized pink unicorn lovey"
+    },
+    {
+      "id": "olWBgQV-IWQ",
+      "channel": "Kiddie Lanka",
+      "duration": 91.0,
+      "title": "Pinky the Unicorn 🦄| Magical Kids Rhyme & Adventure Song ✨| Kiddie Lanka 🌈| Fantasy World 🌸| English"
+    },
+    {
+      "id": "yUIbjDXVHpo",
+      "channel": "Tiny Miny Toys",
+      "duration": 21.0,
+      "title": "Big Size Teddy unicorn Kids Gifting Item"
+    },
+    {
+      "id": "nGyTKbgS9qs",
+      "channel": "UK Kids Toys Review",
+      "duration": 543.0,
+      "title": "Maya's Squishies & Unicorn Teddy Unboxing, Review & Play!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2022-nikko-radio-control-rock-crushr-rc",
+  "year": 2022,
+  "name": "Nikko Radio Control Rock CrushR RC",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "hHMorpMSYCg",
+      "channel": "Nikko Toys",
+      "duration": 15.0,
+      "title": "Nano Rock CrushR ™  - Stealth Black (11'' / 28cm)"
+    },
+    {
+      "id": "GISQe1nzA-A",
+      "channel": "toysfirst",
+      "duration": 62.0,
+      "title": "Nikko Rock CrushR ™"
+    },
+    {
+      "id": "V8hlHiB1BDM",
+      "channel": "Nikko Toys",
+      "duration": 15.0,
+      "title": "Remote Control Cars Racing - Nikko RC Nano Rock CrushR"
+    },
+    {
+      "id": "WQOge5m3EvY",
+      "channel": "Lekekassen.no",
+      "duration": 59.0,
+      "title": "Nikko RC Rock CrushR radiostyrt bil med auto-utvidbare hjul - 2.4 GHz"
+    },
+    {
+      "id": "NNZvNbtFEHM",
+      "channel": "Nikko Toys",
+      "duration": 15.0,
+      "title": "Nano Rock CrushR ™  - Techno Green (11'' / 28cm)"
+    }
+  ]
+}

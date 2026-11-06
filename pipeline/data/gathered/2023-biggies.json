@@ -1,0 +1,57 @@
+{
+  "id": "2023-biggies",
+  "year": 2023,
+  "name": "Biggies",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/biggies-inflatable-plush-unicorn-soft-toy/p/222561"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/biggies-inflatable-plush-unicorn-soft-toy/p/222561",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fNFzfwLM72c",
+      "channel": "beegees",
+      "duration": 250.0,
+      "title": "Bee Gees - Stayin' Alive (Official Music Video)"
+    },
+    {
+      "id": "0gF2yrIVmQU",
+      "channel": "Disco Top Hits and Country Haven",
+      "duration": 1711.0,
+      "title": "Bee Gees Greatest Hits 2024   Pop Music Mix   Top 10 Hits Of All Time"
+    },
+    {
+      "id": "_JZom_gVfuw",
+      "channel": "The Notorious B.I.G.",
+      "duration": 253.0,
+      "title": "The Notorious B.I.G. - Juicy (Official Video) [4K]"
+    },
+    {
+      "id": "cTcTIBOgM9E",
+      "channel": "The Notorious B.I.G.",
+      "duration": 4575.0,
+      "title": "The Notorious B.I.G. - Greatest Hits (Full Album) | Biggie Greatest Hits Playlist"
+    },
+    {
+      "id": "XpqqjU7u5Yc",
+      "channel": "beegees",
+      "duration": 240.0,
+      "title": "Bee Gees - How Deep Is Your Love (Official Video)"
+    }
+  ]
+}

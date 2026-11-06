@@ -1,0 +1,53 @@
+{
+  "id": "2017-santas-belly-shower-jelly",
+  "year": 2017,
+  "name": "Santas Belly Shower Jelly",
+  "price_eur": 6.5,
+  "price_text": "€6.50",
+  "retailers": [
+    {
+      "name": "Lush",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "unM0TlIgG1c",
+      "channel": "LUSH",
+      "duration": 26.0,
+      "title": "Santa's Belly Shower Jelly"
+    },
+    {
+      "id": "gDeZVaBViP0",
+      "channel": "Insider Beauty",
+      "duration": 94.0,
+      "title": "Lush Santa Belly Shower Jellies Are Made With Real Fruit"
+    },
+    {
+      "id": "cjmLr0fvIEk",
+      "channel": "Candyelion",
+      "duration": 195.0,
+      "title": "LUSH Santas Belly Shower Jelly Review + Demo"
+    },
+    {
+      "id": "L5Pi0n4b9n4",
+      "channel": "LUSH",
+      "duration": 104.0,
+      "title": "Lush How It’s Made: Santa's Belly Shower Jelly"
+    },
+    {
+      "id": "1H76VW2WtnI",
+      "channel": "blackstardelights",
+      "duration": 439.0,
+      "title": "Santa's Belly Shower Jelly | Lush Winter 2015"
+    }
+  ]
+}

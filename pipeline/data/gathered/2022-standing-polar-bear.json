@@ -1,0 +1,54 @@
+{
+  "id": "2022-standing-polar-bear",
+  "year": 2022,
+  "name": "Standing Polar Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cO1grYvfk5g",
+      "channel": "Amazing Animals",
+      "duration": 119.0,
+      "title": "Incredible footage of cameraman and hungry polar bear"
+    },
+    {
+      "id": "0UhVwaPfhHM",
+      "channel": "ourtrips2go",
+      "duration": 26.0,
+      "title": "Polar Bear Encounter"
+    },
+    {
+      "id": "y4143eXoWeQ",
+      "channel": "Vlambose",
+      "duration": 826.0,
+      "title": "When Polar Bears Go On A Rampage Caught on Camera!"
+    },
+    {
+      "id": "HmnKbBmYii8",
+      "channel": "BBC",
+      "duration": 66.0,
+      "title": "Polar bear cub is surprised by a seal - Snow Bears: Preview - BBC"
+    },
+    {
+      "id": "uf0Aw5Lg4HA",
+      "channel": "gh0st",
+      "duration": 14.0,
+      "title": "remember november 2026 is coming polar bear meme"
+    }
+  ]
+}

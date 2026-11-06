@@ -1,0 +1,69 @@
+{
+  "id": "2018-barbie-nurse",
+  "year": 2018,
+  "name": "Barbie Nurse",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pZmsIWIqSto",
+      "channel": "Titi Toys and Dolls",
+      "duration": 601.0,
+      "title": "Barbie Doll Ambulance and Hospital Playset - Best Barbie Toy!"
+    },
+    {
+      "id": "3i9BOYNLPw4",
+      "channel": "Titi Toys and Dolls",
+      "duration": 645.0,
+      "title": "Barbie Dolls Fast Care Clinic Pretend Play - Titi Toys & Dolls"
+    },
+    {
+      "id": "Ntqgm-M7ncA",
+      "channel": "Titi Toys and Dolls",
+      "duration": 486.0,
+      "title": "Barbie & Ken Doll Family Toddler Get Well Routine at Hospital"
+    },
+    {
+      "id": "SU6BGWYJWmw",
+      "channel": "Bombshell Barbie Universe",
+      "duration": 621.0,
+      "title": "Barbie Doctor Doll Hospital Toy - Nurse Barbie Doll Medical Center Playsets"
+    },
+    {
+      "id": "Z9-ZcvX2e2I",
+      "channel": "Adult Doll Collector ",
+      "duration": 637.0,
+      "title": "Doctor Barbie on a Budget"
+    }
+  ]
+}

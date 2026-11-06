@@ -1,0 +1,60 @@
+{
+  "id": "2019-the-great-irish-science-book",
+  "year": 2019,
+  "name": "The Great Irish Science Book",
+  "price_eur": 32.5,
+  "price_text": "€32.50",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-great-irish-science-book-luke-a-j-oneill-9780717185580"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-great-irish-science-book-luke-a-j-oneill-9780717185580",
+      "title": "Buy The Great Irish Science Book Book at Easons",
+      "description": "Join Trinity's Professor Luke O'Neill on the greatest journey of them all. From the very big to the very small - vast galaxies to microscopic atoms - travel through the wonders of the universe, the mysteries of the human body, and the tiny world of molecul",
+      "image": null,
+      "ld_description": "Join Trinity's Professor Luke O'Neill on the greatest journey of them all. From the very big to the very small - vast galaxies to microscopic atoms - travel through the wonders of the universe, the mysteries of the human body, and the tiny world of molecules. Discover the Irish scientists that have helped to shape our world and find out how to become one yourself.\n\nHow do we measure the universe? Why do we need plants? How do our bodies repair themselves when we are ill? What species will exist on earth in a million years' time? Discover the answers to these questions and a lot more in this thrilling and engrossing book packed with fascinating phenomena, vibrant illustrations, experiments you can do yourself, and heaps of fun facts.",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/m/3805a6a89ced9e08/original/9780717185580_5641424196.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zfaB1LFfV8c",
+      "channel": "Research Ireland",
+      "duration": 519.0,
+      "title": "Little Book of Irish Science 100 Things you should know"
+    },
+    {
+      "id": "p9IqreNjSKk",
+      "channel": "Royal Irish Academy",
+      "duration": 200.0,
+      "title": "08 The Greatest Irish Scientist   Audio Visual Guide to the Academy and its Library"
+    },
+    {
+      "id": "yYv5ZfRJ9G4",
+      "channel": "Dublin Book Festival",
+      "duration": 233.0,
+      "title": "Dublin Book Festival - Interview with Luke O'Neill"
+    },
+    {
+      "id": "ktS-HEvY6Eo",
+      "channel": "Dublin Book Festival",
+      "duration": 878.0,
+      "title": "DBF Presents: The Great Irish Farmbook"
+    },
+    {
+      "id": "YWJolxF9_Ik",
+      "channel": "VIJETA PUBLISHING HOUSE",
+      "duration": 214.0,
+      "title": "CHAPTER-4 OF CLASS-2 II HELPFUL ANIMALS  II ESSENTIAL SCIENCE IRISH."
+    }
+  ]
+}

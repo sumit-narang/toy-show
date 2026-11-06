@@ -1,0 +1,54 @@
+{
+  "id": "2023-raleigh-molli-16-kids-bike",
+  "year": 2023,
+  "name": "Raleigh Molli 16 Kids Bike",
+  "price_eur": 229.0,
+  "price_text": "€229",
+  "retailers": [
+    {
+      "name": "Euro Cycles",
+      "url": "https://eurocycles.com/raleigh-molli-16-girls-bike-aqua-4-to-6-years-old/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jN2vjxsoUcw",
+      "channel": "OMA Bikes",
+      "duration": 41.0,
+      "title": "16\" RALEIGH MOLLI Aluminium Kids Bike (4563)"
+    },
+    {
+      "id": "fVKVTrEQFfE",
+      "channel": "Josh Weinberg",
+      "duration": 194.0,
+      "title": "Raleigh Reviews her Cleary 20\" Kids Bike"
+    },
+    {
+      "id": "N0gi-9zPxEI",
+      "channel": "OMA Bikes",
+      "duration": 34.0,
+      "title": "16\" RIDGEBACK MELODY Aluminium Girls BIKE Kids BICYCLE (5009)"
+    },
+    {
+      "id": "wPOxixLrAM0",
+      "channel": "Raleigh (UK) Ltd",
+      "duration": 72.0,
+      "title": "Raleigh POP kids bikes"
+    },
+    {
+      "id": "RAuZg1ncP-M",
+      "channel": "gilang ramadhan",
+      "duration": 25.0,
+      "title": "Gets Detail Of Raleigh Molli 16\" Wheel Girl's Bike - 2014 Sale"
+    }
+  ]
+}

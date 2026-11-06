@@ -1,0 +1,57 @@
+{
+  "id": "2022-seven-swans-a-swimming-puzzle",
+  "year": 2022,
+  "name": "Seven Swans A-Swimming Puzzle",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Wentworth Puzzles",
+      "url": "http://wentworthpuzzles.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.wentworthpuzzles.com/",
+      "title": "Wentworth Wooden Puzzles | Christmas Jigsaw Puzzles 2026",
+      "description": "10% off all full priced puzzles on orders over £30, with code HPUKXM261. Our new jigsaw puzzle collection features beautiful Christmas scenes and colourful favourites. Discover handcrafted wooden puzzles with charming designs, ideal for family fun and unique gifts.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GFFiI2FvWKQ",
+      "channel": "Rangsk",
+      "duration": 629.0,
+      "title": "Sudoku Adventure #1030 - \"Seven Swans A-Swimming\" by Matt Tressel"
+    },
+    {
+      "id": "GFby1frGcAM",
+      "channel": "Sudoku Sleuth",
+      "duration": 1356.0,
+      "title": "7 Swans a Swimming: Christmas Countdown Sudoku Special"
+    },
+    {
+      "id": "B8zj4hAUJLk",
+      "channel": "Lucky Hunter",
+      "duration": 1296.0,
+      "title": "Seven Swans A Swimming | The Unfinished Swan"
+    },
+    {
+      "id": "zQGWtV8MzXA",
+      "channel": "ABC News",
+      "duration": 150.0,
+      "title": "Wheel of Fortune Contestant Guesses Right, but Loses Anyway"
+    },
+    {
+      "id": "egcg4Cv5TAg",
+      "channel": "Chaotic Law",
+      "duration": 52.0,
+      "title": "The 7th Day Before Christmas... 7 Swans A-Swimming"
+    }
+  ]
+}

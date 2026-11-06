@@ -1,0 +1,44 @@
+{
+  "id": "2022-what-makes-us-human-luke-o-neill",
+  "year": 2022,
+  "name": "What Makes Us Human - Luke O'Neill",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "5nVH7T_SOxI",
+      "channel": "Google Play Books",
+      "duration": 924.0,
+      "title": "What Makes Us Human by Luke O'Neill · Audiobook preview"
+    },
+    {
+      "id": "PG74nPExzEc",
+      "channel": "An Post",
+      "duration": 370.0,
+      "title": "Luke O'Neill - What Makes Us Human"
+    },
+    {
+      "id": "zPnJ35RKQvQ",
+      "channel": "Trinity College Dublin",
+      "duration": 4640.0,
+      "title": "Luke O Neill - What does it Mean to be Human in the 21st Century?"
+    },
+    {
+      "id": "bV4ZFQqt-7g",
+      "channel": "TEDx Talks",
+      "duration": 1127.0,
+      "title": "The Biggest Riddle of Them All: What Is Life?  | Luke O'Neill | TEDxTrinityCollegeDublin"
+    },
+    {
+      "id": "VkaAwqq9w5w",
+      "channel": "Trinity Long Room Hub Arts and Humanities",
+      "duration": 3565.0,
+      "title": "What does it mean to be Human in the 21st century? With Professor Luke O'Neill (January 2019)"
+    }
+  ]
+}

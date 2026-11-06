@@ -1,0 +1,53 @@
+{
+  "id": "2017-happyland-beanstalk-set",
+  "year": 2017,
+  "name": "Happyland Beanstalk Set",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a2A5qzQpboo",
+      "channel": "The Entertainer",
+      "duration": 70.0,
+      "title": "Happyland Cherry Lane Cottage Playset"
+    },
+    {
+      "id": "sdlbwhbSLB0",
+      "channel": "The Entertainer",
+      "duration": 43.0,
+      "title": "Happyland Fairy Tale Sherwood Castle Playset"
+    },
+    {
+      "id": "XZcKhI8yKF0",
+      "channel": "Early Learning Centre",
+      "duration": 23.0,
+      "title": "Early Learning Centre Happyland Kettle Cottage"
+    },
+    {
+      "id": "Uw9gHR4ttbc",
+      "channel": "Early Learning Centre",
+      "duration": 45.0,
+      "title": "Happyland Lights and Sounds Band Set (2 years+) Early Learning Centre"
+    },
+    {
+      "id": "RprlH0mNde0",
+      "channel": "KONDE GAMING",
+      "duration": 275.0,
+      "title": "1st VLog Chloevania review ELC Happyland Toys"
+    }
+  ]
+}

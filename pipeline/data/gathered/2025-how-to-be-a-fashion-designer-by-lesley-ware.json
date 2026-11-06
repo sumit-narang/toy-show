@@ -1,0 +1,60 @@
+{
+  "id": "2025-how-to-be-a-fashion-designer-by-lesley-ware",
+  "year": 2025,
+  "name": "How to be a Fashion Designer by Lesley Ware",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/how-to-be-a-fashion-designer-lesley-ware-9780241678886"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/how-to-be-a-fashion-designer-lesley-ware-9780241678886",
+      "title": "How To Be A Fashion Designer By Lesley Ware | Easons.Com",
+      "description": "Inspiring kids’ guide to designing, styling and customising clothes with fun fashion projects and ideas. Free Delivery On All Orders Over €10",
+      "image": null,
+      "ld_description": "Design, style, and accessorise clothes with this practical book of fashion design for kids. Whether your child wants to design the next big outfit for London fashion week, or they just want to learn about textiles and fabrics, How to be a Fashion Designer helps kids enjoy experimenting with new ideas. Draw and colour creations, choose materials, and learn to design through drawing your own fashion.\n\n  Bright illustrations mixed with fun photography show kids how to choose gorgeous colours, design dress shapes, customise t-shirts, and add sparkle to their accessories using simple, easy-to-follow design tasks and practical projects.\n\n  This hands-on fashion book for kids offers:\n  \n    A collection of practical activities like restyling their wardrobe staples and customising t-shirts, with easy-to-follow design tasks and projects.\n    A new and updated edition, with fresh content including dressing to boost your mood, how to create your own look book, and sustainable design techniques.\n    Art and fashion design combined with practical, hands-on making, so children can easily follow along and make their ideas come to life.\n  \n\n  Using inspiration from the natural world, everyday life, and their own imagination, children can design outfits from scratch and learn how to put together the clothes and accessories they already own in fun, stylish ways.\n\n  This nonfiction fashion design book for kids is perfect for 7-9-year-olds and brings a unique approach to STEAM learning by combin",
+      "brand": "Dorling Kindersley Limited",
+      "ld_image": "https://www.easons.com/images/asset/72f32625-2d6c-40cc-82d8-b63c41968167/9780241678886_5642053514.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qOD6eTtvq1A",
+      "channel": "Penguin Random House",
+      "duration": 153.0,
+      "title": "Inside the Book: Lesley Ware (HOW TO BE A FASHION DESIGNER)"
+    },
+    {
+      "id": "0uRHNbVtNqs",
+      "channel": "Brightly Storytime",
+      "duration": 587.0,
+      "title": "How to Be a Fashion Designer - Create With Lesley Ware | Brightly Storytime Together"
+    },
+    {
+      "id": "qCpBIzfJCh8",
+      "channel": "The Creator's Life",
+      "duration": 308.0,
+      "title": "Craft 'N' Chat with Lesley Ware"
+    },
+    {
+      "id": "0_dWRhspKQE",
+      "channel": "Craft Industry Alliance",
+      "duration": 3820.0,
+      "title": "Episode #118: Lesley Ware"
+    },
+    {
+      "id": "DJW92l7_h4g",
+      "channel": "ROXANNE",
+      "duration": 309.0,
+      "title": "The Creator's Life: Craft N Chat // LESLEY WARE"
+    }
+  ]
+}

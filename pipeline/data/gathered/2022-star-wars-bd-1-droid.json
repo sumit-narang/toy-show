@@ -1,0 +1,54 @@
+{
+  "id": "2022-star-wars-bd-1-droid",
+  "year": 2022,
+  "name": "Star Wars BD-1 Droid",
+  "price_eur": 100.0,
+  "price_text": "€100",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/bd-1-75335"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/bd-1-75335"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bYFF83QWLOY",
+      "channel": "Star Wars Explained",
+      "duration": 325.0,
+      "title": "Why BD Droids Are the BEST Droids!"
+    },
+    {
+      "id": "V7UUJm-8Ba8",
+      "channel": "Generic Gaming",
+      "duration": 456.0,
+      "title": "STAR WARS JEDI FALLEN ORDER - BD-1 is Adorable / BD-1 Scenes"
+    },
+    {
+      "id": "mvtcF-hbE3I",
+      "channel": "Gamer's Little Playground",
+      "duration": 1700.0,
+      "title": "Star Wars: Jedi Fallen Order BD-1 Robot And Cal Friendship All Scenes"
+    },
+    {
+      "id": "ahLhAJkKAIU",
+      "channel": "Kellswater",
+      "duration": 67.0,
+      "title": "BD in the Book of Boba Fett"
+    },
+    {
+      "id": "pq3l-YopGMs",
+      "channel": "animatedjen",
+      "duration": 410.0,
+      "title": "BD-1 | STAR WARS"
+    }
+  ]
+}

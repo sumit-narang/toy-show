@@ -1,0 +1,54 @@
+{
+  "id": "2025-miai-chatbot-buddy-robot",
+  "year": 2025,
+  "name": "MiAi Chatbot Buddy Robot",
+  "price_eur": 249.99,
+  "price_text": "€249.99",
+  "retailers": [
+    {
+      "name": "World of Wonder",
+      "url": "https://worldofwondertoys.ie/product/miai-chatbot-buddy-robot/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://worldofwondertoys.ie/product/miai-chatbot-buddy-robot/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "V7ZxDXdVUf0",
+      "channel": "Play Tech AI",
+      "duration": 61.0,
+      "title": "Say hello to Buddy!"
+    },
+    {
+      "id": "VtVj7oqx5fs",
+      "channel": "Top 5 Picks",
+      "duration": 626.0,
+      "title": "Top 5 BEST AI Companion Robots of (2026) | Don't Buy Until You Watch!"
+    },
+    {
+      "id": "9JIox43CgIQ",
+      "channel": "Dr Robotnik",
+      "duration": 77.0,
+      "title": "schizo - robot"
+    },
+    {
+      "id": "a3B1fV0rQrg",
+      "channel": "Mì AI",
+      "duration": 766.0,
+      "title": "Dùng thử Pika - robot học Tiếng Anh cho trẻ cực đỉnh - Mì AI"
+    },
+    {
+      "id": "gWks6Y9pyCA",
+      "channel": "Maya Bot",
+      "duration": 320.0,
+      "title": "Maya bot"
+    }
+  ]
+}

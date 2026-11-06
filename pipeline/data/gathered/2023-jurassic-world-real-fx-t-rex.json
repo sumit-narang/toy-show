@@ -1,0 +1,57 @@
+{
+  "id": "2023-jurassic-world-real-fx-t-rex",
+  "year": 2023,
+  "name": "Jurassic World Real FX T-Rex",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-park-real-fx-t-rex-with-35-actions-and-sound-effects/p/224337"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-park-real-fx-t-rex-with-35-actions-and-sound-effects/p/224337",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XBEHOy_magM",
+      "channel": "BrachioTitan 🦕- The Dinosaur Channel",
+      "duration": 647.0,
+      "title": "They Sent Me a Baby Dinosaur!"
+    },
+    {
+      "id": "mw2rspzvzlg",
+      "channel": "Wow! Stuff",
+      "duration": 20.0,
+      "title": "Real FX T-Rex 20 second"
+    },
+    {
+      "id": "mc-MI5oU4UM",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 913.0,
+      "title": "2023 WOW! Stuff Jurassic Park Real FX animatronic Tyrannosaurus rex Review!!!"
+    },
+    {
+      "id": "ol1KG_p_cVs",
+      "channel": "Garage Geek Guy",
+      "duration": 65.0,
+      "title": "Jurassic Park Real FX Baby T-Rex Animatronic Dinosaur Puppet"
+    },
+    {
+      "id": "_uzSX7-sMQY",
+      "channel": "Caleb Burnett",
+      "duration": 523.0,
+      "title": "Unboxing the RealFX Jurassic Park Baby T. rex Animatronic Puppet! Ultra Realistic Dinosaur Toy"
+    }
+  ]
+}

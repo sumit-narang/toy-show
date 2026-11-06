@@ -1,0 +1,54 @@
+{
+  "id": "2022-bespoke-cockpit-model",
+  "year": 2022,
+  "name": "Bespoke Cockpit Model",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "CardboardMagic",
+      "url": "https://cardboardmagic.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZGs04KzAA5A",
+      "channel": "Old School Model Works",
+      "duration": 158.0,
+      "title": "Cranky Cockpit Club - 3D printed pilots, with Bluster"
+    },
+    {
+      "id": "cwcUcWwD_yE",
+      "channel": "Old School Model Works",
+      "duration": 121.0,
+      "title": "Cranky Cockpit Club - 3d printed pilots, with Loopin'Lucy"
+    },
+    {
+      "id": "PojdSjcr6lc",
+      "channel": "Ron Gosselin",
+      "duration": 176.0,
+      "title": "cockpit making"
+    },
+    {
+      "id": "ly_1lj4Eq6M",
+      "channel": "Russ Barlow",
+      "duration": 784.0,
+      "title": "OCTAVI: Worlds Smallest Cockpit... For Real?"
+    },
+    {
+      "id": "036J5ZwMYn0",
+      "channel": "Rob Brennan RC",
+      "duration": 679.0,
+      "title": "Making a Bespoke cockpit for my Tamiya XV-01 Asterion"
+    }
+  ]
+}

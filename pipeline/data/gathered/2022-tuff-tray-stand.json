@@ -1,0 +1,57 @@
+{
+  "id": "2022-tuff-tray-stand",
+  "year": 2022,
+  "name": "Tuff Tray Stand",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CEKNM3Ju5r4",
+      "channel": "TUFF TRAYS by Learning Through PLAYtrays",
+      "duration": 30.0,
+      "title": "Assembling Your Tuff Tray Stand | How to set up the tuff tray legs"
+    },
+    {
+      "id": "zmxIfyjRqqs",
+      "channel": "Talking Turtle",
+      "duration": 193.0,
+      "title": "Tuff Tray Stand Assembly"
+    },
+    {
+      "id": "tz0OoklSnw0",
+      "channel": "True Toys",
+      "duration": 45.0,
+      "title": "Toyrific Play Tray Table - Red"
+    },
+    {
+      "id": "616I9I7l5Io",
+      "channel": "Adventures of Adam",
+      "duration": 25.0,
+      "title": "Cosy Direct Tuff Spot Stand Review"
+    },
+    {
+      "id": "RAvxEW_4xAY",
+      "channel": "TTS Resources",
+      "duration": 141.0,
+      "title": "TTS Resources | Active World Mini Tuff Tray"
+    }
+  ]
+}

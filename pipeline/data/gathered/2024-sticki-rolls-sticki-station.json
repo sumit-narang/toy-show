@@ -1,0 +1,57 @@
+{
+  "id": "2024-sticki-rolls-sticki-station",
+  "year": 2024,
+  "name": "Sticki Rolls Sticki Station",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-station-jewellery-kit/p/238407"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-station-jewellery-kit/p/238407",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cjVCkUt3NYw",
+      "channel": "Jess Lavenders",
+      "duration": 2082.0,
+      "title": "Unboxing the Sticki Rolls Series 2 Sticki Station!"
+    },
+    {
+      "id": "0iP0UCscAW8",
+      "channel": "Jess Lavenders",
+      "duration": 1781.0,
+      "title": "Unboxing the Series 3 Sticki Rolls Sticki Station!"
+    },
+    {
+      "id": "u6j0kl1ZzME",
+      "channel": "Tallie's Tricks",
+      "duration": 329.0,
+      "title": "Sticki Rolls Series 3 Sticki Station"
+    },
+    {
+      "id": "AMtqu76W6aU",
+      "channel": "Jess Lavenders",
+      "duration": 2460.0,
+      "title": "Sticki Rolluxe Unboxing! The BIGGEST Series 2 Sticki Rolls Set!"
+    },
+    {
+      "id": "kcuyZJixQOc",
+      "channel": "Tallie's Tricks",
+      "duration": 961.0,
+      "title": "Sticki Rolls Sticki Book and Sticki Station Series 2"
+    }
+  ]
+}

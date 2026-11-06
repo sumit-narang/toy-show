@@ -1,0 +1,54 @@
+{
+  "id": "2025-jumbo-magnifying-glass",
+  "year": 2025,
+  "name": "Jumbo Magnifying Glass",
+  "price_eur": 6.95,
+  "price_text": "€6.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/learning-resources-primary-science-jumbo-magnifiers-colours-vary"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/learning-resources-primary-science-jumbo-magnifiers-colours-vary"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P6QwCO9NLnM",
+      "channel": "MagniPros ",
+      "duration": 157.0,
+      "title": "1068- how to Instructions for the 4X Magnifier Glass with LED Lights"
+    },
+    {
+      "id": "GnUDn-OTFpg",
+      "channel": "The Simple Review",
+      "duration": 578.0,
+      "title": "Comparison Between These 3 Different Magnifying Glasses"
+    },
+    {
+      "id": "t3_TAO3pyl8",
+      "channel": "Zoom Vision",
+      "duration": 54.0,
+      "title": "Zoom Magnifying Reading Glasses"
+    },
+    {
+      "id": "-SmLQNxxLfg",
+      "channel": "Carson ",
+      "duration": 119.0,
+      "title": "Carson Optical Desktop Stand Fresnel Magnifier CP-10 HD"
+    },
+    {
+      "id": "oNZsD_SnDGo",
+      "channel": "Sweet Country Living In Michigan",
+      "duration": 11.0,
+      "title": "Exploring the Power of a Huge Magnifying Glass With a light"
+    }
+  ]
+}

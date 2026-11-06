@@ -1,0 +1,53 @@
+{
+  "id": "2017-illegal-eoin-colfer",
+  "year": 2017,
+  "name": "Illegal Eoin Colfer",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cnWeuPNl5dY",
+      "channel": "SourcebooksInc",
+      "duration": 69.0,
+      "title": "Illegal by Eoin Colfer and Andrew Donkin Book Trailer"
+    },
+    {
+      "id": "NeWwl4p6qbM",
+      "channel": "Katie Butler",
+      "duration": 86.0,
+      "title": "Illegal by Eoin Colfer Book Trailer"
+    },
+    {
+      "id": "6CHbAcXqUOE",
+      "channel": "Harris County Public Library",
+      "duration": 551.0,
+      "title": "Book Discussion - Illegal: the Graphic Novel"
+    },
+    {
+      "id": "9gD1xvcnj4A",
+      "channel": "SourcebooksInc",
+      "duration": 91.0,
+      "title": "Andrew Donkin discusses Illegal"
+    },
+    {
+      "id": "V__vaHGxlRw",
+      "channel": "SourcebooksInc",
+      "duration": 70.0,
+      "title": "Eoin Colfer on books and ILLEGAL"
+    }
+  ]
+}

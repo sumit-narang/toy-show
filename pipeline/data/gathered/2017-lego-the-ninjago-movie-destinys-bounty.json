@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-the-ninjago-movie-destinys-bounty",
+  "year": 2017,
+  "name": "LEGO The Ninjago Movie Destinys Bounty",
+  "price_eur": 110.99,
+  "price_text": "€110.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Qvw6HJF5mf8",
+      "channel": "Generic Stud",
+      "duration": 1231.0,
+      "title": "EVERY Destiny's Bounty NINJAGO SET!"
+    },
+    {
+      "id": "tyDRq6UwuMg",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 999.0,
+      "title": "🔄 LEGO Ninjago Movie 2017 Destiny's Bounty review! 70618 re upload"
+    },
+    {
+      "id": "HHlzFIdJ0BA",
+      "channel": "AustrianBrickFan",
+      "duration": 1348.0,
+      "title": "Lego Ninjago Movie 70618 Destiny´s Bounty - Lego Speed Build Review"
+    },
+    {
+      "id": "ADgu-H5v7uE",
+      "channel": "LEGO",
+      "duration": 61.0,
+      "title": "Destiny's Bounty - LEGO NINJAGO Movie - 70618 - Product Animation"
+    },
+    {
+      "id": "Vgk4dpjjJ2g",
+      "channel": "Brick Legends",
+      "duration": 565.0,
+      "title": "HUGE LEGO Destiny's Bounty Ninjago MOC..."
+    }
+  ]
+}

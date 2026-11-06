@@ -1,0 +1,23 @@
+{
+  "id": "2021-digiwiz-6-9-robot-kit",
+  "year": 2021,
+  "name": "Digiwiz 6-9 Robot Kit",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "DigiWiz",
+      "url": "https://digiwizkits.com/collections/christmas-boxes/products/digiwiz-gift-box-ages-6-to-9"
+    }
+  ],
+  "kind": "tech",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": []
+}

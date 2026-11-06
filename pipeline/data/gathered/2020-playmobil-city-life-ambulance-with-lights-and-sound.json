@@ -1,0 +1,61 @@
+{
+  "id": "2020-playmobil-city-life-ambulance-with-lights-and-sound",
+  "year": 2020,
+  "name": "Playmobil City Life Ambulance with Lights and Sound",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    },
+    {
+      "name": "Tots Amazing",
+      "url": "https://www.totsamazing.ie/dolls-figures-playsets-/playmobil-city-life-ambulance-with-lights-and-sound"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Dr7QAY6i--0",
+      "channel": "BIBO TOYS",
+      "duration": 313.0,
+      "title": "Assembling PLAYMOBIL Ambulance with Light and Sound Rescue Car Toy"
+    },
+    {
+      "id": "zMs7vj5mP6s",
+      "channel": "HammerMobil",
+      "duration": 940.0,
+      "title": "Playmobil City Life set # 70049 (2018) Ambulance with Flashing Lights review"
+    },
+    {
+      "id": "jwLHcNgjaFU",
+      "channel": "BIBO TOYS",
+      "duration": 176.0,
+      "title": "PLAYMOBIL City Life Emergency Car Toy with Light and Sound UNBOXING"
+    },
+    {
+      "id": "X4TE2uqQpkc",
+      "channel": "Playmobil Großfamilie Lieblich",
+      "duration": 147.0,
+      "title": "Playmobil - City Action Notarzt-Motorrad mit Blinklicht  - Unboxing"
+    },
+    {
+      "id": "vOTmbbOrebc",
+      "channel": "lil' monkey media",
+      "duration": 1670.0,
+      "title": "Massive Playmobil City Life Collection!  Children's Hospital and 11 Add-on Sets!"
+    }
+  ]
+}

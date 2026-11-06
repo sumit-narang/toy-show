@@ -1,0 +1,54 @@
+{
+  "id": "2020-tycoon-cajon-bold-series",
+  "year": 2020,
+  "name": "Tycoon Cajon, Bold Series",
+  "price_eur": 159.0,
+  "price_text": "€159.00",
+  "retailers": [
+    {
+      "name": "Waltons Music",
+      "url": "https://www.waltons.ie/home/products/view/09atyc-tkbsc-29-gr-tycoon-cajon-bold-series-carrying-bag-and-maraccas-geeen/"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.waltons.ie/home/products/view/09atyc-tkbsc-29-gr-tycoon-cajon-bold-series-carrying-bag-and-maraccas-geeen/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GORrBpfATX8",
+      "channel": "Tycoon Percussion",
+      "duration": 37.0,
+      "title": "Bold Series Cajons - Demonstration by Łukasz Kurzydło, Tycoon Artist"
+    },
+    {
+      "id": "w-SOwMy4k0M",
+      "channel": "Tycoon Percussion",
+      "duration": 200.0,
+      "title": "All New Tycoon Cajons For 2019 - Demonstration by Łukasz Kurzydło, Tycoon Artist"
+    },
+    {
+      "id": "4RLS3uS5oFI",
+      "channel": "Tycoon Percussion",
+      "duration": 79.0,
+      "title": "Supremo Series Cajon - Demonstration by Lerryns Hernandez, Tycoon Artist"
+    },
+    {
+      "id": "8xjaKjQeIQk",
+      "channel": "Tycoon Percussion",
+      "duration": 50.0,
+      "title": "Crate Cajon - Demonstration by Kalani Das, Tycoon Artist"
+    },
+    {
+      "id": "dLSJCaZ2CfA",
+      "channel": "Tycoon Percussion",
+      "duration": 43.0,
+      "title": "Vertex Series Ziricote Cajon - Demonstration by Kalani Das, Tycoon Artist"
+    }
+  ]
+}

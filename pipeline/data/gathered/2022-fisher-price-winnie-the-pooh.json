@@ -1,0 +1,54 @@
+{
+  "id": "2022-fisher-price-winnie-the-pooh",
+  "year": 2022,
+  "name": "Fisher Price Winnie The Pooh",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H8W23Vs0qjg",
+      "channel": "What Do Toys Do?",
+      "duration": 141.0,
+      "title": "Fisher Price Winnie The Pooh Magic Rattle Interactive Plush Toy Talking Moving Music Disney 2009"
+    },
+    {
+      "id": "-BhxjfJqdFs",
+      "channel": "Anzsy's toy videos",
+      "duration": 97.0,
+      "title": "Fisher-Price Winnie The Pooh Dream Glow Pooh lullaby toy"
+    },
+    {
+      "id": "_LGJgCBkRSc",
+      "channel": "Memoryquest",
+      "duration": 88.0,
+      "title": "2003 fisher price Pooh love to walk"
+    },
+    {
+      "id": "ghmryMPzVI4",
+      "channel": "Memoryquest",
+      "duration": 85.0,
+      "title": "Fisher price Winnie the Pooh scrolling TV"
+    },
+    {
+      "id": "XLZMGrjZlDA",
+      "channel": "Retro Toys and Cartoons",
+      "duration": 21.0,
+      "title": "Pooh Babies Magic Touch 'n Crawl Fisher Price Commercial Retro Toys and Cartoons"
+    }
+  ]
+}

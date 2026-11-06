@@ -1,0 +1,54 @@
+{
+  "id": "2020-vtech-kidi-super-star-dj",
+  "year": 2020,
+  "name": "VTech Kidi Super Star DJ",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "McGreevy's Toys Direct",
+      "url": "https://toysdirect.ie/products/vtech-kidi-super-star-dj"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/vtech-kidi-super-star-dj"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JpNtI7d5kWU",
+      "channel": "ictio",
+      "duration": 341.0,
+      "title": "VTech Kidi SuperStar DJ"
+    },
+    {
+      "id": "bwdveN2tcWg",
+      "channel": "Simone Alana",
+      "duration": 212.0,
+      "title": "Best Kids Microphone Toy? VTech Kidi Super Star DJ Review & Demo"
+    },
+    {
+      "id": "1nYMgX47Cag",
+      "channel": "BPMS Toys in ChatGPT",
+      "duration": 18.0,
+      "title": "VTech Kidi SuperStar Jr DJ Mixer Meme Startup & Shutdown"
+    },
+    {
+      "id": "P1aNrq8AkLA",
+      "channel": "Toying Around Fun",
+      "duration": 264.0,
+      "title": "VTech Kidi Superstar Jr. DJ Mixer Toy Review #vtech #musictoys #toys "
+    },
+    {
+      "id": "n2AjDyTz2zU",
+      "channel": "G Cast",
+      "duration": 222.0,
+      "title": "VTech Kidi Star Karaoke Machine, Pink/Purple With Microphone & Stand"
+    }
+  ]
+}

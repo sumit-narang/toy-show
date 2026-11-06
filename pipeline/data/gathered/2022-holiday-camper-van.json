@@ -1,0 +1,54 @@
+{
+  "id": "2022-holiday-camper-van",
+  "year": 2022,
+  "name": "Holiday Camper Van",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/holiday-camper-van-60283"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/holiday-camper-van-60283"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0zYaSsvT0AU",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 463.0,
+      "title": "LEGO City 2025 Holiday Camper Van review! 60454  #NotSponsored"
+    },
+    {
+      "id": "yZItYzxgriU",
+      "channel": "Peppa Pig's Big Adventures",
+      "duration": 1079.0,
+      "title": "Peppa Pig's Campervan Holiday 🏕 Peppa&George:Camping Day Out  🐽 18 Minutes | Big Adventures"
+    },
+    {
+      "id": "7A6gJi01X4I",
+      "channel": "AustrianBrickFan",
+      "duration": 505.0,
+      "title": "LEGO City 60454 Holiday Camper Van - LEGO Speed Build Review"
+    },
+    {
+      "id": "PW4-S25S9YI",
+      "channel": "Peppa Pig Stories & Cartoons - Kids Videos",
+      "duration": 3301.0,
+      "title": "Kids Videos Camper Van! Camping Holiday Special 2018 | Peppa Pig Official | New Peppa Pig"
+    },
+    {
+      "id": "Gi__Vo-JzTQ",
+      "channel": "Karl Watson: Travel Documentaries",
+      "duration": 4588.0,
+      "title": "IRELAND 🇮🇪 All The Way Round | 7 Days in a Campervan"
+    }
+  ]
+}

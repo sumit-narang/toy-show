@@ -1,0 +1,54 @@
+{
+  "id": "2019-pok-mon-trainer-guess-all-star-edition-hoenn",
+  "year": 2019,
+  "name": "Pokémon Trainer Guess All-Star Edition Hoenn",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/pokemon-pokemon-trainer-guess-all-star-edition-hoenn/1600379722.prd"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/pokemon-pokemon-trainer-guess-all-star-edition-hoenn/1600379722.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RVq0pS7dYXo",
+      "channel": "JunkSeeker",
+      "duration": 356.0,
+      "title": "TidBits - Pokemon Trainer Guess (Hoenn)"
+    },
+    {
+      "id": "tBDHfYq7oQ4",
+      "channel": "MandJTV Extra",
+      "duration": 3181.0,
+      "title": "Can I Remember EVERY Pokémon?"
+    },
+    {
+      "id": "XIX8H4QSAAg",
+      "channel": "Flyingtomato98",
+      "duration": 3388.0,
+      "title": "Pokémon Emerald: I beat all 20 contests with Milotic and still didn't get a trainer ID Star!!!"
+    },
+    {
+      "id": "XbRx28UxxRU",
+      "channel": "TrollLoot Gaming",
+      "duration": 112.0,
+      "title": "Winner of Pokemon Trainer Guess 10/17"
+    },
+    {
+      "id": "GWqWFJ-XSAo",
+      "channel": "Sweetboy Matt",
+      "duration": 1346.0,
+      "title": "Pokémon Emerald HARDCORE Nuzlocke But Hoenn 'Mons Are BANNED"
+    }
+  ]
+}

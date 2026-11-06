@@ -1,0 +1,54 @@
+{
+  "id": "2023-ses-creative-green-beedz",
+  "year": 2023,
+  "name": "SES Creative Green Beedz",
+  "price_eur": 19.9,
+  "price_text": "€19.90",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/green-beedz-forest-animals-eco-friendly-iron-on-beads-se"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://jiminy.ie/products/green-beedz-forest-animals-eco-friendly-iron-on-beads-se"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4USBU1DXUj4",
+      "channel": "SES Creative",
+      "duration": 19.0,
+      "title": "SES Creative - Colour changing bath fish (Tiny Talents)"
+    },
+    {
+      "id": "ix4_qfRym1E",
+      "channel": "draw pixel art (cute pixels)",
+      "duration": 105.0,
+      "title": "how to draw handmade charming t-rex dinosaur | ♡ drawpixelart likes you ♡ | doodle | drawpixelart"
+    },
+    {
+      "id": "e5Xip6GDDsw",
+      "channel": "Intertoys",
+      "duration": 30.0,
+      "title": "SES Explore - Kristallen Kweken"
+    },
+    {
+      "id": "adGpkwnTfoM",
+      "channel": "Intertoys",
+      "duration": 23.0,
+      "title": "SES - Zeepketting Maken"
+    },
+    {
+      "id": "rkIxCLpYB-I",
+      "channel": "SES Creative",
+      "duration": 21.0,
+      "title": "SES Creative - Mega multi bubbles (Commercial DE)"
+    }
+  ]
+}

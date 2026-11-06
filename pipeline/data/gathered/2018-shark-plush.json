@@ -1,0 +1,57 @@
+{
+  "id": "2018-shark-plush",
+  "year": 2018,
+  "name": "Shark Plush",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "http://IKEA.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/",
+      "title": "Hej! Welcome to IKEA Global",
+      "description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+      "image": "https://www.ikea.com/global/en/media/IKEA_com_Global_Thumbnail_3765094b99.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pjtwLXGWCkg",
+      "channel": "IKEA Ireland",
+      "duration": 21.0,
+      "title": "IKEA THINGS - Shark"
+    },
+    {
+      "id": "g2Nh5mg6NYs",
+      "channel": "Top 5 Best Picks",
+      "duration": 509.0,
+      "title": "The Top 5 Best Stuffed Shark Plush in 2025 - Must Watch Before Buying!"
+    },
+    {
+      "id": "knjBx4hdcSM",
+      "channel": "Adam Carter 1997",
+      "duration": 1640.0,
+      "title": "My Baby Shark's Big Show Plush Reviews"
+    },
+    {
+      "id": "bZz0e1nz42Y",
+      "channel": "Tropical Critters",
+      "duration": 593.0,
+      "title": "Melissa & Doug Shark Plush Unboxing & Review"
+    },
+    {
+      "id": "d_RdCG2C418",
+      "channel": "Kgiyav Styavis",
+      "duration": 76.0,
+      "title": "Ryttir 39 4 Inch XXL Giant Shark Stuffed Animals, Fun large plush Sharkey!"
+    }
+  ]
+}

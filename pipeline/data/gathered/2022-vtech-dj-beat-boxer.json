@@ -1,0 +1,54 @@
+{
+  "id": "2022-vtech-dj-beat-boxer",
+  "year": 2022,
+  "name": "VTech DJ Beat Boxer",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "88_VSgNEoa8",
+      "channel": "VTech Canada",
+      "duration": 55.0,
+      "title": "DJ Beat Boxer | Demo Video | VTech® Canada"
+    },
+    {
+      "id": "lKXxc6ljFV8",
+      "channel": "Simply Toy Reviews",
+      "duration": 62.0,
+      "title": "DJ Dog Beats Toy Demo | VTECH | Quick Review | No Talking"
+    },
+    {
+      "id": "e96HTuoLI5Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "DJ Beat Boxer from VTech Review!"
+    },
+    {
+      "id": "3DamU_ps82Y",
+      "channel": "Exploring the Unique & Remarkable",
+      "duration": 84.0,
+      "title": "Let's Test Out DJ BEAT BOXER by VTECH - This Puppy is HILARIOUS !"
+    },
+    {
+      "id": "yIYOIXzvPlc",
+      "channel": "Smyths Toys Superstores",
+      "duration": 35.0,
+      "title": "VTech DJ Beat Boxer - Smyths Toys"
+    }
+  ]
+}

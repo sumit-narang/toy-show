@@ -1,0 +1,57 @@
+{
+  "id": "2019-lego-city-deep-space-rocket-and-launch-control-set",
+  "year": 2019,
+  "name": "LEGO City Deep Space Rocket and Launch Control Set",
+  "price_eur": 94.99,
+  "price_text": "€94.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-city/lego-60228-city-deep-space-rocket-and-launch-control-set/p/175257"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-city/lego-60228-city-deep-space-rocket-and-launch-control-set/p/175257",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FEA5VgG_2Ag",
+      "channel": "All New Bricks",
+      "duration": 495.0,
+      "title": "Lego City 60228 Deep Space Rocket and Launch Control Speed Build"
+    },
+    {
+      "id": "XAz-nZG85lY",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1504.0,
+      "title": "🔄 LEGO City 2019 Deep Space Rocket and Launch Control review 👍 60228 re upload"
+    },
+    {
+      "id": "qexhM6Vd-Oo",
+      "channel": "GJBricks",
+      "duration": 916.0,
+      "title": "Modified LEGO City Deep Space Rocket Launch Control 60228 (Part 1)"
+    },
+    {
+      "id": "knf8KWWoo9U",
+      "channel": "Swedish Brick",
+      "duration": 279.0,
+      "title": "Unboxing Lego City Deep Space Rocket And Launch Control SET 60228 4K"
+    },
+    {
+      "id": "RN9HwZ8VEek",
+      "channel": "MADABOUTLEGO",
+      "duration": 406.0,
+      "title": "LEGO City Deep Space Rocket and Launch Control 60228."
+    }
+  ]
+}

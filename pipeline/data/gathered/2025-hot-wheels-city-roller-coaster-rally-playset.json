@@ -1,0 +1,57 @@
+{
+  "id": "2025-hot-wheels-city-roller-coaster-rally-playset",
+  "year": 2025,
+  "name": "Hot Wheels City Roller Coaster Rally Playset",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-city-roller-coaster-rally-playset-with-5-die-cast-cars/p/238225"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-city-roller-coaster-rally-playset-with-5-die-cast-cars/p/238225",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fALEugBJPSw",
+      "channel": "Smyths Toys Superstores",
+      "duration": 28.0,
+      "title": "Hot Wheels City Roller Coaster Rally Playset with 5 Diecast Cars - Smyths Toys"
+    },
+    {
+      "id": "YiCMeMmkBAs",
+      "channel": "Doppel Felix",
+      "duration": 113.0,
+      "title": "Hot Wheels City Bahn Roller Coaster Rally"
+    },
+    {
+      "id": "DaRlacgHTXU",
+      "channel": "Toy Play Videos",
+      "duration": 145.0,
+      "title": "Hot Wheels City Roller Coaster Rally Set - Motorized Fun for Hours of Play Time!"
+    },
+    {
+      "id": "P7bOQJygkYw",
+      "channel": "PBJJ FAMILY",
+      "duration": 1426.0,
+      "title": "Hot Wheels Roller Coaster Rally | Mattel Hot Wheels City | Motorized Hot Wheels |Continuous Play"
+    },
+    {
+      "id": "l7HR-s9zNlg",
+      "channel": "Alan’s collections",
+      "duration": 64.0,
+      "title": "Hotwheels Roller Coaster Rally #hotwheels #hotwheelscollector #hotwheelscollection "
+    }
+  ]
+}

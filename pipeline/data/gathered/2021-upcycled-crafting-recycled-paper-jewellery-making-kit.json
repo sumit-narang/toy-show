@@ -1,0 +1,57 @@
+{
+  "id": "2021-upcycled-crafting-recycled-paper-jewellery-making-kit",
+  "year": 2021,
+  "name": "Upcycled Crafting Recycled Paper Jewellery Making Kit",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/jewellery-and-bracelets/upcycled-crafting-recycled-paper-jewellery-making-kit/p/198428"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/jewellery-and-bracelets/upcycled-crafting-recycled-paper-jewellery-making-kit/p/198428",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bQJ2J-hfJRo",
+      "channel": "Camelia DIY",
+      "duration": 608.0,
+      "title": "Don't Throw Away Shoe Boxes! See WHAT You Can Make Them - Recycle"
+    },
+    {
+      "id": "Pl3k4rfA1EE",
+      "channel": "Smyths Toys Superstores",
+      "duration": 57.0,
+      "title": "Upcycled Crafting Jewellery Making Kit Assembly - Smyths Toys"
+    },
+    {
+      "id": "PGh0ReuzJgw",
+      "channel": "Upcycle DesignLab",
+      "duration": 846.0,
+      "title": "Addicted To Jewelry Making? Try This Paper Clip Bead Making Hack"
+    },
+    {
+      "id": "MZm8ZjMebqk",
+      "channel": "thefrugalcrafter Lindsay Weirich",
+      "duration": 490.0,
+      "title": "green creativity paper bead roller review"
+    },
+    {
+      "id": "6wdmvbth-Ow",
+      "channel": "JewelryTutorialHQ",
+      "duration": 365.0,
+      "title": "DIY Paper Stud Earrings - Cute & Colorful Upcycled Jewelry Tutorial"
+    }
+  ]
+}

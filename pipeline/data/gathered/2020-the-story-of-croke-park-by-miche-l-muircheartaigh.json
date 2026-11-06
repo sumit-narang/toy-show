@@ -1,0 +1,60 @@
+{
+  "id": "2020-the-story-of-croke-park-by-miche-l-muircheartaigh",
+  "year": 2020,
+  "name": "The Story of Croke Park by Micheál Ó Muircheartaigh",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-story-of-croke-park-micheal-o-muircheartaigh-9781788492065"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-story-of-croke-park-micheal-o-muircheartaigh-9781788492065",
+      "title": "Buy The Story Of Croke Park Book at Easons",
+      "description": "It may seem strange to us now, but for a long time, with Ireland ruled by Britain, it was against the law to play sports like hurling and Gaelic football. That has all changed, and football, hurling and camogie are Ireland's most popular sports.\n\nGaelic sp",
+      "image": null,
+      "ld_description": "It may seem strange to us now, but for a long time, with Ireland ruled by Britain, it was against the law to play sports like hurling and Gaelic football. That has all changed, and football, hurling and camogie are Ireland's most popular sports.\n\nGaelic sports icon Micheál Ó Muircheartaigh shares his lifelong passion for the GAA with young readers, as he guides them through its history, and its most iconic stadium, Croke Park. The stadium changed as Ireland changed, and it has been the venue for some of the most memorable matches in our history, as well as major historic events like Bloody Sunday.\n\nMicheál picks his favourite players, matches and incidents from history and talks about the thrilling experience of commentating on games, and seeing the fabled cups - Sam Maguire, Liam McCarthy, O'Duffy and Brendan Martin - being held high by the All Ireland winners.\n\nA must for all young GAA fans.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/fbf0b232-aac7-450f-91f2-387ce48b0362/9781788492065_5642784754.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ODmKnccl8aY",
+      "channel": "Croke Park",
+      "duration": 107.0,
+      "title": "Micheal O Muircheartaigh describes Croke Park as a shrine"
+    },
+    {
+      "id": "m_xFaKpOW2g",
+      "channel": "Off The Ball",
+      "duration": 1442.0,
+      "title": "The Mícheál Ó'Muircheartaigh interview"
+    },
+    {
+      "id": "NeX3b8Y5yLY",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 493.0,
+      "title": "Micheál Ó Muircheartaigh"
+    },
+    {
+      "id": "f5ZGne-Wxdo",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 77.0,
+      "title": "Queen Elizabeth Croke Park Visit: The Significance."
+    },
+    {
+      "id": "yZbJ_6neJIE",
+      "channel": "RTÉ News",
+      "duration": 140.0,
+      "title": "Archive of GAA commentary launched to support people living with dementia | RTÉ News"
+    }
+  ]
+}

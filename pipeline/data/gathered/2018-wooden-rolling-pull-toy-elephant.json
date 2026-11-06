@@ -1,0 +1,57 @@
+{
+  "id": "2018-wooden-rolling-pull-toy-elephant",
+  "year": 2018,
+  "name": "Wooden Rolling Pull Toy Elephant",
+  "price_eur": 24.0,
+  "price_text": "€24.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oxV3Wf_MJfY",
+      "channel": "Parenting Motherhood Etc",
+      "duration": 202.0,
+      "title": "Elephant Rocking Stacker by Melissa & Doug, stacking toy"
+    },
+    {
+      "id": "gF3zGHfMKD0",
+      "channel": "60 Seconds Toy Review",
+      "duration": 70.0,
+      "title": "Elephant Pull Toy, by Funyards Australia"
+    },
+    {
+      "id": "lVqbxsLIV88",
+      "channel": "Modern Brands",
+      "duration": 35.0,
+      "title": "PlanToys | Walking Elephant"
+    },
+    {
+      "id": "JEM1kONUhHc",
+      "channel": "Toys24.gr",
+      "duration": 87.0,
+      "title": "winfun   My Pull Along Pal Elephant"
+    },
+    {
+      "id": "5WXXWZ9_mrw",
+      "channel": "Fat Brain Toys",
+      "duration": 26.0,
+      "title": "Nature Buddies Wooden Rollers"
+    }
+  ]
+}

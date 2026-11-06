@@ -1,0 +1,54 @@
+{
+  "id": "2022-my-little-pony-retro-sweet-stuff-classic-pony",
+  "year": 2022,
+  "name": "My Little Pony Retro Sweet Stuff Classic Pony",
+  "price_eur": 15.0,
+  "price_text": "€15",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/kx35297?_pos=5&_psq=my%20little%20pony&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/kx35297?_pos=5&_psq=my%20little%20pony&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zm1Ki57OLpU",
+      "channel": "Scootertrix Studios",
+      "duration": 288.0,
+      "title": "The Stuff BEATS the Ponies"
+    },
+    {
+      "id": "Op8XhuvFCms",
+      "channel": "ElpuntThing",
+      "duration": 602.0,
+      "title": "Sweet Stuff - G1 My Little Pony 'n Friends"
+    },
+    {
+      "id": "-4mGy9vhHpo",
+      "channel": "DeadGentry",
+      "duration": 212.0,
+      "title": "3 Quick Ways To Tell If Your My Little Pony Is Valuable!"
+    },
+    {
+      "id": "0kf-zgB5B9k",
+      "channel": "My Little Pony - Official Channel",
+      "duration": 22.0,
+      "title": "Equestria Girls Minis - 'The Show Must Go On Pt.1' Digital Short"
+    },
+    {
+      "id": "-XGkOkfuRts",
+      "channel": "My Little Pony - Official Channel",
+      "duration": 230.0,
+      "title": "Baby Rarity and Baby Applejack?! | Friendship is Magic | MLP: FiM"
+    }
+  ]
+}

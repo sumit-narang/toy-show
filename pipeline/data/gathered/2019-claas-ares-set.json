@@ -1,0 +1,57 @@
+{
+  "id": "2019-claas-ares-set",
+  "year": 2019,
+  "name": "Claas Ares Set",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/farm-vehicles-and-accessories/claas-ares-set-with-tractor/p/144341"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/farm-vehicles-and-accessories/claas-ares-set-with-tractor/p/144341",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RczPDNwNGbA",
+      "channel": "G.M. Stephenson Ltd",
+      "duration": 126.0,
+      "title": "Claas Ares 557 ATZ Tractor"
+    },
+    {
+      "id": "Yupq_p1nuwI",
+      "channel": "G.M. Stephenson Ltd",
+      "duration": 166.0,
+      "title": "Claas Ares 836RZ Tractor"
+    },
+    {
+      "id": "kZ0_AtRHA58",
+      "channel": "CLAAS United Kingdom",
+      "duration": 191.0,
+      "title": "RPM Control | CEBIS CLAAS Tractor"
+    },
+    {
+      "id": "h4oBN9bY2no",
+      "channel": "WitheridgeGarage",
+      "duration": 116.0,
+      "title": "2007 Claas Ares 577 ATZ"
+    },
+    {
+      "id": "__yftXtLt8M",
+      "channel": "ToyBroadway",
+      "duration": 267.0,
+      "title": "🚜 Dickie Toys Of Germany  CLAAS ARES Tractor unboxing and Kinder Surprise"
+    }
+  ]
+}

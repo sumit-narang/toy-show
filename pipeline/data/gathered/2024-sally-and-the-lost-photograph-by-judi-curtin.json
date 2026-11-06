@@ -1,0 +1,60 @@
+{
+  "id": "2024-sally-and-the-lost-photograph-by-judi-curtin",
+  "year": 2024,
+  "name": "Sally and the Lost Photograph by Judi Curtin",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/judi-curtin-sally-and-the-lost-photograph-2024-paperback"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/judi-curtin-sally-and-the-lost-photograph-2024-paperback",
+      "title": "Judi Curtin: Sally and the Lost Photograph [2024] paperback",
+      "description": "Judi Curtin: Sally and the Lost Photograph [2024] paperback | Sally and her sister Bridget are New Yorkers now - they've settled in and feel at home in the bustling city.Life in New York is exciting enough that the girls can rise above life with Catherine, their mean cousin.At work one day, Bridget finds a photograph o",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/curtin-judi-corcoran-rachel-judi-curtin-sally-and-the-lost-photograph-2024-paperback-9781788495295-58669712179539_1200x1200.jpg?v=1743670453",
+      "ld_description": "Sally and her sister Bridget are New Yorkers now - they've settled in and feel at home in the bustling city.Life in New York is exciting enough that the girls can rise above life with Catherine, their mean cousin.At work one day, Bridget finds a photograph of a young man between the pages of a book. She shows it to her employer Miss Cameron who dismisses it, but her blush and flustered manner intrigue Bridget; she soon discovers he was a suitor, but not allowed by Miss Cameron's family as he came from a poor background.Meanwhile, the girls' friend Betty is sick. When she visited a free clinic the doctor suggested she move to a warmer part of the country, a prospect unimaginable to Betty, who can barely afford to feed and clothe herself. When poor Betty commits a crime out of poverty and desperation the girls don't know how to help. But can both stories have a happy ending?",
+      "brand": "Curtin, Judi &amp; Corcoran, Rachel",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/curtin-judi-corcoran-rachel-judi-curtin-sally-and-the-lost-photograph-2024-paperback-9781788495295-58669712179539_276x.jpg?v=1743670453"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "132luDy5xJQ",
+      "channel": "Google Play Books",
+      "duration": 968.0,
+      "title": "Sally and the Lost Photograph Book 2 by Judi Curtin · Audiobook preview"
+    },
+    {
+      "id": "fbI1eJ_zAB8",
+      "channel": "Saturday Night Live",
+      "duration": 203.0,
+      "title": "Census Taker vs. Old Lady - SNL"
+    },
+    {
+      "id": "-GyES-BNlUY",
+      "channel": "Saturday Night Live",
+      "duration": 353.0,
+      "title": "Target Lady: Meets Her First Lesbian - SNL"
+    },
+    {
+      "id": "ANE8j5ay_UU",
+      "channel": "Saturday Night Live",
+      "duration": 341.0,
+      "title": "Dysfunctional Family Dinner - SNL"
+    },
+    {
+      "id": "rgmExY8XJhI",
+      "channel": "Good Hang with Amy Poehler",
+      "duration": 3934.0,
+      "title": "Julia Louis-Dreyfus | Good Hang with Amy Poehler"
+    }
+  ]
+}

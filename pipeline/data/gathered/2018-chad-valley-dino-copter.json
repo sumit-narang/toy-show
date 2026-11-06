@@ -1,0 +1,54 @@
+{
+  "id": "2018-chad-valley-dino-copter",
+  "year": 2018,
+  "name": "Chad Valley Dino Copter",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Argos",
+      "url": "http://www.argos.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/features/republic-of-ireland"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bkTA1PJ343E",
+      "channel": "Tycondrius ",
+      "duration": 834.0,
+      "title": "Chad Valley (Chap Mei) large Military Hovercraft review."
+    },
+    {
+      "id": "UtWZSLNTq3c",
+      "channel": "Tycondrius ",
+      "duration": 522.0,
+      "title": "Chad Valley aka Chap mei Dino Valley Large Helicopter review"
+    },
+    {
+      "id": "ymsVHdr2k7E",
+      "channel": "JUGUETESJAC",
+      "duration": 28.0,
+      "title": "¡Figuras Dino Valley en Jac!"
+    },
+    {
+      "id": "rW9bnKucKFU",
+      "channel": "georgeowain",
+      "duration": 208.0,
+      "title": "Chad Valley’s Mini Helicopter"
+    },
+    {
+      "id": "HM6HCs1R8oo",
+      "channel": "Nathan Webb",
+      "duration": 417.0,
+      "title": "GI Joe Cobra A.S.P.I.D helicopter custom"
+    }
+  ]
+}

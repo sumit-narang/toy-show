@@ -1,0 +1,54 @@
+{
+  "id": "2024-djeco-gymnastics-ribbon",
+  "year": 2024,
+  "name": "Djeco Gymnastics Ribbon",
+  "price_eur": 5.95,
+  "price_text": "€5.95",
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/products/djeco-skill-games-and-activities-jolyruban"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://mimitoys.ie/products/djeco-skill-games-and-activities-jolyruban"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TufvpMwAJjk",
+      "channel": "Olympic Games",
+      "duration": 215.0,
+      "title": "Darya Dmitriyeva's Energetic Ribbon Performance at London 2012 | Music Monday"
+    },
+    {
+      "id": "cJTSIYmROBI",
+      "channel": "World Gymnastics Channel",
+      "duration": 190.0,
+      "title": "2018 Rhythmic Worlds – Ribbon, the Finalists ! – We are Gymnastics"
+    },
+    {
+      "id": "InGvLLB7L6k",
+      "channel": "HannahMartinRG",
+      "duration": 961.0,
+      "title": "BASIC RIBBON HANDLING FOR RHYTHMIC GYMNASTS: FOLLOW-ALONG TUTORIAL"
+    },
+    {
+      "id": "186zlthUKa8",
+      "channel": "Double K",
+      "duration": 396.0,
+      "title": "Basic Ribbon Skills and Handling | Rhythmic Gymnastics"
+    },
+    {
+      "id": "qKiYcnv_FH0",
+      "channel": "World Gymnastics Channel",
+      "duration": 1564.0,
+      "title": "2018 Rhythmic Worlds, Sofia (BUL) – HIGHLIGHTS - Clubs+Ribbon Finals - We Are Gymnastics !"
+    }
+  ]
+}

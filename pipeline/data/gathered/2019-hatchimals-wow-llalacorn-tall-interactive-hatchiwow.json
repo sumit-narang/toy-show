@@ -1,0 +1,57 @@
+{
+  "id": "2019-hatchimals-wow-llalacorn-tall-interactive-hatchiwow",
+  "year": 2019,
+  "name": "Hatchimals WOW Llalacorn Tall Interactive Hatchiwow",
+  "price_eur": 94.99,
+  "price_text": "€94.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/hatchimals/hatchimals-colleggtibles/hatchimals-wow-llalacorn-tall-interactive-hatchiwow-assortment/p/176141"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/hatchimals/hatchimals-colleggtibles/hatchimals-wow-llalacorn-tall-interactive-hatchiwow-assortment/p/176141",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "66svHL_YKz8",
+      "channel": "FTMF2003",
+      "duration": 199.0,
+      "title": "Hatchamals Wow Llamacorn Unboxing And High Voltage"
+    },
+    {
+      "id": "j7QT9xhzZqM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 138.0,
+      "title": "Hatchimals WOW Review from Spin Master"
+    },
+    {
+      "id": "gGFBAcYJ7-c",
+      "channel": "Like Sofia",
+      "duration": 46.0,
+      "title": "Hatchimals WOW – Unboxing & How To"
+    },
+    {
+      "id": "z96wBE8TIQY",
+      "channel": "TheBrainandBody",
+      "duration": 651.0,
+      "title": "Unboxing a Llalacorn Hatchimal with Maverick"
+    },
+    {
+      "id": "IlRc214oVmc",
+      "channel": "Hatchimals",
+      "duration": 546.0,
+      "title": "Hatchimals WOW – Unboxing & How To"
+    }
+  ]
+}

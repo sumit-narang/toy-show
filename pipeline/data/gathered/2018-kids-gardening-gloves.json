@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-gardening-gloves",
+  "year": 2018,
+  "name": "Kids Gardening Gloves",
+  "price_eur": 1.99,
+  "price_text": "€1.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hM4bapSLFXw",
+      "channel": "Kristen Finds It All",
+      "duration": 80.0,
+      "title": "What My Toddler LOVES About These Gardening Gloves"
+    },
+    {
+      "id": "ZfkkGuslj4c",
+      "channel": "Cassandra's Reviews",
+      "duration": 87.0,
+      "title": "Toddler Gardening Gloves Review: Perfect for Little Hands (3-5 Years)"
+    },
+    {
+      "id": "ul8BPSlVmss",
+      "channel": "Matt's Real Reviews",
+      "duration": 83.0,
+      "title": "Real Review of Kids Gardening Gloves (How We Use Them)"
+    },
+    {
+      "id": "yUebvlWKdf8",
+      "channel": "Maya & Dad Do It All",
+      "duration": 131.0,
+      "title": "My Daughter Loves these COOLJOB Toddler Gardening Gloves: Perfect for Kids Age 2-4"
+    },
+    {
+      "id": "NBc0b1ylDjo",
+      "channel": "TheGardenShopIreland",
+      "duration": 62.0,
+      "title": "Kids Green Garden Gloves"
+    }
+  ]
+}

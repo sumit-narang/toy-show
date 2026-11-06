@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-ferris-wheel",
+  "year": 2021,
+  "name": "LEGO Ferris Wheel",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/ferris-wheel-31119"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/ferris-wheel-31119"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Nch-znk6DNw",
+      "channel": "LEGO",
+      "duration": 208.0,
+      "title": "Ferris Wheel - LEGO Creator - 10247 - Designer Video"
+    },
+    {
+      "id": "wJawBS1fxPI",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 482.0,
+      "title": "🔄 LEGO Creator 2015 Ferris Wheel review! 10247 re upload"
+    },
+    {
+      "id": "F4EcpM-dHls",
+      "channel": "All New Bricks",
+      "duration": 838.0,
+      "title": "Lego Creator 10247 Ferris Wheel with Power Functions Speed Build"
+    },
+    {
+      "id": "rza4BYXEwuk",
+      "channel": "Guinness World Records",
+      "duration": 175.0,
+      "title": "He Built a LEGO® Ferris Wheel from 40,000 Bricks! - Guinness World Records"
+    },
+    {
+      "id": "ghRV1TbZ3YE",
+      "channel": "Chairudo",
+      "duration": 108.0,
+      "title": "Setting Up And Durability Test Of The Largest LEGO Ferris Wheel HD"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2021-red-tractor-trailer-with-tanker",
+  "year": 2021,
+  "name": "Red Tractor & Trailer with Tanker",
+  "price_eur": 295.99,
+  "price_text": "€295.99",
+  "retailers": [
+    {
+      "name": "EMK Transport",
+      "url": "https://emktoys.com/collections/toys/products/green-battery-operated-tractor-with-tank"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.emktoys.com/collections/toys/products/green-battery-operated-tractor-with-tank"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RTdKmppToDM",
+      "channel": "My top toys",
+      "duration": 227.0,
+      "title": "Showing Tractor Trucks and Trailers | Oil Tanker, Сar carrier, Dump Trucks for Kids"
+    },
+    {
+      "id": "dNZWsT86GaQ",
+      "channel": "RC T4K",
+      "duration": 268.0,
+      "title": "BRUDER TRUCK VOLVO and TRACTOR with TANK TRAILER"
+    },
+    {
+      "id": "OcBYkHpXj08",
+      "channel": "Stephen Murray",
+      "duration": 79.0,
+      "title": "Tipping silage trailer and Pushing in grass with the little red tractor."
+    },
+    {
+      "id": "v4hk_LpXZ6M",
+      "channel": "Lulu Tracy RC",
+      "duration": 739.0,
+      "title": "I customized a RED & BLUE SCANIA 770S WITH A TANKER trailer!"
+    },
+    {
+      "id": "YxaV80qVkEY",
+      "channel": "balmesh",
+      "duration": 297.0,
+      "title": "Carting Muck with Green and Red Tankers.  - and Green Tractors!"
+    }
+  ]
+}

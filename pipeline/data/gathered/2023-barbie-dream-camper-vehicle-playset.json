@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-dream-camper-vehicle-playset",
+  "year": 2023,
+  "name": "Barbie Dream Camper Vehicle Playset",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dream-camper-vehicle-playset/p/209148"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dream-camper-vehicle-playset/p/209148",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2yvEpBRWOt4",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie New Dream Camper! | AD"
+    },
+    {
+      "id": "6ejrNy_bRVs",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie® Dreamcamper™ | AD"
+    },
+    {
+      "id": "GVnFWKVYie8",
+      "channel": "Carrie Tested It",
+      "duration": 1016.0,
+      "title": "I Tested the New Barbie Dream Camper 2025 | Cute or Overhyped?"
+    },
+    {
+      "id": "Zqg3_yFF59k",
+      "channel": "The Entertainer",
+      "duration": 45.0,
+      "title": "Barbie Dream Camper Playset"
+    },
+    {
+      "id": "3Ea2oAwCF4I",
+      "channel": "Mattel",
+      "duration": 115.0,
+      "title": "Barbie® DreamCamper™ Demo Video"
+    }
+  ]
+}

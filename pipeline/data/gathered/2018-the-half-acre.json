@@ -1,0 +1,57 @@
+{
+  "id": "2018-the-half-acre",
+  "year": 2018,
+  "name": "The Half Acre",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "The Field",
+      "url": "http://www.thefield.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7Sq5Bvvx5nc",
+      "channel": "NA",
+      "duration": 204.0,
+      "title": "Half Acre"
+    },
+    {
+      "id": "_ZKECelocdY",
+      "channel": "NA",
+      "duration": 204.0,
+      "title": "Half Acre (Remastered 2025)"
+    },
+    {
+      "id": "u8SrVvFrHtQ",
+      "channel": "NA",
+      "duration": 220.0,
+      "title": "Half Acre"
+    },
+    {
+      "id": "WyrR4TJmTmA",
+      "channel": "NA",
+      "duration": 491.0,
+      "title": "The Most Controversial Half-Acre in NYC"
+    },
+    {
+      "id": "_7SrnQQFRcs",
+      "channel": "NA",
+      "duration": 1960.0,
+      "title": "Walt Disney - Nature’s Half Acre (1951) [4K] TrueLifeAdventures #waltdisney  #naturedocumentary"
+    }
+  ]
+}

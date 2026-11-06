@@ -1,0 +1,54 @@
+{
+  "id": "2022-leap-frog-magic-adventures",
+  "year": 2022,
+  "name": "Leap Frog Magic Adventures",
+  "price_eur": 99.0,
+  "price_text": "€99",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/lf605403?_pos=2&_sid=4eece20d0&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/lf605403?_pos=2&_sid=4eece20d0&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t6ssiKEQru0",
+      "channel": "EFTM",
+      "duration": 340.0,
+      "title": "Leapfrog Magic Adventures Interactive Globe Review"
+    },
+    {
+      "id": "1HzZOALjX6k",
+      "channel": "PureReviews",
+      "duration": 148.0,
+      "title": "GREAT KID STEM TOY - LeapFrog Magic Adventures Globe Review"
+    },
+    {
+      "id": "DYUh_1vGdt4",
+      "channel": "BreeBuys",
+      "duration": 252.0,
+      "title": "Leap Frog Magic Adventures Globe - Honest Review and Demo! Watch before you buy!"
+    },
+    {
+      "id": "NL6MGqIijgA",
+      "channel": "ictio",
+      "duration": 636.0,
+      "title": "LeapFrog Magic Adventures Globe - Part 1 - Countries"
+    },
+    {
+      "id": "Ix1Wxkr-roM",
+      "channel": "LeapFrog",
+      "duration": 79.0,
+      "title": "Magic Adventures Telescope | Demo Video | LeapFrog®"
+    }
+  ]
+}

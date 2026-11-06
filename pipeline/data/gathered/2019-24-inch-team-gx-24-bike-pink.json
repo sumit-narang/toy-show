@@ -1,0 +1,57 @@
+{
+  "id": "2019-24-inch-team-gx-24-bike-pink",
+  "year": 2019,
+  "name": "24 Inch Team GX-24 Bike Pink",
+  "price_eur": 169.99,
+  "price_text": "€169.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/24-bikes-10-13yrs-/24-inch-team-gx-24-bike-pink/p/158343"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/24-and-26-bikes/24-bikes-10-13yrs-/24-inch-team-gx-24-bike-pink/p/158343",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ljTerzlebXM",
+      "channel": "Smyths Toys Superstores",
+      "duration": 274.0,
+      "title": "Mountain Bike - Smyths Toys"
+    },
+    {
+      "id": "suETibaGarY",
+      "channel": "DJ RAME REYES",
+      "duration": 49.0,
+      "title": "24\" SE SO CAL FLYER PINK bike check 🤔"
+    },
+    {
+      "id": "mR-LItBldCE",
+      "channel": "Evans MTB Saga",
+      "duration": 507.0,
+      "title": "The $2,000 Mistake Most New Riders Make"
+    },
+    {
+      "id": "GvVLYLS4tFg",
+      "channel": "Cycling Weekly",
+      "duration": 379.0,
+      "title": "Hybrid Vs Road Bike: 5 Key Differences You Need To Know | Cycling Weekly"
+    },
+    {
+      "id": "vjQaV3cGs8E",
+      "channel": "Everything's Been Done",
+      "duration": 498.0,
+      "title": "What I Wish I Knew Before I Bought a Gravel Bike"
+    }
+  ]
+}

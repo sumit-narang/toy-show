@@ -1,0 +1,65 @@
+{
+  "id": "2022-football-sparka-green-football",
+  "year": 2022,
+  "name": "Football SPARKA green football",
+  "price_eur": null,
+  "price_text": "£4.50",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/gb/en/p/sparka-soft-toy-football-green-70302645/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/gb/en/p/sparka-soft-toy-football-green-70302645/",
+      "title": "SPARKA soft toy, football/green  - IKEA UK",
+      "description": "SPARKA soft toy, football/green Playing with balls is fun and something the whole family can enjoy together. With a soft ball, a football game can be played anywhere indoors – regardless of season and weather.",
+      "image": "https://www.ikea.com/gb/en/images/products/sparka-soft-toy-football-green__0710184_pe727387_s5.jpg",
+      "ld_description": "SPARKA Soft toy - football/green. Football or something else that’s fun? This soft and light ball is perfect when your child wants to play indoors. Being physically active helps your child develop their motor skills and coordination, while forming a healthy habit for life. Only for indoor use.",
+      "brand": "IKEA",
+      "ld_image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/gb/en/images/products/sparka-soft-toy-football-green__0710184_pe727387_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SFCEVXKlfuo",
+      "channel": "Fotbollstuben",
+      "duration": 183.0,
+      "title": "IJustWantToBeCool - Sparka på bollen (EM-LÅT 2016)"
+    },
+    {
+      "id": "-zEySnHkVBI",
+      "channel": "Green Screen HD",
+      "duration": 555.0,
+      "title": "Green Screen HD - Sparks chroma key"
+    },
+    {
+      "id": "eckdfZU926o",
+      "channel": "Jaribon Pitchside",
+      "duration": 33.0,
+      "title": "Goal or Foul??? PURE CHAOS! 🤯 Controversial Winning Goal Sparks Outrage | Bordoloi Trophy Qualifier"
+    },
+    {
+      "id": "ecNVusZbA68",
+      "channel": "Jojo Lirio",
+      "duration": 277.0,
+      "title": "2016 UFL League - Loyola Meralco Sparks FC vs Green Archers United FC - June 11, 2016 HD"
+    },
+    {
+      "id": "jpXKzRUNUPo",
+      "channel": "Nate & Nessa The Explorers",
+      "duration": 154.0,
+      "title": "Learn The Names of Sports Ball for Everyone"
+    }
+  ]
+}

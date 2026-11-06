@@ -1,0 +1,64 @@
+{
+  "id": "2017-our-generation-delux-sydney-lee",
+  "year": 2017,
+  "name": "Our Generation Delux Sydney Lee",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EdB_jkYiTHo",
+      "channel": "Daisy Rae",
+      "duration": 841.0,
+      "title": "(2021) Sydney Lee Our Generation doll review"
+    },
+    {
+      "id": "_-8UctWXboM",
+      "channel": "KDoll, Games, Toys, and More!!!",
+      "duration": 625.0,
+      "title": "Our Generation Deluxe Collections Sydney Lee"
+    },
+    {
+      "id": "E_FfMJo4m5A",
+      "channel": "Jouet KID Toy",
+      "duration": 32.0,
+      "title": "Poupée OG de luxe - Ballerine Sydney Lee / Doll OG Deluxe - Sydney Lee Ballerina"
+    },
+    {
+      "id": "d6sgakuLLAc",
+      "channel": "Randomly Here and There",
+      "duration": 199.0,
+      "title": "Our Generation 2015 Sydney Lee Ballet Doll"
+    },
+    {
+      "id": "5JOo5NTVga8",
+      "channel": "OG Dolls",
+      "duration": 28.0,
+      "title": "Our Generation Dolls - Best Horse Show Ever with Lily Anna and Sydney Lee"
+    }
+  ]
+}

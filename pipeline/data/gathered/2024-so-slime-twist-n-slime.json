@@ -1,0 +1,57 @@
+{
+  "id": "2024-so-slime-twist-n-slime",
+  "year": 2024,
+  "name": "So Slime Twist 'n' Slime",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/slime-and-putty/so-slime-twist-n-slime-mixer/p/223725"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/slime-and-putty/so-slime-twist-n-slime-mixer/p/223725",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "B8v5REtg47A",
+      "channel": "The Toy Quest",
+      "duration": 751.0,
+      "title": "We Made Edible-Looking Slime| So Slime Yummy Twist & Slime Unboxing"
+    },
+    {
+      "id": "iSwP2GLk66M",
+      "channel": "ToyShop.com.cy",
+      "duration": 28.0,
+      "title": "Check out the all new Marble Slime and the Twist 'N Slime Mixer!1"
+    },
+    {
+      "id": "gdYcPkMeWSA",
+      "channel": "True Toys",
+      "duration": 27.0,
+      "title": "So Slime DIY Slime Mix'in Kit 20 Pack"
+    },
+    {
+      "id": "gZaX_OuJuJc",
+      "channel": "Canal Toys",
+      "duration": 10.0,
+      "title": "MIXER MACHINE TWIST N SLIME MARBLE - SOSLIME - CANAL TOYS"
+    },
+    {
+      "id": "UnuS_eoIgGQ",
+      "channel": "Toyshopper",
+      "duration": 91.0,
+      "title": "So Slime DIY Magical Potion Maker - Real Mist & Light Effects !"
+    }
+  ]
+}

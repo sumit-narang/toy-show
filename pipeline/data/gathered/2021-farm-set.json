@@ -1,0 +1,54 @@
+{
+  "id": "2021-farm-set",
+  "year": 2021,
+  "name": "Farm Set",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Byrnes Toys",
+      "url": "https://www.byrnesonline.ie/shop/world-of-wonder/express-wheels-farm-playset-50-pieces/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://byrnesonline.ie/shop/world-of-wonder/express-wheels-farm-playset-50-pieces/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "r4qOQl4_aEk",
+      "channel": "RaceToyTime",
+      "duration": 296.0,
+      "title": "Playmobil Country Farm with Barn Animals Set"
+    },
+    {
+      "id": "CyFTgDh9wBE",
+      "channel": "RaceToyTime",
+      "duration": 1583.0,
+      "title": "Fun Farm Barn Set and Animals For Kids"
+    },
+    {
+      "id": "sTZpiPrl1E0",
+      "channel": "RaceToyTime",
+      "duration": 810.0,
+      "title": "Schleich Farm World Playset Collection and Fun Farm Animals Toys For Kids"
+    },
+    {
+      "id": "o60r1nVQ1MM",
+      "channel": "Kidibli (Kinder Spielzeug Kanal)",
+      "duration": 1033.0,
+      "title": "Toy Tractor Plays in the Crazy Farm with Fun Animals 🚜 Collection of Toys 🐮 Video for Kids | Kidibli"
+    },
+    {
+      "id": "IShoC1FT_Mw",
+      "channel": "ToyTractorTimes",
+      "duration": 787.0,
+      "title": "42ft Long AMERICAN DREAM Farm Display"
+    }
+  ]
+}

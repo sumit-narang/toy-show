@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-lucy-armchair-pink",
+  "year": 2022,
+  "name": "The Lucy Armchair (pink)",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gavkmOw1194",
+      "channel": "Home with Melody",
+      "duration": 356.0,
+      "title": "Getting trendy furniture secondhand | Lucky or Oxymoron?"
+    },
+    {
+      "id": "tNa-SfPF6pY",
+      "channel": "Stay Wild",
+      "duration": 1611.0,
+      "title": "Living in Every Color For 24 Hours!"
+    },
+    {
+      "id": "U60uHupU7qI",
+      "channel": "fabulous50s",
+      "duration": 844.0,
+      "title": "Burn Belly Fat Fast With This Easy Chair Routine"
+    },
+    {
+      "id": "6rFpw5_7AsM",
+      "channel": "ApexReign Drama",
+      "duration": 7249.0,
+      "title": "🔥A Broke Gambler Reborn With Sea King Powers—He Commands Whales to Catch Fish and Gets Rich#Drama"
+    },
+    {
+      "id": "x3BV7Z0UVzA",
+      "channel": "Interior Insights",
+      "duration": 1794.0,
+      "title": "She Turned A Cold Apartment into a Parisian Scandinavian Home | Interior Design Tour"
+    }
+  ]
+}

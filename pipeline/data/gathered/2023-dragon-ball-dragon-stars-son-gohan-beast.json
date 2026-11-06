@@ -1,0 +1,57 @@
+{
+  "id": "2023-dragon-ball-dragon-stars-son-gohan-beast",
+  "year": 2023,
+  "name": "Dragon Ball Dragon Stars Son Gohan Beast",
+  "price_eur": null,
+  "price_text": "£31.61",
+  "retailers": [
+    {
+      "name": "Amazon.co.uk",
+      "url": "https://www.amazon.co.uk/DB-Figurine-Dragon-Stars-Gohan/dp/B0C7QSZJ4P"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/DB-Figurine-Dragon-Stars-Gohan/dp/B0C7QSZJ4P",
+      "title": "Bandai Dragon Ball Stars 17cm Son Gohan Beast Action Figure | Dragon Ball Super: Super Hero - Son Gohan Anime Figure - Articulated Figure with Accessories - Anime Gifts and Anime Toys : Amazon.co.uk: Toys & Games",
+      "description": "Bandai Dragon Ball Stars 17cm Son Gohan Beast Action Figure | Dragon Ball Super: Super Hero - Son Gohan Anime Figure - Articulated Figure with Accessories - Anime Gifts and Anime Toys : Amazon.co.uk: Toys & Games",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P9sIO5GigMA",
+      "channel": "JKRS Collection",
+      "duration": 538.0,
+      "title": "Dragonstars Beast Son Gohan Action Figure Review"
+    },
+    {
+      "id": "Hin_gBYfO6A",
+      "channel": "Hey, What That ?",
+      "duration": 745.0,
+      "title": "SON GOHAN BEAST - Dragon Stars - BANDAI - Unboxing - ACTION FIGURE - Dragon Ball Super Hero"
+    },
+    {
+      "id": "oslbaeRFJgo",
+      "channel": "The Khan Maestro",
+      "duration": 930.0,
+      "title": "Son Gohan Beast Dragon Stars action figure unboxing"
+    },
+    {
+      "id": "MNvZAx_iX3E",
+      "channel": "Cylver’s Collection",
+      "duration": 425.0,
+      "title": "Best Budget Gohan Figure? | Beast Gohan Dragon Stars Figure Review"
+    },
+    {
+      "id": "10lOkWiATCI",
+      "channel": "Its That Nerd Ryan",
+      "duration": 223.0,
+      "title": "TOY REVIEW  Dragon Stars Son Gohan Beast"
+    }
+  ]
+}

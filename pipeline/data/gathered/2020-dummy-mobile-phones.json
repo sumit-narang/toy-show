@@ -1,0 +1,53 @@
+{
+  "id": "2020-dummy-mobile-phones",
+  "year": 2020,
+  "name": "Dummy Mobile Phones",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0UlG83enApg",
+      "channel": "Michael",
+      "duration": 778.0,
+      "title": "Best Dumbphones 2026"
+    },
+    {
+      "id": "HdTCDxX-UnQ",
+      "channel": "Marques Brownlee",
+      "duration": 863.0,
+      "title": "I Have A Problem with the Light Phone III"
+    },
+    {
+      "id": "1GmOdDl8tcw",
+      "channel": "Jose Briones - Dumbphone Reviews",
+      "duration": 491.0,
+      "title": "The Best Dumb Phones You Should Consider in 2026"
+    },
+    {
+      "id": "UlzxjMP992s",
+      "channel": "TechDroider",
+      "duration": 643.0,
+      "title": "FAKE iPhone 18 Pro Max UNBOXING! FAKE iPhone Duo is here.."
+    },
+    {
+      "id": "BRm-5g8fdD8",
+      "channel": "Michael",
+      "duration": 547.0,
+      "title": "The Anti-Brain-Rot Phone of 2026"
+    }
+  ]
+}

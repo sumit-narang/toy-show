@@ -1,0 +1,54 @@
+{
+  "id": "2022-jakks-pacific-encanto-mirabel-madrigal-doll",
+  "year": 2022,
+  "name": "Jakks Pacific Encanto Mirabel Madrigal Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9Fddjrdxe18",
+      "channel": "Supercooldolls",
+      "duration": 362.0,
+      "title": "I FINALLY Completed the Madrigal Family 😭✨ | Encanto Doll Collection"
+    },
+    {
+      "id": "yJyL9s6_eR4",
+      "channel": "Life Through a Blind Girl’s Eyes",
+      "duration": 1171.0,
+      "title": "Jakks Disney Encanto, Singing Mirabel and Magic Butterfly Doll Unboxing/Review!!!!!💜⭐️❤️🦋"
+    },
+    {
+      "id": "JLbih0CkmOE",
+      "channel": "Graham's Commercials",
+      "duration": 31.0,
+      "title": "Disney Encanto Magical Casa Madrigal Commercial"
+    },
+    {
+      "id": "lLuFGNpgsOo",
+      "channel": "Kristina Land",
+      "duration": 873.0,
+      "title": "Singing Mirabel Doll and Talking about that Madrigral Family Set! #encanto #disneydolls #disney"
+    },
+    {
+      "id": "teRYJVqX5uM",
+      "channel": "Kristina Land",
+      "duration": 641.0,
+      "title": "Which is better? Jakks Pacific Encanto Mirabel & Antonio or Disney Store Mirabel & Antonio dolls?"
+    }
+  ]
+}

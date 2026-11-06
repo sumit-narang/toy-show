@@ -1,0 +1,54 @@
+{
+  "id": "2022-long-skipping-rope-for-2-3-people-100-plastic-free",
+  "year": 2022,
+  "name": "Long Skipping Rope for 2-3 People, 100% Plastic-Free",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/playground-jump-rope-fsc-wood-and-100-cotton-4-5-metres"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://jiminy.ie/products/playground-jump-rope-fsc-wood-and-100-cotton-4-5-metres"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yDSMdd8hiFg",
+      "channel": "Roberta's Gym",
+      "duration": 126.0,
+      "title": "100 Jumping Jacks Challenge [Cardio + Burn Calories + Lose Weight]"
+    },
+    {
+      "id": "1Gwvwp6HVF0",
+      "channel": "StickNox",
+      "duration": 168.0,
+      "title": "Map Editor New Updates || Supreme Duelist Stickman || "
+    },
+    {
+      "id": "hxYUric8dCc",
+      "channel": "Rajkumar Karki",
+      "duration": 215.0,
+      "title": "How to learn Backflip at Home - How to do Backflip Step by Step"
+    },
+    {
+      "id": "cCdv0cgQ7_8",
+      "channel": "Drew Dirksen",
+      "duration": 782.0,
+      "title": "I Tested TEMU Waterslides!"
+    },
+    {
+      "id": "lFP1cHGVQkM",
+      "channel": "The Bear Essentials",
+      "duration": 182.0,
+      "title": "How to get BACK IN when your Canoe tips over [SOLO]"
+    }
+  ]
+}

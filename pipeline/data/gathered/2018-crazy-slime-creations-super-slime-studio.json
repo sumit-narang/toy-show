@@ -1,0 +1,54 @@
+{
+  "id": "2018-crazy-slime-creations-super-slime-studio",
+  "year": 2018,
+  "name": "Crazy Slime Creations Super Slime Studio",
+  "price_eur": 37.99,
+  "price_text": "€37.99",
+  "retailers": [
+    {
+      "name": "Littlewoods",
+      "url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EK3_cEgTvHY",
+      "channel": "Sneak Peek Toy Review",
+      "duration": 316.0,
+      "title": "NICKELODEON SUPER SLIME STUDIO UNBOXING PLAYTIME! HOW TO DIY SLIME! CRUNCHY SLIME SOUNDS! TOY REVIEW"
+    },
+    {
+      "id": "QfQqucqqyUE",
+      "channel": "Toys Planet",
+      "duration": 590.0,
+      "title": "Cra-Z-Slimy • Super Slime Studio • Character • Commercial"
+    },
+    {
+      "id": "0mZGwTlQ8qI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 102.0,
+      "title": "NICKELODEON SLIME! Metallic Mixer Studio from Cra-Z-Art Instructions + Review!"
+    },
+    {
+      "id": "tfOzt1YX2Pg",
+      "channel": "Wish Trade",
+      "duration": 27.0,
+      "title": "Super Slime Studio"
+    },
+    {
+      "id": "cHdK-eVJ-K0",
+      "channel": "Calming Connections",
+      "duration": 2615.0,
+      "title": "Quiet Music For Kids In The Classroom - swirling paint, mesmerizing patterns, sensory video for ADHD"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-dr-hibernica-finch-s-compelling-compendium-of-irish-animals",
+  "year": 2018,
+  "name": "Dr Hibernica Finch's Compelling Compendium of Irish Animals",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4fS86LcOZ0s",
+      "channel": "Aga Grandowicz Wildlife Illustration",
+      "duration": 53.0,
+      "title": "Dr Hibernica Finch’s Compelling Compendium of Irish Animals – learn about Irish animals."
+    },
+    {
+      "id": "C2ImEt4rMLI",
+      "channel": "Aga Grandowicz Wildlife Illustration",
+      "duration": 74.0,
+      "title": "MAKING OF \"Dr Hibernica Finch's Compelling Compendium of Irish Animals\""
+    },
+    {
+      "id": "LOJBExaBECI",
+      "channel": "Aga Grandowicz Wildlife Illustration",
+      "duration": 83.0,
+      "title": "‘Remarkable Creatures: a guide to some of Ireland’s disappearing animals' – book by Aga Grandowicz"
+    },
+    {
+      "id": "RS_nTkbitXs",
+      "channel": "Juanita Browne",
+      "duration": 65.0,
+      "title": "My First Book Of Irish Animals"
+    },
+    {
+      "id": "zulj-gSJ-HU",
+      "channel": "Juanita Browne",
+      "duration": 8.0,
+      "title": "My First Book of Irish Animals goes to print! At Turners Printing, Longford."
+    }
+  ]
+}

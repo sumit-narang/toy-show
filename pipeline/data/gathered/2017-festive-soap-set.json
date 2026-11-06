@@ -1,0 +1,53 @@
+{
+  "id": "2017-festive-soap-set",
+  "year": 2017,
+  "name": "Festive Soap Set",
+  "price_eur": 13.5,
+  "price_text": "€13.50",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CzpJXKCwfQs",
+      "channel": "Organic kreaation ",
+      "duration": 498.0,
+      "title": "DIY Melt & Pour Soap Design Ideas for Christmas | Easy Homemade Holiday Soaps #soapmaking"
+    },
+    {
+      "id": "u5THXCF2uf0",
+      "channel": "Lucy Feng",
+      "duration": 34.0,
+      "title": "Custom Christmas Soap Boxes | Holiday Printed Folding Cartons Manufacturer"
+    },
+    {
+      "id": "kQIoEnNTkfA",
+      "channel": "mesarastarr",
+      "duration": 1317.0,
+      "title": "Bath & Body Works HUGE CHRISTMAS SOAP HAUL! 🎁 PLUS NEW COSTCO CHRISTMAS SOAP COLLECTION! 🎅✨"
+    },
+    {
+      "id": "JJPSgO5xr44",
+      "channel": "QVC",
+      "duration": 337.0,
+      "title": "SoapRockettes S/3 Holiday Gemstone Cleansing Soap Set on QVC"
+    },
+    {
+      "id": "6NxaM-gSVTw",
+      "channel": "Ellen Ruth Soap",
+      "duration": 899.0,
+      "title": "❄️ HOLIDAY SPARKLE ❄️ Coconut Milk CP Soap | Ellen Ruth Soap #recipe #christmas #soap"
+    }
+  ]
+}

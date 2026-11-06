@@ -1,0 +1,60 @@
+{
+  "id": "2020-break-the-mould-by-sin-ad-burke",
+  "year": 2020,
+  "name": "Break the Mould by Sinéad Burke",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/break-the-mould-sinead-burke-9781526363336"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/break-the-mould-sinead-burke-9781526363336",
+      "title": "Break The Mould By Sinead Burke | Buy Now At Eason",
+      "description": "The debut children's book from Sinead Burke will encourage readers to be comfortable in their own skin, break the mould and discover their place in the world",
+      "image": null,
+      "ld_description": "SPECSAVERS CHILDRENS BOOK OF THE YEAR (JUNIOR) 2020  There are so many people in this world - 7.53 billion to be exact. But there is only one of me and one of you. It's easy to think we are not good enough, or that our nose is too big, or wish we could be more like our friends. But the world would be different without you. You are enough just as you are.. .   Sometimes it can seem like the world isn't built for you or like you don't belong. But why should you change who you are for the sake of others? Sinéad Burke is an advocate, activist, teacher, writer and British vogue cover model. She also happens to be a little person at three and a half feet tall. Reflecting on her experiences growing up, Sinéad offers a heartfelt and inspiring guide to young readers on believing in themselves and finding comfort and pride in their own skin. From the power of being different and discovering things you love about yourself, to using your voice to be an ally and show friendship to others, it's time to break the mould and find your place in the world",
+      "brand": "Wren &amp; Rook",
+      "ld_image": "https://www.easons.com/images/asset/1f872137-f568-4ba8-b221-d543525b53b5/9781526363336_5643568349.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tsxLU9S8faY",
+      "channel": "Hachette Children's Group",
+      "duration": 136.0,
+      "title": "Break the Mould by Sinead Burke: Audio Exerpt"
+    },
+    {
+      "id": "rYLgP0qdYUM",
+      "channel": "Google Play Books",
+      "duration": 983.0,
+      "title": "Break the Mould: How to Take Your Place in the… by Sinéad Burke · Audiobook preview"
+    },
+    {
+      "id": "mZktw4IaTW8",
+      "channel": "The Moth",
+      "duration": 853.0,
+      "title": "Sinead Burke | Break a Leg | Dublin Moth Mainstage 2015"
+    },
+    {
+      "id": "3S_D0JftxMM",
+      "channel": "Children's Books Ireland",
+      "duration": 3819.0,
+      "title": "Children's Books Ireland New Voices 2020"
+    },
+    {
+      "id": "CUYSPZPRuu4",
+      "channel": "sophie p.",
+      "duration": 3901.0,
+      "title": "Colin Farrell & Sinead Burke  conversation. december 2020"
+    }
+  ]
+}

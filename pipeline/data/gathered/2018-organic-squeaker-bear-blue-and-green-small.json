@@ -1,0 +1,57 @@
+{
+  "id": "2018-organic-squeaker-bear-blue-and-green-small",
+  "year": 2018,
+  "name": "Organic Squeaker Bear (Blue and Green, Small)",
+  "price_eur": 13.95,
+  "price_text": "€13.95",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BcxMAA32nbM",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 217.0,
+      "title": "Toodly Doodly Doo | Kids Songs | Super Simple Songs"
+    },
+    {
+      "id": "HBxn56l9WcU",
+      "channel": "BBC",
+      "duration": 46.0,
+      "title": "A tiny angry squeaking Frog 🐸 | Super Cute Animals - BBC"
+    },
+    {
+      "id": "Ep_9xHlcibg",
+      "channel": "Zars",
+      "duration": 905.0,
+      "title": "FUNNIEST OMEGLE TROLLING with a *SQUEAKER* VOICE CHANGER!"
+    },
+    {
+      "id": "J4Ag0vCy9P0",
+      "channel": "Fun Caboodle",
+      "duration": 328.0,
+      "title": "Bluey and Bingo DIY Squishies with Squishy Maker! Crafts for Kids"
+    },
+    {
+      "id": "RMVUy3roWXI",
+      "channel": "Bunya Toy Town",
+      "duration": 1874.0,
+      "title": "Bluey's Noisy Neighbour Baby Evie | Pretend Play with Bluey Toys | Peppa Pig Toys"
+    }
+  ]
+}

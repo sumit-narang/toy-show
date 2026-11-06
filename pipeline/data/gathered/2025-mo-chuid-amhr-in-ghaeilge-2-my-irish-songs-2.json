@@ -1,0 +1,54 @@
+{
+  "id": "2025-mo-chuid-amhr-in-ghaeilge-2-my-irish-songs-2",
+  "year": 2025,
+  "name": "Mo Chuid Amhráin Ghaeilge 2 (My Irish Songs 2)",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-2"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/mo-chuid-amhrain-ghaeilge-2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WwkUXC--C3c",
+      "channel": "My Irish Books",
+      "duration": 22.0,
+      "title": "6. Casadh an tSúgáin (Mo Chuid Amhráin Ghaeilge 2)"
+    },
+    {
+      "id": "KyyrUs4655w",
+      "channel": "My Irish Books",
+      "duration": 18.0,
+      "title": "4. Cad é sin don té sin (Mo Chuid Amhráin Ghaeilge 2)"
+    },
+    {
+      "id": "_cCS6RCtL6M",
+      "channel": "My Irish Books",
+      "duration": 24.0,
+      "title": "1. An Gréasaí Bróg (Mo Chuid Amhráin Ghaeilge 2)"
+    },
+    {
+      "id": "kohUcnzuiFQ",
+      "channel": "My Irish Books",
+      "duration": 19.0,
+      "title": "2. Trasna na dTonnta (Mo Chuid Amhráin Ghaeilge 2)"
+    },
+    {
+      "id": "_fXptofHLkE",
+      "channel": "My Irish Books",
+      "duration": 37.0,
+      "title": "Mo Chuid Amhráin Ghaeilge - My Irish Songs"
+    }
+  ]
+}

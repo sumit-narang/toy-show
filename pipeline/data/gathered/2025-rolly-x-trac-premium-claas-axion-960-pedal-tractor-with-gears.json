@@ -1,0 +1,48 @@
+{
+  "id": "2025-rolly-x-trac-premium-claas-axion-960-pedal-tractor-with-gears",
+  "year": 2025,
+  "name": "Rolly X-Trac Premium Claas Axion 960 Pedal Tractor with Gears",
+  "price_eur": 440.0,
+  "price_text": "€440",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/rolly-x-trac-premium-claas-axion-960-pedal-tractor-with-gears2"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/rolly-x-trac-premium-claas-axion-960-pedal-tractor-with-gears2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lXKi1-BSLUM",
+      "channel": "Kids Zone",
+      "duration": 69.0,
+      "title": "The Rolly X-Trac Claas Axion 960 Pedal Tractor with gears"
+    },
+    {
+      "id": "3pBWcmAtw6w",
+      "channel": "Kids Zone",
+      "duration": 32.0,
+      "title": "Rolly X-Trac Premium Claas Pedal Tractor"
+    },
+    {
+      "id": "-Rb-wYXdlPw",
+      "channel": "John Deere Deutschland",
+      "duration": 97.0,
+      "title": "Rolly X-Trac John Deere 8400R Traktor"
+    },
+    {
+      "id": "xQjZlWMFi74",
+      "channel": "Falk Toys - Official",
+      "duration": 95.0,
+      "title": "Falk - Kubota pedal tractor and loader (ref.2060-2060AB-2060AM)"
+    }
+  ]
+}

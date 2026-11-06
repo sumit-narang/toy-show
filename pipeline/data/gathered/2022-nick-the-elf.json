@@ -1,0 +1,44 @@
+{
+  "id": "2022-nick-the-elf",
+  "year": 2022,
+  "name": "Nick the Elf",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "CoUekFh9J6I",
+      "channel": "MONSTERTVMX",
+      "duration": 68.0,
+      "title": "Electra Elf  Trailer"
+    },
+    {
+      "id": "JjxgB4XA21c",
+      "channel": "WeweeUEFN",
+      "duration": 85.0,
+      "title": "THE ELF - RAP SONG (Bonus Content)"
+    },
+    {
+      "id": "IZiq3im7Xhk",
+      "channel": "Robby and Penny",
+      "duration": 335.0,
+      "title": "I Brought Multiple ELVES ON A SHELF Into Our HAUNTED HOUSE!"
+    },
+    {
+      "id": "d4Zv_WJw_Dc",
+      "channel": "Nick’s Nonsense",
+      "duration": 60.0,
+      "title": "Nick as Elf"
+    },
+    {
+      "id": "czpL62r4XyI",
+      "channel": "CNBC Television",
+      "duration": 385.0,
+      "title": "E.l.f. Beauty CEO Tarang Amin: Rhode acquisition came from 'mutual admiration'"
+    }
+  ]
+}

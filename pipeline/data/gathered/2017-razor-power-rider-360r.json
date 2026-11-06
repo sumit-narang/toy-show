@@ -1,0 +1,41 @@
+{
+  "id": "2017-razor-power-rider-360r",
+  "year": 2017,
+  "name": "Razor Power Rider 360R",
+  "price_eur": null,
+  "price_text": "$129.99",
+  "retailers": [
+    {
+      "name": "Razor",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "u1MkWlK-Nv0",
+      "channel": "Smart Review",
+      "duration": 187.0,
+      "title": "✅ Razor Power Rider 360 9 MPH Drifting Trike Ride in 2023 | Razor Power Rider Trike Ride"
+    },
+    {
+      "id": "DZSPjafZ2-c",
+      "channel": "Zenos Jake",
+      "duration": 224.0,
+      "title": "New Electric Scooter"
+    },
+    {
+      "id": "WMYey7Vl15Y",
+      "channel": "EngineerSupply.com",
+      "duration": 63.0,
+      "title": "How to Use a Laser Level to Level Ground"
+    }
+  ]
+}

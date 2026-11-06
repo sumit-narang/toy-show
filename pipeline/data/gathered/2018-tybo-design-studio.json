@@ -1,0 +1,69 @@
+{
+  "id": "2018-tybo-design-studio",
+  "year": 2018,
+  "name": "Tybo Design Studio",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5CKnHr57QSY",
+      "channel": "Tiana",
+      "duration": 1090.0,
+      "title": "TYBO Design Studio! DIY TIE DYE SHIRTS | Toys AndMe"
+    },
+    {
+      "id": "x1lTkCiCPrE",
+      "channel": "Smyths Toys Superstores",
+      "duration": 164.0,
+      "title": "Tybo XL Ultimate Tie Dye Set- Smyths Toys"
+    },
+    {
+      "id": "cS-E6eIyZr8",
+      "channel": "Mookie Toys",
+      "duration": 21.0,
+      "title": "Tybo XL | The Ultimate Tie Dye Kit"
+    },
+    {
+      "id": "mIVyJmKEBV4",
+      "channel": "Jeux Dujardin",
+      "duration": 239.0,
+      "title": "Tybo Effet Twisté"
+    },
+    {
+      "id": "rySM2wl8RA0",
+      "channel": "Tybo Tidy Tie Dye",
+      "duration": 381.0,
+      "title": "Tybo Tidy Tie Dye | Tips and Tricks"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-cocomelon-duluxe-interactive-jj-doll",
+  "year": 2022,
+  "name": "Cocomelon Duluxe Interactive JJ Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-V0igaIwtUk",
+      "channel": "Elizar Tolentino",
+      "duration": 169.0,
+      "title": "COCOMELON DELUXE INTERACTIVE JJ DOLL"
+    },
+    {
+      "id": "EOaAwpiCWkE",
+      "channel": "Freddie griffiths",
+      "duration": 25.0,
+      "title": "cocomelon deluxe interactive JJ doll - smyths toys"
+    },
+    {
+      "id": "3SLOfqppRVE",
+      "channel": "TTPM Toy Reviews",
+      "duration": 110.0,
+      "title": "COCOMELON! Deluxe Interactive JJ Doll from Jazwares Review!"
+    },
+    {
+      "id": "RZ1M-f1Uges",
+      "channel": "Fam Trebid Channel",
+      "duration": 78.0,
+      "title": "Deluxe Interactive JJ Doll #cocomelon  #viral #trending"
+    },
+    {
+      "id": "p4gKxWwpIVA",
+      "channel": "Life Virtue",
+      "duration": 136.0,
+      "title": "#CoComelon #JJ #Doll #Shirt, #Shorts, #Pair #Shoes #Peas #Spoon #Toys #2023  https://amzn.to/44xJETq"
+    }
+  ]
+}

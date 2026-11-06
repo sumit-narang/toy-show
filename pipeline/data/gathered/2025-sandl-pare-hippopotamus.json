@@ -1,0 +1,65 @@
+{
+  "id": "2025-sandl-pare-hippopotamus",
+  "year": 2025,
+  "name": "Sandlöpare Hippopotamus",
+  "price_eur": 22.0,
+  "price_text": "€22",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/p/sandloepare-soft-toy-hippopotamus-grey-20603047/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/p/sandloepare-soft-toy-hippopotamus-grey-20603047/",
+      "title": "SANDLÖPARE soft toy, hippopotamus/grey, 56 cm  - IKEA Ireland",
+      "description": "SANDLÖPARE soft toy, hippopotamus/grey, 56 cm Just like a real hippopotamus, this soft toy has a wonderfully chubby body and sturdy, strong legs. Soft and nice, it’s ready for many endless hugs and cosy moments. Great to combine with other items in the SANDLÖPARE collection.",
+      "image": "https://www.ikea.com/ie/en/images/products/sandloepare-soft-toy-hippopotamus-grey__1405883_pe970622_s5.jpg",
+      "ld_description": "SANDLÖPARE Soft toy - hippopotamus/grey 56 cm. Did you know that hippos love water – but can't swim? This little soft friend can also handle a splash of water, but feels best in your child's warm, safe (and dry!) embrace. Great to combine with other items in the SANDLÖPARE collection.",
+      "brand": "IKEA",
+      "ld_image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/ie/en/images/products/sandloepare-soft-toy-hippopotamus-grey__1405883_pe970622_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NbJB2PSEf8Y",
+      "channel": "skating2fast",
+      "duration": 359.0,
+      "title": "Meerkat Plush 1 Mom 8.5\" & 2 Baby 3.25\" Beige Ikea SANDLÖPARE Stuffed Animal Toy"
+    },
+    {
+      "id": "bNnenZ4HkxI",
+      "channel": "50M Views ",
+      "duration": 118.0,
+      "title": "THE HIPPO WITH NEON EFFECTS || HICKORY DICKORY DOCK VIDEO EFFECTS || HDD REVISED ( VIDEO TUTORIAL)"
+    },
+    {
+      "id": "TtUwc-nJxN8",
+      "channel": "MediaAquariumRiver272 HD",
+      "duration": 7.0,
+      "title": "(Gift Of Kasey Leitch NEXT GEN) Nickelodeon Clay Hippo Whistle"
+    },
+    {
+      "id": "VMkpTrokod0",
+      "channel": "IKEA Thailand",
+      "duration": 56.0,
+      "title": "[ใหม่] พบกับของเล่นธีมสะวันนาในการผจญภัยครั้งใหม่ ที่อิเกีย กับคอลเล็คชั่น SANDLÖPARE/ซันด์โลพาเร่"
+    },
+    {
+      "id": "ml8mgmI4s-w",
+      "channel": "Quick Top 5 Audio",
+      "duration": 52.0,
+      "title": "IKEA SANDLÖPARE Soft toy meerkat mini beige"
+    }
+  ]
+}

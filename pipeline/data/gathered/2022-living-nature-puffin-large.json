@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-puffin-large",
+  "year": 2022,
+  "name": "Living Nature Puffin Large",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PZquEkt7b9U",
+      "channel": "Nature on PBS",
+      "duration": 770.0,
+      "title": "An Iceland Community Rallies to Save Lost Baby Puffins | WILD HOPE"
+    },
+    {
+      "id": "EIUJfXk3_3w",
+      "channel": "BBC Earth",
+      "duration": 478.0,
+      "title": "Puffin Hunts Fish To Feed Puffling | Blue Planet II | BBC Earth"
+    },
+    {
+      "id": "g5CvARJkFDY",
+      "channel": "Explore Live Nature Cams",
+      "duration": 320.0,
+      "title": "A Puffin Story"
+    },
+    {
+      "id": "cAzQfKiDKfo",
+      "channel": "BBC Earth",
+      "duration": 212.0,
+      "title": "Cute Baby Puffin Sees World for the First Time! | World Beneath Your Feet | BBC Earth"
+    },
+    {
+      "id": "kgrV3_g9rYY",
+      "channel": "BBC",
+      "duration": 179.0,
+      "title": "World’s Grumpiest Cat I Frozen Planet II I BBC"
+    }
+  ]
+}

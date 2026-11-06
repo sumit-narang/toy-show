@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-pony-bandages",
+  "year": 2023,
+  "name": "LeMieux Mini Pony Bandages",
+  "price_eur": 15.54,
+  "price_text": "€15.54",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Pony-Bandages/19HK?stock=58953"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Bandages-Ink-Blue/19HK?stock=58953",
+      "title": "Toy Pony Bandages - Ink Blue",
+      "description": "Toy Pony Bandages - Ink Blue\n\nLuxury fleece polo bandages with simple velcro fastening.  The perfect way to learn how to bandage and ensure perfect...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GKQ/1000/1000/ink-blue-mini-pony-polo-bandages-lemieux-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lpGAOyphvDE",
+      "channel": "LeMieux Official",
+      "duration": 31.0,
+      "title": "LeMieux Toy Ponies"
+    },
+    {
+      "id": "Oo9wViDSdcA",
+      "channel": "Harper’s Equestrian Life",
+      "duration": 619.0,
+      "title": "🌟 NEW Mini LeMieux Toy Pony Arrives! 🚛🐴 | Name Reveal & Pony Fun! 🌟"
+    },
+    {
+      "id": "ri8wC_j7u34",
+      "channel": "Angel Wings Equestrian",
+      "duration": 504.0,
+      "title": "New LeMieux Toy Pony Donkey Arrival"
+    },
+    {
+      "id": "MvnRcOvs0JI",
+      "channel": "Harper’s Equestrian Life",
+      "duration": 1007.0,
+      "title": "🌙🐴 Nighttime Routine Gone WRONG! | Mini LeMieux Toy Pony Chaos! | Polework Session🐴🌙"
+    },
+    {
+      "id": "Xu1B70mytzc",
+      "channel": "Its_elsie9",
+      "duration": 141.0,
+      "title": "Tack tour for my mini Lemieux ponies #lemieuxtoypony #horse #equestrian #Lemieux#tack#tour#fy#fypage"
+    }
+  ]
+}

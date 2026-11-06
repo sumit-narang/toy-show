@@ -1,0 +1,60 @@
+{
+  "id": "2024-the-story-of-irish-rugby-by-gerard-siggins",
+  "year": 2024,
+  "name": "The Story of Irish Rugby by Gerard Siggins",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-story-of-irish-rugby-gerard-siggins-9781788494564"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-story-of-irish-rugby-gerard-siggins-9781788494564",
+      "title": "The Story Of Irish Rugby By Gerard Siggins & Graham Corcoran | Buy Now At Easons.Com",
+      "description": "Discover the rich history of Irish rugby in The Story of Irish Rugby a must-read for fans of the game and Irish heritage. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "From the bestselling author of the Rugby Spirit series    With rugby more popular in Ireland than ever before, sportswriter Ger Siggins celebrates the sport as he charts its success across the country and beyond.    From its origins and early history to club games and the international stage, this lavishly illustrated book includes everything you could possibly want to know about Irish rugby and more.    Rules and history of the game The four provinces Unforgettable matches and tournaments Legendary players",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/539a10d6-8099-4e70-8895-4c329bd49c61/9781788494564_5643313600.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E6vmqk4LPaE",
+      "channel": "Google Play Books",
+      "duration": 981.0,
+      "title": "Rugby Spirit Book 1 by Gerard Siggins · Audiobook preview"
+    },
+    {
+      "id": "4b5qkFWhIN0",
+      "channel": "Children in Hospital Ireland",
+      "duration": 89.0,
+      "title": "Ger Siggins, Author of The Rugby Spirit Series"
+    },
+    {
+      "id": "UsrE_rxRwv8",
+      "channel": "The O'Brien Press",
+      "duration": 324.0,
+      "title": "Peter Heaney Reading from Gaelic Spirit by Gerard Siggins"
+    },
+    {
+      "id": "gkAElTV7eNM",
+      "channel": "Google Play Books",
+      "duration": 975.0,
+      "title": "Rugby Heroes Book 6 by Gerard Siggins · Audiobook preview"
+    },
+    {
+      "id": "6ML6YiUp7XU",
+      "channel": "Google Play Books",
+      "duration": 987.0,
+      "title": "Rugby Warrior Book 2 by Gerard Siggins · Audiobook preview"
+    }
+  ]
+}

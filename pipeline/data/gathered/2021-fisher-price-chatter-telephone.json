@@ -1,0 +1,54 @@
+{
+  "id": "2021-fisher-price-chatter-telephone",
+  "year": 2021,
+  "name": "Fisher Price Chatter Telephone",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/chatter-telephone-fisher-price-classic-toys"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/chatter-telephone-fisher-price-classic-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0a4-scP_Rs8",
+      "channel": "CNET",
+      "duration": 550.0,
+      "title": "Fisher-Price made a baby phone for adults because sure why not (Unboxing and review)"
+    },
+    {
+      "id": "pHr8U7pl8Yw",
+      "channel": "Lucky Penny Shop",
+      "duration": 96.0,
+      "title": "Vintage 1960's Fisher-Price Rolling Chatter Telephone Toy #747"
+    },
+    {
+      "id": "I9bH9DRqelQ",
+      "channel": "Lindsey's Toys",
+      "duration": 38.0,
+      "title": "Fisher-Price Toddler Pull Toy Chatter Telephone"
+    },
+    {
+      "id": "wzqXX4dDetU",
+      "channel": "alphine80",
+      "duration": 66.0,
+      "title": "Fisher-Price Lernspaß Telefon"
+    },
+    {
+      "id": "GPflBN49f6c",
+      "channel": "TodayIGrewUP",
+      "duration": 556.0,
+      "title": "Toy Story Chatter Phone Review and Comparison"
+    }
+  ]
+}

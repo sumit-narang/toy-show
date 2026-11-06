@@ -1,0 +1,57 @@
+{
+  "id": "2021-aquagelz-starter-pack-playset",
+  "year": 2021,
+  "name": "Aquagelz Starter Pack Playset",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "Beattys Loughrea",
+      "url": "https://www.beattys.ie/products/aquagelz-deluxe-core-set"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/",
+      "title": "Beattys of Loughrea | Hardware, Electrical, Gardening, Toys & Home",
+      "description": "Visit Beattys of Loughrea, Galway's premier department store & builders' merchant. Shop 9 specialist departments online with fast nationwide delivery.",
+      "image": "http://www.beattys.ie/cdn/shop/files/beattys_shop_front_ppt_60583d6f-756d-4673-8260-78cfd73fbb1e.jpg?crop=center&height=1200&v=1632215453&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mKJfJ1VoHBc",
+      "channel": "Adam Roffel",
+      "duration": 894.0,
+      "title": "IT'S MAGICAL! Check out Aqua Gelz Craft"
+    },
+    {
+      "id": "FGqvhsYOCCg",
+      "channel": "johnadamstoys",
+      "duration": 99.0,
+      "title": "AquaGelz handy tutorial and top tips"
+    },
+    {
+      "id": "GHa5im33SVs",
+      "channel": "Smyths Toys Superstores",
+      "duration": 103.0,
+      "title": "Aqua Gelz How To Guide - Smyths Toys"
+    },
+    {
+      "id": "_CI_MQbUJrA",
+      "channel": "Recreation Ltd",
+      "duration": 113.0,
+      "title": "Aqua Gelz- How To Guide"
+    },
+    {
+      "id": "nvuPw3k4PEg",
+      "channel": "La Grande Récré Officiel",
+      "duration": 86.0,
+      "title": "AQUA GELZ : pour des figurines 3D uniques !"
+    }
+  ]
+}

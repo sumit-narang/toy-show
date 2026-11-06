@@ -1,0 +1,60 @@
+{
+  "id": "2025-lego-wicked-elphaba-glinda-figures",
+  "year": 2025,
+  "name": "LEGO Wicked Elphaba & Glinda Figures",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-wicked-tbd-75682-7302203"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/lego-wicked-tbd-75682-7302203",
+      "title": "LEGO Wicked Elphaba & Glinda Figures 75682",
+      "description": "Take fans of the Wicked Movie on a magical ride to a spellbinding film moment. FREE delivery over €10 on Easons.com",
+      "image": null,
+      "ld_description": "Take fans of the Wicked Movie on a magical ride to a spellbinding film moment. The LEGO Wicked Elphaba & Glinda Figures (75682) building toy for 10-plus-year-old girls and boys reimagines the scene where Elphaba finds the courage to defy gravity. This Wicked LEGO set provides hours of open-ended play as fans recreate the scene from the Wicked film or invent stories of their own. The play comes to life as kids move the characters’ arms and heads along to the iconic “Defying Gravity” hit from the film, which they can play by scanning the QR code hidden in the set with their device. Filled with familiar features from the film for kids’ creative storytelling, this role-play toy makes a great Wizard of Oz-themed gift for 10-plus-year-old girls and boys. It comes with a window that looks over the land of Oz, Elphaba’s broom toy, Glinda’s purse and crown, and a base to turn the figures into display pieces. The set is also featured on the LEGO Builder app, where kids can zoom in and rotate their model in 3D, save sets and track progress.",
+      "brand": "Lego",
+      "ld_image": "https://www.easons.com/images/m/54df66349c102889/original/7302203_5638269914.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WJ-aKEJMuM4",
+      "channel": "AustrianBrickFan",
+      "duration": 628.0,
+      "title": "LEGO Wicked 75682 Elphaba & Glinda Figures - LEGO Speed Build Review"
+    },
+    {
+      "id": "PaDXWO2nb2c",
+      "channel": "ellieV ",
+      "duration": 888.0,
+      "title": "You need Elphaba & Glinda on your desk! LEGO Wicked build & review"
+    },
+    {
+      "id": "4RVqmZgAuso",
+      "channel": "MarisBricks",
+      "duration": 599.0,
+      "title": "LEGO Wicked Elphaba & Glinda Figures 75682"
+    },
+    {
+      "id": "-OWAVSIhu1U",
+      "channel": "HollyOnFilm",
+      "duration": 349.0,
+      "title": "I Fixed The LEGO Wicked Minifigures"
+    },
+    {
+      "id": "p3PVOcimHMI",
+      "channel": "AustrianBrickFan",
+      "duration": 738.0,
+      "title": "LEGO Wicked 75690 Glinda & Elphaba Visit Munchkinland - LEGO Speed Build Review"
+    }
+  ]
+}

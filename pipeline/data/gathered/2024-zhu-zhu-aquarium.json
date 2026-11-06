@@ -1,0 +1,57 @@
+{
+  "id": "2024-zhu-zhu-aquarium",
+  "year": 2024,
+  "name": "Zhu Zhu Aquarium",
+  "price_eur": null,
+  "price_text": "£33.40",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4QG4"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4QG4",
+      "title": "John Adams Zhu Zhu Pets Aquarium Starter Playset WITH Fish | Electronic Land-Swimming Pets for Kids | Mess-Free Fun Toy | Build Your Aquarium | Connects to All Zhu Zhu Playsets | Ages 4+ : Amazon.co.uk: Outlet",
+      "description": "John Adams Zhu Zhu Pets Aquarium Starter Playset WITH Fish | Electronic Land-Swimming Pets for Kids | Mess-Free Fun Toy | Build Your Aquarium | Connects to All Zhu Zhu Playsets | Ages 4+ : Amazon.co.uk: Outlet",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "M2S8J2VDh-w",
+      "channel": "RyderRenegade",
+      "duration": 846.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Coral Reef Tunnel Combo Set"
+    },
+    {
+      "id": "-RGsaARk25M",
+      "channel": "RyderRenegade",
+      "duration": 656.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Bubble Ball & Surfboard"
+    },
+    {
+      "id": "1tnbd2vYOLU",
+      "channel": "RyderRenegade",
+      "duration": 31.0,
+      "title": "Zhu Zhu Aquarium Commercial (30 Seconds)"
+    },
+    {
+      "id": "XhNO2XCgJuY",
+      "channel": "RyderRenegade",
+      "duration": 1576.0,
+      "title": "Zhu Zhu Aquarium Fish Review and Demonstration Compilation (April 2024 by RyderRenegade)"
+    },
+    {
+      "id": "D3PQuEDU-is",
+      "channel": "CoolToys",
+      "duration": 89.0,
+      "title": "Zhu Zhu Aquarium Starter Set with Fish ASMR Toy Unboxing"
+    }
+  ]
+}

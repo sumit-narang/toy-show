@@ -1,0 +1,54 @@
+{
+  "id": "2019-plan-toys-make-up-set",
+  "year": 2019,
+  "name": "Plan Toys Make Up Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uKXT5s-kfp4",
+      "channel": "The Coffee Apple",
+      "duration": 82.0,
+      "title": "Plan Toys Makeup Set"
+    },
+    {
+      "id": "2j7tftf5YjU",
+      "channel": "Junior Kids Boutique",
+      "duration": 66.0,
+      "title": "Juniorkids.gr PlanToys Makeup Set"
+    },
+    {
+      "id": "SbrLP-O2pDI",
+      "channel": "Modern Brands",
+      "duration": 23.0,
+      "title": "PlanToys | Hair Dresser Set"
+    },
+    {
+      "id": "dP3W4hfgS_4",
+      "channel": "Plantoys Baltics",
+      "duration": 32.0,
+      "title": "6410 PLANTOYS  MUSICAL BAND"
+    },
+    {
+      "id": "vtGJIcdncIw",
+      "channel": "Modern Brands",
+      "duration": 32.0,
+      "title": "PlanToys | Kaleidoscope"
+    }
+  ]
+}

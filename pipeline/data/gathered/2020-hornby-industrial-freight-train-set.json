@@ -1,0 +1,53 @@
+{
+  "id": "2020-hornby-industrial-freight-train-set",
+  "year": 2020,
+  "name": "Hornby Industrial Freight Train Set",
+  "price_eur": 129.99,
+  "price_text": "€129.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gDS-Mc8I3tA",
+      "channel": "seacow1970",
+      "duration": 1563.0,
+      "title": "Hornby Industrial Freight Set R 1005 (1997)"
+    },
+    {
+      "id": "uuiHurlXsaE",
+      "channel": "Oscar Paisley",
+      "duration": 617.0,
+      "title": "Hornby Railways R.455 Industrial 0-4-0 Tank Locomotive with R.19 Plate wagons"
+    },
+    {
+      "id": "wtOVxjuCtiI",
+      "channel": "Transport & Simulation Hub",
+      "duration": 2911.0,
+      "title": "Hornby Railways R1002 Twin Train Freight | OO Gauge | 1997 Retro Train Set | Unboxing & Review | HD"
+    },
+    {
+      "id": "66nAl-bvOig",
+      "channel": "My Hornby Hobby",
+      "duration": 900.0,
+      "title": "MY HORNBY HOBBY EPISODE 1: INDUSTRIAL FREIGHT TRAIN SET"
+    },
+    {
+      "id": "81u40_D0UwE",
+      "channel": "Benji's Model Trains",
+      "duration": 131.0,
+      "title": "Hornby Industrial Freight Train Set R1015"
+    }
+  ]
+}

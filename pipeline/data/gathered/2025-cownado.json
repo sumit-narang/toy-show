@@ -1,0 +1,57 @@
+{
+  "id": "2025-cownado",
+  "year": 2025,
+  "name": "Cownado",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/cownado-game/p/249778"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/cownado-game/p/249778",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MNYn9J3kBsU",
+      "channel": "Echoes of PlayTime",
+      "duration": 16.0,
+      "title": "Cownado (Moose Games) TV Commercial - 2025"
+    },
+    {
+      "id": "hu4SrIIhmjc",
+      "channel": "TurboToyTime",
+      "duration": 594.0,
+      "title": "Father VS Son PLAY COWNADO! (Tornado Madness!)"
+    },
+    {
+      "id": "oxY65eszwm4",
+      "channel": "Dice & Dine: Branson Board Game Cafe",
+      "duration": 237.0,
+      "title": "Cownado - How to play and playthru"
+    },
+    {
+      "id": "XPzAxnhSvJQ",
+      "channel": "Moose Top TV Commercials",
+      "duration": 20.0,
+      "title": "Moose Games I Cownado TVC I 20"
+    },
+    {
+      "id": "J1Z7bEoLwdU",
+      "channel": "Dice & Dine: Branson Board Game Cafe",
+      "duration": 237.0,
+      "title": "Cownado! - How to play"
+    }
+  ]
+}

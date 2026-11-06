@@ -1,0 +1,54 @@
+{
+  "id": "2018-gelli-worlds-fantasy-pack",
+  "year": 2018,
+  "name": "Gelli Worlds Fantasy Pack",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "alRMYJ_jRYE",
+      "channel": "Kidspeak UK",
+      "duration": 402.0,
+      "title": "Gelli Worlds Dino Pack by Zimpli Kids #ad"
+    },
+    {
+      "id": "uaFLyh_n36w",
+      "channel": "La biblioteca di Sarah e Nicole",
+      "duration": 321.0,
+      "title": "GELLI WORLDS FANTASY PACK REVIEW"
+    },
+    {
+      "id": "ZeUrNbjoiNw",
+      "channel": "nclubshop",
+      "duration": 336.0,
+      "title": "Gelli Worlds Fantasy Pack Unicornlu Oyuncak Havuzu"
+    },
+    {
+      "id": "BTbOE_O1ZCA",
+      "channel": "Miss Artie Craftie",
+      "duration": 125.0,
+      "title": "Create a DIY Miniature Unicorn Fantasy World 🦄🧚‍♀️ Squishy Gelli Fun ✨"
+    },
+    {
+      "id": "f0XhQh3JZoo",
+      "channel": "Luca’s World Kids",
+      "duration": 240.0,
+      "title": "Luca's World Episode 1: Gelli Worlds"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2022-declan-kirby-gaa-star-over-the-bar",
+  "year": 2022,
+  "name": "Declan Kirby GAA Star: Over the Bar",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "VWsGac36_LM",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2053.0,
+      "title": "Glen & Kilcoo setup Ulster Final 🔥 Newcastle West STUN Clonmel 😲 Club Round Up"
+    },
+    {
+      "id": "oxKAbonwF7g",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2524.0,
+      "title": "Galway All Ireland Dark Horses? 🤔 Top 5 Footballers in 2022 🔥 Cavan vs Sligo & More!"
+    },
+    {
+      "id": "RYWpskPLnq4",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1726.0,
+      "title": "All The Reaction To Kerrys All Ireland Win 👏 Spillane Retirment | Brolly Lashes out 😡"
+    },
+    {
+      "id": "w1UozZLWb6c",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 630.0,
+      "title": "Mayo 5-20 Leitrim 0-11 - Match Reaction as Brilliant Mayo Sweep Leitrim To The Side MacHale Park"
+    }
+  ]
+}

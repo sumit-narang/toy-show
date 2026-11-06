@@ -1,0 +1,44 @@
+{
+  "id": "2022-official-advent-calendar-harry-potter",
+  "year": 2022,
+  "name": "Official Advent Calendar: Harry Potter",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "1w9XeJTTGmo",
+      "channel": "Cherry Wallis",
+      "duration": 1151.0,
+      "title": "Harry Potter Mattel Advent Calendar 2023 🎁 | ADVENT DAY 1"
+    },
+    {
+      "id": "_W5lq19bwRg",
+      "channel": "The Potter Collector",
+      "duration": 720.0,
+      "title": "Harry Potter ODD SOCKS Advent Calendar 2022 🎄 Dobby is FREE!"
+    },
+    {
+      "id": "oqz7Ed5_qsc",
+      "channel": "Carat Shop - Harry Potter Jewellery & Accessories",
+      "duration": 33.0,
+      "title": "Harry Potter Time Turner Advent Calendar 2026"
+    },
+    {
+      "id": "N_dFg1zuYa4",
+      "channel": "Cherry Wallis",
+      "duration": 1561.0,
+      "title": "Harry Potter Hogwarts Trunk Advent Calendar 2024 🧳 | ADVENT DAY 2"
+    },
+    {
+      "id": "EqMkmAe1gwY",
+      "channel": "Cherry Wallis",
+      "duration": 1244.0,
+      "title": "THE WORST ADVENT CALENDAR? 👎 Harry Potter Cinereplicas (Standard) Advent Calendar 2022"
+    }
+  ]
+}

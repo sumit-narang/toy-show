@@ -1,0 +1,54 @@
+{
+  "id": "2017-hurlog",
+  "year": 2017,
+  "name": "Hurlog",
+  "price_eur": 27.3,
+  "price_text": "€27.30",
+  "retailers": [
+    {
+      "name": "gaastore.com",
+      "url": "http://gaastore.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RDtNKPQuGfg",
+      "channel": "Little Dreamers",
+      "duration": 32.0,
+      "title": "Hurlog"
+    },
+    {
+      "id": "PsMmk6bh4uU",
+      "channel": "Nick Kelly",
+      "duration": 37.0,
+      "title": "\"Hurlog\""
+    },
+    {
+      "id": "w20nOro8FRE",
+      "channel": "Noreen Fitzgerald",
+      "duration": 42.0,
+      "title": "AIB Hurlog"
+    },
+    {
+      "id": "zoHUexVLvD0",
+      "channel": "Kite Sport Ltd",
+      "duration": 137.0,
+      "title": "Hurlog - shooting the advert"
+    },
+    {
+      "id": "2A_5K23g1rA",
+      "channel": "Bollywood lover 💝",
+      "duration": 205.0,
+      "title": "Awaaz de rahe hain use 10000 log"
+    }
+  ]
+}

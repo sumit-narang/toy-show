@@ -1,0 +1,57 @@
+{
+  "id": "2019-scrapbooking-and-cards-kit",
+  "year": 2019,
+  "name": "Scrapbooking and Cards Kit",
+  "price_eur": 9.0,
+  "price_text": "€9.00",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/arts/scrapbooking-and-cards-kit/p/106423"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/science-tech-art-engineering-math-steam/arts/scrapbooking-and-cards-kit/p/106423",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CEj68clTVsY",
+      "channel": "Jane Molloy",
+      "duration": 1437.0,
+      "title": "Creating Scrapbook Pages from a Sketch | Make a Memory Scrapbooking Kit PART 1"
+    },
+    {
+      "id": "vlq_W7zh8N8",
+      "channel": "Queen Pip - Card Making Know How",
+      "duration": 2703.0,
+      "title": "More ways to use your Christmas Scrapbook kit!"
+    },
+    {
+      "id": "jS-NfLaL9uY",
+      "channel": "Maremi SmallArt",
+      "duration": 534.0,
+      "title": "4 SIMPLE Cards 1 Scrapbooking Kit TUTORIAL ♡ Maremi's Small Art ♡"
+    },
+    {
+      "id": "XOfj4_5uLwA",
+      "channel": "Simon Hurley",
+      "duration": 4101.0,
+      "title": "I Designed the ULTIMATE Cardmaking Kit! (According to Me😉)"
+    },
+    {
+      "id": "N903jLnd4-s",
+      "channel": "Inkie Quill",
+      "duration": 1037.0,
+      "title": "How To ~ Make a DIY Scrapbooking Kit"
+    }
+  ]
+}

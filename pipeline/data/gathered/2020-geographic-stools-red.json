@@ -1,0 +1,54 @@
+{
+  "id": "2020-geographic-stools-red",
+  "year": 2020,
+  "name": "Geographic Stools (Red)",
+  "price_eur": 27.95,
+  "price_text": "€27.95",
+  "retailers": [
+    {
+      "name": "Basecamp",
+      "url": "https://basecamp.ie/5709388047878geographicstoolgrey.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://basecamp.ie/products/5709388047885geographicstoolred"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "su7fZtd_UwU",
+      "channel": "Wildly Off Course",
+      "duration": 331.0,
+      "title": "Robens Geographic stool vs Regatta Ternio | Which is best?"
+    },
+    {
+      "id": "Jq_VuCUYino",
+      "channel": "Swampy Hiker",
+      "duration": 918.0,
+      "title": "Big Agnes Skyline UL Stool vs. Helinox Speed Stool Vs. Robens Geographic Stool"
+    },
+    {
+      "id": "CkxQnjMxpUI",
+      "channel": "National Geographic",
+      "duration": 133.0,
+      "title": "TIL: Why Do These Monkeys Have Big, Colorful Butts? | Today I Learned"
+    },
+    {
+      "id": "JuGfWVBjOxU",
+      "channel": "Deep Look",
+      "duration": 317.0,
+      "title": "Meet the Bug You Didn't Know You Were Eating | Deep Look"
+    },
+    {
+      "id": "89JM6c9odb4",
+      "channel": "Bedtime Stories with Grandad Pat",
+      "duration": 505.0,
+      "title": "Gruffalo Granny | Bedtime Story Read Aloud By Grandad Pat"
+    }
+  ]
+}

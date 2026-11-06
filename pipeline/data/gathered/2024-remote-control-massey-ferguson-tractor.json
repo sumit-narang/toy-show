@@ -1,0 +1,54 @@
+{
+  "id": "2024-remote-control-massey-ferguson-tractor",
+  "year": 2024,
+  "name": "Remote Control Massey Ferguson Tractor",
+  "price_eur": 88.99,
+  "price_text": "€88.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Jamara-Massey-Ferguson-8s285---Scale-116/m-10073.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Jamara-Massey-Ferguson-8s285---Scale-116/m-10073.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kLgz7x7mH7I",
+      "channel": "Irish Farmers Journal",
+      "duration": 99.0,
+      "title": "Remote control Massey Ferguson"
+    },
+    {
+      "id": "hTev84viMng",
+      "channel": "Wurstkommission",
+      "duration": 92.0,
+      "title": "XMass is comming / Siku Cotrol 32 / Massey Ferguson 9S / tiny rc-tractor / brief indoor presentation"
+    },
+    {
+      "id": "knY-iJq9hT8",
+      "channel": "Maisto Toys",
+      "duration": 70.0,
+      "title": "Maisto Tech R/C  Massey Ferguson and New Holland Farm Tractors"
+    },
+    {
+      "id": "tUbZEA2-FzA",
+      "channel": "RC T4K",
+      "duration": 943.0,
+      "title": "RC TRACTORS Farming Village Massey Ferguson, New holland"
+    },
+    {
+      "id": "mki18auy_o8",
+      "channel": "RC Tractor Guy",
+      "duration": 708.0,
+      "title": "RC Massey 8680 (with Siku Control 32 Fendt 930 motor) pulling 1kg of gravel up an incline"
+    }
+  ]
+}

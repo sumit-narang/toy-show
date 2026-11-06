@@ -1,0 +1,60 @@
+{
+  "id": "2021-small-model-cattle-mart-set",
+  "year": 2021,
+  "name": "Small Model Cattle Mart Set",
+  "price_eur": null,
+  "price_text": "£145.00",
+  "retailers": [
+    {
+      "name": "Millwood Craft",
+      "url": "https://millwoodcrafts.co.uk/product/small-cattle-mart/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://millwoodcrafts.co.uk/product/small-cattle-mart/",
+      "title": "small model cattle mart| Wooden Handcrafted Farm Sets, Nortern Ireland",
+      "description": "small model cattle mart. 10 holding pens, steel gates, sales ring, auctioneers box, mart office, loading pen, numbering crush, bidding gallery.",
+      "image": "https://millwoodcrafts.co.uk/wp-content/uploads/2013/09/DSC_0355-1024x632.jpg",
+      "ld_description": "10 holding pens, steel gates, sales ring, auctioneers box, mart office, loading pen, numbering crush, bidding gallery\r\n\r\nScale: 1:32\r\n\r\nSize approx: Length 24\", Width 32\", Height 4\"\r\n\r\n*animals not included*",
+      "brand": null,
+      "ld_image": "https://millwoodcrafts.co.uk/wp-content/uploads/2013/09/DSC_0355.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mDSvWngv8Bs",
+      "channel": "Discover Agriculture",
+      "duration": 87.0,
+      "title": "Cow Shed Plans and Designs | Attingal Farm Tourism Dairy Farm"
+    },
+    {
+      "id": "gt4K8ZOLlLY",
+      "channel": "Tinka Videos",
+      "duration": 143.0,
+      "title": "Small cow mandi diorama and pickup loader unboxing"
+    },
+    {
+      "id": "-SByRCxbeKo",
+      "channel": "Tinka Videos",
+      "duration": 319.0,
+      "title": "How I Made Cattle Market 2026 Miniature Diorama"
+    },
+    {
+      "id": "UEzaQ-pPP8k",
+      "channel": "Tinka Videos",
+      "duration": 237.0,
+      "title": "How to Make Cow Cattle Market Miniature Diorama DIY | Cow Mandi Miniature Diorama"
+    },
+    {
+      "id": "JEMHrEyDoGI",
+      "channel": "Discover Agriculture",
+      "duration": 224.0,
+      "title": "Simple Modern Dairy Farm Shed Design For 10 Cows | Cow Farm Beginners Guide"
+    }
+  ]
+}

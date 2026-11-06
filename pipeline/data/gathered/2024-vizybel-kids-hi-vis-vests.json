@@ -1,0 +1,23 @@
+{
+  "id": "2024-vizybel-kids-hi-vis-vests",
+  "year": 2024,
+  "name": "Vizybel Kids Hi-vis Vests",
+  "price_eur": 49.0,
+  "price_text": "€49",
+  "retailers": [
+    {
+      "name": "Vizybel",
+      "url": "https://vizybel.com/products/vizybel-for-kids"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": []
+}

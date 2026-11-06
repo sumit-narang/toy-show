@@ -1,0 +1,54 @@
+{
+  "id": "2021-shark-attack-costume",
+  "year": 2021,
+  "name": "Shark Attack Costume",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "The Costume Shop.ie",
+      "url": "https://www.thecostumeshop.ie/fancydress-costumes/adult-shark-costume.html"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thecostumeshop.ie/fancydress-costumes/adult-shark-costume.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iNHeXAFsqB0",
+      "channel": "DeepSeaBeast",
+      "duration": 1189.0,
+      "title": "My King Shark Costume!!!!👑🦈🌊"
+    },
+    {
+      "id": "SYmuEuvZtMY",
+      "channel": "TinyTots Craft Hub",
+      "duration": 248.0,
+      "title": "DIY Shark Costume  | Halloween Costume idea. #costume #shark #diy"
+    },
+    {
+      "id": "dwXUCp9IJxU",
+      "channel": "Archie McPhee",
+      "duration": 67.0,
+      "title": "Shark Attack Mug - Archie McPhee"
+    },
+    {
+      "id": "GeIWgojZNFI",
+      "channel": "Product Finds",
+      "duration": 60.0,
+      "title": "Halloween Costume Reviews! Rasta Imposta Shark Attack Costume, Gray, One Size"
+    },
+    {
+      "id": "9jiq3Wv1aZ0",
+      "channel": "SmiffysFancyDress",
+      "duration": 15.0,
+      "title": "Shark Costume"
+    }
+  ]
+}

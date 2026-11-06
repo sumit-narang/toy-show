@@ -1,0 +1,57 @@
+{
+  "id": "2025-clutching-at-straws",
+  "year": 2025,
+  "name": "Clutching at Straws",
+  "price_eur": 19.57,
+  "price_text": "€19.57",
+  "retailers": [
+    {
+      "name": "Amazon.ie",
+      "url": "https://www.amazon.ie/Leftfield-Toys-Clutching-Fast-Paced-Reaction/dp/B0FCS8P65Y/ref=sr_1_2?crid=3MASXJXJ96375&dib=eyJ2IjoiMSJ9.YkOw0TpT_Cree4g_HfV4Tp-ba4XbZbcNpN-ipvbpPwBpBbygYv-qxq-RBM35tkn6D9TBbsNnzLGrCaTj36VTksdbZJdMa4sF-EHgxQbgOJY_Ayy433cKpOADJvQU0sp44uww_w0MuKw_rtkeEMT-q9jo57Ol_HelmNkffRpzwPGyKX47iWDiYUnKWqZyobkeaQS2n-dIrP02uXy83zDf-e0gZfVfEZDFhNF0FUjCuLwhxzzO8PE4Tg7G7Jxyvn2F7vd3Mn7xBapgLppTLcfKMmalTWfWoDoPRbGhkACF3ks.qdULwdwHdWH5KyxFJPsDuGcfgUVqZc9A5F0FF-yoXiE&dib_tag=se&keywords=clutching+at+straws+game&qid=1764069025&sprefix=clutching+at+%2Caps%2C37&sr=8-2"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.ie/Leftfield-Toys-Clutching-Fast-Paced-Reaction/dp/B0FCS8P65Y/ref=sr_1_2?crid=3MASXJXJ96375&dib=eyJ2IjoiMSJ9.YkOw0TpT_Cree4g_HfV4Tp-ba4XbZbcNpN-ipvbpPwBpBbygYv-qxq-RBM35tkn6D9TBbsNnzLGrCaTj36VTksdbZJdMa4sF-EHgxQbgOJY_Ayy433cKpOADJvQU0sp44uww_w0MuKw_rtkeEMT-q9jo57Ol_HelmNkffRpzwPGyKX47iWDiYUnKWqZyobkeaQS2n-dIrP02uXy83zDf-e0gZfVfEZDFhNF0FUjCuLwhxzzO8PE4Tg7G7Jxyvn2F7vd3Mn7xBapgLppTLcfKMmalTWfWoDoPRbGhkACF3ks.qdULwdwHdWH5KyxFJPsDuGcfgUVqZc9A5F0FF-yoXiE&dib_tag=se&keywords=clutching+at+straws+game&qid=1764069025&sprefix=clutching+at+%2Caps%2C37&sr=8-2",
+      "title": "Amazon.ie",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jzo7XGFOqbg",
+      "channel": "Curlessmania",
+      "duration": 3737.0,
+      "title": "Marillion: The End of an Era!  Clutching at Straws"
+    },
+    {
+      "id": "czljpO9ZUrg",
+      "channel": "Darren's Digital Detritus",
+      "duration": 1009.0,
+      "title": "Prog Review 38 - Clutching at Straws - Marillion"
+    },
+    {
+      "id": "l5ABJTAQhSo",
+      "channel": "Jan Hendrik Fennema",
+      "duration": 757.0,
+      "title": "Clutching at Straws  (the uncut version)"
+    },
+    {
+      "id": "UgX4x4SWSCc",
+      "channel": "Prog Sessions",
+      "duration": 1913.0,
+      "title": "Marillion - Clutching at Straws tour, Genova Nervi (Italy), July 6, 1987"
+    },
+    {
+      "id": "sf5OrthVRPA",
+      "channel": "London Mathematical Society",
+      "duration": 3787.0,
+      "title": "Clutching at Random Straws, Matt Parker | LMS Popular Lectures 2010"
+    }
+  ]
+}

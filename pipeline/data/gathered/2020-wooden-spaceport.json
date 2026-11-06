@@ -1,0 +1,54 @@
+{
+  "id": "2020-wooden-spaceport",
+  "year": 2020,
+  "name": "Wooden Spaceport",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Kaliedy",
+      "url": "https://www.kaliedy.com/en/toys-books/wooden-spaceport"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.kaliedy.com/en/toys-books/wooden-spaceport"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qJjxyGYA9Qg",
+      "channel": "Robotime",
+      "duration": 57.0,
+      "title": "ROKR Marble Spaceport Marble Run 3D Wooden Puzzle LGC01"
+    },
+    {
+      "id": "Aj19ihqbMgY",
+      "channel": "Yoshiny Yo",
+      "duration": 2303.0,
+      "title": "ROKR LGC01 Marble Run SPACEPORT, with motor drive. wooden 4d puzzle. (Build & Review)"
+    },
+    {
+      "id": "0G1B8LGvPZQ",
+      "channel": "Rokr Puzzles",
+      "duration": 28.0,
+      "title": "ROKR Marble Spaceport LGC01 - First ROKR motorized marble run"
+    },
+    {
+      "id": "ZNPXNiF5gzg",
+      "channel": "Martins Assembly Haven",
+      "duration": 11323.0,
+      "title": "ROKR Marble Spaceport Marble Run Step-by-Step Assembly Guide"
+    },
+    {
+      "id": "HMnzOvRL3BY",
+      "channel": "Incredible Gears",
+      "duration": 483.0,
+      "title": "Combination Set Marble Tracks: ROKR Marble Spaceport + Marble Night City | Link Pack Build & Review"
+    }
+  ]
+}

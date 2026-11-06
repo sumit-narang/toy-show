@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-dream-boat-playset",
+  "year": 2023,
+  "name": "Barbie Dream Boat Playset",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dream-boat-playset/p/217793"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dream-boat-playset/p/217793",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Xg9kZ3eVYZs",
+      "channel": "TTPM Toy Reviews",
+      "duration": 77.0,
+      "title": "Barbie Dream Boat"
+    },
+    {
+      "id": "j5RGsDy2hmk",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie® Dream Boat™ | AD"
+    },
+    {
+      "id": "TCcyHAqky8s",
+      "channel": "Mini fun toys",
+      "duration": 1347.0,
+      "title": "Barbie Dream Boat Toys Unboxing & Review"
+    },
+    {
+      "id": "qN2w-CaZccc",
+      "channel": "Analog Memories",
+      "duration": 31.0,
+      "title": "Barbie Dream Boat (1994) Television Commercial"
+    },
+    {
+      "id": "gvZ7NSxUoHc",
+      "channel": "The Entertainer",
+      "duration": 31.0,
+      "title": "Barbie Dream Boat Playset"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-the-ninjago-movie-garma-mecha-man",
+  "year": 2017,
+  "name": "LEGO The Ninjago Movie Garma Mecha Man",
+  "price_eur": 51.99,
+  "price_text": "€51.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2DtvuhlWurk",
+      "channel": "Brick Legends",
+      "duration": 586.0,
+      "title": "Biggest Garma Mecha Man MOC! -Lego Ninjago Movie"
+    },
+    {
+      "id": "fCqiEakbFHk",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 628.0,
+      "title": "🔄 LEGO Ninjago Movie 2017 Garma Mecha Man review! 70613 re upload"
+    },
+    {
+      "id": "MzIkpmz5sUU",
+      "channel": "AustrianBrickFan",
+      "duration": 573.0,
+      "title": "Lego Ninjago Movie 70613 Garma Mecha Man - Lego Speed Build Review"
+    },
+    {
+      "id": "2iYKBmn00RA",
+      "channel": "LEGO",
+      "duration": 42.0,
+      "title": "Garma Mecha Man - LEGO NINJAGO Movie - 70613 - Product Animation"
+    },
+    {
+      "id": "UK6LDihcu3Q",
+      "channel": "All New Bricks",
+      "duration": 339.0,
+      "title": "Lego Ninjago Movie 70613 Garma Mech Man Speed Build"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2020-kidkraft-farmhouse-play-kitchen",
+  "year": 2020,
+  "name": "Kidkraft Farmhouse Play Kitchen",
+  "price_eur": 219.0,
+  "price_text": "€219",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/kidkraft-farmhouse-play-kitchen-ez-kraft-assembly/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/product-category/wooden-toys/wooden-play-kitchens/",
+      "title": "Wooden Play Kitchens Archives",
+      "description": "Discover our beautiful collection of wooden play kitchens, designed to inspire imaginative role play and creative cooking adventures.",
+      "image": "https://littledreamers.ie/wp-content/uploads/Tenderleaf-Toys-La-Fiamma-Grand-Kitchen-03.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8v5jXvgYUwM",
+      "channel": "Coral Hoyt",
+      "duration": 641.0,
+      "title": "KidKraft Farm to Table Play Kitchen Review"
+    },
+    {
+      "id": "0oS-e0JPn_E",
+      "channel": "KidKraft",
+      "duration": 31.0,
+      "title": "Modern Farmhouse Play Kitchen & Accessories | KidKraft Wooden Play Kitchens"
+    },
+    {
+      "id": "Vfd3EZtBpHE",
+      "channel": "Moustakastoys",
+      "duration": 57.0,
+      "title": "Kidkraft Ξύλινη Κουζίνα Farm To Table (53411)"
+    },
+    {
+      "id": "tu03j1mcyvA",
+      "channel": "Jollyroom",
+      "duration": 57.0,
+      "title": "53411 - KidKraft Farm to Table Play Kitchen"
+    },
+    {
+      "id": "0cD95rA9Ujk",
+      "channel": "Natasha Smith",
+      "duration": 104.0,
+      "title": "Kidkraft Farm to Table Kitchen"
+    }
+  ]
+}

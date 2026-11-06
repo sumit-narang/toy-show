@@ -1,0 +1,44 @@
+{
+  "id": "2022-partners-in-crime-partners-in-crime-lucky-egg",
+  "year": 2022,
+  "name": "Partners in Crime Partners in Crime – Lucky Egg",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "u1X7OHUiV94",
+      "channel": "SET India",
+      "duration": 2708.0,
+      "title": "Crime Patrol Satark Season 2 - Ep 251 - Full Episode - 16th October, 2020"
+    },
+    {
+      "id": "QovQOwtMTJo",
+      "channel": "SweetPlot Studio",
+      "duration": 10288.0,
+      "title": "She Married a Billionaire CEO by Mistake, but Their Fake Love Turned Real!"
+    },
+    {
+      "id": "ifthWVf0WAw",
+      "channel": "SET India",
+      "duration": 2784.0,
+      "title": "Crime Patrol Dastak - Ep 912 - Full Episode - 21st November, 2018"
+    },
+    {
+      "id": "p7Dxxc8czfE",
+      "channel": "FX Networks",
+      "duration": 16.0,
+      "title": "Archer | Kriester Eggs | FX"
+    },
+    {
+      "id": "7QPGC2X8oUA",
+      "channel": "Sweet Theater",
+      "duration": 6365.0,
+      "title": "Plus-size catfishes a Mafia don, then discovers her online lover is her best friend’s brother."
+    }
+  ]
+}

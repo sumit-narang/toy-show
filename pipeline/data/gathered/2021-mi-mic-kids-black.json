@@ -1,0 +1,57 @@
+{
+  "id": "2021-mi-mic-kids-black",
+  "year": 2021,
+  "name": "Mi-Mic Kids Black",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://worldofwondertoys.ie/",
+      "title": "Kids Toys Online | New Arrivals 2023 | World of Wonder Ireland",
+      "description": "We are a 100% Irish owned toy & nursery retailer, a leading stockist of kids toys for all ages. Shop our range of boys & girls toys online with fast nationwide shipping.",
+      "image": "https://worldofwondertoys.ie/wp-content/uploads/2021/03/Schleich.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c_CC_vyCxSo",
+      "channel": "Vernel FPV",
+      "duration": 795.0,
+      "title": "Unboxing of the Xiaomi Mijia K Song Microphone"
+    },
+    {
+      "id": "JOmBYl442BU",
+      "channel": "Yuuki Yamamoto",
+      "duration": 151.0,
+      "title": "Mimic - The Creature attacks kids in the subway"
+    },
+    {
+      "id": "WouxD06xrT8",
+      "channel": "SuperTeki",
+      "duration": 486.0,
+      "title": "Wireless karaoke microphone and speaker for kids WS 858 unboxing and setup"
+    },
+    {
+      "id": "KPGP4ehwpZg",
+      "channel": "Reviewing Literally Everything",
+      "duration": 398.0,
+      "title": "Dual Mic Karaoke Machine PACKED with Features!"
+    },
+    {
+      "id": "mcSEFYx4jNY",
+      "channel": "Miramax",
+      "duration": 182.0,
+      "title": "Mimic | 'Funny, Funny Shoes' (HD) - Pak-Kwong Ho | MIRAMAX"
+    }
+  ]
+}

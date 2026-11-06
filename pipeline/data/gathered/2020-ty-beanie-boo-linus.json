@@ -1,0 +1,54 @@
+{
+  "id": "2020-ty-beanie-boo-linus",
+  "year": 2020,
+  "name": "Ty Beanie Boo Linus",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-beanie-boo-linus"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-beanie-boo-linus"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BKcBwRStQzE",
+      "channel": "BBToyStore",
+      "duration": 199.0,
+      "title": "TY BEANIE BOOS Set of 6 Spring 2020 Releases (Linus, Spirit, Lainey, Austin+) Review -BBToyStore.com"
+    },
+    {
+      "id": "n5Dr97CXtQw",
+      "channel": "Ty",
+      "duration": 31.0,
+      "title": "Meet HOPE the new Beanie Boo!"
+    },
+    {
+      "id": "gyUJgWhwhRw",
+      "channel": "Ha Sa",
+      "duration": 592.0,
+      "title": "MY 550+ BEANIE BOO COLLECTION (2023)"
+    },
+    {
+      "id": "jcSXYCrhcpg",
+      "channel": "@bixosekacarecosdalu",
+      "duration": 46.0,
+      "title": "Linus Guaxinim Beanie Boos Pelúcia Ty Beanie Boo's Collection 16 cm Cód 44098"
+    },
+    {
+      "id": "8egTaJA_POs",
+      "channel": "cin",
+      "duration": 735.0,
+      "title": "The History of Ty From Beanies Babies to Beanie Boos"
+    }
+  ]
+}

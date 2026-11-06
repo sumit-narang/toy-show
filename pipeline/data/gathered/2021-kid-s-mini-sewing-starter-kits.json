@@ -1,0 +1,54 @@
+{
+  "id": "2021-kid-s-mini-sewing-starter-kits",
+  "year": 2021,
+  "name": "Kid's Mini Sewing Starter Kits",
+  "price_eur": 4.5,
+  "price_text": "€4.50",
+  "retailers": [
+    {
+      "name": "The Sewing Shed.ie",
+      "url": "https://www.thesewingshed.ie/collections/kits/products/crayola-mini-sewing-kits"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thesewingshed.ie/collections/kits/products/crayola-mini-sewing-kits"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dVx1ZLVPtBw",
+      "channel": "HamblyfamilyDIY",
+      "duration": 492.0,
+      "title": "My Very Own Sewing Machine | Make a Pillow with me!"
+    },
+    {
+      "id": "97vTdCxBaQ0",
+      "channel": "Easy Sewing for Beginners",
+      "duration": 712.0,
+      "title": "How to Operate a Mini Sewing Machine  - Tutorial"
+    },
+    {
+      "id": "xaRPVjVOABc",
+      "channel": "Moriah Elizabeth",
+      "duration": 604.0,
+      "title": "Testing a CHEAP Sewing Kit For Beginners"
+    },
+    {
+      "id": "BAj50deiICw",
+      "channel": "Rooney Sewing Patterns",
+      "duration": 715.0,
+      "title": "10 DIY Baby Gift Ideas | Beginner Sewing Tutorial"
+    },
+    {
+      "id": "p7gQvU1hSyo",
+      "channel": "Easy Sewing for Beginners",
+      "duration": 900.0,
+      "title": "How to Operate a Portable Mini Sewing Machine FHSM 505 - NEX Sewing Machine"
+    }
+  ]
+}

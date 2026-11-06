@@ -1,0 +1,54 @@
+{
+  "id": "2019-sin-ad-doll",
+  "year": 2019,
+  "name": "Sinéad Doll",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "Lottie",
+      "url": "https://eu.lottie.com/products/sinead-doll"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8fbc9DV1Pws",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 357.0,
+      "title": "Sinead O'Connor Tribute - Jessie Buckley & the RTÉ Concert Orchestra | Troy Live - Culture Night"
+    },
+    {
+      "id": "0-EF60neguk",
+      "channel": "Sinéad O'Connor",
+      "duration": 309.0,
+      "title": "Sinéad O'Connor - Nothing Compares 2 U (Official Music Video) [HD]"
+    },
+    {
+      "id": "0c4v7fp5GC8",
+      "channel": "Sinéad O'Connor",
+      "duration": 375.0,
+      "title": "Sinead O'Connor - Troy (Official Music Video)"
+    },
+    {
+      "id": "k0bjykX3D30",
+      "channel": "Sinéad O'Connor",
+      "duration": 321.0,
+      "title": "Sinéad O'Connor - Drink Before the War (Official Lyric Video)"
+    },
+    {
+      "id": "LvdLovAaYzM",
+      "channel": "Martika Martika",
+      "duration": 294.0,
+      "title": "Martika - Toy Soldiers"
+    }
+  ]
+}

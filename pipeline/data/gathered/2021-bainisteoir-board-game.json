@@ -1,0 +1,54 @@
+{
+  "id": "2021-bainisteoir-board-game",
+  "year": 2021,
+  "name": "Bainisteoir Board Game",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Bainisteoir",
+      "url": "https://bainisteoirboardgame.ie/products/blue-board"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "23czv2VgoIY",
+      "channel": "Gaelic BoardGames",
+      "duration": 76.0,
+      "title": "BREAKING BALL GAA BOARD GAME - Whats in the Box!!"
+    },
+    {
+      "id": "xAb4JFFWnw0",
+      "channel": "Fagan Toys",
+      "duration": 30.0,
+      "title": "Bainisteoir Board Game"
+    },
+    {
+      "id": "JgeImnl_bgw",
+      "channel": "Mimitoys - Puppets, Games and Toys",
+      "duration": 30.0,
+      "title": "GAA bainisteoir board game"
+    },
+    {
+      "id": "zFBh8hkrff0",
+      "channel": "The Lucky Roll",
+      "duration": 546.0,
+      "title": "Breaking Ball - Gaelic Football Board Game - REVIEW"
+    },
+    {
+      "id": "R2GvvXQkWzY",
+      "channel": "IrishSportManager",
+      "duration": 46.0,
+      "title": "Gaelic Football and Hurling Management Sim | Irish Sport Manager Official Trailer"
+    }
+  ]
+}

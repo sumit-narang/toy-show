@@ -1,0 +1,57 @@
+{
+  "id": "2022-selection-of-wigs",
+  "year": 2022,
+  "name": "Selection of wigs",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Costume Shop",
+      "url": "https://www.thecostumeshop.ie/wigs"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thecostumeshop.ie/wigs/",
+      "title": "Wigs",
+      "description": "Ladies and Mens wigs. every wig style and colour of Wig that you can imagine. Experiment with new looks and Hair Styles.",
+      "image": "https://www.thecostumeshop.ie/design/themes/responsive/media/images/addons/my_changes/og-default.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HfXp0P0QPg4",
+      "channel": "Frannie's Hair",
+      "duration": 2477.0,
+      "title": "Everything You Need to Know to Choose a Wig"
+    },
+    {
+      "id": "c4Pge9Xflu0",
+      "channel": "Macmillan Cancer Support",
+      "duration": 351.0,
+      "title": "Tutorial: Choosing and Styling a Wig for Hair Loss"
+    },
+    {
+      "id": "YcshzJi_XHs",
+      "channel": "Berkowits Hair And Skin Clinic",
+      "duration": 556.0,
+      "title": "Hair Patches: Choosing the Right Type for You | Berkowits"
+    },
+    {
+      "id": "Pyc4SaNOOQM",
+      "channel": "DANIEL ALAIN ○ FOLLEA",
+      "duration": 304.0,
+      "title": "Which Wig is Right for You? (Learn Key Factors in Selecting a Wig)"
+    },
+    {
+      "id": "9xM4NAP3R8s",
+      "channel": "Wigs.com",
+      "duration": 120.0,
+      "title": "How to Select a Style | Wig Buyer's Guide"
+    }
+  ]
+}

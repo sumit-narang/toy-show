@@ -1,0 +1,60 @@
+{
+  "id": "2021-tree-dogs-and-banshee-fingers-and-other-irish-words-for-nature-by-manch-n-magan",
+  "year": 2021,
+  "name": "Tree Dogs and Banshee Fingers and Other Irish Words for Nature by Manchán Magan",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Easons/Shops Nationwide",
+      "url": "https://www.easons.com/tree-dogs-banshee-fingers-and-other-irish-words-for-nature-manchan-magan-9780717192557"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/tree-dogs-banshee-fingers-and-other-irish-words-for-nature-manchan-magan-9780717192557",
+      "title": "Tree Dogs, Banshee Fingers And Other Irish Words For Nature - Manchán Magan | Irish Nature Writing",
+      "description": "Shop Tree Dogs, Banshee Fingers and Other Irish Words for Nature by Manchán Magan, an Irish nature writing book rich in language and landscape.",
+      "image": null,
+      "ld_description": "'In Irish there are so many great rain words and magic words and highly specific natural words (such as the material put on the hooves of donkeys to stop them slipping in ice), or words to communicate with animals, or evocative plant words, or the gorgeous words for different amounts of light in the sky, or words that hint at different ways of seeing colour, or twilight words … '\nManchán Magan is fascinated by words, particularly Irish words, with all of their complex meanings and associations and their connections to the natural world. Having enjoyed huge success with his bestselling book Thirty-Two Words for Field, Manchán now brings his infectious wonder and enthusiasm for the Irish language to a younger audience, offering delightful translations and explanations of animal, bird, fish, insect and nature words.\nWhen you see the world through Irish, you see the world differently. Get ready to share the magic with this delightful book for readers of all ages.",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/69e995e3-3956-48f1-8ff1-0a4210fa7d1e/9780717192557_5643479793.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KtAkwYBQsh0",
+      "channel": "Donegal County Council",
+      "duration": 740.0,
+      "title": "Seachtain na Gaeilge 2022: Manchan Magan ag caint faoi a leabhar' Tree Dogs'"
+    },
+    {
+      "id": "J1bRzrZyyw0",
+      "channel": "To Be Irish",
+      "duration": 1761.0,
+      "title": "Fireside Tales: Tree Dogs Banshee Fingers with Manchan Magan & Steve Doogan"
+    },
+    {
+      "id": "7IGH-iHOc5k",
+      "channel": "Age&Opportunity",
+      "duration": 3908.0,
+      "title": "Thirty-Two Words for Field: Lost Words of the Irish Landscape Manchán Magan"
+    },
+    {
+      "id": "6hCdGc0tiWw",
+      "channel": "MacGillivray Freeman",
+      "duration": 112.0,
+      "title": "Ireland - Meet Manchán Magan"
+    },
+    {
+      "id": "L0TAy27Ve_U",
+      "channel": "Write By The Sea Kilmore Quay",
+      "duration": 4306.0,
+      "title": "WBTS 2022: Manchán Magan in conversation with Carmel Winters"
+    }
+  ]
+}

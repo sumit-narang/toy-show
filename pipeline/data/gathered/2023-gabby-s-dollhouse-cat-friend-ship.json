@@ -1,0 +1,57 @@
+{
+  "id": "2023-gabby-s-dollhouse-cat-friend-ship",
+  "year": 2023,
+  "name": "Gabby's Dollhouse Cat Friend Ship",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/gabbys-dollhouse/gabbys-dollhouse-cat-friend-ship/p/224182"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/gabbys-dollhouse/gabbys-dollhouse-cat-friend-ship/p/224182",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8uQFqhKvTvM",
+      "channel": "Fun Caboodle",
+      "duration": 400.0,
+      "title": "Gabby's Dollhouse Cat Friend Ship Build and Decorate with Carnival and Spa Rooms"
+    },
+    {
+      "id": "xaLHAEcwGSQ",
+      "channel": "Spin Master",
+      "duration": 181.0,
+      "title": "How to Use the Gabby Cat Friend Ship | Gabby’s Dollhouse | Toys for Kids"
+    },
+    {
+      "id": "uFXe3WXjJdc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 96.0,
+      "title": "Gabby's Dollhouse Gabby Cat Friend Ship"
+    },
+    {
+      "id": "sGX0ugJAV9Y",
+      "channel": "Gabby's Dollhouse",
+      "duration": 243.0,
+      "title": "New MERMAID SONG 🌈🧜‍♀️ \"Kaleidoscope\" Official Scene from GABBY'S DOLLHOUSE THE MOVIE"
+    },
+    {
+      "id": "5fKwObBk3cM",
+      "channel": "Planet Fun",
+      "duration": 31.0,
+      "title": "Set sail in Gabby's Cat Friendship 🚢🌊 🐱| Gabby's Dollhouse"
+    }
+  ]
+}

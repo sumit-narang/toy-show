@@ -1,0 +1,26 @@
+{
+  "id": "2019-barbie-wheelchair-with-izzy-wheels-design-and-doll-brunette",
+  "year": 2019,
+  "name": "Barbie Wheelchair with Izzy Wheels Design and Doll Brunette",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dolls-range/barbie-wheelchair-and-doll-brunette/p/176988"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-dolls-range/barbie-wheelchair-and-doll-brunette/p/176988",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

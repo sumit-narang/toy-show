@@ -1,0 +1,54 @@
+{
+  "id": "2021-lottie-dolls-rosie-boo",
+  "year": 2021,
+  "name": "Lottie Dolls Rosie Boo",
+  "price_eur": 27.99,
+  "price_text": "€27.99",
+  "retailers": [
+    {
+      "name": "Lottie Dolls",
+      "url": "https://eu.lottie.com/collections/dolls/products/rosie-boo"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_AywNw_6NRc",
+      "channel": "5 News",
+      "duration": 192.0,
+      "title": "British girl with Down's syndrome inspires new Lottie Doll which will help educate others | 5 News"
+    },
+    {
+      "id": "_Y9aOaWkJ_E",
+      "channel": "4EVER DOLLS",
+      "duration": 398.0,
+      "title": "Kurhn doll collection 💕 part 2 ( and some lottie dolls)"
+    },
+    {
+      "id": "-6Y9-7yeB4M",
+      "channel": "TINH HOA AUDIO 2022",
+      "duration": 103.0,
+      "title": "Six-year-old girl with Down’s syndrome made into a doll"
+    },
+    {
+      "id": "qDjjxyV7v44",
+      "channel": "Ev & Maddie Plus Daddy",
+      "duration": 61.0,
+      "title": "Should I Get My Daughter A Lottie Doll For Her Birthday?? #shorts"
+    },
+    {
+      "id": "uaMpW6jjj_c",
+      "channel": "Cassini McAlister",
+      "duration": 2118.0,
+      "title": "Do Body Positive Dolls Work | A Dive into Lammily and Lottie"
+    }
+  ]
+}

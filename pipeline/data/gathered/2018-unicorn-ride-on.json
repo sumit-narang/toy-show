@@ -1,0 +1,54 @@
+{
+  "id": "2018-unicorn-ride-on",
+  "year": 2018,
+  "name": "Unicorn Ride On",
+  "price_eur": 239.99,
+  "price_text": "€239.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "http://LittlewoodsIreland.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qILmr6nhowQ",
+      "channel": "Unicorn Academy - Official Channel",
+      "duration": 2405.0,
+      "title": "Magic Changes the Unicorns and Riders 😯 | Unicorn Academy: Secrets Revealed | Magical Kids Cartoons"
+    },
+    {
+      "id": "K52mrHptn08",
+      "channel": "Unicorn Academy - Official Channel",
+      "duration": 2598.0,
+      "title": "Unicorn Academy Under The Fairy Moon FULL EPISODE! | Cartoons for Kids"
+    },
+    {
+      "id": "VENvSxefvy0",
+      "channel": "Shonduras",
+      "duration": 1122.0,
+      "title": "UNICORN in our BACKYARD?! Surprising Adley with her Favorite Dream in Real Life! (pet horse routine)"
+    },
+    {
+      "id": "hDQkaas9wV8",
+      "channel": "Unicorn Academy - Official Channel",
+      "duration": 2406.0,
+      "title": "Unicorn Academy FULL SEASON 1! 🌈 (in 40 minutes) | Cartoons for Kids"
+    },
+    {
+      "id": "xGrY1ZiiF3g",
+      "channel": "WHAT'S INSIDE? FAMILY",
+      "duration": 447.0,
+      "title": "We Bought a Unicorn for the Kids!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-lego-friends-andrea-s-theatre-school",
+  "year": 2022,
+  "name": "Lego Friends Andrea's Theatre School",
+  "price_eur": 100.0,
+  "price_text": "€100",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/andrea-s-theatre-school-41714"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/andrea-s-theatre-school-41714"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J5OFNFIoCYc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 95.0,
+      "title": "LEGO Friends Andrea's Theater School Review!"
+    },
+    {
+      "id": "IUyYRqTmPtI",
+      "channel": "ellieV ",
+      "duration": 1149.0,
+      "title": "A full-blown Lego theatre? This is perfection 🎭 Lego Friends Theater School build & review"
+    },
+    {
+      "id": "KIz1kRwRwbI",
+      "channel": "ellieV ",
+      "duration": 935.0,
+      "title": "Building the balcony boxes and street front 🎭 Friends Theatre School build & review part 2"
+    },
+    {
+      "id": "ZNVDNEZROG4",
+      "channel": "L of Elle",
+      "duration": 1145.0,
+      "title": "LEGO FRIENDS 2022 SET REVIEW! Andrea's Theatre School! Lego set #41714"
+    },
+    {
+      "id": "47kxtV7bsiQ",
+      "channel": "AustrianBrickFan",
+      "duration": 1278.0,
+      "title": "LEGO Friends 41714 Andrea's Theater School Speed Build"
+    }
+  ]
+}

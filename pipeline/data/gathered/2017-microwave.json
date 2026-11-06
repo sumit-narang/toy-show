@@ -1,0 +1,54 @@
+{
+  "id": "2017-microwave",
+  "year": 2017,
+  "name": "Microwave",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts.ie",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://www.arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "16QdkFThaIQ",
+      "channel": "Busy Daddy Cooks",
+      "duration": 306.0,
+      "title": "We Tried the Rice Cooker That Goes in Your Microwave"
+    },
+    {
+      "id": "eCg-dF7BWX8",
+      "channel": "Freakin' Reviews",
+      "duration": 1046.0,
+      "title": "I Tested 3 Weird Microwave Gadgets"
+    },
+    {
+      "id": "Ri_9JpORofk",
+      "channel": "Vineet Malhotra",
+      "duration": 1580.0,
+      "title": "Best Microwave Oven 2026 | Best Microwave under 10000 | Best Convection Microwave Oven"
+    },
+    {
+      "id": "ZExGV6jSuBw",
+      "channel": "TED-Ed",
+      "duration": 349.0,
+      "title": "Why can't you put metal in a microwave? - Aaron Slepkov"
+    },
+    {
+      "id": "fy9jO8JHaPo",
+      "channel": "Evan and Katelyn",
+      "duration": 1400.0,
+      "title": "This $24 tool melts glass in your microwave!"
+    }
+  ]
+}

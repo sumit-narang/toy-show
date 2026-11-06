@@ -1,0 +1,54 @@
+{
+  "id": "2025-madballs-hair-balls-6-pack",
+  "year": 2025,
+  "name": "Madballs Hair Balls 6 pack",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/mad-balls-mad-balls-hairballs/1601197860.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/mad-balls-mad-balls-hairballs/1601197860.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NrgD8U7s6zc",
+      "channel": "Secret Galaxy",
+      "duration": 372.0,
+      "title": "The History of Madballs: The Balls That Wouldn't Die"
+    },
+    {
+      "id": "lhIq332-BpQ",
+      "channel": "pstoyreviews",
+      "duration": 823.0,
+      "title": "Madballs Vinyl Figure Collection Full Case Unboxing Review Rare Chase Figure | PSToyReviews"
+    },
+    {
+      "id": "9U27QaSr6_Q",
+      "channel": "IRATE Gamer",
+      "duration": 349.0,
+      "title": "Irate the 80's - MADBALLS -  (Ep 7 History & Review)"
+    },
+    {
+      "id": "TeZiCOos80I",
+      "channel": "SquirrelStampede",
+      "duration": 1564.0,
+      "title": "Treasure X Lost Lands Skull Temple Mega Playset Review! Finding Real Gold Inside?"
+    },
+    {
+      "id": "29kMpXrFQek",
+      "channel": "JustUsGirls",
+      "duration": 752.0,
+      "title": "Num Noms Series 3 And Nickelodeon Blind Bags"
+    }
+  ]
+}

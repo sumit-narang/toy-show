@@ -1,0 +1,48 @@
+{
+  "id": "2021-the-little-bee-charmer-of-henrietta-street-by-sarah-webb",
+  "year": 2021,
+  "name": "The Little Bee Charmer of Henrietta Street by Sarah Webb",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons/Shops Nationwide",
+      "url": "https://www.easons.com/the-little-bee-charmer-of-henrietta-street-sarah-webb-9781788492478"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-little-bee-charmer-of-henrietta-street-sarah-webb-9781788492478",
+      "title": "Buy The Little Bee Charmer Of Henrietta Street Book at Easons",
+      "description": "Dublin 1911\n\nWhen Eliza Kane and her brother Jonty move from the leafy suburbs of Rathmines to a tenement flat on Henrietta Street they are in for a shock. Pigs and ponies in the yard, rats in the hallways and cockroaches or 'clocks' underfoot!\n\nWhen they",
+      "image": null,
+      "ld_description": "Dublin 1911\n\nWhen Eliza Kane and her brother Jonty move from the leafy suburbs of Rathmines to a tenement flat on Henrietta Street they are in for a shock. Pigs and ponies in the yard, rats in the hallways and cockroaches or 'clocks' underfoot!\n\nWhen they meet their new neighbour, Annie, a kind and practical teenager and her brothers, and a travelling circus comes to town, offering them both jobs, helping Madam Ada, the bee charmer, and Albert the dog trainer, things start to look up.\n\nWhen a tragedy happens in the tenements, Eliza, Jonty and their new friends spring into action.\n\nA tale of family, friendship and finding a new home, with touch of magical bees!",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/bd36184f-8f83-41c4-9681-45d239945531/9781788492478_5642690723.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eStZ72FT9kI",
+      "channel": "Dublin City Libraries",
+      "duration": 38.0,
+      "title": "Ireland Reads: Lord Mayor Alison Gilliland Recommends 'The Little Bee Charmer of Henrietta Street'"
+    },
+    {
+      "id": "MGwHyl2WZ5E",
+      "channel": "Charlie Byrne's Bookshop",
+      "duration": 2235.0,
+      "title": "Sarah Webb in Conversation with Charlie Byrne's Bookshop"
+    },
+    {
+      "id": "-9l74sKNXJQ",
+      "channel": "Teresa Bee_Book_a_Lula",
+      "duration": 784.0,
+      "title": "🎄 Merry LulaMas! #9 🎄 What's on my Kindle? - 10 Ebook acquistati in autunno"
+    }
+  ]
+}

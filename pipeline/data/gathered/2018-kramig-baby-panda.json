@@ -1,0 +1,57 @@
+{
+  "id": "2018-kramig-baby-panda",
+  "year": 2018,
+  "name": "Kramig Baby Panda",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dnW-sZtUw1A",
+      "channel": "Super Shock",
+      "duration": 39.0,
+      "title": "(Facebook) Senduh - Toddler and Baby Panda Becoming Best Friends + Ikea Kramig Panda (My May 25)"
+    },
+    {
+      "id": "QIszQTVHOV0",
+      "channel": "Haroon-Gavin",
+      "duration": 26.0,
+      "title": "IKEA Panda Film"
+    },
+    {
+      "id": "-lptCuyRhfU",
+      "channel": "Kiki`s Gute-Nacht-Geschichten",
+      "duration": 41.0,
+      "title": "IKEA Panda plays ELECTRIC music"
+    },
+    {
+      "id": "RiydWH1JeiE",
+      "channel": "aaplushy",
+      "duration": 95.0,
+      "title": "Kramig the panda do makeup"
+    },
+    {
+      "id": "TfbKNAe3Wlo",
+      "channel": "Tutorials & Reviews",
+      "duration": 22.0,
+      "title": "IKEA Soft toy KRAMIG White black"
+    }
+  ]
+}

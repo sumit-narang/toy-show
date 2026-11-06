@@ -1,0 +1,57 @@
+{
+  "id": "2023-we-make-good-organic-cotton-christmas-stocking",
+  "year": 2023,
+  "name": "We Make Good Organic Cotton Christmas Stocking",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Jiminy",
+      "url": "https://jiminy.ie/products/paint-your-own-stocking-festive-party"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xwnSDGamOx8",
+      "channel": "Erica Arndt",
+      "duration": 1276.0,
+      "title": "Easy Christmas Stocking Tutorial"
+    },
+    {
+      "id": "OjOgSfTy7oo",
+      "channel": "Homemade on our Homestead",
+      "duration": 797.0,
+      "title": "EASY CHRISTMAS STOCKING SEWING PATTERN | SEW WITH ME CHRISTMAS TUTORIAL | DIY STOCKING FOR CHRISTMAS"
+    },
+    {
+      "id": "fOYk5iYFEIY",
+      "channel": "Christina Mychas",
+      "duration": 148.0,
+      "title": "HOLIDAY GIFT IDEAS ON A BUDGET 🎁 gift guide to stay generous on a budget or low buy 💸"
+    },
+    {
+      "id": "V9tHymK2ZnM",
+      "channel": "kimcraft",
+      "duration": 2364.0,
+      "title": "Super Easy and Fast Crochet Christmas Stocking for beginners"
+    },
+    {
+      "id": "B3yy9Ntrx1c",
+      "channel": "SewChristmas",
+      "duration": 778.0,
+      "title": "How to Sew a Simple Christmas Stocking | Simple DIY Tutorial | Stocking Pattern | Beginner Friendly"
+    }
+  ]
+}

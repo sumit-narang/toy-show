@@ -1,0 +1,57 @@
+{
+  "id": "2018-i-say-ooh-you-say-aah-by-john-kane",
+  "year": 2018,
+  "name": "I Say Ooh You Say Aah by John Kane",
+  "price_eur": 9.8,
+  "price_text": "€9.80",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PQeRZ4czEyY",
+      "channel": "Odd Socks Nannies",
+      "duration": 238.0,
+      "title": "I say OOH you say AAH! (Kids books read aloud by the Odd Socks Nanny family)"
+    },
+    {
+      "id": "qMgf17q4_4c",
+      "channel": "Read Aloud Edu",
+      "duration": 387.0,
+      "title": "I SAY OOH YOU SAY AHH | PROMOTES LISTENING SKILLS! | KID FAVORITE! | FUN & INTERACTIVE | #readaloud"
+    },
+    {
+      "id": "qrGWfwS8Mn4",
+      "channel": "Burlington County Library System",
+      "duration": 297.0,
+      "title": "Virtual Storytime: I Say Ooh, You Say Aah"
+    },
+    {
+      "id": "_7r9rnTH3HY",
+      "channel": "Beechwood Performing Arts",
+      "duration": 354.0,
+      "title": "I say Ooh you say Aah (Kp-3 Remote Learning Music)"
+    },
+    {
+      "id": "IlY4ms7FbjM",
+      "channel": "The Cosy Bookworm - Kids Books Brought To Life",
+      "duration": 378.0,
+      "title": "I say Oh, You Say No: A funny & interactive story, read-aloud! By John Kane"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-my-first-steiff-hoppie-rabbit",
+  "year": 2022,
+  "name": "My First Steiff Hoppie Rabbit",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_TmYrKFzoKw",
+      "channel": "Nicola Fordwood",
+      "duration": 13.0,
+      "title": "Hoppie Rabbit – Tonies® x Steiff"
+    },
+    {
+      "id": "zIoI82CucPQ",
+      "channel": "Mary Shortle",
+      "duration": 1753.0,
+      "title": "What’s New Steiff 2024 Collection"
+    },
+    {
+      "id": "ORC4VMlLRcY",
+      "channel": "Teddybearlanduk",
+      "duration": 9.0,
+      "title": "Steiff Soft Cuddly Friends Light At Night Hoppie Rabbit 28 cm | Teddybearland"
+    },
+    {
+      "id": "Cvw5wjoHKsc",
+      "channel": "ToniesWorld",
+      "duration": 511.0,
+      "title": "Steiff Jimmy Bear Tonie - Audio Preview"
+    },
+    {
+      "id": "6dX9EZ6i8z0",
+      "channel": "Steiff USA",
+      "duration": 35.0,
+      "title": "Steiff   Rabbit 1931 Replica"
+    }
+  ]
+}

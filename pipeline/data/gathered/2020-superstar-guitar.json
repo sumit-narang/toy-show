@@ -1,0 +1,54 @@
+{
+  "id": "2020-superstar-guitar",
+  "year": 2020,
+  "name": "Superstar Guitar",
+  "price_eur": 27.99,
+  "price_text": "€27.99",
+  "retailers": [
+    {
+      "name": "Kaliedy",
+      "url": "https://www.kaliedy.com/en/toys-books/musical-toys/superstar-guitar"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.kaliedy.com/en/toys-books/musical-toys/superstar-guitar"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_9Z7AviTcGY",
+      "channel": "Jonah Barnett",
+      "duration": 1291.0,
+      "title": "Jesus Christ Superstar | Act 1 Guitar Highlights"
+    },
+    {
+      "id": "VSv5oWe5UDY",
+      "channel": "SupaRONAMIRA",
+      "duration": 155.0,
+      "title": "SUPERSTAR (The Carpenters) Acoustic Cover, Easy Chords, Guitar Version, Lyrics and Chords on screen"
+    },
+    {
+      "id": "hC2-aRSUeVo",
+      "channel": "CWZ Guitar",
+      "duration": 547.0,
+      "title": "The Carpenters Superstar Guitar Chords Lesson & Tab Tutorial also covered by Sonic Youth"
+    },
+    {
+      "id": "ndNI85kwp88",
+      "channel": "Jake Reichbart",
+      "duration": 210.0,
+      "title": "Superstar | Carpenters | Fingerstyle Guitar | lesson available!"
+    },
+    {
+      "id": "CHQM0b8Xiws",
+      "channel": "Jamie Anderson",
+      "duration": 525.0,
+      "title": "How to fingerpick Superstar"
+    }
+  ]
+}

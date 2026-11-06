@@ -1,0 +1,54 @@
+{
+  "id": "2025-jenga-classic-strategy-stacking-game",
+  "year": 2025,
+  "name": "Jenga Classic Strategy Stacking Game",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/hasbro-jenga-classic-strategy-stacking-game/1600321603.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-Toys-Standard-Shopping-Low-Margin&gclid=7917a3f981211c7df5edcadc098fa818&gclsrc=3p.ds&msclkid=7917a3f981211c7df5edcadc098fa818#sku=sku21197096"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/hasbro-jenga-classic-strategy-stacking-game/1600321603.prd?utm_source=bing&utm_medium=cpc&utm_campaign=Bing-Core-Toys-Standard-Shopping-Low-Margin&gclid=7917a3f981211c7df5edcadc098fa818&gclsrc=3p.ds&msclkid=7917a3f981211c7df5edcadc098fa818#sku=sku21197096"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hKm0cEN0e4I",
+      "channel": "Perfect Tips CNC",
+      "duration": 38.0,
+      "title": "Jenga Classic Game by Hasbro (Stacking Games) Review"
+    },
+    {
+      "id": "PHnNLeFSEfo",
+      "channel": "Dazzly Toys",
+      "duration": 264.0,
+      "title": "4:24 Minutes Satisfaction with Jenga Classic Hasbro Gaming Unboxing How to Play Jenga - ASMR"
+    },
+    {
+      "id": "wxKnmUVjQzw",
+      "channel": "Purab Enterprises",
+      "duration": 50.0,
+      "title": "CLASSIC JENGA"
+    },
+    {
+      "id": "9XNJ5RqKcCw",
+      "channel": "CHAMELI ONLINE EXPRESS",
+      "duration": 41.0,
+      "title": "Hasbro Gaming: Jenga Classic Game.#chamelionlineexpress."
+    },
+    {
+      "id": "ns6jCOLGRcA",
+      "channel": "Amazon Gaming Review ",
+      "duration": 40.0,
+      "title": "22% save Hasbro Gaming: Jenga Classic Game@ Amazon Gaming Review"
+    }
+  ]
+}

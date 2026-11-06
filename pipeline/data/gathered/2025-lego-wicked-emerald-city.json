@@ -1,0 +1,60 @@
+{
+  "id": "2025-lego-wicked-emerald-city",
+  "year": 2025,
+  "name": "LEGO Wicked Emerald City",
+  "price_eur": 89.09,
+  "price_text": "€89.09",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-wicked-tbd-75684-7302205"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/lego-wicked-tbd-75684-7302205",
+      "title": "LEGO Emerald City 75684",
+      "description": "Take kids on a magical LEGO adventure to the land of Oz with the Welcome to Emerald City (75684) building toy for 9-plus-year-old girls and boys. FREE delivery over €10 on Easons.com",
+      "image": null,
+      "ld_description": "Take kids on a magical LEGO adventure to the land of Oz with the Welcome to Emerald City (75684) building toy for 9-plus-year-old girls and boys. Young builders recreate scenes from the Wicked film as they build this detailed 3-storey tower toy and explore the model’s many features. With 5 mini-dolls included, this fantasy toy is great for creative play. It lets kids play out Wicked friendship moments between the Fiyero, Glinda and Elphaba mini-doll figures as they browse the cosmetics shop toy, buy cakes or grab a drink from the bicycle coffee vendor. For more play inspiration, kids can scan the set’s hidden QR code to access unique online LEGO Wicked content. This enchanting LEGO set makes a special gift for 9-plus-year-old girls, boys and any fan of the Wicked movie. The model-making is even more magical with the LEGO Builder app, which lets kids zoom in and rotate their set in 3D as they build this spellbinding Emerald City display piece.",
+      "brand": "Lego",
+      "ld_image": "https://www.easons.com/images/m/6b0f114453e075f8/original/7302205_5638269926.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VPeNY9mMk10",
+      "channel": "MiniSuperHeroesToday",
+      "duration": 520.0,
+      "title": "EARLY REVIEW: $160 LEGO Wicked \"Emerald City Wall Art\" Set 75685"
+    },
+    {
+      "id": "rbf1mpCbXCg",
+      "channel": "AustrianBrickFan",
+      "duration": 828.0,
+      "title": "LEGO Wicked 75684 Welcome to Emerald City - LEGO Speed Build Review"
+    },
+    {
+      "id": "zIjpye9kDuE",
+      "channel": "BRICKFLIX",
+      "duration": 483.0,
+      "title": "I Built a LEGO Emerald City..."
+    },
+    {
+      "id": "RQR0Mcl_nyU",
+      "channel": "LittleBuildPlanet",
+      "duration": 1396.0,
+      "title": "I built THE WORLD OF WICKED with LEGO BRICKS"
+    },
+    {
+      "id": "ZZyOtmUTcxc",
+      "channel": "ellieV ",
+      "duration": 1259.0,
+      "title": "Welcome to Emerald City 💚🩷 Wicked LEGO build & review"
+    }
+  ]
+}

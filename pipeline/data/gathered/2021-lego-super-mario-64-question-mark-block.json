@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-super-mario-64-question-mark-block",
+  "year": 2021,
+  "name": "LEGO Super Mario 64 Question Mark Block",
+  "price_eur": 169.99,
+  "price_text": "€169.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/super-mario-64-question-mark-block-71395"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/super-mario-64-question-mark-block-71395"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LbM7xHboRNI",
+      "channel": "Tiago Catarino",
+      "duration": 486.0,
+      "title": "LEGO Question Mark Block Review"
+    },
+    {
+      "id": "ns8omlp_hPQ",
+      "channel": "Nintendo of America",
+      "duration": 71.0,
+      "title": "LEGO Super Mario 64 Question Block - Launch Trailer"
+    },
+    {
+      "id": "mwbboDpJ4Qw",
+      "channel": "EpikBricks",
+      "duration": 467.0,
+      "title": "LEGO Super Mario 64 ? Block - How To Find ALL 10 Stars"
+    },
+    {
+      "id": "nZq0UOrrQlo",
+      "channel": "Ashnflash",
+      "duration": 728.0,
+      "title": "LEGO Super Mario 64 ? Block - All 10 Stars"
+    },
+    {
+      "id": "CqRKrmOyS4Q",
+      "channel": "Tiago Catarino",
+      "duration": 121.0,
+      "title": "Mini LEGO Question Mark Block Tutorial"
+    }
+  ]
+}

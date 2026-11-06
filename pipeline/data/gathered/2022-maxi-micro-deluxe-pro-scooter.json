@@ -1,0 +1,54 @@
+{
+  "id": "2022-maxi-micro-deluxe-pro-scooter",
+  "year": 2022,
+  "name": "Maxi Micro Deluxe Pro Scooter",
+  "price_eur": 139.95,
+  "price_text": "€139.95",
+  "retailers": [
+    {
+      "name": "Micro-Scooters",
+      "url": "https://www.micro-scooters.ie/maxi-micro-deluxe-pro-scooter-rose-6942#selection.color=5744&selection.size=5454"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.micro-scooters.ie/collections/pro-level-scooters#selection.color=5744&selection.size=5454"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "03we3-fkeio",
+      "channel": "Micro Mobility Official",
+      "duration": 74.0,
+      "title": "Maxi Micro Deluxe Pro - Combines quality, function & design"
+    },
+    {
+      "id": "VsXZqv6cFko",
+      "channel": "Micro Koloběžky CZ",
+      "duration": 193.0,
+      "title": "Unboxing - Maxi Micro Deluxe Pro grey-aqua"
+    },
+    {
+      "id": "SwsX6_INH8Q",
+      "channel": "Micro Mobility NL BE distributeur",
+      "duration": 52.0,
+      "title": "Maxi Micro Deluxe Pro LED - suitable for rougher terrain"
+    },
+    {
+      "id": "Yy_9liUYcEo",
+      "channel": "Micro Scooters Ltd",
+      "duration": 387.0,
+      "title": "Micro Maxi Pro"
+    },
+    {
+      "id": "KLXYFyarA0A",
+      "channel": "PureReviews",
+      "duration": 224.0,
+      "title": "NO ASSEMBLY NEEDED - Micro Kickboard Maxi Deluxe Foldable Scooter Review"
+    }
+  ]
+}

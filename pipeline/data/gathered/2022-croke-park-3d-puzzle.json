@@ -1,0 +1,54 @@
+{
+  "id": "2022-croke-park-3d-puzzle",
+  "year": 2022,
+  "name": "Croke Park 3D Puzzle",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0q7P5jaBoWM",
+      "channel": "Cine Travel",
+      "duration": 191.0,
+      "title": "Croke Park."
+    },
+    {
+      "id": "4RJtNFJhfc0",
+      "channel": "Paul Duggan",
+      "duration": 298.0,
+      "title": "Croke Park Model 3D"
+    },
+    {
+      "id": "PXPNtIGQ24M",
+      "channel": "Croke Park",
+      "duration": 39.0,
+      "title": "Timelapse build of our new virtual events studio @ Croke Park"
+    },
+    {
+      "id": "KtvfKvOBHr8",
+      "channel": "University Games UK",
+      "duration": 441.0,
+      "title": "Manchester City Eithad 3D Stadium Puzzle"
+    },
+    {
+      "id": "yag2AXcDAvc",
+      "channel": "Leo Green",
+      "duration": 153.0,
+      "title": "Croke Park replica stadium"
+    }
+  ]
+}

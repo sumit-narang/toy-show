@@ -1,0 +1,57 @@
+{
+  "id": "2023-classic-world-pizza-oven",
+  "year": 2023,
+  "name": "Classic World Pizza Oven",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/products/wooden-pizza-oven?_pos=1&_sid=16685c5ca&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/home?_pos=1&_sid=16685c5ca&_ss=r",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kNbQroTLTGA",
+      "channel": "Pala Pizza",
+      "duration": 582.0,
+      "title": "Best Outdoor Pizza Ovens: 2025 Awards"
+    },
+    {
+      "id": "7OGePrOOcnc",
+      "channel": "Insider Food",
+      "duration": 602.0,
+      "title": "How New York’s Best Pizzeria Makes 140,000 Pizzas In Its Coal-Fired Oven Every Year | Big Batches"
+    },
+    {
+      "id": "ejWTabN3KCk",
+      "channel": "Kalamazoo Outdoor Gourmet",
+      "duration": 300.0,
+      "title": "Neapolitan Pizza in the Artisan Fire Pizza Oven"
+    },
+    {
+      "id": "4kBPbb4YLrA",
+      "channel": "Jamie Oliver",
+      "duration": 296.0,
+      "title": "Jamie Oliver shows you how to cook pizza in a wood fired oven"
+    },
+    {
+      "id": "LVI8veUnSLQ",
+      "channel": "Bon Appétit",
+      "duration": 1141.0,
+      "title": "A Day Making The World’s #1 Pizza in NYC | On The Line | Bon Appétit"
+    }
+  ]
+}

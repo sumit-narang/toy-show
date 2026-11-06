@@ -1,0 +1,57 @@
+{
+  "id": "2025-labubu-the-monsters-big-into-energy-vinyl-plush",
+  "year": 2025,
+  "name": "Labubu THE MONSTERS Big into Energy Vinyl Plush",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Pop Mart",
+      "url": "https://www.popmart.com/ie/products/1991/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.popmart.com/ie/products/1991/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "title": "POP MART Official",
+      "description": "Shop blind boxes, designer figures and limited editions featuring The Monsters, Hirono, SKULLPANDA and more. Our mission is to light up passion and bring joy. New releases every Friday.",
+      "image": "https://prod-euk-static.popmart.com/uploads/3YhEMZb7kzC4hxNLJjsReyFMjCH4IGwM/-uA6UMoMmkiuXgJ1-1793723929-nM5nDBrLxtb2G7mj-1793685277-dimoopc.mp4"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Gzu_VVaInGU",
+      "channel": "MiniZenPlay",
+      "duration": 699.0,
+      "title": "ANOTHER MASSIVE LABUBU UNBOXING (Big into Energy)"
+    },
+    {
+      "id": "YyQpCwIrVHc",
+      "channel": "FYNE Playground",
+      "duration": 791.0,
+      "title": "Fake vs Real Labubu V3 Big Into Energy POP MART Plush Blind Box"
+    },
+    {
+      "id": "ypklO-WkTQU",
+      "channel": "𝐀𝐤𝐮 𝐋𝐁 ༊·˚",
+      "duration": 481.0,
+      "title": "FAKE vs REAL LABUBU POPMART THE MONSTERS V3 BIG INTO ENERGY VINYL PLUSH BLIND BOX REVIEW [4K]"
+    },
+    {
+      "id": "WdCBv9o5Sgo",
+      "channel": "𝐀𝐤𝐮 𝐋𝐁 ༊·˚",
+      "duration": 688.0,
+      "title": "POPMART THE MONSTERS LABUBU BIG INTO ENERGY 💗 FULL SET ASMR UNBOXING [4K]"
+    },
+    {
+      "id": "4_RQw9rpKvE",
+      "channel": "Lorien's Toy Box",
+      "duration": 873.0,
+      "title": "POP MART The Monsters Big Into Energy Labubu V3 FULL SET Unboxing"
+    }
+  ]
+}

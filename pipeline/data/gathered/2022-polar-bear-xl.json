@@ -1,0 +1,54 @@
+{
+  "id": "2022-polar-bear-xl",
+  "year": 2022,
+  "name": "Polar Bear XL",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pas7pCRxXPg",
+      "channel": "Queen Review",
+      "duration": 26.0,
+      "title": "Review Mountain Spring Polar Bear XL Folding Closed Cell Foam Sleeping Pad R-2.6 | Highest R-Value T"
+    },
+    {
+      "id": "2tDgtAgQGIw",
+      "channel": "Gohike Outdoor Shop",
+      "duration": 201.0,
+      "title": "Highest R-Value Folding Closed Cell Foam Sleeping Pad ! Mountain Spring Polar Bear XL R-2.6"
+    },
+    {
+      "id": "FGRdZfwUqgk",
+      "channel": "Center for Biological Diversity",
+      "duration": 135.0,
+      "title": "Polar Bear vs Keystone XL [Official Music Video]"
+    },
+    {
+      "id": "2UISq8-N0vg",
+      "channel": "Phillip Neumeier (Lion Man)",
+      "duration": 325.0,
+      "title": "Phillip Reviews - Episode 9: Safari Ltd. Polar Bear"
+    },
+    {
+      "id": "IeSZY6eK9Xs",
+      "channel": "Wis.Gardener",
+      "duration": 744.0,
+      "title": "PULLERBEAR PRO XL review"
+    }
+  ]
+}

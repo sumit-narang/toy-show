@@ -1,0 +1,54 @@
+{
+  "id": "2019-brainstorm-see-the-world-through-others-eyes",
+  "year": 2019,
+  "name": "Brainstorm See The World Through Others Eyes",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/brainstorm-see-the-world-through-others-eyes/1600381949.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/brainstorm-see-the-world-through-others-eyes/1600381949.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uDQOY8-AssY",
+      "channel": "BrainstormLtd",
+      "duration": 150.0,
+      "title": "See the World Through Others Eyes"
+    },
+    {
+      "id": "jdQ2S7n7Z-E",
+      "channel": "Brightkidz Educational Toys",
+      "duration": 45.0,
+      "title": "See the World Through Others' Eyes!"
+    },
+    {
+      "id": "YurT4gMRoFw",
+      "channel": "BrainstormLtd",
+      "duration": 38.0,
+      "title": "Brainstorm Toys See the World Through Other's Eyes."
+    },
+    {
+      "id": "G75kC6Fn4tM",
+      "channel": "Louise Fairweather (A Strong Coffee)",
+      "duration": 191.0,
+      "title": "See Through Others' Eyes Review"
+    },
+    {
+      "id": "9PxZkaaJTuc",
+      "channel": "Sustainable Earth Institute",
+      "duration": 586.0,
+      "title": "Through Others' Eyes"
+    }
+  ]
+}

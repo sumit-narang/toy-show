@@ -1,0 +1,60 @@
+{
+  "id": "2021-fisher-price-classic-xylophone",
+  "year": 2021,
+  "name": "Fisher Price Classic Xylophone",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/xylophone-fisher-price-classic-toys"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/xylophone-fisher-price-classic-toys",
+      "title": "Fisher Price Classic Toys - Xylophone",
+      "description": "Classic toys from Fisher Price that every parent and grandparent will remember, re-released for a new generation to discover and enjoy. Introduced in 1957, the Fisher-Price Pull-A-Tune Xylophone is musical classic. Tap the eight rainbow coloured bars with the mallet to make beautiful music. The mallet is attached by a",
+      "image": "http://toysdirect.ie/cdn/shop/products/Fisher-Price-Classic-Toys-Xylophone.jpg?crop=center&height=1200&v=1787579843&width=1200",
+      "ld_description": "Classic toys from Fisher Price that every parent and grandparent will remember, re-released for a new generation to discover and enjoy.\nIntroduced in 1957, the Fisher-Price Pull-A-Tune Xylophone is musical classic. Tap the eight rainbow coloured bars with the mallet to make beautiful music. The mallet is attached by a string so it never gets lost. It’s on wheels, so kids can pull it along wherever they go.\nSuitable for age 18 months+",
+      "brand": "Fisher Price",
+      "ld_image": "https://toysdirect.ie/cdn/shop/products/Fisher-Price-Classic-Toys-Xylophone.jpg?v=1787579843&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uCpUWkKzT24",
+      "channel": "Ginalee Allen",
+      "duration": 24.0,
+      "title": "How to play Star Wars Fisher Price xylophone"
+    },
+    {
+      "id": "dCIqVUbY164",
+      "channel": "How to",
+      "duration": 68.0,
+      "title": "fisher price classic xylophone review and how to use"
+    },
+    {
+      "id": "XvuuOp28S2c",
+      "channel": "eye flow",
+      "duration": 58.0,
+      "title": "Fisher Price Pull Along Xylophone Retro 1985"
+    },
+    {
+      "id": "sp2Uyixdk7w",
+      "channel": "Anzsy's toy videos",
+      "duration": 62.0,
+      "title": "Fisher Price Move and Groove Xylophone"
+    },
+    {
+      "id": "nfdHgrA5qj0",
+      "channel": "ictio",
+      "duration": 137.0,
+      "title": "FisherPrice Move And Groove Xylophone"
+    }
+  ]
+}

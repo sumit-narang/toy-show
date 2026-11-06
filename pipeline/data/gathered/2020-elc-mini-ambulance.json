@@ -1,0 +1,54 @@
+{
+  "id": "2020-elc-mini-ambulance",
+  "year": 2020,
+  "name": "ELC Mini Ambulance",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Kaliedy",
+      "url": "https://www.kaliedy.com/en/toys-books/elc-mini-ambulance"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.kaliedy.com/en/toys-books/elc-mini-ambulance"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mbZjw4RM4vw",
+      "channel": "kels prelovedtoys",
+      "duration": 74.0,
+      "title": "Elc Happyland Lights and Sounds Ambulance"
+    },
+    {
+      "id": "zVT5ptFPAfc",
+      "channel": "GkidsToys",
+      "duration": 161.0,
+      "title": "Ambulance Happyland Toy"
+    },
+    {
+      "id": "xbNuRmWdkkQ",
+      "channel": "Anzsy's toy videos",
+      "duration": 41.0,
+      "title": "Early Learning Centre - Lights and Sounds Emergency Centre"
+    },
+    {
+      "id": "5g6McjX1KeU",
+      "channel": "kels prelovedtoys",
+      "duration": 144.0,
+      "title": "Elc Lights and Sounds Fire Engine"
+    },
+    {
+      "id": "oqM6b3o-aYs",
+      "channel": "kels prelovedtoys",
+      "duration": 158.0,
+      "title": "Elc Happyland Lights and Sounds Fire Engine"
+    }
+  ]
+}

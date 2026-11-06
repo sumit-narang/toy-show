@@ -1,0 +1,54 @@
+{
+  "id": "2022-connect-4-grid-game",
+  "year": 2022,
+  "name": "Connect 4 Grid Game",
+  "price_eur": 14.0,
+  "price_text": "€14",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/hba5640?_pos=2&_sid=0e894cf09&_ss=r"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/hba5640?_pos=2&_sid=0e894cf09&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lUa59af7sq8",
+      "channel": "Ruben Recommends",
+      "duration": 66.0,
+      "title": "Hasbro Gaming Connect 4 Classic Grid REVIEW"
+    },
+    {
+      "id": "ylZBRUJi3UQ",
+      "channel": "Triple S Games",
+      "duration": 20.0,
+      "title": "How to play Connect 4"
+    },
+    {
+      "id": "ZlPHWDIVaOI",
+      "channel": "Amanda's Must Haves",
+      "duration": 49.0,
+      "title": "Hasbro Gaming Connect 4 Classic Grid, 4 in a Row Game, Strategy Board Games for Kids"
+    },
+    {
+      "id": "JF6FLy6_YIk",
+      "channel": "AWSM_FC",
+      "duration": 303.0,
+      "title": "BG Connect 4x4 tutorial"
+    },
+    {
+      "id": "v6N0JGmi1W4",
+      "channel": "Way Too Simple",
+      "duration": 306.0,
+      "title": "How to Win Connect 4 Every Time"
+    }
+  ]
+}

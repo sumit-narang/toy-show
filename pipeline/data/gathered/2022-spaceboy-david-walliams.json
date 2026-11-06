@@ -1,0 +1,44 @@
+{
+  "id": "2022-spaceboy-david-walliams",
+  "year": 2022,
+  "name": "Spaceboy - David Walliams",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "xvSU4K_Ztmo",
+      "channel": "Bright Byte",
+      "duration": 43.0,
+      "title": "SpaceBoy Summary                                                    ||David Walliams||"
+    },
+    {
+      "id": "b1YgszODtc4",
+      "channel": "Full Audiobook",
+      "duration": 305.0,
+      "title": "SPACEBOY - David Walliams"
+    },
+    {
+      "id": "TbgFLn6fYjQ",
+      "channel": "ITV News",
+      "duration": 143.0,
+      "title": "David Walliams dropped by publisher after reported allegations of inappropriate behaviour"
+    },
+    {
+      "id": "UBsETBZ8gX0",
+      "channel": "Elyria Public Library ",
+      "duration": 72.0,
+      "title": "One Minute One Book | Space Boy"
+    },
+    {
+      "id": "U7kFarj-e6Q",
+      "channel": "May",
+      "duration": 3730.0,
+      "title": "Billionaire Boy David Walliams part 1 Audiobook"
+    }
+  ]
+}

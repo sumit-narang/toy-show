@@ -1,0 +1,54 @@
+{
+  "id": "2022-xootz-bubble-scooter",
+  "year": 2022,
+  "name": "Xootz Bubble Scooter",
+  "price_eur": null,
+  "price_text": "£49.99",
+  "retailers": [
+    {
+      "name": "Xootz",
+      "url": "https://www.xootz.co.uk/bubble-go-foldable-tri-scooter-blue.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.xootz.co.uk/products/bubble-go-foldable-tri-scooter-blue"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UYmNLqSoSiY",
+      "channel": "Xootz",
+      "duration": 221.0,
+      "title": "Assembling the Xootz Bubble Go Scooter"
+    },
+    {
+      "id": "rL0q4ujy6tM",
+      "channel": "True Toys",
+      "duration": 41.0,
+      "title": "Xootz Bubble Go Scooter"
+    },
+    {
+      "id": "8X6Bt18PgaA",
+      "channel": "Autism Live",
+      "duration": 123.0,
+      "title": "Autism Live 2023 Toy Guide Review: Xootz Bubble Go Scooter"
+    },
+    {
+      "id": "lbYS5RYRmZU",
+      "channel": "Xootz",
+      "duration": 45.0,
+      "title": "Xootz Bubble Go Dino & Unicorn Scooters"
+    },
+    {
+      "id": "G3OwKaTNBcQ",
+      "channel": "KALBO",
+      "duration": 358.0,
+      "title": "Xootz Kids Bubble Scooter"
+    }
+  ]
+}

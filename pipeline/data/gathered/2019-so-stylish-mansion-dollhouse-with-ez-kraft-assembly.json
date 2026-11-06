@@ -1,0 +1,26 @@
+{
+  "id": "2019-so-stylish-mansion-dollhouse-with-ez-kraft-assembly",
+  "year": 2019,
+  "name": "So Stylish Mansion Dollhouse with EZ Kraft Assembly",
+  "price_eur": 320.0,
+  "price_text": "€320.00",
+  "retailers": [
+    {
+      "name": "Trove",
+      "url": "https://trove.ie/product/so-stylish-mansion-dollhouse-with-ez-kraft-assembly/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.trove.ie/",
+      "title": "Professional Web Design & Development Services | Trove Digital",
+      "description": "Need a high-performance website? Trove Digital delivers expert web design and development solutions tailored to your business goals.",
+      "image": "https://www.trove.ie/wp-content/uploads/2023/03/webdevelopment-1.webp"
+    }
+  ],
+  "video_candidates": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-our-generation-doll-miranda",
+  "year": 2025,
+  "name": "Our Generation Doll Miranda",
+  "price_eur": 32.99,
+  "price_text": "€32.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-miranda/p/234802"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-miranda/p/234802",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C5soWh5cY4w",
+      "channel": "My Toy",
+      "duration": 35.0,
+      "title": "Our Generation Classic 18inch Doll Blonde - Miranda"
+    },
+    {
+      "id": "6ih6qTi3xwE",
+      "channel": "The Doll Studio by Kris",
+      "duration": 768.0,
+      "title": "Opening Our Generation’s Limited Easter Dolls!!! "
+    },
+    {
+      "id": "nNDBJ3tgDRA",
+      "channel": "Ava Toy Show",
+      "duration": 602.0,
+      "title": "Our Generation dolls 5 minute challenge"
+    },
+    {
+      "id": "nzMJudoiyrE",
+      "channel": "Juguetería La Sonrisa del Caimán",
+      "duration": 31.0,
+      "title": "Muñeca Emmie - Our Generation - BD31705Z"
+    },
+    {
+      "id": "GIzEUfLmjWg",
+      "channel": "HISTOIRES POUR ENFANTS",
+      "duration": 898.0,
+      "title": "LA POUPEE MIRANDA OUR GENERATION"
+    }
+  ]
+}

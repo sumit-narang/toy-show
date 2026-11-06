@@ -1,0 +1,57 @@
+{
+  "id": "2025-woom-go-4",
+  "year": 2025,
+  "name": "Woom Go 4",
+  "price_eur": 549.0,
+  "price_text": "€549",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://donnybrookbikes.ie/shop/woom-4/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://donnybrookbikes.ie/shop/woom-4/",
+      "title": "Woom Go 4 - Donnybrook Bikes",
+      "description": "Bike 20″ • 7,7 kg Child 6 – 8 years • 115 – 130 cm   The woom 4 introduces children aged six years to the world of gear-shifting. The bike's eight speeds in combination with the easy-to-operate twist shifter expand the bike's range of use and increase the child's mobility. Whether they want to ride their bikes into the woods or up hills – the new-found freedom of gears make longer adventures on two wheels child's play.",
+      "image": "https://donnybrookbikes.ie/wp-content/uploads/2021/03/Woom-4-Red.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mA2c_PDsdS0",
+      "channel": "woom",
+      "duration": 220.0,
+      "title": "Assembly & Bike Fit | woom GO 4 | Kids' bike"
+    },
+    {
+      "id": "Z8EJvFCVeck",
+      "channel": "Rascal Rides",
+      "duration": 180.0,
+      "title": "A Look At The New Woom Go (Has Anything Changed?!)"
+    },
+    {
+      "id": "oVq0Dam1uhA",
+      "channel": "Arleigh | Bike Shop Girl",
+      "duration": 235.0,
+      "title": "Meet the Woom 4 20\" Kid's Bike - the best 20\" kid's bike available?!"
+    },
+    {
+      "id": "dCUDVYT6lqE",
+      "channel": "Two Wheeling Tots",
+      "duration": 343.0,
+      "title": "Woom 4 & Woom 5 Kids Bike Review (Why They Receive Our Exceptional Rating!)"
+    },
+    {
+      "id": "SR9a1OZ7WWA",
+      "channel": "Veronika's Reviews",
+      "duration": 36.0,
+      "title": "Check Out This Woom Bike! woom GO 4 Bicycle for Kids 6 to 8 Years Old, 20-Inch Lightweight"
+    }
+  ]
+}

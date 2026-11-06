@@ -1,0 +1,57 @@
+{
+  "id": "2022-fox-sons-paddy-donnelly",
+  "year": 2022,
+  "name": "Fox & Sons - Paddy Donnelly",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "The O'Brien Press",
+      "url": "https://obrien.ie/schools/fox-son-tailers"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://obrien.ie/schools/fox-son-tailers",
+      "title": "Fox & Son Tailers",
+      "description": "Fox & Son Tailers; Rory’s dad, Fox, is a tailer. The BEST in the business! Animals come from all over to have their tails made by him. Rory helps in the shop and one of his jobs is measuring the customers for the tails - which isn't always easy!But Rory is bored of making the same old tails. He has his own amazing ideas ...",
+      "image": "https://obrien.ie/assets/4b63c94c/foxandsontailers-78162-450x450.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jeVbdv8xVsc",
+      "channel": "The O'Brien Press",
+      "duration": 60.0,
+      "title": "Magpie Collectables | New Paddy Donnelly Picture Book | Out Spring 2027"
+    },
+    {
+      "id": "PExBMyNjW5o",
+      "channel": "Sophie's Teaching",
+      "duration": 308.0,
+      "title": "EP01 Fox & Son Tailers By Paddy Donnelly"
+    },
+    {
+      "id": "guEubpM9vtQ",
+      "channel": "Sophie's Teaching",
+      "duration": 342.0,
+      "title": "EP02 Fox & Son Tailers By Paddy Donnelly"
+    },
+    {
+      "id": "Kawjy23n63o",
+      "channel": "The O'Brien Press",
+      "duration": 77.0,
+      "title": "Badger Books by Paddy Donnelly Trailer"
+    },
+    {
+      "id": "ZpX58b7xSIM",
+      "channel": "Craigbank Primary School",
+      "duration": 301.0,
+      "title": "Fox & Son Tailers"
+    }
+  ]
+}

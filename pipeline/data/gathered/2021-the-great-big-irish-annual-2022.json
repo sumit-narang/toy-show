@@ -1,0 +1,57 @@
+{
+  "id": "2021-the-great-big-irish-annual-2022",
+  "year": 2021,
+  "name": "The Great Big Irish Annual 2022",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "The Book Centre",
+      "url": "https://shop.thebookcentre.ie/Books/GREAT-BIG-IRISH-ANNUAL-2022_9780717192243"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://shop.thebookcentre.ie/Books/GREAT-BIG-IRISH-ANNUAL-2022_9780717192243",
+      "title": "GREAT BIG IRISH ANNUAL 2022 - The Book Centre",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nc4F9Y6G5fY",
+      "channel": "ABC Entertainment",
+      "duration": 192.0,
+      "title": "Top Secret Drum Corps | The Royal Edinburgh Military Tattoo 2022 | ABC TV + iview"
+    },
+    {
+      "id": "t_o8Lcvzzok",
+      "channel": "AFL",
+      "duration": 484.0,
+      "title": "AFL - Australia v Ireland International Rules Highlights 2015"
+    },
+    {
+      "id": "cnATMiSIalQ",
+      "channel": "Democratic Unionist Party",
+      "duration": 13086.0,
+      "title": "DUP Annual Conference 2022"
+    },
+    {
+      "id": "g2i6xpWmh-Q",
+      "channel": "Irish Independent",
+      "duration": 108.0,
+      "title": "Northern Ireland's tallest bonfire at Craigyhill collapses"
+    },
+    {
+      "id": "w0v_pu6miJ8",
+      "channel": "Riverdance",
+      "duration": 495.0,
+      "title": "Riverdance at the Eurovision Song Contest 30 April 1994, Dublin"
+    }
+  ]
+}

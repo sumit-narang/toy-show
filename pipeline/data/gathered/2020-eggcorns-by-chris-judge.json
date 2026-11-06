@@ -1,0 +1,60 @@
+{
+  "id": "2020-eggcorns-by-chris-judge",
+  "year": 2020,
+  "name": "Eggcorns by Chris Judge",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/eggcorns-chris-judge-9781788491921"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/eggcorns-chris-judge-9781788491921",
+      "title": "Buy Eggcorns Book at Easons",
+      "description": "Have you ever seen a Bumbum bee, or an Elelamp? Does your pet wear Doggles? These are all Eggcorns, where a child's mispronunciation can add a whole other level of meaning! What would a bumbum bee (bumblebee) or Elelamp (elephant) look like? Or Doggles (go",
+      "image": null,
+      "ld_description": "Have you ever seen a Bumbum bee, or an Elelamp? Does your pet wear Doggles? These are all Eggcorns, where a child's mispronunciation can add a whole other level of meaning! What would a bumbum bee (bumblebee) or Elelamp (elephant) look like? Or Doggles (goggles) or a Carcodile (crocodile)?\n\nIllustrator Chris Judge (The Lonely Beast, Danger is Everywhere) has brought his bizarre sense of humour to imagine them for us all.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/m/3b1c2a846fa43db0/original/9781788491921_5637845037.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iSbyYwUSHDc",
+      "channel": "Dubray Books",
+      "duration": 219.0,
+      "title": "Lisa from Dubray Recommends Children's Books"
+    },
+    {
+      "id": "hmooPqXaDTo",
+      "channel": "Pza Entertainment",
+      "duration": 508.0,
+      "title": "What Is Kover? Providing Uber Lyft And Gig Worker Benefits?!?!"
+    },
+    {
+      "id": "27y_1K8se0c",
+      "channel": "Chicks in the Office",
+      "duration": 4595.0,
+      "title": "Jonathan Bailey Is Rightfully 'Sexiest Man Alive' + DWTS NEEDS a 4th Judge"
+    },
+    {
+      "id": "eiODwHgcS28",
+      "channel": "Book Time Kids",
+      "duration": 243.0,
+      "title": "Melz Book Time Kids reads The Short-sighted Giraffe by A.H. Benjamin & Gill McLean"
+    },
+    {
+      "id": "tnnabYUP6nQ",
+      "channel": "Full Gospel Mission Youpwe _ City Of Testimony",
+      "duration": 699.0,
+      "title": "THE CRY THAT SAVES"
+    }
+  ]
+}

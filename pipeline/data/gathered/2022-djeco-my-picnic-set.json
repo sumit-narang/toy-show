@@ -1,0 +1,54 @@
+{
+  "id": "2022-djeco-my-picnic-set",
+  "year": 2022,
+  "name": "Djeco My Picnic Set",
+  "price_eur": 39.95,
+  "price_text": "€39.95",
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/product/birthday-toys/preschool-top-toys/djeco-my-picnic/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://mimitoys.ie/collections/djeco-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fb690joQVlE",
+      "channel": "Djeco Toys Official",
+      "duration": 897.0,
+      "title": "VIDEO TUTO - ROSIE - Mi HOUSE - +8 ANS/YEARS - DJ08033 - DJECO"
+    },
+    {
+      "id": "Nwq6ur9hfMs",
+      "channel": "Djeco Toys Official",
+      "duration": 77.0,
+      "title": "A magical activity based on cyanotype's photographic process - DJ09342 - DJECO"
+    },
+    {
+      "id": "d6D1kvYbmHc",
+      "channel": "Crafts 4 Kids",
+      "duration": 310.0,
+      "title": "DJ05098 Djeco Card Games - Spooky Boo!"
+    },
+    {
+      "id": "KTtm0GWt0fU",
+      "channel": "All Trance",
+      "duration": 8428.0,
+      "title": "The Best Of   DJ Eco"
+    },
+    {
+      "id": "TxL74keuryo",
+      "channel": "My Re-ment mini kitchen ♡ ",
+      "duration": 634.0,
+      "title": "Mini kitchen set installation ASMR"
+    }
+  ]
+}

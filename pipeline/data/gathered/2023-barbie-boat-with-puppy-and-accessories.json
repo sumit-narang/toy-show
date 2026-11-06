@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-boat-with-puppy-and-accessories",
+  "year": 2023,
+  "name": "Barbie Boat with Puppy and Accessories",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-boat-with-puppy-and-accessories/p/195438"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-boat-with-puppy-and-accessories/p/195438",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ldHcnvrK9b8",
+      "channel": "DOLL and friends TV",
+      "duration": 106.0,
+      "title": "Barbie Boat with Puppy and Themed Accessories"
+    },
+    {
+      "id": "jXrgiugjFOw",
+      "channel": "John D. Villarreal Digital Ventures",
+      "duration": 186.0,
+      "title": "Barbie Toy Boat - Review & Demo"
+    },
+    {
+      "id": "qOUQXLPDSDM",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie® Newborn Pups playset    | AD"
+    },
+    {
+      "id": "PmZiBaJh50U",
+      "channel": "Argos",
+      "duration": 105.0,
+      "title": "Barbie Glam Boat - Argos Toy Unboxing"
+    },
+    {
+      "id": "IfcTSTP-wqQ",
+      "channel": "Come Play With Me",
+      "duration": 678.0,
+      "title": "Boat day ! Elsa & Anna toddlers - sailing - swimming - Barbie dolls"
+    }
+  ]
+}

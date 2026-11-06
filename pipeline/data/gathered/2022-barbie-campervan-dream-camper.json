@@ -1,0 +1,54 @@
+{
+  "id": "2022-barbie-campervan-dream-camper",
+  "year": 2022,
+  "name": "Barbie Campervan Dream Camper",
+  "price_eur": 126.9,
+  "price_text": "€126.90",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/dream-camper-vehicle/161910742.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/dream-camper-vehicle/161910742.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2yvEpBRWOt4",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie New Dream Camper! | AD"
+    },
+    {
+      "id": "XUwUYfIJtEY",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 683.0,
+      "title": "Barbie Dream Camper Unboxing  | Setup, Playtime & Camping Fun with Barbie Dolls"
+    },
+    {
+      "id": "QjM4iyrhNMM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 95.0,
+      "title": "Go Camping With Barbie in the Barbie Dream Camper!"
+    },
+    {
+      "id": "n9_bH_2qPmo",
+      "channel": "LetsPlayBarbies",
+      "duration": 1154.0,
+      "title": "Barbie Camper decoration contest! Aria vs. Mom!"
+    },
+    {
+      "id": "sEv7ihQsXYU",
+      "channel": "The Entertainer",
+      "duration": 45.0,
+      "title": "Barbie Dream Camper Playset"
+    }
+  ]
+}

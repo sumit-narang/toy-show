@@ -1,0 +1,54 @@
+{
+  "id": "2023-dragon-ball-goku-plush-figure",
+  "year": 2023,
+  "name": "Dragon Ball Goku Plush Figure",
+  "price_eur": 11.69,
+  "price_text": "€11.69",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EeJPdSQy-wo",
+      "channel": "Nostalgia Unboxed",
+      "duration": 313.0,
+      "title": "5 Minutes. 1 Issue. | SHFiguarts Goku Kind Hearted Saiyan"
+    },
+    {
+      "id": "xNVN2SXD6VU",
+      "channel": "Jebus Ball Z",
+      "duration": 1360.0,
+      "title": "We Cleared Out Toy Stores Across America! Employees Hated Us for Buying Every Dragon Ball Toy!"
+    },
+    {
+      "id": "yQq_GEPzWnE",
+      "channel": "VASCO Toys",
+      "duration": 558.0,
+      "title": "Goku Figures Have Come A LONG Way Since 1991"
+    },
+    {
+      "id": "gAytE0dnAQ0",
+      "channel": "Jebus Ball Z",
+      "duration": 1803.0,
+      "title": "I Paid $3,000 For a HUGE Pile of Dragon Ball"
+    },
+    {
+      "id": "IdcN_QBmeic",
+      "channel": "Kewkumber",
+      "duration": 1758.0,
+      "title": "My Dragon Ball Z, GT, & Super Plush Collection"
+    }
+  ]
+}

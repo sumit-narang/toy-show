@@ -1,0 +1,57 @@
+{
+  "id": "2022-be-inspired-young-irish-people-changing-the-world-by-sarah-webb",
+  "year": 2022,
+  "name": "Be Inspired, Young Irish People Changing the World by Sarah Webb",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "The O'Brien Press",
+      "url": "https://obrien.ie/be-inspired"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://obrien.ie/be-inspired",
+      "title": "Be Inspired!",
+      "description": "Be Inspired! - Young Irish People Changing the World; Meet the inspiring young Irish people taking on the world! Award-winning author of Blazing a Trail and Dare to Dream, Sarah Webb interviews inspiring young Irish people about their amazing achievements.  It’s never too early to achieve your dreams – why not start today?",
+      "image": "https://obrien.ie/assets/6fe44a0a/beinspired-75639-450x450.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "g3Rf5qDuq7M",
+      "channel": "Britain's Got Talent",
+      "duration": 513.0,
+      "title": "Bars & Melody - Simon Cowell's Golden Buzzer act | Britain's Got Talent 2014"
+    },
+    {
+      "id": "besiJm_xoVw",
+      "channel": "Talents Reborn",
+      "duration": 347.0,
+      "title": "She Walked Onstage with Bagpipes... What Happened Next Left Everyone Speechless"
+    },
+    {
+      "id": "RRAdKtn6Nus",
+      "channel": "Lifted - Stories That Inspire",
+      "duration": 5578.0,
+      "title": "She Left Her Amish Life… But Now She Has to Choose | Full Movie | Romance"
+    },
+    {
+      "id": "0NV1KdWRHck",
+      "channel": "TED",
+      "duration": 1072.0,
+      "title": "Thoughts on humanity, fame and love | Shah Rukh Khan | TED"
+    },
+    {
+      "id": "9KK2OBZIcRw",
+      "channel": "The Graham Norton Show",
+      "duration": 251.0,
+      "title": "Nicole Kidman Is Blown Away By Stephen Fry’s Intelligence | The Graham Norton Show"
+    }
+  ]
+}

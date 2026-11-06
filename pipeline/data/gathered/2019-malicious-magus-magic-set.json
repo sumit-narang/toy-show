@@ -1,0 +1,57 @@
+{
+  "id": "2019-malicious-magus-magic-set",
+  "year": 2019,
+  "name": "Malicious Magus Magic Set",
+  "price_eur": 27.99,
+  "price_text": "€27.99",
+  "retailers": [
+    {
+      "name": "Nimble Fingers",
+      "url": "https://nimblefingers.ie/products/malicious-magus-magic-set"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://nimblefingers.ie/products/malicious-magus-magic-set",
+      "title": "Djeco Malicious Magus- Magic Set",
+      "description": "Malicious Magus- Magic Set on Nimblefingers.ie",
+      "image": "http://nimblefingers.ie/cdn/shop/products/DJ09964-B3D-RVB_600x.jpg?v=1648743657"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ssD6-IpvlL8",
+      "channel": "Earth Toys",
+      "duration": 78.0,
+      "title": "The Incredible MAGUS magic set by Djeco - Oculus Trick - Earth Toys"
+    },
+    {
+      "id": "RqNhVYndzS0",
+      "channel": "TheDadLab",
+      "duration": 140.0,
+      "title": "Djeco: Magic Set for Kids Review - TheDadLab"
+    },
+    {
+      "id": "WThSuyn3DKE",
+      "channel": "VARIS Toys Baltics/ Rotaļnīca",
+      "duration": 241.0,
+      "title": "DJ09964 - Magic - Malicious magus - 20 tricks by DJECO"
+    },
+    {
+      "id": "aJOTzFriw08",
+      "channel": "VARIS Toys Baltics/ Rotaļnīca",
+      "duration": 80.0,
+      "title": "DJ09934 - Djeco Magic - Symbolo - DJ09966"
+    },
+    {
+      "id": "ASawHUNVYXY",
+      "channel": "VARIS Toys Baltics/ Rotaļnīca",
+      "duration": 360.0,
+      "title": "DJ09962 - Magic - Fabuloso Magus - 20 tricks by Djeco"
+    }
+  ]
+}

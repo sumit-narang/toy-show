@@ -1,0 +1,57 @@
+{
+  "id": "2022-pooky-sock-dog",
+  "year": 2022,
+  "name": "Pooky Sock Dog",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Red Rufus",
+      "url": "https://www.redrufus.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "niSLe7vW-2U",
+      "channel": "El Gavino",
+      "duration": 64.0,
+      "title": "Sock fetch"
+    },
+    {
+      "id": "RbNqwyq8fiA",
+      "channel": "Unsolved Mysteries Fanatic",
+      "duration": 40.0,
+      "title": "Chester The Fox,playing and screetching with Pooky"
+    },
+    {
+      "id": "LYIsTWlBqWs",
+      "channel": "Netflix Jr.",
+      "duration": 1397.0,
+      "title": "Pupcakes 🧁 // Stink or Swim 🏝 Go, Dog. Go! FULL EPISODE | Netflix Jr"
+    },
+    {
+      "id": "ufcWtTFn9Zc",
+      "channel": "Dodo Kids",
+      "duration": 271.0,
+      "title": "Wait! Where’s My BALL?! | Dodo Kids | Funny Dog Videos"
+    },
+    {
+      "id": "R_K31bTHH64",
+      "channel": "Disney Junior MENA",
+      "duration": 185.0,
+      "title": "Bob's Missing Lunch 🥪 | Puppy Dog Pals 🐶 | Disney Junior Arabia"
+    }
+  ]
+}

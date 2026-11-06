@@ -1,0 +1,53 @@
+{
+  "id": "2017-ultimate-dinosaur-dinopedia",
+  "year": 2017,
+  "name": "Ultimate Dinosaur Dinopedia",
+  "price_eur": 21.0,
+  "price_text": "€21.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cP1-xkY_Lgs",
+      "channel": "National Geographic",
+      "duration": 94.0,
+      "title": "Meet the Dinos! National Geographic Kids Ultimate Dinopedia | National Geographic"
+    },
+    {
+      "id": "9loJe8tk69Y",
+      "channel": "Nat Geo Kids",
+      "duration": 105.0,
+      "title": "National Geographic Kids Ultimate Dinopedia | National Geographic Kids"
+    },
+    {
+      "id": "R9ZsUcdN3aY",
+      "channel": "CrazyMikesapps",
+      "duration": 163.0,
+      "title": "Ultimate Dinopedia iPad App Review CrazyMikesapps.com"
+    },
+    {
+      "id": "pwBN1QtFZac",
+      "channel": "Nat Geo Books",
+      "duration": 94.0,
+      "title": "National Geographic Kids Ultimate Dinopedia"
+    },
+    {
+      "id": "j1GwgIPXHlo",
+      "channel": "Land Before Time 75",
+      "duration": 75.0,
+      "title": "Collab The Ultimate Dinopedia Facts Carnotaurus, Styracosaurus, Spinosaurus"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-kylo-ren-lightsaber",
+  "year": 2017,
+  "name": "Star Wars Kylo Ren Lightsaber",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xykcDHiIrxk",
+      "channel": "The Collectors Outpost",
+      "duration": 725.0,
+      "title": "Before you buy this new Kylo Ren lightsaber Lets take a closer look!"
+    },
+    {
+      "id": "Eik7s6A7Qm8",
+      "channel": "iDecimate",
+      "duration": 383.0,
+      "title": "Kylo Ren Fight Scenes | Stars Wars Episodes 7-9"
+    },
+    {
+      "id": "M26RufAG1yw",
+      "channel": "Action Movie Kids",
+      "duration": 12.0,
+      "title": "Toy Lightsaber"
+    },
+    {
+      "id": "FJTz-ahXyyI",
+      "channel": "AWESOME MOVIE CLIPS",
+      "duration": 293.0,
+      "title": "Star Wars: Episode VII The Force Awakens - Finn & Rey Vs. Kylo Ren [4K 60fps]"
+    },
+    {
+      "id": "zfWdqZO6Ar8",
+      "channel": "Janobot",
+      "duration": 20.0,
+      "title": "Kylo Ren's Ultimate Lightsaber"
+    }
+  ]
+}

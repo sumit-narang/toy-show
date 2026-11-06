@@ -1,0 +1,57 @@
+{
+  "id": "2022-ukrainian-books",
+  "year": 2022,
+  "name": "Ukrainian books",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Walker Books",
+      "url": "https://www.walker.co.uk/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.walker.co.uk/",
+      "title": "Walker Books - Walker Books - Childrens Books",
+      "description": "WALKER BOOKS is the world's leading independent publisher of children's books. Working with the best authors and illustrators...",
+      "image": "https://dhjhkxawhe8q4.cloudfront.net/walker-books-wp/wp-content/uploads/2024/09/03143032/walker-books-icon-v2.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Q8w5apVL0D4",
+      "channel": "DDCHomeschool",
+      "duration": 677.0,
+      "title": "Amazon Homeschool Haul: Russian & Ukrainian Books and More! 1 of 2"
+    },
+    {
+      "id": "otxvZ4aJQnw",
+      "channel": "Reading With a Vengeance",
+      "duration": 1865.0,
+      "title": "I researched some Ukrainian authors and literature to expand my reading horizon! #Isupportukraine"
+    },
+    {
+      "id": "8YW2TMVp3sU",
+      "channel": "The Potter Collector",
+      "duration": 1037.0,
+      "title": "Harry Potter Books | Detailed Look at the BEAUTIFUL Ukrainian Editions"
+    },
+    {
+      "id": "3MkwOXu0-iw",
+      "channel": "VERBA SCHOOL",
+      "duration": 569.0,
+      "title": "The Best Ukrainian Textbooks + GIVEAWAY!!!"
+    },
+    {
+      "id": "yEAJVrw06bU",
+      "channel": "Rainierbooks",
+      "duration": 1217.0,
+      "title": "10 Ukrainian Authors You Should Read"
+    }
+  ]
+}

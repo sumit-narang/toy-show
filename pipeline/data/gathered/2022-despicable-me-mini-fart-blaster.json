@@ -1,0 +1,54 @@
+{
+  "id": "2022-despicable-me-mini-fart-blaster",
+  "year": 2022,
+  "name": "Despicable Me Mini Fart Blaster",
+  "price_eur": 17.0,
+  "price_text": "€17",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/mtgmf84?_pos=2&_sid=962bb7f20&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/mtgmf84?_pos=2&_sid=962bb7f20&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i2HfrBGgJJY",
+      "channel": "FastFoodToyReviews",
+      "duration": 126.0,
+      "title": "DESPICABLE ME 4 MINI FART BLASTER"
+    },
+    {
+      "id": "oHH-QDV2e1E",
+      "channel": "changeandbalance",
+      "duration": 42.0,
+      "title": "Despicable Me  2 21 Gun Fart Salute"
+    },
+    {
+      "id": "r-YjmXt15sg",
+      "channel": "simond130796",
+      "duration": 45.0,
+      "title": "Despicable Me - Anti Gravity and Fart Gun [1080p] HD"
+    },
+    {
+      "id": "ZF2yPLkElfE",
+      "channel": "Illumination",
+      "duration": 44.0,
+      "title": "Despicable Me | Clip: \"Dr. Nefario shows Gru two new inventions\" | Illumination"
+    },
+    {
+      "id": "KiC8fXmykaA",
+      "channel": "News, Sport and Commercials.",
+      "duration": 17.0,
+      "title": "Despicable Me 4 The Ultimate Fart Blaster."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2021-fao-schwarz-blue-vespa",
+  "year": 2021,
+  "name": "FAO Schwarz Blue Vespa",
+  "price_eur": 195.99,
+  "price_text": "€195.99",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.brownthomas.com/children/toys-games/electronics/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.brownthomas.com/children/toys-games/electronics/",
+      "title": "Electronic Toys | Brown Thomas",
+      "description": "Shop electronic toys online with at home delivery and a range of virtual shopping services at Brown Thomas",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "56QKLWxpsM4",
+      "channel": "QVC",
+      "duration": 475.0,
+      "title": "Freddo Toys 12V Vespa Ride-on Scooter for Kids | QVC"
+    },
+    {
+      "id": "CF7-rz9nIn4",
+      "channel": "Movieclips",
+      "duration": 163.0,
+      "title": "Big (1988) - Playing the Piano Scene (2/5) | Movieclips"
+    },
+    {
+      "id": "DgWbQQzkPII",
+      "channel": "Vespa Motorsport",
+      "duration": 798.0,
+      "title": "Subtle & Sporty Custom Matte Blue Vespa GTS"
+    },
+    {
+      "id": "QimQa_R6Fk8",
+      "channel": "Let's Play Arcade",
+      "duration": 2895.0,
+      "title": "Reviewing Toy Claw Machines We Bought Online"
+    },
+    {
+      "id": "-pcia2yiRlk",
+      "channel": "Team Stadler",
+      "duration": 50.0,
+      "title": "Vespa GTS 310 2025 Umbau - Blu Eclettico"
+    }
+  ]
+}

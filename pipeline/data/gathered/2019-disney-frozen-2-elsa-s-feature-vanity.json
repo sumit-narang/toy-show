@@ -1,0 +1,54 @@
+{
+  "id": "2019-disney-frozen-2-elsa-s-feature-vanity",
+  "year": 2019,
+  "name": "Disney Frozen 2 Elsa's Feature Vanity",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/disney-frozen-2-elsas-feature-vanity/1600381505.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/disney-frozen-2-elsas-feature-vanity/1600381505.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bGIdNIKXMnE",
+      "channel": "BellaDavidVR",
+      "duration": 176.0,
+      "title": "Disney Frozen 2 Elsa's Enchanted Ice Vanity, Includes Lights, Iconic Story Moments & Plays Music"
+    },
+    {
+      "id": "7qU9SF1OQy4",
+      "channel": "Love Love Princess Jasmine ",
+      "duration": 157.0,
+      "title": "👍 Disney Frozen 2 Elsa's Enchanted Ice Vanity episode 27"
+    },
+    {
+      "id": "e8vEsM2C9LA",
+      "channel": "Ramiro Choide",
+      "duration": 15.0,
+      "title": "jakks pacific-Frozen 2 Line-Elsa Enchanted Ice Vanity and Elsa Adventure Dress (2019)"
+    },
+    {
+      "id": "MW2MDAYZ9gc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 160.0,
+      "title": "Disney Frozen 2 Playdate Sven & Elsa's Enchanted Ice Vanity from Jakks Pacific"
+    },
+    {
+      "id": "n87Jbo8RqZc",
+      "channel": "Hannah Wing",
+      "duration": 222.0,
+      "title": "DISNEY Frozen 2 Toys // FIRST LOOK // Gifted"
+    }
+  ]
+}

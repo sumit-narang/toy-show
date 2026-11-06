@@ -1,0 +1,57 @@
+{
+  "id": "2025-shark-bite-game",
+  "year": 2025,
+  "name": "Shark Bite Game",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/childrens-board-games/shark-bite-game/p/160465"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/childrens-board-games/shark-bite-game/p/160465",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9yfdRGYkeyw",
+      "channel": "Triple S Games",
+      "duration": 83.0,
+      "title": "How to play Shark Bite"
+    },
+    {
+      "id": "IDilHyxWMuI",
+      "channel": "Lucky Penny Shop",
+      "duration": 718.0,
+      "title": "How To Play The Game Shark Bite Family Shark Attack Game - Pressman Toys"
+    },
+    {
+      "id": "ey_XKnNtPE4",
+      "channel": "RoBros Movies",
+      "duration": 3939.0,
+      "title": "We UNLOCKED RARE BOATS in Roblox SHARKBITE!"
+    },
+    {
+      "id": "UBrxu2oqfjM",
+      "channel": "GamerGirl",
+      "duration": 1390.0,
+      "title": "FINDING A DINOSAUR!!!"
+    },
+    {
+      "id": "EwZsscGGBsw",
+      "channel": "TurboToyTime",
+      "duration": 862.0,
+      "title": "Father & Son PLAY SHARK BITE GAME! (It Attacked Us!)"
+    }
+  ]
+}

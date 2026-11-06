@@ -1,0 +1,57 @@
+{
+  "id": "2024-idance-party-groove-karaoke-machine",
+  "year": 2024,
+  "name": "iDance Party Groove Karaoke Machine",
+  "price_eur": 84.99,
+  "price_text": "€84.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/karaoke/idance-party-groove-karaoke-machine-x2/p/235847"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/karaoke/idance-party-groove-karaoke-machine-x2/p/235847",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "h_QzerhuL-o",
+      "channel": "Lekekassen.no",
+      "duration": 65.0,
+      "title": "iDance Party Groove 9-i-1 – Karaoke, disco-lys og rå fest 🎤🪩"
+    },
+    {
+      "id": "7h4cr-vS4Mc",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 113.0,
+      "title": "PARTY GROOVE High Power Karaoke"
+    },
+    {
+      "id": "CRkPZ8uQtMQ",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 103.0,
+      "title": "PARTY GROOVE 3mk2 High Power Karaoke"
+    },
+    {
+      "id": "UpRvbUTCAAk",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 103.0,
+      "title": "iDance PARTY GROOVE 3mk2, Karaoke Machine with Disco Ball + Lighting Ring"
+    },
+    {
+      "id": "CZmyGp32iqQ",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 108.0,
+      "title": "iDance PARTY GROOVE, Wireless Karaoke Bluetooth Voice Changer and Disco ball, Disco lighting"
+    }
+  ]
+}

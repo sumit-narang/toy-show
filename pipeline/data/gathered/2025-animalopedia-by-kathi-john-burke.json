@@ -1,0 +1,23 @@
+{
+  "id": "2025-animalopedia-by-kathi-john-burke",
+  "year": 2025,
+  "name": "Animalopedia by Kathi & John Burke",
+  "price_eur": 20.99,
+  "price_text": "€20.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/animalopedia-john-burke-9781804582466"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/animalopedia-john-burke-9781804582466"
+    }
+  ],
+  "video_candidates": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-lego-typewriter",
+  "year": 2021,
+  "name": "LEGO Typewriter",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "LEGO.com / Toyshops Nationwide",
+      "url": "http://www.lego.com/en-ie/product/typewriter-21327"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/typewriter-21327",
+      "title": "Typewriter 21327 | Ideas | Buy online at the Official LEGO® Shop IE",
+      "description": "Build your own old-fashioned typewriter in LEGO® style",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt9c4a5202f5f25894/21327_Prod.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "Build your own old-fashioned typewriter in LEGO® style",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/blt9c4a5202f5f25894/21327_Prod.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZIWTSkCVxjk",
+      "channel": "Koenkun Bricks",
+      "duration": 1016.0,
+      "title": "Building a Functional LEGO Typewriter"
+    },
+    {
+      "id": "HRrHf57TMa8",
+      "channel": "Tiago Catarino",
+      "duration": 341.0,
+      "title": "BUY ONE RIGHT NOW - LEGO IDEAS 21327 TYPEWRITER REVIEW"
+    },
+    {
+      "id": "BQIUrqCT0gY",
+      "channel": "Genuine Reviews With Julie",
+      "duration": 146.0,
+      "title": "Lego Ideas Typewriter 21327 Review - Watch This Before You Buy! Genuine and Honest Review"
+    },
+    {
+      "id": "Ubyg25Hu_Gs",
+      "channel": "BuilderTim",
+      "duration": 276.0,
+      "title": "How the LEGO Typewriter Works"
+    },
+    {
+      "id": "Pa-rNJQp4gw",
+      "channel": "Zusammengebaut",
+      "duration": 47.0,
+      "title": "LEGO Ideas 21327 Typewriter: All functions!"
+    }
+  ]
+}

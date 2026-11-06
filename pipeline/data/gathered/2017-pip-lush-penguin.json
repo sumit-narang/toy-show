@@ -1,0 +1,53 @@
+{
+  "id": "2017-pip-lush-penguin",
+  "year": 2017,
+  "name": "Pip Lush Penguin",
+  "price_eur": 16.95,
+  "price_text": "€16.95",
+  "retailers": [
+    {
+      "name": "Lush",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iHIJ0V03uFQ",
+      "channel": "Owl & Ink",
+      "duration": 326.0,
+      "title": "Pip the Determined Penguin | Kids Stories | Owl & Ink"
+    },
+    {
+      "id": "67vR3O6bNoU",
+      "channel": "Rani Kahaniya ",
+      "duration": 200.0,
+      "title": "Kids Story|| Pip the Penguin's Extraordinary Adventure|| #cartoon #storytime"
+    },
+    {
+      "id": "JEZLSGIg_qw",
+      "channel": "Mimo Songs",
+      "duration": 132.0,
+      "title": "Little Penguin Pip Explores the World – Cute Kids Song"
+    },
+    {
+      "id": "esu5QB8iOSM",
+      "channel": "Candyelion",
+      "duration": 314.0,
+      "title": "LUSH Pip Gift Unboxing + Review"
+    },
+    {
+      "id": "CascChXEipQ",
+      "channel": "Frostbitten",
+      "duration": 211.0,
+      "title": "LUSH CHRISTMAS PENGUIN DEMO 2016 | FrostBitten"
+    }
+  ]
+}

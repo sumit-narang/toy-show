@@ -1,0 +1,42 @@
+{
+  "id": "2022-personalised-rag-doll-mischievous-maeve",
+  "year": 2022,
+  "name": "Personalised Rag Doll, Mischievous Maeve",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "Wowwee",
+      "url": "https://wowwee.ie/products/personalised-rag-doll-mischievous-maeve-our-newest-addition"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://wowwee.ie/products/personalised-rag-doll-mischievous-maeve-our-newest-addition",
+      "title": "Personalised Rag Doll - Mischievous Maeve",
+      "description": "Personalised Rag dolls at WowWee have personalities and characters for all children. Some children collect all of our dolls. They are well made and great to play with.",
+      "image": "http://wowwee.ie/cdn/shop/products/maeve.jpg?v=1767800065",
+      "ld_description": "[Gift Details]\n\nA sweet new companion for any child. Mischievous Maeve comes with her own dress, socks and shoes. Other outfits are also available to purchase and personalise\nAs seen on the Late Late Toy Show \nMischievous Maeve is 50cm tall\nChild's name beautifully embroidered on the doll's skirt (in a complementary thread) makes this an extra special gift\nCE Standard Tested\n\n[/Gift Details] [Finishing Touches]\n\nYour gift will arrive beautifully presented in a white, bespoke giftbox\nA WowWee gift card can be included with your personal message\nThe recipient is sure to feel special with a gift to remember\nAdd a Box of Chocolates to make this gift extra special\nWe never include any paperwork (invoices/packing slips etc.) with your gift\n\n[/Finishing Touches] [Delivery]\n\nDelivered to you or the recipient in 1-2 working days within Ireland\nDelivery charge within Ireland is €4.99 on your entire order when spending under €70\nEnjoy Free Delivery on all orders over €70 throughout Ireland\nDelivery to the UK is €10.50\nDelivery to Europe is €15.50\nDelivery to the Rest of the World is €20.00\nThe Delivery time for international orders can vary depending on the destination\n\n[/Delivery]",
+      "brand": "YIDU",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gHqfCWyj5nE",
+      "channel": "Fandom Frame Comics",
+      "duration": 36659.0,
+      "title": "Marvel Isekai: I Sell Trait Words Across the Multiverse."
+    },
+    {
+      "id": "L-SeWxg4JOY",
+      "channel": "Lancy After Dark ",
+      "duration": 912.0,
+      "title": "15-Minute Diaper Mind Control Loop🌀#fyp #mind #meditation #explore #hypnosis #fantasy #diapers"
+    }
+  ]
+}

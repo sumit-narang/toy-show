@@ -1,0 +1,64 @@
+{
+  "id": "2017-britains-gold-tractor",
+  "year": 2017,
+  "name": "Britains Gold Tractor",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KPNVR1e3VfY",
+      "channel": "Classic Tractor Fever",
+      "duration": 345.0,
+      "title": "Rare 1937 John Deere Model D Gold Leaf Tractor  - Classic Tractor Fever"
+    },
+    {
+      "id": "GO23lEgUQC4",
+      "channel": "Mubshair792 Vlogs",
+      "duration": 131.0,
+      "title": "Sona Ka Kaam Monthly Income | Gold Mining Machines Monthly Expense | Tractor Truck Rent in Pakistan"
+    },
+    {
+      "id": "3fNB6ovBHec",
+      "channel": "Malcolm Harrison Auctions Ltd",
+      "duration": 28.0,
+      "title": "1956 Ferguson 35 Gold Belly Tractor, Entered into Auction"
+    },
+    {
+      "id": "DRj4fFXwjgo",
+      "channel": "Discovery UK",
+      "duration": 581.0,
+      "title": "Parker Burns Through £20,000 A WEEK To Prepare New Claim | Gold Rush"
+    },
+    {
+      "id": "ui0NGnFmENo",
+      "channel": "Legacy Vehicles",
+      "duration": 53.0,
+      "title": "6\" Burrell Gold Medal Tractor. Convertible"
+    }
+  ]
+}

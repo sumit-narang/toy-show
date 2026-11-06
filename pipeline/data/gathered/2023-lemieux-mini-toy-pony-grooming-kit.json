@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-toy-pony-grooming-kit",
+  "year": 2023,
+  "name": "LeMieux Mini Toy Pony Grooming Kit",
+  "price_eur": 23.94,
+  "price_text": "€23.94",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Toy-Pony-Grooming-Kit/19IH?stock=58986"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Toy-Pony-Grooming-Kit/19IH?stock=58986",
+      "title": "Mini LeMieux Toy Pony Grooming Kit",
+      "description": "Mini LeMieux Pony Grooming Kit\n\nFor LeMieux Toy Pony\n\nKeep your Mini LeMieux Pony brushed, clean and ready for action with this perfect miniture grooming...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GLO/1000/1000/mini-lemieux-grooming-kit-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HmuU1Gia0jQ",
+      "channel": "LeMieux Toy Ponies",
+      "duration": 320.0,
+      "title": "Dressage qualifier with Skye!! DID WE WIN?!?! | LeMieux Toy Ponies"
+    },
+    {
+      "id": "ciAVRh8Rp-k",
+      "channel": "Lundemøllen Rideudstyr",
+      "duration": 16.0,
+      "title": "Skønneste Thomas Mini Pony fra LeMieux med trense og fleecedækken💗✨ Hos Lundemøllen"
+    },
+    {
+      "id": "gAKWDIgw-Cs",
+      "channel": "Evie’s Mini LeMiuex Toy Ponies ",
+      "duration": 46.0,
+      "title": "My tacking up routine with popcorn!! ❤️#rp #toypony"
+    },
+    {
+      "id": "7mxJpWLCCms",
+      "channel": "AliyahViolet",
+      "duration": 374.0,
+      "title": "HORSE SHOPPING with my MINI LEMIEUX PONY FLASH - UPGRADING HER FIELD"
+    },
+    {
+      "id": "FyqIJ-RoiSw",
+      "channel": "𝐎𝐀𝐊 𝐅𝐈𝐄𝐋𝐃 𝐒𝐓𝐀𝐁𝐋𝐄𝐒",
+      "duration": 274.0,
+      "title": "New LeMieux AW26 Toy Pony Leaks!! ⛅️ ࣪  || Sneak Peak of LeMieux New Collection"
+    }
+  ]
+}

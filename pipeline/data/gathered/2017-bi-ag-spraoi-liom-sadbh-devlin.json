@@ -1,0 +1,52 @@
+{
+  "id": "2017-bi-ag-spraoi-liom-sadbh-devlin",
+  "year": 2017,
+  "name": "Bi Ag Spraoi Liom Sadbh Devlin",
+  "price_eur": 7.96,
+  "price_text": "€7.96",
+  "retailers": [
+    {
+      "name": "Futa Fata",
+      "url": null
+    },
+    {
+      "name": "Omahonys.ie",
+      "url": null
+    },
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1LajT18X1gY",
+      "channel": "Wicklow Arts Office",
+      "duration": 521.0,
+      "title": "Bí ag Spraoi Liom! le Sadhbh Devlin"
+    },
+    {
+      "id": "JmzSJHVQAnM",
+      "channel": "Libraries Ireland",
+      "duration": 280.0,
+      "title": "'Bí ag Spraoi Liom!' Á léamh ag Caoimhe Ní Chathail"
+    },
+    {
+      "id": "IRfDtvkcBo0",
+      "channel": "Altram ",
+      "duration": 379.0,
+      "title": "Bí ag spraoi Liom"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2023-fingerlings",
+  "year": 2023,
+  "name": "Fingerlings",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/brands/fingerlings/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fingerlings/",
+      "title": "Fingerlings | Arnotts",
+      "description": "Arnotts",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qN2qkeG97F0",
+      "channel": "Fingerlings",
+      "duration": 1274.0,
+      "title": "Fingerlings Tales | What Happens When The Glitter Fingerlings Cry? | Kids Cartoons"
+    },
+    {
+      "id": "Wzu53GbSCAg",
+      "channel": "Fingerlings",
+      "duration": 1252.0,
+      "title": "Fingerlings Tales | The Glitter Fingerlings Get Angry On Camera! | Kids Cartoons"
+    },
+    {
+      "id": "ytu24tdUszU",
+      "channel": "Fingerlings",
+      "duration": 2508.0,
+      "title": "Fingerlings at School  | The Fingerlings Show | WowWee Dream Team Fingerlings Toys"
+    },
+    {
+      "id": "i-lqKDAqaVY",
+      "channel": "Fingerlings",
+      "duration": 1559.0,
+      "title": "Freaks Out! | Gigi the Unicorn | Fingerlings Tales | Kids Cartoons"
+    },
+    {
+      "id": "_LoEQly1BfA",
+      "channel": "Fingerlings",
+      "duration": 944.0,
+      "title": "Fingerlings Tales | Too Much Candy For Gigi The Unicorn? | Kids Cartoons"
+    }
+  ]
+}

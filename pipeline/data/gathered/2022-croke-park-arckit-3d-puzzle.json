@@ -1,0 +1,29 @@
+{
+  "id": "2022-croke-park-arckit-3d-puzzle",
+  "year": 2022,
+  "name": "Croke Park Arckit 3D Puzzle",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke%20park&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke%20park&_ss=e&_v=1.0",
+      "title": "Croke Park 3D Puzzle",
+      "description": "Croke Park GAA Stadium – 3D Puzzle This superb replica stadium puzzle is perfect for GAA fans aged seven to 70!  This 3D model of Croke Park stadium can be recreated in spectacular colour and detail in around two hours without the need for scissors, tools or glue making it a must for GAA fans. The puzzle contains 135 p",
+      "image": "http://banbatoys.ie/cdn/shop/products/01_0b718455-13b6-429c-9185-addb4e516215.jpg?v=1671301250",
+      "ld_description": "Croke Park GAA Stadium – 3D Puzzle\n\nThis superb replica stadium puzzle is perfect for GAA fans aged seven to 70!  This 3D model of Croke Park stadium can be recreated in spectacular colour and detail in around two hours without the need for scissors, tools or glue making it a must for GAA fans.\nThe puzzle contains 135 pieces and the finished stadium measures 38cm x 34cm x 9cm.\n\nThis product is an official licensed product of the GAA.\nCroke Park is a Gaelic games stadium in Dublin, Ireland. Named after Archbishop Thomas Croke, it is sometimes called Croker by GAA fans and locals. It serves as both the principal national stadium of Ireland and headquarters of the Gaelic Athletic Association (GAA). Since 1891 the site has been used by the GAA to host Gaelic sports, including the annual All-Ireland in Gaelic football and hurling.\nA major expansion and redevelopment of the stadium ran from 1991 to 2005, raising capacity to its current 82,300 spectators.This makes Croke Park the third-largest stadium in Europe, and the largest not usually used for association football in Europe.\n\n\nWarnings: Not suitable for children under 36 months, small parts, choking hazard.",
+      "brand": "MCC STOCK SOLUTIONS",
+      "ld_image": "https://banbatoys.ie/cdn/shop/products/01_0b718455-13b6-429c-9185-addb4e516215.jpg?v=1671301250&width=1920"
+    }
+  ],
+  "video_candidates": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-scrabble-jr-puzal",
+  "year": 2020,
+  "name": "Scrabble Jr Puzal",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Glór na nGael/Gaelchultúr",
+      "url": "https://www.udar.ie/product/junior-scrabble/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VhbZ0LlYQM8",
+      "channel": "Jun Pena",
+      "duration": 196.0,
+      "title": "Unboxing - Scrabble Junior Crossword Game"
+    },
+    {
+      "id": "MUHM8UTro-Y",
+      "channel": "Zeon Tech",
+      "duration": 57.0,
+      "title": "HASBRO SCRABBLE JUNIOR CROSSWORD GAME"
+    },
+    {
+      "id": "KYuQvaHZQO4",
+      "channel": "Tabletop Duo",
+      "duration": 147.0,
+      "title": "How to Play Scrabble Junior Complete Rules for Beginners and Advanced Level"
+    },
+    {
+      "id": "lHTDReZ_yGE",
+      "channel": "AmassGames",
+      "duration": 298.0,
+      "title": "Scrabble Junior how to setup play and review children's word game by * AmassGames * Mattel Codenames"
+    },
+    {
+      "id": "rJLPHVUYwOU",
+      "channel": "Dugongue",
+      "duration": 175.0,
+      "title": "Scrabble Junior (GBA) (Easy) Speedrun in 2:51"
+    }
+  ]
+}

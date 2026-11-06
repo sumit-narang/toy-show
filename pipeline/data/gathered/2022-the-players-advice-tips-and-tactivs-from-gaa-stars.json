@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-players-advice-tips-and-tactivs-from-gaa-stars",
+  "year": 2022,
+  "name": "The Players' Advice: Tips and Tactivs from GAA Stars",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "41khN86KxvI",
+      "channel": "Unisport",
+      "duration": 430.0,
+      "title": "What young players NEED to make it - Jürgen Klopp Advice"
+    },
+    {
+      "id": "LewjrBRG7Ws",
+      "channel": "Badminton Insight",
+      "duration": 676.0,
+      "title": "8 Basic Singles Tactics You NEED TO KNOW"
+    },
+    {
+      "id": "GnQNexHJvEE",
+      "channel": "Gent's Talk Podcast",
+      "duration": 2956.0,
+      "title": "Daniel Negreanu: Discipline Over Luck | Pro Poker Tips"
+    },
+    {
+      "id": "T8GaQhVpbJg",
+      "channel": "Remote Chess Academy",
+      "duration": 932.0,
+      "title": "Carlsen's 10 Simple Rules to Win [Copy His Easy Strategy]"
+    },
+    {
+      "id": "J-7_RbF1USU",
+      "channel": "Remote Chess Academy",
+      "duration": 780.0,
+      "title": "10 Simple Rules to Become Better Than 95% of Chess Players"
+    }
+  ]
+}

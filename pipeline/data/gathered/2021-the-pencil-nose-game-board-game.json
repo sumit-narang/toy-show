@@ -1,0 +1,54 @@
+{
+  "id": "2021-the-pencil-nose-game-board-game",
+  "year": 2021,
+  "name": "The Pencil Nose Game Board Game",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/tb10900?_pos=1&_psq=the%20pencil%20nose%20game&_ss=e&_v=1.0&variant=38044950200494"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/tb10900?_pos=1&_psq=the%20pencil%20nose%20game&_ss=e&_v=1.0&variant=38044950200494"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "001oXJR7ibI",
+      "channel": "Lucky Penny Shop",
+      "duration": 611.0,
+      "title": "How To Play The Game The Pencil Nose Family Game!"
+    },
+    {
+      "id": "ovnsexZP8hI",
+      "channel": "Fat Brain Toy Co.",
+      "duration": 61.0,
+      "title": "Pencil Nose"
+    },
+    {
+      "id": "QvVNvpJl7uA",
+      "channel": "CR Toys, Kearney NE",
+      "duration": 129.0,
+      "title": "Pencil Nose by Fat Brain!"
+    },
+    {
+      "id": "0lK0h1GO8ks",
+      "channel": "vat19two",
+      "duration": 126.0,
+      "title": "Vat19 tests the Pencil Nose game | Let's Play!"
+    },
+    {
+      "id": "0VhUUG6554M",
+      "channel": "Fat Brain Toys",
+      "duration": 61.0,
+      "title": "Pencil Nose"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2025-plufsig-folding-gym-mat",
+  "year": 2025,
+  "name": "PLUFSIG folding gym mat",
+  "price_eur": 29.0,
+  "price_text": "€29",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/p/plufsig-folding-gym-mat-pink-red-50552273/?msockid=17596f36e84866e63b7e795ee93f673d"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/p/plufsig-folding-gym-mat-pink-red-50552273/?msockid=17596f36e84866e63b7e795ee93f673d",
+      "title": "PLUFSIG folding gym mat, pink/red, 78x185 cm  - IKEA Ireland",
+      "description": "PLUFSIG folding gym mat, pink/red, 78x185 cm Little acrobats can practice somersaults, vaults and jumping as much as they like on this soft foldable gym mat. That they also develop motor skills and coordination is something only us adults know. Folds flat; space-saving when not in use.",
+      "image": "https://www.ikea.com/ie/en/images/products/plufsig-folding-gym-mat-pink-red__1151611_pe884962_s5.jpg",
+      "ld_description": "PLUFSIG Folding gym mat - pink/red 78x185 cm. Let your little one play and practise walking on this mat, the padding will make the landing from any falls a little softer. Folds flat; space-saving when not in use. Only recommended for indoor use. Recommended for ages from 18 months.",
+      "brand": "IKEA",
+      "ld_image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/ie/en/images/products/plufsig-folding-gym-mat-pink-red__1151611_pe884962_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nu4-dIRB7eY",
+      "channel": "IKEAHongKong",
+      "duration": 25.0,
+      "title": "PLUFSIG 摺疊式體操墊｜產品示範｜IKEA Hong Kong"
+    },
+    {
+      "id": "NaWWf9ze4pc",
+      "channel": "MyLoor",
+      "duration": 107.0,
+      "title": "IKEA PLUFSIG Folding gym mat"
+    },
+    {
+      "id": "yokZu8BFxoc",
+      "channel": "KM Gymnastics",
+      "duration": 189.0,
+      "title": "Ikea mat review"
+    },
+    {
+      "id": "RWcJg6mhgYo",
+      "channel": "Paul Forestiero ",
+      "duration": 130.0,
+      "title": "IKEA Foldable Soft Play Mat Freecycle Find 2023"
+    },
+    {
+      "id": "294cnlD3O8g",
+      "channel": "bailey elizabeth",
+      "duration": 250.0,
+      "title": "IKEA Plufsig Mat Review!"
+    }
+  ]
+}

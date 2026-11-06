@@ -1,0 +1,36 @@
+{
+  "id": "2025-lumina-sensory-mood-egg",
+  "year": 2025,
+  "name": "Lumina Sensory Mood Egg",
+  "price_eur": 123.0,
+  "price_text": "€123,00",
+  "retailers": [
+    {
+      "name": "Learning Space",
+      "url": "https://learningspace.ie/products/sensory-mood-egg-colour-changing-light"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://learningspace.ie/products/sensory-mood-egg-colour-changing-light",
+      "title": "Lumina Sensory Mood Egg Colour Changing Light - Large",
+      "description": "Transform your space with the Sensory Mood Egg Light! 16 soothing colours, remote control & rechargeable. Ideal for sensory rooms. Order now for calm & play!",
+      "image": "https://cdn.shopify.com/s/files/1/0649/0688/7411/files/Lumina-Sensory-Mood-Egg-Colour-Changing-Light-Large.jpg?v=1764897772",
+      "ld_description": "An Egg-straordinary Addition to Your Sensory Space!\nStep into a world of calm and colour with the Sensory Mood Egg Colour Changing Light – Large. This glowing, oversized egg doesn’t just light up the room—it transforms it. Designed with sensory rooms, schools, and cosy home corners in mind, this beautifully crafted light brings a sense of serenity and wonder wherever it lands. Whether it’s used in a dark den, a calming corner in the classroom, or as the centrepiece of sensory play, this egg is bound to crack open some joy.\nWith 16 stunning colours to choose from, it’s the perfect tool for visual stimulation, mood regulation, and collaborative exploration. Watch it fade smoothly through the colour spectrum or pick a favourite shade using the included remote control. Lightweight yet sturdy, it's great for group activities or one-on-one quiet time.\n\nFeatures\n\n\n16 Colour Options + Fading ModeCycle through a rainbow of colours or let it gently fade from one hue to another. The remote control makes adjusting the light a breeze.\n\n\nTactile, Lightweight DesignDurable enough for everyday use, yet light enough to move between rooms. Ideal for flexible learning environments and pack-away setups.\n\n\nSupports Sensory DevelopmentEnhances visual tracking, supports calm and focus, and encourages exploration of colour and light.\n\n\nPerfect for Collaborative PlayLarge enough for group interaction and cooperative sensory activities—great for classrooms, nurseries, and sensory rooms.\n\n\nVersatile Us",
+      "brand": "Commotion",
+      "ld_image": "//learningspace.ie/cdn/shop/files/Lumina-Sensory-Mood-Egg-Colour-Changing-Light-Large.jpg?v=1764897772&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VQotXiURLK8",
+      "channel": "MERYROSE ASMR",
+      "duration": 781.0,
+      "title": "BABYCORNS Magicel Rainbocorns Babies Unboxing — Cute Toys, Oddly Satisfying & Relaxing ASMR Video"
+    }
+  ]
+}

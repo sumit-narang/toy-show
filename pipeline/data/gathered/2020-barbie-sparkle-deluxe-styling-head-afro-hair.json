@@ -1,0 +1,54 @@
+{
+  "id": "2020-barbie-sparkle-deluxe-styling-head-afro-hair",
+  "year": 2020,
+  "name": "Barbie Sparkle Deluxe Styling Head, Afro Hair",
+  "price_eur": 50.99,
+  "price_text": "€50.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/barbie-sparkle-deluxe-styling-head-afro-hair/1600386784.prd?_requestid=1059106&Ntt=styling%20head"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/barbie-sparkle-deluxe-styling-head-afro-hair/1600386784.prd?_requestid=1059106&Ntt=styling%20head"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VJOU215zBdo",
+      "channel": "Josephine Gomez",
+      "duration": 390.0,
+      "title": "BARBIE GLITTER HAIR DELUXE STYLING HEAD!!!!!"
+    },
+    {
+      "id": "ZXzeZR6iRBg",
+      "channel": "MyFroggyStuff",
+      "duration": 512.0,
+      "title": "Barbie Color & Style Deluxe Styling Head PLUS Fabulous NEW Curly Hair Texture"
+    },
+    {
+      "id": "lFCF2KvdOgw",
+      "channel": "Nathena Antoinette",
+      "duration": 525.0,
+      "title": "Barbie Color & Style Deluxe Styling Head | S2E16"
+    },
+    {
+      "id": "ObC9CTVuVRM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 64.0,
+      "title": "Barbie Styling Heads from Just Play"
+    },
+    {
+      "id": "RNkP17gIQ4U",
+      "channel": "Ronnie Rico",
+      "duration": 26.0,
+      "title": "Barbie - Deluxe Styling Head Just Play Full HD"
+    }
+  ]
+}

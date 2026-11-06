@@ -1,0 +1,54 @@
+{
+  "id": "2019-12v-ride-on-remote-control-fire-engine-truck-toy-car-with-eva-rubber-wheels-and-",
+  "year": 2019,
+  "name": "12V Ride On Remote Control Fire Engine / Truck Toy Car With EVA Rubber Wheels And Accessories",
+  "price_eur": 249.95,
+  "price_text": "€249.95",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://www.funstuff.ie/12v-ride-on-remote-control-fire-engine-truck-toy-car-with-eva-rubber-wheels-and-accessories/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.funstuff.ie/ride-on-toys/fire-engine-12v-electric-ride-on-truck-red/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vIHKICe5oiY",
+      "channel": "RiiRoo",
+      "duration": 90.0,
+      "title": "Toyota Hilux Ruggedx 12v Battery Electric Ride-on Car"
+    },
+    {
+      "id": "cFeKLZP23pA",
+      "channel": "The Khan Life",
+      "duration": 395.0,
+      "title": "24V Can-Am Maverick Ride on for kids!"
+    },
+    {
+      "id": "voTSKKgeVSk",
+      "channel": "Legit Finds",
+      "duration": 115.0,
+      "title": "FirstRideOn: A RAM electric kids ride on?!? Honest Review"
+    },
+    {
+      "id": "_NERsChDVn0",
+      "channel": "Voltz Toys",
+      "duration": 49.0,
+      "title": "Jeep Truck｜2-Seater Electric Ride On｜VoltzToys"
+    },
+    {
+      "id": "AMnNunxIuug",
+      "channel": "Outside Play",
+      "duration": 279.0,
+      "title": "24v Kids Ride On Truck and Trailer Electric Toy Car | Outside Play"
+    }
+  ]
+}

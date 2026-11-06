@@ -1,0 +1,54 @@
+{
+  "id": "2021-electric-moving-target-game",
+  "year": 2021,
+  "name": "Electric Moving Target Game",
+  "price_eur": 99.0,
+  "price_text": "€99.00",
+  "retailers": [
+    {
+      "name": "Lifty Electrics",
+      "url": "https://www.lifty.ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "SSLError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CWQKsDJifac",
+      "channel": "ShoppingDragons",
+      "duration": 619.0,
+      "title": "Showcasing IDock Electric Moving Shooting Target Game"
+    },
+    {
+      "id": "tYPYNgQEy-g",
+      "channel": "Bradley Phillips",
+      "duration": 229.0,
+      "title": "LighTake Electric Scoring Target Review"
+    },
+    {
+      "id": "RRYCRqnmVAo",
+      "channel": "Clyde Santos",
+      "duration": 402.0,
+      "title": "TGT moving targets - cool target system for practical shooting  #nerf #airsoft"
+    },
+    {
+      "id": "k1uRqA0I1CE",
+      "channel": "DEAO TOYS",
+      "duration": 54.0,
+      "title": "deAO Digital Moving Target for Nerf Guns Shooting Game Toys Changeable Speed Adjustable Track -TGG"
+    },
+    {
+      "id": "KcdR0ghpYbk",
+      "channel": "MongooseJake",
+      "duration": 393.0,
+      "title": "Moving Nerf Target Review"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-sticki-rolls-rolluxe-handbag-and-jewellery-making-kit",
+  "year": 2025,
+  "name": "Sticki Rolls Rolluxe Handbag and Jewellery Making Kit",
+  "price_eur": 47.99,
+  "price_text": "€47.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/sticki-rolls-sticki-rolls-sticki-rolluxe-handbag-and-jewellery-making-kit/1601183517.prd"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/sticki-rolls-sticki-rolls-sticki-rolluxe-handbag-and-jewellery-making-kit/1601183517.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sm_o0lRM3L0",
+      "channel": "Miss Artie Craftie",
+      "duration": 133.0,
+      "title": "DIY Sticker Bracelets ✨💎 Sticki Rolls Sticki Rolluxe Handbag and Jewellery Making Kit #Gifted"
+    },
+    {
+      "id": "uEqqL99SyNM",
+      "channel": "Tallie's Tricks",
+      "duration": 496.0,
+      "title": "Sticki Rolls Rolluxe Series 3"
+    },
+    {
+      "id": "jRi78p0P2iE",
+      "channel": "ReviewsByCreaTvDIY",
+      "duration": 70.0,
+      "title": "STICKI Rolls Sticki Book & Bracelet Set (120 stickers):  EVERYTHING You Get Plus SECRET BONUSES!"
+    },
+    {
+      "id": "2fJY2vH2D9Q",
+      "channel": "VIVIZONE",
+      "duration": 2665.0,
+      "title": "ASMR Sticki Rolls Mega Unboxing 😻 44+ Minutes | 1000+ Holographic Stickers | No Talking"
+    },
+    {
+      "id": "Wfm-K6a7FlM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 105.0,
+      "title": "Sticker All The Things With Sticki Rolls Series 2!"
+    }
+  ]
+}

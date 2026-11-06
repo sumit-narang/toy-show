@@ -1,0 +1,54 @@
+{
+  "id": "2020-casdon-dyson-toy-cordless-vacuum",
+  "year": 2020,
+  "name": "Casdon Dyson Toy Cordless Vacuum",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 500,
+      "final_url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0SVRBWFIeFc",
+      "channel": "ibaisaic",
+      "duration": 526.0,
+      "title": "Dyson V8 Cord Free Toy Vacuum By Casdon. Unboxing & Demonstration"
+    },
+    {
+      "id": "EBs8u4RzuNg",
+      "channel": "Actually Helpful Reviews",
+      "duration": 151.0,
+      "title": "Testing the Casdon Dyson Cordless Vacuum – Best Role-Play Toy?"
+    },
+    {
+      "id": "hrAOY96alMo",
+      "channel": "TRF Product Reviews",
+      "duration": 175.0,
+      "title": "Casdon 68702 Dyson Cordless Vacuum Toy Review - Is It Worth It?"
+    },
+    {
+      "id": "TQ0as517cjI",
+      "channel": "ibaisaic",
+      "duration": 1081.0,
+      "title": "Casdon Dyson Detect Vacuum Cleaner Unboxing & Demonstration"
+    },
+    {
+      "id": "XlhLd9bS7oE",
+      "channel": "TheRoneReview",
+      "duration": 174.0,
+      "title": "Casdon Dyson Toy Vacuum Demo & Review"
+    }
+  ]
+}

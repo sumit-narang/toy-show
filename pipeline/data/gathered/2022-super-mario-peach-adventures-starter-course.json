@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-peach-adventures-starter-course",
+  "year": 2022,
+  "name": "Super Mario Peach Adventures Starter Course",
+  "price_eur": 60.0,
+  "price_text": "€60",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/adventures-with-peach-starter-course-71403"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/adventures-with-peach-starter-course-71403"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "70SKGHS9hGk",
+      "channel": "All New Bricks",
+      "duration": 291.0,
+      "title": "Lego Super Mario 71403 Adventures with Peach Starter Course"
+    },
+    {
+      "id": "lu-DO2hCEzw",
+      "channel": "週末ひとりレゴ",
+      "duration": 193.0,
+      "title": "【NEW】Adventures with Interactive LEGO® Peach™ 71441 LEGO SUPER MARIO レゴピーチとぼうけん！"
+    },
+    {
+      "id": "IK8SoysYYL8",
+      "channel": "Jayce Patrick",
+      "duration": 922.0,
+      "title": "Lego Peach Starter Course - Ultimate Review and Play!!!!!!!!!!"
+    },
+    {
+      "id": "dzgLkbfHMsQ",
+      "channel": "週末ひとりレゴ",
+      "duration": 593.0,
+      "title": "【All new adventure set】 LEGO®Mario & Luigi & Peach"
+    },
+    {
+      "id": "91SczHVJQ_0",
+      "channel": "週末ひとりレゴ",
+      "duration": 410.0,
+      "title": "【New and Old】Adventures with Interactive LEGO® Peach™ 71441 Adventures with Peach 71403"
+    }
+  ]
+}

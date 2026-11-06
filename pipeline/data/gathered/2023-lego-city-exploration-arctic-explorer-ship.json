@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-exploration-arctic-explorer-ship",
+  "year": 2023,
+  "name": "LEGO City Exploration Arctic Explorer Ship",
+  "price_eur": 169.99,
+  "price_text": "€169.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-exploration-arctic-explorer-ship-60368-7301879"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-exploration-arctic-explorer-ship-60368-7301879"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cF4z27AQykw",
+      "channel": "All New Bricks",
+      "duration": 468.0,
+      "title": "Lego City 60368 Arctic Explorer Ship Speed Build"
+    },
+    {
+      "id": "zeIlMIE6QlY",
+      "channel": "AustrianBrickFan",
+      "duration": 1028.0,
+      "title": "LEGO City 60368 Arctic Research Ship - LEGO Speed Build Review"
+    },
+    {
+      "id": "Fe-VfkyotI0",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 1072.0,
+      "title": "LEGO City Arctic Explorer Ship set 60368 independent review! Their largest floating boat, Ever"
+    },
+    {
+      "id": "SQ5-LP_Pxn0",
+      "channel": "MADABOUTLEGO",
+      "duration": 395.0,
+      "title": "LEGO City Arctic Explorer Ship 60368."
+    },
+    {
+      "id": "eANYppxAFHw",
+      "channel": "Brick & Gear",
+      "duration": 887.0,
+      "title": "I motorized the LEGO Arctic Explorer Ship"
+    }
+  ]
+}

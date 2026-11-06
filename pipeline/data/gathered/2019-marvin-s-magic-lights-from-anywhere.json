@@ -1,0 +1,54 @@
+{
+  "id": "2019-marvin-s-magic-lights-from-anywhere",
+  "year": 2019,
+  "name": "Marvin's Magic Lights From Anywhere",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/kids/toys-games/creativity/marvins-magic/lights-from-anywhere/135526587.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/creativity/marvins-magic/lights-from-anywhere/135526587.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0D4ZnEqg7FE",
+      "channel": "Hey Presto",
+      "duration": 125.0,
+      "title": "Marvin's Magic Lights From Anywhere Original Promo"
+    },
+    {
+      "id": "zhu1pT4Ce0U",
+      "channel": "Hamleys Training",
+      "duration": 562.0,
+      "title": "Lights from Anywhere Demonstration Video"
+    },
+    {
+      "id": "PAVHPi_sSnw",
+      "channel": "ToyNews",
+      "duration": 41.0,
+      "title": "Marvin's Magic Lights From Anywhere demo"
+    },
+    {
+      "id": "dNXsMfmzMso",
+      "channel": "Marvin's Magic",
+      "duration": 61.0,
+      "title": "MARVIN'S MAGIC - Lights from Anywhere tricks"
+    },
+    {
+      "id": "GwigTMFC3wY",
+      "channel": "Marvin's Magic",
+      "duration": 45.0,
+      "title": "Lights From Anywhere Advert"
+    }
+  ]
+}

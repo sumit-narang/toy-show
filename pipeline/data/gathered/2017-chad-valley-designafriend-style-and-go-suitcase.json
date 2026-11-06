@@ -1,0 +1,54 @@
+{
+  "id": "2017-chad-valley-designafriend-style-and-go-suitcase",
+  "year": 2017,
+  "name": "Chad Valley Designafriend Style and Go Suitcase",
+  "price_eur": 60.49,
+  "price_text": "€60.49",
+  "retailers": [
+    {
+      "name": "Argosfor",
+      "url": "http://www.argos.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/features/republic-of-ireland"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BhFeaQAWW0I",
+      "channel": "DesignaFriend",
+      "duration": 24.0,
+      "title": "Let's take a look at the NEW DesignaFriend dolls! AW23"
+    },
+    {
+      "id": "EfUO1wwY-qo",
+      "channel": "DesignaFriend",
+      "duration": 927.0,
+      "title": "DesignaFriend Fashion and Activity Workshop - Salon backdrop"
+    },
+    {
+      "id": "3r_sKxgQGb4",
+      "channel": "DesignaFriend",
+      "duration": 46.0,
+      "title": "DesignaFriend Fashion and Activity Workshop - Easter Week"
+    },
+    {
+      "id": "FtUgoi1nzgU",
+      "channel": "RubyandBonnie",
+      "duration": 389.0,
+      "title": "Granny's Surprise Present! Ruby & Bonnie play with new dolls and toys"
+    },
+    {
+      "id": "PPISbkDVE-s",
+      "channel": "Toy Unboxing House",
+      "duration": 105.0,
+      "title": "Barbie Glam Boat - Argos Toy Unboxing"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2024-hug-a-lumps-weighted-plush",
+  "year": 2024,
+  "name": "Hug-A-Lumps Weighted Plush",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "McGillicuddy's Toyshop",
+      "url": "https://mcgillicuddystoyshop.ie/shop/p/hug-a-lumps"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://mcgillicuddystoyshop.ie/shop/p/hug-a-lumps"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AZ45cDp5RwI",
+      "channel": "Honest Mom Finds",
+      "duration": 16.0,
+      "title": "Hug-A-Lumps Weighted Plush by ZURU Review | Is It Worth It?"
+    },
+    {
+      "id": "9TCV2VVm-iQ",
+      "channel": "MAMAW'S UNIQUE TOY REVIEWS",
+      "duration": 438.0,
+      "title": "\"MY 3.3LB PANDA CAME ALIVE?! (Zuru HugaLumps Unboxing)\""
+    },
+    {
+      "id": "XjjFYnJWOlU",
+      "channel": "MAMAW'S UNIQUE TOY REVIEWS",
+      "duration": 402.0,
+      "title": "\"Mamaw's Honest Hugalump Review: Medium vs Small Capybara!\""
+    },
+    {
+      "id": "eVuLZYkefCQ",
+      "channel": "Sleepopolis",
+      "duration": 337.0,
+      "title": "Best Weighted Stuffed Animals - Our Top 5 Picks!"
+    },
+    {
+      "id": "K0ryze5DTXU",
+      "channel": "QVC",
+      "duration": 542.0,
+      "title": "Hugimals 4.5Lb Large Weighted Stuffed Animal on QVC"
+    }
+  ]
+}

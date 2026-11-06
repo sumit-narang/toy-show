@@ -1,0 +1,60 @@
+{
+  "id": "2019-our-planet",
+  "year": 2019,
+  "name": "Our Planet",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/our-planet-alastair-fothergill-9780593079768"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/our-planet-alastair-fothergill-9780593079768",
+      "title": "Buy Our Planet Book at Easons",
+      "description": "HAPPY BIRTHDAY DAVID ATTENBOROUGH!  'The future of all life on this earth depends on our willingness to take action now' David Attenborough  The official companion to the ground-breaking Netflix original series.  With a foreword by Sir David Attenborough,",
+      "image": null,
+      "ld_description": "HAPPY BIRTHDAY DAVID ATTENBOROUGH!  'The future of all life on this earth depends on our willingness to take action now' David Attenborough  The official companion to the ground-breaking Netflix original series.  With a foreword by Sir David Attenborough, breathtakingly beautiful still photography, specially commissioned maps and graphics, and compelling text expanding on the remarkable TV stories and giving the reader a depth of information that is impossible on screen, this companion book presents a whole new view of the place we call home.  Featuring some of the world's rarest creatures and previously unseen parts of the Earth from deep oceans to remote forests to ice caps, Our Planet takes nature-lovers deep into the science of our natural world.  Revealing the most amazing sights on Earth in unprecedented ways, alongside stories of the ways humans are affecting the world's ecosystems, from the wildebeest migrations in Africa to the penguin colonies of Antarctica, this book captures in one concise narrative a fundamental message:  If we don't act now to protect and preserve our planet, the beauty we're lucky enough to witness on these pages will have disappeared . . .  'This book is part of a vital global conversation about protecting and preserving the planet.' Compass Magazine",
+      "brand": "Bantam Press",
+      "ld_image": "https://www.easons.com/images/asset/9b1512bd-a851-42f0-b48e-95801709973e/9780593079768_5642092603.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "r9PeYPHdpNo",
+      "channel": "Netflix",
+      "duration": 2988.0,
+      "title": "Our Planet | Coastal Seas | FULL EPISODE | Netflix"
+    },
+    {
+      "id": "um2Q9aUecy0",
+      "channel": "Netflix",
+      "duration": 3058.0,
+      "title": "Our Planet | Jungles | FULL EPISODE | Netflix"
+    },
+    {
+      "id": "QvETyBh4OsI",
+      "channel": "The Unseen Earth",
+      "duration": 10813.0,
+      "title": "BLUE PLANET | A Journey Through The Living Ocean | FULL EPISODE | 4K Documentary"
+    },
+    {
+      "id": "XmtXC_n6X6Q",
+      "channel": "Netflix",
+      "duration": 3055.0,
+      "title": "Our Planet | From Deserts to Grasslands | FULL EPISODE | Netflix"
+    },
+    {
+      "id": "EYJm7hIYLSU",
+      "channel": "Free Documentary - Nature",
+      "duration": 12169.0,
+      "title": "David Attenborough: Nature’s Most Fascinating Creatures | Free Documentary Nature"
+    }
+  ]
+}

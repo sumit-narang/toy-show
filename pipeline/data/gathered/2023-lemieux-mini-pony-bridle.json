@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-pony-bridle",
+  "year": 2023,
+  "name": "LeMieux Mini Pony Bridle",
+  "price_eur": 29.94,
+  "price_text": "€29.94",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Pony-Bridle/19IK?stock=58989"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Bridle-Black/19IK?stock=58989",
+      "title": "Toy Pony Bridle - Black",
+      "description": "Toy Pony Bridle - Black\n\t\t\t\n\t\t\n\t\n\n\nFor LeMieux Toy Pony\n\nPractice tacking up with this 'real design' bridle complete with metal bit...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GLU/1000/1000/mini-lemieux-pony-bridle-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tRcHlQnaTmY",
+      "channel": "𝐀𝐥𝐰𝐚𝐲𝐬 𝐓𝐨𝐲 𝐏𝐨𝐧𝐢𝐞𝐬",
+      "duration": 456.0,
+      "title": "After School Routine With The Lemieux Toy Ponies!!!✨️📚|| Always Toy Ponies"
+    },
+    {
+      "id": "Vry3ASUyY8c",
+      "channel": "Angel Wings Equestrian",
+      "duration": 512.0,
+      "title": "Take Coco On A Morning Ride With Me"
+    },
+    {
+      "id": "XRQdkKspRd4",
+      "channel": "Angel Wings Equestrian",
+      "duration": 481.0,
+      "title": "Take Care of Lemon With Me"
+    },
+    {
+      "id": "uqH7emqH7i8",
+      "channel": "Angel Wings Equestrian",
+      "duration": 102.0,
+      "title": "How to Put on a LeMieux Toy Pony Bridle"
+    },
+    {
+      "id": "lnct1-iKmX8",
+      "channel": "My mini pony world",
+      "duration": 520.0,
+      "title": "🎀 NEW RIDING HAT REVEAL + FIRST RIDE ON MY NEW PONY 🐴💖 @Myminiponyworld"
+    }
+  ]
+}

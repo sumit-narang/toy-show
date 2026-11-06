@@ -1,0 +1,54 @@
+{
+  "id": "2020-chef-puppet",
+  "year": 2020,
+  "name": "Chef Puppet",
+  "price_eur": 24.0,
+  "price_text": "€24.00",
+  "retailers": [
+    {
+      "name": "Duffy's Toy World",
+      "url": "https://www.duffystoyworld.ie/product-page/chef-puppet"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://duffystoyworld.ie/product-page/chef-puppet"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "B7UmUX68KtE",
+      "channel": "The Muppets",
+      "duration": 219.0,
+      "title": "Pöpcørn | Recipes with The Swedish Chef | The Muppets"
+    },
+    {
+      "id": "RHRhmrKCteY",
+      "channel": "Howard's Tech Blog",
+      "duration": 172.0,
+      "title": "Unboxing Dad Chef Puppet from Sunny Toys Vlog 106"
+    },
+    {
+      "id": "ILhMiELrhMY",
+      "channel": "THE CHEF PUPPET OFFICIAL",
+      "duration": 1190.0,
+      "title": "TCP video: The Polar Express! (Old Version)"
+    },
+    {
+      "id": "_TVNCTK808I",
+      "channel": "Simplilearn",
+      "duration": 844.0,
+      "title": "Chef vs Puppet vs Ansible vs Saltstack | Configuration Management Tools | DevOps Tools | Simplilearn"
+    },
+    {
+      "id": "dXWmc3NRa7U",
+      "channel": "snafudance",
+      "duration": 407.0,
+      "title": "BABY PUPPET COOKING SHOW"
+    }
+  ]
+}

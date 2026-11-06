@@ -1,0 +1,53 @@
+{
+  "id": "2017-sparkle-body-shimmer-puff",
+  "year": 2017,
+  "name": "Sparkle Body Shimmer Puff",
+  "price_eur": 23.5,
+  "price_text": "€23.50",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "35CfyK1t2DY",
+      "channel": "Natural Glow",
+      "duration": 51.0,
+      "title": "Natural Glow Shimmer Puff"
+    },
+    {
+      "id": "FopgxYSCmJU",
+      "channel": "Winky Lux",
+      "duration": 4.0,
+      "title": "Winky Lux Glitter Puff Body Glitter Spray"
+    },
+    {
+      "id": "_7RvGp_TqdI",
+      "channel": "MoonlightStarRSA",
+      "duration": 18.0,
+      "title": "Vintage Style Glitter Powder Puff Spray Bottle – Elegant Shimmer Applicator For Hair, Body"
+    },
+    {
+      "id": "kw91akGYyKU",
+      "channel": "Winky Lux",
+      "duration": 14.0,
+      "title": "GLITTER PUFF ASMR"
+    },
+    {
+      "id": "BM6AQ7tBtZM",
+      "channel": "BeautiesFactoryuk",
+      "duration": 40.0,
+      "title": "Beauties Factory - Smooth Glitter Body Powder with Puff"
+    }
+  ]
+}

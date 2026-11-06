@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-garden-leaf-rake",
+  "year": 2018,
+  "name": "Kids Garden Leaf Rake",
+  "price_eur": 2.99,
+  "price_text": "€2.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vxNifo365IU",
+      "channel": "Fun Mom Reviews",
+      "duration": 97.0,
+      "title": "JustForKids Kids Garden Tool Set Toy, Rake, Spade, Hoe and Leaf Rake, reduced size , made of sturdy"
+    },
+    {
+      "id": "OEIylC5U0cA",
+      "channel": "TheGardenShopIreland",
+      "duration": 58.0,
+      "title": "Kids Leaf Rake"
+    },
+    {
+      "id": "L5zGs4VYBxY",
+      "channel": "Sergio MadMad",
+      "duration": 49.0,
+      "title": "Duckura 6pcs Kids Garden Tools Set, Gardening Tool for Kids, Shovel, Rake, Hoe, Leaf Rake Review"
+    },
+    {
+      "id": "SKu0ofEHg64",
+      "channel": "Modern Toy Lab",
+      "duration": 129.0,
+      "title": "Review Play22 Kids Garden Tool Set Toy 4-Piece - Shovel, Rake, Hoe, Leaf Rake, Wooden Gardening Tool"
+    },
+    {
+      "id": "8B0kkAe0Zj8",
+      "channel": "Hearthsong",
+      "duration": 42.0,
+      "title": "Grow With Me Gardening Tools Sized Just Right For Kids"
+    }
+  ]
+}

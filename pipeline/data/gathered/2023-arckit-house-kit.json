@@ -1,0 +1,60 @@
+{
+  "id": "2023-arckit-house-kit",
+  "year": 2023,
+  "name": "ArcKit House Kit",
+  "price_eur": 120.0,
+  "price_text": "€120.00",
+  "retailers": [
+    {
+      "name": "ArcKit",
+      "url": "https://www.arckit.com/products/go-eco"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arckit.com/products/go-eco",
+      "title": "Arckit GO Eco Model House Kit",
+      "description": "Freely explore your environmentally friendly modular architectural designs with  Arckit's reusable components while learning all about what goes into building a modern, sustainable & energy-efficient home. Note: Wall finishes on packaging models are not included in the kit, however they are freely available to pr",
+      "image": "http://www.arckit.com/cdn/shop/files/A202004.GO.Eco_Arckitexture_text_grande.jpg?v=1749113966",
+      "ld_description": "Freely explore your environmentally friendly modular architectural designs with  Arckit's reusable components while learning all about what goes into building a modern, sustainable & energy-efficient home.\nNote: Wall finishes on packaging models are not included in the kit, however they are freely available to print off online from our Arckitexture library.\n \nArckit GO Eco is an accredited STEAM toy.\nThe GO Eco building kit comes with:\n \n\n117 Arckit pcs. (Architectural building blocks)\n\nArckitexture decals available to print off online (including white louvres, light timber, dark brick and vegetation). We recommend using clear electrostatic printable paper or easy peel printable paper (compatible with your specific printer) for easy application and removal on your Arckit models.\n30 x Arckit cardboard pop-outs (including wind turbine, solar panels, water harvestation tank, air-source heat pump, figurines, trees & furniture). Add more cardboard pop-outs\n\n\nFeatures a pitched roof design set. \n\n1 x Introductory booklet with instructions for 1 design, reusable box. \nA further 3+ alternative building design instructions are available online as well as lots more printable Arckitexture decals and Arckit inspiration.\nArckit Digital components are also available to build via SketchUp and Tinkercad platforms. \nPackage dimensions: 340x220x60mm\nRecommended for age 10+\n\n \nPlease Note: Wall finishes on packaging models are not included in the kit, they are freely available to print off onli",
+      "brand": "Arckit",
+      "ld_image": "https://www.arckit.com/cdn/shop/files/A202004.GO.Eco_Arckitexture_text_2000x.jpg?v=1749113966"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BhB0c4pjUXA",
+      "channel": "Arckit",
+      "duration": 319.0,
+      "title": "What will you do with Arckit? // Imagine it, Build it"
+    },
+    {
+      "id": "pEbJOsOiOEs",
+      "channel": "Arckit",
+      "duration": 315.0,
+      "title": "How to Build | Alternative Model using Arckit 90 Kit - Option 02"
+    },
+    {
+      "id": "30_fSKryk10",
+      "channel": "Arckit",
+      "duration": 38.0,
+      "title": "New Arckit GO Eco - Architectural Building Blocks"
+    },
+    {
+      "id": "40oE_qRWHw8",
+      "channel": "Arckit",
+      "duration": 53.0,
+      "title": "Arckit 360 - Architectural model build kit"
+    },
+    {
+      "id": "zQUVLqJABBc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 115.0,
+      "title": "Architectural Building Blocks from Arckit Review!"
+    }
+  ]
+}

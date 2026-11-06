@@ -1,0 +1,54 @@
+{
+  "id": "2024-zhu-zhu-aquarium-submarine-set",
+  "year": 2024,
+  "name": "Zhu Zhu Aquarium Submarine Set",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/ja11548"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/ja11548"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P8fiyrUeqnQ",
+      "channel": "RyderRenegade",
+      "duration": 528.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Submarine Set"
+    },
+    {
+      "id": "ieB91MKzbic",
+      "channel": "NiklasPeterson ",
+      "duration": 944.0,
+      "title": "Zhu Zhu Aquarium Unboxing On Submarine Set "
+    },
+    {
+      "id": "kJnbP1Kjz-A",
+      "channel": "NiklasPeterson ",
+      "duration": 374.0,
+      "title": "Zhu Zhu Aquarium Unboxing On Submarine Set"
+    },
+    {
+      "id": "g_E3_KNL014",
+      "channel": "OhcluckToys",
+      "duration": 537.0,
+      "title": "Zhu Zhu Aquarium Starter Set and Submarine Unboxing Review"
+    },
+    {
+      "id": "M2S8J2VDh-w",
+      "channel": "RyderRenegade",
+      "duration": 846.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Coral Reef Tunnel Combo Set"
+    }
+  ]
+}

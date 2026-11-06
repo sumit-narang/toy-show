@@ -1,0 +1,64 @@
+{
+  "id": "2017-little-tikes-3-in-1-sports-zone",
+  "year": 2017,
+  "name": "Little Tikes 3-in-1 Sports Zone",
+  "price_eur": null,
+  "price_text": "$54.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XAeBLD_rkaI",
+      "channel": "Little Tikes",
+      "duration": 140.0,
+      "title": "3-in-1 Sports Zone™ | Assembly Instructions | Little Tikes"
+    },
+    {
+      "id": "FXp1zxUfi6U",
+      "channel": "Nate & Nessa The Explorers",
+      "duration": 602.0,
+      "title": "Little Tikes 3 in 1 Sports Zone Unboxing - Toddlers Learning and Playing Sports Toys"
+    },
+    {
+      "id": "YuZAoCxrJD0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 121.0,
+      "title": "3-in-1 Sports Zone from MGA Entertainment"
+    },
+    {
+      "id": "7JR7IMT2n78",
+      "channel": "Tina Ware",
+      "duration": 125.0,
+      "title": "Little Tikes 3-in-1 Sports Zone | Toddler Toys | Amazon Review"
+    },
+    {
+      "id": "vSSlIs-Qn88",
+      "channel": "Hulyan and Maya",
+      "duration": 1360.0,
+      "title": "Educational Toys for Toddlers: Little Tikes 3 in 1 Sports Zone. Learn Numbers, Colors and Shapes"
+    }
+  ]
+}

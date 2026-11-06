@@ -1,0 +1,57 @@
+{
+  "id": "2023-cord-hobby-horse",
+  "year": 2023,
+  "name": "Cord Hobby Horse",
+  "price_eur": 26.95,
+  "price_text": "€26.95",
+  "retailers": [
+    {
+      "name": "Little Ones",
+      "url": "https://www.littleones.ie/cord-hobby-horse.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littleones.ie/cord-hobby-horse.html",
+      "title": "Little Ones - Maintenance",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Vcv0WdL8XtU",
+      "channel": "kullaloo",
+      "duration": 1142.0,
+      "title": "DIY Hobby Horse lead rope tutorial: 4 ways to make leads for stick horses (e.g. paracord or ribbon)"
+    },
+    {
+      "id": "n6Uxc6Ss3-A",
+      "channel": "kullaloo",
+      "duration": 597.0,
+      "title": "Hobby Horse rope halter tutorial: How to make a halter with braided noseband for a stick horse 🧵🐴"
+    },
+    {
+      "id": "o6Bou3huHVM",
+      "channel": "Amazon UK | Best Sellers",
+      "duration": 108.0,
+      "title": "Top 10 Hobby Horses [2018]: timeracing Baby Infant Toddler Kids Musical Piano Developmental Early"
+    },
+    {
+      "id": "OX0l4IBI0H0",
+      "channel": "Chiaro Hobbyhorses",
+      "duration": 508.0,
+      "title": "ROPE HALTER [HOBBYHORSE TUTORIAL]"
+    },
+    {
+      "id": "O9SqWhp4CgY",
+      "channel": "Harrison Howard Equestrian",
+      "duration": 51.0,
+      "title": "Harrison Howard Super Sturdy Horse Rope Training Halter with 2 Knot 1/4\" Stiff Halter Cord"
+    }
+  ]
+}

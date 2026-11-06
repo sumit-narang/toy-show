@@ -1,0 +1,54 @@
+{
+  "id": "2022-puppet-border-collie",
+  "year": 2022,
+  "name": "Puppet Border Collie",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cJ5Jq5Qxk_s",
+      "channel": "Denise Gard",
+      "duration": 1672.0,
+      "title": "Wag That Tale with Border Collies"
+    },
+    {
+      "id": "IIgQHrs1xQw",
+      "channel": "The Crafty Man - Origami and Papercraft Tutorials",
+      "duration": 1761.0,
+      "title": "Origami Border Collie Dog (Quentin Trollip) | Paper Border Collie Step By Step"
+    },
+    {
+      "id": "FkUiqXfO71A",
+      "channel": "Mimitoys - Puppets, Games and Toys",
+      "duration": 22.0,
+      "title": "Dog Hand Puppets by The Puppet Company | Labrador, Cockapoo, Border Collie and More"
+    },
+    {
+      "id": "yrzRBvchsPQ",
+      "channel": "아모스",
+      "duration": 185.0,
+      "title": "Border Collie"
+    },
+    {
+      "id": "Ip_uVTWfXyI",
+      "channel": "BBC Earth",
+      "duration": 157.0,
+      "title": "Dog Understands 1022 Words! | Super Smart Animals | BBC Earth"
+    }
+  ]
+}

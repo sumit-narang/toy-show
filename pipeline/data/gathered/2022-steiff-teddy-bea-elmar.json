@@ -1,0 +1,54 @@
+{
+  "id": "2022-steiff-teddy-bea-elmar",
+  "year": 2022,
+  "name": "Steiff Teddy Bea Elmar",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "y8zP6Ryvvzs",
+      "channel": "China Toy Expo",
+      "duration": 309.0,
+      "title": "Steiff: Teddy Series Plush Toys"
+    },
+    {
+      "id": "sLwxJtc-NnM",
+      "channel": "Steiff",
+      "duration": 26.0,
+      "title": "Steiff Elmar Teddybär 32 cm goldbraun"
+    },
+    {
+      "id": "YgJyjwfCrZs",
+      "channel": "TTPM Toy Reviews",
+      "duration": 68.0,
+      "title": "Elmar & Hannes Teddy Bears from Steiff"
+    },
+    {
+      "id": "BLzIOcwyYw4",
+      "channel": "Born Gifted",
+      "duration": 76.0,
+      "title": "Steiff Elmar Teddy Bear"
+    },
+    {
+      "id": "6qha4iBYeDg",
+      "channel": "sutats",
+      "duration": 762.0,
+      "title": "Steiff My First Steiff Teddy Bear in Gift Box"
+    }
+  ]
+}

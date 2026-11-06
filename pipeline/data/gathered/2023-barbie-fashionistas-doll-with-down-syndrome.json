@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-fashionistas-doll-with-down-syndrome",
+  "year": 2023,
+  "name": "Barbie Fashionistas Doll with Down Syndrome",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-208-floral-babydoll-dress/p/158153124"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-208-floral-babydoll-dress/p/158153124",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tfHIPllwAhY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 78.0,
+      "title": "Barbie Fashionistas Doll with Down Syndrome"
+    },
+    {
+      "id": "CEOus4-TMbQ",
+      "channel": "Good Morning America",
+      "duration": 241.0,
+      "title": "1st look at Barbie doll with Down syndrome l GMA"
+    },
+    {
+      "id": "2IdxcrXaIEc",
+      "channel": "Inside Edition",
+      "duration": 105.0,
+      "title": "Barbie Introduces First Doll With Down Syndrome"
+    },
+    {
+      "id": "bdHiY-VEtcw",
+      "channel": "Times Radio",
+      "duration": 68.0,
+      "title": "Barbie launches Down’s syndrome doll in ‘huge step for inclusion’"
+    },
+    {
+      "id": "MapOMmLRpuQ",
+      "channel": "BarbieCoProductions",
+      "duration": 482.0,
+      "title": "Customising a Down Syndrome Barbie fashionista 229 | Re-paint and Re-style"
+    }
+  ]
+}

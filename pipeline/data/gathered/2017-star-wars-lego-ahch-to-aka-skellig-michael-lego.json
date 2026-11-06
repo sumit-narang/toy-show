@@ -1,0 +1,35 @@
+{
+  "id": "2017-star-wars-lego-ahch-to-aka-skellig-michael-lego",
+  "year": 2017,
+  "name": "Star Wars Lego Ahch-to (aka Skellig Michael Lego)",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YMn_ZVmVlIc",
+      "channel": "Ones With The Force",
+      "duration": 1195.0,
+      "title": "George Visits Skellig Michael! (Luke Skywalker's Island/Anch-To!) - Ones With The Force"
+    },
+    {
+      "id": "q2m0XgdnALg",
+      "channel": "ComingSoon.net",
+      "duration": 35.0,
+      "title": "Star Wars: Episode VIII Announcement Video"
+    }
+  ]
+}

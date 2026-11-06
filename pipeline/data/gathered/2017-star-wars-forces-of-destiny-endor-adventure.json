@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-forces-of-destiny-endor-adventure",
+  "year": 2017,
+  "name": "Star Wars Forces of Destiny Endor Adventure",
+  "price_eur": 48.0,
+  "price_text": "€48.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a80bclOvKYQ",
+      "channel": "Toy Shelf Review",
+      "duration": 555.0,
+      "title": "Star Wars Forces of Destiny Ewok Adventure Review (Endor Leia and Wicket)"
+    },
+    {
+      "id": "vdN6W4KBUAM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 102.0,
+      "title": "Star Wars Forces of Destiny Princess Leia Endor Adventure from Hasbro"
+    },
+    {
+      "id": "jIrkXM-E5xI",
+      "channel": "Disney Channel Africa",
+      "duration": 159.0,
+      "title": "Star Wars: Forces of Destiny | Ewok Escape | Official Disney Channel Africa"
+    },
+    {
+      "id": "K2_WfduC8Rc",
+      "channel": "Star Wars Explained",
+      "duration": 160.0,
+      "title": "The Gorax is Canon Again"
+    },
+    {
+      "id": "bpZ8yzJFF2M",
+      "channel": "Cdog Cdog",
+      "duration": 682.0,
+      "title": "STAR WARS FORCES OF DESTINY LEIA & WICKET REVIEW"
+    }
+  ]
+}

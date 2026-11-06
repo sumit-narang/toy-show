@@ -1,0 +1,53 @@
+{
+  "id": "2020-hansa-pheasant-plush",
+  "year": 2020,
+  "name": "Hansa Pheasant Plush",
+  "price_eur": 59.95,
+  "price_text": "€59.95",
+  "retailers": [
+    {
+      "name": "Wild Ireland",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oOGs7JKzUJY",
+      "channel": "Mary Shortle",
+      "duration": 937.0,
+      "title": "The Most Realistic Plush Animals In The World"
+    },
+    {
+      "id": "ZPhRlv-cNM0",
+      "channel": "Mary Shortle",
+      "duration": 1324.0,
+      "title": "Unbelievably Real - Exciting New Collection"
+    },
+    {
+      "id": "ywDK7uccZj8",
+      "channel": "AP Archive",
+      "duration": 351.0,
+      "title": "From kissing policeman to a stuffed rat - exhibition traces career of street artist Banksy"
+    },
+    {
+      "id": "Cc4slYo3hL8",
+      "channel": "SIKANDAR ANSARI GOAT FARM",
+      "duration": 70.0,
+      "title": "2 hansa kid Alhamdulillah sold out please contact for more kids 9830485303"
+    },
+    {
+      "id": "fq-Gk8dqY5c",
+      "channel": "Cockatiel Companion and The Pheasantasiam",
+      "duration": 513.0,
+      "title": "Happy Birthday Pixel! 2 Years Old today | Mad Corella turns 2"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-mood-bears-hope-bear",
+  "year": 2022,
+  "name": "Mood Bears Hope Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7mMbWvT7K8Y",
+      "channel": "Mood Bears",
+      "duration": 920.0,
+      "title": "The Final Episode! | Mood Bears: The Series | Episode 8"
+    },
+    {
+      "id": "5dFZf04jmew",
+      "channel": "Mood Bears",
+      "duration": 79.0,
+      "title": "@itv-Reality Hope Bear went on a trip to visit Ferne🧸❤️"
+    },
+    {
+      "id": "1kZZMttGSgs",
+      "channel": "Mood Bears",
+      "duration": 162.0,
+      "title": "Mood Bear mission"
+    },
+    {
+      "id": "5DmGaIEmvqI",
+      "channel": "Mood Bears",
+      "duration": 109.0,
+      "title": "Mood Bears are the worlds leading teddy helping the world with mental and emotional well-being"
+    },
+    {
+      "id": "6G_fia1R0lg",
+      "channel": "Dragons' Den",
+      "duration": 676.0,
+      "title": "This Product Encourages Talking About Mental Health | Dragons' Den"
+    }
+  ]
+}

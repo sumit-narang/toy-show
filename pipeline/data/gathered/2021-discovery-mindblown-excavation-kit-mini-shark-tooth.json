@@ -1,0 +1,60 @@
+{
+  "id": "2021-discovery-mindblown-excavation-kit-mini-shark-tooth",
+  "year": 2021,
+  "name": "Discovery Mindblown Excavation Kit Mini Shark Tooth",
+  "price_eur": 9.0,
+  "price_text": "€9.00",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/kids/toys-games/stem/fao-schwarz/discovery-mindblown-excavation-kit-mini-shark-tooth/151807303.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/science-education/fao-schwarz/excavation-kit-mini-shark-tooth/151807303.html",
+      "title": "FAO SCHWARZ Discovery Mindblown Excavation Kit Mini Shark Tooth - Multi",
+      "description": "Dig for ancient shark teeth and use the tools of the pros with this Shark Tooth Excavation kit from Discovery MindBlown and FAO Schwarz. Two teeth in every kit.",
+      "image": "https://images.brownthomas.com/bta/2000075291_01.jpg?$product_tile_plp$",
+      "ld_description": "Dig for ancient shark teeth and use the tools of the pros with this Shark Tooth Excavation kit from Discovery MindBlown and FAO Schwarz. Two teeth in every kit.",
+      "brand": "FAO SCHWARZ",
+      "ld_image": "https://images.brownthomas.com/bta/2000075291_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H4u8gTeL_dE",
+      "channel": "Yalla Toys Middle East Distribution",
+      "duration": 49.0,
+      "title": "Discovery Mindblown Unboxing Mini Excavation Kit Collection"
+    },
+    {
+      "id": "OfiOHO_K0es",
+      "channel": "World of Rockhounds",
+      "duration": 820.0,
+      "title": "UNBOXING: Nat-Geo Shark Tooth Dig Kit"
+    },
+    {
+      "id": "ZtAIHjnbtow",
+      "channel": "Bayka's Toys",
+      "duration": 963.0,
+      "title": "Trying to find a Shark Tooth in the Discovery Mindblown Excavation Kit! Review with Spider-Man #26"
+    },
+    {
+      "id": "MqmGIziXYbo",
+      "channel": "Mini Mapache 1023",
+      "duration": 885.0,
+      "title": "Shark Tooth Dig Kit"
+    },
+    {
+      "id": "qUffBL4Z1rI",
+      "channel": "BandaiUK",
+      "duration": 42.0,
+      "title": "National Geographic - Shark Tooth Dig Kit!"
+    }
+  ]
+}

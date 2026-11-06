@@ -1,0 +1,54 @@
+{
+  "id": "2024-dyson-toy-hairdryer-and-straighteners-set",
+  "year": 2024,
+  "name": "Dyson Toy Hairdryer and Straighteners Set",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/dyson-dyson-toy-hairdryer-and-straighteners-set/1600771998.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/dyson-dyson-toy-hairdryer-and-straighteners-set/1600771998.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dimYM8fVOr4",
+      "channel": "Smyths Toys Superstores",
+      "duration": 78.0,
+      "title": "Dyson Supersonic & Corrale Deluxe Styling Set - Smyths Toys"
+    },
+    {
+      "id": "v_L8h-Bgr-U",
+      "channel": "Tosyen dotcom",
+      "duration": 16.0,
+      "title": "Dyson Supersonic & Corrale Deluxe Styling Set Toys"
+    },
+    {
+      "id": "hL4cyfBqkb8",
+      "channel": "Nisha Leon",
+      "duration": 163.0,
+      "title": "Dyson straightener corrale (Fuchsia/ Bright Nickel)"
+    },
+    {
+      "id": "R1btm4xYYug",
+      "channel": "大樹藥局Great Tree",
+      "duration": 63.0,
+      "title": "大樹藥局【大樹來開箱EP46】漂亮寶貝的第一步！專屬孩子的Dyson吹風機！| 大樹藥局團隊 | 顧問 大樹醫藥 董事長 鄭明龍"
+    },
+    {
+      "id": "vXHkQIrtg38",
+      "channel": "Expert Electrical Ireland",
+      "duration": 31.0,
+      "title": "Dyson Corrale"
+    }
+  ]
+}

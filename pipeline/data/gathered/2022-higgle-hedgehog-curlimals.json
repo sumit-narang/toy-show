@@ -1,0 +1,54 @@
+{
+  "id": "2022-higgle-hedgehog-curlimals",
+  "year": 2022,
+  "name": "Higgle Hedgehog Curlimals",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aic6B6NqaaA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 78.0,
+      "title": "Curlimals Blue Badger, Bibi Bunny, and Higgle Hedgehog"
+    },
+    {
+      "id": "qxnr4pn6r5c",
+      "channel": "Franco's Channel. ",
+      "duration": 138.0,
+      "title": "Curlimals interactive higgle the Hedgehog"
+    },
+    {
+      "id": "oB_0Jcvg4Ug",
+      "channel": "Curlimals Official",
+      "duration": 30.0,
+      "title": "Higgle the Hedgehog - Curlimals!"
+    },
+    {
+      "id": "b9TQQF-FMMw",
+      "channel": "Rhia Official",
+      "duration": 460.0,
+      "title": "UNBOXING THE *BRAND NEW* CURLIMALS PLUSHIES!😱🍃✨*they can talk to you!!*🫢 | Rhia Official♡ | AD"
+    },
+    {
+      "id": "KTzqIsioHcQ",
+      "channel": "MsBerann",
+      "duration": 373.0,
+      "title": "Curlimals Higgle the Hedgehog plush REVIEW"
+    }
+  ]
+}

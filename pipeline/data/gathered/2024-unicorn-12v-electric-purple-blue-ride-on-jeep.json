@@ -1,0 +1,54 @@
+{
+  "id": "2024-unicorn-12v-electric-purple-blue-ride-on-jeep",
+  "year": 2024,
+  "name": "Unicorn 12V Electric Purple-Blue Ride-On Jeep",
+  "price_eur": 269.95,
+  "price_text": "€269.95",
+  "retailers": [
+    {
+      "name": "Funstuff",
+      "url": "https://funstuff.ie/unicorn-12v-electric-ride-on-jeep-blue-purple/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://funstuff.ie/ride-on-toys/unicorn-12v-electric-ride-on-jeep-blue-purple/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kSKIOEz9BdU",
+      "channel": "RiiRoo",
+      "duration": 181.0,
+      "title": "CHANGE A RIDE ON CAR BATTERY - How To Change A Battery On Your Kids Electric Ride On"
+    },
+    {
+      "id": "49ulyA4ABW4",
+      "channel": "Shamshad Maker",
+      "duration": 206.0,
+      "title": "Big Size 4x4 RC Jeep Unboxing & Testing | 4wd 2.4Ghz Remote Control Ride on Jeep | Shamshad Maker🔥🔥"
+    },
+    {
+      "id": "6RxTYY6S3Pg",
+      "channel": "Kid Trax Toys",
+      "duration": 43.0,
+      "title": "Pink Minnie Mouse Coupe | Ride-On Cars for Kids - Kid Trax"
+    },
+    {
+      "id": "9sVa7_0m3ek",
+      "channel": "Toys Make Me Smile",
+      "duration": 367.0,
+      "title": "Kid Buys a Giant Barbie Dream Camper Van Vehicle Ride-On Power Wheel"
+    },
+    {
+      "id": "_sbOWPa5Odw",
+      "channel": "Monster Jam",
+      "duration": 31.0,
+      "title": "Monster Jam Smash & Bash Gravedigger RC"
+    }
+  ]
+}

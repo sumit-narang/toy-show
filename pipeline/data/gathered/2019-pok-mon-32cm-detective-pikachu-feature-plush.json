@@ -1,0 +1,26 @@
+{
+  "id": "2019-pok-mon-32cm-detective-pikachu-feature-plush",
+  "year": 2019,
+  "name": "Pokémon 32cm Detective Pikachu Feature Plush",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%c3%a9mon-32cm-detective-pikachu-feature-plush/p/172696"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/pokemon/pokemon-toys/pok%C3%A9mon-32cm-detective-pikachu-feature-plush/p/172696",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2020-aim-high-by-donny-mahoney",
+  "year": 2020,
+  "name": "Aim High by Donny Mahoney",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/aim-high-donny-mahoney-9781788492089"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/aim-high-donny-mahoney-9781788492089",
+      "title": "Buy Aim High Book at Easons",
+      "description": "Meet the Irish men and women who aimed high in the sport they love. From Dan Donnelly, our first heavyweight boxing champion, to our greatest runner, Sonia O'Sullivan. From Brian O'Driscoll's amazing rugby performances to Rosemary Smyth's rally driving bri",
+      "image": null,
+      "ld_description": "Meet the Irish men and women who aimed high in the sport they love. From Dan Donnelly, our first heavyweight boxing champion, to our greatest runner, Sonia O'Sullivan. From Brian O'Driscoll's amazing rugby performances to Rosemary Smyth's rally driving brilliance. From the heroic rowing of the O'Donoval brothers to the our women's hockey team: the first ever Irish team to reach a world final. Featuring many people whose achievements have fallen from view, such as Anne O'Brien (the first Irish female professional football player) and Francie Barrett, the first traveller to represent Ireland at the Olympic Games.\n\nThe remarkable stories of these trailblazers from throughout Ireland will inspire and excite children of all ages.\n\nDonny Mahoney and illustrator Eoin Coveney will draw you into the amazing world of these athletes, and introduce the next generation of role models.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/m/33ca1bbb5727e3a2/original/9781788492089_5639204475.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7vsHlsByMqk",
+      "channel": "HighLevel",
+      "duration": 5203.0,
+      "title": "Day 1 - Build Mini Web Apps for AI Client Activation and Ongoing Engagement"
+    },
+    {
+      "id": "BbusgqRc9qg",
+      "channel": "Virgin Media Sport",
+      "duration": 89.0,
+      "title": "Peter O'Mahony in tears during Ireland's Call!"
+    },
+    {
+      "id": "37OV3qJ_epE",
+      "channel": "Binary Retro Clips",
+      "duration": 96.0,
+      "title": "Police Academy 1984 | Hightower saves Mahoney and Harris from the street thug |"
+    },
+    {
+      "id": "mRYou3CvT4A",
+      "channel": "David Gideon",
+      "duration": 106.0,
+      "title": "Classic TV Theme: Lady Blue (Upgraded!)"
+    },
+    {
+      "id": "YyH1FIBK2Ig",
+      "channel": "HighLevel",
+      "duration": 7234.0,
+      "title": "Day 2 - Build Mini Web Apps for AI Client Activation and Ongoing Engagement"
+    }
+  ]
+}

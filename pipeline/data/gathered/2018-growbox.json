@@ -1,0 +1,64 @@
+{
+  "id": "2018-growbox",
+  "year": 2018,
+  "name": "GROWBox",
+  "price_eur": 10.0,
+  "price_text": "from 10",
+  "retailers": [
+    {
+      "name": "Grow HQ Waterford",
+      "url": null
+    },
+    {
+      "name": "growbox.ie",
+      "url": "http://growbox.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://giy.ie/collections/growbox",
+      "title": "GROWBox",
+      "description": "We support people around the world to live happier, healthier and more sustainable lives by growing some of their own food. GIYers develop what we call food empathy - a deeper connection with food and respect for the people and planet that put it on our tables.",
+      "image": "http://giy.ie/cdn/shop/collections/gbox.png?crop=center&height=1200&v=1704448992&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qX3kJWGgtXI",
+      "channel": "Stealth Grows",
+      "duration": 822.0,
+      "title": "New Auto Run w/Dr Earth & Super Soil  | 3x3 Day3F | Marshydro FC4800 Bridgelux 3030"
+    },
+    {
+      "id": "7F5JH2yJSEA",
+      "channel": "Joe's Grows",
+      "duration": 1243.0,
+      "title": "DIY Stealth Grow Box | Installing the Grow Light & Ventilation (Episode 2)"
+    },
+    {
+      "id": "wiYemyXR4Nw",
+      "channel": "Die Tomate",
+      "duration": 2411.0,
+      "title": "ANFÄNGER ERNTET 200g+ BEI SEINEM ERSTEN HOMEGROW / Kompletter Homegrow von Anzucht bis Ernte"
+    },
+    {
+      "id": "1qFdCtQSCzw",
+      "channel": "Canadian Grower",
+      "duration": 1109.0,
+      "title": "Seed to Harvest in a Fully Automated Smart Grow Box (VGrow Test)"
+    },
+    {
+      "id": "5b54p1fVHF4",
+      "channel": "SuperGreenLab",
+      "duration": 784.0,
+      "title": "How to build an automated grow box with remote control and monitoring + live camera and screen!"
+    }
+  ]
+}

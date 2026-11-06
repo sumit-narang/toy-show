@@ -1,0 +1,58 @@
+{
+  "id": "2019-dineas-ir-scanr-la",
+  "year": 2019,
+  "name": "Dineasáir Scanrúla",
+  "price_eur": 7.95,
+  "price_text": "€7.95",
+  "retailers": [
+    {
+      "name": "Futa Fata",
+      "url": "http://www.futafata.ie/"
+    },
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.futafata.ie/",
+      "title": "Futa Fata-Leabhair Ghaeilge do pháistí",
+      "description": "Leabhair Ghaeilge do pháistí -Futa Fata Leabhair Ghaeilge do pháistí",
+      "image": "https://www.futafata.ie/image/cache/catalog/2020/logo%20nua-600x315w.JPG"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1jPMHzV1z_4",
+      "channel": "Battlefield of Dinosaurs",
+      "duration": 514.0,
+      "title": "Megalodon vs Mosasaurus! COMHRAC MÓR vs Gach Reiptíl Mara!"
+    },
+    {
+      "id": "zl1wmi3FZM0",
+      "channel": "Battlefield of Dinosaurs",
+      "duration": 482.0,
+      "title": "Mosasaurus vs Megalodon! COMHRAC MÓR vs Gach Arrachtach Farraige Domhain!"
+    },
+    {
+      "id": "0Xt-JIejB5w",
+      "channel": "zayn and yazin",
+      "duration": 325.0,
+      "title": "Cluiche Hunter Dineasár 3D ar líne - Cluiche Android - Cuid 2"
+    },
+    {
+      "id": "nRohyjqrTC0",
+      "channel": "About Everything",
+      "duration": 745.0,
+      "title": "Fuarthas an ollphéist mhara is contúirtí sa stair ar shliabh i gCeanada!"
+    }
+  ]
+}

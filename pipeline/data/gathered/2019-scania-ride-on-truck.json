@@ -1,0 +1,53 @@
+{
+  "id": "2019-scania-ride-on-truck",
+  "year": 2019,
+  "name": "Scania Ride On Truck",
+  "price_eur": null,
+  "price_text": "price on request",
+  "retailers": [
+    {
+      "name": "Scaled Rigs",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WBNW1gyn9cE",
+      "channel": "Monaghan Hire",
+      "duration": 43.0,
+      "title": "Official Scania 24v Ride On Toy with truck and trailer."
+    },
+    {
+      "id": "bu2Frtt_S2E",
+      "channel": "Monaghan Hire",
+      "duration": 37.0,
+      "title": "Official Scania 24v Ride on truck & Trailer"
+    },
+    {
+      "id": "6hDIuJkAaLI",
+      "channel": "Stavros969",
+      "duration": 1406.0,
+      "title": "The Must Have SCANIA Ride On Powered Truck for Kids!"
+    },
+    {
+      "id": "Pk147DZA9Rg",
+      "channel": "ScaledRigs",
+      "duration": 31.0,
+      "title": "Scaled Rigs  Ride on Truck"
+    },
+    {
+      "id": "EYXliDii8JQ",
+      "channel": "KidsridesEU",
+      "duration": 131.0,
+      "title": "Scania ride on car / ride on truck 12V"
+    }
+  ]
+}

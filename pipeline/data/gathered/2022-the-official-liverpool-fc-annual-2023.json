@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-official-liverpool-fc-annual-2023",
+  "year": 2022,
+  "name": "The Official Liverpool FC Annual: 2023",
+  "price_eur": 5.99,
+  "price_text": "€5.99",
+  "retailers": [
+    {
+      "name": "Bookstation",
+      "url": "https://www.bookstation.ie/product/the-official-liverpool-fc-annual-2023/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://bookstation.ie/product/the-official-liverpool-fc-annual-2023"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mOfawjWyQDc",
+      "channel": "Liverpool FC",
+      "duration": 60.0,
+      "title": "LIVERPOOL FC's NEW 2022/23 NIKE HOME KIT | FIRST LOOK!"
+    },
+    {
+      "id": "tk1qgOJjYVc",
+      "channel": "Liverpool FC",
+      "duration": 60.0,
+      "title": "FIRST LOOK! Liverpool FC 2022-23 Third Kit"
+    },
+    {
+      "id": "CWiPEAc37vA",
+      "channel": "Liverpool FC",
+      "duration": 60.0,
+      "title": "Christmas 2022 with Liverpool FC | We'll be lonely this Christmas without you, Reds..."
+    },
+    {
+      "id": "eg8S7spB3xk",
+      "channel": "Liverpool FC",
+      "duration": 196.0,
+      "title": "‘FINALLY…’ | A tribute to Liverpool FC's history in the FA Cup"
+    },
+    {
+      "id": "TE0e64xbtqQ",
+      "channel": "Liverpool FC",
+      "duration": 138.0,
+      "title": "HIGHLIGHTS: Liverpool 1-0 Manchester City | Salah's solo strike wins it!"
+    }
+  ]
+}

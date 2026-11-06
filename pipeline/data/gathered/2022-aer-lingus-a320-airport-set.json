@@ -1,0 +1,54 @@
+{
+  "id": "2022-aer-lingus-a320-airport-set",
+  "year": 2022,
+  "name": "Aer Lingus A320 Airport Set",
+  "price_eur": 22.0,
+  "price_text": "€22",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/al75630?_pos=2&_sid=4a55fd4ca&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/al75630?_pos=2&_sid=4a55fd4ca&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E3pcSkNfbFo",
+      "channel": "Just Planes",
+      "duration": 301.0,
+      "title": "Pilotsview Aer Lingus A320 into Nice Airport"
+    },
+    {
+      "id": "Vwdu3fNXtno",
+      "channel": "Plane X",
+      "duration": 188.0,
+      "title": "*SUPER RARE!!* Daron Aer Lingus A320 & A330 Review"
+    },
+    {
+      "id": "BlVardI9mQM",
+      "channel": "Aer Lingus",
+      "duration": 195.0,
+      "title": "Aer Lingus Cockpit Video | Dublin to Seattle | Inaugural SEA Flight"
+    },
+    {
+      "id": "bzKOdsusuQo",
+      "channel": "Just Planes",
+      "duration": 1273.0,
+      "title": "Piloting Airbus A320 out of Dublin + Power Up 1st Flight of the Day"
+    },
+    {
+      "id": "ZGMKNYkEKJY",
+      "channel": "Marc Anthony Aviation",
+      "duration": 149.0,
+      "title": "Aer Lingus A320 Manchester Airport Plane Spotting Landing and Takeoff"
+    }
+  ]
+}

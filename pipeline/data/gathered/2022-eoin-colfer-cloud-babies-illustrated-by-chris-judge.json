@@ -1,0 +1,54 @@
+{
+  "id": "2022-eoin-colfer-cloud-babies-illustrated-by-chris-judge",
+  "year": 2022,
+  "name": "Eoin Colfer: Cloud Babies, illustrated by Chris Judge",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/products/eoin-colfer-cloud-babies-illustrated-by-chris-judge"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://talesfortadpoles.ie/products/eoin-colfer-cloud-babies-illustrated-by-chris-judge"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "H3aN2DvtZwM",
+      "channel": "Ally McFadden",
+      "duration": 411.0,
+      "title": "Cloud Babies by Eoin Colfer illustrated by Chris Judge"
+    },
+    {
+      "id": "OBNQoX8ECdU",
+      "channel": "Ally McFadden",
+      "duration": 414.0,
+      "title": "Cloud Babies by Eoin Colfer"
+    },
+    {
+      "id": "p9B-Ux1EDNQ",
+      "channel": "Vega family Bedtime Stories Readaloud",
+      "duration": 427.0,
+      "title": "CLOUD BABIES SOMETIMES ALL WE NEED TO DO IS LOOK UP READ ALOUD"
+    },
+    {
+      "id": "5EH7JxIfb98",
+      "channel": "Bibliothèque DDO Library",
+      "duration": 255.0,
+      "title": "July Monthly Must Read for 0-8 years old | SPOILER FREE"
+    },
+    {
+      "id": "Vwg_ZCNbrjQ",
+      "channel": "Tammi Van Hollander",
+      "duration": 109.0,
+      "title": "1 2 3 A Calmer Me: Helping Children Cope when Emotions Get Out of Control"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-moving-goal-soccer-challenge",
+  "year": 2025,
+  "name": "Moving Goal Soccer Challenge",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/moving-goal-soccer-challenge/p/245713"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/moving-goal-soccer-challenge/p/245713",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OiiVJhyTRQY",
+      "channel": "Smyths Toys Superstores",
+      "duration": 16.0,
+      "title": "Moving Goal Soccer Challenge - Smyths Toys"
+    },
+    {
+      "id": "nLeUvDRO4dA",
+      "channel": "Beta Squad",
+      "duration": 1206.0,
+      "title": "Extreme World Cup Football Challenges ft Speed"
+    },
+    {
+      "id": "uf70NNGgrb0",
+      "channel": "Oliver’s Melody Club - Interactive Classroom Songs",
+      "duration": 137.0,
+      "title": "⚽Soccer Dance for Kids |  | REACTIVE | Football Song for Kids ⚽ Brain Break"
+    },
+    {
+      "id": "F5xoNYaNWSM",
+      "channel": "The Wingrove Family",
+      "duration": 1066.0,
+      "title": "Score a Goal, Unlock a Prize! Ft Kid Ramsdale"
+    },
+    {
+      "id": "B4FvIBHl6Fc",
+      "channel": "Jack's Fun Shack",
+      "duration": 524.0,
+      "title": "I played football on WATER!"
+    }
+  ]
+}

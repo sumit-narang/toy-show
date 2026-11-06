@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-head-plan-kids-journal",
+  "year": 2022,
+  "name": "The Head Plan Kids Journal",
+  "price_eur": 22.0,
+  "price_text": "€22",
+  "retailers": [
+    {
+      "name": "The Head Plan",
+      "url": "https://theheadplan.com/products/kids-journal"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.theheadplan.com/products/kids-journal"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dNomZmKTLqU",
+      "channel": "The Head Plan",
+      "duration": 187.0,
+      "title": "The Head Plan Gratitude Journal"
+    },
+    {
+      "id": "jKyK7ZNRsrQ",
+      "channel": "The Head Plan",
+      "duration": 69.0,
+      "title": "The Head Plan Kids Journal"
+    },
+    {
+      "id": "d3mcY5d9RH8",
+      "channel": "The Head Plan",
+      "duration": 71.0,
+      "title": "The Head Plan Kids Affirmations   Preview"
+    },
+    {
+      "id": "cW67_Dclqig",
+      "channel": "Jesus Made My Day",
+      "duration": 38.0,
+      "title": "Gratitude Journal for Men"
+    },
+    {
+      "id": "bGcKomJN-DM",
+      "channel": "Tamika Travan",
+      "duration": 57.0,
+      "title": "Disney Frozen Anna and Elsa's Book of Secrets | Kids Diary, Activity Journal & Emotional Growth Book"
+    }
+  ]
+}

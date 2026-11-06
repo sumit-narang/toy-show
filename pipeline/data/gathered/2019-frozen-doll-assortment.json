@@ -1,0 +1,57 @@
+{
+  "id": "2019-frozen-doll-assortment",
+  "year": 2019,
+  "name": "Frozen Doll Assortment",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.co.uk/search?q=frozen+dolls"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/search?q=frozen%20dolls",
+      "title": "Search Results | Disney Store",
+      "description": "Search Results",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BPgNjEwZaqs",
+      "channel": "The Fingertips TV (TFT)",
+      "duration": 434.0,
+      "title": "Unboxing Disney Frozen // Disney Frozen Snow Colour Reveal Doll Assortment"
+    },
+    {
+      "id": "iD7GE82sZHU",
+      "channel": "Toya's Toys",
+      "duration": 695.0,
+      "title": "Disney Frozen Toys Collection Unboxing Review l Frozen Snow Color Reveal"
+    },
+    {
+      "id": "Ut199tLoRnU",
+      "channel": "CHROME JADE MEDIA",
+      "duration": 125.0,
+      "title": "Disney Frozen Fashion Doll Assortment Case of 6"
+    },
+    {
+      "id": "aAjaLvqt4gM",
+      "channel": "Mattel",
+      "duration": 31.0,
+      "title": "Disney Princess Sparkling Princess Doll Assortment Featuring Disney Frozen Dolls | Mattel"
+    },
+    {
+      "id": "NbZetb20u6w",
+      "channel": "Mattel",
+      "duration": 17.0,
+      "title": "Disney Frozen Musical Magic Doll Assortment | Mattel"
+    }
+  ]
+}

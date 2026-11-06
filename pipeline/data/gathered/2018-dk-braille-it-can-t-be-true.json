@@ -1,0 +1,57 @@
+{
+  "id": "2018-dk-braille-it-can-t-be-true",
+  "year": 2018,
+  "name": "DK Braille It Can't Be True!",
+  "price_eur": 28.0,
+  "price_text": "€28",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "79IddTaSQEs",
+      "channel": "ok",
+      "duration": 777.0,
+      "title": "Read Aloud: It Can't Be True by DK Publishing Braille"
+    },
+    {
+      "id": "-k2pCdtRyaI",
+      "channel": "Wild Willie's Book Reviews",
+      "duration": 477.0,
+      "title": "It Can't Be True - Supporting People With Sight Loss (Thanks to CNIB and TD Bank!)"
+    },
+    {
+      "id": "m27Y9xYpBTA",
+      "channel": "Emmy's VIP Life",
+      "duration": 412.0,
+      "title": "How a blind person reads"
+    },
+    {
+      "id": "OVszWzBXmHk",
+      "channel": "Braille Adventures",
+      "duration": 68.0,
+      "title": "Braille Reading Quest"
+    },
+    {
+      "id": "3iPPuwNLTLo",
+      "channel": "Waymo community",
+      "duration": 31.0,
+      "title": "Reshaping the transportation landscape for people who are blind"
+    }
+  ]
+}

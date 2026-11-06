@@ -1,0 +1,57 @@
+{
+  "id": "2025-jurassic-world-dinosaur-camouflage-n-battle-indominus-rex-54cm",
+  "year": 2025,
+  "name": "Jurassic World Dinosaur Camouflage 'N' Battle Indominus Rex 54cm",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-dinosaur-action-figure-camouflage-n-battle-indominus-rex-54cm/p/225144"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-dinosaur-action-figure-camouflage-n-battle-indominus-rex-54cm/p/225144",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J_Q08JoPGCs",
+      "channel": "TCF CREATOR",
+      "duration": 2618.0,
+      "title": "D-REX Vs. SPINOSAURUS Vs. INDOMINUS Final Battle 🦖 Jurassic World Rebirth"
+    },
+    {
+      "id": "NRGovhq2nq8",
+      "channel": "TCF CREATOR",
+      "duration": 2513.0,
+      "title": "T-Rex,Spino,Giga,Carnotaurus & Indominus Rex 🦖Jurassic World Battle| The BEST of Dino Toy Movie"
+    },
+    {
+      "id": "pMqq9ZKbD14",
+      "channel": "TCF CREATOR",
+      "duration": 2654.0,
+      "title": "D-REX VS T-REX VS SPINOSAURUS VS SCORPIOS REX 🦖 Dinosaur Toy Movie | Jurassic World"
+    },
+    {
+      "id": "mpuKNPGk_4Q",
+      "channel": "DINOSAURS SIMULATOR NTD",
+      "duration": 523.0,
+      "title": "DINOSAUR SURPRISE BOX! 🦖🎁 Indominus Rex & Captain America?! 🛡️🦖"
+    },
+    {
+      "id": "okiKoSnZp10",
+      "channel": "TCF CREATOR",
+      "duration": 2646.0,
+      "title": "T-REX Vs INDOMINUS Vs MOSASAURUS 🦖 Jurassic World Final Battle | Dinosaur Toy Movie"
+    }
+  ]
+}

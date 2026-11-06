@@ -1,0 +1,64 @@
+{
+  "id": "2017-12v-batmobile-electronic-ride-on",
+  "year": 2017,
+  "name": "12v Batmobile Electronic Ride On",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OoETh5PQ3aY",
+      "channel": "Ryan's World",
+      "duration": 438.0,
+      "title": "BATMAN BATMOBILE Power Wheels Batman 12V Dune Racer Unboxing"
+    },
+    {
+      "id": "fisYH77A7Z4",
+      "channel": "Radically Exquisite",
+      "duration": 1326.0,
+      "title": "The Batman Batmobile Unboxing (12V)"
+    },
+    {
+      "id": "SpkdCfRZ4dE",
+      "channel": "Action Wheels",
+      "duration": 59.0,
+      "title": "6V DC Comics Batman Batmobile Ride-On"
+    },
+    {
+      "id": "dkrA1T552bY",
+      "channel": "Kid VeVo",
+      "duration": 425.0,
+      "title": "BATMAN BATMOBILE Power Wheels Batman 12V Dune Racer Powered Ride On Car for Kids Unboxing and Riding"
+    },
+    {
+      "id": "19DMktVbATw",
+      "channel": "Your Review Channel",
+      "duration": 1058.0,
+      "title": "Batman E Cruiser Ride On Car Unboxing and Assembly"
+    }
+  ]
+}

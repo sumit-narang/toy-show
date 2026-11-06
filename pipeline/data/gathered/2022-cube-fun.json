@@ -1,0 +1,62 @@
+{
+  "id": "2022-cube-fun",
+  "year": 2022,
+  "name": "Cube Fun",
+  "price_eur": null,
+  "price_text": "£14.95",
+  "retailers": [
+    {
+      "name": "Cube Fun",
+      "url": "https://cubefun.co.uk/shop"
+    },
+    {
+      "name": "CubeFun",
+      "url": "https://cubefun.co.uk/shop"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://crabulous.com/shop"
+    },
+    {
+      "status": 404,
+      "final_url": "https://crabulous.com/shop"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xQNjSTBDrHE",
+      "channel": "Cube For Speed",
+      "duration": 163.0,
+      "title": "20 Things Cubers HATE"
+    },
+    {
+      "id": "bV8nE8ZJzxk",
+      "channel": "GooDMooD Archive",
+      "duration": 1989.0,
+      "title": "BEST CUBE V67 Best Memes Compilation August 2025"
+    },
+    {
+      "id": "7VS0yeG8ey8",
+      "channel": "Cube For Speed",
+      "duration": 130.0,
+      "title": "Cube but UNSOLVABLE"
+    },
+    {
+      "id": "g6dtpS2LjKg",
+      "channel": "FunCube 2.0",
+      "duration": 3311.0,
+      "title": "Best Coub! # 72 😂😂😂 | Memes compilation | Try not to LAUGH!"
+    },
+    {
+      "id": "ryap9g8Y_hs",
+      "channel": "TRAMBOLINO",
+      "duration": 666.0,
+      "title": "Best Cube #93 - Memes Compilation July 2025"
+    }
+  ]
+}

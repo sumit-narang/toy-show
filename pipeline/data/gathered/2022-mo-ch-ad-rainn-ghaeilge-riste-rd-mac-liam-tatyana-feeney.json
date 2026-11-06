@@ -1,0 +1,26 @@
+{
+  "id": "2022-mo-ch-ad-rainn-ghaeilge-riste-rd-mac-liam-tatyana-feeney",
+  "year": 2022,
+  "name": "Mo Chéad Rainn Ghaeilge - Risteárd Mac Liam, Tatyana Feeney",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "An Siopa Gaeilge",
+      "url": "http://siopagaeilge.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopagaeilge.ie/",
+      "title": "An Siopa Gaeilge | Oideas Gael",
+      "description": "Books, music & gifts from the Donegal Gaeltacht. We cater for language learners, teachers, schools and all those interested in Irish literature and culture.",
+      "image": "https://cdn.shopify.com/s/files/1/0502/6260/6004/files/siopa-gaeilge-logo2_c971dd95-1935-461e-a030-4e4f5371295e.jpg?v=1611144350"
+    }
+  ],
+  "video_candidates": []
+}

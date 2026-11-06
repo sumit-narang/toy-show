@@ -1,0 +1,54 @@
+{
+  "id": "2018-berg-go-2",
+  "year": 2018,
+  "name": "BERG GO 2",
+  "price_eur": 99.0,
+  "price_text": "€99.00",
+  "retailers": [
+    {
+      "name": "Eurocycles",
+      "url": "http://eurocycles.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2qGBzb6Avsc",
+      "channel": "Austin Rides",
+      "duration": 123.0,
+      "title": "BERG GO2 | 2-in-1 Push & Pedal | Toddler Bike Review"
+    },
+    {
+      "id": "Kgbfoqb7o_s",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 89.0,
+      "title": "BERG GO² Retro step and pedal car | specifications"
+    },
+    {
+      "id": "45OVoPxdzpk",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 17.0,
+      "title": "BERG GO2 pedal go-kart | Feels good to be proud!"
+    },
+    {
+      "id": "RFFjsHrHhjw",
+      "channel": "BERG Pedal Go-karts and Trampolines",
+      "duration": 14.0,
+      "title": "BERG GO2 accessories | specifications"
+    },
+    {
+      "id": "OZ1f6W9nJf8",
+      "channel": "iBOOD.com",
+      "duration": 130.0,
+      "title": "BERG GO2 Assembly"
+    }
+  ]
+}

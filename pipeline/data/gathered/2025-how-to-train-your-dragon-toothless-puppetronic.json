@@ -1,0 +1,57 @@
+{
+  "id": "2025-how-to-train-your-dragon-toothless-puppetronic",
+  "year": 2025,
+  "name": "How To Train Your Dragon Toothless Puppetronic",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/how-to-train-your-dragon/dreamworks-how-to-train-your-dragon-toothless-puppetronic-by-realfx-interactive-toy/p/245692"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/how-to-train-your-dragon/dreamworks-how-to-train-your-dragon-toothless-puppetronic-by-realfx-interactive-toy/p/245692",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A21ERIiXXt8",
+      "channel": "True Toys",
+      "duration": 153.0,
+      "title": "WOW! STUFF How to Train Your Dragon Toothless Puppetronic Plush"
+    },
+    {
+      "id": "fKV3NSFCiuM",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 865.0,
+      "title": "2025 ANIMATRONIC TOOTHLESS!!! WOW! Stuff How to Train your Dragon Toothless Puppetronic Review!!!"
+    },
+    {
+      "id": "iebmT_rEbEI",
+      "channel": "Toys & Smiles",
+      "duration": 524.0,
+      "title": "Demo and Review Toothless Puppetronic  How to Train Your Dragon Magic!"
+    },
+    {
+      "id": "ItjwDpkewQo",
+      "channel": "Victoria Clay",
+      "duration": 459.0,
+      "title": "Toothless Puppetronic by RealFX Unboxing | How to Train Your Dragon Magic!"
+    },
+    {
+      "id": "POsyUumao8Y",
+      "channel": "Banter Toys & Collectibles",
+      "duration": 31.0,
+      "title": "How to Train Your Dragon Toothless Puppetronic by RealFX"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-eugy-dragon",
+  "year": 2022,
+  "name": "Eugy Dragon",
+  "price_eur": 11.41,
+  "price_text": "€11.41",
+  "retailers": [
+    {
+      "name": "Eugy",
+      "url": "https://www.eugy.com/shop/024-Dragon-p135485030"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://eugy.com/products/024-dragon"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_HwcMRDsAcY",
+      "channel": "Eugy Dodoland",
+      "duration": 560.0,
+      "title": "How to make: 024 Dragon with fire EUGY"
+    },
+    {
+      "id": "8p4mGHuGxKA",
+      "channel": "Eugy Dodoland",
+      "duration": 484.0,
+      "title": "How to make: 085 Red Dragon EUGY"
+    },
+    {
+      "id": "Nf24rKbOV0Y",
+      "channel": "Eugy Dodoland",
+      "duration": 568.0,
+      "title": "How to make: 024 Dragon"
+    },
+    {
+      "id": "M3ZaWrAZBoE",
+      "channel": "Eugy Dodoland",
+      "duration": 200.0,
+      "title": "24 Dragon Eugy Instruction"
+    },
+    {
+      "id": "GkTqgXvbSHc",
+      "channel": "Eugy Dodoland",
+      "duration": 405.0,
+      "title": "How to make: D085 Door Hanger Red Dragon"
+    }
+  ]
+}

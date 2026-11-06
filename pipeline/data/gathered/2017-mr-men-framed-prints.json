@@ -1,0 +1,53 @@
+{
+  "id": "2017-mr-men-framed-prints",
+  "year": 2017,
+  "name": "Mr Men Framed Prints",
+  "price_eur": 18.0,
+  "price_text": "€18.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GNgv4KW-EGA",
+      "channel": "Mr. Men Little Miss Commentaries, Rants and More 3",
+      "duration": 481.0,
+      "title": "The Mr. Men Songs Remastered Part 1"
+    },
+    {
+      "id": "ATAvvJkbh44",
+      "channel": "Totally Tonies",
+      "duration": 903.0,
+      "title": "Totally Tonies: Mr Strong (UK): 15 Minute Audio Sample"
+    },
+    {
+      "id": "WgnPeqCPNfg",
+      "channel": "TheViewAreOnFire97",
+      "duration": 198.0,
+      "title": "The View - Mr. Men Book"
+    },
+    {
+      "id": "MoluVmpmsxU",
+      "channel": "VHSandStoryUploader89 Lives",
+      "duration": 1083.0,
+      "title": "The Mr. Men Stories (Side 2)"
+    },
+    {
+      "id": "K0BHaunrQQM",
+      "channel": "Totally Tonies",
+      "duration": 906.0,
+      "title": "Totally Tonies: Mr Tickle (UK): 15 Minute Audio Sample"
+    }
+  ]
+}

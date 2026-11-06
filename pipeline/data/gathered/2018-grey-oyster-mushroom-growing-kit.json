@@ -1,0 +1,57 @@
+{
+  "id": "2018-grey-oyster-mushroom-growing-kit",
+  "year": 2018,
+  "name": "Grey Oyster Mushroom Growing Kit",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DLZgGnCN954",
+      "channel": "Little Acre",
+      "duration": 542.0,
+      "title": "Little Acre Gourmet Mushrooms - Instructional Grow Kit Video"
+    },
+    {
+      "id": "R7AuZibY7E0",
+      "channel": "Stay Wyld Organics",
+      "duration": 349.0,
+      "title": "Grow Your Own Oyster Mushrooms - Stay Wyld Organics Grow Your Own Oyster Mushrooms Kit"
+    },
+    {
+      "id": "thp80Zuj-6o",
+      "channel": "Back to the Roots",
+      "duration": 178.0,
+      "title": "Mushroom Mini Farm How-To: Set-Up to Harvest"
+    },
+    {
+      "id": "OakVK9J2W7o",
+      "channel": "Freedom Film Productions",
+      "duration": 229.0,
+      "title": "Grey Oyster Mushroom Grow Kit Tutorial"
+    },
+    {
+      "id": "XmgLT5hzDIM",
+      "channel": "Boxlapse",
+      "duration": 87.0,
+      "title": "Growing Grey Oyster Mushroom Time Lapse"
+    }
+  ]
+}

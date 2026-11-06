@@ -1,0 +1,57 @@
+{
+  "id": "2025-our-generation-wheelchair-and-medical-care-heals-on-wheels-accessory-set",
+  "year": 2025,
+  "name": "Our Generation Wheelchair and Medical Care Heals on Wheels Accessory Set",
+  "price_eur": 42.99,
+  "price_text": "€42.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-wheelchair-and-medical-care-heals-on-wheels-accessory-set/p/163949"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-accessories/our-generation-wheelchair-and-medical-care-heals-on-wheels-accessory-set/p/163949",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-75_EZm4Vpc",
+      "channel": "MyAGPlayroom",
+      "duration": 205.0,
+      "title": "Our Generation the Heals on Wheels set for American Girl Dolls"
+    },
+    {
+      "id": "ED0EgccCZbQ",
+      "channel": "Jouet KID Toy",
+      "duration": 26.0,
+      "title": "Accessoires OG - \"Recovery Ready\""
+    },
+    {
+      "id": "jYQ4kB9EY28",
+      "channel": "Made for Kids",
+      "duration": 53.0,
+      "title": "Toy - Phoebe Hair Play Doll - Care Set with Foldable Wheelchair"
+    },
+    {
+      "id": "mCUc77w_A3w",
+      "channel": "Along Came Hollie",
+      "duration": 70.0,
+      "title": "Our generation"
+    },
+    {
+      "id": "xj_L7hcUb9I",
+      "channel": "Constance Bour",
+      "duration": 339.0,
+      "title": "How to Make a Doll Wheelchair 21531"
+    }
+  ]
+}

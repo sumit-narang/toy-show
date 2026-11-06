@@ -1,0 +1,60 @@
+{
+  "id": "2023-yabu-plushie",
+  "year": 2023,
+  "name": "Yabu Plushie",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/yabu-white-rollo-cat-posters-merchandise"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://goldendiscs.ie/products/yabu-white-rollo-cat-posters-merchandise",
+      "title": "Kenji Yabu White Rollo Cat [Toys]",
+      "description": "Kenji Yabu White Rollo Cat [Toys]",
+      "image": "http://goldendiscs.ie/cdn/shop/products/Yabu_White_Rollo_Cat_2048x_018c3431-caec-41cd-af7f-8a4e8e24b00f.png?v=1691138302",
+      "ld_description": "Kenji Yabu White Rollo Cat [Toys]",
+      "brand": "Golden Discs",
+      "ld_image": "https://goldendiscs.ie/cdn/shop/products/Yabu_White_Rollo_Cat_2048x_018c3431-caec-41cd-af7f-8a4e8e24b00f.png?v=1691138302&width=450"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C-A8yBV9Zpc",
+      "channel": "Hannah Enchanted",
+      "duration": 1134.0,
+      "title": "KENJI Merry Hill Shop Tour Come Shopping With Me! April 2024 Kenji Land Plushies Snacks Haul Vlog"
+    },
+    {
+      "id": "Qa4usvp93NI",
+      "channel": "RC Chick",
+      "duration": 647.0,
+      "title": "Jellycat & Kenji Plush Unboxing & Review"
+    },
+    {
+      "id": "ovbHX82OcDE",
+      "channel": "This is Steph",
+      "duration": 77.0,
+      "title": "Japanese  items in HMV UK"
+    },
+    {
+      "id": "n37tfbvLbS4",
+      "channel": "Yabu Store",
+      "duration": 127.0,
+      "title": "Yabu Store Figure Action Attack on Titan - Levi"
+    },
+    {
+      "id": "YABU-Ot-i2c",
+      "channel": "Sal's Comic Corner",
+      "duration": 235.0,
+      "title": "Unknown Comics unboxing - Amazing Spider-Man Slab"
+    }
+  ]
+}

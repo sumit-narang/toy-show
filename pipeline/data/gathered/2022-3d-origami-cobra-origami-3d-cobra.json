@@ -1,0 +1,57 @@
+{
+  "id": "2022-3d-origami-cobra-origami-3d-cobra",
+  "year": 2022,
+  "name": "3D Origami - Cobra ORIGAMI 3D - Cobra",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Alexander Toys",
+      "url": "http://alexandertoys.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://alexandertoys.com/",
+      "title": "Homepage - Alexander - one of the largest toys producers in Poland",
+      "description": "[...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://alexandertoys.com/\">Read More...</a></p>",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OIbwKpEgywI",
+      "channel": "Alexander Toys",
+      "duration": 1944.0,
+      "title": "ORIGAMI 3D - KOBRA (Cobra)"
+    },
+    {
+      "id": "2Y674gS5oGc",
+      "channel": "3dorigamivideos",
+      "duration": 498.0,
+      "title": "Easy 3D Origami Scorpion Tutorial for Beginners!"
+    },
+    {
+      "id": "kKvo9i88dbw",
+      "channel": "Ying 3D Origami",
+      "duration": 1944.0,
+      "title": "3D Origami - Cobra - Tutorial"
+    },
+    {
+      "id": "wf5qrZECyW8",
+      "channel": "onoy origami",
+      "duration": 1697.0,
+      "title": "Papercraft 3d origami cobra tutorial part 1"
+    },
+    {
+      "id": "DeRIeXzeEso",
+      "channel": "T[F]B",
+      "duration": 552.0,
+      "title": "Creative Tutorials: 3D Origami Snake"
+    }
+  ]
+}

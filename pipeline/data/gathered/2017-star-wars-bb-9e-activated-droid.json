@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-bb-9e-activated-droid",
+  "year": 2017,
+  "name": "Star Wars BB-9E Activated Droid",
+  "price_eur": 36.0,
+  "price_text": "€36.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d_N0L2MaBNo",
+      "channel": "The Review Spot",
+      "duration": 1250.0,
+      "title": "Toy Spot | Sphero Star Wars BB-9E App Enabled Droid"
+    },
+    {
+      "id": "sEHUcrxIGkY",
+      "channel": "ACT1ONJAXS0N",
+      "duration": 814.0,
+      "title": "NOTHING CAN STOP A MAX LEVEL 1000 BB-9E! BEST HERO IN BATTLEFRONT! - STAR WARS BATTLEFRONT 2 "
+    },
+    {
+      "id": "3thALYJVNzc",
+      "channel": "EFTM",
+      "duration": 168.0,
+      "title": "Sphero BB-9E, R2-D2 & BB-8 Droids: STAR WARS"
+    },
+    {
+      "id": "_p08AIP5jNg",
+      "channel": "Netcruzer",
+      "duration": 958.0,
+      "title": "Star Wars Sphero BB-9E App Enabled Droid Unboxing and Review - Netcruzer RC TECH"
+    },
+    {
+      "id": "bqCklWaH7k4",
+      "channel": "The Captain!",
+      "duration": 867.0,
+      "title": "Unboxing Star Wars Droids! Sphero! BB-8! R2-D2! BB-9E! R2-Q5!"
+    }
+  ]
+}

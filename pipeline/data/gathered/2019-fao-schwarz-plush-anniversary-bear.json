@@ -1,0 +1,54 @@
+{
+  "id": "2019-fao-schwarz-plush-anniversary-bear",
+  "year": 2019,
+  "name": "FAO Schwarz Plush Anniversary Bear",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/soft-toys/fao-schwarz/plush-anniversary-bear-12-inches/141780792.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/soft-toys/fao-schwarz/plush-anniversary-bear-12-inches/141780792.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dZyIAdIj1DU",
+      "channel": "FAO Schwarz",
+      "duration": 65.0,
+      "title": "FAO Schwarz Plush Anniversary Bear"
+    },
+    {
+      "id": "l-fIYHSmQs8",
+      "channel": "FAO Schwarz",
+      "duration": 50.0,
+      "title": "FAO Schwarz Adopt A Plush Toy Collection"
+    },
+    {
+      "id": "Lv5G9oNwt5I",
+      "channel": "Unboxing Boxes",
+      "duration": 216.0,
+      "title": "unboxing FAO Schwartz teddy bear Unboxing videos -"
+    },
+    {
+      "id": "TNK_-yWI5z0",
+      "channel": "Tropical Critters",
+      "duration": 95.0,
+      "title": "FAO Schwarz Tiger Plush Unboxing"
+    },
+    {
+      "id": "mYSH_Vh8-dU",
+      "channel": "CBS Miami",
+      "duration": 43.0,
+      "title": "Trending: FAO Schwarz"
+    }
+  ]
+}

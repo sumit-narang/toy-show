@@ -1,0 +1,60 @@
+{
+  "id": "2021-emily-eve-affirmation-cards",
+  "year": 2021,
+  "name": "Emily & Eve Affirmation Cards",
+  "price_eur": 19.5,
+  "price_text": "€19.50",
+  "retailers": [
+    {
+      "name": "Emily & Eve",
+      "url": "https://emilyandeve.ie/products/childrens-affirmation-cards"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://emilyandeve.ie/products/childrens-affirmation-cards",
+      "title": "Affirmation Cards for Kids | Confidence & Positive Self-Talk",
+      "description": "Children's affirmation cards designed to build confidence, positive self-talk and self-belief. 18 colourful cards for children aged 5–10, made in Ireland.",
+      "image": "http://emilyandeve.ie/cdn/shop/products/Childrens_positive_affirmation_cards_I_am_Brave_1200x1200.png?v=1763770266",
+      "ld_description": "Help your child build confidence, positive self-talk and self-belief with our colourful affirmation cards for kids. Designed for children aged 5–10, this set of 18 positive affirmation cards gives children simple, encouraging words they can return to whenever they need a little boost.\nPositive Affirmation Cards for Kids\nChildren are constantly learning what to think and say about themselves. These affirmation cards provide simple, positive messages that can help children practise a kinder inner voice and recognise their own strengths.\nEach card gives your child an encouraging thought to read, repeat, talk about or simply keep close — making them an easy addition to everyday routines at home or school.\nWhat's included?\nThis set contains 18 colourful affirmation cards, each featuring a positive message designed with children in mind.\nThey are easy for little hands to choose and use, whether your child wants to start the day with a positive thought, needs encouragement before something new or simply enjoys picking a card at random.\nHow can children use affirmation cards?\nThere are lots of ways to make the cards part of everyday life. Your child could:\n\nChoose one each morning as a positive start to the day\nKeep a favourite card beside their bed\nPick one before school or a new experience\nUse a card during a tricky or emotional moment\nRead an affirmation aloud and talk about what it means\nKeep one in a schoolbag or lunchbox as a little reminder\n\nThere doesn't need to be a right or",
+      "brand": "Emily and Eve",
+      "ld_image": "https://emilyandeve.ie/cdn/shop/products/Childrens_positive_affirmation_cards_I_am_Brave_1434x.png?v=1763770266"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bMYpBnEGJKg",
+      "channel": "LIVEYE ",
+      "duration": 1159.0,
+      "title": "Thank You Universe | Powerful Positive Affirmations For Gratitude"
+    },
+    {
+      "id": "x5VkK0kP3_I",
+      "channel": "Rising Higher Meditation ®",
+      "duration": 28830.0,
+      "title": "I Am Affirmations: Everything Is Working Out For Me - Reprogram Your Mind While You Sleep"
+    },
+    {
+      "id": "SAAkz-EkgWk",
+      "channel": "Sarah Kim",
+      "duration": 702.0,
+      "title": "PACK SHOPIFY ORDERS WITH ME! How I pack greeting cards for my small business - wholesale and retail!"
+    },
+    {
+      "id": "-lcCLb9no5c",
+      "channel": "MoonchaseDrama",
+      "duration": 7598.0,
+      "title": "Beautiful CEO chased,no one help,yet Street vendor nearbyKOs 10 thugs,she beg him marry her."
+    },
+    {
+      "id": "aISXCw0Pi94",
+      "channel": "TED",
+      "duration": 463.0,
+      "title": "How Every Child Can Thrive by Five | Molly Wright | TED"
+    }
+  ]
+}

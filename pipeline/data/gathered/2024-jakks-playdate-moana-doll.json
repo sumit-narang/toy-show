@@ -1,0 +1,57 @@
+{
+  "id": "2024-jakks-playdate-moana-doll",
+  "year": 2024,
+  "name": "Jakks Playdate Moana Doll",
+  "price_eur": 84.99,
+  "price_text": "€84.99",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.disneystore.eu/jakks-playdate-moana-doll---81cm-416128168179.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.eu/jakks-playdate-moana-doll---81cm-416128168179.html",
+      "title": "Jakks Playdate Moana Doll - 81cm | Disney Store",
+      "description": "Jakks Playdate Moana Doll - 81cm",
+      "image": "https://cdn.s7.shopdisney.eu/is/image/DisneyStoreES/416128168179"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gbRTELljPz8",
+      "channel": "NA",
+      "duration": 658.0,
+      "title": "Jakks Pacific Target Exclusive Disney Playdate Moana 32” Doll Review✨- Magical Monday!"
+    },
+    {
+      "id": "2ZfvKry09LA",
+      "channel": "NA",
+      "duration": 705.0,
+      "title": "DOLL HAUL: Disney My Size Moana Doll, Box Opening and Review"
+    },
+    {
+      "id": "fKvshqMXh9A",
+      "channel": "NA",
+      "duration": 67.0,
+      "title": "Disney Store Moana Doll for Kids | Our Point Of View"
+    },
+    {
+      "id": "TSkCJvDTflg",
+      "channel": "NA",
+      "duration": 21.0,
+      "title": "Disney Princess Playdate Dolls & Dresses TV Commercial - 2025"
+    },
+    {
+      "id": "qlLr9nowuc0",
+      "channel": "NA",
+      "duration": 755.0,
+      "title": "Rapunzel & Moana HUGE 32' INCHES TALL Disney Dolls by Jakks Pacific (REVIEW)"
+    }
+  ]
+}

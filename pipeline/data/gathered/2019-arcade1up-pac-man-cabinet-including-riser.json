@@ -1,0 +1,57 @@
+{
+  "id": "2019-arcade1up-pac-man-cabinet-including-riser",
+  "year": 2019,
+  "name": "Arcade1Up PAC-MAN Cabinet Including Riser",
+  "price_eur": 399.99,
+  "price_text": "€399.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/retro-gaming/arcade1up-pac-man-cabinet-including-riser/p/174310"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/retro-gaming/arcade1up-pac-man-cabinet-including-riser/p/174310",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1HrG3PHyXco",
+      "channel": "The POP! Arcade",
+      "duration": 1630.0,
+      "title": "AU Arcade1Up Pac-Man 40th Anniversary Full Unboxing & Build! 🇦🇺"
+    },
+    {
+      "id": "h7JJ9pfSekc",
+      "channel": "The Toy Room",
+      "duration": 156.0,
+      "title": "Arcade1Up Pac-Man Bundle With New Riser Graphics!"
+    },
+    {
+      "id": "vdYNrQvigdM",
+      "channel": "QVC",
+      "duration": 347.0,
+      "title": "Arcade1Up Pac-Man Home Arcade Machine with Riser on QVC"
+    },
+    {
+      "id": "qxF6UgAiVRI",
+      "channel": "CinemaZeeVT",
+      "duration": 1073.0,
+      "title": "Arcade1UP Pac-Man Cabinet + 1ft Riser - Unboxing & Setup | Zonic Builds"
+    },
+    {
+      "id": "wjjhS4OPV0k",
+      "channel": "QVC",
+      "duration": 752.0,
+      "title": "Arcade1Up Pac-Man Home Arcade Machine with Riser and Vintage Sign on QVC"
+    }
+  ]
+}

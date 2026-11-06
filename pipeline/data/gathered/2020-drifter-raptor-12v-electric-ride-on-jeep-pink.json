@@ -1,0 +1,57 @@
+{
+  "id": "2020-drifter-raptor-12v-electric-ride-on-jeep-pink",
+  "year": 2020,
+  "name": "Drifter Raptor 12V Electric Ride on Jeep (Pink)",
+  "price_eur": 189.95,
+  "price_text": "€189.95",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://www.funstuff.ie/drifter-raptor-electric-ride-on-jeep-pink/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/drifter-raptor-powerful-12v-electric-ride-on-jeep-pink/",
+      "title": "Drifter Raptor Powerful 12V Electric Ride On Jeep Pink",
+      "description": "The Drifter Raptor Powerful 12V Electric Ride On Jeep Pink is suitable for ages 3-8 years old and on flat grass surface.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/691/images/16033/funstuff-drifter-raptor-powerful-12v-electric-ride-on-jeep-pink__13894.1790749765.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OIOI547s2q0",
+      "channel": "ChildWood Play",
+      "duration": 57.0,
+      "title": "Kids 12v Electric Ride on Drifter Jeep"
+    },
+    {
+      "id": "9LR3VEnbqUE",
+      "channel": "Doresoom Reviews",
+      "duration": 214.0,
+      "title": "Best Choice Products Ride On Truck Review - See It In Action!"
+    },
+    {
+      "id": "m2BqrggqSc4",
+      "channel": "Surbaby -",
+      "duration": 42.0,
+      "title": "Auto a Bateria Jeep Drifter Raptor 12V"
+    },
+    {
+      "id": "IXrpmd19QBc",
+      "channel": "Dashunthetruth",
+      "duration": 750.0,
+      "title": "Best Choice Products Kids 12v Jeep Assembly  - Step By Step Install Guide"
+    },
+    {
+      "id": "4bIDsbzUkFI",
+      "channel": "Оля Луців",
+      "duration": 160.0,
+      "title": "Jeep Drifter Raptor 12V Electric Car, дитячи електро мобіліль  на акамуляторі 12в, частина 1"
+    }
+  ]
+}

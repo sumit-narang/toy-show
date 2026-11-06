@@ -1,0 +1,57 @@
+{
+  "id": "2020-lidl-playtive-junior-vet-set",
+  "year": 2020,
+  "name": "Lidl Playtive Junior Vet Set",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Lidl",
+      "url": "https://www.lidl.ie/en/p/christmas-toys/vet-play-set/p55462"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lidl.ie/c/christmas/s10020497",
+      "title": "Christmas 2026 –  Gifts, Food, Decorations & More | Lidl Ireland",
+      "description": "Discover everything you need for Christmas at Lidl Ireland – from festive food and treats to gifts, decorations and drinks. Celebrate the season with More to Value.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6LtEBuLexc8",
+      "channel": "Fun For The Little Ones",
+      "duration": 164.0,
+      "title": "Playtive Junior Surprise Egg, Vet Collectable Egg, Lidl Building Bricks Like Lego"
+    },
+    {
+      "id": "ovj4vAYR8jI",
+      "channel": "Fun For The Little Ones",
+      "duration": 123.0,
+      "title": "Playtive Junior Surprise Egg, Construction Worker Collectable Egg, Lidl Building Bricks Like Lego"
+    },
+    {
+      "id": "2idTzD9pYcU",
+      "channel": "Fun For The Little Ones",
+      "duration": 874.0,
+      "title": "6 Playtive Junior Surprise Eggs Compilation, Collectable, Lidl Building Bricks Like Lego"
+    },
+    {
+      "id": "824HkQjl-AY",
+      "channel": "Out of the BOX UNBOXING",
+      "duration": 227.0,
+      "title": "Playtive Junior Wooden Elephant Game UNBOXING (Lidl 60 pcs real wood)"
+    },
+    {
+      "id": "6gR54U9kdmU",
+      "channel": "EUROROVER",
+      "duration": 62.0,
+      "title": "Адвенткалендар  PlayTive Junior ( Німеччина)"
+    }
+  ]
+}

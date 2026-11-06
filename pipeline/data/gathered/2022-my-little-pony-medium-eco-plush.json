@@ -1,0 +1,54 @@
+{
+  "id": "2022-my-little-pony-medium-eco-plush",
+  "year": 2022,
+  "name": "My Little Pony Medium Eco Plush",
+  "price_eur": 17.0,
+  "price_text": "€17",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/co07663?_pos=16&_sid=edfbe3215&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/co07663?_pos=16&_sid=edfbe3215&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lDx_h_dT2d8",
+      "channel": "Double Surprise Reviews",
+      "duration": 449.0,
+      "title": "Custom Pony Review :: Epicrainbowcrafts - $450+ Medium-Size Malice Plushie"
+    },
+    {
+      "id": "fUPjktQi_CY",
+      "channel": "TheRealSparky",
+      "duration": 1621.0,
+      "title": "Every MLP G4 and Equestria Girls Toy Commercial"
+    },
+    {
+      "id": "yUBwbnoyMKg",
+      "channel": "Aphinity",
+      "duration": 786.0,
+      "title": "Unboxing of a Lifesize Derpy MLP Plush by QT Pony"
+    },
+    {
+      "id": "d_2il5vOzR8",
+      "channel": "Kiwi Kollector",
+      "duration": 754.0,
+      "title": "Electronic My Little Pony - Talking Celestia,  Chrysalis, Cadence and Twilight Sparkle - Toy Review"
+    },
+    {
+      "id": "bPmI8FMpgUU",
+      "channel": "Lisa’s Diary ",
+      "duration": 1033.0,
+      "title": "ASMR | Opening My Little Pony Sweetheart Paradise blind boxes !!🎀"
+    }
+  ]
+}

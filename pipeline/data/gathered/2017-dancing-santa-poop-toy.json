@@ -1,0 +1,57 @@
+{
+  "id": "2017-dancing-santa-poop-toy",
+  "year": 2017,
+  "name": "Dancing Santa Poop Toy",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Claires Accessories",
+      "url": "http://www.claires.com/?lang=en&redirect=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.claires.com/?lang=en&redirect=1",
+      "title": "Claire's: Ear Piercing, Jewelry & Accessories for Girls & Teens",
+      "description": "Every girl's first piercing starts at Claire's. Safe, hypoallergenic starter earrings. Over 130M ears pierced. Book your appointment today.",
+      "image": "https://www.claires.com/cdn/shop/files/updatedfavicon.png?v=1784566041&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OUeYcaqB9P4",
+      "channel": "Timetuplay27 ",
+      "duration": 118.0,
+      "title": "2002 Gemmy Santa Homer Simpson"
+    },
+    {
+      "id": "zBJ9gO9u4II",
+      "channel": "MyInspirationCornerReviews",
+      "duration": 93.0,
+      "title": "Farting Santa Plush Review | Hilarious Talking, Dancing, Singing Christmas Toy"
+    },
+    {
+      "id": "bHn9DnWv1Rg",
+      "channel": "A Gabriel Adventure",
+      "duration": 70.0,
+      "title": "Singing Christmas Toys"
+    },
+    {
+      "id": "NePW5BxYt_8",
+      "channel": "Lucky Lion Bear",
+      "duration": 114.0,
+      "title": "2019 Santa Singing Plush Dolls Hot Cocoa Gnome Beach Holiday & More Electronic Toys"
+    },
+    {
+      "id": "P33gO2Cr968",
+      "channel": "bbstuff",
+      "duration": 26.0,
+      "title": "American Greeting Co. - Animated Dancing Reindeer “Jingle Bells”"
+    }
+  ]
+}

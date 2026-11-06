@@ -1,0 +1,60 @@
+{
+  "id": "2020-ty-beanie-boo-harmonie-unicorn-large-16",
+  "year": 2020,
+  "name": "Ty Beanie Boo Harmonie Unicorn Large 16\"",
+  "price_eur": 34.5,
+  "price_text": "€34.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-beanie-boo-harmonie-unicorn-large-16"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebubbleroom.ie/products/ty-beanie-boo-harmonie-unicorn-large-16",
+      "title": "Ty Beanie Boo harmonie Unicorn Large 16",
+      "description": "The new Ty line in a retro lookBeanie Boo'sFor collectorsOver 40 different designsGlitter eyes Large 16 inch",
+      "image": "http://www.thebubbleroom.ie/cdn/shop/products/BeanieBooHarmonieUnicorn_1200x1200.jpg?v=1595522670",
+      "ld_description": "The new Ty line in a retro lookBeanie Boo'sFor collectorsOver 40 different designsGlitter eyes\nLarge 16 inch",
+      "brand": "Ty",
+      "ld_image": "https://www.thebubbleroom.ie/cdn/shop/products/BeanieBooHarmonieUnicorn_974x.jpg?v=1595522670"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vb4IujBMIOo",
+      "channel": "Ty",
+      "duration": 427.0,
+      "title": "Beanie Boo Dreams"
+    },
+    {
+      "id": "8ZdoHmdpAvI",
+      "channel": "Ha Sa",
+      "duration": 676.0,
+      "title": "Guess The Beanie Boo Challenge!"
+    },
+    {
+      "id": "o5RYN1od6SQ",
+      "channel": "Ha Sa",
+      "duration": 460.0,
+      "title": "Beanie Boos: Homeless {short film}"
+    },
+    {
+      "id": "7hMMBK8CIYA",
+      "channel": "OhcluckToys",
+      "duration": 1092.0,
+      "title": "Beanie Boo Mystery Box from TY Unboxing Toy Review TY Beanie Boos Plush Halloween, Christmas & More!"
+    },
+    {
+      "id": "JsHwlrePqsQ",
+      "channel": "Feisty Films",
+      "duration": 432.0,
+      "title": "Feisty Pets vs. Beanie Boos! Feisty Films Ep. 75"
+    }
+  ]
+}

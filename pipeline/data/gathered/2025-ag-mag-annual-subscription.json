@@ -1,0 +1,57 @@
+{
+  "id": "2025-ag-mag-annual-subscription",
+  "year": 2025,
+  "name": "AG MAG - (Annual Subscription)",
+  "price_eur": 49.5,
+  "price_text": "€49.50",
+  "retailers": [
+    {
+      "name": "AG MAG",
+      "url": "https://agmag.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://agmag.ie/",
+      "title": "AG MAG Children's Farming Magazine",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GtIcEYll2Yc",
+      "channel": "Dena,Original",
+      "duration": 3077.0,
+      "title": "Kulthum's adventurous day: 🏔️🌿🐦 Cleaning the spring for the birds and collecting wild fruits🍋!"
+    },
+    {
+      "id": "xPzAcUqXLc4",
+      "channel": "Lagi",
+      "duration": 3284.0,
+      "title": "Lawyer arrives to pursue Mashallah and his first wife's case (Narges); big shock to second wife"
+    },
+    {
+      "id": "5GDOGhf7rjQ",
+      "channel": "Kohrig 78",
+      "duration": 3711.0,
+      "title": "Hatred and jealousy: The first lady is angry that the second lady has become close to her husband."
+    },
+    {
+      "id": "ZVHHvllcESY",
+      "channel": "Lý Thanh Thúy",
+      "duration": 3358.0,
+      "title": "Finishing the fence base and pillars — moments from Thúy’s hard work today. Ly Thanh Thuy "
+    },
+    {
+      "id": "iy8R2ciXekU",
+      "channel": "Nsim",
+      "duration": 3123.0,
+      "title": "**Arash and Setareh until the last moment… and then Mirza's \"special surprise\" for Aghdas!**"
+    }
+  ]
+}

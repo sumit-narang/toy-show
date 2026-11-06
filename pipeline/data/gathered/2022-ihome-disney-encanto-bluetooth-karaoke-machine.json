@@ -1,0 +1,57 @@
+{
+  "id": "2022-ihome-disney-encanto-bluetooth-karaoke-machine",
+  "year": 2022,
+  "name": "iHome Disney Encanto Bluetooth Karaoke Machine",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/ihome-disney-encanto-bluetooth-karaoke-machine-with-ez-link-technology/p/209374"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/ihome-disney-encanto-bluetooth-karaoke-machine-with-ez-link-technology/p/209374",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7kjFN-xTn-I",
+      "channel": "TTPM Toy Reviews",
+      "duration": 123.0,
+      "title": "iHome Disney Encanto Wireless Headphones and Karaoke Machine from eKids Review!"
+    },
+    {
+      "id": "SaLzftMLK6o",
+      "channel": "eKids",
+      "duration": 46.0,
+      "title": "Disney Encanto Bluetooth Karaoke Microphone with EZ Link Technology"
+    },
+    {
+      "id": "Wfv5_GfMAbA",
+      "channel": "eKids",
+      "duration": 40.0,
+      "title": "Disney Encanto EZ Link Karaoke Machine"
+    },
+    {
+      "id": "_TKzVCMad9I",
+      "channel": "TTPM Toy Reviews",
+      "duration": 114.0,
+      "title": "Disney Frozen and Disney Princess iHome EZ Link Bluetooth Karaoke Machines from eKids Review!"
+    },
+    {
+      "id": "Ye3Y7UkL_tw",
+      "channel": "Mike From Maine Show",
+      "duration": 62.0,
+      "title": "eKids Disney Karaoke Machine for Kids with Bluetooth Speaker and Wireless Microphone review"
+    }
+  ]
+}

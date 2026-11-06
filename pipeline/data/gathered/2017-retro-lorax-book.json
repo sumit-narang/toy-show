@@ -1,0 +1,53 @@
+{
+  "id": "2017-retro-lorax-book",
+  "year": 2017,
+  "name": "Retro Lorax Book",
+  "price_eur": 15.0,
+  "price_text": "€15.00",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6moGLmmaQCc",
+      "channel": "Dr. Seuss",
+      "duration": 907.0,
+      "title": "Full Episode: The Lorax | Official Animated Read-Along | Storytime | Dr. Seuss"
+    },
+    {
+      "id": "l1-CB5588EI",
+      "channel": "yasource",
+      "duration": 85.0,
+      "title": "Dr.Seuss The Lorax First edition Book"
+    },
+    {
+      "id": "8V06ZOQuo0k",
+      "channel": "jefronty",
+      "duration": 1513.0,
+      "title": "The Lorax (original)"
+    },
+    {
+      "id": "Dx0kp8cSqgs",
+      "channel": "Lowplex Books",
+      "duration": 99.0,
+      "title": "Dr Seuss A Classic Case 20 Book Set Box Collection Pack - Book Unboxing"
+    },
+    {
+      "id": "ozKJwrwJu4M",
+      "channel": "Bionic Disco",
+      "duration": 38.0,
+      "title": "Dr. Seuss' 'The Lorax': 'Under the Trees' Song (1972)"
+    }
+  ]
+}

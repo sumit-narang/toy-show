@@ -1,0 +1,44 @@
+{
+  "id": "2022-cat-kid-comic-club-on-purpose-dav-pilkey",
+  "year": 2022,
+  "name": "Cat Kid: Comic Club on Purpose - Dav Pilkey",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "hP5GcgpWxL0",
+      "channel": "Scholastic UK",
+      "duration": 80.0,
+      "title": "CAT KID COMIC CLUB | Dav Pilkey Reads Aloud from Cat Kid Comic Club: On Purpose"
+    },
+    {
+      "id": "Tpe0fM4CVOA",
+      "channel": "Popcorn and Books (Universal Popcorn)",
+      "duration": 2835.0,
+      "title": "Cat Kid Comic Club: On Purpose (2022) (MOST VIEWED)"
+    },
+    {
+      "id": "rE6C3Wm5m6o",
+      "channel": "Ash Reads",
+      "duration": 744.0,
+      "title": "Ash reads Cat Kid Comic Club On Purpose Part 1 by Dav Pilkey From the Creator of Dog Man"
+    },
+    {
+      "id": "c5WgGGU10-A",
+      "channel": "AnimaZing Story!",
+      "duration": 640.0,
+      "title": "We're gonna be MILLIONAIRES! - Cat Kid Comic Club: On Purpose"
+    },
+    {
+      "id": "1pBfGQBnsAQ",
+      "channel": "Scholastic",
+      "duration": 31.0,
+      "title": "Cat Kid Comic Club: Perspectives by Dav Pilkey"
+    }
+  ]
+}

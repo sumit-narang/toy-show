@@ -1,0 +1,57 @@
+{
+  "id": "2018-avengers-infinity-gauntlet",
+  "year": 2018,
+  "name": "Avengers Infinity Gauntlet",
+  "price_eur": 120.0,
+  "price_text": "120",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yzrjibEGwlg",
+      "channel": "TopMovieClips",
+      "duration": 247.0,
+      "title": "Hulk Snap Scene - Avengers: Endgame (2019) Movie Clip HD"
+    },
+    {
+      "id": "_oOiiqlfj60",
+      "channel": "Prince Bhaura",
+      "duration": 292.0,
+      "title": "All Infinity Gauntlet Powers, Effects, and Sounds HD Avengers Infinity War"
+    },
+    {
+      "id": "vxw00NkUugo",
+      "channel": "Comics Explained",
+      "duration": 8925.0,
+      "title": "Marvel’s Infinity Gauntlet: Full Story"
+    },
+    {
+      "id": "SQYf2qJPycE",
+      "channel": "CinemaBlend",
+      "duration": 192.0,
+      "title": "Watch The Avengers: Infinity War Cast Go Nuts When Given Thanos' Infinity Gauntlet"
+    },
+    {
+      "id": "2Nr6_WKgaOQ",
+      "channel": "Marvel Universe Entertainment",
+      "duration": 99.0,
+      "title": "'Struggle For The Gauntlet' - Avengers: Endgame (2019) | Movie Clip HD"
+    }
+  ]
+}

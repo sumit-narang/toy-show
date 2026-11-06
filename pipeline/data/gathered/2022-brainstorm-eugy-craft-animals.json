@@ -1,0 +1,57 @@
+{
+  "id": "2022-brainstorm-eugy-craft-animals",
+  "year": 2022,
+  "name": "Brainstorm Eugy Craft Animals",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Brainstorm Ltd",
+      "url": "https://www.brainstormltd.co.uk/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://brainstormltd.co.uk/",
+      "title": "Brainstorm Ltd - educational toys, gadgets, games and gifts",
+      "description": "Brainstorm Ltd is a leading trade supplier of unique and educational toys, gadgets and gifts. We welcome all visitors to view our product range, but only trade customers can purchase from this site.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VgAYVMELuo0",
+      "channel": "Genuine Reviews With Julie",
+      "duration": 119.0,
+      "title": "EUGY Wolf Craft Kit Review 🐺 | Easy 3D Animal Model for Kids or Adults?"
+    },
+    {
+      "id": "6NqD_s_fxf0",
+      "channel": "BrainstormLtd",
+      "duration": 497.0,
+      "title": "EUGY Unicorn"
+    },
+    {
+      "id": "wxCXg3wyfn8",
+      "channel": "BrainstormLtd",
+      "duration": 181.0,
+      "title": "EUGY product video"
+    },
+    {
+      "id": "0j5H53ednNs",
+      "channel": "BrainstormLtd",
+      "duration": 506.0,
+      "title": "EUGY Crane Instruction Video"
+    },
+    {
+      "id": "PVXcgc__U5g",
+      "channel": "BrainstormLtd",
+      "duration": 418.0,
+      "title": "EUGY demo and new products 2021"
+    }
+  ]
+}

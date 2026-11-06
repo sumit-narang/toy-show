@@ -1,0 +1,57 @@
+{
+  "id": "2019-dk-eyewitness-books-crystal-gem",
+  "year": 2019,
+  "name": "DK Eyewitness Books: Crystal & Gem",
+  "price_eur": 10.5,
+  "price_text": "€10.50",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.bookdepository.com/DK-Eyewitness-Books-Crystal-Gem-Dr-R-F-Symes/9781465420527"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.com/b/ref=usbk_surl_books/?node=283155",
+      "title": null,
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i1hcWGMAl7g",
+      "channel": "Omer Books",
+      "duration": 69.0,
+      "title": "Eyewitness Crystal and Gem"
+    },
+    {
+      "id": "t0qdgWMAlk0",
+      "channel": "Minibabycare Books",
+      "duration": 59.0,
+      "title": "DK Our World in Pictures The Rock and Gem Book"
+    },
+    {
+      "id": "B0UIAEOCxj0",
+      "channel": "Step Inside a Book",
+      "duration": 103.0,
+      "title": "DK Rocks and Minerals"
+    },
+    {
+      "id": "Z_QZpMEj-t0",
+      "channel": "Oreo Brewer",
+      "duration": 180.0,
+      "title": "#290 Eyewitness Crystal & Gem: New Edition 2023 "
+    },
+    {
+      "id": "XjOqO86kA8g",
+      "channel": "HOLLYWOOD CARNY",
+      "duration": 1056.0,
+      "title": "Crystal and Gem Books Review"
+    }
+  ]
+}

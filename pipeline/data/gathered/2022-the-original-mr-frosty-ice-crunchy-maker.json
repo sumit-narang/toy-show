@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-original-mr-frosty-ice-crunchy-maker",
+  "year": 2022,
+  "name": "The Original Mr. Frosty Ice Crunchy Maker",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EX07BBmrvhE",
+      "channel": "TV Vault Australia",
+      "duration": 35.0,
+      "title": "MR FROSTY (1982) - Ice Crunchie Maker - TV Ad"
+    },
+    {
+      "id": "fIoSywDjSt8",
+      "channel": "Retro or Bust!",
+      "duration": 507.0,
+      "title": "My First Video! - The Original 70's Mr Frosty Ice Crunchie Maker! Does it work?? | Retro Or Bust!"
+    },
+    {
+      "id": "lsts2iV7PP8",
+      "channel": "The CJ Advert Archive",
+      "duration": 21.0,
+      "title": "Mr Frosty Ad 3 (1993 UK)"
+    },
+    {
+      "id": "dQAwmDjz3zs",
+      "channel": "Calvin Jacks (Original)",
+      "duration": 20.0,
+      "title": "Mr Frosty Ad - Choc Ice Maker (2017 UK) (PAL)"
+    },
+    {
+      "id": "Y3vuSDu0qEI",
+      "channel": "Toymaster Ltd",
+      "duration": 21.0,
+      "title": "Mr Frosty Choc Ice Maker"
+    }
+  ]
+}

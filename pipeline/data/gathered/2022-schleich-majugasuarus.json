@@ -1,0 +1,54 @@
+{
+  "id": "2022-schleich-majugasuarus",
+  "year": 2022,
+  "name": "Schleich Majugasuarus",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0LX91T0DBnk",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 863.0,
+      "title": "2022 Schleich Majungasaurus Review!!! Dinosaur King style!!!"
+    },
+    {
+      "id": "cCbYkfeW-CQ",
+      "channel": "Darian The Dinosaur",
+      "duration": 275.0,
+      "title": "Schleich 2022 Majungasaurus review"
+    },
+    {
+      "id": "nOINZJGItpg",
+      "channel": "Everything Dinosaur",
+      "duration": 45.0,
+      "title": "Schleich Majungasaurus Video Showcase"
+    },
+    {
+      "id": "wafIUTbkOnI",
+      "channel": "Dan Surprise",
+      "duration": 1789.0,
+      "title": "Hatching New Dinosaurs Toys - Jurassic World Mashems, T-Rex, Majungasaurus, Styracosaurus"
+    },
+    {
+      "id": "avilkUNtLwI",
+      "channel": "The Entertainer",
+      "duration": 23.0,
+      "title": "Schleich Dinosaurs Majungasaurus Figure"
+    }
+  ]
+}

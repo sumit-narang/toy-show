@@ -1,0 +1,54 @@
+{
+  "id": "2022-hot-air-balloon-lampshade",
+  "year": 2022,
+  "name": "Hot Air Balloon Lampshade",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EzwjTgyvf0s",
+      "channel": "Dainty Diaries",
+      "duration": 1241.0,
+      "title": "Whimsical IKEA hot air balloon lamp HACK  🎈"
+    },
+    {
+      "id": "nM4NZ3eFbF4",
+      "channel": "crochetdesignidea",
+      "duration": 1525.0,
+      "title": "Awesome💥Different crochet balloon lampshade lamp idea!#crochetinspiration #crochet#knittingstitches"
+    },
+    {
+      "id": "JBtw4N0m-uo",
+      "channel": "Katie Ann",
+      "duration": 38.0,
+      "title": "Light up your space with this Hot Air Balloon Night Light"
+    },
+    {
+      "id": "iutY8guiNvc",
+      "channel": "Kitty Ideas",
+      "duration": 951.0,
+      "title": "Amazing Hot Air Balloon light ! Craft Anyone Can Do"
+    },
+    {
+      "id": "qBh1bDMgSd4",
+      "channel": "happyhoop",
+      "duration": 103.0,
+      "title": "How to assemble happyhoop Set of 10 Mini Hot Air Balloon Lamp Shades with Fairy Lights?"
+    }
+  ]
+}

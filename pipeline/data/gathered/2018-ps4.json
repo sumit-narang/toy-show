@@ -1,0 +1,69 @@
+{
+  "id": "2018-ps4",
+  "year": 2018,
+  "name": "PS4",
+  "price_eur": 339.99,
+  "price_text": "from €339.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vcPorjvFH5s",
+      "channel": "Austin Evans",
+      "duration": 764.0,
+      "title": "Why You Need a PS4 in 2026"
+    },
+    {
+      "id": "UE4c-kTp6Po",
+      "channel": "Bezeur",
+      "duration": 658.0,
+      "title": "Why I Bought a PS4 PRO In 2026..."
+    },
+    {
+      "id": "ASr54kwrKJo",
+      "channel": "Denki",
+      "duration": 1068.0,
+      "title": "The PS4 is GREAT in 2026!"
+    },
+    {
+      "id": "AA7LN6go12k",
+      "channel": "Orlando3",
+      "duration": 80.0,
+      "title": "How to turn on NETFLIX on PS4"
+    },
+    {
+      "id": "99OZ0Ipq0pM",
+      "channel": "Spec Tech",
+      "duration": 652.0,
+      "title": "How Far Can I Upgrade This 2013 PS4?!"
+    }
+  ]
+}

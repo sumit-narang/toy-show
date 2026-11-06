@@ -1,0 +1,54 @@
+{
+  "id": "2023-blank-comic-book-draw-your-own-manga",
+  "year": 2023,
+  "name": "Blank Comic Book Draw Your Own Manga",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ChsJPFvjMk8",
+      "channel": "Draw like a Sir",
+      "duration": 1245.0,
+      "title": "HOW TO CREATE A MANGA/COMIC  [Complete Process] | DrawlikeaSir"
+    },
+    {
+      "id": "-HLwTwlAw3g",
+      "channel": "Shrimpy",
+      "duration": 739.0,
+      "title": "I Made my First MANGA in 1 WEEK!! 👀🎨 (Chapter 1)"
+    },
+    {
+      "id": "mhPPxFGD3Qs",
+      "channel": "Coloring Book Kim",
+      "duration": 41.0,
+      "title": "Blank Comic Book: Draw Your Own Comics, Comic Panels for Drawing, Templates for Comics"
+    },
+    {
+      "id": "w78efwZNnmI",
+      "channel": "Coloring Book Kim",
+      "duration": 42.0,
+      "title": "Blank Comic Book: Blank Comic Book: Draw Your own Comics And Create The Best Stories."
+    },
+    {
+      "id": "HbC3COF33k0",
+      "channel": "KeshArt",
+      "duration": 258.0,
+      "title": "How to ACTUALLY make your First Comic?"
+    }
+  ]
+}

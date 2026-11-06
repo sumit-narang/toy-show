@@ -1,0 +1,42 @@
+{
+  "id": "2020-yoga-mad-warrior-yoga-mat-ii-4mm",
+  "year": 2020,
+  "name": "Yoga-Mad Warrior Yoga Mat II 4mm",
+  "price_eur": 22.35,
+  "price_text": "€22.35",
+  "retailers": [
+    {
+      "name": "Great Outdoors",
+      "url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 500,
+      "final_url": "https://eur01.safelinks.protection.outlook.com/GetUrlReputation"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3mK1gCHHsoo",
+      "channel": "Mad-HQ",
+      "duration": 40.0,
+      "title": "The Warrior Yoga Mat by Yoga-Mad"
+    },
+    {
+      "id": "7oUImbgf_aQ",
+      "channel": "Mad-HQ",
+      "duration": 40.0,
+      "title": "The Lotus Beginner Yoga Mat by Yoga-Mad"
+    },
+    {
+      "id": "jXqk5dNkPiA",
+      "channel": "SKS Props",
+      "duration": 947.0,
+      "title": "How to Cosplay using EVA Foam Basics Beginner's Tutorial - Tools and Materials for Armor & Props"
+    }
+  ]
+}

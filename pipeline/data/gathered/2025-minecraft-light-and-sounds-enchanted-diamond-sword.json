@@ -1,0 +1,57 @@
+{
+  "id": "2025-minecraft-light-and-sounds-enchanted-diamond-sword",
+  "year": 2025,
+  "name": "Minecraft Light and Sounds Enchanted Diamond Sword",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kids-costumes-dress-up-and-face-paint/character-and-super-hero-and-dress-up/minecraft-light-and-sounds-sword/p/164753"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kids-costumes-dress-up-and-face-paint/character-and-super-hero-and-dress-up/minecraft-light-and-sounds-sword/p/164753",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3MIkY41r7hk",
+      "channel": "Greninja",
+      "duration": 33.0,
+      "title": "New Minecraft Peripheral Sounding Flashing Toy Sword Model Plastic Game Sword"
+    },
+    {
+      "id": "G5ALQXtwSnE",
+      "channel": "Redstone Raichu",
+      "duration": 72.0,
+      "title": "Light-up Minecraft sword"
+    },
+    {
+      "id": "SGf5YaQj_XI",
+      "channel": "Glow Products - Glowproducts.com",
+      "duration": 15.0,
+      "title": "Light Up 8-Bit Pixel Sword"
+    },
+    {
+      "id": "5NTObG4SOpY",
+      "channel": "Evelyne",
+      "duration": 514.0,
+      "title": "MINECRAFT Light Up Adventure SWORD - Role Play Action Toy UNBOXING and REVIEW"
+    },
+    {
+      "id": "rFhEOhZK7Ek",
+      "channel": "Mamistas",
+      "duration": 24.0,
+      "title": "D-Tap in Mace PVP"
+    }
+  ]
+}

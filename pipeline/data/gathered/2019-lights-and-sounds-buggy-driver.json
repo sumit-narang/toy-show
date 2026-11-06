@@ -1,0 +1,54 @@
+{
+  "id": "2019-lights-and-sounds-buggy-driver",
+  "year": 2019,
+  "name": "Lights and Sounds Buggy Driver",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Mothercare",
+      "url": "https://www.mothercare.ie/lights-and-sounds-buggy-driver-red-2.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VY7FsM-teG8",
+      "channel": "kels prelovedtoys",
+      "duration": 107.0,
+      "title": "ELC Lights and Sounds Buggy Driver"
+    },
+    {
+      "id": "C4FD4K1pUPo",
+      "channel": "Grace Melia",
+      "duration": 51.0,
+      "title": "ELC LIGHTS & SOUNDS BUGGY DRIVER | TOY REVIEW #1"
+    },
+    {
+      "id": "hSvo1pnl_uA",
+      "channel": "Otherland",
+      "duration": 36.0,
+      "title": "ELC Lights and Sounds Buggy Driver"
+    },
+    {
+      "id": "9vEhvc9sjqA",
+      "channel": "Świat Zabawek",
+      "duration": 49.0,
+      "title": "65 ELC KIEROWNICA PAŁĄK DO WÓZKA, FOTELIKA"
+    },
+    {
+      "id": "2L5mClu-jP0",
+      "channel": "cherryicenut",
+      "duration": 56.0,
+      "title": "ELC Lights and Sounds Buggy Driver by www.iceandnut.pantown.com"
+    }
+  ]
+}

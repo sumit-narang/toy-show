@@ -1,0 +1,60 @@
+{
+  "id": "2021-fisher-price-classic-tv-radio",
+  "year": 2021,
+  "name": "Fisher Price Classic TV Radio",
+  "price_eur": 18.99,
+  "price_text": "€18.99",
+  "retailers": [
+    {
+      "name": "McGreevys Toy Direct",
+      "url": "https://toysdirect.ie/products/fisher-price-classic-toys-classic-tv-radio"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toysdirect.ie/products/fisher-price-classic-toys-classic-tv-radio",
+      "title": "Fisher Price Classic Toys - Classic TV Radio",
+      "description": "First introduced in 1959, the Fisher Price TV Radio has delighted children for generations. Wind the knob to hear the endearing Farmer-in-the-Dell melody while whimsical scenes scroll across the window of the brightly lithographed case with 50's and 60's era graphics. Ages 18 months+",
+      "image": "http://toysdirect.ie/cdn/shop/files/Fisher-Price-Classic-Toys-Classic-TV-Radio_58ab23a9.jpg?crop=center&height=1200&v=1787581152&width=1200",
+      "ld_description": "First introduced in 1959, the Fisher Price TV Radio has delighted children for generations. Wind the knob to hear the endearing Farmer-in-the-Dell melody while whimsical scenes scroll across the window of the brightly lithographed case with 50's and 60's era graphics.\nAges 18 months+",
+      "brand": "Fisher Price",
+      "ld_image": "https://toysdirect.ie/cdn/shop/files/Fisher-Price-Classic-Toys-Classic-TV-Radio_58ab23a9.jpg?v=1787581152&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "onAFLKOK34c",
+      "channel": "Shouldigetit2",
+      "duration": 76.0,
+      "title": "Fisher Price Classic TV Radio Quick Review"
+    },
+    {
+      "id": "jS2CU8vxS98",
+      "channel": "Tim & Sarah Oistad",
+      "duration": 12.0,
+      "title": "Fisher Price toy radio"
+    },
+    {
+      "id": "Vz04ZT7Hksc",
+      "channel": "AnnesOddsandEndsBlog",
+      "duration": 36.0,
+      "title": "The Mulberry Bush"
+    },
+    {
+      "id": "Jnynq6bqIL0",
+      "channel": "Jen Medved",
+      "duration": 12.0,
+      "title": "Vintage Fisher Price TV-Radio Music box yellow the farmer in the Dell"
+    },
+    {
+      "id": "yb08UdXOJHo",
+      "channel": "Pookanana.TV",
+      "duration": 22.0,
+      "title": "Fisher Price Toys - Classic Toy Radio"
+    }
+  ]
+}

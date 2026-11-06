@@ -1,0 +1,54 @@
+{
+  "id": "2022-jewellery-making-set",
+  "year": 2022,
+  "name": "Jewellery Making Set",
+  "price_eur": 27.0,
+  "price_text": "€27",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/fao-schwarz/jewellery-designer-set/148740697.html?cgid=root#q=jewellery&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/fao-schwarz/jewellery-designer-set/148740697.html?cgid=root#q=jewellery&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k6iGO7o0xh8",
+      "channel": "Anne Sinfuego Studio",
+      "duration": 793.0,
+      "title": "Make Bracelets with Me using the Candy-Color Bracelet Making Kit from PandaHall! 🎀✨"
+    },
+    {
+      "id": "KzC1D5P9B4Q",
+      "channel": "Ariba Arts",
+      "duration": 124.0,
+      "title": "Bracelet Making Kit Review | Making Beaded Necklace for my cat ✨ "
+    },
+    {
+      "id": "O5-JU1BRSVY",
+      "channel": "Twinnies Fun world",
+      "duration": 477.0,
+      "title": "Meesho💜Bracelet Making Kit Unboxing ✨ | Making bracelets, mobile charms | So Many colorful Beads! 😍"
+    },
+    {
+      "id": "vyjVLrbvwrQ",
+      "channel": "Pratigya's Craft",
+      "duration": 161.0,
+      "title": "MEESHO Jewellery Making Kit 😱| Under 250/- Unboxing Jewellery Making Beads | Cheapest CRAFT Kit"
+    },
+    {
+      "id": "n_yoO8KbXn4",
+      "channel": "LET'S RESIN",
+      "duration": 45.0,
+      "title": "UV Resin Jewelry Making Kit for Starter - Letsresin.com"
+    }
+  ]
+}

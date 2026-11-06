@@ -1,0 +1,44 @@
+{
+  "id": "2022-m-p-m-ire-zepf-paddy-donnelly",
+  "year": 2022,
+  "name": "Míp - Máire Zepf & Paddy Donnelly",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "VI2q0xzIHc0",
+      "channel": "Children's Books Ireland",
+      "duration": 609.0,
+      "title": "Míp by Máire Zepf, illustrated by Paddy Donnelly, KPMG Children's Books Ireland Awards 2021"
+    },
+    {
+      "id": "ESK_LLtZUdY",
+      "channel": "Laureate na nÓg",
+      "duration": 28.0,
+      "title": "MÍP, by Máire Zepf and Paddy Donnelly."
+    },
+    {
+      "id": "Y5ZxbYdEHe8",
+      "channel": "Children's Books Ireland",
+      "duration": 638.0,
+      "title": "Míp le Máire Zepf, maisithe ag Paddy Donnelly, Ghradaim KPMG Leabhair Pháistí Éireann 2021"
+    },
+    {
+      "id": "hD9rXM07GXs",
+      "channel": "St Patrick's Festival",
+      "duration": 907.0,
+      "title": "Author Máire Zepf reads her award-winning book ‘An Féileacán agus an Rí’"
+    },
+    {
+      "id": "gsYGmnRjt4o",
+      "channel": "An tSnáthaid Mhór",
+      "duration": 479.0,
+      "title": "MÁIRE ZEPF: MUIREANN AGUS AN DIANGHLASÁIL"
+    }
+  ]
+}

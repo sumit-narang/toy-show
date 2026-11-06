@@ -1,0 +1,54 @@
+{
+  "id": "2017-jamm-scoot-aqua-racer",
+  "year": 2017,
+  "name": "Jamm Scoot Aqua Racer",
+  "price_eur": 69.95,
+  "price_text": "€69.95",
+  "retailers": [
+    {
+      "name": "Littleones.ie",
+      "url": "https://www.littleones.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://littleones.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mBj7tS-YFl4",
+      "channel": "Autocar India",
+      "duration": 479.0,
+      "title": "Yamaha EC-06 review - More than just a River Indie with a Yamaha sticker | Autocar India"
+    },
+    {
+      "id": "deDrskvjH_c",
+      "channel": "EngineSpeaks ",
+      "duration": 590.0,
+      "title": "Yamaha Ray ZR 125 Hybrid TFT: The Perfect City Scooter? The Smartest Ray ZR Yet? Full Ride Review!"
+    },
+    {
+      "id": "Ycw-8Bcv5Oo",
+      "channel": "Power Racer",
+      "duration": 1076.0,
+      "title": "2026 Ather Konarc S Electric Scooter Review - Price, Range, Feature | Ather Konrac S Review | KONARC"
+    },
+    {
+      "id": "4YxTa1AUqps",
+      "channel": "Scooter",
+      "duration": 240.0,
+      "title": "Scooter - The Logical Song (Official Video)"
+    },
+    {
+      "id": "R882hxDLPZ4",
+      "channel": "Electric Scooter Guide",
+      "duration": 533.0,
+      "title": "Essential Electric Scooter Safety Gear & Accessories!"
+    }
+  ]
+}

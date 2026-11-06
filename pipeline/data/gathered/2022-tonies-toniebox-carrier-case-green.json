@@ -1,0 +1,54 @@
+{
+  "id": "2022-tonies-toniebox-carrier-case-green",
+  "year": 2022,
+  "name": "Tonies Toniebox Carrier Case Green",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jwHftM-gzbc",
+      "channel": "Winner’s Bench",
+      "duration": 551.0,
+      "title": "The Top 5 Best Tonie Box Case in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "lpBzg-mi9QI",
+      "channel": "Yaoqiang zheng",
+      "duration": 59.0,
+      "title": "T0002GR-GISEO Carrying Case for Tonies Starter Set & Storage Bag"
+    },
+    {
+      "id": "AGcrU6r5Heo",
+      "channel": "Teacher Kasie",
+      "duration": 528.0,
+      "title": "Kids Will Love The Toniebox"
+    },
+    {
+      "id": "Q9cCEEsKN9w",
+      "channel": "MediaMac",
+      "duration": 320.0,
+      "title": "Top 10 Carrying Bags and Cases for Collectibles You Can Buy  June 2023"
+    },
+    {
+      "id": "Roat9OrRgVI",
+      "channel": "Simply Sid Finds",
+      "duration": 67.0,
+      "title": "Is the Yoto Mini adventure jacket worth it?"
+    }
+  ]
+}

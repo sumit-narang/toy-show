@@ -1,0 +1,53 @@
+{
+  "id": "2017-happyland-ginger-bread-house",
+  "year": 2017,
+  "name": "Happyland Ginger Bread House",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a2A5qzQpboo",
+      "channel": "The Entertainer",
+      "duration": 70.0,
+      "title": "Happyland Cherry Lane Cottage Playset"
+    },
+    {
+      "id": "IZV4EwV0ggI",
+      "channel": "Dan Chard",
+      "duration": 100.0,
+      "title": "Tales from Happy Land: A Day at the Vets"
+    },
+    {
+      "id": "k7hg1BdQvsw",
+      "channel": "Early Learning Centre",
+      "duration": 42.0,
+      "title": "Happyland Christmas Carol l Early Learning Centre"
+    },
+    {
+      "id": "tTzxffMA4t4",
+      "channel": "Farizan Md Amin",
+      "duration": 196.0,
+      "title": "Happy Land and Cool Town"
+    },
+    {
+      "id": "VA2boU-YjDs",
+      "channel": "wydos1234",
+      "duration": 60.0,
+      "title": "happyland 3"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-besties-lip-gloss-set",
+  "year": 2017,
+  "name": "Besties Lip Gloss Set",
+  "price_eur": 2.0,
+  "price_text": "€2.00",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NRf7LGen1B4",
+      "channel": "IJustKitty",
+      "duration": 503.0,
+      "title": "Ulta Beauty Collection X Gilmore Girls Lip Gloss Set Review"
+    },
+    {
+      "id": "LEcB0HA-gRg",
+      "channel": "Anchal Beauty Parlour - An Beauty",
+      "duration": 535.0,
+      "title": "Kiss Beauty Velvet Lip gloss waterproof liquid Lipstick"
+    },
+    {
+      "id": "2Ta3tQtWq5Y",
+      "channel": "Rude Cosmetics",
+      "duration": 153.0,
+      "title": "RUDE COSMETICS Honey Glazed Color-Transfer-Proof Lip Color Gloss || ALL SHADES + SWATCHES"
+    },
+    {
+      "id": "Cc34F-EFPNg",
+      "channel": "VanitySM",
+      "duration": 576.0,
+      "title": "Glam Tutorial on Bestfriend | Review on ABH Lustrous Lip Gloss Set"
+    },
+    {
+      "id": "ttF_FcUfPuM",
+      "channel": "sb store sb store",
+      "duration": 32.0,
+      "title": "https://amzn.to/3ZK9jsRExpressions 12pc Roll On Lip Gloss Set with Carrying Case, Glossy Lip Make-up"
+    }
+  ]
+}

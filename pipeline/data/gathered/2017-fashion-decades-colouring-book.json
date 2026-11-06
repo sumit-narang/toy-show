@@ -1,0 +1,54 @@
+{
+  "id": "2017-fashion-decades-colouring-book",
+  "year": 2017,
+  "name": "Fashion Decades Colouring Book",
+  "price_eur": 18.0,
+  "price_text": "€18.00",
+  "retailers": [
+    {
+      "name": "Littlewoods.ie",
+      "url": "https://www.littlewoodsireland.ie"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zV2cSr29qRk",
+      "channel": "Manue Tiny",
+      "duration": 246.0,
+      "title": "Fashion through the ages -  Colorit"
+    },
+    {
+      "id": "aHPLOlI3AzQ",
+      "channel": "Dani Buttons",
+      "duration": 789.0,
+      "title": "Colors of the Decades Colorit Flip thru!"
+    },
+    {
+      "id": "b8Q-POHzRqA",
+      "channel": "Sugar Hiccups",
+      "duration": 469.0,
+      "title": "Vogue Goes Pop Coloring Book - Retro 60's Fashion Flip Through at Sugar Hiccups"
+    },
+    {
+      "id": "TEjAtL7iikU",
+      "channel": "Readingwith Pugs",
+      "duration": 841.0,
+      "title": "Fashion Through the Ages Coloring Book- Colorit"
+    },
+    {
+      "id": "vu6PVtd1SmU",
+      "channel": "JodyMoments",
+      "duration": 142.0,
+      "title": "One-of-a-Kind Decades Coloring Book"
+    }
+  ]
+}

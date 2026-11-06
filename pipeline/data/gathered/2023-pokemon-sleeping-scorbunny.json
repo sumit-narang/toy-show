@@ -1,0 +1,57 @@
+{
+  "id": "2023-pokemon-sleeping-scorbunny",
+  "year": 2023,
+  "name": "Pokemon Sleeping Scorbunny",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/pokemon-45cm-scorbunny-sleeping-soft-toy/p/216922"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/pokemon-45cm-scorbunny-sleeping-soft-toy/p/216922",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Ke4ERHx3Jrw",
+      "channel": "Mixeli",
+      "duration": 878.0,
+      "title": "Pokémon Scarlet & Violet : All Starters Evolutions Comparison + Walking + Sleeping"
+    },
+    {
+      "id": "sf0HX8cSOCA",
+      "channel": "The Official Pokémon YouTube channel",
+      "duration": 237.0,
+      "title": "Sleeping Komala | Pokémon the Series: Sun & Moon—Ultra Adventures | Official Clip"
+    },
+    {
+      "id": "3m7ACG6D6EU",
+      "channel": "Rukatu",
+      "duration": 549.0,
+      "title": "pokemon picnic but its the scorbunny evolution line"
+    },
+    {
+      "id": "79-dhcUJuUc",
+      "channel": "PokemonAnimeIND",
+      "duration": 30.0,
+      "title": "Pokemon Journeys Scorbunny Just Kicked Metapod In Full HD"
+    },
+    {
+      "id": "PyoaPhgY_fg",
+      "channel": "The Official Pokémon YouTube channel",
+      "duration": 215.0,
+      "title": "Scorbunny shares scones! | Pokémon Journeys: The Series | Official Clip"
+    }
+  ]
+}

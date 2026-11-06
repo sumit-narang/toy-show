@@ -1,0 +1,57 @@
+{
+  "id": "2022-miniland-caucasian-curly-black-hair-doll",
+  "year": 2022,
+  "name": "Miniland Caucasian Curly Black Hair Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "B1jNk6u_WJM",
+      "channel": "ZombieXCorn",
+      "duration": 698.0,
+      "title": "TURNING A MONSTER HIGH DOLL INTO VINTAGE BARBIE Fix-A-Ghoul #3"
+    },
+    {
+      "id": "X7YfwvxOWmA",
+      "channel": "I Dream of Jonny",
+      "duration": 3272.0,
+      "title": "Unboxing American Girl Truly Me #127 Doll + More!"
+    },
+    {
+      "id": "ohulOTjozq4",
+      "channel": "Realistic Black Reborns with Victoria",
+      "duration": 4163.0,
+      "title": "HOW I ROOT TODDLER REBORN DOLLS"
+    },
+    {
+      "id": "igrgrnrmWsg",
+      "channel": "Odinka Wisanindhi",
+      "duration": 2570.0,
+      "title": "BROOKE 👧🏻| PART 2 | SKIRT, HEAD, HAIR, HAT | MAKING AMIGURUMI CROCHET DOLL TUTORIAL"
+    },
+    {
+      "id": "_vU5uZGrbAQ",
+      "channel": "Adelaide Doll Reviews",
+      "duration": 713.0,
+      "title": "🥿 Disney Limited Edition Cinderella for Saks Fifth Avenue REVIEW 🥿"
+    }
+  ]
+}

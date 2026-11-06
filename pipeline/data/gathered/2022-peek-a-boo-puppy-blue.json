@@ -1,0 +1,54 @@
+{
+  "id": "2022-peek-a-boo-puppy-blue",
+  "year": 2022,
+  "name": "PEEK A BOO PUPPY-BLUE",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BtPonWsVa9Y",
+      "channel": "Haloskeeper1",
+      "duration": 64.0,
+      "title": "Peek a boo Pitbull"
+    },
+    {
+      "id": "EEXkUD02ddo",
+      "channel": "ToonMelody TV",
+      "duration": 11.0,
+      "title": "Peek-a-boo Puppy! Where are you? 🐾 Cute Kids Video #shorts"
+    },
+    {
+      "id": "ANyP5S65RhE",
+      "channel": "Kikipuppup - Nursery Rhymes with Cats & Dogs",
+      "duration": 210.0,
+      "title": "[NEW] Ouchie! Boo Boo Song 🩹 | EP25 | I've Got a Boo Boo | @Kikipuppup Nursery Rhymes"
+    },
+    {
+      "id": "IsSOfIQw2H0",
+      "channel": "Oddfini",
+      "duration": 70.0,
+      "title": "꼬꼬, Peek-a-Boo! 🐥 | 알록달록 모자 놀이"
+    },
+    {
+      "id": "EifnWKPSwBE",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 128.0,
+      "title": "Peekaboo Achoo! | Fun Peekaboo Game | Super Simple Songs"
+    }
+  ]
+}

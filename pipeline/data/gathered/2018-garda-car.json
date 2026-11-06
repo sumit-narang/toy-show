@@ -1,0 +1,54 @@
+{
+  "id": "2018-garda-car",
+  "year": 2018,
+  "name": "Garda Car",
+  "price_eur": 329.0,
+  "price_text": "Cars start from €329 and the car with lights and siren featured on show is €495",
+  "retailers": [
+    {
+      "name": "Esmark Finch",
+      "url": "https://esmarkfinch.ie/shop/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "e2hhBSFuEEg",
+      "channel": "Bob Loblaw",
+      "duration": 243.0,
+      "title": "Seamus Moore - The Garda Car"
+    },
+    {
+      "id": "meW7mPQOV-4",
+      "channel": "Seamus Moore - Topic",
+      "duration": 252.0,
+      "title": "The Garda Car"
+    },
+    {
+      "id": "9NIab5zKzdA",
+      "channel": "winnipegfiredep",
+      "duration": 15.0,
+      "title": "GARDA Dublin police cruiser (aggressive driving)"
+    },
+    {
+      "id": "V9FRp9aKfiQ",
+      "channel": "RTÉ KIDS",
+      "duration": 235.0,
+      "title": "Garda Susan and Mark | Hero Hub | @RTÉ Kids"
+    },
+    {
+      "id": "OIJCKvg-O6M",
+      "channel": "TRANSPORT SPOTTER",
+      "duration": 38.0,
+      "title": "Unmarked Garda car and another Garda unit responding in Dublin"
+    }
+  ]
+}

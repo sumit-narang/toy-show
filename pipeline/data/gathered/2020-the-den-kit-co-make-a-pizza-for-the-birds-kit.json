@@ -1,0 +1,65 @@
+{
+  "id": "2020-the-den-kit-co-make-a-pizza-for-the-birds-kit",
+  "year": 2020,
+  "name": "The Den Kit Co. Make a Pizza For The Birds Kit",
+  "price_eur": 18.5,
+  "price_text": "€18.50",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "http://freddieandmillietoys.ie/product/make-a-pizza-for-birds-kit/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.freddieandmillietoys.ie/product/make-a-pizza-for-birds-kit/",
+      "title": "The Den Kit Company – Make a Pizza for Birds Kit | Freddie & Millie Toys",
+      "description": null,
+      "image": null,
+      "ld_description": "The Kit inculdes the following\r\n\r\n \t2 reusable wooden pizza bases\r\n \t3 Refillable hessian sacks\r\n \t3 kinds of Bird Food\r\n \t9 Bird Identification and Information Cards",
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "The Den Kit Company"
+        }
+      ],
+      "ld_image": "https://www.freddieandmillietoys.ie/wp-content/uploads/2020/06/BPK-bag-scaled.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "U1kib9Q3RJE",
+      "channel": "Burning River Bushcraft",
+      "duration": 520.0,
+      "title": "Kelly Kettle Scout Ultimate Kit"
+    },
+    {
+      "id": "BW7_bgw6W80",
+      "channel": "gatorpics09",
+      "duration": 227.0,
+      "title": "Hāna Farms Roadside Stand, Pizza Oven and Bakery - Hana, Hawaii"
+    },
+    {
+      "id": "YZuF0etSkTY",
+      "channel": "Lucky Penny Shop",
+      "duration": 2313.0,
+      "title": "How To Make The DIY Meigum Odangoyasan Candy Kit"
+    },
+    {
+      "id": "uWBoU0Da89o",
+      "channel": "Better Together Homestead",
+      "duration": 875.0,
+      "title": "my ONE question for Justin Rhodes"
+    },
+    {
+      "id": "NOFc2sMvsvA",
+      "channel": "Nico's Kitchen",
+      "duration": 550.0,
+      "title": "Is this the perfect NEAPOLITAN PIZZA Recipe?? (Using the Ooni Karu 12)"
+    }
+  ]
+}

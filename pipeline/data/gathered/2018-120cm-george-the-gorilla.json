@@ -1,0 +1,69 @@
+{
+  "id": "2018-120cm-george-the-gorilla",
+  "year": 2018,
+  "name": "120cm George the Gorilla",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Q_9sSiEspCk",
+      "channel": "ClipZone: High Octane Hits",
+      "duration": 381.0,
+      "title": "Rampage | Giant Gorilla Attack Scene | ClipZone: High Octane Hits"
+    },
+    {
+      "id": "jXo7J4lEp30",
+      "channel": "ClipZone: High Octane Hits",
+      "duration": 434.0,
+      "title": "Rampage | Monsters on the Skyline  | ClipZone: High Octane Hits"
+    },
+    {
+      "id": "Pa2_LoPJss8",
+      "channel": "Movieclips",
+      "duration": 160.0,
+      "title": "Rampage (2018) - Angry Gorilla Attack Scene (2/10) | Movieclips"
+    },
+    {
+      "id": "FeIibF8f9uc",
+      "channel": "BestClips",
+      "duration": 124.0,
+      "title": "Giant Flying Wolf - George vs Ralph vs Lizzie - Final Battle Scene - Rampage (2018) Movie Clip HD"
+    },
+    {
+      "id": "IzxYMoIzRfk",
+      "channel": "Movieclips",
+      "duration": 160.0,
+      "title": "Rampage (2018) - George vs. Lizzie Scene (10/10) | Movieclips"
+    }
+  ]
+}

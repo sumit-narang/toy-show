@@ -1,0 +1,57 @@
+{
+  "id": "2018-the-field",
+  "year": 2018,
+  "name": "The Field",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "The Field",
+      "url": "http://www.thefield.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J1AZL40McLk",
+      "channel": "GEM: Film Library",
+      "duration": 6399.0,
+      "title": "The Field | English Full Movie | Drama Thriller"
+    },
+    {
+      "id": "J88uhdFk8Jo",
+      "channel": "Mikosyko",
+      "duration": 128.0,
+      "title": "The Field - Outsiders"
+    },
+    {
+      "id": "qERjTlFj09o",
+      "channel": "kylerabbits",
+      "duration": 6528.0,
+      "title": "The Field by John B. Keane"
+    },
+    {
+      "id": "Qk-03oFgvyQ",
+      "channel": "Linda Tyrrell",
+      "duration": 230.0,
+      "title": "The Bull McCabe - The Law of the Land - The Field"
+    },
+    {
+      "id": "-qAN5Q83R0k",
+      "channel": "TheDaddyO44",
+      "duration": 5741.0,
+      "title": "Mix 24: The Field - \"An Extended Field Trip\" 2006-2018 (Kompakt Records)"
+    }
+  ]
+}

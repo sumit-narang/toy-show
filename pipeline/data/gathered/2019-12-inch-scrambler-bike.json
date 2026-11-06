@@ -1,0 +1,57 @@
+{
+  "id": "2019-12-inch-scrambler-bike",
+  "year": 2019,
+  "name": "12 Inch Scrambler Bike",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/bikes/12-bikes-3-5yrs-/12-inch-scrambler-bike/p/143466"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/bikes/12-bikes-3-5yrs-/12-inch-scrambler-bike/p/143466",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IUPfXpbVNYU",
+      "channel": "Willies Wheels",
+      "duration": 631.0,
+      "title": "Triumph Scrambler 1200... The MAJOR flaw"
+    },
+    {
+      "id": "T1OGZDRkYto",
+      "channel": "Motors for the Masses",
+      "duration": 361.0,
+      "title": "Does the Evercross EV12MPro Scrambler work OFFROAD?"
+    },
+    {
+      "id": "62J-N_Gl93s",
+      "channel": "Thornton Hundred Motorcycles",
+      "duration": 852.0,
+      "title": "How to BUILD a Custom Triumph Scrambler XC"
+    },
+    {
+      "id": "NR8cgREBIr0",
+      "channel": "TwinThing Custom Motorcycles",
+      "duration": 255.0,
+      "title": "​WORLD’S FIRST Nickel Plated Triumph Scrambler 1200 XE | TwinThing"
+    },
+    {
+      "id": "qoX-aj9tO4o",
+      "channel": "Big Rock Moto",
+      "duration": 2798.0,
+      "title": "BMW R 12 G/S Review | A Perfect Scrambler, or Overpriced Hype ?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-the-stolen-child-by-w-b-yeats",
+  "year": 2025,
+  "name": "The Stolen Child by W. B. Yeats",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/the-stolen-child-9781788495172"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/the-stolen-child-9781788495172",
+      "title": "The Stolen Child - Dubray Books",
+      "description": "Written when W.B. Yeats was just twenty-one, ‘The Stolen Child’ remains one of his most popular poems. At this time, the young poet was inspired by the landscape of County Sligo and the legends and superstitions he heard from the locals there. ‘The Stolen Child’ tells of a boy taken from his home by the faeries and led ‘hand in hand’ into their world. With its enchanting refrain – ‘Come away, o human child / To the waters and the wild’ – and vivid images of magic and nature, it is a pleasure for readers young and old. Here, the text is accompanied by radiant original art by Erin Brown, each illustration taking us on a visual journey through one of Ireland’s most famous poems.",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Written when W.B. Yeats was just twenty-one, ‘The Stolen Child’ remains one of his most popular poems. At this time, the young poet was inspired by the landscape of County Sligo and the legends and superstitions he heard from the locals there. ‘The Stolen Child’ tells of a boy taken from his home by the faeries and led ‘hand in hand’ into their world. With its enchanting refrain – ‘Come away, o human child / To the waters and the wild’ – and vivid images of magic and nature, it is a pleasure for readers young and old. Here, the text is accompanied by radiant original art by Erin Brown, each illustration taking us on a visual journey through one of Ireland’s most famous poems.",
+      "brand": "W. B. Yeats",
+      "ld_image": "https://media.dubraybooks.ie/asset/417dc988-0fb4-40b9-911b-b198a5853f54/9781788495172_5643313667.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YllRxwiqE20",
+      "channel": "Shopy Sweeti",
+      "duration": 603.0,
+      "title": "\"The Stolen Child\" By \"William Butler Yeats\" Line By Line Explanation in Hindi By \"Sweeti Verma\""
+    },
+    {
+      "id": "9ifOdkxXvW8",
+      "channel": "Arthur L Wood",
+      "duration": 173.0,
+      "title": "The Stolen Child by W. B. Yeats [with text] - Read by poet Arthur L Wood"
+    },
+    {
+      "id": "S1asyJJAbW4",
+      "channel": "Poetrycity",
+      "duration": 137.0,
+      "title": "W.B. Yeats - The Stolen Child (Poetry Reading)"
+    },
+    {
+      "id": "YZZ4bAtx_qQ",
+      "channel": "Easy Learning Pro",
+      "duration": 1584.0,
+      "title": "The Stolen Child | Critical summary of The Stolen Child by W.B. Yeats"
+    },
+    {
+      "id": "Xf1xBx7JIs4",
+      "channel": "SpokenVerse",
+      "duration": 155.0,
+      "title": "The Stolen Child by W B Yeats (read by Tom O'Bedlam)"
+    }
+  ]
+}

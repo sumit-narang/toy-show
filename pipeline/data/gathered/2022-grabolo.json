@@ -1,0 +1,54 @@
+{
+  "id": "2022-grabolo",
+  "year": 2022,
+  "name": "Grabolo",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "finneganscorner.com",
+      "url": "https://finneganscorner.com/toys/grabolo/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://finneganscorner.com/toys/grabolo/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "488fyXrtJAs",
+      "channel": "johnadamstoys",
+      "duration": 92.0,
+      "title": "How to play Grabolo!"
+    },
+    {
+      "id": "CK0yMH8TW7w",
+      "channel": "TTPM Toy Reviews",
+      "duration": 121.0,
+      "title": "Grabolo Game from PlayMonster"
+    },
+    {
+      "id": "ITQO6iys4oU",
+      "channel": "Kleiner Schlauberger",
+      "duration": 88.0,
+      "title": "Grabolo Kartenspiel Reaktionsspiel von Game Factory Spielanleitung wir erklären kurz die Spielregeln"
+    },
+    {
+      "id": "HVVWEK1-2ow",
+      "channel": "GiochiDaTavolo VignolaMo",
+      "duration": 255.0,
+      "title": "Grabolo Junior (DV giochi) - Tutorial (ita)"
+    },
+    {
+      "id": "SzTCmCd-R20",
+      "channel": "The Honest Review",
+      "duration": 326.0,
+      "title": "I reviewed Grabolo. The game that almost caused a humanitarian crisis!!"
+    }
+  ]
+}

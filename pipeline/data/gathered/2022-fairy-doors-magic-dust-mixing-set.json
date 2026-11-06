@@ -1,0 +1,54 @@
+{
+  "id": "2022-fairy-doors-magic-dust-mixing-set",
+  "year": 2022,
+  "name": "Fairy Doors Magic Dust Mixing Set",
+  "price_eur": 8.0,
+  "price_text": "€8",
+  "retailers": [
+    {
+      "name": "Tipperarycrystal.ie",
+      "url": "https://www.tipperarycrystal.ie/disabled/irish-fairy-door-dust-mixing-set/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.tipperarycrystal.ie/disabled/irish-fairy-door-dust-mixing-set/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jXYdiF85o94",
+      "channel": "Kids Things",
+      "duration": 544.0,
+      "title": "22803366_1746602612017008_4059856903566524416_n"
+    },
+    {
+      "id": "lAksWMEC_lQ",
+      "channel": "Let's Play // Best of Toys & Games",
+      "duration": 106.0,
+      "title": "Top 10 Fairy Dust Toys & Games [2018]: Multipack of 6 Tiny Vials of Fairy Dust"
+    },
+    {
+      "id": "08eFu2jNxPY",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 243.0,
+      "title": "Testing the Magic Dust Mixing Set!!!"
+    },
+    {
+      "id": "U87A2zdpirw",
+      "channel": "Toy Universe",
+      "duration": 39.0,
+      "title": "Magical Irish Fairy Doors now in Australia"
+    },
+    {
+      "id": "hAKA8jKrqZM",
+      "channel": "OUR COMMUNITY PROJECT",
+      "duration": 181.0,
+      "title": "Fairy Door Unboxing"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-play-doh-ice-cream-truck",
+  "year": 2022,
+  "name": "Play-Doh Ice-Cream Truck",
+  "price_eur": 105.0,
+  "price_text": "€105",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/play-doh-playdoh-ultimate-ice-cream-truck-playset/1600773726.prd?sku=sku25247793&msclkid=a1d56904f9e91b0228520a7a737ecfca"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/play-doh-playdoh-ultimate-ice-cream-truck-playset/1600773726.prd?sku=sku25247793&msclkid=a1d56904f9e91b0228520a7a737ecfca"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rcC46eidKhU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 122.0,
+      "title": "Play-Doh Kitchen Creations Ultimate Ice Cream Truck Playset from Hasbro Review!"
+    },
+    {
+      "id": "raHxLIY5w8Q",
+      "channel": "TheMarketHub",
+      "duration": 31.0,
+      "title": "Play Doh Ultimate Ice Cream Truck Playset"
+    },
+    {
+      "id": "U1sdhrpQWpU",
+      "channel": "Jason Vlogs",
+      "duration": 424.0,
+      "title": "Jason Pretend Play with Play-Doh Ice Cream Truck"
+    },
+    {
+      "id": "HlB5mWo-hvs",
+      "channel": "Rainybow Kids",
+      "duration": 931.0,
+      "title": "Creating & Making Pretend Ice Creams with Creative Dough"
+    },
+    {
+      "id": "06_yNKaNx2M",
+      "channel": "TTPM Toy Reviews",
+      "duration": 218.0,
+      "title": "Play-Doh Kitchen Creations Ultimate Ice Cream Truck Playset from Hasbro | Play Lab"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Bricolage Grotesque", "Inter", ui-sans-serif, sans-serif;
+  --color-paper: #fbf6ee;
+  --color-ink: #1f1a17;
+  --color-berry: #c8102e;
+  --color-berry-dark: #9c0c24;
+  --color-pine: #14532d;
+  --color-gold: #e9b949;
+}
+
+@layer base {
+  html { background: var(--color-paper); color: var(--color-ink); }
+  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+}
+
+@keyframes drawerIn {
+  from { transform: translateX(calc(100% + 20px)); }
+  to   { transform: translateX(0); }
+}
+@keyframes backdropIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes cardIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.animate-drawer { animation: drawerIn 280ms cubic-bezier(0.22, 1, 0.36, 1); }
+.animate-backdrop { animation: backdropIn 200ms ease-out; }
+.animate-card { animation: cardIn 300ms ease-out both; }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+/* subtle festive dot pattern for the hero */
+.hero-pattern {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.14) 1.5px, transparent 1.5px);
+  background-size: 22px 22px;
+}

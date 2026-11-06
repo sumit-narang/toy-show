@@ -1,0 +1,54 @@
+{
+  "id": "2019-reindeer-down",
+  "year": 2019,
+  "name": "Reindeer Down",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/reindeer-down-natasha-mac-abhaird-9781788490993"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/reindeer-down-natasha-mac-abhaird-9781788490993"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8Lkv5tuAvDs",
+      "channel": "NA",
+      "duration": 559.0,
+      "title": "Reindeer Down! - Play + Learn"
+    },
+    {
+      "id": "gP-xRcFHCIM",
+      "channel": "NA",
+      "duration": 630.0,
+      "title": "Christmas Storytime with Waterford Libraries: Reindeer Down!"
+    },
+    {
+      "id": "khstPnH89ZM",
+      "channel": "NA",
+      "duration": 559.0,
+      "title": "Donny Dunn Breaks Down On Stage | Baby Reindeer | Netflix"
+    },
+    {
+      "id": "mIlSuhhrRSI",
+      "channel": "NA",
+      "duration": 633.0,
+      "title": "The Messy Aftermath Of Baby Reindeer"
+    },
+    {
+      "id": "MdTYH4ag_f4",
+      "channel": "NA",
+      "duration": 291.0,
+      "title": "The Magical Tale of Santa’s Reindeer | Animated Christmas Story for Kids"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-first-order-judicial-axe",
+  "year": 2017,
+  "name": "Star Wars First Order Judicial Axe",
+  "price_eur": 38.0,
+  "price_text": "€38.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_ZVVRQ9cQPM",
+      "channel": "Maikeru Shuya",
+      "duration": 173.0,
+      "title": "Star Wars First Order Judicial Laser Axe Review"
+    },
+    {
+      "id": "xnLoGEzeLYY",
+      "channel": "Dan-O Channel",
+      "duration": 566.0,
+      "title": "Star Wars The Last Jedi | Disney Store First Order Judicial Laser Axe Unboxing | The Dan-O Channel"
+    },
+    {
+      "id": "Qk38BcoiYEM",
+      "channel": "DR.RobotNick18",
+      "duration": 92.0,
+      "title": "SW Resistance First Order Executioners Scenes"
+    },
+    {
+      "id": "uAtLV26wnCE",
+      "channel": "TheSWHolidaySpecial",
+      "duration": 47.0,
+      "title": "Star Wars VII \"Traitor\" Scene"
+    },
+    {
+      "id": "Z_pYql86ILQ",
+      "channel": " BY THE GODS OF FILM AND TELEVISION",
+      "duration": 231.0,
+      "title": "STAR WARS THE LAST JEDI FIRST ORDER JUDICIAL LASER AXE REVIEW FROM THE DISNEY STORE"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-dinosaur-torch-projector",
+  "year": 2021,
+  "name": "Dinosaur Torch & Projector",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Totally Toys Castlebar",
+      "url": "https://totallytoys.ie/products/brainstormt-rexheadtorch"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://totallytoys.ie/products/brainstormt-rexheadtorch",
+      "title": "Brainstorm T Rex Head Torch",
+      "description": "Brainstorm T Rex Head Torch. Dino-mad kids will love this T rex-shaped head torch. Press once for light and again for sound – ROAR!",
+      "image": "https://totallytoys.ie/cdn/shop/products/835facf1aab6e7c9ac1bc4a84645d995f2ce1e74_600x.jpg?v=1616428039",
+      "ld_description": "Brainstorm T Rex Head Torch.\nDino-mad kids will love this T rex-shaped head torch. Press once for light and again for sound – ROAR! Two angles - straight for outdoor adventures like walking or camping-tilted for bedtime reading. With adjustable strap for children of all ages.\nBrainstorm Toys is a range of fun, educational and interactive STEM toys that brings together a host of fascinating items. STEM toys incorporate science, technology, engineering and maths and encourage children to explore and develop a passion for these subjects. \nAges 3+",
+      "brand": "Brainstorm",
+      "ld_image": "https://totallytoys.ie/cdn/shop/products/835facf1aab6e7c9ac1bc4a84645d995f2ce1e74.jpg?v=1616428039"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bY_mX8Pr6Fs",
+      "channel": "BrainstormLtd",
+      "duration": 210.0,
+      "title": "Natural History Museum Dinosaur Torch and Projector"
+    },
+    {
+      "id": "JV87Cq1muD0",
+      "channel": "Jordyn Fullmer Reviews ",
+      "duration": 86.0,
+      "title": "Dinosaur Projector Flashlight - Fast Feature Breakdown"
+    },
+    {
+      "id": "37CBqFDxqkI",
+      "channel": "Prezzybox",
+      "duration": 40.0,
+      "title": "Dinosaur Torch & Projector - Take A Step Back Into Prehistoric Times"
+    },
+    {
+      "id": "tX3XMD9nPBY",
+      "channel": "BrainstormLtd",
+      "duration": 193.0,
+      "title": "Brainstorm Toys Dinosaur Torch and Projector"
+    },
+    {
+      "id": "P84k4MWm-AU",
+      "channel": "BrainstormLtd",
+      "duration": 46.0,
+      "title": "Natural History Museum Dinosaur Torch and Projector"
+    }
+  ]
+}

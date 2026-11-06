@@ -1,0 +1,69 @@
+{
+  "id": "2018-barbie-ken",
+  "year": 2018,
+  "name": "Barbie Ken",
+  "price_eur": 9.99,
+  "price_text": "from €9.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RIHExGaxfPE",
+      "channel": "HBO Max",
+      "duration": 314.0,
+      "title": "Ryan Gosling Performs \"I'm Just Ken\" | Barbie | HBO Max"
+    },
+    {
+      "id": "fo6T5BwxFh0",
+      "channel": "Atlantic Records",
+      "duration": 263.0,
+      "title": "Ryan Gosling, Mark Ronson, Slash & The Kens - I'm Just Ken (Live From The Oscars 2024)"
+    },
+    {
+      "id": "Tl4WX74QIUU",
+      "channel": "Rap - Freestyle",
+      "duration": 190.0,
+      "title": "Aro - KEN i BARBIE"
+    },
+    {
+      "id": "1qoNECcKE-8",
+      "channel": "Princess Fun Place",
+      "duration": 1053.0,
+      "title": "Barbie and Ken Story: Ken Breaks his Leg in Motorcycle Accident, Barbie Ambulance and Hospital"
+    },
+    {
+      "id": "pHPogYMl_FA",
+      "channel": "TNT",
+      "duration": 573.0,
+      "title": "Ken Transforms Barbie's Dream House into the Mojo Dojo Casa House | Watch Barbie on TNT"
+    }
+  ]
+}

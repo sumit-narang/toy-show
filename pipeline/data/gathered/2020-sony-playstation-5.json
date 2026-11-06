@@ -1,0 +1,57 @@
+{
+  "id": "2020-sony-playstation-5",
+  "year": 2020,
+  "name": "Sony PlayStation 5",
+  "price_eur": 499.99,
+  "price_text": "€499.99",
+  "retailers": [
+    {
+      "name": "Sony",
+      "url": "https://www.playstation.com/en-ie/ps5/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.playstation.com/en-ie/ps5/",
+      "title": "PlayStation®5 | Play Has No Limits | PlayStation",
+      "description": "Everything you need to know about the PlayStation®5 console and PlayStation®5 Digital Edition with a new slim PS5 design. The best PS5 games, PS5 accessories, and the DualSense wireless controller.",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1BU4VXofbQk",
+      "channel": "PlayStation",
+      "duration": 21.0,
+      "title": "PlayStation 5 - Same Immersive Power. New Slimmer Size."
+    },
+    {
+      "id": "aSoUo1n4Wbw",
+      "channel": "SpawnPoiint",
+      "duration": 716.0,
+      "title": "This is why the PS5 is AWESOME!"
+    },
+    {
+      "id": "cxXvYJyBlc4",
+      "channel": "PlayStation",
+      "duration": 158.0,
+      "title": "Play Like Never Before | PS5"
+    },
+    {
+      "id": "vVAT6MFJtkM",
+      "channel": "Tyrone Magnus",
+      "duration": 413.0,
+      "title": "Sony Just Released a NEW PS5 Update to STOP Gamers from JAILBREAKING!"
+    },
+    {
+      "id": "RkC0l4iekYo",
+      "channel": "PlayStation",
+      "duration": 192.0,
+      "title": "PS5 Hardware Reveal Trailer"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2020-cannon-tornado-two-piece-snooker-cue",
+  "year": 2020,
+  "name": "Cannon Tornado Two Piece Snooker Cue",
+  "price_eur": 39.95,
+  "price_text": "€39.95",
+  "retailers": [
+    {
+      "name": "The Billiard Company",
+      "url": "https://www.thebilliardcompany.ie/Snooker-Cues/2pc-Cannon-Snooker-Cues/Tornado-Two-Piece-Cue"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebilliardcompany.ie/Snooker-Cues/2pc-Cannon-Snooker-Cues/Tornado-Two-Piece-Cue",
+      "title": "Tornado Two Piece Cue",
+      "description": "Tornado Two Piece Cue",
+      "image": "https://www.thebilliardcompany.ie/image/cache/cache/1-1000/278/main/411c-0234-Whole_Cue-0-1-1000x1000.jpg",
+      "ld_description": "Made from superb Ash by Peradon, the Cannon Tornado two-piece cue offers good value for money and is best for younger players. It has a length of 57 inches with an  Ebony look finish and features a  joint the center of the cue.The cue features a leather butt pad for protection, a",
+      "brand": null,
+      "ld_image": "https://www.thebilliardcompany.ie/image/cache/cache/1-1000/278/main/411c-0234-Whole_Cue-0-1-2500x802.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FJNpiZx28bk",
+      "channel": "Stephen Hendry's Cue Tips",
+      "duration": 687.0,
+      "title": "CHEAP Cue vs EXPENSIVE Cue"
+    },
+    {
+      "id": "57Ryfn0hZS0",
+      "channel": "Snookerstuff.com",
+      "duration": 221.0,
+      "title": "Peradon Pro-Cue 3/4 Jointed Cue"
+    },
+    {
+      "id": "A2B3NuhftZk",
+      "channel": "Brandon K",
+      "duration": 14.0,
+      "title": "maria's unique billiard style"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-mario-plush",
+  "year": 2022,
+  "name": "Super Mario Mario Plush",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EZw1Q3W2rG0",
+      "channel": "Nero Mario Time",
+      "duration": 491.0,
+      "title": "NOBODY Plays with Mario… 😭"
+    },
+    {
+      "id": "3SskR05FRFY",
+      "channel": "CrazyMarioBros",
+      "duration": 1205.0,
+      "title": "Crazy Mario Bros PLUSH COLLECTION 2024"
+    },
+    {
+      "id": "ahnUm_KoRNU",
+      "channel": "TYE Arcade",
+      "duration": 564.0,
+      "title": "EVERY Super Mario Plushie I've Ever Collected"
+    },
+    {
+      "id": "fSm5sIdCGO0",
+      "channel": "TYE Arcade",
+      "duration": 1020.0,
+      "title": "I Won Every Super Mario Galaxy Plush From The Arcade"
+    },
+    {
+      "id": "1WgiC6UYVzc",
+      "channel": "Lane",
+      "duration": 1609.0,
+      "title": "What Was The First Ever Mario Plush?"
+    }
+  ]
+}

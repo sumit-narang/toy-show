@@ -1,0 +1,3654 @@
+[
+  {
+    "name": "SwiftyIXI Scooter",
+    "price_eur": 399.0,
+    "price_text": "€399",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://www.arnotts.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Light Headed Hat (Black Hat with Bulb)",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "The Silly Shop",
+        "url": "http://thesillyshop.ie/"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wreck it Ralph Smash Fits",
+    "price_eur": 35.0,
+    "price_text": "35",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Avengers Infinity Gauntlet",
+    "price_eur": 120.0,
+    "price_text": "120",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant Jelly Baby",
+    "price_eur": 15.0,
+    "price_text": "€15",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://www.arnotts.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miggeldy D Giggles",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "Miggeldy D Giggles",
+        "url": "https://www.miggledgiggles.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Fugglers",
+    "price_eur": 19.0,
+    "price_text": "€19",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fingerlings Hugs Sloth",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pimple Pete",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My First Gadget Set",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Early Learning Centre / Mothercare",
+        "url": "https://www.mothercare.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Present Box",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "The Present Box",
+        "url": "https://www.thepresentbox.com/"
+      }
+    ],
+    "kind": "craft",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Dancing Poo Emoji",
+    "price_eur": 9.99,
+    "price_text": "€9.99",
+    "retailers": [
+      {
+        "name": "Claire's Accessories",
+        "url": "https://www.claires.com/?lang=en&redirect=1&lang=en_GB"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baby Annabell Baby Walker",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baby Annabell My Special Day Doll",
+    "price_eur": 69.99,
+    "price_text": "€69.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FurReal Ricky the Trick Lovin' Pup",
+    "price_eur": 99.99,
+    "price_text": "€99.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "John Deere Tractor Engine",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": null
+      },
+      {
+        "name": "Ken Black",
+        "url": null
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bosch Screwdriver Drill",
+    "price_eur": 21.99,
+    "price_text": "€21.99",
+    "retailers": [
+      {
+        "name": "Early Learning Centre / Mothercare",
+        "url": "https://www.mothercare.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Buddy McSpuddy",
+    "price_eur": 29.95,
+    "price_text": "€29.95",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://www.arnotts.ie"
+      },
+      {
+        "name": "MyBuddyMcSpuddy",
+        "url": "http://MyBuddyMcSpuddy.Com"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Postbox",
+    "price_eur": 21.99,
+    "price_text": "€21.99",
+    "retailers": [
+      {
+        "name": "Early Learning Centre / Mothercare",
+        "url": "https://www.mothercare.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cleaning Trolley",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Early Learning Centre / Mothercare",
+        "url": "https://www.mothercare.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dyson Ball",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": null
+      },
+      {
+        "name": "Ken Black",
+        "url": null
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sesame Street Me So Hungry Cookie Monster",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wreck It Ralph Figure",
+    "price_eur": 36.0,
+    "price_text": "€36.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mary Poppins Plush",
+    "price_eur": 30.0,
+    "price_text": "€30.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "North Pole Breakfast Party Pack",
+    "price_eur": 18.0,
+    "price_text": "€18.00",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://www.arnotts.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Elf on the Shelf Pets St Bernard",
+    "price_eur": 25.0,
+    "price_text": "€25.00",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://www.arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bosco Tea Cosy",
+    "price_eur": 25.0,
+    "price_text": "€25.00",
+    "retailers": [
+      {
+        "name": "JK Timeless Crafts on Etsy",
+        "url": null
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Red Rufus Teddy",
+    "price_eur": 35.0,
+    "price_text": "from €35.00",
+    "retailers": [
+      {
+        "name": "The Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      },
+      {
+        "name": "Redrufus.ie",
+        "url": "https://www.redrufus.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kids Table and Chairs",
+    "price_eur": null,
+    "price_text": "€chair 11.00, table €22.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "http://IKEA.com"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tableware",
+    "price_eur": 1.5,
+    "price_text": "from 1.50",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "http://IKEA.com"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Space Hopper",
+    "price_eur": 6.99,
+    "price_text": "€6.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Shark Plush",
+    "price_eur": 18.0,
+    "price_text": "€18",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "http://IKEA.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Flamingo Plush",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LeapFrog Sweet Treats Learning Cafe",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chad Valley Standing Giant Unicorn",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Argos",
+        "url": "http://www.argos.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Unicorn Ride On",
+    "price_eur": 239.99,
+    "price_text": "€239.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "http://LittlewoodsIreland.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plan Toys Wooden Make Up Set",
+    "price_eur": 31.99,
+    "price_text": "€31.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers Stillorgan",
+        "url": "http://www.nimblefingers.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "VTech Myla the Magical Make-Up Unicorn",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chatter Phone",
+    "price_eur": 10.0,
+    "price_text": "€10",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": null
+      },
+      {
+        "name": "Ken Black",
+        "url": null
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Moj Moj Claw Machine Playset",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mary Poppins Tea Set",
+    "price_eur": 50.0,
+    "price_text": "€50.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ketchup Bottle Joke",
+    "price_eur": 3.0,
+    "price_text": "€3.00",
+    "retailers": [
+      {
+        "name": "The Silly Shop",
+        "url": "http://www.thesillyshop.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gelli Worlds Fantasy Pack",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gelli Worlds Dino Pack",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chad Valley Dino Copter",
+    "price_eur": 30.0,
+    "price_text": "€30.00",
+    "retailers": [
+      {
+        "name": "Argos",
+        "url": "http://www.argos.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Robo Chameleon",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lidl RC Rat",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "LIDL",
+        "url": "https://www.lidl.ie/en/index.htm"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FurReal Rock-A-Too",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Don't Step In It",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Handimonium the Tiny Hands Game",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "ELC Baking Set (Hand Mixer)",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Flushin' Frenzy",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Maddison 3-in-1 Baby Stroller",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Molly Pram",
+    "price_eur": 26.99,
+    "price_text": "€26.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baby Alive Potty Dance Baby",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baby Born Bathtub",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bath Bombs",
+    "price_eur": 2.5,
+    "price_text": "€2.50 each",
+    "retailers": [
+      {
+        "name": "The Body Shop",
+        "url": "https://www.thebodyshop.ie/"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baby Born Unicorn Onesie",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Heels on Wheels",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Jovie Doll",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Awesome Academy School Room",
+    "price_eur": 159.99,
+    "price_text": "€159.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation Deluxe Perfect Score School Uniform Outfit",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Generation April Doll",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Barbie Care Clinic Playset with Accessories",
+    "price_eur": 42.99,
+    "price_text": "€42.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Barbie Nurse",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Barbie Ken",
+    "price_eur": 9.99,
+    "price_text": "from €9.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Luvabeau",
+    "price_eur": 69.99,
+    "price_text": "€69.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ursula Classic Doll",
+    "price_eur": 16.0,
+    "price_text": "€16.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Dolls Various",
+    "price_eur": 16.0,
+    "price_text": "€16.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Elsa Classic Doll",
+    "price_eur": 16.0,
+    "price_text": "€16.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Moana Classic Doll",
+    "price_eur": 16.0,
+    "price_text": "€16.00",
+    "retailers": [
+      {
+        "name": "The Disney Store",
+        "url": "https://www.shopdisney.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cardinal Unicorn Ring Toss",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Littlewoods",
+        "url": null
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Truth Detector",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Big Cosmetic Laboratory",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fitbit Ace",
+    "price_eur": 99.95,
+    "price_text": "€99.95",
+    "retailers": [
+      {
+        "name": "Fitbit",
+        "url": "http://fitbit.com"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tybo Design Studio",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pottery Cool Studio",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "X Factor Microphone",
+    "price_eur": 28.99,
+    "price_text": "€28.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chocolate Sprinkle Stix",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cool Create Chocolate Bar Maker",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Slime Jumbo Pack",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Littlewoods",
+        "url": "https://www.littlewoodsireland.ie/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Crazy Slime Creations Super Slime Studio",
+    "price_eur": 37.99,
+    "price_text": "€37.99",
+    "retailers": [
+      {
+        "name": "Littlewoods",
+        "url": "https://www.littlewoodsireland.ie/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Glibbi Splashy Water Squirters",
+    "price_eur": 4.99,
+    "price_text": "from 4.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Slimon Shooters",
+    "price_eur": 5.99,
+    "price_text": "€5.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Slimon Squirters",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Slime Play",
+    "price_eur": 4.99,
+    "price_text": "from €4.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mega Baff Pack",
+    "price_eur": 4.99,
+    "price_text": "from €4.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Value Baff Pack",
+    "price_eur": 4.99,
+    "price_text": "from €4.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "http://Amazon.co.uk"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sweets on Sweet Shop Stall",
+    "price_eur": null,
+    "price_text": "various prices",
+    "retailers": [
+      {
+        "name": "Aunty Nellie's Sweet Shop",
+        "url": "http://auntynellies.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "Make Your Own Hot Sauce Kit",
+    "price_eur": 60.0,
+    "price_text": "€60.00",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "http://shop.designist.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Matchstick Garden",
+    "price_eur": 2.5,
+    "price_text": "€2.50",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "http://shop.designist.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Herbarium Book",
+    "price_eur": 20.0,
+    "price_text": "€20.00",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "http://shop.designist.ie"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Half Acre",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "http://www.thefield.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Field",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "http://www.thefield.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "GROWBox",
+    "price_eur": 10.0,
+    "price_text": "from 10",
+    "retailers": [
+      {
+        "name": "Grow HQ Waterford",
+        "url": null
+      },
+      {
+        "name": "growbox.ie",
+        "url": "http://growbox.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kid's BIG Kit Summer Salad Growing Kit",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kid's Winter Vegetables Growing Kit",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kid's Summer Lettuce Growing Kit",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kid's Garden Pea Growing Kit",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Kid's Strawberry Growing Kit",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Adult Herbal Tea Garden Kit",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": null
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Adult Culinary Herb Growing Kit",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Adult Salad Growing Kit",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Adult Cocktail Herb Growing Kit",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "White Mushroom Growing Kit",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Grey Oyster Mushroom Growing Kit",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Poncho",
+    "price_eur": 4.29,
+    "price_text": "€4.29",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ultimate Kids Gardening Tool Set",
+    "price_eur": 65.99,
+    "price_text": "€65.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Garden Hand Tools Set",
+    "price_eur": 3.99,
+    "price_text": "€3.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Wheelbarrow",
+    "price_eur": 23.99,
+    "price_text": "€23.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Soil Rake",
+    "price_eur": 2.99,
+    "price_text": "€2.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Garden Hoe",
+    "price_eur": 2.99,
+    "price_text": "€2.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Garden Shovel",
+    "price_eur": 2.99,
+    "price_text": "€2.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Garden Leaf Rake",
+    "price_eur": 2.99,
+    "price_text": "€2.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Garden Brush",
+    "price_eur": 4.35,
+    "price_text": "€4.35",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Apron",
+    "price_eur": 6.99,
+    "price_text": "€6.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Watering Can",
+    "price_eur": 11.68,
+    "price_text": "€11.68",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Gardening Gloves",
+    "price_eur": 1.99,
+    "price_text": "€1.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Paint Your Own Bird Nesting Box",
+    "price_eur": 7.99,
+    "price_text": "€7.99",
+    "retailers": [
+      {
+        "name": "thegardenshop.ie",
+        "url": "http://thegardenshop.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Brussels Sprouts Cake Pops",
+    "price_eur": null,
+    "price_text": "price on consultation",
+    "retailers": [
+      {
+        "name": "Noveltee Cakes",
+        "url": null
+      },
+      {
+        "name": "Bakersandcakers.com",
+        "url": "http://Bakersandcakers.com"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "Crate Creatures Surprise",
+    "price_eur": 36.99,
+    "price_text": "€36.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Poopsie Surprise Unicorns",
+    "price_eur": 56.99,
+    "price_text": "€56.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Poopsie Slime Surprise",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "L.O.L. Surprise Interactive Bigger Surprise",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Samba Gaelic Goalpost",
+    "price_eur": 93.99,
+    "price_text": "€93.99",
+    "retailers": [
+      {
+        "name": "The GAA Store",
+        "url": "http://www.thegaastore.com"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Reynolds Composite Coloured Hurl",
+    "price_eur": 32.99,
+    "price_text": "from €32.99",
+    "retailers": [
+      {
+        "name": "The GAA Store",
+        "url": "http://www.thegaastore.com"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Sliotars",
+    "price_eur": 4.69,
+    "price_text": "from €4.69",
+    "retailers": [
+      {
+        "name": "The GAA Store",
+        "url": "http://www.thegaastore.com"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "New Holland Maisto RC",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      },
+      {
+        "name": "Tobar",
+        "url": null
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "RC Farm Tractor",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jerseys",
+    "price_eur": null,
+    "price_text": "various prices",
+    "retailers": [
+      {
+        "name": "O'Neills",
+        "url": "http://Oneills.com"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Customised Hurley",
+    "price_eur": null,
+    "price_text": "various prices",
+    "retailers": [
+      {
+        "name": "O'Neills",
+        "url": "http://Oneills.com"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Santa's Magic Reindeer Hay",
+    "price_eur": 10.0,
+    "price_text": "€10.00",
+    "retailers": [
+      {
+        "name": "Santa's Magic Reindeer Hay",
+        "url": "https://www.facebook.com/ReindeerHay/"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Just Dance 2019",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nintendo Switch",
+    "price_eur": 329.99,
+    "price_text": "€329.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nintendo Labo Robot Kit",
+    "price_eur": 389.99,
+    "price_text": "€389.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "USA Hat",
+    "price_eur": 4.0,
+    "price_text": "from €4.00",
+    "retailers": [
+      {
+        "name": "Funplace",
+        "url": "http://www.funplace.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "USA Glasses",
+    "price_eur": 4.0,
+    "price_text": "from €4.00",
+    "retailers": [
+      {
+        "name": "Funplace",
+        "url": "http://www.funplace.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "USA Dickie Bow",
+    "price_eur": 4.0,
+    "price_text": "from €4.00",
+    "retailers": [
+      {
+        "name": "Funplace",
+        "url": "http://www.funplace.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Junior Basketball Stand",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Adjustable Basketball Stand",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "NBA 19",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Playstation",
+        "url": "https://www.playstation.com/en-za/"
+      },
+      {
+        "name": "Sony",
+        "url": "https://www.sony.ie/"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PS4",
+    "price_eur": 339.99,
+    "price_text": "from €339.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fortnite T-Shirts",
+    "price_eur": 10.0,
+    "price_text": "€10",
+    "retailers": [
+      {
+        "name": "Penneys",
+        "url": "https://www.primark.com/en-ie/homepage"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ride On Motor Bike - Harley Style with Side Car",
+    "price_eur": 249.45,
+    "price_text": "€249.45",
+    "retailers": [
+      {
+        "name": "funstuff.ie",
+        "url": "https://www.funstuff.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Feber My Lovely Unicorn",
+    "price_eur": 234.99,
+    "price_text": "€234.99",
+    "retailers": [
+      {
+        "name": "Littlewoods Ireland",
+        "url": "http://www.littlewoodsireland.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rollplay Porsche Macan Turbo",
+    "price_eur": 179.99,
+    "price_text": "€179.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "16 Inch L.O.L. Surprise! Bike",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rollplay 12V Uprider",
+    "price_eur": 249.99,
+    "price_text": "€249.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "12V Ride On Electric Pink Kids Quad",
+    "price_eur": 249.95,
+    "price_text": "€249.95",
+    "retailers": [
+      {
+        "name": "funstuff.ie",
+        "url": "https://www.funstuff.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sporter Scooter 2 Green and Black",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "20\" Our Generation Bike",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ranch Wagon",
+    "price_eur": 449.95,
+    "price_text": "€449.95",
+    "retailers": [
+      {
+        "name": "funstuff.ie",
+        "url": "https://www.funstuff.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Garda Car",
+    "price_eur": 329.0,
+    "price_text": "Cars start from €329 and the car with lights and siren featured on show is €495",
+    "retailers": [
+      {
+        "name": "Esmark Finch",
+        "url": "https://esmarkfinch.ie/shop/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Ride On Audi TT RS 12V",
+    "price_eur": 129.99,
+    "price_text": "€129.99",
+    "retailers": [
+      {
+        "name": "LIDL",
+        "url": "https://www.lidl.ie/en/index.htm"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Helmets",
+    "price_eur": null,
+    "price_text": "various prices",
+    "retailers": [
+      {
+        "name": "gosk8.ie",
+        "url": "http://gosk8.ie"
+      },
+      {
+        "name": "Eurocycles",
+        "url": "http://eurocycles.com"
+      },
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Harry Potter Hogwarts Express",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Harry Potter Hogwarts Great Hall",
+    "price_eur": 99.99,
+    "price_text": "€99.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Creator Expert Taj Mahal",
+    "price_eur": 299.99,
+    "price_text": "€299.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Santa's Magical Train",
+    "price_eur": 52.95,
+    "price_text": "€52.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://theorchard.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Airfix Sets",
+    "price_eur": 28.0,
+    "price_text": "€28.00",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO City Arctic Expedition Mobile Exploration Base",
+    "price_eur": 77.0,
+    "price_text": "€77.00",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Biggest Word Book Ever by Richard Scarry",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Flip-Flap Friends: Mermicorns",
+    "price_eur": 9.8,
+    "price_text": "€9.80",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "I Say Ooh You Say Aah by John Kane",
+    "price_eur": 9.8,
+    "price_text": "€9.80",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Where Are You, Book?",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Wonderbly",
+        "url": "http://www.wonderbly.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mythical Irish Beasts by Mark Joyce",
+    "price_eur": 23.0,
+    "price_text": "€23.00",
+    "retailers": [
+      {
+        "name": "Dubray",
+        "url": "http://www.dubraybooks.ie"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Oisín ar an bPota / Bláithín ar an bPota",
+    "price_eur": 7.5,
+    "price_text": "€7.50",
+    "retailers": [
+      {
+        "name": "siopa.ie",
+        "url": "http://www.siopa.ie"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Dr Hibernica Finch's Compelling Compendium of Irish Animals",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Matilda by Roald Dahl (Matilda at 30 Special Editions)",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Gratitude Journal",
+    "price_eur": 29.95,
+    "price_text": "€29.95",
+    "retailers": [
+      {
+        "name": "Positive Vibes",
+        "url": "https://www.positivevibes.ie/gratitude-journal-for-kids"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Oh, the Places You'll Go! by Dr Seuss",
+    "price_eur": 20.99,
+    "price_text": "€20.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": null
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Dog Who Lost His Bark by Eoin Colfer",
+    "price_eur": 10.45,
+    "price_text": "€10.45",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Wonky Donkey by Craig Smith",
+    "price_eur": 6.74,
+    "price_text": "€6.74",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mr Busy's Post: A Letter Book (Mr Men)",
+    "price_eur": 13.99,
+    "price_text": "€13.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Discovering Titanic by Ben Hubbard",
+    "price_eur": 13.99,
+    "price_text": "€13.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Brick City: New York / Paris / London by Warren Elsmore (Lonely Planet)",
+    "price_eur": 13.99,
+    "price_text": "€13.99 each",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Blazing a Trail: Irish Women Who Changed the World by Sarah Webb",
+    "price_eur": 12.74,
+    "price_text": "€12.74",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "I Am the Seed That Grew the Tree by Fiona Waters",
+    "price_eur": 23.99,
+    "price_text": "€23.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Granuaile the Pirate Queen by John & Fatti Burke",
+    "price_eur": 12.74,
+    "price_text": "€12.74",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "DK Braille It Can't Be True!",
+    "price_eur": 28.0,
+    "price_text": "€28",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Diary of a Wimpy Kid: The Meltdown by Jeff Kinney",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "http://www.Easons.com"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Croker by Joe O'Brien",
+    "price_eur": 8.99,
+    "price_text": "€8.99",
+    "retailers": [
+      {
+        "name": "The O'Brien Press",
+        "url": "http://www.obrien.ie"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Toot-Toot Friends Kingdom Pirate Ship",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Alphabet Jigsaws",
+    "price_eur": 31.95,
+    "price_text": "€31.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Egmont Cream Teddy Bear (Medium)",
+    "price_eur": 24.95,
+    "price_text": "€24.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Organic Squeaker Bunny (Red and Yellow, Small)",
+    "price_eur": 13.95,
+    "price_text": "€13.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Organic Chiming Bunny Softball (Red and Yellow, Medium)",
+    "price_eur": 17.0,
+    "price_text": "€17.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Rolling Pull Toy Elephant",
+    "price_eur": 24.0,
+    "price_text": "€24.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Safari Wooden Stroller Book (Small)",
+    "price_eur": 12.0,
+    "price_text": "€12.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Day and Night Storybook for First Words",
+    "price_eur": 8.95,
+    "price_text": "€8.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Things That Go Wooden Stroller Book",
+    "price_eur": 12.0,
+    "price_text": "€12.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Count With Me Book (Elephant Shape)",
+    "price_eur": 8.95,
+    "price_text": "€8.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Organic Squeaker Bear (Blue and Green, Small)",
+    "price_eur": 13.95,
+    "price_text": "€13.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Organic Soft Book and Teether",
+    "price_eur": 24.95,
+    "price_text": "€24.95",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Purple, Orange, Red and White Striped Dog (Medium)",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Green and White Striped Dog (Medium)",
+    "price_eur": 35.0,
+    "price_text": "€35.00",
+    "retailers": [
+      {
+        "name": "Kilkenny Shop",
+        "url": "https://www.kilkennyshop.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "BERG GO 2",
+    "price_eur": 99.0,
+    "price_text": "€99.00",
+    "retailers": [
+      {
+        "name": "Eurocycles",
+        "url": "http://eurocycles.com"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "120cm George the Gorilla",
+    "price_eur": 54.99,
+    "price_text": "€54.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "48cm Floss the Flamingo",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/"
+      },
+      {
+        "name": "Ken Black",
+        "url": "http://kenblack.ie/"
+      },
+      {
+        "name": "toys.ie",
+        "url": "http://www.toys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giraffe Ornament",
+    "price_eur": 44.95,
+    "price_text": "€44.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Owl with Plush",
+    "price_eur": 22.0,
+    "price_text": "€22.00",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zebra with Wheels",
+    "price_eur": 44.95,
+    "price_text": "€44.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "22pce Classic Christmas Train",
+    "price_eur": 52.95,
+    "price_text": "€52.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Foam Owl with Plush Flying",
+    "price_eur": 54.0,
+    "price_text": "€54.00",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Large Hot Air Balloon Rainbow",
+    "price_eur": 99.0,
+    "price_text": "€99.00",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hot Air Balloon Ornament",
+    "price_eur": 3.95,
+    "price_text": "€3.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zebra Decoration",
+    "price_eur": 8.45,
+    "price_text": "€8.45",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": null
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Unicorn Decoration",
+    "price_eur": 8.45,
+    "price_text": "€8.45",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Flat Elephant Ornament",
+    "price_eur": 8.45,
+    "price_text": "€8.45",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Medium Hot Air Balloon",
+    "price_eur": 49.0,
+    "price_text": "€49.00",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Elephant on Wheels Ornament",
+    "price_eur": 44.95,
+    "price_text": "€44.95",
+    "retailers": [
+      {
+        "name": "The Orchard Celbridge",
+        "url": "http://www.theorchard.ie"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "IKEA Lustigt Building Blocks",
+    "price_eur": 18.0,
+    "price_text": "€18.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Lion",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Tiger",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Baby Lion",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Orangutan",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Snake",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djungelskog Panda",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kramig Baby Panda",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jättestor Elephant",
+    "price_eur": 8.0,
+    "price_text": "from €8.00",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dead Famous Prints",
+    "price_eur": 30.0,
+    "price_text": "€30",
+    "retailers": [
+      {
+        "name": "Designist",
+        "url": "http://fintanwall.com/dead-famous"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Retro Robot Set Dressing",
+    "price_eur": null,
+    "price_text": "various prices",
+    "retailers": [
+      {
+        "name": "Folkster",
+        "url": "http://www.folkster.com"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": false
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "id": "2020-ty-beanie-boos-phoenix-the-fox",
+  "year": 2020,
+  "name": "Ty Beanie Boos Phoenix the Fox",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-beanie-boos-phoenix-the-fox-15cm"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebubbleroom.ie/products/ty-beanie-boos-phoenix-the-fox-15cm",
+      "title": "TY Beanie Boos  Phoenix the Fox",
+      "description": "TY Beanie Boos 6\" Phoenix the Fox , Perfect Plush!Brightly coloured with big glittery eyesBirthday September 18th",
+      "image": "http://www.thebubbleroom.ie/cdn/shop/products/TyBooBuddiePhonix_1200x1200.jpg?v=1589063262",
+      "ld_description": "TY Beanie Boos 6\" Phoenix the Fox , Perfect Plush!Brightly coloured with big glittery eyesBirthday September 18th",
+      "brand": "Ty",
+      "ld_image": "https://www.thebubbleroom.ie/cdn/shop/products/TyBooBuddiePhonix_378x.jpg?v=1589063262"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "n1qyacLwQvw",
+      "channel": "cookie",
+      "duration": 278.0,
+      "title": "REVIEWING THE 2021 SUMMER BEANIE BOOS"
+    },
+    {
+      "id": "RGNAJqB97LA",
+      "channel": "Ha Sa",
+      "duration": 434.0,
+      "title": "Top 10 CUTEST Beanie Boos!"
+    },
+    {
+      "id": "2V4AaNf_EhM",
+      "channel": "Product Guide Hub",
+      "duration": 454.0,
+      "title": "The Top 5 Best Beanie Boo in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "DtAqpQc6O4Y",
+      "channel": "Ha Sa",
+      "duration": 413.0,
+      "title": "The History Of Beanie Boos! (2009-NOW)"
+    },
+    {
+      "id": "BKcBwRStQzE",
+      "channel": "BBToyStore",
+      "duration": 199.0,
+      "title": "TY BEANIE BOOS Set of 6 Spring 2020 Releases (Linus, Spirit, Lainey, Austin+) Review -BBToyStore.com"
+    }
+  ]
+}

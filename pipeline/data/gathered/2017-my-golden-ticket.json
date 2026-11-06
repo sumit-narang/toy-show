@@ -1,0 +1,53 @@
+{
+  "id": "2017-my-golden-ticket",
+  "year": 2017,
+  "name": "My Golden Ticket",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Wonderbly.com",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zl91NnFHTkQ",
+      "channel": "The Office",
+      "duration": 281.0,
+      "title": "Golden Ticket Idea - The Office US"
+    },
+    {
+      "id": "KR8PscR6N2s",
+      "channel": "Camilie39",
+      "duration": 247.0,
+      "title": "Charlie Finds the Last Golden Ticket"
+    },
+    {
+      "id": "bvVsQ02suls",
+      "channel": "Shark Tank Global",
+      "duration": 2125.0,
+      "title": "Lori Greiner Golden Ticket Moments | Shark Tank US | Shark Tank Global"
+    },
+    {
+      "id": "nvMruBhk_gY",
+      "channel": "Worldwide Nation",
+      "duration": 86.0,
+      "title": "Officer John Nolan receives the golden ticket | The Rookie S05E01"
+    },
+    {
+      "id": "FEas0xNi5MM",
+      "channel": "ABC",
+      "duration": 116.0,
+      "title": "John Nolan Decides How to Spend His 'Golden Ticket' - The Rookie"
+    }
+  ]
+}

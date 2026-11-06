@@ -1,0 +1,44 @@
+{
+  "id": "2022-step-right-up-step-right-up-lucky-egg",
+  "year": 2022,
+  "name": "Step Right Up Step Right Up – Lucky Egg",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "IvEO_Sz9RUE",
+      "channel": "Lucky Egg",
+      "duration": 105.0,
+      "title": "Step Right Up - How To Play"
+    },
+    {
+      "id": "t_HJhSm_ad4",
+      "channel": "Lucky Egg",
+      "duration": 14.0,
+      "title": "Step Right Up - Game Preview"
+    },
+    {
+      "id": "DGN3uS46icg",
+      "channel": "1221 Manhwa Recap",
+      "duration": 20605.0,
+      "title": "PART2-Everyone Laughed at My Useless SSS Skill… Until I Broke the World Record"
+    },
+    {
+      "id": "tIaBiSrNjUM",
+      "channel": "Relaxation Cabin Manhwa Recap",
+      "duration": 25135.0,
+      "title": "His Talent Went F → E → D → C → A → S → SS → SSS. All He Did Was Click UPGRADE."
+    },
+    {
+      "id": "h-L-lZzlCfQ",
+      "channel": "The Mini Moonies",
+      "duration": 131.0,
+      "title": "🐰🐇 Easter Bunny Song 🐇🐰Look for surprise eggs at the Easter egg hunt with Baby Moonies!"
+    }
+  ]
+}

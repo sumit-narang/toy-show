@@ -1,0 +1,57 @@
+{
+  "id": "2022-the-irish-fairy-door-co",
+  "year": 2022,
+  "name": "The Irish Fairy Door Co",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Tipperary Crystal",
+      "url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB",
+      "title": "Tipperary | Gifts Beyond Expectations",
+      "description": "Irish Design-led giftware from Tipperary. Jewellery, Homeware, Candles, Fashion, Handbags & much more. Contemporary and classic ranges. Free Delivery when you spend over €55\"",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k20WavDWdiU",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 60.0,
+      "title": "CAPTURED ON FILM! Fairies taking worries away!!"
+    },
+    {
+      "id": "M2t3mCqgtBM",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 162.0,
+      "title": "Raisin | The Irish Fairy Door Company"
+    },
+    {
+      "id": "Uu_37RwuwDw",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 72.0,
+      "title": "A fairy's magical journey to their human home!"
+    },
+    {
+      "id": "m4C6jTZDTrU",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 210.0,
+      "title": "Will the magic work?? Our fairy needs help!!"
+    },
+    {
+      "id": "brhue_Y0Lkk",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 103.0,
+      "title": "A Magical Meeting!"
+    }
+  ]
+}

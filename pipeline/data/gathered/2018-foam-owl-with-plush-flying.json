@@ -1,0 +1,57 @@
+{
+  "id": "2018-foam-owl-with-plush-flying",
+  "year": 2018,
+  "name": "Foam Owl with Plush Flying",
+  "price_eur": 54.0,
+  "price_text": "€54.00",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sSYsU2_x7Js",
+      "channel": "Affg Eren",
+      "duration": 2951.0,
+      "title": "Before You Throw Away Toilet Paper Rolls… Watch This! 🤯 DIY Owl Craft"
+    },
+    {
+      "id": "klEb57dgK-E",
+      "channel": "Inside Edition",
+      "duration": 86.0,
+      "title": "Rescued Baby Owl Dancing to 'Monster Mash' Will Make You Smile"
+    },
+    {
+      "id": "2B8VKtNOYLw",
+      "channel": "Laura Mathews Art",
+      "duration": 30.0,
+      "title": "Raven wings with feathers maquette"
+    },
+    {
+      "id": "H477KqpOJfs",
+      "channel": "Memoryquest",
+      "duration": 79.0,
+      "title": "FAO Schwartz Hoots Interactive Owl"
+    },
+    {
+      "id": "Ntpaz7giRaM",
+      "channel": "eiken_laboratory",
+      "duration": 1014.0,
+      "title": "How to make light up little owl plush"
+    }
+  ]
+}

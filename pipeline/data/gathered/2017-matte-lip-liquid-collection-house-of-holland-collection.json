@@ -1,0 +1,53 @@
+{
+  "id": "2017-matte-lip-liquid-collection-house-of-holland-collection",
+  "year": 2017,
+  "name": "Matte Lip Liquid Collection (House of Holland collection)",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FErtYMqRoh8",
+      "channel": "Pinkmelon.de",
+      "duration": 160.0,
+      "title": "The Body Shop X House Of Holland Limited Edition im Pinkmelon Produkte-Stopp"
+    },
+    {
+      "id": "B0GVwdNZMKA",
+      "channel": "Mariz Guico",
+      "duration": 1618.0,
+      "title": "PALETTE TRY-ON: The Body Shop x House of Holland | Mariz Guico"
+    },
+    {
+      "id": "_ZsyJnpsRmc",
+      "channel": "DaNai Johnson",
+      "duration": 301.0,
+      "title": "The Lip Bar Matte Liquid Lipstick Try On Haul | FIRST IMPRESSIONS | danaialyse"
+    },
+    {
+      "id": "FfIaSm6Svz4",
+      "channel": "The Body Shop Germany GmbH",
+      "duration": 56.0,
+      "title": "Day-to-Night Look mit Matte Lip Liquids und Eye Colour Stick von The Body Shop"
+    },
+    {
+      "id": "4uQKzc3pMNo",
+      "channel": "Sathyapriya",
+      "duration": 579.0,
+      "title": "HUGE HAUL - Lipstick, Lip Gloss, Liquid Lipstick, Lip Oil, Lip Tints ✨New Launches - BROWN EDITION ✨"
+    }
+  ]
+}

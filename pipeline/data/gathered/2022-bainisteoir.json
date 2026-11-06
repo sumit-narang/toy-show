@@ -1,0 +1,57 @@
+{
+  "id": "2022-bainisteoir",
+  "year": 2022,
+  "name": "Bainisteoir",
+  "price_eur": 35.0,
+  "price_text": "€35",
+  "retailers": [
+    {
+      "name": "Bainisteoir",
+      "url": "https://bainisteoirboardgame.ie/pages/home"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://bainisteoirboardgame.ie/",
+      "title": "IPTV Ireland 2026 – Best 4K IPTV Subscription from €4.17",
+      "description": "Bainisteoir IPTV: premium IPTV Ireland service in 4K. One IPTV subscription for Irish & global live TV, sports, movies & series. No contract, from €4.17/mo.",
+      "image": "https://bainisteoirboardgame.ie/wp-content/uploads/2026/10/iptv-subscription-ireland-bainisteoir-iptv.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "I77kMtmXiD8",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 76.0,
+      "title": "Hang sangwiches anyone? | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "QeISrq_LLzY",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 43.0,
+      "title": "From Newtowncashel to Hollywood | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "kLJhFMoKetg",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 81.0,
+      "title": "Pippa's Shock | Celebrity Bainisteoir - The Rivals"
+    },
+    {
+      "id": "49vU7P1N44I",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 108.0,
+      "title": "Stephen Ireland gives Jessica a driving lesson | Celebrity Bainisteoir | RTÉ One"
+    },
+    {
+      "id": "SGKVe-NM49g",
+      "channel": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "duration": 57.0,
+      "title": "Sore loser | Celebrity Bainisteoir | RTÉ One"
+    }
+  ]
+}

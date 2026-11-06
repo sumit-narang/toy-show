@@ -1,0 +1,54 @@
+{
+  "id": "2023-twas-the-night-before-christmas",
+  "year": 2023,
+  "name": "'Twas The Night Before Christmas",
+  "price_eur": 11.19,
+  "price_text": "€11.19",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://www.dubraybooks.ie/product/twas-the-night-before-christmas-pb-9781529504354"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/twas-the-night-before-christmas-pb-9781529504354"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p46XbyC_5ao",
+      "channel": "candlelitdreamz",
+      "duration": 246.0,
+      "title": "Twas The Night Before Christmas as told by Perry Como"
+    },
+    {
+      "id": "Q5iPjxfB_0E",
+      "channel": "HolidayFavorites",
+      "duration": 109.0,
+      "title": "🎅 Christmas Chimes are Calling Santa - 'Twas the Night Before Christmas - 1974"
+    },
+    {
+      "id": "cMNx34ImPVk",
+      "channel": "Storytimefun",
+      "duration": 279.0,
+      "title": "🎅🏻🎄’TWAS ThE NiGhT BEFORE ChRISTMAS by Clement Clarke Moore illustrated by Jon Godell"
+    },
+    {
+      "id": "d7CT2Wo4xxs",
+      "channel": "Fort Worth Chorale",
+      "duration": 479.0,
+      "title": "'Twas the Night Before Christmas (Simeone - Fort Worth Chorale)"
+    },
+    {
+      "id": "u5hJE8Agg48",
+      "channel": "Ultimate Holidays ",
+      "duration": 1457.0,
+      "title": "⛄️🌟Twas The Night Before Christmas - ☃️A Christmas Kids Cartoon🎄❄️"
+    }
+  ]
+}

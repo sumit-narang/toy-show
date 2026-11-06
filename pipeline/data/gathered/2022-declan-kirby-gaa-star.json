@@ -1,0 +1,44 @@
+{
+  "id": "2022-declan-kirby-gaa-star",
+  "year": 2022,
+  "name": "Declan Kirby GAA Star",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "3zLhbnizHAw",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 829.0,
+      "title": "Incredible Rant On The Demise Of Cork Football"
+    },
+    {
+      "id": "vD_MA1I0MSM",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2821.0,
+      "title": "Meath & Westmeath Brilliance | Dublin Without Cluxton | Galway Progress | Football Review Podcast"
+    },
+    {
+      "id": "Xowx-Uq937Y",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 561.0,
+      "title": "How Far Can Enda McGinley Take The Antrim Footballers"
+    },
+    {
+      "id": "ApIHpv5Pono",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 337.0,
+      "title": "David Clifford Scores 2-12 For Fossa In Kerry Junior Final 😲"
+    },
+    {
+      "id": "f_6BOC7AEQI",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2300.0,
+      "title": "Top 10 GAA Moments (2021)"
+    }
+  ]
+}

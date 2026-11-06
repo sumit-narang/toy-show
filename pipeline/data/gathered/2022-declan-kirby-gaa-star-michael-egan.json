@@ -1,0 +1,44 @@
+{
+  "id": "2022-declan-kirby-gaa-star-michael-egan",
+  "year": 2022,
+  "name": "Declan Kirby GAA Star - Michael Egan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "oxKAbonwF7g",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 2524.0,
+      "title": "Galway All Ireland Dark Horses? 🤔 Top 5 Footballers in 2022 🔥 Cavan vs Sligo & More!"
+    },
+    {
+      "id": "gFo9x-taqDQ",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 4363.0,
+      "title": "Derry All Ireland Favourites? 🤔 Next Mayo Manager? 👀 Dubs vs Kerry 😲 Galway Improvement & More!"
+    },
+    {
+      "id": "AZgY6s3mwnw",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1001.0,
+      "title": "\"We Will Win The All Ireland\" Buzz Back In Cork Again With Ricken Appointment"
+    },
+    {
+      "id": "34Ik_m8mvC4",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 1830.0,
+      "title": "Cork Football Final Preview | St Finbarrs vs Clonakilty | Match Preview"
+    },
+    {
+      "id": "RuoiaydRM9E",
+      "channel": "Gaelic Games Fan TV",
+      "duration": 4866.0,
+      "title": "Ballygunner win Club Hurling Classic 👏 Kilmacud Crokes on 🔥 Downs & Moycullen progress 🙌"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-forces-of-destiny-leia-and-r2d2",
+  "year": 2017,
+  "name": "Star Wars Forces of Destiny Leia and R2D2",
+  "price_eur": 33.0,
+  "price_text": "€33.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pm4OcUlT7nQ",
+      "channel": "Toy Shelf Review",
+      "duration": 592.0,
+      "title": "Star Wars Forces of Destiny Princess Leia and R2-D2 Review"
+    },
+    {
+      "id": "mOs_lMm7mvs",
+      "channel": "Toy Bro",
+      "duration": 352.0,
+      "title": "Star Wars Forces of Destiny Deluxe LEIA & R2-D2 Toy Review"
+    },
+    {
+      "id": "bpZ8yzJFF2M",
+      "channel": "Cdog Cdog",
+      "duration": 682.0,
+      "title": "STAR WARS FORCES OF DESTINY LEIA & WICKET REVIEW"
+    },
+    {
+      "id": "Yi5fzg0VjSQ",
+      "channel": "Monkey Cookie",
+      "duration": 412.0,
+      "title": "Forces of Destiny | Princess Leia and R2 D2"
+    },
+    {
+      "id": "4vydaHAZuVY",
+      "channel": "ADDOITALLDAY",
+      "duration": 583.0,
+      "title": "FORCES OF DESTINY ANH LEIA AND R2D2"
+    }
+  ]
+}

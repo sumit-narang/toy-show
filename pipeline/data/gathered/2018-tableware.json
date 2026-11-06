@@ -1,0 +1,57 @@
+{
+  "id": "2018-tableware",
+  "year": 2018,
+  "name": "Tableware",
+  "price_eur": 1.5,
+  "price_text": "from 1.50",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "http://IKEA.com"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/",
+      "title": "Hej! Welcome to IKEA Global",
+      "description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+      "image": "https://www.ikea.com/global/en/media/IKEA_com_Global_Thumbnail_3765094b99.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FnsJ028DEoQ",
+      "channel": "Nicolas Fairford",
+      "duration": 1160.0,
+      "title": "UNBOXING MY NEW TABLEWARE HAUL & AN AMAZING GIVEAWAY TO CELEBRATE THE CORONATION OF KING CHARLES III"
+    },
+    {
+      "id": "_MvDoMwtB0w",
+      "channel": "Tresun Ceramics",
+      "duration": 110.0,
+      "title": "How to choose the ceramic tableware material? A comparison of bone china, porcelain, and stoneware"
+    },
+    {
+      "id": "NGd8R2WaLFo",
+      "channel": "Adorn the Table",
+      "duration": 1311.0,
+      "title": "8 Vintage Tableware Pieces We NEED to BRING BACK!"
+    },
+    {
+      "id": "qPMCC-p6zZ0",
+      "channel": "Colleens Reviews",
+      "duration": 590.0,
+      "title": "3 BEST Dinnerware Sets 2025"
+    },
+    {
+      "id": "JTgEazn8_ew",
+      "channel": "ESL Kids World",
+      "duration": 113.0,
+      "title": "🍽Tableware Vocabulary for ESL Kids | Let's Set the Table"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-nintendo-switch-2",
+  "year": 2025,
+  "name": "Nintendo Switch 2",
+  "price_eur": 459.99,
+  "price_text": "€459.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/nintendo-switch-2/nintendo-switch-2-consoles/nintendo-switch-2/p/249605"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/nintendo-switch-2/nintendo-switch-2-consoles/nintendo-switch-2/p/249605",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kj-AZA4khVo",
+      "channel": "Venom's Tech",
+      "duration": 1529.0,
+      "title": "Nintendo Switch 2: A Pricey Disappointment?"
+    },
+    {
+      "id": "tOJlEjBqdd4",
+      "channel": "Austin Evans",
+      "duration": 473.0,
+      "title": "The New Switch 2 is BETTER"
+    },
+    {
+      "id": "-NNCca97v98",
+      "channel": "Marques Brownlee",
+      "duration": 797.0,
+      "title": "My Nintendo Switch 2 Review (Doesn't Matter?)"
+    },
+    {
+      "id": "QFJCeIwWoPY",
+      "channel": "ayemaldo",
+      "duration": 899.0,
+      "title": "The Nintendo Switch 2: After One Year"
+    },
+    {
+      "id": "F-CvM4s21P0",
+      "channel": "Sean McRae",
+      "duration": 247.0,
+      "title": "I replaced Doomscrolling with the Switch 2. Here's what happened"
+    }
+  ]
+}

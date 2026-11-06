@@ -1,0 +1,54 @@
+{
+  "id": "2025-bruder-massey-ferguson-7624",
+  "year": 2025,
+  "name": "Bruder Massey Ferguson 7624",
+  "price_eur": 44.0,
+  "price_text": "€44",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-massey-ferguson-7624"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-massey-ferguson-7624"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nrZcWHYArjo",
+      "channel": "BruderSpielwaren",
+      "duration": 166.0,
+      "title": "Massey Ferguson 7624 -- 03046 -- BRUDER Spielwaren"
+    },
+    {
+      "id": "IYgiF9QBC_Q",
+      "channel": "RC T4K",
+      "duration": 139.0,
+      "title": "BRUDER TOYS TRAKTOR MASSEY FERGUSON 7624"
+    },
+    {
+      "id": "24WbUVMcdLc",
+      "channel": "RC T4K",
+      "duration": 521.0,
+      "title": "BRUDER TOYS RC Traktor Massey Ferguson 7624"
+    },
+    {
+      "id": "dc7iwISYyL8",
+      "channel": "Çebitoys ",
+      "duration": 42.0,
+      "title": "Bruder Massey Ferguson 7600 Tractor #03046"
+    },
+    {
+      "id": "5qdOj2qPC2g",
+      "channel": "RC T4K",
+      "duration": 633.0,
+      "title": "RC TRAKTOR MASSEY FERGUSON 7624 and New Krampe tandem halfpipe tipping trailer!"
+    }
+  ]
+}

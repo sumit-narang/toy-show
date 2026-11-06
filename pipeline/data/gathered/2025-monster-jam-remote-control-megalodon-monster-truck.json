@@ -1,0 +1,57 @@
+{
+  "id": "2025-monster-jam-remote-control-megalodon-monster-truck",
+  "year": 2025,
+  "name": "Monster Jam Remote Control Megalodon Monster Truck",
+  "price_eur": 124.99,
+  "price_text": "€124.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/monster-jam/monster-jam-1-6-remote-control-all-terrain-megalodon-monster-truck/p/209704"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/monster-jam/monster-jam-1-6-remote-control-all-terrain-megalodon-monster-truck/p/209704",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xpuO_G8Bb4Q",
+      "channel": "Monster Jam",
+      "duration": 31.0,
+      "title": "Megalodon Storm All-Terrain Remote Control Monster Truck | Monster Jam"
+    },
+    {
+      "id": "TisyvrMwIp8",
+      "channel": "KIDS2KIDS",
+      "duration": 1309.0,
+      "title": "Monster Jam Toy Trucks - MEGALODON STORM RC Car - Waterfall Off-roading & Skatepark GO PRO ADVENTURE"
+    },
+    {
+      "id": "PUJGFGq9GRc",
+      "channel": "Monster Jam Kids",
+      "duration": 175.0,
+      "title": "How to Do Stunts with the Megalodon Storm RC!"
+    },
+    {
+      "id": "wX9g4jtDLMs",
+      "channel": "KIDS2KIDS",
+      "duration": 1743.0,
+      "title": "Monster Truck Toys UNBOXING 📦  Monster Jam MEGALODON STORM All-Terrain RC Truck - DRIVES ON WATER! 💦"
+    },
+    {
+      "id": "3lU3qtNsUR0",
+      "channel": "KIDS2KIDS",
+      "duration": 1297.0,
+      "title": "Who Would Win?! Megalodon Storm vs. Grave Digger Freestyle Force! -- Monster Jam RC Truck Toys"
+    }
+  ]
+}

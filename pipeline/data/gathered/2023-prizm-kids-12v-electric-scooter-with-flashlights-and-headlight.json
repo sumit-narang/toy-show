@@ -1,0 +1,39 @@
+{
+  "id": "2023-prizm-kids-12v-electric-scooter-with-flashlights-and-headlight",
+  "year": 2023,
+  "name": "Prizm Kids 12V Electric Scooter with Flashlights and Headlight",
+  "price_eur": 149.95,
+  "price_text": "€149.95",
+  "retailers": [
+    {
+      "name": "FunStuff",
+      "url": "https://funstuff.ie/prizm-kids-12v-electric-scooter-with-flashlights-and-headlight-white/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funstuff.ie/prizm-kids-12v-electric-scooter-with-flashlights-and-headlight-white/",
+      "title": "Prizm Kids 12V Electric Scooter with Flashlights and Headlight (White)",
+      "description": "Shop best Prizm Kids Electric Scooter with Flashlights and Headlight Funstuff.ie Ireland UK.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1448/images/13058/whizza-prizm-kids-12v-electric-scooter-with-flashlights-and-headlight-white__08488.1789473843.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QR5Vyl6bMR8",
+      "channel": "FunStuff Ireland UK",
+      "duration": 60.0,
+      "title": "Prizm Kids Electric Scooter with Flashlights and Headlight - Funstuff.ie Ireland and the UK"
+    },
+    {
+      "id": "WDqFI6abjvk",
+      "channel": "The Best Selection",
+      "duration": 557.0,
+      "title": "TOP 5 BEST ELECTRIC SCOOTERS For KIDS 2025 | Kids' ELECTRIC SCOOTERS"
+    }
+  ]
+}

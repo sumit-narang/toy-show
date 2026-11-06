@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-sensory-activity-table",
+  "year": 2017,
+  "name": "ELC Sensory Activity Table",
+  "price_eur": 64.99,
+  "price_text": "€64.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J7fWh0kYatA",
+      "channel": "Early Learning Centre Indonesia",
+      "duration": 40.0,
+      "title": "ELC Indonesia - Bermain Sensori dengan ELC Little Sense Lights and Sounds Activity Table"
+    },
+    {
+      "id": "H8tQODbQXJo",
+      "channel": "Early Learning Centre",
+      "duration": 40.0,
+      "title": "Little Senses Lights and Sounds Activity Table (12 months+) Early Learning Centre"
+    },
+    {
+      "id": "sVUCQTXBwoM",
+      "channel": "Early Learning Centre",
+      "duration": 44.0,
+      "title": "Early Learning Centre My First Sand and Water Table"
+    },
+    {
+      "id": "hOb8LEALKEo",
+      "channel": "Early Learning Centre",
+      "duration": 41.0,
+      "title": "Early Learning Centre Wooden Activity Table"
+    },
+    {
+      "id": "RmX3Q2pIN7U",
+      "channel": "Family Play Fun",
+      "duration": 554.0,
+      "title": "Beli Meja Pasir di ELC (So Fun Playing Early Learning Centre Sand and Water Table)"
+    }
+  ]
+}

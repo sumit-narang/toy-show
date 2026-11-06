@@ -1,0 +1,26 @@
+{
+  "id": "2023-liontouch-queen-rosa-costume-accessories",
+  "year": 2023,
+  "name": "Liontouch Queen Rosa Costume & Accessories",
+  "price_eur": 83.8,
+  "price_text": "€83.80",
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/search?q=liontouch+queen&options%5Bprefix%5D=last"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/search?q=liontouch+queen&options%5Bprefix%5D=last",
+      "title": "Search: 4 results found for \"liontouch queen\"",
+      "description": "Shop quality toys, puppets, arts and crafts, role play toys and educational gifts at Mimitoys.ie. Trusted for over 20 years by Irish parents, teachers, childcare providers and play therapists. Irish-owned online toy shop with real stock in Ireland and fast delivery nationwide.",
+      "image": "http://mimitoys.ie/cdn/shop/files/Mimitoys_Social_Share_Image.webp?v=1683541818"
+    }
+  ],
+  "video_candidates": []
+}

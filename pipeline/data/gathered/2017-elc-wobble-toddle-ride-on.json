@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-wobble-toddle-ride-on",
+  "year": 2017,
+  "name": "ELC Wobble Toddle Ride On",
+  "price_eur": 62.99,
+  "price_text": "€62.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "A9fLhSIgDnk",
+      "channel": "Early Learning Centre",
+      "duration": 46.0,
+      "title": "Early Learning Centre Wobble Toddle Ride-On"
+    },
+    {
+      "id": "3V5h3PuKBtU",
+      "channel": "Arighi Zarif",
+      "duration": 44.0,
+      "title": "Belajar jalan [ELC Wobble Toddle Ride]"
+    },
+    {
+      "id": "RVU8hywtyic",
+      "channel": "Peek A Boo babygear",
+      "duration": 91.0,
+      "title": "Mainan Anak mobil mobilan ELC WOBBLE TODDLE RIDE ON 8"
+    },
+    {
+      "id": "lVrv0Q3kXiQ",
+      "channel": "Early Learning Centre",
+      "duration": 37.0,
+      "title": "Wobble Toddle Ride On (9 months+) Early Learning Centre"
+    },
+    {
+      "id": "taVof8Io64s",
+      "channel": "nyonyamalas",
+      "duration": 244.0,
+      "title": "Review Mainan Bayi ELC Wobble Toddle Ride On"
+    }
+  ]
+}

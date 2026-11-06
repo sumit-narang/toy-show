@@ -1,0 +1,57 @@
+{
+  "id": "2023-sonic-superstars",
+  "year": 2023,
+  "name": "Sonic Superstars",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/games/sonic-superstars/sonic-superstars-ps5/p/229674"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/games/sonic-superstars/sonic-superstars-ps5/p/229674",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YflxkMoh1jM",
+      "channel": "packattack04082",
+      "duration": 8772.0,
+      "title": "Sonic Superstars - Full Game Walkthrough"
+    },
+    {
+      "id": "j3g-62NNoUs",
+      "channel": "Sonic the Hedgehog",
+      "duration": 104.0,
+      "title": "Sonic Superstars - Announce Trailer"
+    },
+    {
+      "id": "pE_Xmd-DOpU",
+      "channel": "ZachTheInsomniac",
+      "duration": 1082.0,
+      "title": "Sonic Superstars is Amazing, Actually"
+    },
+    {
+      "id": "gSQ3D-ZuJBM",
+      "channel": "BeardBear",
+      "duration": 22620.0,
+      "title": "Sonic Superstars - Full Game 100% Walkthrough"
+    },
+    {
+      "id": "bycrRDr22Ds",
+      "channel": "The Escapist",
+      "duration": 215.0,
+      "title": "Sonic Superstars | Review in 3 Minutes"
+    }
+  ]
+}

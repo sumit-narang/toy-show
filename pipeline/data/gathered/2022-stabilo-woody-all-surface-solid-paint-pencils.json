@@ -1,0 +1,57 @@
+{
+  "id": "2022-stabilo-woody-all-surface-solid-paint-pencils",
+  "year": 2022,
+  "name": "Stabilo Woody All-Surface Solid Paint Pencils",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "jiminy eco-toys",
+      "url": "https://jiminy.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vyK3ObIh2Lo",
+      "channel": "Kathy Weller Art",
+      "duration": 428.0,
+      "title": "Stabilo All pencil review - Testing out the Stabilo All pencil - Pencil review - Kathy Weller Art"
+    },
+    {
+      "id": "CDrMvovVwjs",
+      "channel": "STABILO",
+      "duration": 52.0,
+      "title": "🌈 The Multi-talented pencil STABILO woody 3 in 1 woody 3 in a premium desk set.✨🚀"
+    },
+    {
+      "id": "1_sd7uTHt7I",
+      "channel": "thefrugalcrafter Lindsay Weirich",
+      "duration": 2889.0,
+      "title": "Did I Waste my Money? Stabilo Woody 3-in-1 Crayon Review & Comparison with Neocolor 2 Crayons"
+    },
+    {
+      "id": "9sKMG5e_PJY",
+      "channel": "Piggy Pens",
+      "duration": 1566.0,
+      "title": "NEW BUY! Do I Like My NEW Derwent Drawing Pencils? "
+    },
+    {
+      "id": "w5fRoWzpGdo",
+      "channel": "Welzie Art",
+      "duration": 226.0,
+      "title": "Acrylic Vs. Oil Paint Pen Markers: Whats the difference?"
+    }
+  ]
+}

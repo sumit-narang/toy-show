@@ -1,0 +1,54 @@
+{
+  "id": "2022-barney-10in-sitting",
+  "year": 2022,
+  "name": "BARNEY 10in SITTING",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NZkPYzIKZNc",
+      "channel": "Cocomelon - Nursery Rhymes",
+      "duration": 476.0,
+      "title": "Ten in the Bed | CoComelon Nursery Rhymes & Kids Songs"
+    },
+    {
+      "id": "D8jD5hMEzMQ",
+      "channel": "Bebefinn - Nursery Rhymes & Kids Songs",
+      "duration": 217.0,
+      "title": "Ten on a Mat! 🔟 | EP207 | Fun Counting Numbers 1 to 10 Song | Bebefinn Educational Nursery Rhymes"
+    },
+    {
+      "id": "TRlAvS-8zZo",
+      "channel": "Lalafun - Kinderlieder & Kinderreime",
+      "duration": 505.0,
+      "title": "Ten In The Bed Song + MORE Sleepy Baby Nursery Rhymes & Kids Songs"
+    },
+    {
+      "id": "6CZLkgZMPlY",
+      "channel": "Mr Tumble and Friends",
+      "duration": 182.0,
+      "title": "Mr Tumble Songs | Ten in the Bed ✨🌛 | Mr Tumble and Friends"
+    },
+    {
+      "id": "pT9CdnfFET8",
+      "channel": "ChuChu TV Nursery Rhymes & Kids Songs",
+      "duration": 231.0,
+      "title": "Ten In The Bed Nursery Rhyme With Lyrics - Cartoon Animation Rhymes & Songs for Children"
+    }
+  ]
+}

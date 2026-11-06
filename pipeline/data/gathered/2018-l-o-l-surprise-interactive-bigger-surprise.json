@@ -1,0 +1,69 @@
+{
+  "id": "2018-l-o-l-surprise-interactive-bigger-surprise",
+  "year": 2018,
+  "name": "L.O.L. Surprise Interactive Bigger Surprise",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fPuM2QAyPKg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 99.0,
+      "title": "L.O.L. Surprise! Bigger Surprise from MGA Entertainment"
+    },
+    {
+      "id": "L27JP2QGOXA",
+      "channel": "OhcluckToys",
+      "duration": 270.0,
+      "title": "LOL Surprise Interactive Live Pets Unboxing Toy Review"
+    },
+    {
+      "id": "mKa3jY_oEFM",
+      "channel": "Summer Joy",
+      "duration": 105.0,
+      "title": "LOL Surprise BIGGER SURPRISE EYE SPY DECODER Blind Box SNEAK PEAK Limited Edition"
+    },
+    {
+      "id": "dVx53jCaG68",
+      "channel": "Melody's Treasure Box",
+      "duration": 619.0,
+      "title": "UNBOXING LOL SURPRISE INTERACTIVE LIVE SURPRISE PETS | FUZZY FAN, BUNNY HUN, HOOPS DOGG #PETSOFLOL"
+    },
+    {
+      "id": "40GazsJxPnM",
+      "channel": "The Doll Archives",
+      "duration": 2255.0,
+      "title": "LOL Surprise EYE SPY Series 2025! TOTS, LITTLE SISTERS and PETS Unboxing"
+    }
+  ]
+}

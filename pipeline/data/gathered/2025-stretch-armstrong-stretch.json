@@ -1,0 +1,54 @@
+{
+  "id": "2025-stretch-armstrong-stretch",
+  "year": 2025,
+  "name": "Stretch Armstrong Stretch",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Tinneys Toys",
+      "url": "https://www.tinneystoys.com/en/Stretch-Armstrong-Core-Figure---7-Classic-Stretchy-Hero/m-12141.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.tinneystoys.com/en/Stretch-Armstrong-Core-Figure---7-Classic-Stretchy-Hero/m-12141.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YVg2fJ_Rq5E",
+      "channel": "Character Toys",
+      "duration": 20.0,
+      "title": "Stretch Mini Figures"
+    },
+    {
+      "id": "mH712PaHlg8",
+      "channel": "TKOR",
+      "duration": 631.0,
+      "title": "Filling Stretch Armstrong With 25 Gallons of Water"
+    },
+    {
+      "id": "uK_1Ml5-78A",
+      "channel": "Cade32X",
+      "duration": 16.0,
+      "title": "Stretch Armstrong - Stretch vs. X-Ray 15s Commercial (2025)"
+    },
+    {
+      "id": "fUw_slDyf8Q",
+      "channel": "Boids",
+      "duration": 19.0,
+      "title": "Stretch Armstrong's Revenge"
+    },
+    {
+      "id": "PBRBaEXsrJE",
+      "channel": "Big Balloon Toys Australia",
+      "duration": 21.0,
+      "title": "The Original Stretch Armstrong I 30\" TV Commercial"
+    }
+  ]
+}

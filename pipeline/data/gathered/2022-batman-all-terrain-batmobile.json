@@ -1,0 +1,57 @@
+{
+  "id": "2022-batman-all-terrain-batmobile",
+  "year": 2022,
+  "name": "Batman All-Terrain Batmobile",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/batman-all-terrain-batmobile-remote-control-1-15-water-resistant-vehicle/p/198427"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/batman-all-terrain-batmobile-remote-control-1-15-water-resistant-vehicle/p/198427",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d314mcCIwHg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 136.0,
+      "title": "BATMAN! All-Terrain Batmobile RC from Spin Master Review!"
+    },
+    {
+      "id": "udUoJhVWCo8",
+      "channel": "Spin Master",
+      "duration": 257.0,
+      "title": "How to drive the All-Terrain Batmobile!"
+    },
+    {
+      "id": "MIgd8QscG7g",
+      "channel": "Evan Storm",
+      "duration": 670.0,
+      "title": "Monster Truck RC Batman Ultimate Fun Batmobile Evan and Dad Pretend Story Play"
+    },
+    {
+      "id": "4EY7ltoTU2E",
+      "channel": "DCCollectors",
+      "duration": 766.0,
+      "title": "Spin Master RC All-Terrain Batmobile Review"
+    },
+    {
+      "id": "raVrNhLezQs",
+      "channel": "Annah Murray",
+      "duration": 88.0,
+      "title": "Testing the Batman All-Terrain Batmobile Remote Control Vehicle"
+    }
+  ]
+}

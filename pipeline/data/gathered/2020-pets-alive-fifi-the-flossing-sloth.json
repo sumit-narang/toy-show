@@ -1,0 +1,54 @@
+{
+  "id": "2020-pets-alive-fifi-the-flossing-sloth",
+  "year": 2020,
+  "name": "Pets Alive Fifi the Flossing Sloth",
+  "price_eur": 25.99,
+  "price_text": "€25.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/pets-alive-sloth/1600473305.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/pets-alive-sloth/1600473305.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wfQoUPjA--Q",
+      "channel": "All Brands Toys",
+      "duration": 16.0,
+      "title": "Pets Alive - Fifi the Flossing Sloth TVC 2"
+    },
+    {
+      "id": "iD4PQETVKeY",
+      "channel": "All Brands Toys",
+      "duration": 16.0,
+      "title": "Pets Alive - Fifi the Flossing Sloth TVC 1"
+    },
+    {
+      "id": "U1AtHSE7Fw4",
+      "channel": "Misfit Thrift",
+      "duration": 21.0,
+      "title": "Pets Alive Fifi the Flossing Sloth - Battery-Powered Dancing Robotic Toy"
+    },
+    {
+      "id": "AlCjmAUINf0",
+      "channel": "Memory Lane Toys",
+      "duration": 139.0,
+      "title": "Zuru Pets Alive Fifi The Sloth Flossing Dancing Toy"
+    },
+    {
+      "id": "lB47YJN51A4",
+      "channel": "MaazSpidey",
+      "duration": 61.0,
+      "title": "Pets Alive Fifi the Flossing Sloth Purple - 11\" Interactive Animal Dancing Robotic Plush Toy Review"
+    }
+  ]
+}

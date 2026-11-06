@@ -1,0 +1,57 @@
+{
+  "id": "2025-manchester-utd-liverpool-upcycled-bucket-hats",
+  "year": 2025,
+  "name": "Manchester Utd & Liverpool Upcycled Bucket Hats",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Footy Buckets",
+      "url": "https://www.footybuckets.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.footybuckets.com/",
+      "title": "Footy Buckets",
+      "description": "Bucket hats made from football shirts. Footy Buckets creates one-of-a-kind custom bucket hats made from your old damaged football kits. Upcycle your memories with our eco-friendly, custom creations, buy yours now.",
+      "image": "https://assets.bigcartel.com/account_images/6173095/Untitled+design+_3_.png?auto=format&fit=max&h=1200&w=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fklEEx_6G80",
+      "channel": "GQ",
+      "duration": 481.0,
+      "title": "10 Things Kobbie Mainoo Can’t Live Without"
+    },
+    {
+      "id": "n4VWYLvTGC4",
+      "channel": "FAN REACTIONS TV",
+      "duration": 1144.0,
+      "title": "🤬 MAN UNITED FANS MELTDOWN & RIVALS CELEBRATE 3-2 BRIGHTON COMEBACK | EFL CUP"
+    },
+    {
+      "id": "FrMSWiDtIxo",
+      "channel": "FAN REACTIONS TV",
+      "duration": 833.0,
+      "title": "MAN UNITED FANS FURIOUS! 🤬 LEEDS FANS ERUPT AFTER DRAMATIC 1-1 PREMIER LEAGUE DRAW! | FAN REACTIONS"
+    },
+    {
+      "id": "mNJzlwI4GPY",
+      "channel": "FAN REACTIONS TV",
+      "duration": 669.0,
+      "title": "LIVERPOOL FANS STUNNED 😧 , MAN CITY FANS GO WILD After 0-3 ANFIELD CRASH! | MATCH REACTIONS"
+    },
+    {
+      "id": "9APNMjniDsc",
+      "channel": "Footy Buckets",
+      "duration": 119.0,
+      "title": "Bucket hat made from a football shirt"
+    }
+  ]
+}

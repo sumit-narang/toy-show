@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-pony-saddle",
+  "year": 2023,
+  "name": "LeMieux Mini Pony Saddle",
+  "price_eur": 39.54,
+  "price_text": "€39.54",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Pony-Saddle/19IN?stock=58992"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Saddle-Black/19IN?stock=58992",
+      "title": "Toy Pony Saddle - Black",
+      "description": "Toy Pony Saddle - Black\n\t\t\t\n\t\t\n\t\n\n\nFor LeMieux Toy Pony\n\nExquisitely crafted miniature saddle in beautiful fine grain leather.  Real...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GLX/1000/1000/lemieux-mini-pony-saddle-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7OhAVqJGhTk",
+      "channel": "Angel Wings Equestrian",
+      "duration": 83.0,
+      "title": "How to put a Saddle on Your LeMieux Toy Pony"
+    },
+    {
+      "id": "s2KqraPzoms",
+      "channel": "☁️ Toy Ponies ☁️",
+      "duration": 94.0,
+      "title": "Yard restock asmr!! Mini LeMieux Pony/Crafty Pony Yard :D #lemieux #craftypony #diy #trending #asmr"
+    },
+    {
+      "id": "lpGAOyphvDE",
+      "channel": "LeMieux Official",
+      "duration": 31.0,
+      "title": "LeMieux Toy Ponies"
+    },
+    {
+      "id": "JsfhFdGxKJk",
+      "channel": "Kids Crafts and Pony Adventures",
+      "duration": 45.0,
+      "title": "This or That Lemieux Toy Pony Edition 🐴"
+    },
+    {
+      "id": "F5cF9EFb-BY",
+      "channel": "Peppermint HH",
+      "duration": 212.0,
+      "title": "NEW Pony | Getting My Barn Setup"
+    }
+  ]
+}

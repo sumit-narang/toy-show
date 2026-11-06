@@ -1,0 +1,69 @@
+{
+  "id": "2018-our-generation-deluxe-perfect-score-school-uniform-outfit",
+  "year": 2018,
+  "name": "Our Generation Deluxe Perfect Score School Uniform Outfit",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7bepMFqvYgs",
+      "channel": "OhcluckToys",
+      "duration": 284.0,
+      "title": "Our Generation Perfect Score Outfit Set 18 Inch Doll Playset Unboxing Review"
+    },
+    {
+      "id": "5Lyuk9Cpvm0",
+      "channel": "AGSistersFamily",
+      "duration": 183.0,
+      "title": "New school uniform from OG"
+    },
+    {
+      "id": "-ouSyldfcrI",
+      "channel": "CaRtOoNs and DiSnEy",
+      "duration": 1359.0,
+      "title": "QUICK LOOK AT OUR GENERATION 18\" DOLLS & FASHION SCHOOL DESK FURNITURE BIRTHDAY PARTY CELEBRATION"
+    },
+    {
+      "id": "Te4JPNRpy7U",
+      "channel": "DeenaandBeena",
+      "duration": 403.0,
+      "title": "Our Generation School Sets HAUL-Unboxing & Review"
+    },
+    {
+      "id": "OJP54Sagx_4",
+      "channel": "sew4dolls",
+      "duration": 297.0,
+      "title": "Our Generation Huge Haul"
+    }
+  ]
+}

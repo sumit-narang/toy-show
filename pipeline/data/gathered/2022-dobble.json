@@ -1,0 +1,54 @@
+{
+  "id": "2022-dobble",
+  "year": 2022,
+  "name": "Dobble",
+  "price_eur": 15.0,
+  "price_text": "€15",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/emasmdobb01en?_pos=1&_psq=dobble&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/emasmdobb01en?_pos=1&_psq=dobble&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VTDKqW_GLkw",
+      "channel": "NA",
+      "duration": 1717.0,
+      "title": "How does Dobble (Spot It) work?"
+    },
+    {
+      "id": "n3s_H3EfrPg",
+      "channel": "NA",
+      "duration": 158.0,
+      "title": "How to Play Dobble or Spot It!: a SPEEDY Search and Match game!"
+    },
+    {
+      "id": "Tvv7Sscj-rs",
+      "channel": "NA",
+      "duration": 388.0,
+      "title": "Dobble HINDI How to Play | 5 Ways to Play Dobble | Simple Playing Cards Game //Chai & Games"
+    },
+    {
+      "id": "QbIQq9PaYh0",
+      "channel": "NA",
+      "duration": 298.0,
+      "title": "How to Win Dobble Every Time"
+    },
+    {
+      "id": "aUwIaeIeWko",
+      "channel": "NA",
+      "duration": 212.0,
+      "title": "Rebel - Play Dobble! - Card Game - 5 Modes of Game - 010500"
+    }
+  ]
+}

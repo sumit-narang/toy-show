@@ -1,0 +1,57 @@
+{
+  "id": "2024-wwe-sheamus-action-figure",
+  "year": 2024,
+  "name": "WWE Sheamus Action Figure",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-elite-action-figures/wwe-elite-series-greatest-hits-king-sheamus-action-figure/p/239840"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-elite-action-figures/wwe-elite-series-greatest-hits-king-sheamus-action-figure/p/239840",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8-u4q974E-U",
+      "channel": "Kyle Peterson",
+      "duration": 746.0,
+      "title": "Sheamus WWE Ultimate Edition Unboxing & Review!"
+    },
+    {
+      "id": "ys1lvJm3tPs",
+      "channel": "Snapafigure",
+      "duration": 459.0,
+      "title": "The NEW SHEAMUS Figure is CRAZY!"
+    },
+    {
+      "id": "HRgLMef24OA",
+      "channel": "My Damn Toys",
+      "duration": 919.0,
+      "title": "This NEW WWE Figure Actually BRUISES!?"
+    },
+    {
+      "id": "kthBC_u-5C8",
+      "channel": "My Damn Toys",
+      "duration": 594.0,
+      "title": "WWE ELITE 58 SHEAMUS & CESARO FIGURE REVIEW!"
+    },
+    {
+      "id": "cq5klz8uITg",
+      "channel": "Kyle Peterson",
+      "duration": 486.0,
+      "title": "Sheamus WWE Elite Series 84 Unboxing & Review!"
+    }
+  ]
+}

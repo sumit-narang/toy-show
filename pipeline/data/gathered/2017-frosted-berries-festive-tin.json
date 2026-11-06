@@ -1,0 +1,53 @@
+{
+  "id": "2017-frosted-berries-festive-tin",
+  "year": 2017,
+  "name": "Frosted Berries Festive Tin",
+  "price_eur": 28.0,
+  "price_text": "€28.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hG8miu8m4OI",
+      "channel": "Katarina Cooper",
+      "duration": 430.0,
+      "title": "The Body shop - Holiday Edition 2017 -"
+    },
+    {
+      "id": "xIdhn1W3-fo",
+      "channel": "Klaire de Lys",
+      "duration": 206.0,
+      "title": "DIY Christmas Decorations - Red Berries"
+    },
+    {
+      "id": "cZHsfxxnKQ4",
+      "channel": "Tiffanis Herbalifestyle",
+      "duration": 192.0,
+      "title": "Holiday Special - Frosted Berry - Herbalife tea - loaded lit mega how to"
+    },
+    {
+      "id": "LnrRw5pfPFE",
+      "channel": "Dose Of Kendra",
+      "duration": 972.0,
+      "title": "(PART 2) MAC Frosted Firework Holiday Collection | Swatches| DoseofKendra"
+    },
+    {
+      "id": "HL9VhVf2l2w",
+      "channel": "Cozy Holiday Craft",
+      "duration": 347.0,
+      "title": "9 High-End Christmas DIYs That Look Incredibly Expensive! (Boutique Dupes) 🎄"
+    }
+  ]
+}

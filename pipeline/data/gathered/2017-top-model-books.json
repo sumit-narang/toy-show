@@ -1,0 +1,53 @@
+{
+  "id": "2017-top-model-books",
+  "year": 2017,
+  "name": "Top Model Books",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9mwESYLWvxo",
+      "channel": "Sports Illustrated Swimsuit",
+      "duration": 51.0,
+      "title": "Mia Kang In Mexico | Sports Illustrated Swimsuit"
+    },
+    {
+      "id": "yNBMjXGbIJY",
+      "channel": "TOPModel by Depesche",
+      "duration": 54.0,
+      "title": "TOPModel Dress me up Collage Book // Inspo"
+    },
+    {
+      "id": "9BziPDI26vE",
+      "channel": "Chim Xinh Channel",
+      "duration": 1038.0,
+      "title": "TOPModel dress me up sticker book, cutie star-dress 24 Pages sticker for Design (Chim Xinh channel)"
+    },
+    {
+      "id": "7Z6QTp0DAfc",
+      "channel": "TOPModel by Depesche",
+      "duration": 401.0,
+      "title": "TOPModel Special DesignBook"
+    },
+    {
+      "id": "MFDKc4mdy9Q",
+      "channel": "Debby Arts",
+      "duration": 618.0,
+      "title": "😍LET'S TRY TOP MODEL DESIGN BOOK!!! ♥"
+    }
+  ]
+}

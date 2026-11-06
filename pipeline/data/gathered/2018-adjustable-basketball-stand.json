@@ -1,0 +1,69 @@
+{
+  "id": "2018-adjustable-basketball-stand",
+  "year": 2018,
+  "name": "Adjustable Basketball Stand",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3nETqDZ7dss",
+      "channel": "Costway",
+      "duration": 129.0,
+      "title": "How to Install the Adjustable Portable Basketball Hoop Stand | SP37743 #costway #howto"
+    },
+    {
+      "id": "72zHUAVnAWs",
+      "channel": "Costway",
+      "duration": 354.0,
+      "title": "How to Install the Adjustable Portable Basketball Hoop | 31652798 #costway #howto"
+    },
+    {
+      "id": "KM7hO0WAy30",
+      "channel": "Smyths Toys Superstores",
+      "duration": 115.0,
+      "title": "Junior Adjustable Basketball Stand 2.2m to 2.6m - Smyths Toys"
+    },
+    {
+      "id": "pBCxqMJQp9E",
+      "channel": "Spalding",
+      "duration": 31.0,
+      "title": "Spalding The Beast 60\" Portable Basketball Hoop | Your Home Court Advantage"
+    },
+    {
+      "id": "JTyUtyF61n4",
+      "channel": "TONBUX Basketball Hoop",
+      "duration": 172.0,
+      "title": "TONBUX Basketball Hoop 5.25-10FT Stepless Adjustable Basketball Hoop"
+    }
+  ]
+}

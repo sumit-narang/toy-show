@@ -1,0 +1,57 @@
+{
+  "id": "2018-mr-busy-s-post-a-letter-book-mr-men",
+  "year": 2018,
+  "name": "Mr Busy's Post: A Letter Book (Mr Men)",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ay1Bm14MPxg",
+      "channel": "The Story Treasure",
+      "duration": 408.0,
+      "title": "'Mr. Busy's Post':A Letter Book, a MR. MEN series book Read Aloud | 5 mins Bed time stories for kids"
+    },
+    {
+      "id": "iopypy4jlu4",
+      "channel": "Mr. Majid ",
+      "duration": 634.0,
+      "title": "MR. MEN  Mr. Busy's Post. 💌"
+    },
+    {
+      "id": "m8_ZNPxsXJ0",
+      "channel": "pcjtalk",
+      "duration": 671.0,
+      "title": "Old Uncle Paul reads MR GREEDY and MR BUSY"
+    },
+    {
+      "id": "fastYgXXi2k",
+      "channel": "Mr. Men Little Miss Official",
+      "duration": 651.0,
+      "title": "The Mr Men Show \"Books\" (S1 E12)"
+    },
+    {
+      "id": "oUrwPnG5H6s",
+      "channel": "Mr. Majid ",
+      "duration": 553.0,
+      "title": "Mr. Men Ready, Steady, Bake!. 🍰🎂🧁"
+    }
+  ]
+}

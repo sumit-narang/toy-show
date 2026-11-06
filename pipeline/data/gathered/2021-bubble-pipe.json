@@ -1,0 +1,57 @@
+{
+  "id": "2021-bubble-pipe",
+  "year": 2021,
+  "name": "Bubble Pipe",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "ThinkingToys.ie",
+      "url": "https://thinkingtoys.ie/index.php?route=product/product&product_id=201&search=Bubble+Pipe"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thinkingtoys.ie/index.php?route=product/product&product_id=201&search=Bubble+Pipe",
+      "title": "Thinking Toys - Special Needs Toys and Sensory Toys Ireland",
+      "description": "Shop Our Range Of Over 3000 Products Online- Irelands Leading Supplier of Toys & Equipment For Children & Adults with Sensory Difficulties & Additional Needs.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S2IhcRNrr2s",
+      "channel": "Sam Heath",
+      "duration": 45.0,
+      "title": "How to use a Bubble pipe - PROPERLY!"
+    },
+    {
+      "id": "Vy5SckoCX9s",
+      "channel": "loopback69",
+      "duration": 17.0,
+      "title": "stewie bubble pipe.avi"
+    },
+    {
+      "id": "n9sOTmfnzqY",
+      "channel": "Grand Illusions",
+      "duration": 259.0,
+      "title": "Tim's Pipe Dream"
+    },
+    {
+      "id": "05RoZ-Gi78c",
+      "channel": "theninjaweirdo",
+      "duration": 21.0,
+      "title": "Renaisance Fair Bubble Pipe!"
+    },
+    {
+      "id": "sxIHooSt2Kw",
+      "channel": "Independent Jim ",
+      "duration": 403.0,
+      "title": "BEST cheap tool MAKE your own brake pipe! Bubble & Double Flare."
+    }
+  ]
+}

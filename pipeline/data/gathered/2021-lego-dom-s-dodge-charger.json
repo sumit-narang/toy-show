@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-dom-s-dodge-charger",
+  "year": 2021,
+  "name": "LEGO Dom's Dodge Charger",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/dom-s-dodge-charger-42111"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/dom-s-dodge-charger-42111"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FgiffXYSJf4",
+      "channel": "RacingBrick",
+      "duration": 756.0,
+      "title": "LEGO Technic 42111 Fast & Furious Dom's Dodge Charger detailed building review"
+    },
+    {
+      "id": "qYyExTwrtfg",
+      "channel": "Top Brick Builder",
+      "duration": 2663.0,
+      "title": "LEGO® Technic™ Dom’s Dodge Charger (42111)[1077 pcs] Step-by-Step Instructions @TopBrickBuilder"
+    },
+    {
+      "id": "cjym2CDQ6ns",
+      "channel": "Unbrickme",
+      "duration": 400.0,
+      "title": "LEGO Technic Fast & Furious Dom's Dodge Charger Review"
+    },
+    {
+      "id": "ZLLtaoQf1qU",
+      "channel": "Bricks n Cars",
+      "duration": 898.0,
+      "title": "I Built Fast and Furious In LEGO…"
+    },
+    {
+      "id": "Yj-glfuK1yM",
+      "channel": "RacingBrick",
+      "duration": 398.0,
+      "title": "How to fix the stance of LEGO Technic 42111 Dom's Dodge Charger in 5 minutes"
+    }
+  ]
+}

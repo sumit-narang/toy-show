@@ -1,0 +1,53 @@
+{
+  "id": "2018-cardinal-unicorn-ring-toss",
+  "year": 2018,
+  "name": "Cardinal Unicorn Ring Toss",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Littlewoods",
+      "url": null
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E86yJbXJEDw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 101.0,
+      "title": "Unicorn Magic Ring Toss Game from Cardinal"
+    },
+    {
+      "id": "WJ0WWkHYpug",
+      "channel": "JDS JustDifferentStuff",
+      "duration": 93.0,
+      "title": "Unpacking Jeu Unicorn Magic ring toss game"
+    },
+    {
+      "id": "xVHh862aayI",
+      "channel": "The Fearless Bunch",
+      "duration": 352.0,
+      "title": "UNICORN Magic Ring Toss Game!! Pretend Play..TOYS REVIEW"
+    },
+    {
+      "id": "VU2PU4fWLfY",
+      "channel": "Isaac The Toy Boys Toy Reviews",
+      "duration": 322.0,
+      "title": "Unicorn Magic Ring Toss game! Isaac vs Nana! || Toy Reviews ||"
+    },
+    {
+      "id": "fwA1xP_hgYk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 78.0,
+      "title": "Fingerlings Tail Ring Fling Game from Cardinal"
+    }
+  ]
+}

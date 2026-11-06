@@ -1,0 +1,57 @@
+{
+  "id": "2022-mr-tumble-weighted-blanket-companion",
+  "year": 2022,
+  "name": "Mr. Tumble Weighted Blanket Companion",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J-rTEj3ZTLc",
+      "channel": "Save Time Shop",
+      "duration": 281.0,
+      "title": "Top 5 Best Cozy Weighted Blankets 2026 - Find Your Perfect Sleep Companion"
+    },
+    {
+      "id": "r6QH-v2jRlU",
+      "channel": "HSN",
+      "duration": 473.0,
+      "title": "South Street Loft 10 lb. Calming Weighted Blanket"
+    },
+    {
+      "id": "CPr_K28UqjU",
+      "channel": "Bravo",
+      "duration": 28.0,
+      "title": "Odd Mom Out: Cookies and Breast Milk | Bravo"
+    },
+    {
+      "id": "B7HQolc-Exc",
+      "channel": "Gear vs Gear",
+      "duration": 535.0,
+      "title": "The Top 5 Best Unicorn Blanket in 2026 - Must Watch Before Buying!"
+    },
+    {
+      "id": "EBEOrsG0WDo",
+      "channel": "Clean With Confidence",
+      "duration": 339.0,
+      "title": "How To Wash & Dry a Weighted Blanket"
+    }
+  ]
+}

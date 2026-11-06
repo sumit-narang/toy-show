@@ -1,0 +1,54 @@
+{
+  "id": "2020-once-upon-a-reader-by-lorraine-levis",
+  "year": 2020,
+  "name": "Once Upon a Reader by Lorraine Levis",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/Once-Upon-a-Reader-en-us.aspx"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.easons.com/Once-Upon-a-Reader-en-us.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kwI_Bvfhsjo",
+      "channel": "Google Play Books",
+      "duration": 3581.0,
+      "title": "Once Upon a Lie: A thrilling, emotional… by Lisa Ballantyne · Audiobook preview"
+    },
+    {
+      "id": "R02ht3pt_40",
+      "channel": "The Paley Center for Media",
+      "duration": 276.0,
+      "title": "Once Upon A Time  - Creating Rumplestiltskin"
+    },
+    {
+      "id": "XLvwrKA3lsk",
+      "channel": "Aoife Avril Isolde",
+      "duration": 312.0,
+      "title": "The President's Glasses"
+    },
+    {
+      "id": "YO4-_2OnMQk",
+      "channel": "E4",
+      "duration": 390.0,
+      "title": "Munya Chawawa Reads HILARIOUS Fairytales To Cute Kids | Once Upon a What?!"
+    },
+    {
+      "id": "KZecyXaw6jM",
+      "channel": "Free Audiobook",
+      "duration": 305.0,
+      "title": "Once More, My Darling Rogue Audiobook by Lorraine Heath"
+    }
+  ]
+}

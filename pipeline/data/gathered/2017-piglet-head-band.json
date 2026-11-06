@@ -1,0 +1,53 @@
+{
+  "id": "2017-piglet-head-band",
+  "year": 2017,
+  "name": "Piglet Head Band",
+  "price_eur": 6.5,
+  "price_text": "€6.50",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Hr6Vo-lvR7A",
+      "channel": "Simple Everyday Mom",
+      "duration": 54.0,
+      "title": "Pig Headband Craft For Kids"
+    },
+    {
+      "id": "lBE3b_n_dDM",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 7245.0,
+      "title": "Peppa Pig Tales 🏥 Peppa's X-Ray 🩻 BRAND NEW Peppa Pig Episodes"
+    },
+    {
+      "id": "iVVRxrs83C4",
+      "channel": "ASIA SLAMMING",
+      "duration": 1437.0,
+      "title": "PIGHEAD - RELAPSE INTO ABSURDITY [FULL EP STREAM] (2025) AS EXCLUSIVE"
+    },
+    {
+      "id": "oEzPcQi4_4k",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "duration": 109.0,
+      "title": "The Laurie Berkner Band - Pig On Her Head 🐷 Funny Animal Song for Kids | The Laurie Berkner Band"
+    },
+    {
+      "id": "DNzsdvrUJRg",
+      "channel": "JohannekeSRGericke",
+      "duration": 167.0,
+      "title": "Amazing Top 5 Animal Ears Headband Sets For Costumes You Need To See - Women Girls Plush Animal East"
+    }
+  ]
+}

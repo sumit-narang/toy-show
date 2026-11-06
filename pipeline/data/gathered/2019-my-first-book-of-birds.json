@@ -1,0 +1,54 @@
+{
+  "id": "2019-my-first-book-of-birds",
+  "year": 2019,
+  "name": "My First Book of Birds",
+  "price_eur": 18.5,
+  "price_text": "€18.50",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/my-first-book-of-birds-zoe-ingram-9781406386790"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/my-first-book-of-birds-zoe-ingram-9781406386790"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RR2UI58NOHU",
+      "channel": "Glasgow’s Improvement Challenge",
+      "duration": 614.0,
+      "title": "My First Book of Birds   Read Aloud"
+    },
+    {
+      "id": "64lrshlw9ls",
+      "channel": "Playtime Palace",
+      "duration": 94.0,
+      "title": "My first book of birds | For learning | For kids | For Joy"
+    },
+    {
+      "id": "Jss5jZN6t6o",
+      "channel": "StoryTime With Uncle Maj",
+      "duration": 66.0,
+      "title": "My First Book Of Birds| Voices StoryTime With Uncle Maj| Children’s Book"
+    },
+    {
+      "id": "gIMv5-lVTgQ",
+      "channel": "Galaxy of English and Games",
+      "duration": 97.0,
+      "title": "My First Book of Birds"
+    },
+    {
+      "id": "6iDLnwBhLZE",
+      "channel": "Scottish Book Trust",
+      "duration": 312.0,
+      "title": "First Book of Birds by Zoe Ingram | The Bookbug Picture Book Prize 2021"
+    }
+  ]
+}

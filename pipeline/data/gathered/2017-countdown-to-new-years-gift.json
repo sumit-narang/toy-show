@@ -1,0 +1,53 @@
+{
+  "id": "2017-countdown-to-new-years-gift",
+  "year": 2017,
+  "name": "Countdown to New Years gift",
+  "price_eur": 75.0,
+  "price_text": "€75.00",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "F8JvRrQLt34",
+      "channel": "Come Play With Me",
+      "duration": 1448.0,
+      "title": "2023 Happy New Year! Elsa & Anna toddlers - Barbie - gifts - games - countdown"
+    },
+    {
+      "id": "JwiO-UGFosM",
+      "channel": "KAYCEE & RACHEL in WONDERLAND FAMILY",
+      "duration": 881.0,
+      "title": "NEW YEAR'S EVE 2026"
+    },
+    {
+      "id": "2L9GIFq07Dw",
+      "channel": "Epic Crazy Timers",
+      "duration": 617.0,
+      "title": "10 Minute Timer 🎁💥🎄 | Happy New Year 2026 Countdown Surprise Gift!"
+    },
+    {
+      "id": "H_bB0sAqLNg",
+      "channel": "Rainbow Timers",
+      "duration": 51.0,
+      "title": "10 Second CountDown Timer With Voice To Start A Show"
+    },
+    {
+      "id": "wssbhyxPJ_g",
+      "channel": "drew7855",
+      "duration": 469.0,
+      "title": "New Years Eve countdown with confetti craft."
+    }
+  ]
+}

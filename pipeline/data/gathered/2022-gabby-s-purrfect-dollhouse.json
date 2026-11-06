@@ -1,0 +1,57 @@
+{
+  "id": "2022-gabby-s-purrfect-dollhouse",
+  "year": 2022,
+  "name": "Gabby's Purrfect Dollhouse",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/new-toys/gabby-s-dollhouse/gabby%e2%80%99s-purrfect-61cm-dollhouse-with-toy-figures-furniture-pieces-and-accessories/p/207874"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/new-toys/gabby-s-dollhouse/gabby%E2%80%99s-purrfect-61cm-dollhouse-with-toy-figures-furniture-pieces-and-accessories/p/207874",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oWRuUBrjfw4",
+      "channel": "Toymaster Ltd",
+      "duration": 21.0,
+      "title": "Gabby’s Purrfect Dollhouse"
+    },
+    {
+      "id": "enxNJBQEkAc",
+      "channel": "McKell Njord",
+      "duration": 71.0,
+      "title": "Honest Review - Gabby's Purrfect/Celebration Dollhouses"
+    },
+    {
+      "id": "kLHLKAveN8E",
+      "channel": "All Brands Toys",
+      "duration": 31.0,
+      "title": "Gabby's Dollhouse Gabby's Purrfect Dollhouse"
+    },
+    {
+      "id": "HxkAWxAn76M",
+      "channel": "Gabby's Dollhouse",
+      "duration": 1387.0,
+      "title": "Gabby Takes Care of the Baby Kitties!  🐱🍼 [Full Episode] | GABBY'S DOLLHOUSE | Netflix"
+    },
+    {
+      "id": "wRAsiffnXWI",
+      "channel": "Family Guy Sweden",
+      "duration": 449.0,
+      "title": "Unboxing Gabby's Dollhouse Toy House | How To Set GABBY'S DOLLHOUSE PURRFECT DOLLHOUSE | Leksak"
+    }
+  ]
+}

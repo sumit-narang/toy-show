@@ -1,0 +1,57 @@
+{
+  "id": "2022-alexander-toys-3d-origami-turtles-origami-3d-turtles",
+  "year": 2022,
+  "name": "Alexander Toys 3D Origami - Turtles ORIGAMI 3D – Turtles",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Alexander Toys",
+      "url": "http://alexandertoys.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://alexandertoys.com/",
+      "title": "Homepage - Alexander - one of the largest toys producers in Poland",
+      "description": "[...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://alexandertoys.com/\">Read More...</a></p>",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uP7RCddeEeU",
+      "channel": "3dorigamivideos",
+      "duration": 604.0,
+      "title": "How to make a 3D origami Turtle"
+    },
+    {
+      "id": "t-p_6RK6YAw",
+      "channel": "Alexander Toys",
+      "duration": 1745.0,
+      "title": "ORIGAMI 3D - ŻÓŁW (TURTLE)"
+    },
+    {
+      "id": "3I2BU3PZz3Y",
+      "channel": "Ying 3D Origami",
+      "duration": 1745.0,
+      "title": "3D Origami - Turtles - Tutorial"
+    },
+    {
+      "id": "LUyTk8HM9Nc",
+      "channel": "Tran Nga 3D Origami",
+      "duration": 962.0,
+      "title": "How To Make 3D Origami Turtle, paper turtle decor  | Cómo hacer 3d tortuga origami"
+    },
+    {
+      "id": "I0TQzpVuEMU",
+      "channel": "Ying 3D Origami",
+      "duration": 764.0,
+      "title": "Origami 3d Turtle Tutorial 1/32 Origami 3d Tartaruga Tutorial"
+    }
+  ]
+}

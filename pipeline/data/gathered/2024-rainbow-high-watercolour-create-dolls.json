@@ -1,0 +1,57 @@
+{
+  "id": "2024-rainbow-high-watercolour-create-dolls",
+  "year": 2024,
+  "name": "Rainbow High Watercolour & Create Dolls",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-watercolour-and-create-fashion-diy-doll-brown-eyes/p/237166"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-watercolour-and-create-fashion-diy-doll-brown-eyes/p/237166",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O46r_msvFuM",
+      "channel": "MGA Entertainment",
+      "duration": 68.0,
+      "title": "How To: Watercolor & Create | Rainbow High"
+    },
+    {
+      "id": "fReP8uFtAII",
+      "channel": "Tallie's Tricks",
+      "duration": 826.0,
+      "title": "Rainbow High Watercolor and Create"
+    },
+    {
+      "id": "IM9UeqcrnvI",
+      "channel": "Jozlene",
+      "duration": 340.0,
+      "title": "Watercolor Wipeout 💦🌈 | Rainbow High Watercolor & Create Dolls Unboxing & Review"
+    },
+    {
+      "id": "OoOz96hA2rc",
+      "channel": "Helen Rikic",
+      "duration": 64.0,
+      "title": "Watch before you buy Rainbow High Watercolor & Create Fashion DIY Doll"
+    },
+    {
+      "id": "bKG2AkC0sI0",
+      "channel": "QuinsDolls",
+      "duration": 1654.0,
+      "title": "RAINBOW HIGH WATERCOLOR & CREATE DOLL REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2021-wild-republic-tiger-shark-plushie",
+  "year": 2021,
+  "name": "Wild Republic Tiger Shark Plushie",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "NMI Shop",
+      "url": "https://shop.museum.ie/collections/children"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://shop.museum.ie/collections/children"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XgjNEYshMgY",
+      "channel": "Weaver Reviews",
+      "duration": 69.0,
+      "title": "Wild Republic Tiger Shark Stuffed Animal Review | Unique Animal Plush"
+    },
+    {
+      "id": "hTLDbv6_lHQ",
+      "channel": "Tropical Critters",
+      "duration": 281.0,
+      "title": "Wild Republic Tiger Shark Plush Review"
+    },
+    {
+      "id": "VwsqBmBA3ME",
+      "channel": "WaterShepDown",
+      "duration": 67.0,
+      "title": "Plushie Collection [194]: 20\" Wild Republic Cuddlekins Tiger Shark"
+    },
+    {
+      "id": "Ok465VNT7Aw",
+      "channel": "WaterShepDown",
+      "duration": 71.0,
+      "title": "Plushie Collection [150]: 13\" Wild Republic Cuddlekins Tiger Shark"
+    },
+    {
+      "id": "Vcgj9ejXHio",
+      "channel": "Deal Genius",
+      "duration": 30.0,
+      "title": "3pk Wild Republic Sharks 15” Plush – Tiger, Blacktip, Hammerhead"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-gift-cube-piunk-grapefruit",
+  "year": 2017,
+  "name": "Gift Cube, Piunk Grapefruit",
+  "price_eur": 9.95,
+  "price_text": "€9.95",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PWCNNHy31hU",
+      "channel": "Pratha Naturals and Handmade",
+      "duration": 21.0,
+      "title": "Diwali skincare Gift Box"
+    },
+    {
+      "id": "hMu5JXSEoLM",
+      "channel": "TheGiftStudio",
+      "duration": 38.0,
+      "title": "Koziol Fresh Vitamins Gift Set - Pink grapefruit spoon"
+    },
+    {
+      "id": "HbDfU51C5SI",
+      "channel": "Drinks with Niche",
+      "duration": 61.0,
+      "title": "Pink Grapefruit Gimlet | Cocktails Simplified"
+    },
+    {
+      "id": "qcP05aayHFE",
+      "channel": "Cheeky Gin Co",
+      "duration": 108.0,
+      "title": "Cheeky Gin Pink Box - Whitley Neill Pink Grapefruit Perfect Serve"
+    },
+    {
+      "id": "rkkhlwNhs-E",
+      "channel": "Naturally Made For You",
+      "duration": 57.0,
+      "title": "Personalised Large Pamper Gift Basket"
+    }
+  ]
+}

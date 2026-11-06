@@ -1,0 +1,64 @@
+{
+  "id": "2017-teddy-ruxpin",
+  "year": 2017,
+  "name": "Teddy Ruxpin",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LDdGhxb799I",
+      "channel": "Teddy Ruxpin Channel",
+      "duration": 14.0,
+      "title": "Nissan Christmas Commercial: Teddy Ruxpin Clip Full HD"
+    },
+    {
+      "id": "wjWMvBCHPHw",
+      "channel": "Rad Nostalgia",
+      "duration": 487.0,
+      "title": "The Rise and Fall of Teddy Ruxpin | The Toy That Felt Alive"
+    },
+    {
+      "id": "9T0kqqTpYTQ",
+      "channel": "Jim Henson's Family Hub",
+      "duration": 1274.0,
+      "title": "The Adventures of Teddy Ruxpin | Season 1 | Episode 23 | The Day Teddy Met Grubby | Phil Baron"
+    },
+    {
+      "id": "cNQvZ6h699w",
+      "channel": "Cream City Pickers — Formerly Bergen Pickers",
+      "duration": 58.0,
+      "title": "Original 1985 Teddy Ruxpin and Grubby Talking to Each Other"
+    },
+    {
+      "id": "6699r6s0Tow",
+      "channel": "Bill Anderson",
+      "duration": 48.0,
+      "title": "Vtg 1985 TEDDY RUXPIN Cassette Player Worlds of Wonder Animated Stuffed Bear"
+    }
+  ]
+}

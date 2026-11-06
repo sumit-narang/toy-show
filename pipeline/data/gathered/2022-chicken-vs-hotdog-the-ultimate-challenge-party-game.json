@@ -1,0 +1,57 @@
+{
+  "id": "2022-chicken-vs-hotdog-the-ultimate-challenge-party-game",
+  "year": 2022,
+  "name": "Chicken vs. Hotdog: The Ultimate Challenge Party Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Cogs The Brain Shop",
+      "url": "https://cogsthebrainshop.ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/",
+      "title": "Cogs Toys & Games Ireland",
+      "description": "Cogs Toys & Games Ireland (formerly Cogs the Brain Shop) stocks a genius collection of fun quality products designed to build better brains and learn through play whatever your age.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BZQSfMp0Auk",
+      "channel": "Big Potato Games",
+      "duration": 120.0,
+      "title": "How to Play Chicken vs Hotdog: A flip it and stick it party game"
+    },
+    {
+      "id": "YL7qjlDz4JQ",
+      "channel": "Highly Recommended Products",
+      "duration": 121.0,
+      "title": "Chicken vs Hotdog: The Ultimate Challenge Party Game for Flipping-Fun Families, for Game Nights"
+    },
+    {
+      "id": "R7PiZUP9MNU",
+      "channel": "Smosh Games",
+      "duration": 2033.0,
+      "title": "Chicken vs. Hotdog | Smosh Games Tournament"
+    },
+    {
+      "id": "s5NsNqS-h8A",
+      "channel": "Big Potato Games",
+      "duration": 105.0,
+      "title": "Let's Play: Chicken vs Hotdog"
+    },
+    {
+      "id": "hwFp61xpWPY",
+      "channel": "lollipop",
+      "duration": 101.0,
+      "title": "Big Potato Chicken vs Hotdog  The Ultimate Challenge Party Game for Flipping Fun Families"
+    }
+  ]
+}

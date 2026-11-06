@@ -1,0 +1,57 @@
+{
+  "id": "2018-samba-gaelic-goalpost",
+  "year": 2018,
+  "name": "Samba Gaelic Goalpost",
+  "price_eur": 93.99,
+  "price_text": "€93.99",
+  "retailers": [
+    {
+      "name": "The GAA Store",
+      "url": "http://www.thegaastore.com"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.mckeeversports.com/",
+      "title": "McKvr | Built for performance",
+      "description": "Offering an unrivaled range of sports clothing, footwear, accessories and equipment",
+      "image": "http://www.mckeeversports.com/cdn/shop/files/McKeever_Sports_Hero_Black_Green_1200x1200.png?v=1634127520"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8kR6TymB44w",
+      "channel": "Samba Sports",
+      "duration": 243.0,
+      "title": "Samba Fold-A-Goal Assembly - Instructional Video"
+    },
+    {
+      "id": "ep1C_J2AEZQ",
+      "channel": "Samba Sports",
+      "duration": 114.0,
+      "title": "Samba Match Goal Assembly - Instructional Video"
+    },
+    {
+      "id": "kTrhAi9GHcE",
+      "channel": "Net World Sports",
+      "duration": 859.0,
+      "title": "How to assemble your Forza PVC goal"
+    },
+    {
+      "id": "ZQt6-_tQ9Jw",
+      "channel": "Net World Sports",
+      "duration": 98.0,
+      "title": "How To Assemble The FORZA PVC 10x6 Combination Goal"
+    },
+    {
+      "id": "XhieVRVTkKI",
+      "channel": "Berkhamsted Raiders Community Football Club",
+      "duration": 407.0,
+      "title": "How to build a Samba goal"
+    }
+  ]
+}

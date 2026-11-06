@@ -1,0 +1,54 @@
+{
+  "id": "2021-the-upside-down-challenge-game",
+  "year": 2021,
+  "name": "The Upside Down Challenge Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Totally Toys Castlebar",
+      "url": "https://totallytoys.ie/products/the-upside-down-challange-board-game"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://totallytoys.ie/products/the-upside-down-challange-board-game"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "S7iKKJWSGs8",
+      "channel": "Play, Live, Repeat | Collectibles & Travel Reviews",
+      "duration": 378.0,
+      "title": "How to Play The #UpsideDownChallenge Game Upside Down Glasses Challenge"
+    },
+    {
+      "id": "uAD8v3JO4tw",
+      "channel": "The Happy Puzzle Company",
+      "duration": 33.0,
+      "title": "The Upside Down Challenge"
+    },
+    {
+      "id": "V_ERUmYdf1U",
+      "channel": "JustUsGirls",
+      "duration": 875.0,
+      "title": "The Upside Down Challenge Game"
+    },
+    {
+      "id": "OmmOr-7Ml6M",
+      "channel": "Ravensburger UK",
+      "duration": 21.0,
+      "title": "Turn your world upside down with the #UpsideDownChallenge | Ravensburger | Upside Down Challenge"
+    },
+    {
+      "id": "qgsvJcFQ7W0",
+      "channel": "Just the Bells 10",
+      "duration": 663.0,
+      "title": "Family Game Night- Upside Down Challenge #bigfamily #celebration #vlog #justthebells10"
+    }
+  ]
+}

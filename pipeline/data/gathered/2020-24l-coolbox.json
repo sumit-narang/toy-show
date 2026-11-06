@@ -1,0 +1,57 @@
+{
+  "id": "2020-24l-coolbox",
+  "year": 2020,
+  "name": "24L Coolbox",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Basecamp",
+      "url": "https://basecamp.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://basecamp.ie/",
+      "title": "Best price outdoor gear and equipments",
+      "description": "Shop best quality outdoor hiking gears, camping equipments and Backpacks from the top international brands like Columbia, Rab, Marmot, Lowa, Fjallraven, Keen, Scarpa and more. We are 100% Irish owned and located in the Dublin City Center.",
+      "image": "http://basecamp.ie/cdn/shop/files/Basecamp_logo_black_png.png?v=1734360033"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0OxZo03xQBc",
+      "channel": "GO Outdoors TV",
+      "duration": 57.0,
+      "title": "Campinngaz Powerbox 24L Electric Coolbox"
+    },
+    {
+      "id": "TW8wDGXExa0",
+      "channel": "Outdoor Action Ltd - Blackburn",
+      "duration": 101.0,
+      "title": "The Outwell Cool Box 24 lt at Outdoor Action Blackburn"
+    },
+    {
+      "id": "18Zlc2D7f7k",
+      "channel": "The Rainmaker",
+      "duration": 211.0,
+      "title": "HALFORDS 24L ELECTRIC COOLBOX"
+    },
+    {
+      "id": "2XCPrP4yEeI",
+      "channel": "worldofcamping",
+      "duration": 142.0,
+      "title": "Outwell ECOcool 24 ltr Slate Grey Coolbox 12v & 230v"
+    },
+    {
+      "id": "k8cwJPOS04A",
+      "channel": "Camping World UK",
+      "duration": 119.0,
+      "title": "Outwell Coolbox ECOcool, 24 ltr 12V - CampingWorld.co.uk"
+    }
+  ]
+}

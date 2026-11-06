@@ -1,0 +1,57 @@
+{
+  "id": "2022-smart-ball-skills-training-football",
+  "year": 2022,
+  "name": "Smart Ball Skills Training Football",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/world-cup-2022/football/smart-ball-skills-training-football-exclusive/p/207931"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/world-cup-2022/football/smart-ball-skills-training-football-exclusive/p/207931",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ldo9JM-1N48",
+      "channel": "Smyths Toys Superstores",
+      "duration": 26.0,
+      "title": "Smart Ball - Skills Training Football - Smyths Toys"
+    },
+    {
+      "id": "KwAaMSX81-U",
+      "channel": "Golden Bear Toys",
+      "duration": 31.0,
+      "title": "I've Always Wanted To Be A Footballer.... And Now I Am - Smart Ball Skills Ball TV Advert 2022"
+    },
+    {
+      "id": "BKwxCpbMbf0",
+      "channel": "Golden Bear Toys",
+      "duration": 20.0,
+      "title": "Smart Ball - Kick Up Counting Football with Lights and Sounds"
+    },
+    {
+      "id": "IPdCtDTmuIA",
+      "channel": "Golden Bear Toys",
+      "duration": 21.0,
+      "title": "Smart Ball Skills Ball 2022 TV Advert"
+    },
+    {
+      "id": "-JWG43D66qI",
+      "channel": "Foothacker",
+      "duration": 209.0,
+      "title": "3 EASY FOOTBALL SKILLS for KIDS | Football soccer tutorial"
+    }
+  ]
+}

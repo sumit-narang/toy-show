@@ -1,0 +1,57 @@
+{
+  "id": "2021-jurassic-world-spin-hatch-dino-eggs",
+  "year": 2021,
+  "name": "Jurassic World Spin & Hatch Dino Eggs",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Beatty's Loughrea",
+      "url": "https://www.beattys.ie/collections/action-figures-playsets/products/jurassic-world-spin-hatch-dino-eggs"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.beattys.ie/",
+      "title": "Beattys of Loughrea | Hardware, Electrical, Gardening, Toys & Home",
+      "description": "Visit Beattys of Loughrea, Galway's premier department store & builders' merchant. Shop 9 specialist departments online with fast nationwide delivery.",
+      "image": "http://www.beattys.ie/cdn/shop/files/beattys_shop_front_ppt_60583d6f-756d-4673-8260-78cfd73fbb1e.jpg?crop=center&height=1200&v=1632215453&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-sXnTcX5N8g",
+      "channel": "TOMY Toys",
+      "duration": 68.0,
+      "title": "Jurassic World x Toomies Spin & Hatch Dino Eggs Demo Video"
+    },
+    {
+      "id": "Pqp7Z_8DvVw",
+      "channel": "Spin Master Deutschland",
+      "duration": 321.0,
+      "title": "Primal Hatch: Jurassic World - Interaktiver T-Rex | So funktioniert's | \"How-to\" Anleitungsvideo"
+    },
+    {
+      "id": "CPh0pJW8LRE",
+      "channel": "TOMY Toys UK",
+      "duration": 45.0,
+      "title": "Now Welcoming Little Explorers: Jurassic World Toys by TOMY Toomies"
+    },
+    {
+      "id": "oehBAaIaTEY",
+      "channel": "CHROME JADE MEDIA",
+      "duration": 78.0,
+      "title": "Jurassic World Spin and Hatch Dino Eggs"
+    },
+    {
+      "id": "MSX3cj_AvsQ",
+      "channel": "outsider238",
+      "duration": 1096.0,
+      "title": "Primal Hatch T-Rex Hatching Dinosaur From Spin Master"
+    }
+  ]
+}

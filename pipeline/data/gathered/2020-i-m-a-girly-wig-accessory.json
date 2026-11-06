@@ -1,0 +1,60 @@
+{
+  "id": "2020-i-m-a-girly-wig-accessory",
+  "year": 2020,
+  "name": "I'M A GIRLY Wig Accessory",
+  "price_eur": 34.43,
+  "price_text": "€34.43",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/im-a-girly/im-a-girly/doll-wig-accessory/147928268.html?cgid=im-a-girly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/im-a-girly/im-a-girly/doll-wig-accessory/147928268.html?cgid=im-a-girly",
+      "title": "IM A GIRLY Doll Wig Accessory - BLONDE",
+      "description": "Change up your Im A Girly fashion dolls hairstyle in a flash with shiny, trendy hair pieces. Give her a new look every day!",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000105979_01.jpg?$product_tile_plp$",
+      "ld_description": "Change up your I'm A Girly fashion doll's hairstyle in a flash with shiny, trendy hair pieces. Give her a new look every day!",
+      "brand": "I'M A GIRLY",
+      "ld_image": "https://images.brownthomas.com/bta/2000105979_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZkB0GAwqC0s",
+      "channel": "Lyssy Noel",
+      "duration": 892.0,
+      "title": "I Tested MORE Cheap $30 Wigs!!! (SO SHOCKING!!) Unzzy Wig Reviews"
+    },
+    {
+      "id": "rdxZk82JN-I",
+      "channel": "Hannah Forcier",
+      "duration": 554.0,
+      "title": "HONESTLY Reviewing Wig Accessories (Dreamlover)"
+    },
+    {
+      "id": "f_d2eOCw2wA",
+      "channel": "All Dolled Up",
+      "duration": 861.0,
+      "title": "I Love Wigs! | All Dolled Up"
+    },
+    {
+      "id": "b5Jvs2B-UeA",
+      "channel": "HopeScope",
+      "duration": 1998.0,
+      "title": "I Bought EVERY American Girl Doll EVER (1986 - 2024)"
+    },
+    {
+      "id": "3TpEWahR7-E",
+      "channel": "Kheumani Stevenson",
+      "duration": 365.0,
+      "title": "I Tried A HEADBAND WIG and I'm SHOOK! 5 MIN WIG INSTALL! |  Dorhair Store"
+    }
+  ]
+}

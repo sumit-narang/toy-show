@@ -1,0 +1,57 @@
+{
+  "id": "2019-monopoly-cash-grab-game",
+  "year": 2019,
+  "name": "Monopoly Cash Grab Game",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Ken Black/Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cBBsidzEoEM",
+      "channel": "Triple S Games",
+      "duration": 117.0,
+      "title": "How to play Monopoly Cash Grab"
+    },
+    {
+      "id": "AjIx_pv1uuE",
+      "channel": "Rules & Reviews",
+      "duration": 455.0,
+      "title": "How to Play Monopoly Cash Grab | Beginner Guide & Rules Explained"
+    },
+    {
+      "id": "bEQKU4NaiYI",
+      "channel": "Board Game Museum",
+      "duration": 152.0,
+      "title": "How To Play Monopoly Cash Grab Game"
+    },
+    {
+      "id": "zfHN8evwEmc",
+      "channel": "The Dice Tower",
+      "duration": 333.0,
+      "title": "Monopoly Cash Grab Review - with Tom Vasel"
+    },
+    {
+      "id": "NhPe_S5-B_o",
+      "channel": "Hasbro Australia",
+      "duration": 16.0,
+      "title": "MONOPOLY CASH GRAB NO ID E3037"
+    }
+  ]
+}

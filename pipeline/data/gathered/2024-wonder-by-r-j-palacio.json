@@ -1,0 +1,60 @@
+{
+  "id": "2024-wonder-by-r-j-palacio",
+  "year": 2024,
+  "name": "Wonder by R.J. Palacio",
+  "price_eur": 9.27,
+  "price_text": "€9.27",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/wonder-r-j-palacio-9780552565974"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/wonder-r-j-palacio-9780552565974",
+      "title": "Wonder By R. J. Palacio | Bestselling Book",
+      "description": "Discover Wonder by R. J. Palacio. Available online today at Eason Books. Free Delivery Over €10",
+      "image": null,
+      "ld_description": "'Has the power to move hearts and change minds' Guardian'Tremendously uplifting and a novel of all-too-rare power' Sunday Express'An amazing book . . . I absolutely loved it. I cried my eyes out' Tom FletcherRead the award-winning, multi-million copy bestselling phenomenon that is WONDER in this new tenth anniversary edition.'My name is August. I won't describe what I look like. Whatever you're thinking, it's probably worse.'Auggie wants to be an ordinary ten-year-old. He does ordinary things - eating ice cream, playing on his Xbox. He feels ordinary - inside. But ordinary kids don't make other ordinary kids run away screaming in playgrounds. Ordinary kids aren't stared at wherever they go.Born with a terrible facial abnormality, Auggie has been home-schooled by his parents his whole life. Now, for the first time, he's being sent to a real school - and he's dreading it. All he wants is to be accepted - but can he convince his new classmates that he's just like them, underneath it all?A funny, frank, astonishingly moving debut - and a true global phenomenon - to read in one sitting, pass on to others, and remember long after the final page.Discover more from the World of Wonder:White Bird, a graphic novel *Soon to be a motion picture!* Auggie & Me 365 Days of WonderWe're All WondersAnd read more from R. J. Palacio with Pony, an unforgettable new story!",
+      "brand": "Corgi Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/4088c03d-1db6-4169-b239-0aa2ef788a17/9780552565974_5643558778.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "smMcnpzj9YE",
+      "channel": "Read Along Audiobooks ",
+      "duration": 26921.0,
+      "title": "Wonder 👨‍🚀 by R. J. Palacio | Complete Audio Book Read Aloud by Mr. Nick"
+    },
+    {
+      "id": "AeBIq1dtghU",
+      "channel": "Books Mandala",
+      "duration": 917.0,
+      "title": "Wonder by R. J. Palacio ( Animated Book Summary )"
+    },
+    {
+      "id": "AN0A62FA5LA",
+      "channel": "ClickView",
+      "duration": 177.0,
+      "title": "‘Wonder’ by R.J. Palacio – Exploring Themes & Messages | English Language Arts | ClickView"
+    },
+    {
+      "id": "AmiJOiuC6uE",
+      "channel": "TODAY",
+      "duration": 278.0,
+      "title": "‘Wonder’ Author R. J. Palacio: ‘It’s Ultimately A Story About Kindness’ | TODAY"
+    },
+    {
+      "id": "QOXDD3atWco",
+      "channel": "Random House Children's Publishers UK.",
+      "duration": 94.0,
+      "title": "Wonder book trailer - R.J. Palacio (UK version)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-beyblade-x-xtreme-battle-set",
+  "year": 2024,
+  "name": "Beyblade X Xtreme Battle Set",
+  "price_eur": 54.99,
+  "price_text": "€54.99",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/root/beyblades/beyblade-x-xtreme-battle-set/2000794662.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/action-figures-playsets/beyblades/beyblade-x-xtreme-battle-set/2000794662.html",
+      "title": "BEYBLADES Beyblade X Xtreme Battle Set - Multi",
+      "description": "Get ready to battle with the Beyblade X Xtreme Battle Set, filled with all you need to begin your quest for Beymastery. The Xtreme Beystadium and 2 Beyblade X right-spin tops feature the X-Celerator Gear System to level up your game. When the gear of the top engages the stadiums X-Celerator Rail, it can super-accelerate into an Xtreme Dash rocketing it around the arena for crushing collisions. Use the 2 launchers to unleash the Dagger Dran 4-60R Attack Type and Tusk Mammoth 3-60T Balance Type tops, score points with each clash and first to 4 points wins.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000794662_01.jpg?$product_tile_plp$",
+      "ld_description": "Get ready to battle with the Beyblade X Xtreme Battle Set, filled with all you need to begin your quest for Beymastery. The Xtreme Beystadium and 2 Beyblade X right-spin tops feature the X-Celerator Gear System to level up your game. When the gear of the top engages the stadiums X-Celerator Rail, it can super-accelerate into an Xtreme Dash rocketing it around the arena for crushing collisions. Use the 2 launchers to unleash the Dagger Dran 4-60R Attack Type and Tusk Mammoth 3-60T Balance Type tops, score points with each clash and first to 4 points wins.",
+      "brand": "BEYBLADES",
+      "ld_image": "https://images.brownthomas.com/bta/2000794662_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ovIXvNx_nz0",
+      "channel": "BeybladeGeeks",
+      "duration": 808.0,
+      "title": "HASBRO'S NEW X STADIUM! | Xtreme Battle Set Unboxing (Dagger Dran + Tusk Mammoth Beys) | Beyblade X"
+    },
+    {
+      "id": "QkLocsdHLDo",
+      "channel": "ilinnuc",
+      "duration": 743.0,
+      "title": "DEFECT!? Xtreme Battle Set Beyblade X Unboxing + Battles!! || Dagger Dran + Tusk Mammoth!"
+    },
+    {
+      "id": "gi0IFv6ckpo",
+      "channel": "zankye",
+      "duration": 1309.0,
+      "title": "NEW Xtreme Battle Set Unboxing & Test Battles | HASBRO Beyblade X (Dagger Dran Tusk Mammoth)"
+    },
+    {
+      "id": "kv8e72j_fx8",
+      "channel": "Super Beyblade Family",
+      "duration": 760.0,
+      "title": "YOOO We just got the NEW HASBRO Beyblade X XTREME BATTLE SET with Tusk Mammoth & Dagger Dran"
+    },
+    {
+      "id": "9xIbaiyQZ4w",
+      "channel": "ilinnuc",
+      "duration": 663.0,
+      "title": "I Got The BEST VALUE Beyblade Set..."
+    }
+  ]
+}

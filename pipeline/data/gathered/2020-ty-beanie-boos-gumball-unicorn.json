@@ -1,0 +1,60 @@
+{
+  "id": "2020-ty-beanie-boos-gumball-unicorn",
+  "year": 2020,
+  "name": "Ty Beanie Boos Gumball Unicorn",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/products/ty-beanie-boos-gumball-unicorn"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thebubbleroom.ie/products/ty-beanie-boos-gumball-unicorn",
+      "title": "Ty Beanie Boos Gumball Unicorn",
+      "description": "A 6\" TY Beanie Boo Soft Toy Gumball Age 3 +",
+      "image": "http://www.thebubbleroom.ie/cdn/shop/products/BeanieBooGumball_1200x1200.jpg?v=1586095664",
+      "ld_description": "A 6\" TY Beanie Boo Soft Toy Gumball\nAge 3 +",
+      "brand": "Ty",
+      "ld_image": "https://www.thebubbleroom.ie/cdn/shop/products/BeanieBooGumball_316x.jpg?v=1586095664"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uLuO0vbX2Us",
+      "channel": "Allialli_Opal",
+      "duration": 334.0,
+      "title": "Beanie boo unicorn collection"
+    },
+    {
+      "id": "DnHzlRmwdts",
+      "channel": "Ty",
+      "duration": 123.0,
+      "title": "Beanie Boo Unicorns and Wanna B's"
+    },
+    {
+      "id": "EQMiBWKewc4",
+      "channel": "Ha Sa",
+      "duration": 496.0,
+      "title": "EPIC BEANIE BOO SHOPPING SPREE!"
+    },
+    {
+      "id": "lWbWkAtO-a4",
+      "channel": "Ha Sa",
+      "duration": 866.0,
+      "title": "Beanie Boos: Magically Different {short film}"
+    },
+    {
+      "id": "ltR3Sr5_FeM",
+      "channel": "Ty Malaysia",
+      "duration": 108.0,
+      "title": "Beanie Boos Unicorns & Wanna B's"
+    }
+  ]
+}

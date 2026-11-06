@@ -1,0 +1,53 @@
+{
+  "id": "2020-barbie-vanity-table",
+  "year": 2020,
+  "name": "Barbie Vanity Table",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bKljtmqfdmM",
+      "channel": "Jon in the Dreamhouse",
+      "duration": 205.0,
+      "title": "Barbie Vanity Set - Furniture & Accessory Pack! | Jon in the Dreamhouse | UNBOX & REVIEW"
+    },
+    {
+      "id": "ZqP37N7nOVI",
+      "channel": "Playdoh FUN",
+      "duration": 84.0,
+      "title": "Barbie  Vanity Princess  Dressing Table Play Set*Barbie Schminktisch"
+    },
+    {
+      "id": "ma5stuJW-E8",
+      "channel": "BarbieSunworld",
+      "duration": 599.0,
+      "title": "Vintage Barbie Vanity table (tutorial)"
+    },
+    {
+      "id": "gNOSK7sV9kM",
+      "channel": "DisneyD Prince",
+      "duration": 602.0,
+      "title": "Barbie: 2023 Vanity Furniture and Accessory Pack Unboxing and Review"
+    },
+    {
+      "id": "JjEMRF0vdfM",
+      "channel": "FunFun Toy Doll TV",
+      "duration": 307.0,
+      "title": "Barbie Vanity Dressing Tableバービー化粧テーブルMesa de maquillaje de Barbie table de vanité ELSA penteadeira"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-fao-toy-ride-on-roadster",
+  "year": 2019,
+  "name": "FAO Toy Ride On Roadster",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/",
+      "title": "FAO Schwarz Toys | Arnotts",
+      "description": "Shop shop all FAO Schwarz toys online with quick and easy virtual shopping services and home delivery at Arnotts",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "efdT5IUimaA",
+      "channel": "Huffy Bicycles",
+      "duration": 334.0,
+      "title": "How to Assembly the Disney Mickey Racer Ride-On, Huffy"
+    },
+    {
+      "id": "alGMjNpDh2o",
+      "channel": "Ride Pro",
+      "duration": 1009.0,
+      "title": "Brushless 24V Lamborghini Aventador 2 Seater Ride on Car for Kids Review"
+    },
+    {
+      "id": "RF8HvnPilkk",
+      "channel": "Vlad and Niki",
+      "duration": 2121.0,
+      "title": "Chris and Mike Learn to share - Funny stories with toy ride on cars"
+    },
+    {
+      "id": "miGzaZw55ss",
+      "channel": "Huffy Bicycles",
+      "duration": 109.0,
+      "title": "17096 Disney Minnie Ride On"
+    },
+    {
+      "id": "UY594-8oYHY",
+      "channel": "Huffy Bicycles",
+      "duration": 132.0,
+      "title": "17096 Assembly Disney Minnie Mouse Ride On"
+    }
+  ]
+}

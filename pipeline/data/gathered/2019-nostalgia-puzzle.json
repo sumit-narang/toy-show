@@ -1,0 +1,57 @@
+{
+  "id": "2019-nostalgia-puzzle",
+  "year": 2019,
+  "name": "Nostalgia Puzzle",
+  "price_eur": 16.0,
+  "price_text": "€16",
+  "retailers": [
+    {
+      "name": "Marks and Spencer Ireland",
+      "url": "https://www.marksandspencer.com/ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.marksandspencer.com/ie/",
+      "title": "Welcome to Marks & Spencer IE",
+      "description": "Welcome to the M&S IE website. Shop clothing, home, furniture, beauty, food, wine, flowers & gifts. Buy now for free delivery, store collections and returns.",
+      "image": "https://images.ctfassets.net/prxuf37q3ta2/4q135QYXPP18bPt1tw4OWp/ffd6d8c9985079696b5507f3f87f6c20/DESKTOP_TRIO_851X1130-1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4efa_Vh2t7M",
+      "channel": "By TestedApps",
+      "duration": 316.0,
+      "title": "Nostalgia Puzzle Press Review: $17 Large Print Puzzle Builder"
+    },
+    {
+      "id": "6kJv7WqjM1A",
+      "channel": "Dj Puzzle",
+      "duration": 342.0,
+      "title": "Nostalgia NAXEEX Stickman Rope Hero Song - Fresh Cutz"
+    },
+    {
+      "id": "grXpDE5t7aY",
+      "channel": "Captain Finder",
+      "duration": 574.0,
+      "title": "🧠🧐 Find the Differences | Nostalgia Brain Test 《Only 1% Gets Them All》#4"
+    },
+    {
+      "id": "gTfklRD8NHo",
+      "channel": "Captain Finder",
+      "duration": 575.0,
+      "title": "🧠🧐 Find the Differences | Nostalgia Brain Test 《Only 1% Gets Them All》#10"
+    },
+    {
+      "id": "8OKiMEGJ8ls",
+      "channel": "Tested Apps",
+      "duration": 316.0,
+      "title": "Nostalgia Puzzle Press Review: 198 KDP Puzzle Books for $17"
+    }
+  ]
+}

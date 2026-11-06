@@ -1,0 +1,54 @@
+{
+  "id": "2022-barbie-dream-house",
+  "year": 2022,
+  "name": "Barbie dream house",
+  "price_eur": 323.1,
+  "price_text": "€323.10",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/barbie-dreamhouse/154455796.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/barbie-dreamhouse/154455796.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l2C6H5QjCQY",
+      "channel": "Wow My Toys",
+      "duration": 613.0,
+      "title": "10 Minutes Satisfying with Unboxing Barbie Doll Dream House & Dress Up Collection Toys Review｜ASMR"
+    },
+    {
+      "id": "sY3xOhvZVaU",
+      "channel": "Mattel",
+      "duration": 20.0,
+      "title": "Barbie® DreamHouse™ | AD"
+    },
+    {
+      "id": "czjfP7_03kQ",
+      "channel": "Barbie Life in the Dreamhouse",
+      "duration": 6339.0,
+      "title": "Barbie Life in the Dreamhouse 1 Hour Non Stop Long Version 2"
+    },
+    {
+      "id": "_O5fHnR9xyw",
+      "channel": "FunFun Toy Doll TV",
+      "duration": 602.0,
+      "title": "New Barbie DreamHouse with Pool Maison de poupée Rumah boneka Puppenhaus Casa de boneca باربي البيت"
+    },
+    {
+      "id": "ulVa68tIsfE",
+      "channel": "Barbie Life in the Dreamhouse",
+      "duration": 5529.0,
+      "title": "Barbie Life in the Dreamhouse Non Stop Collection HQ 2"
+    }
+  ]
+}

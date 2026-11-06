@@ -1,0 +1,54 @@
+{
+  "id": "2020-peppa-pig-peppa-s-telephone",
+  "year": 2020,
+  "name": "Peppa Pig Peppa's Telephone",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Totally Toys",
+      "url": "https://totallytoys.ie/products/peppapigpeppastelephone"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://totallytoys.ie/products/peppapigpeppastelephone"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yNbgIksOcwU",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 1806.0,
+      "title": "Peppa Pig Tales 😡 George Hangs up on Peppa 📞 | BRAND NEW Peppa Official"
+    },
+    {
+      "id": "QWzywT6ccy4",
+      "channel": "Peppa Pig's Big Adventures",
+      "duration": 1261.0,
+      "title": "Peppa Pig Gets HUNG UP on by GEORGE! Sibling Phone Call Adventure | Tales Full Episodes | 20 Mins"
+    },
+    {
+      "id": "sOAoFBC1ld0",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 7291.0,
+      "title": "Peppa Pig Tales 2026 📞 George's Video Call CONFUSION 📢 BRAND NEW Peppa Pig Minisodes"
+    },
+    {
+      "id": "spVEVM4fyX4",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 1824.0,
+      "title": "Peppa Pig Tales 2026 📦 Peppa Makes a SPECIAL Delivery! 🚚 | BRAND NEW Peppa Official"
+    },
+    {
+      "id": "R34k2FJKcg8",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 1835.0,
+      "title": "Peppa Pig Tales 2026 📍 George LOSES His Hearing Aid ❓ | BRAND NEW Peppa Official"
+    }
+  ]
+}

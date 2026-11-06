@@ -1,0 +1,54 @@
+{
+  "id": "2020-astronaut-helmet",
+  "year": 2020,
+  "name": "Astronaut Helmet",
+  "price_eur": 6.0,
+  "price_text": "€6.00",
+  "retailers": [
+    {
+      "name": "Fancy Dress Party Store.ie",
+      "url": "https://www.fancydressstore.ie/p/astronaut-helmet--/ac-9735"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pUaxIn1N8ZI",
+      "channel": "Adam Savage’s Tested",
+      "duration": 1327.0,
+      "title": "Adam Savage Reviews Project Hail Mary's Spacesuit!"
+    },
+    {
+      "id": "ewNyN4cNp_c",
+      "channel": "Natalie Gray",
+      "duration": 1085.0,
+      "title": "Can I Make A Space Helmet In One Week?"
+    },
+    {
+      "id": "nQPY77WHwZw",
+      "channel": "Adam Savage’s Tested and The Academy",
+      "duration": 488.0,
+      "title": "Adam Savage Meets the 2001: A Space Odyssey Spacesuit Helmet!"
+    },
+    {
+      "id": "YIT2Up1imWs",
+      "channel": "NASA Johnson",
+      "duration": 61.0,
+      "title": "NASA astronaut Peggy Whitson #SuitUp Video"
+    },
+    {
+      "id": "abIjRIlvqCQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 82.0,
+      "title": "Jr. Astronaut Helmet from Aeromax"
+    }
+  ]
+}

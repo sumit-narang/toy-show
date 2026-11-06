@@ -1,0 +1,57 @@
+{
+  "id": "2018-adult-culinary-herb-growing-kit",
+  "year": 2018,
+  "name": "Adult Culinary Herb Growing Kit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X9zckFyzjmU",
+      "channel": "Loako",
+      "duration": 34.0,
+      "title": "Premium Herb Garden Kit - Grow 4 of your favorite kitchen herbs"
+    },
+    {
+      "id": "lvQgdt9sprw",
+      "channel": "Loako",
+      "duration": 69.0,
+      "title": "Herb Garden Kit - Grow 5 of your favorites kitchen herbs"
+    },
+    {
+      "id": "fvhqy84RiD4",
+      "channel": "True Leaf Market",
+      "duration": 44.0,
+      "title": "Culinary Ten//Herb Seed Kit"
+    },
+    {
+      "id": "XUM-dRt5lYc",
+      "channel": "TheGardenShopIreland",
+      "duration": 137.0,
+      "title": "Cocktail Herb Growing Kit"
+    },
+    {
+      "id": "Vm7MO0rHvqA",
+      "channel": "Buyers International",
+      "duration": 98.0,
+      "title": "Indoor Herb Garden Starter Kit - 5 Herb Plant Grow Kit w/Pots & Soil!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-the-puppet-company-chameleon-puppet",
+  "year": 2024,
+  "name": "The Puppet Company Chameleon Puppet",
+  "price_eur": 39.95,
+  "price_text": "€39.95",
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/products/the-puppet-company-large-creature-chameleon"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/products/the-puppet-company-large-creature-chameleon",
+      "title": "The Puppet Company Chameleon Large Hand Puppet",
+      "description": "A 56cm long Chameleon Hand Puppet that is absolutely stunning with beautiful printed designs. Ideal for children with loads of imagination who like puppets. 2 years+",
+      "image": "http://mimitoys.ie/cdn/shop/files/Chameleon-Large-Creatures-PC009701-4.webp?v=1717086806",
+      "ld_description": "To all creepy crawlies fans! This colourful Rainbow Chameleon Puppet is full of personality, with vibrant printed fabrics and excellent mouth and tongue movement. Easy to manipulate and suitable for both children and adults, it’s ideal for imaginative play, storytelling and exploring the natural world. Size: 17cm (L) × 22cm (W) × 20cm (H). 1 year and older.",
+      "brand": "The Puppet Company",
+      "ld_image": "https://mimitoys.ie/cdn/shop/files/Chameleon-Large-Creatures-PC009701-4.webp?v=1717086806&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BkiPaFKCDFI",
+      "channel": "Beaverton City Library",
+      "duration": 167.0,
+      "title": "Puppet Unboxing"
+    },
+    {
+      "id": "zLuoFCdfXOc",
+      "channel": "Only Dinosaurs Production",
+      "duration": 33.0,
+      "title": "Vivid Chameleon Hand Puppet As Pets | Animal Puppet"
+    },
+    {
+      "id": "HV1wmQlEqUw",
+      "channel": "Spring & Autumn Fair",
+      "duration": 162.0,
+      "title": "The Magic of Puppets: Autumn Fair Meets The Puppet Company"
+    },
+    {
+      "id": "JPWCTXn86Yo",
+      "channel": "TREE LIFE 584TREE",
+      "duration": 185.0,
+      "title": "Folkmanis Baby Orangutan Hand Puppet Unboxing: Looks So Real | TREE LIFE"
+    },
+    {
+      "id": "4WosXCh6BnQ",
+      "channel": "Puppets by Post",
+      "duration": 103.0,
+      "title": "Chameleon Puppet Fun with Max! - Max Fulham Ventriloquist - Children's Toy"
+    }
+  ]
+}

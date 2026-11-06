@@ -1,0 +1,57 @@
+{
+  "id": "2023-beast-lab-shark-beast-creator",
+  "year": 2023,
+  "name": "Beast Lab Shark Beast Creator",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/beast-lab-shark-beast-creator-set/p/225169"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/beast-lab-shark-beast-creator-set/p/225169",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_GuU6SyEyN8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 245.0,
+      "title": "Beast Lab Shark Beast Creator"
+    },
+    {
+      "id": "8iBn8gtST9A",
+      "channel": "AdventureFun!",
+      "duration": 4781.0,
+      "title": "4 Beast Lab Beast Creators: Dinos, Sharks, Reptiles and Cats! All 8 Beasts Adventure Fun Toy review!"
+    },
+    {
+      "id": "vbzFlS0uG-4",
+      "channel": "The Akēdo Fan",
+      "duration": 154.0,
+      "title": "Beast Lab | Unleash your Beast- Save the World | 2 Minute Full Trailer"
+    },
+    {
+      "id": "9Q1zl6AkW2M",
+      "channel": "Moose Toys France",
+      "duration": 31.0,
+      "title": "Bande-annonce Beast Lab | Requin | 30s"
+    },
+    {
+      "id": "ipfvwguDdjw",
+      "channel": "Fantasyworld Kuwait",
+      "duration": 211.0,
+      "title": "Beast Lab Shark Beast Creator"
+    }
+  ]
+}

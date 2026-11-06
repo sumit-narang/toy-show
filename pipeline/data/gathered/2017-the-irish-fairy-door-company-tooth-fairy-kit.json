@@ -1,0 +1,42 @@
+{
+  "id": "2017-the-irish-fairy-door-company-tooth-fairy-kit",
+  "year": 2017,
+  "name": "The Irish Fairy Door Company \"Tooth Fairy Kit\"",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "theirishfairydoorcompany.com",
+      "url": "http://theirishfairydoorcompany.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://theirishfairydoorcompany.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "APO4mq5bRA8",
+      "channel": "The Irish Fairy Door Company",
+      "duration": 138.0,
+      "title": "The Tooth Fairy Song!"
+    },
+    {
+      "id": "CGU9E3Sxu-c",
+      "channel": "create with manda ",
+      "duration": 342.0,
+      "title": "🧚‍♂️ HOW TO make TOOTH FAIRY printables in Canva | digital products for Etsy"
+    },
+    {
+      "id": "GFmp78hzNqM",
+      "channel": "Magical Beginnings",
+      "duration": 92.0,
+      "title": "The TOOTH FAIRY KIT Commercial #1 New Children’s Product"
+    }
+  ]
+}

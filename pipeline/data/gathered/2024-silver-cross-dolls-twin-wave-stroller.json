@@ -1,0 +1,57 @@
+{
+  "id": "2024-silver-cross-dolls-twin-wave-stroller",
+  "year": 2024,
+  "name": "Silver Cross Dolls Twin Wave Stroller",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls-prams-and-strollers/silver-cross-dolls-twin-wave-stroller/p/221453"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls-prams-and-strollers/silver-cross-dolls-twin-wave-stroller/p/221453",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "y4WbLzSTShY",
+      "channel": "Smyths Toys Superstores",
+      "duration": 20.0,
+      "title": "Silver Cross Range at Smyths Toys"
+    },
+    {
+      "id": "3RJAb3HtmpU",
+      "channel": "Play Like Mum",
+      "duration": 6.0,
+      "title": "Silver Cross Wave Dolls Pram - Vintage Blue Fabric"
+    },
+    {
+      "id": "VWdY-Tnn4uU",
+      "channel": "Richard Mounteney",
+      "duration": 16.0,
+      "title": "Twins in a Silver Cross Pram, strolling at the races"
+    },
+    {
+      "id": "nHnQyX2Ho60",
+      "channel": "Play Like Mum",
+      "duration": 15.0,
+      "title": "Silver Cross Wave Dolls Pram - Vintage Pink Fabric"
+    },
+    {
+      "id": "Ei2zPn90eQY",
+      "channel": "TTPM Baby Gear Reviews",
+      "duration": 171.0,
+      "title": "Wave Stroller from Silver Cross"
+    }
+  ]
+}

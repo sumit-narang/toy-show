@@ -1,0 +1,30 @@
+{
+  "id": "2021-kamala-harris-by-leila-rasheed",
+  "year": 2021,
+  "name": "Kamala Harris by Leila Rasheed",
+  "price_eur": 8.4,
+  "price_text": "€8.40",
+  "retailers": [
+    {
+      "name": "Easons/Shops Nationwide",
+      "url": "https://www.easons.com/kamala-harris-leila-rasheed-9780702312335"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/kamala-harris-leila-rasheed-9780702312335"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BkhTt7-fc8c",
+      "channel": "HOT 97",
+      "duration": 3097.0,
+      "title": "Dapper Dan On Gucci Controversy, Kanye West, Supreme, Appropriating Culture + Mike Tyson Fight"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-giant-giraffe",
+  "year": 2025,
+  "name": "Giant Giraffe",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "The Wonky Woolins",
+      "url": "https://www.thewonkywoolins.com/products/giant-giraffe-120cm-tall"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.thewonkywoolins.com/products/giant-giraffe-120cm-tall"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KNmdrOf7MwU",
+      "channel": "4K Relaxation Channel",
+      "duration": 2975.0,
+      "title": "Graceful Giants - GIRAFFES Documentary Film in 4K UHD - Incredible Wildlife of Africa"
+    },
+    {
+      "id": "6NDYf3RZ1eY",
+      "channel": "ROLLIN' WILD",
+      "duration": 41.0,
+      "title": "ROLLIN' WILD - 'Giraffe ' - what if animals were round?"
+    },
+    {
+      "id": "P_ckAbOr0r4",
+      "channel": "Nat Geo Animals",
+      "duration": 229.0,
+      "title": "Giraffes 101 | Nat Geo Wild"
+    },
+    {
+      "id": "SuVIFoB-rPg",
+      "channel": "Animal World UK",
+      "duration": 1702.0,
+      "title": "Giraffe – The Giant of the Savanna #wildlifedocumentary | Animal World UK"
+    },
+    {
+      "id": "OAnsQ1Jpv3g",
+      "channel": "Sakla TV",
+      "duration": 60.0,
+      "title": "Elephant vs Giraffe Water Bottle Fight"
+    }
+  ]
+}

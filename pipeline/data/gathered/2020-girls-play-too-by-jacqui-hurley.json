@@ -1,0 +1,60 @@
+{
+  "id": "2020-girls-play-too-by-jacqui-hurley",
+  "year": 2020,
+  "name": "Girls Play Too by Jacqui Hurley",
+  "price_eur": 14.95,
+  "price_text": "€14.95",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/girls-play-too-jacqui-hurley-9781785373374"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/girls-play-too-jacqui-hurley-9781785373374",
+      "title": "Buy Girls Play Too Book at Easons",
+      "description": "Irish sportswomen have been breaking the mould for a very, very long time. In 1956, Maeve Kyle became our first female Olympian, and in 1978 rally driver Rosemary Smith broke the country's land-speed record! Through the 1990s and 2000s we had world champio",
+      "image": null,
+      "ld_description": "Irish sportswomen have been breaking the mould for a very, very long time. In 1956, Maeve Kyle became our first female Olympian, and in 1978 rally driver Rosemary Smith broke the country's land-speed record! Through the 1990s and 2000s we had world champions in Sonia O'Sullivan, Derval O'Rourke and Olive Loughnane, and more recently, the fantastic Katie Taylor, Kellie Harrington and Annalise Murphy have been among those who have put Irish sportswomen on the map. This book breaks the mould once more, as a first ever compendium of stories for children about our best contemporary sportswomen.\n\nWith a fairy-tale touch, RTÉ's Jacqui Hurley tells the stories of women who have proved that being a girl is not a barrier to sporting success. Each story is one of overcoming big challenges, and the role models celebrated here are sure to inspire the next generation of Irish sportswomen. Featuring twenty-five dazzling athletes, and with delightful pictures by five wonderful female Irish illustrators, Girls Play Too is a celebration of come of our brightest and best sporting stars, and of all that you can achieve if you try your best and never give up on your dreams.",
+      "brand": "Merrion Press",
+      "ld_image": "https://www.easons.com/images/m/70462269a0673f34/original/9781785373374_5638952707.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6gK_d8HpHq8",
+      "channel": "Sport for Business",
+      "duration": 840.0,
+      "title": "Sport for Business and Jacqui Hurley, Girls Play Too"
+    },
+    {
+      "id": "FAUg6jNZwwk",
+      "channel": "Easons Ireland",
+      "duration": 173.0,
+      "title": "Jacqui Hurley reads an extract of her new book \"Girls Play Too\""
+    },
+    {
+      "id": "t1Qs9eJ8CjE",
+      "channel": "To Be Irish",
+      "duration": 968.0,
+      "title": "Fireside Tales: Girls Play Too with Jacqui Hurley"
+    },
+    {
+      "id": "_67VVV0D4dM",
+      "channel": "Irish Academic Press | Merrion Press",
+      "duration": 43.0,
+      "title": "Jacqui Hurley, Girls Play Too author, says thanks to Eason"
+    },
+    {
+      "id": "xFUYPAfw6fA",
+      "channel": "The Southern Star",
+      "duration": 1536.0,
+      "title": "RTÉ broadcaster Jacqui Hurley on her new book, the importance of sport & family life during lockdown"
+    }
+  ]
+}

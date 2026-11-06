@@ -1,0 +1,53 @@
+{
+  "id": "2017-elc-bop-go-alien",
+  "year": 2017,
+  "name": "ELC Bop&Go Alien",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6-d_k8dLnh4",
+      "channel": "irysky",
+      "duration": 24.0,
+      "title": "ELC robot"
+    },
+    {
+      "id": "Zosg9ObCTF8",
+      "channel": "Priky’s Toys & Books",
+      "duration": 111.0,
+      "title": "Early Learning Centre Bop And Go Alien - review"
+    },
+    {
+      "id": "fGX577-_iKI",
+      "channel": "Anzsy's toy videos",
+      "duration": 57.0,
+      "title": "Early Learning centre Bop and go alien (robot)ELC dance and light robot.Musical alien toy."
+    },
+    {
+      "id": "MwYN1JGFRQ8",
+      "channel": "Jucarii second hand",
+      "duration": 62.0,
+      "title": "Tren Happyland - ELC"
+    },
+    {
+      "id": "Lc-8WsPDVII",
+      "channel": "Shampton Mononymous",
+      "duration": 43.0,
+      "title": "dancing aliens"
+    }
+  ]
+}

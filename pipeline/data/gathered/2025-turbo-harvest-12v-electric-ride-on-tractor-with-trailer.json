@@ -1,0 +1,57 @@
+{
+  "id": "2025-turbo-harvest-12v-electric-ride-on-tractor-with-trailer",
+  "year": 2025,
+  "name": "Turbo Harvest 12V Electric Ride-On Tractor with Trailer",
+  "price_eur": 289.95,
+  "price_text": "€289.95",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://funstuff.ie/ride-on-toys/turbo-harvest-12v-electric-ride-on-tractor-with-trailer-blue/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funstuff.ie/ride-on-toys/turbo-harvest-12v-electric-ride-on-tractor-with-trailer-blue/",
+      "title": "Turbo Harvest  12V Electric Ride On Tractor with Trailer Blue",
+      "description": "Shop now for Turbo Harvest Powerful 12V Electric Ride On Tractor with Trailer Green at Funstuff.ie Ireland UK.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1638/images/15053/funstuff-turbo-harvest-12v-electric-ride-on-tractor-with-trailer-blue__25534.1789388945.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Tuu-dxSfKJE",
+      "channel": "Jess & Obie",
+      "duration": 103.0,
+      "title": "My Honest Review of TEOAYEAH Kids Ride on Tractor with Remote Control"
+    },
+    {
+      "id": "9mt4gPHcZGk",
+      "channel": "MicksGarage.Com",
+      "duration": 76.0,
+      "title": "Kids 12v Ride On Farm Tractor"
+    },
+    {
+      "id": "iq-_k7hOu2g",
+      "channel": "OZ Kids Ride",
+      "duration": 359.0,
+      "title": "How to assemble kids ride on electric Tractor W/ Trailer with Remote control"
+    },
+    {
+      "id": "uMjtjLDWwoY",
+      "channel": "Bestoutdor",
+      "duration": 47.0,
+      "title": "12V Kids Electric Ride on Tractor with 3-Gear-Shift Ground Loader"
+    },
+    {
+      "id": "dZDDsyNweA0",
+      "channel": "LiveWithTech",
+      "duration": 126.0,
+      "title": "TEOAYEAH 12V 7AH Ride on Tractor | Dual Motors | Bluetooth Music/USB."
+    }
+  ]
+}

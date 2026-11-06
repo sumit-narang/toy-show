@@ -1,0 +1,36 @@
+{
+  "id": "2018-miggeldy-d-giggles",
+  "year": 2018,
+  "name": "Miggeldy D Giggles",
+  "price_eur": 20.0,
+  "price_text": "€20",
+  "retailers": [
+    {
+      "name": "Miggeldy D Giggles",
+      "url": "https://www.miggledgiggles.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DSqkrrwix8w",
+      "channel": "Miggle D Giggles - Pranks & More!",
+      "duration": 230.0,
+      "title": "MIGGLE D GIGGLES MCDONALDS DRIVE THRU PRANK! (Micheal D Higgins Prank)"
+    },
+    {
+      "id": "ZHwez2Xr3TY",
+      "channel": "Leptagon",
+      "duration": 142.0,
+      "title": "Paddy's Day Message from Miggeldy Higgins"
+    }
+  ]
+}

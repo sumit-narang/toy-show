@@ -1,0 +1,57 @@
+{
+  "id": "2022-venom-titan-action-figure",
+  "year": 2022,
+  "name": "Venom Titan Action Figure",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/venom-marvel-spider-man-maximum-venom-titan-hero-action-figure/p/187643"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/venom-marvel-spider-man-maximum-venom-titan-hero-action-figure/p/187643",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XST_uri7-jc",
+      "channel": "Bman - Branden’s Toys",
+      "duration": 1490.0,
+      "title": "Spider-Man Avengers Titan Series 12” Figures 2026 Venom Capt. America Iron Man Hasbro "
+    },
+    {
+      "id": "scyu7qyvtHc",
+      "channel": "Danger-Rock",
+      "duration": 1136.0,
+      "title": "Spider-Man Titan Series Venom 2026 Review "
+    },
+    {
+      "id": "YTBUgvh8mkA",
+      "channel": "Kerajinan Terniat",
+      "duration": 1320.0,
+      "title": "*DIY Level 100* TRANSFORMATOR Mutan Venom vs Zoochosis TERKEREN 😱 PERTANDINGAN DIY EPIC!"
+    },
+    {
+      "id": "k1jppreXX_g",
+      "channel": "Street Play Studios",
+      "duration": 927.0,
+      "title": "TITAN HERO VENOM 2020 | MAXIMUM SPIDER-MAN | UNBOXING REVIEW | BLAST GEAR"
+    },
+    {
+      "id": "75YOdDuC6Lc",
+      "channel": "KevsToyFun",
+      "duration": 946.0,
+      "title": "Unboxing Spider-Man Titan Hero Series Toys - Spider-Man Venom Carnage 12 inch Figures"
+    }
+  ]
+}

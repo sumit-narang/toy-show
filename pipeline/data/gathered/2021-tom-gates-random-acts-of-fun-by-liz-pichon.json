@@ -1,0 +1,78 @@
+{
+  "id": "2021-tom-gates-random-acts-of-fun-by-liz-pichon",
+  "year": 2021,
+  "name": "Tom Gates Random Acts of Fun by Liz Pichon",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "In Company of Books",
+      "url": "https://thecompanyofbooks.ie/store/Tom-Gates-Random-Acts-of-Fun-p406236286"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://thecompanyofbooks.ie/store/Tom-Gates-Random-Acts-of-Fun-p406236286",
+      "title": "Tom Gates: Random Acts of Fun",
+      "description": "The top-of-the-class, extra special new bestseller from multi-million copy selling author and illustrator Liz Pichon. A laugh-out-loud, packed-with-pictures Tom Gates story! Oh no! Tom's stuck at home with a fractured ankle and it's spoiling his fun. Doodling on his plaster cast helps to pass the time, along with visits from family (with treats), friends and even Rooster managing to sneak in. Tom",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/26227096/3251095264.jpg",
+      "ld_description": "The top-of-the-class, extra special new bestseller from multi-million copy selling author and illustrator Liz Pichon. A laugh-out-loud, packed-with-pictures Tom Gates story! Oh no! Tom's stuck at home with a fractured ankle and it's spoiling his fun. Doodling on his plaster cast helps to pass the time, along with visits from family (with treats), friends and even Rooster managing to sneak in. Tom",
+      "brand": null,
+      "ld_image": {
+        "@type": "ImageObject",
+        "caption": "Tom Gates: Random Acts of Fun",
+        "name": "Tom Gates: Random Acts of Fun",
+        "description": "The top-of-the-class, extra special new bestseller from multi-million copy selling author and illustrator Liz Pichon. A laugh-out-loud, packed-with-pictures Tom Gates story! Oh no! Tom's stuck at home with a fractured ankle and it's spoiling his fun. Doodling on his plaster cast helps to pass the time, along with visits from family (with treats), friends and even Rooster managing to sneak in. Tom",
+        "url": "https://thecompanyofbooks.ie/store/Tom-Gates-Random-Acts-of-Fun-p406236286",
+        "contentUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/26227096/3251095264.jpg",
+        "width": 220,
+        "height": 280,
+        "thumbnail": {
+          "@type": "ImageObject",
+          "caption": "Tom Gates: Random Acts of Fun",
+          "url": "https://thecompanyofbooks.ie/store/Tom-Gates-Random-Acts-of-Fun-p406236286",
+          "contentUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/26227096/3251095266.jpg",
+          "width": 220,
+          "height": 280
+        },
+        "thumbnailUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/26227096/3251095266.jpg"
+      }
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TnB9c57ruGE",
+      "channel": "Tom Gates Brilliant World",
+      "duration": 550.0,
+      "title": "Random Acts Of Fun Pt 1 | Read By Rupert Grint | Audio Book | #readalong"
+    },
+    {
+      "id": "dhn0VssJnns",
+      "channel": "Scholastic UK",
+      "duration": 48.0,
+      "title": "Tom Gates: Random Acts of Fun"
+    },
+    {
+      "id": "RiJPvrDzF98",
+      "channel": "Tom Gates - Topic",
+      "duration": 122.0,
+      "title": "Random Acts Of Fun"
+    },
+    {
+      "id": "rNnE5F4E7yI",
+      "channel": "Tom Gates Music",
+      "duration": 122.0,
+      "title": "Tom Gates - Random Acts Of Fun"
+    },
+    {
+      "id": "WA9bQdihu_k",
+      "channel": "Tom Gates Brilliant World",
+      "duration": 509.0,
+      "title": "Random Acts Of Fun Pt 2 | Read By Rupert Grint | Audio Book | #readalong"
+    }
+  ]
+}

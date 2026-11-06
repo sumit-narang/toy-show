@@ -1,0 +1,54 @@
+{
+  "id": "2022-puppet-labrador",
+  "year": 2022,
+  "name": "PUPPET LABRADOR",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Puy_c8FPSSI",
+      "channel": "Sheriff Labrador - Kids Cartoon",
+      "duration": 2787.0,
+      "title": "Toys Are Not on the Menu | Play Safe with Play-Doh | Cartoon for Preschoolers | Sheriff Labrador"
+    },
+    {
+      "id": "Ck3nRDv3Qqg",
+      "channel": "BabyBus - Preschool Songs & Learning Cartoons",
+      "duration": 3976.0,
+      "title": "Robot Dog is Broken | Home Safety for Kids | Sheriff Labrador | Kids Cartoon | BabyBus"
+    },
+    {
+      "id": "u3WsQQMk4WU",
+      "channel": "Sheriff Labrador - Kids Cartoon",
+      "duration": 3214.0,
+      "title": "Who's at the Door? | Don't Open the Door to Strangers | Safety Rules for Kids | Sheriff Labrador"
+    },
+    {
+      "id": "iKJ7rnFRvrA",
+      "channel": "Sheriff Labrador - Kids Cartoon",
+      "duration": 5579.0,
+      "title": "Sharing is Caring | Kids Learn How to Share | Good Habits | Police Cartoon | Sheriff Labrador"
+    },
+    {
+      "id": "2l1lNrnyBSo",
+      "channel": "Sheriff Labrador - Kids Cartoon",
+      "duration": 3688.0,
+      "title": "Dodo's First Time at the Theater | Good Manners | Preschool Cartoon | Sheriff Labrador"
+    }
+  ]
+}

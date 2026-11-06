@@ -1,0 +1,60 @@
+{
+  "id": "2025-knowledge-encyclopedia-dinosaur-by-john-woodward",
+  "year": 2025,
+  "name": "Knowledge Encyclopedia: Dinosaur! By John Woodward",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/knowledge-encyclopedia-dinosaur-john-woodward-9780241740101"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/knowledge-encyclopedia-dinosaur-john-woodward-9780241740101",
+      "title": "Knowledge Encyclopedia: Dinosaur! | Easons.Com",
+      "description": "Knowledge Encyclopedia: Dinosaur is now available on easons.com",
+      "image": null,
+      "ld_description": "DK's best-selling illustrated encyclopedia series takes you back to the Mesozoic Era, when fearsome dinosaurs roamed the land, sea, and skies. Discover dinosaurs as you've never seen them before through jaw-dropping 3D illustrations in this dinosaur encyclopedia for kids ages 9+.Did you know that Velociraptor had three large \"killer claws\" on each foot to hunt down prey? Or that the long-necked Diplodocus was as long as three school buses? Can you imagine what a strange life it would be for Saltasaurus with no toes on its front feet? Would you believe that Carcharocles megalodon was an ocean monster with a fearsome bite at least six times stronger than today's great white shark?Knowledge Encyclopedia's clear explanations, illustrations, photographs, and 3D images will engage children in complex subjects. Find yourself transported to the age of dinosaurs and then the Ice Age with this perfect gift for anyone who loves dinosaurs and prehistoric creatures.This all-encompassing dinosaur encyclopedia for kids offers: An impressive collection of facts, charts, timelines, and illustrations exploring the prehistoric world.A visual approach using illustrations, photographs, and extremely detailed 3D CGI images, including the Tyrannosaurus and Pterodactylus.Updates to include the latest dinosaur discoveries and research, including feathered dinosaurs and theories about dinosaur behaviour. Kids can see and read about every type of prehistoric animal in unprecedented detail and with stun",
+      "brand": "Dorling Kindersley Limited",
+      "ld_image": "https://www.easons.com/images/asset/d853c168-a15b-4222-b448-922a9ec50f4f/9780241740101_5643458613.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4dI2kE0XvHE",
+      "channel": "PC Gaming & Sports",
+      "duration": 220.0,
+      "title": "Knowledge Encyclopedia Dinosaur Hardcover DK"
+    },
+    {
+      "id": "1CUTq1Z8oWE",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 170.0,
+      "title": "DK Super Dinosaur Encyclopedia: The Biggest, Fastest, Coolest Prehistoric Creatures"
+    },
+    {
+      "id": "H3RMALTNl2U",
+      "channel": "Lowplex Books",
+      "duration": 71.0,
+      "title": "DK Knowledge Encyclopedias 5 Book Collection - Book Unboxing"
+    },
+    {
+      "id": "EP1_bRa-jXs",
+      "channel": "Barang Lama",
+      "duration": 167.0,
+      "title": "The Dinosaur Book by DK  (Author), John Woodward (Author)"
+    },
+    {
+      "id": "N8ZUXjs3PXU",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 148.0,
+      "title": "DK Knowledge Encyclopedia Space! The Universe as You've Never Seen it Before"
+    }
+  ]
+}

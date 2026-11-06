@@ -1,0 +1,57 @@
+{
+  "id": "2017-cow-demo-game",
+  "year": 2017,
+  "name": "Cow Demo Game",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "TheField.ie",
+      "url": "https://www.thefield.ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thefield.ie/",
+      "title": "The Field Toy",
+      "description": "The Field Toy - Recently hailed in the national media as the most creative brilliant simple toy that a home grown toy manufacturer has produced.",
+      "image": "https://www.thefield.ie/wp-content/uploads/2016/11/The-Field-500_500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DLRWaKk8yi8",
+      "channel": "MAZAVS - Games Channel",
+      "duration": 741.0,
+      "title": "The Cow Game | Demo | GamePlay PC"
+    },
+    {
+      "id": "CzWWvi20LaE",
+      "channel": "OCENet",
+      "duration": 61.0,
+      "title": "Milki Delivery - Cozy Cow Delivery Adventure | Wholesome Direct Demo Trailer"
+    },
+    {
+      "id": "Tq3Cog0I-Yg",
+      "channel": "The RAMPAGE",
+      "duration": 1003.0,
+      "title": "Apocalypse Cow Alpha/Beta Demo First Impressions"
+    },
+    {
+      "id": "C-0W1I-crT0",
+      "channel": "FlimsyMoons",
+      "duration": 838.0,
+      "title": "The Cow Game - Demo (No Commentary)"
+    },
+    {
+      "id": "yRwUn-_ZdZc",
+      "channel": "WSM Game Studio",
+      "duration": 85.0,
+      "title": "Animated Cow Demo for Unity Asset Store"
+    }
+  ]
+}

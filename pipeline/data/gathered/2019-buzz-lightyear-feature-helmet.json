@@ -1,0 +1,57 @@
+{
+  "id": "2019-buzz-lightyear-feature-helmet",
+  "year": 2019,
+  "name": "Buzz Lightyear Feature Helmet",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-feature-helmet-disney-pixar-s-toy-story-4/p/170153"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-for-the-fans-/buzz-lightyear-feature-helmet-disney-pixar-s-toy-story-4/p/170153",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p2teq9tqGoU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 147.0,
+      "title": "Toy Story 4 Buzz Lightyear Space Ranger Armor & Buzz Lightyear Rapid Disc Blaster from Mattel"
+    },
+    {
+      "id": "YVTss7gX5ig",
+      "channel": "TodayIGrewUP",
+      "duration": 733.0,
+      "title": "Toy Story Collection Buzz Lightyear Helmet Swap"
+    },
+    {
+      "id": "IKTMyKSD5-4",
+      "channel": "Mattel",
+      "duration": 22.0,
+      "title": "Disney Pixar Toy Story 4 Buzz Lightyear World of Role Play | Mattel UK"
+    },
+    {
+      "id": "ucadUUDRhRQ",
+      "channel": "Made for Kids",
+      "duration": 29.0,
+      "title": "Toy : Buzz Lightyear Feature Helmet"
+    },
+    {
+      "id": "887724nTkHY",
+      "channel": "NicholasPrime82",
+      "duration": 141.0,
+      "title": "Thinkway Toy Story Collection Talking Buzz Lightyear 2009 (Brief Demonstration)"
+    }
+  ]
+}

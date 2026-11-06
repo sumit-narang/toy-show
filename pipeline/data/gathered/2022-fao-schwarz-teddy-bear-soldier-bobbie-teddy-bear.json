@@ -1,0 +1,54 @@
+{
+  "id": "2022-fao-schwarz-teddy-bear-soldier-bobbie-teddy-bear",
+  "year": 2022,
+  "name": "FAO Schwarz Teddy Bear - Soldier Bobbie Teddy Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5zX-tNnRaJY",
+      "channel": "Inside Edition",
+      "duration": 80.0,
+      "title": "How to Spend the Night Inside FAO Schwartz for Just $25"
+    },
+    {
+      "id": "MIOUssuhjLk",
+      "channel": "Ambient New York — Matt Pierce",
+      "duration": 555.0,
+      "title": "Inside FAO SCHWARZ TOY STORE New York City 2026"
+    },
+    {
+      "id": "1Mw8-NOGpUU",
+      "channel": "Tropical Critters",
+      "duration": 251.0,
+      "title": "FAO Schwarz Cheetah & Keel Toys Cheetah Plush Comparison"
+    },
+    {
+      "id": "5UZD8ba8mns",
+      "channel": "HobbyFamilyTV",
+      "duration": 632.0,
+      "title": "HobbyKids Visit Build A Bear and Make MINIONS!"
+    },
+    {
+      "id": "rxV5KnUtL5s",
+      "channel": "The NYC Walking Show",
+      "duration": 1728.0,
+      "title": "The BIGGEST Toy Store in NYC FAO Schwarz NYC Tour 4K The World’s Most Famous Toy Store"
+    }
+  ]
+}

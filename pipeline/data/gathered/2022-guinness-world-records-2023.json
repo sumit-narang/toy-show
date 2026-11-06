@@ -1,0 +1,44 @@
+{
+  "id": "2022-guinness-world-records-2023",
+  "year": 2022,
+  "name": "Guinness World Records 2023",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "VwugWEVv3VI",
+      "channel": "NA",
+      "duration": 2155.0,
+      "title": "BEST OF 2023 - Guinness World Records"
+    },
+    {
+      "id": "X-70C7Mh-0g",
+      "channel": "NA",
+      "duration": 638.0,
+      "title": "BEST WORLD RECORDS OF 2023 | Guinness World Records"
+    },
+    {
+      "id": "LJ6CSIdQjCY",
+      "channel": "NA",
+      "duration": 4843.0,
+      "title": "The GREATEST World Records of all Time! | Guinness World Records 70th Anniversary"
+    },
+    {
+      "id": "hQmZd_n6DjM",
+      "channel": "NA",
+      "duration": 220.0,
+      "title": "COOLEST HUMAN BODY RECORDS 2023 | Guinness World Records"
+    },
+    {
+      "id": "t25218F97aY",
+      "channel": "NA",
+      "duration": 3364.0,
+      "title": "BEST OF 2025 | Guinness World Records"
+    }
+  ]
+}

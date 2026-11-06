@@ -1,0 +1,60 @@
+{
+  "id": "2024-bruder-fliegl-barrel-tanker",
+  "year": 2024,
+  "name": "Bruder Fliegl Barrel Tanker",
+  "price_eur": 61.99,
+  "price_text": "€61.99",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-fliegl-barrel-tanker2"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-fliegl-barrel-tanker2",
+      "title": "Bruder Fliegl barrel tanker",
+      "description": "Upgrade playtime with the Bruder Fliegl Barrel Tanker, a detailed and durable farming toy.",
+      "image": "http://clarkesofcavan.ie/cdn/shop/files/f0203623xxniwdsyvfcy_fa97eb7e-9b1c-4550-918c-b539bd2c7aac.webp?crop=center&height=1200&v=1777655719&width=1200",
+      "ld_description": "The new barrel tanker from Fliegl expands BRUDER’s agricultural range to include the latest fertiliser technology. This detailed model from BRUDER is equipped with a towing hose distributor. The integrated tank can be filled with water and closed with a cap. The tanker is emptied through an outlet valve at the rear of the tanker. For road transport, the towing hose distributor can be folded in and folded out again in field operation. The BRUDER 3000 and 4000 series tractors are the perfect tractor for this impressive tanker.\n\nAutomotive body\n\n\n\tFold-out spread tubes\n\tWater tank can be filled\n\n\nCommon\n\n\n\tWARNING! Not suitable for children under 36 months. Choking hazard - small parts.\n\tRecommended age: suitable from 4 years upwards for playing indoors and outdoors\n\tManufactured from high-quality plastics such as ABS\n\tMade by Bruder\n\tScale 1:16",
+      "brand": "Bruder",
+      "ld_image": "https://clarkesofcavan.ie/cdn/shop/files/f0203623xxniwdsyvfcy_fa97eb7e-9b1c-4550-918c-b539bd2c7aac.webp?v=1777655719&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "68eSvBinD40",
+      "channel": "Bruder Toys",
+      "duration": 313.0,
+      "title": "Farming irrigation with Fliegl Barrel Trailer Jumbo Line! | Bruder Toys item no. 02036"
+    },
+    {
+      "id": "U1dy3kwwpE0",
+      "channel": "Bruder Toys",
+      "duration": 27.0,
+      "title": "Bruder Toys Fliegl Barrel Trailer w. Spread Tubes #02020"
+    },
+    {
+      "id": "kHM-Qyxcx08",
+      "channel": "Kids Zone",
+      "duration": 49.0,
+      "title": "Bruder Fliegl Barrel Tanker – Farm Play Just Got Real"
+    },
+    {
+      "id": "KSrpS6KFGjE",
+      "channel": "Todler - Trwałe Zabawki",
+      "duration": 98.0,
+      "title": "Bruder 02020 Przyczepa cysterna Fliegl ze zraszaczem"
+    },
+    {
+      "id": "WMPKHImrhVM",
+      "channel": "PucePlay",
+      "duration": 17.0,
+      "title": "Avis sur la bruder 02020 - Fliegl Tonneau-remorque avec épandeur à tuyaux traînés - 1:16 Tonneau à l"
+    }
+  ]
+}

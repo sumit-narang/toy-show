@@ -1,0 +1,60 @@
+{
+  "id": "2020-lego-art-the-beatles",
+  "year": 2020,
+  "name": "LEGO Art - The Beatles",
+  "price_eur": 122.96,
+  "price_text": "€122.96",
+  "retailers": [
+    {
+      "name": "LEGO",
+      "url": "https://www.lego.com/en-ie/product/the-beatles-31198"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/the-beatles-31198",
+      "title": "The Beatles 31198 | Art | Buy online at the Official LEGO® Shop IE",
+      "description": "Enjoy creative activity and relieve stress with this art set",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltdb6c4028240c19c6/31198_alt16.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "Enjoy creative activity and relieve stress with this art set",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/bltdb6c4028240c19c6/31198_alt16.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l1TUohMMczQ",
+      "channel": "MiniSuperHeroesToday",
+      "duration": 603.0,
+      "title": "Is The LEGO BEATLES Art Mosaic Set WORTH THE PRICE? - Full Review"
+    },
+    {
+      "id": "weFnjeab1pI",
+      "channel": "BriQ Foundation",
+      "duration": 411.0,
+      "title": "LEGO Art The Beatles (31198) - SPEED BUILD! 2020"
+    },
+    {
+      "id": "BfXgK5UJ1yg",
+      "channel": "AustrianBrickFan",
+      "duration": 470.0,
+      "title": "Lego Ideas 21306 The Beatles Yellow Submarine Speed Build"
+    },
+    {
+      "id": "pSPd9OuNZTI",
+      "channel": "A Beatleful Life",
+      "duration": 753.0,
+      "title": "Beatles Lego Art Unboxing and Review"
+    },
+    {
+      "id": "PdVkDENqxlQ",
+      "channel": "Little Bins and Bricks",
+      "duration": 446.0,
+      "title": "Make LEGO Space Art With Beatles Art (31198) Alternate Builds: Imagine All the Possibilities"
+    }
+  ]
+}

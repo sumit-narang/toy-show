@@ -1,0 +1,54 @@
+{
+  "id": "2019-pok-mon-power-action-pikachu",
+  "year": 2019,
+  "name": "Pokémon Power Action Pikachu",
+  "price_eur": 27.99,
+  "price_text": "€27.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/pokemon-power-action-pikachu/1600269592.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/pokemon-power-action-pikachu/1600269592.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w7QIQ1Rs55Q",
+      "channel": "KACE Tech Review",
+      "duration": 217.0,
+      "title": "Pokemon Power Action Pikachu Plush Toy  Makes Sounds  Light up tail and cheeks"
+    },
+    {
+      "id": "66q-7dIHsZw",
+      "channel": "Virtually Marti",
+      "duration": 212.0,
+      "title": "Pokémon Power Action Pikachu Plush unboxing"
+    },
+    {
+      "id": "2C3KgN0Xj5A",
+      "channel": "TheRoboctoBoy",
+      "duration": 77.0,
+      "title": "Wicked Cool Toys/Jazwares Pokémon Power Action Pikachu"
+    },
+    {
+      "id": "9U5MEmx5Hqo",
+      "channel": "The Crane Couple",
+      "duration": 621.0,
+      "title": "NEW Pokemon toy! Power Action Pikachu"
+    },
+    {
+      "id": "cirP1Pblrqc",
+      "channel": "Kobe E. Blanchette",
+      "duration": 225.0,
+      "title": "Wicked Cool Toys/Jazwares Pokémon Talking Pikachu Plush (Power Action Pikachu)"
+    }
+  ]
+}

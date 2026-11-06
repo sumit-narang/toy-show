@@ -1,0 +1,53 @@
+{
+  "id": "2024-stitch-christmas-stocking",
+  "year": 2024,
+  "name": "Stitch Christmas Stocking",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "I8VXJtVF8Ew",
+      "channel": "Rooney Sewing Patterns",
+      "duration": 723.0,
+      "title": "Sew A Christmas Stocking with a scalloped edge, ruffle, quilted, & more!"
+    },
+    {
+      "id": "6j-ab5_SAvc",
+      "channel": "Briana K",
+      "duration": 1666.0,
+      "title": "Crochet the Wheat Stitch Christmas Stocking | Toe-Up Holiday Crochet Pattern Tutorial 🎄"
+    },
+    {
+      "id": "vHT2Rsm_s2o",
+      "channel": "Stacey Lee Creative",
+      "duration": 2386.0,
+      "title": "The Cutest Christmas Stocking Ever - With FREE Pattern!"
+    },
+    {
+      "id": "9Z5omhFHrQY",
+      "channel": "Stitchin With Samantha",
+      "duration": 518.0,
+      "title": "Hand Embroidered Christmas Stocking Tutorial: How to Stitch a Name with Back Stitch"
+    },
+    {
+      "id": "SLGwK2rvVzU",
+      "channel": "Stitchin With Samantha",
+      "duration": 425.0,
+      "title": "Hand Embroidered Christmas Stocking Tutorial: How to Stitch a Name with Chain Stitch"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-discovery-digital-drumsticks",
+  "year": 2020,
+  "name": "Discovery Digital Drumsticks",
+  "price_eur": 11.8,
+  "price_text": "€11.80",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/electronics/fao-schwarz/digital-drumsticks/144663621.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/toys/electronics/fao-schwarz/digital-drumsticks/144663621.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dwCGf_VHqQI",
+      "channel": "MSI Reviews",
+      "duration": 197.0,
+      "title": "Air Drumsticks Set: The Best Virtual Drums for Silent Practice!"
+    },
+    {
+      "id": "qFp0u12FKgY",
+      "channel": "Drumbum",
+      "duration": 262.0,
+      "title": "D-Sticks Discovery Box - Drumstick Subscription"
+    },
+    {
+      "id": "JHEPcHDUW0o",
+      "channel": "Nicetry",
+      "duration": 32.0,
+      "title": "Virtual Drumsticks， Electric Air Drum Set"
+    },
+    {
+      "id": "9BBgeAzEfoQ",
+      "channel": "Alan Snider208",
+      "duration": 38.0,
+      "title": "Zorvo Electronic Drumsticks"
+    },
+    {
+      "id": "8HUpPQU_oZc",
+      "channel": "Erin McGrath",
+      "duration": 46.0,
+      "title": "Bontempi Digital Drum sticks"
+    }
+  ]
+}

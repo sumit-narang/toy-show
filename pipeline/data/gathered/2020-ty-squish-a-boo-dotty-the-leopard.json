@@ -1,0 +1,54 @@
+{
+  "id": "2020-ty-squish-a-boo-dotty-the-leopard",
+  "year": 2020,
+  "name": "Ty Squish a Boo Dotty the Leopard",
+  "price_eur": 14.5,
+  "price_text": "€14.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-squish-a-boo-dotty-the-leopard"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-squish-a-boo-dotty-the-leopard"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "geqlIR_ifH8",
+      "channel": "Kimmi The Clown",
+      "duration": 748.0,
+      "title": "Coloring Ty Beanie Boos Coloring Pages | Magic the Unicorn, Dotty the Leopard & Slick the Fox"
+    },
+    {
+      "id": "tOYlbuGkX_4",
+      "channel": "beanie boo turtle studios",
+      "duration": 202.0,
+      "title": "my new beanie boo show!!!! The dotty and Gia show"
+    },
+    {
+      "id": "_yHDBvVE-HU",
+      "channel": "muzyka AI",
+      "duration": 123.0,
+      "title": "Giant Squish-A-Boo !!! Who got the best one ????"
+    },
+    {
+      "id": "gyUJgWhwhRw",
+      "channel": "Ha Sa",
+      "duration": 592.0,
+      "title": "MY 550+ BEANIE BOO COLLECTION (2023)"
+    },
+    {
+      "id": "rm_8skYqQa8",
+      "channel": "XxBeanieBooxX LoverXx",
+      "duration": 142.0,
+      "title": "❤Stranded on a ???❤//Dotty, Heather and Catcher//Beanie Boo//❤"
+    }
+  ]
+}

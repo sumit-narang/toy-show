@@ -1,0 +1,53 @@
+{
+  "id": "2017-top-model-jewellery-box",
+  "year": 2017,
+  "name": "Top Model Jewellery Box",
+  "price_eur": 13.0,
+  "price_text": "€13.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "edEgheboo4Q",
+      "channel": "Denny Praza",
+      "duration": 15.0,
+      "title": "Top Model Musical Jewelry Box Code Navy Floral"
+    },
+    {
+      "id": "2Wy2Ady5Kg0",
+      "channel": "Toys Surprise Fun Pack - SpieleSpielzeug",
+      "duration": 359.0,
+      "title": "TOPMODEL Jewelry Box with Code - Treasure Chest for Bracelets, Necklaces, Makeup & Hair Ties"
+    },
+    {
+      "id": "K8VFxgx6YGo",
+      "channel": "KCS VB",
+      "duration": 17.0,
+      "title": "Top model smykkeskrin"
+    },
+    {
+      "id": "UObObKd_YRg",
+      "channel": "S.",
+      "duration": 38.0,
+      "title": "Jewellery Box with secret compartment"
+    },
+    {
+      "id": "OJNN-BYrtYA",
+      "channel": "ShoppExp",
+      "duration": 357.0,
+      "title": "Top 5: Best Jewelry Box 2021"
+    }
+  ]
+}

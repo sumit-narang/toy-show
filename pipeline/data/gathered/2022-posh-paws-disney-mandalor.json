@@ -1,0 +1,54 @@
+{
+  "id": "2022-posh-paws-disney-mandalor",
+  "year": 2022,
+  "name": "Posh Paws Disney Mandalor",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7L5UQh6fDKQ",
+      "channel": "Walt Disney Studios Canada",
+      "duration": 50.0,
+      "title": "“A Good Feeling” Official Clip | Disney Gallery: The Mandalorian | Disney+"
+    },
+    {
+      "id": "4aFvmpoCx5M",
+      "channel": "Destination Geek",
+      "duration": 327.0,
+      "title": "Mandalorian & Grogu Toys Just Hit Stores… Here’s What I Found"
+    },
+    {
+      "id": "Leye6_fRPuc",
+      "channel": "Collect Jurassic",
+      "duration": 1010.0,
+      "title": "UNBOXING New Star Wars movie toys—in 2026! The Mandalorian and Grogu \"ActionVerse\" Figures/Vehicles"
+    },
+    {
+      "id": "E1xPoHf0ZrE",
+      "channel": "72EN Fashion Store",
+      "duration": 16.0,
+      "title": "Yoda Plush Toy Master The Mandalorian Animals Stuffed Doll Star War Kids Christmas Birthday Gifts"
+    },
+    {
+      "id": "DpATvwrcrUw",
+      "channel": "Star Wars",
+      "duration": 254.0,
+      "title": "The Mandalorian Character Posters, Life Day Celebrations with LEGO, and More!"
+    }
+  ]
+}

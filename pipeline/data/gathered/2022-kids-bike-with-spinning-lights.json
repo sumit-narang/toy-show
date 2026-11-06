@@ -1,0 +1,54 @@
+{
+  "id": "2022-kids-bike-with-spinning-lights",
+  "year": 2022,
+  "name": "Kids Bike with Spinning Lights",
+  "price_eur": 169.99,
+  "price_text": "€169.99",
+  "retailers": [
+    {
+      "name": "Lifty",
+      "url": "https://lifty.co/products/kids-bike-with-spinning-lights"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.liftyelectric.com/products/kids-bike-with-spinning-lights"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AyzjzYwXdHA",
+      "channel": "SFR LITTLE STAR",
+      "duration": 200.0,
+      "title": "Stunt Tricycle Unboxing | SFR Toys | Part - 1 | 360 Degree Rotating Lighting Music"
+    },
+    {
+      "id": "7l3rwjRY4kE",
+      "channel": "Prevelo",
+      "duration": 249.0,
+      "title": "Install the Freewheel Kit on the Prevelo Alpha One"
+    },
+    {
+      "id": "sC5qefwMQHk",
+      "channel": "Brightz, Ltd.",
+      "duration": 24.0,
+      "title": "Spoke Brightz"
+    },
+    {
+      "id": "1beCsUJGk_0",
+      "channel": "Tiddle Toons",
+      "duration": 44.0,
+      "title": "03 Stunt Bicycle 360° Rotating Bump & Go Musical Toy For Kids | Tiddle Toons"
+    },
+    {
+      "id": "phKMsRtQM70",
+      "channel": "RazorWorldwide",
+      "duration": 56.0,
+      "title": "Razor Presents: Lightshow RipRider360"
+    }
+  ]
+}

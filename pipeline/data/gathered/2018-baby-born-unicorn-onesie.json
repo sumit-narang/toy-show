@@ -1,0 +1,72 @@
+{
+  "id": "2018-baby-born-unicorn-onesie",
+  "year": 2018,
+  "name": "Baby Born Unicorn Onesie",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "It6timkHnK4",
+      "channel": "Dolls and Toys",
+      "duration": 520.0,
+      "title": "BABY born Wonderland Interactive Einhorn Unpacking unicorn toy horse Беби Бон лошадь единорог"
+    },
+    {
+      "id": "EEtDKOcYSAU",
+      "channel": "Crystal's Babies",
+      "duration": 469.0,
+      "title": "I got an older Baby Born doll! Super cute! 😊💕"
+    },
+    {
+      "id": "l1Ji450Gx60",
+      "channel": "Crystal's Babies",
+      "duration": 390.0,
+      "title": "NEW!! 2024 Baby Born Emma doll 💖 Unboxing, Review, and Honest Opinions"
+    },
+    {
+      "id": "BMWQx7OWuKc",
+      "channel": "Draw So Cute",
+      "duration": 974.0,
+      "title": "How to Draw a Baby in a Unicorn Onesie 🍼🦄 | Blume Baby Pop"
+    },
+    {
+      "id": "CgXQ4r7ZloA",
+      "channel": "Rena Ann",
+      "duration": 273.0,
+      "title": "Changing Mia into unicorn pajamas!🦄"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-sylvanian-families-assortment",
+  "year": 2019,
+  "name": "Sylvanian Families Assortment",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-chocolate-rabbit-family/p/101587"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-chocolate-rabbit-family/p/101587",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xE_W5S0UmuE",
+      "channel": "Sweet Sylvanians",
+      "duration": 949.0,
+      "title": "making jack-o-lanterns for Halloween 🎃 do the MGA Miniverse pumpkins fit Sylvanian Families?"
+    },
+    {
+      "id": "cS0FRM2O3nU",
+      "channel": "Lomi's Playground",
+      "duration": 516.0,
+      "title": "Scale toys for my dolls: Assembling Sylvanian Families miniatures"
+    },
+    {
+      "id": "oH5qoGDXzss",
+      "channel": "Smyths Toys Superstores",
+      "duration": 50.0,
+      "title": "Sylvanian Families Courtyard Home Gift Set - Smyths Toys"
+    },
+    {
+      "id": "DO4NoscruUI",
+      "channel": "NorikoTaylor",
+      "duration": 267.0,
+      "title": "Sylvanian Families Retro Baby Trio"
+    },
+    {
+      "id": "xRSMDvm_urI",
+      "channel": "みずいろうさぎ",
+      "duration": 130.0,
+      "title": "ママはおおいそがし！ なかよしうさぎ物語  シルバニアファミリー劇場 sylvanian-families"
+    }
+  ]
+}

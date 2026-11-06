@@ -1,0 +1,65 @@
+{
+  "id": "2018-rollplay-porsche-macan-turbo",
+  "year": 2018,
+  "name": "Rollplay Porsche Macan Turbo",
+  "price_eur": 179.99,
+  "price_text": "€179.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "be6VCTn5ypw",
+      "channel": "Lee Perkins",
+      "duration": 130.0,
+      "title": "Porsche Macan Turbo Ride On 6v"
+    },
+    {
+      "id": "sOkQiE0MjkA",
+      "channel": "TOYBOX",
+      "duration": 79.0,
+      "title": "ROLLPLAY GERMANY PREMIUM PORSCHE MACAN TURBO 6V PREMIUM ELECTRIC RIDE ON CAR, WHITE"
+    },
+    {
+      "id": "GCW92YrInCo",
+      "channel": "Rollplay",
+      "duration": 79.0,
+      "title": "6V Porsche Macan with Remote Control"
+    },
+    {
+      "id": "6hdqI3noltk",
+      "channel": "Sterling W",
+      "duration": 144.0,
+      "title": "Costco! Porsche Macan Turbo 6 Volt Ride-on! $169!!!"
+    },
+    {
+      "id": "E4HsbSZqQdA",
+      "channel": "KidsElectricCars",
+      "duration": 37.0,
+      "title": "Licensed Porsche Macan Kids Electric SUV Ride On Jeep"
+    }
+  ]
+}

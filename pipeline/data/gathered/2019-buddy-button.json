@@ -1,0 +1,54 @@
+{
+  "id": "2019-buddy-button",
+  "year": 2019,
+  "name": "Buddy Button",
+  "price_eur": 62.0,
+  "price_text": "€62.00",
+  "retailers": [
+    {
+      "name": "Safe Care Technologies",
+      "url": "https://www.safecaretechnologies.com/product/buddy-button/"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://ie.tobiidynavox.com/product/buddy-button/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sLaz8Tilf08",
+      "channel": "AbleNet",
+      "duration": 203.0,
+      "title": "Getting Started with the Buddy Button IC"
+    },
+    {
+      "id": "cThGvrk4GEo",
+      "channel": "Permobil",
+      "duration": 60.0,
+      "title": "How to Install Buddy Button"
+    },
+    {
+      "id": "n5uHhB2hsfs",
+      "channel": "Permobil",
+      "duration": 56.0,
+      "title": "How to use Buddy Button"
+    },
+    {
+      "id": "yftmL4pZJPE",
+      "channel": "abilitease",
+      "duration": 523.0,
+      "title": "C6 Quadriplegic - Review of the Buddy Button to Operate the SmartDrive"
+    },
+    {
+      "id": "Ulv_RmyWU38",
+      "channel": "microassistivetech",
+      "duration": 34.0,
+      "title": "Buddy Button"
+    }
+  ]
+}

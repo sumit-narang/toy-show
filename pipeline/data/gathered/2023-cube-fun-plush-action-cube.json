@@ -1,0 +1,54 @@
+{
+  "id": "2023-cube-fun-plush-action-cube",
+  "year": 2023,
+  "name": "Cube Fun Plush Action Cube",
+  "price_eur": null,
+  "price_text": "£16.99",
+  "retailers": [
+    {
+      "name": "Cube Fun",
+      "url": "https://cubefun.co.uk/product/kids-game-exercise-cube"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://crabulous.com/product/kids-game-exercise-cube"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "np-dwIQ_uXA",
+      "channel": "toy toys",
+      "duration": 97.0,
+      "title": "Review UainCube 3D Cube Puzzle Maze Toy Hand Game Case Box Fun Brain G"
+    },
+    {
+      "id": "rbtQHTR5kI0",
+      "channel": "Keith's Toy Box",
+      "duration": 426.0,
+      "title": "Numberblocks Number Fun Interactive Cube for Learning Math"
+    },
+    {
+      "id": "HJmE9DulDUw",
+      "channel": "Cupcake Club Surprise",
+      "duration": 210.0,
+      "title": "Shopkins Cuddle Cubes"
+    },
+    {
+      "id": "EXIINwlsbSU",
+      "channel": "kukuKiti",
+      "duration": 84.0,
+      "title": "cube games for kids"
+    },
+    {
+      "id": "pTerr5HZQKA",
+      "channel": "Claire Olson",
+      "duration": 323.0,
+      "title": "Kawaii Cubes Desde ToyFair Ny - Fisher-Price Think"
+    }
+  ]
+}

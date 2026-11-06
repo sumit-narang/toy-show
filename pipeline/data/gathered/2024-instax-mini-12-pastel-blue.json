@@ -1,0 +1,53 @@
+{
+  "id": "2024-instax-mini-12-pastel-blue",
+  "year": 2024,
+  "name": "Instax Mini 12 Pastel Blue",
+  "price_eur": 85.0,
+  "price_text": "€85",
+  "retailers": [
+    {
+      "name": "Fujifilm Merrion",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X7CXUTbm6Q8",
+      "channel": "Olivia Leigh",
+      "duration": 630.0,
+      "title": "Fujifilm Instax Mini 12 Pastel Blue 🫐 Unboxing, setup & review"
+    },
+    {
+      "id": "rFGp3ESi89M",
+      "channel": "Mo's Verified Reviews",
+      "duration": 30.0,
+      "title": "Fujifilm Instax Mini 12 Instant Film Camera - Pastel Blue - HONEST REVIEW"
+    },
+    {
+      "id": "91fTTeG6IXk",
+      "channel": "pal2tech",
+      "duration": 550.0,
+      "title": "Fujifilm INSTAX Mini 12 Camera - Review and Setup Guide"
+    },
+    {
+      "id": "TjR0SuJDFIU",
+      "channel": "Dan Finnen",
+      "duration": 347.0,
+      "title": "How to Use the Fuji Instax Mini 12 Camera"
+    },
+    {
+      "id": "f1Zo0yhB-_w",
+      "channel": "Elite Gadget Finds",
+      "duration": 196.0,
+      "title": "Fujifilm Instax Mini 12 Pastel Blue: The Perfect Instant Camera Starter Pack"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-miniland-african-boy-doll-with-down-syndrome",
+  "year": 2022,
+  "name": "Miniland African Boy Doll with Down Syndrome",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "no7ktHqp2CQ",
+      "channel": "Dolled-up jen360",
+      "duration": 376.0,
+      "title": "Miniland Doll"
+    },
+    {
+      "id": "nfbpXhVAjbw",
+      "channel": "Autism Live",
+      "duration": 245.0,
+      "title": "Miniland Dolls Wins the Therapist Recommendation Award for Babies"
+    },
+    {
+      "id": "CWuRnlGo2HM",
+      "channel": "Jack Wiliamson",
+      "duration": 191.0,
+      "title": "Dolls and Scientific Kit,Toys by Miniland"
+    },
+    {
+      "id": "Qrb79xw0x_0",
+      "channel": "NotMeTube",
+      "duration": 238.0,
+      "title": "Baby Charlie with Down Syndrome Doll Review | Kmart"
+    },
+    {
+      "id": "RI-7UFDmQkE",
+      "channel": "BLNJ DOLLIEZ \"N\" TOYZ  2  ",
+      "duration": 255.0,
+      "title": "MINILAND EDUCATIONAL DOWN SYNDROME  AFRICAN  AMERICAN BOY DOLL #HELP RAISE AWARENESS"
+    }
+  ]
+}

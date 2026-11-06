@@ -1,0 +1,54 @@
+{
+  "id": "2022-mood-bears-sad-bear",
+  "year": 2022,
+  "name": "Mood Bears sad Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cd4qpkMQXKw",
+      "channel": "Mood Bears",
+      "duration": 341.0,
+      "title": "Sad Bear's Rainy Day | Mood Bears: The Series | Episode 6"
+    },
+    {
+      "id": "u4vwttH6iVE",
+      "channel": "Mood Bears",
+      "duration": 51.0,
+      "title": "Mood Bears, Love Bear, Short, Teddy Bears, Children, Emotions"
+    },
+    {
+      "id": "6G_fia1R0lg",
+      "channel": "Dragons' Den",
+      "duration": 676.0,
+      "title": "This Product Encourages Talking About Mental Health | Dragons' Den"
+    },
+    {
+      "id": "qUPaeaRYoKk",
+      "channel": "Arch2tx",
+      "duration": 29.0,
+      "title": "We Bare Bears - Mood Edit"
+    },
+    {
+      "id": "WARXj8EKGlQ",
+      "channel": "Daria Pohorielova",
+      "duration": 42.0,
+      "title": "Mood bear"
+    }
+  ]
+}

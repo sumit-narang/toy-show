@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-wheelbarrow",
+  "year": 2018,
+  "name": "Kids Wheelbarrow",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DyWM9pjfVGk",
+      "channel": "Robud",
+      "duration": 45.0,
+      "title": "ROBUD Kids Wheelbarrow with Gardening Set WRP56"
+    },
+    {
+      "id": "y1KkbYrNT0U",
+      "channel": "Harrison Duke",
+      "duration": 643.0,
+      "title": "GARDENING TOOLS FOR KIDS! Wheelbarrow, watering can, weeder and more tools from Jardineer!"
+    },
+    {
+      "id": "NA8IQaHkuqs",
+      "channel": "TOMY Toys",
+      "duration": 31.0,
+      "title": "John Deere Steel Wheelbarrow - 30 Sec Clip"
+    },
+    {
+      "id": "iZtBkDrzMys",
+      "channel": "Top 5 Best Picks",
+      "duration": 472.0,
+      "title": "The Top 5 Best Kids' Wheelbarrow in 2025 - Must Watch Before Buying!"
+    },
+    {
+      "id": "smPLs-9_M78",
+      "channel": "A.G.PULIE",
+      "duration": 241.0,
+      "title": "LilEasymixAssembly"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2018-our-generation-heels-on-wheels",
+  "year": 2018,
+  "name": "Our Generation Heels on Wheels",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "u_CA6HXc2Yg",
+      "channel": "Awesome AG Films",
+      "duration": 83.0,
+      "title": "Reviewing the Our Generation Set \"Heals on Wheels\""
+    },
+    {
+      "id": "lkk4ErZelNQ",
+      "channel": "Chen Reviews",
+      "duration": 1204.0,
+      "title": "Our Generation Nicola and Heals on Wheels unboxing and thorough review"
+    },
+    {
+      "id": "-75_EZm4Vpc",
+      "channel": "MyAGPlayroom",
+      "duration": 205.0,
+      "title": "Our Generation the Heals on Wheels set for American Girl Dolls"
+    },
+    {
+      "id": "s4RBVctdmuU",
+      "channel": "SundanceTV",
+      "duration": 33.0,
+      "title": "Heels On Wheels (PUSH GIRLS)"
+    },
+    {
+      "id": "ED0EgccCZbQ",
+      "channel": "Jouet KID Toy",
+      "duration": 26.0,
+      "title": "Accessoires OG - \"Recovery Ready\""
+    }
+  ]
+}

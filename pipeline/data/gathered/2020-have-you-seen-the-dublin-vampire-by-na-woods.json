@@ -1,0 +1,60 @@
+{
+  "id": "2020-have-you-seen-the-dublin-vampire-by-na-woods",
+  "year": 2020,
+  "name": "Have You Seen the Dublin Vampire? by Úna Woods",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/have-you-seen-the-dublin-vampire-una-woods-9781788491198"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/have-you-seen-the-dublin-vampire-una-woods-9781788491198",
+      "title": "Have You Seen The Dublin Vampire? By Una Woods",
+      "description": "Follow the Dublin Vampire on a spooky journey through the city in this fun and adventurous story for kids. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "In an old part of Dublin, right down by the sea, There's a moon-shaped park with a creepy old tree. \nThe Dublin Vampire lives there.\n\nThe Vampire wakes up as the sun's going down. He hops on the ghost bus and rides into town. \nHave you seen the Dublin Vampire?\n\nA funny, warm picture book set throughout Dublin, home to Dracula's creator, Bram Stoker.\n\nFeaturing well-known sights around Dublin, including The Crescent (Marino), Five Lamps, O'Connell Bridge, Trinity, Grafton St, Natural History Museum, St Stephen's Green, Bewley's, Dublin Castle and Temple Bar.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/4c3a94ae-cff0-4bff-88e3-24288ca6e8aa/9781788491198_5643313439.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8Dtza4CUSPo",
+      "channel": "Dún Laoghaire-Rathdown County Council",
+      "duration": 227.0,
+      "title": "Have you seen the Dublin Vampire? by Una Woods"
+    },
+    {
+      "id": "9uZnEyNeZno",
+      "channel": "Meath County Library",
+      "duration": 436.0,
+      "title": "Have You Seen The Dublin Vampire?"
+    },
+    {
+      "id": "mkHBbrrPWbQ",
+      "channel": "Dublin Book Festival",
+      "duration": 1249.0,
+      "title": "DBF2020 Presents: Have you seen the Dublin Vampire? with Una Woods"
+    },
+    {
+      "id": "cNerN4s_YNQ",
+      "channel": "john taylor",
+      "duration": 141.0,
+      "title": "The Dublin vampire by Úna Woods"
+    },
+    {
+      "id": "cgHocSPHUlg",
+      "channel": "Limerick Libraries",
+      "duration": 263.0,
+      "title": "Storytime with Pam - Have You Seen the Dublin Vampire ?"
+    }
+  ]
+}

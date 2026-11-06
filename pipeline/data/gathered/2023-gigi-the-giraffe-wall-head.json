@@ -1,0 +1,60 @@
+{
+  "id": "2023-gigi-the-giraffe-wall-head",
+  "year": 2023,
+  "name": "Gigi the Giraffe Wall Head",
+  "price_eur": 94.95,
+  "price_text": "€94.95",
+  "retailers": [
+    {
+      "name": "Little Angel Rose",
+      "url": "https://www.littleangelrose.com/products/giraffe-animal-wall-head"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/products/giraffe-animal-wall-head",
+      "title": "Gigi the Giraffe Wall Head",
+      "description": "Gigi the Giraffe Wall Head is beautifully handcrafted, will decorate your nursery, children's room or playroom adding that touch of fun and character, you can also complete it with our jungle theme wicker head wall decorations. Easy wall hanging, Lightweight. Dimensions including:  35cm L x 65 cm H x 35cm D As seen on",
+      "image": "http://www.littleangelrose.com/cdn/shop/products/image_d97e7319-ca41-4192-b143-5ad964fd02a3.jpg?v=1656459417",
+      "ld_description": "Gigi the Giraffe Wall Head is beautifully handcrafted, will decorate your nursery, children's room or playroom adding that touch of fun and character, you can also complete it with our jungle theme wicker head wall decorations.\nEasy wall hanging, Lightweight.\nDimensions including:  35cm L x 65 cm H x 35cm D\nAs seen on the Late Late Toy Show 2024!\n\nAll our rattan products are ethically made in Bali, Indonesia. Each piece completely hand crafted and unique. Small variations of texture, shape and size can occur due to its natural nature",
+      "brand": "Little AngelRose",
+      "ld_image": "https://www.littleangelrose.com/cdn/shop/products/image_d97e7319-ca41-4192-b143-5ad964fd02a3_2728x.jpg?v=1656459417"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Yz-Uc7BgCS4",
+      "channel": "Butterfly Craft",
+      "duration": 804.0,
+      "title": "Giraffe head applique / Crochet Giraffe Easy Pattern For Beginners Baby Blanket  Applique / RAOCK"
+    },
+    {
+      "id": "Qbu8nSuFGSY",
+      "channel": "Johnson Smith",
+      "duration": 15.0,
+      "title": "14101 Animated Giggling Giraffe"
+    },
+    {
+      "id": "caWM-RxTC-8",
+      "channel": "MoMoral - Nursery Rhymes",
+      "duration": 207.0,
+      "title": "Rain Rain Go Away | Kids Songs | Momoral - Nursery Rhymes"
+    },
+    {
+      "id": "xwncycP5dL0",
+      "channel": "Tommy's sheep crochet and knitting",
+      "duration": 3253.0,
+      "title": "Crochet Giraffe Lovey TUTORIAL - head, ears, horns / cuddler / comforter / snuggle toy / Part 1"
+    },
+    {
+      "id": "20y98CtRljc",
+      "channel": "Zachawry",
+      "duration": 509.0,
+      "title": "The Giraffe is Very Tall"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2021-lego-super-mario-bowser-s-airship",
+  "year": 2021,
+  "name": "LEGO Super Mario Bowser's Airship",
+  "price_eur": 99.99,
+  "price_text": "€99.99",
+  "retailers": [
+    {
+      "name": "LEGO.com/Toyshops Nationwide",
+      "url": "https://www.lego.com/en-ie/product/bowser-s-airship-expansion-set-71391"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/bowser-s-airship-expansion-set-71391"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4jA1WLzwp0I",
+      "channel": "just2good",
+      "duration": 925.0,
+      "title": "LEGO Super Mario Bowser’s Airship REVIEW! 2021 set 71391!"
+    },
+    {
+      "id": "1OCQTP-VzKk",
+      "channel": "All New Bricks",
+      "duration": 597.0,
+      "title": "Lego Super Mario 71391 Bowser’s Airship Expansion Set with Luigi"
+    },
+    {
+      "id": "lLjaYclbHoc",
+      "channel": "BCStrike Productions",
+      "duration": 2564.0,
+      "title": "LEGO Super Mario Bowser’s Airship Set Instructions! Set 71391"
+    },
+    {
+      "id": "dmPr8b1qCa4",
+      "channel": "SquirrelStampede",
+      "duration": 1201.0,
+      "title": "LEGO Super Mario Bowser's Airship Speed Build Review"
+    },
+    {
+      "id": "qRAeqivOXjI",
+      "channel": "週末ひとりレゴ",
+      "duration": 335.0,
+      "title": "Larry's and Morton's Airships 71427 Lego Super Mario レゴスーパーマリオ ラリーとモートンのひこうせんかん"
+    }
+  ]
+}

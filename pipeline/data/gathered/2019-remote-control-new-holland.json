@@ -1,0 +1,57 @@
+{
+  "id": "2019-remote-control-new-holland",
+  "year": 2019,
+  "name": "Remote Control New Holland",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/other-radio-control/1-24-radio-control-new-holland-t7070/p/110088"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/other-radio-control/1-24-radio-control-new-holland-t7070/p/110088",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "siPYy7Rwl70",
+      "channel": "RC Toys World",
+      "duration": 343.0,
+      "title": "Siku Control  6797 New Holland T7  RC Tractor – Front Loader Work & Cattle Transport 🚜 "
+    },
+    {
+      "id": "O7QH7XINx6o",
+      "channel": "monsterchannel24",
+      "duration": 544.0,
+      "title": "INCREDIBLE! John  Deere, New Holland, Fendt, small scale rc farming!"
+    },
+    {
+      "id": "4Sz3pF7DA3o",
+      "channel": "RC T4K",
+      "duration": 637.0,
+      "title": "BRUDER TRACTOR RC New Holland T7.315 & RC John DEERE 9620"
+    },
+    {
+      "id": "zS-1dbMCnGE",
+      "channel": "Kids Zone",
+      "duration": 18.0,
+      "title": "Kids Zone - Siku New Holland T7.315 with Front loader and remote-control"
+    },
+    {
+      "id": "jlGUSgkYGEI",
+      "channel": "monsterchannel24",
+      "duration": 615.0,
+      "title": "RC TRUCKS! RC TRACTORS! JOHN DEERE, NEW HOLLAND, FENDT"
+    }
+  ]
+}

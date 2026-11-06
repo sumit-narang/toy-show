@@ -1,0 +1,61 @@
+{
+  "id": "2019-scunc-agus-smuir-n",
+  "year": 2019,
+  "name": "Scunc agus Smuirín",
+  "price_eur": 10.95,
+  "price_text": "€10.95",
+  "retailers": [
+    {
+      "name": "Futa Fata",
+      "url": "http://www.futafata.ie/Scunc-agus-smuirin-muireann-ni-chiobhain-paddy-donnelly"
+    },
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.futafata.ie/index.php?_route_=Scunc-agus-smuirin-muireann-ni-chiobhain-paddy-donnelly"
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NP75QmGLNWU",
+      "channel": "Muinteoir A",
+      "duration": 412.0,
+      "title": "Scúnc agus Smúirín - Scéalta le hAoife"
+    },
+    {
+      "id": "24Eh59h8eKo",
+      "channel": "Donegal County Council",
+      "duration": 696.0,
+      "title": "Wainfest 2021 - Scunc agus Smúirín le Muireann Ní Chíobháin Déardaoin 7ú 12:30 i.n."
+    },
+    {
+      "id": "-bRlIrVM6WU",
+      "channel": "Children's Books Ireland",
+      "duration": 464.0,
+      "title": "KPMG Children's Books Ireland Awards– Scúnc agus Smúirín with Muireann Ní Chíobháin & Paddy Donnelly"
+    },
+    {
+      "id": "vRXhL1W81SE",
+      "channel": "Clare Libraries",
+      "duration": 399.0,
+      "title": "Seachtain na Gaeilge 2021 - Scúnc agus Smúirín le Muireann Ní Chíobháin agus Paddy Donnelly"
+    },
+    {
+      "id": "NBrXDudzJZ4",
+      "channel": "Wicklow Libraries",
+      "duration": 309.0,
+      "title": "\"Scúnc Agus Smúirín\" written by Muireann Ní Chíobháin and illustrated by Paddy Donnelly."
+    }
+  ]
+}

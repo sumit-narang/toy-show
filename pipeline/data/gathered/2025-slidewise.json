@@ -1,0 +1,54 @@
+{
+  "id": "2025-slidewise",
+  "year": 2025,
+  "name": "Slidewise",
+  "price_eur": 19.95,
+  "price_text": "€19.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/slidewise"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/slidewise"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JLPJYRUd6GE",
+      "channel": "Educational Insights",
+      "duration": 54.0,
+      "title": "Slidewise™"
+    },
+    {
+      "id": "r4aRKsUKImE",
+      "channel": "NAPPA Awards",
+      "duration": 28.0,
+      "title": "Slidewise™ | 2025 NAPPA Award Winner"
+    },
+    {
+      "id": "0gfjcu9owug",
+      "channel": "Nicole Pegues",
+      "duration": 53.0,
+      "title": "What I noticed about this brain teaser puzzle word game"
+    },
+    {
+      "id": "47g-ZMYZR9E",
+      "channel": "Balaji Kalluri",
+      "duration": 159.0,
+      "title": "Slidewise - educational boardgame by Mahi Agarwal, Indira Shinde, & Tvisha Sharma"
+    },
+    {
+      "id": "El2cJ27WrQU",
+      "channel": "Indezine",
+      "duration": 393.0,
+      "title": "Exploring Neuxpower Slidewise"
+    }
+  ]
+}

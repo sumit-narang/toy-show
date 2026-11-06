@@ -1,0 +1,53 @@
+{
+  "id": "2024-jcb-ride-on",
+  "year": 2024,
+  "name": "JCB Ride-on",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MXOn9o2wo6g",
+      "channel": "First Ride On",
+      "duration": 43.0,
+      "title": "Kid’s First Construction Ride! 🚜 Real Ride-On Excavator Toy | FirstRideOn"
+    },
+    {
+      "id": "n1myn9VS_JI",
+      "channel": "First Ride On",
+      "duration": 351.0,
+      "title": "How to Assemble the JCB 12V Excavator Ride-On | Step-by-Step Installation Guide | FirstRideOn"
+    },
+    {
+      "id": "McHQh_wkXmo",
+      "channel": "Smyths Toys Superstores",
+      "duration": 29.0,
+      "title": "CAT Tip Truck 12V Ride On - Smyths Toys"
+    },
+    {
+      "id": "Ofpok5CQ6N8",
+      "channel": "Eclectic Ideas",
+      "duration": 384.0,
+      "title": "Firstrideon Demo JCB Kids First Ride On Car & Excavator #firstrideon"
+    },
+    {
+      "id": "ym6xcDzilfc",
+      "channel": "JOYLDIAS",
+      "duration": 91.0,
+      "title": "JOYLDIAS 360 Degree Rotating Ride On Excavator and Bulldozer"
+    }
+  ]
+}

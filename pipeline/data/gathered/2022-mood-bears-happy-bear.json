@@ -1,0 +1,54 @@
+{
+  "id": "2022-mood-bears-happy-bear",
+  "year": 2022,
+  "name": "Mood Bears Happy Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fsoR3VWSpns",
+      "channel": "Mood Bears",
+      "duration": 55.0,
+      "title": "Mood Bears - Happy Bear - Teddy Bear - Hugs - Support - Childrens video"
+    },
+    {
+      "id": "sHAy2_-v-G4",
+      "channel": "Mood Bears",
+      "duration": 285.0,
+      "title": "Happy Bear's Good Deed Challenge! | Mood Bears: The Series | Episode 7"
+    },
+    {
+      "id": "6G_fia1R0lg",
+      "channel": "Dragons' Den",
+      "duration": 676.0,
+      "title": "This Product Encourages Talking About Mental Health | Dragons' Den"
+    },
+    {
+      "id": "cd4qpkMQXKw",
+      "channel": "Mood Bears",
+      "duration": 341.0,
+      "title": "Sad Bear's Rainy Day | Mood Bears: The Series | Episode 6"
+    },
+    {
+      "id": "V2C5HlQGECk",
+      "channel": "Mood Bears",
+      "duration": 31.0,
+      "title": "Mood Bears are here to help you all."
+    }
+  ]
+}

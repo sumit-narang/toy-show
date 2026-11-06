@@ -1,0 +1,41 @@
+{
+  "id": "2017-holler-and-glow-holler-back-hydrating-mask",
+  "year": 2017,
+  "name": "Holler and Glow \"holler back\" Hydrating Mask",
+  "price_eur": 4.0,
+  "price_text": "€4.00",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "06pTDxSp0rk",
+      "channel": "What Luce Does",
+      "duration": 279.0,
+      "title": "HOLOGRAPHIC SHEET MASK??!! HIT OR SH!T"
+    },
+    {
+      "id": "4G60V3yucOM",
+      "channel": "Laura Ruth",
+      "duration": 413.0,
+      "title": "TESTING 7 DRUGSTORE SHEET MASKS IN 7 DAYS ALL UNDER £5!"
+    },
+    {
+      "id": "HHkNlJNiOo0",
+      "channel": "Georgia Rankin",
+      "duration": 2008.0,
+      "title": "HUGE PR /PO BOX HAUL...I CAN'T BELIEVE THIS 😭 I GOT SENT WHAT? 😱"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-thomas-friends-large-motorised-engine-duchess",
+  "year": 2020,
+  "name": "Thomas & Friends Large Motorised Engine - Duchess",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/thomas-friends-large-motorised-engine-duchess/1600482524.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/thomas-friends-large-motorised-engine-duchess/1600482524.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xpJAZX3VIe0",
+      "channel": "Express Collector",
+      "duration": 461.0,
+      "title": "Thomas Motorized Duchess The Royal Engine Unboxing, Review, and First Run"
+    },
+    {
+      "id": "ky1bpQtqR48",
+      "channel": "Merritt Trainboy",
+      "duration": 258.0,
+      "title": "Thomas & Friends Motorized Duchess unboxing review & run"
+    },
+    {
+      "id": "MHoc9aYzZoE",
+      "channel": "Rick046",
+      "duration": 373.0,
+      "title": "Thomas & Friends - Duchess of Loughborough (HD)"
+    },
+    {
+      "id": "pUkuVgPCqTY",
+      "channel": "Thomas & Friends",
+      "duration": 110.0,
+      "title": "Thomas & Friends™ | Meet the Character - Duchess | Season 24 - The Royal Engine | Cartoons for Kids"
+    },
+    {
+      "id": "M0Zst-XLOfE",
+      "channel": "Hugo Valentin",
+      "duration": 464.0,
+      "title": "Duchess Unboxing"
+    }
+  ]
+}

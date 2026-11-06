@@ -1,0 +1,54 @@
+{
+  "id": "2022-darth-vadar-savings-bank",
+  "year": 2022,
+  "name": "Darth Vadar Savings Bank",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gDtDf_vYmTc",
+      "channel": "ScarHeadFaced",
+      "duration": 34.0,
+      "title": "Darth Vader Money Box"
+    },
+    {
+      "id": "sxU0XOsKruk",
+      "channel": "CoolThings Australia",
+      "duration": 30.0,
+      "title": "Star Wars Darth Vader PVC Bank"
+    },
+    {
+      "id": "2xZql9fRZiU",
+      "channel": "wokoz",
+      "duration": 32.0,
+      "title": "talking darth vader money box"
+    },
+    {
+      "id": "XQBVHCqKoOA",
+      "channel": "Masquerade",
+      "duration": 126.0,
+      "title": "Star Wars The Clone Wars - Darth Vader finds Ahsoka's Lightsaber"
+    },
+    {
+      "id": "Yx29h9gM6cg",
+      "channel": "Jeff MusicMan ASMR",
+      "duration": 38.0,
+      "title": "My Darth Vader Money Box"
+    }
+  ]
+}

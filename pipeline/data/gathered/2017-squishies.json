@@ -1,0 +1,64 @@
+{
+  "id": "2017-squishies",
+  "year": 2017,
+  "name": "Squishies",
+  "price_eur": 4.99,
+  "price_text": "€4.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Fix7HQBfnEE",
+      "channel": "PurpleStars02 and HallieOnStage114",
+      "duration": 974.0,
+      "title": "CUTTING OPEN VIRAL SQUISHIES IN ONE COLOR ONLY 💜💗💙 #squishies #trending #satisfying #viral #color "
+    },
+    {
+      "id": "DE3vdnuM3Os",
+      "channel": "It’Sarah 💜",
+      "duration": 663.0,
+      "title": "SQUISHY TRADING My Sister! *I SCAMMED HER* 😳✅❌"
+    },
+    {
+      "id": "Wb1knFUrNlg",
+      "channel": "It’Sarah 💜",
+      "duration": 593.0,
+      "title": "I Found VIRAL SQUISHIES in the TRASH! 😱😳🗑️"
+    },
+    {
+      "id": "W2yqmpO98Cc",
+      "channel": "Affafy",
+      "duration": 836.0,
+      "title": "World’s Most SATISFYING Squishies!"
+    },
+    {
+      "id": "umOeNzLT0bI",
+      "channel": "Anna Altamirano",
+      "duration": 739.0,
+      "title": "I Tested the most Haunted Squishies I could find!"
+    }
+  ]
+}

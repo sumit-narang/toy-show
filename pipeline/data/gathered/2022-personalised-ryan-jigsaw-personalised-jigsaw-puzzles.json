@@ -1,0 +1,57 @@
+{
+  "id": "2022-personalised-ryan-jigsaw-personalised-jigsaw-puzzles",
+  "year": 2022,
+  "name": "Personalised Ryan Jigsaw Personalised Jigsaw Puzzles",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Wentworth Puzzles",
+      "url": "http://wentworthpuzzles.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.wentworthpuzzles.com/",
+      "title": "Wentworth Wooden Puzzles | Christmas Jigsaw Puzzles 2026",
+      "description": "10% off all full priced puzzles on orders over £30, with code HPUKXM261. Our new jigsaw puzzle collection features beautiful Christmas scenes and colourful favourites. Discover handcrafted wooden puzzles with charming designs, ideal for family fun and unique gifts.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7dG2l1Xh4Vw",
+      "channel": "What We Recommend?",
+      "duration": 302.0,
+      "title": "Review of Wooden Toddler Puzzles, Chunky Animal Easy Jigsaw Baby Puzzle for 1 2 3 Year Old Boys"
+    },
+    {
+      "id": "wRSFUFqtMj8",
+      "channel": "Fat Brain Toy Co.",
+      "duration": 65.0,
+      "title": "Yottsugo by Fat Brain Toy Co."
+    },
+    {
+      "id": "XRAnVpCvDH0",
+      "channel": "Shopper& Reviewer",
+      "duration": 605.0,
+      "title": "ZiGYASAW World Map  Large Floor 54 Piece Jigsaw Puzzles for Kids with Interactive Quiz Cards"
+    },
+    {
+      "id": "YSVtaKBElIU",
+      "channel": "martywolfman",
+      "duration": 357.0,
+      "title": "Rubik cube type puzzle unboxing from WitEden"
+    },
+    {
+      "id": "Db_dzyyBTX4",
+      "channel": "TIM&RYAN Family",
+      "duration": 439.0,
+      "title": "The PJMasks Puzzle for kids, dollar tree store"
+    }
+  ]
+}

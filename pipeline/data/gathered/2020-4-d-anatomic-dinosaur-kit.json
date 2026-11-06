@@ -1,0 +1,60 @@
+{
+  "id": "2020-4-d-anatomic-dinosaur-kit",
+  "year": 2020,
+  "name": "4-D Anatomic Dinosaur Kit",
+  "price_eur": 19.67,
+  "price_text": "€19.67",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/stem/fao-schwarz/anatomic-dinosaur-kit/144663647.html?cgid=shop-by-department-toys-stem#start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/science-education/fao-schwarz/anatomic-dinosaur-kit/144663647.html?cgid=shop-by-department-toys-stem#start=1",
+      "title": "FAO SCHWARZ Discovery Anatomic Dinosaur Kit - Multi",
+      "description": "Learn all about the King of the Dinosaurs with this Anatomic Dinosaur Kit by Discovery. See what lies behind the T-Rexs fearsome persona with this see-through exterior, and find out what being a dinosaur is really all about.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000075824_01.jpg?$product_tile_plp$",
+      "ld_description": "Learn all about the King of the Dinosaurs with this Anatomic Dinosaur Kit by Discovery. See what lies behind the T-Rex's fearsome persona with this see-through exterior, and find out what being a dinosaur is really all about.",
+      "brand": "FAO SCHWARZ",
+      "ld_image": "https://images.brownthomas.com/bta/2000075824_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KwpoKby5lGI",
+      "channel": "Hudson’s Happenings",
+      "duration": 1213.0,
+      "title": "Discovery #MINDBLOWN 4D T-Rex Anatomy Kit"
+    },
+    {
+      "id": "KYbo0vQM-4Y",
+      "channel": "Kathrins Dinoversum",
+      "duration": 473.0,
+      "title": "4D Vision Anatomy Model -Triceratops - Review #188 (german)"
+    },
+    {
+      "id": "BATeGyXfTQk",
+      "channel": "INVISIGOTH",
+      "duration": 1604.0,
+      "title": "Building: 4D Vision VELOCIRAPTOR Anatomy Model Kit by 4D Master"
+    },
+    {
+      "id": "dX_okO3VcO4",
+      "channel": "Kathrins Dinoversum",
+      "duration": 545.0,
+      "title": "4D Vision Anatomy Model / Tyrannosaurus - Review #186 (german)"
+    },
+    {
+      "id": "LCeJBUrfaoE",
+      "channel": "Bulk buy collector 「大人買いコレクター」",
+      "duration": 1353.0,
+      "title": "\"4D VISION\" Assemble an anatomical model of an animal with a three-dimensional puzzle ♪"
+    }
+  ]
+}

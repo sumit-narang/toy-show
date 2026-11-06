@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-lost-girl-catherine-doyle",
+  "year": 2022,
+  "name": "The Lost Girl - Catherine Doyle",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "D2nbdhun5jk",
+      "channel": "ReadingZone Bookclub",
+      "duration": 371.0,
+      "title": "Catherine Doyle introduces The Lost Girl King, plus a reading"
+    },
+    {
+      "id": "5RWyfFU8dSM",
+      "channel": "Google Play Books",
+      "duration": 934.0,
+      "title": "The Lost Girl King by Catherine Doyle · Audiobook preview"
+    },
+    {
+      "id": "dXUj80Yn1T4",
+      "channel": "Read Read Hurray!",
+      "duration": 891.0,
+      "title": "The Lost Girl King ǀ Book Review by 10 year-old Megan"
+    },
+    {
+      "id": "VG_bnlfYZ7M",
+      "channel": "Children's Books Ireland",
+      "duration": 396.0,
+      "title": "The Lost Girl King; KPMG Children's Books Ireland Awards 2023"
+    },
+    {
+      "id": "nZMO82v5Nso",
+      "channel": "Free Audiobook",
+      "duration": 300.0,
+      "title": "The Lost Girl King Audiobook by Catherine Doyle"
+    }
+  ]
+}

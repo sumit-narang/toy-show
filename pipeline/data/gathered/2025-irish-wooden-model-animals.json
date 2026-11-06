@@ -1,0 +1,54 @@
+{
+  "id": "2025-irish-wooden-model-animals",
+  "year": 2025,
+  "name": "Irish Wooden Model Animals",
+  "price_eur": 4.8,
+  "price_text": "€4.80",
+  "retailers": [
+    {
+      "name": "Pop Out Projects",
+      "url": "https://www.popoutprojects.com/products/irish-animal-wooden-models?variant=50249440559429"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.popoutprojects.com/products/irish-animal-wooden-models?variant=50249440559429"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "plEQRjRtiFU",
+      "channel": "Ugears Ireland",
+      "duration": 37.0,
+      "title": "Ugears Ireland - Stegosaurus model kit"
+    },
+    {
+      "id": "6GoqrlvMQvM",
+      "channel": "Robert E Fuller",
+      "duration": 407.0,
+      "title": "Stoat Adventures in Ash Wood 🐾| Discover Wildlife | Robert E Fuller"
+    },
+    {
+      "id": "6z_eVBo4-lg",
+      "channel": "Thenet Ireland - Digital Marketing Specialists",
+      "duration": 49.0,
+      "title": "Wooden Dog Kennels Ireland"
+    },
+    {
+      "id": "P9P4E1ojWF4",
+      "channel": "QVC",
+      "duration": 252.0,
+      "title": "Irish Handmade Glass Company Animal Figurine on QVC"
+    },
+    {
+      "id": "sSXQFzA5aFw",
+      "channel": "Toys and Games Ireland",
+      "duration": 61.0,
+      "title": "Arranging Game Animal Blocks"
+    }
+  ]
+}

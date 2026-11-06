@@ -1,0 +1,57 @@
+{
+  "id": "2019-runbike",
+  "year": 2019,
+  "name": "RunBike",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Ro Óg",
+      "url": "https://www.roogltd.com/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://roogltd.com/",
+      "title": "Home - Ro Og - Handcrafted Toys",
+      "description": "Irish designed, high-quality, handcrafted timber toys that can be passed from generation to generation.",
+      "image": "https://roogltd.com/wp-content/uploads/2022/10/Ro_Og_Logo-removebg-preview.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q1CWXoCBRxY",
+      "channel": "RunbikingLaurini",
+      "duration": 107.0,
+      "title": "Runbike - fmx jam freestyle Troja"
+    },
+    {
+      "id": "9aimt8dmLng",
+      "channel": "Kokua Bikes UA",
+      "duration": 163.0,
+      "title": "jackson run bike to kindergarten"
+    },
+    {
+      "id": "t6zvJtCkwOw",
+      "channel": "RunbikingLaurini",
+      "duration": 85.0,
+      "title": "Runbike tricks - freestyle"
+    },
+    {
+      "id": "2Uv-0ePaC5U",
+      "channel": "Metabo Takechan",
+      "duration": 76.0,
+      "title": "Wild Runner Cup 6th , 4 years old , Final race , Strider racing in Japan"
+    },
+    {
+      "id": "BPwCNHZJtf0",
+      "channel": "RunBike",
+      "duration": 1826.0,
+      "title": "2026 10 10 Cykeltur 140km"
+    }
+  ]
+}

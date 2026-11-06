@@ -1,0 +1,54 @@
+{
+  "id": "2022-m-d-winged-dragon",
+  "year": 2022,
+  "name": "M&D WINGED DRAGON",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "POPWDHPdnto",
+      "channel": "M&D.Channel.",
+      "duration": 113.0,
+      "title": "How to build with lego. Long winged dragon"
+    },
+    {
+      "id": "NiUHu5IEgSk",
+      "channel": "Jordeezy",
+      "duration": 894.0,
+      "title": "[4K] {PC} THE WINGED DRAGON OF RA Deck (F2P) ~ YGO MD (Ranked Duels)"
+    },
+    {
+      "id": "8Xs1KpeyMyQ",
+      "channel": "YGO Madness",
+      "duration": 81.0,
+      "title": "Winged Dragon of Ra Back When It Was STILL This Bad 💀"
+    },
+    {
+      "id": "D5167o81Zbo",
+      "channel": "Maé",
+      "duration": 718.0,
+      "title": "THIS WINGED DRAGON OF RA DECK IS UNSTOPPABLE! Marik Ishtar's Ultimate Egyptian God Deck 2026!"
+    },
+    {
+      "id": "0lhUr1ErCAs",
+      "channel": "TeamSamuraiX1",
+      "duration": 1612.0,
+      "title": "NEW PHOENIX GOD UPGRADE?! - MARIK'S NEW WINGED DRAGON OF RA Deck IS BROKEN In Yu-Gi-Oh! Master Duel!"
+    }
+  ]
+}

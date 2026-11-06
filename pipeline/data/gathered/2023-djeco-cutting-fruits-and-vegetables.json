@@ -1,0 +1,60 @@
+{
+  "id": "2023-djeco-cutting-fruits-and-vegetables",
+  "year": 2023,
+  "name": "Djeco Cutting Fruits and Vegetables",
+  "price_eur": 22.0,
+  "price_text": "€22.00",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/djeco/djeco/cutting-fruit-and-vegetables-wooden-toy-set/166071941.html?cgid=djeco#start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/djeco/djeco/cutting-fruit-and-vegetables-wooden-toy-set/166071941.html?cgid=djeco#start=1",
+      "title": "DJECO Cutting Fruit And Vegetables Wooden Toy Set - Multi",
+      "description": "Theres never a dull moment with Djeco and their endless array of fun-filled toys. From mind-stimulating puzzles to craft kits and games, theres something to keep every child entertained.",
+      "image": "https://images.brownthomas.com/bta/2000545117_01.jpg?$product_tile_plp$",
+      "ld_description": "There's never a dull moment with Djeco and their endless array of fun-filled toys. From mind-stimulating puzzles to craft kits and games, there's something to keep every child entertained.",
+      "brand": "DJECO",
+      "ld_image": "https://images.brownthomas.com/bta/2000545117_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l0ngF9mMZbA",
+      "channel": "Gekkotoys - Djeco játékok",
+      "duration": 30.0,
+      "title": "Szeletelhető gyümölcsök - Fruits & vegetables to cut - Djeco Gekkotoys.hu"
+    },
+    {
+      "id": "mq2zXA6JJAM",
+      "channel": "NRHolding - Mall by Allegro",
+      "duration": 69.0,
+      "title": "Viga Dřevěné krájení - ovoce"
+    },
+    {
+      "id": "Af-i_3XNmUc",
+      "channel": "Chytrá Opička",
+      "duration": 53.0,
+      "title": "Peta s hraje - krajeni ovoce djeco"
+    },
+    {
+      "id": "wdJZVnyOtcg",
+      "channel": "Alice Toys",
+      "duration": 150.0,
+      "title": "Hape toys. Alice is cutting vegetables"
+    },
+    {
+      "id": "_cMl8jLam1o",
+      "channel": "Gekkotoys - Djeco játékok",
+      "duration": 26.0,
+      "title": "Alakzatok és formák - Eduludo shapes - Djeco Gekkotoys.hu"
+    }
+  ]
+}

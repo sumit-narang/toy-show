@@ -1,0 +1,60 @@
+{
+  "id": "2022-dance-with-oti-the-lion-samba-by-oti-mabuse",
+  "year": 2022,
+  "name": "Dance with Oti, The Lion Samba by Oti Mabuse",
+  "price_eur": 18.2,
+  "price_text": "€18.20",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/product/the-lion-samba-9781529500783"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/the-lion-samba-9781529500783",
+      "title": "The Lion Samba - Dubray Books",
+      "description": "Dance yourself happy with the second, samba spectacular picture book by dancing superstar, Oti Mabuse. It's time for Oti's dance class! Join Oti and her class for their first dance show, and learn \"The Lion Samba\" in ten easy steps.  The children are excited to return to dance class with Mrs Oti and waste no time preparing for their animal-themed dance show. Mrs Oti teaches them all about animal movements and how they can be used in their dance. From stomping like an elephant, stretching up high like a giraffe or even shaking your mane like a lion, there's so much fun to be had. But when disaster strikes on the day of the show, it seems like all of their hard work has been for nothing. Luckily for the children, Mrs Oti is on hand, and soon they realize that a little bit of courage can go a long way.  Written by Strictly Come Dancing superstar, Oti Mabuse, this heartwarming picture book will dance into the hands of families who have loved watching Oti on-screen.",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "Dance yourself happy with the second, samba spectacular picture book by dancing superstar, Oti Mabuse. It's time for Oti's dance class! Join Oti and her class for their first dance show, and learn \"The Lion Samba\" in ten easy steps.  The children are excited to return to dance class with Mrs Oti and waste no time preparing for their animal-themed dance show. Mrs Oti teaches them all about animal movements and how they can be used in their dance. From stomping like an elephant, stretching up high like a giraffe or even shaking your mane like a lion, there's so much fun to be had. But when disaster strikes on the day of the show, it seems like all of their hard work has been for nothing. Luckily for the children, Mrs Oti is on hand, and soon they realize that a little bit of courage can go a long way.  Written by Strictly Come Dancing superstar, Oti Mabuse, this heartwarming picture book will dance into the hands of families who have loved watching Oti on-screen.",
+      "brand": "Oti Mabuse",
+      "ld_image": "https://media.dubraybooks.ie/m/44c0b8b4df7b3dfd/original/9781529500783_5639094743.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jJTxu0cm5zM",
+      "channel": "Walker Books",
+      "duration": 43.0,
+      "title": "Dance with Oti: The Lion Samba - Book Trailer"
+    },
+    {
+      "id": "UkP573_d0JU",
+      "channel": "Ray Ray Reads | Draws & Explores ",
+      "duration": 448.0,
+      "title": "Dance with Oti: The Lion Samba | Multicultural Kids Book Read Aloud"
+    },
+    {
+      "id": "CABJfSW6MXE",
+      "channel": "BBC Strictly Come Dancing",
+      "duration": 133.0,
+      "title": "Danny Mac & Oti Mabuse Samba to ‘Magalenha’ by Sergio Mendes - Strictly Come Dancing 2016: Week 10"
+    },
+    {
+      "id": "z7I_TFryYNA",
+      "channel": "Walker Books",
+      "duration": 33.0,
+      "title": "Dance with Oti by Oti Mabuse - book trailer"
+    },
+    {
+      "id": "Bpl0i11XqXk",
+      "channel": "BBC",
+      "duration": 444.0,
+      "title": "Kelvin and Oti's sizzling Samba turns up the heat 🔥👏 - BBC Strictly"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-cutetitos",
+  "year": 2019,
+  "name": "Cutetitos",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/search/?text=cutitios"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/search/?text=cutitios",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VZh4ysa0-7U",
+      "channel": "Miss Cherry's Collectibles",
+      "duration": 746.0,
+      "title": "Huge Cutetitos Unboxing! Cutetitos Pizzaitos & Cutetitos Taste Budditos BFFs! 🍕🍞🍜💃"
+    },
+    {
+      "id": "n2rFtRCWrxA",
+      "channel": "pstoyreviews",
+      "duration": 867.0,
+      "title": "Cutetitos Carnivalitos Blind Bag Scented Plush Opening Review | PSToyReviews"
+    },
+    {
+      "id": "Chnola-qsn4",
+      "channel": "Cutetitos",
+      "duration": 15.0,
+      "title": "Cutetitos :15 Commercial 2018"
+    },
+    {
+      "id": "ahleoRgu0C8",
+      "channel": "pstoyreviews",
+      "duration": 689.0,
+      "title": "Opening Cutetitos Taste Budditos 2 Packs With My BFF Unboxing Review | PSToyReviews"
+    },
+    {
+      "id": "pePnx9CIhL0",
+      "channel": "Cutetitos",
+      "duration": 32.0,
+      "title": "Cutetitos :30 Commercial 2018"
+    }
+  ]
+}

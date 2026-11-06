@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-sam-armchair-grey",
+  "year": 2022,
+  "name": "The Sam Armchair (grey)",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "X7ve-q4SDBY",
+      "channel": "Danetti",
+      "duration": 26.0,
+      "title": "Arianna Light Grey Corner Chaise Function"
+    },
+    {
+      "id": "3mLM1aICXUE",
+      "channel": "Theater Seat Store",
+      "duration": 67.0,
+      "title": "Octane Flex HR Smoke Grey Guide: Modular L/U, Curved & 4-Seat Sofa Compared"
+    },
+    {
+      "id": "aKrHLiW314c",
+      "channel": "Review Central",
+      "duration": 175.0,
+      "title": "Dowinx Office Grey Chair Review – Is It Really That Comfortable?"
+    },
+    {
+      "id": "f8cdAmHBiRs",
+      "channel": "Product and Movie Reviews",
+      "duration": 31.0,
+      "title": "IKEA MARKUS OFFICE CHAIR VISSLE DARK GREY CLOSER LOOK IKEA FURNITURE SHOPPING CHAIRS ARMCHAIRS"
+    },
+    {
+      "id": "mdJhf3jJEow",
+      "channel": "Hiep Tu",
+      "duration": 101.0,
+      "title": "LUXSPA x8 HB550 Grey Pedicure Chairs For Mr Sam KY Quality Check for Order #51689"
+    }
+  ]
+}

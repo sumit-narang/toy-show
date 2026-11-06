@@ -1,0 +1,57 @@
+{
+  "id": "2019-wooden-kitchen",
+  "year": 2019,
+  "name": "Wooden Kitchen",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Trove",
+      "url": "https://trove.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.trove.ie/",
+      "title": "Professional Web Design & Development Services | Trove Digital",
+      "description": "Need a high-performance website? Trove Digital delivers expert web design and development solutions tailored to your business goals.",
+      "image": "https://www.trove.ie/wp-content/uploads/2023/03/webdevelopment-1.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gCWQsbbYd68",
+      "channel": "Mini toys",
+      "duration": 4041.0,
+      "title": "Satisfying with Unboxing Cute Wooden Kitchen PlaySet Toys Review | ASMR"
+    },
+    {
+      "id": "Dr-y2VlcfF8",
+      "channel": "Mira joy",
+      "duration": 486.0,
+      "title": "ASMR ✨ Organizing My Cozy Wooden Toy Kitchen"
+    },
+    {
+      "id": "_dEtTeCWmac",
+      "channel": "Mira joy",
+      "duration": 614.0,
+      "title": "ASMR ✨ Organizing My Wooden Toy Kitchen Corner"
+    },
+    {
+      "id": "oOLKGfrLNkI",
+      "channel": "Probably Worth Sharing with Marko Savic",
+      "duration": 1686.0,
+      "title": "My Walnut Kitchen Reno"
+    },
+    {
+      "id": "InCmjvEn12k",
+      "channel": "Home Color Trends",
+      "duration": 315.0,
+      "title": "Top 7 Wood Kitchen Designs You’ll Still Love in 10 Years"
+    }
+  ]
+}

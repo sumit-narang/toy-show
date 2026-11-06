@@ -1,0 +1,64 @@
+{
+  "id": "2017-l-o-l-dolls-assorted",
+  "year": 2017,
+  "name": "L.O.L Dolls Assorted",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yRDZDZe9ZLY",
+      "channel": "MGA Entertainment",
+      "duration": 31.0,
+      "title": "L.O.L. Surprise Queens | LOL Surprise"
+    },
+    {
+      "id": "8dP1-qZLr7I",
+      "channel": "SLICK SLIME SAM Live",
+      "duration": 1307.0,
+      "title": "L.O.L. Surprise || Amazing Glamper And Car For L.O.L. Cuties"
+    },
+    {
+      "id": "SNDQBfMyJw8",
+      "channel": "MGA Entertainment",
+      "duration": 61.0,
+      "title": "L.O.L. Surprise! All-Star Sports Gymnastics Dolls | L.O.L. Surprise!"
+    },
+    {
+      "id": "QZsofYiEaUY",
+      "channel": "The Doll Archives",
+      "duration": 603.0,
+      "title": "Unboxing LOL Surprise HELLO KITTY 50th Anniversary Dolls!"
+    },
+    {
+      "id": "d3TCwnzklwA",
+      "channel": "MGA Entertainment",
+      "duration": 74.0,
+      "title": "OMG Sweet Nails | L.O.L. Surprise!"
+    }
+  ]
+}

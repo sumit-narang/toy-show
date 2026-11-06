@@ -1,0 +1,60 @@
+{
+  "id": "2020-a-really-short-history-of-nearly-everything-by-bill-bryson",
+  "year": 2020,
+  "name": "A Really Short History of Nearly Everything by Bill Bryson",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/a-really-short-history-of-nearly-everything-bill-bryson-9780241451939"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/a-really-short-history-of-nearly-everything-bill-bryson-9780241451939",
+      "title": "Buy A Really Short History Of Nearly Everything Book at Easons",
+      "description": "Perfect for ages 8 to 80!  Adapted from A Short History of Nearly Everything, this stunningly illustrated book from Bill Bryson takes us from the Big Bang to the dawn of science, and everything in between! Ever wondered how we got from nothing to something",
+      "image": null,
+      "ld_description": "Perfect for ages 8 to 80!  Adapted from A Short History of Nearly Everything, this stunningly illustrated book from Bill Bryson takes us from the Big Bang to the dawn of science, and everything in between! Ever wondered how we got from nothing to something? Or thought about how we can weigh the earth? Or wanted to reach the edge of the universe?Uncover the mysteries of time, space and life on earth in this extraordinary book - a journey from the centre of the planet, to the dawn of the dinosaurs, and everything in between. And discover our own incredible journey, from single cell to civilisation, including the brilliant (and sometimes very bizarre) scientists who helped us find out the how and why.The ideal book for curious young readers everywhere.   ************************************************************************Reviews for A Short History of Nearly Everything:'It's the sort of book I would have devoured as a teenager. It might well turn unsuspecting young readers into scientists.' Evening Standard'I doubt that a better book for the layman about the findings of modern science has been written' Sunday Telegraph   'A thoroughly enjoyable, as well as educational, experience. Nobody who reads it will ever look at the world around them in the same way again' Daily Express   'The very book I have been looking for most of my life' Daily Mail",
+      "brand": "Puffin",
+      "ld_image": "https://www.easons.com/images/m/eaded4701b557eb/original/9780241451939_5638886228.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3jxSsyRTdKk",
+      "channel": "Cuddle Book Nook: Flip-Throughs & More",
+      "duration": 216.0,
+      "title": "A Really Short History of Nearly Everything"
+    },
+    {
+      "id": "5IoQwUAFHWk",
+      "channel": "Radyo Dramas",
+      "duration": 68333.0,
+      "title": "A Short History of Nearly Everything | History FREE AUDIOBOOK"
+    },
+    {
+      "id": "qxNPNvygTH0",
+      "channel": "One Percent Better",
+      "duration": 307.0,
+      "title": "A Short History of Nearly Everything by Bill Bryson ► Animated Book Summary"
+    },
+    {
+      "id": "yQESO52U6x0",
+      "channel": "Sidmouth Library",
+      "duration": 91.0,
+      "title": "Book Recommendation: A Short History of Nearly Everything"
+    },
+    {
+      "id": "hgEMzeQBSMs",
+      "channel": "Ti Masakbayan Ilokano",
+      "duration": 68045.0,
+      "title": "A Short History of Nearly Everything | History FREE AUDIOBOOK"
+    }
+  ]
+}

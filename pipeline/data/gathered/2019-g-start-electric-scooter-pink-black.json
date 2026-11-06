@@ -1,0 +1,57 @@
+{
+  "id": "2019-g-start-electric-scooter-pink-black",
+  "year": 2019,
+  "name": "G-Start Electric Scooter Pink/Black",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/g-start-electric-scooter-pink-black/p/176264"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/g-start-electric-scooter-pink-black/p/176264",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xA4awEpoJKY",
+      "channel": "TCBOT",
+      "duration": 201.0,
+      "title": "g start  electric scooter  by smyths toys better than  razor  e90 and e100"
+    },
+    {
+      "id": "eacAlp16wsk",
+      "channel": "Reeceyguy",
+      "duration": 164.0,
+      "title": "G Start Electric Scooter Review"
+    },
+    {
+      "id": "7iOxFoBLd6M",
+      "channel": "Evan Carmichael",
+      "duration": 3309.0,
+      "title": "ALL OF PERSONAL BRANDING Explained in 55 Minutes (No BS, No Fluff)"
+    },
+    {
+      "id": "9lVEK0w8IWY",
+      "channel": "rsmclever",
+      "duration": 239.0,
+      "title": "Top 4 best electric scooter June 2021 price? Mileage? Electric scooter -Hindi"
+    },
+    {
+      "id": "6blIVMN7DFg",
+      "channel": "How I Did It",
+      "duration": 127.0,
+      "title": "You won't believe why my scooter wasn't charging"
+    }
+  ]
+}

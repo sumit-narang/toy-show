@@ -1,0 +1,57 @@
+{
+  "id": "2024-l-o-l-surprise-winter-snow-chalet",
+  "year": 2024,
+  "name": "L.O.L. Surprise! Winter Snow Chalet",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-chalet-playset/p/237622"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-chalet-playset/p/237622",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d7o08SSbq2M",
+      "channel": "Tallie's Tricks",
+      "duration": 516.0,
+      "title": "LOL Surprise Winter Snow Chalet"
+    },
+    {
+      "id": "vPierJOq9ts",
+      "channel": "pstoyreviews",
+      "duration": 1295.0,
+      "title": "LOL Surprise Chalet Winter Disco Dollhouse Unboxing & Review | PSToyReviews"
+    },
+    {
+      "id": "wKAmXCggE34",
+      "channel": "L.O.L. Surprise!",
+      "duration": 41.0,
+      "title": "Winter Disco Chalet Commercial | L.O.L. Surprise!"
+    },
+    {
+      "id": "mUOaj1vKhZk",
+      "channel": "Scoop on Stuff",
+      "duration": 1838.0,
+      "title": "HOW TO ASSEMBLE THE LOL SURPRISE WINTER DISCO CHALET | EASY STEP BY STEP VIDEO"
+    },
+    {
+      "id": "pOOzDXtoA0o",
+      "channel": "TTPM Toy Reviews",
+      "duration": 256.0,
+      "title": "L.O.L. Surprise! Winter Disco Chalet from MGA Entertainment"
+    }
+  ]
+}

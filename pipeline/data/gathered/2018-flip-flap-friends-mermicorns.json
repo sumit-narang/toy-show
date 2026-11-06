@@ -1,0 +1,57 @@
+{
+  "id": "2018-flip-flap-friends-mermicorns",
+  "year": 2018,
+  "name": "Flip-Flap Friends: Mermicorns",
+  "price_eur": 9.8,
+  "price_text": "€9.80",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fEm7Zo1FWW8",
+      "channel": "Jasmine's Reading Corner",
+      "duration": 420.0,
+      "title": "Flip-Flap Friends: Mermicorns - A Mix and Match Book | Online Picture Books | Kids Books Online"
+    },
+    {
+      "id": "SddgV5BpLGY",
+      "channel": "GJS Channel",
+      "duration": 31.0,
+      "title": "Mermicorn and Friends With A Surprise Under Every Flap!"
+    },
+    {
+      "id": "x0haQ81qlQU",
+      "channel": "Jasmine's Reading Corner",
+      "duration": 420.0,
+      "title": "Flip-Flap Friends: Mermicorns - A Mix and Match Book | Books For Kids Read Aloud"
+    },
+    {
+      "id": "XI3OoB9JX2w",
+      "channel": "GJS Channel",
+      "duration": 27.0,
+      "title": "Mermicorn and Friends With A Surprise Under Every Flap!"
+    },
+    {
+      "id": "z5lGBa4bVcE",
+      "channel": "Inspiring Books",
+      "duration": 26.0,
+      "title": "Mermicorn and Friends"
+    }
+  ]
+}

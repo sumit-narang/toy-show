@@ -1,0 +1,36 @@
+{
+  "id": "2024-ireland-s-call-six-nations-success-by-paul-o-flynn",
+  "year": 2024,
+  "name": "Ireland's Call: Six Nations Success by Paul O'Flynn",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/irelands-call-six-nations-success-hb-paul-o-flynn-9780717195909"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/irelands-call-six-nations-success-hb-paul-o-flynn-9780717195909"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nFN9atBe5Ic",
+      "channel": "Off The Ball",
+      "duration": 1685.0,
+      "title": "Brian O'Driscoll | Heineken Champions Cup Quarter Final Previews"
+    },
+    {
+      "id": "sMnhLeKKCGQ",
+      "channel": "Moss Joe Browne (Ballyduff Kerry)",
+      "duration": 65.0,
+      "title": "Working members of the County Kerry coursing club preparing for the Kingdom Cup meeting 2022."
+    }
+  ]
+}

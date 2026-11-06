@@ -1,0 +1,54 @@
+{
+  "id": "2025-pablo-and-splash-roman-holiday-by-sheena-dempsey",
+  "year": 2025,
+  "name": "Pablo and Splash: Roman Holiday by Sheena Dempsey",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/pablo-and-splash-roman-holiday?_pos=2&_sid=2792641b8&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/pablo-and-splash-roman-holiday?_pos=2&_sid=2792641b8&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Uzf9fY7QsVo",
+      "channel": "Bloomsbury Publishing",
+      "duration": 52.0,
+      "title": "Pablo & Splash: Roman Holiday by Sheena Dempsey"
+    },
+    {
+      "id": "V-vjDL_Xc5s",
+      "channel": "World Book Day",
+      "duration": 30.0,
+      "title": "World Book Day 2026, Sheena Dempsey, Pablo and Splash: The Castle Quest"
+    },
+    {
+      "id": "yxaJZH1MoHo",
+      "channel": "World Book Day",
+      "duration": 48.0,
+      "title": "World Book Day 2026: Sheena Dempsey - Who are you and what do you write?"
+    },
+    {
+      "id": "HXtsNRNpT1k",
+      "channel": "World Book Day",
+      "duration": 11.0,
+      "title": "World Book Day 2026: Sheena Dempsey, Pablo and Splash: The Castle Quest (10 second intro)"
+    },
+    {
+      "id": "Bb87bnJVDkQ",
+      "channel": "Daddy Mojo",
+      "duration": 137.0,
+      "title": "Pablo and Splash: Frozen In Time, wacky #graphicnovel for grades three and up, #booktube"
+    }
+  ]
+}

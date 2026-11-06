@@ -1,0 +1,57 @@
+{
+  "id": "2023-gabby-s-dollhouse-gabby-girl-doll",
+  "year": 2023,
+  "name": "Gabby's Dollhouse Gabby Girl Doll",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Toymaster",
+      "url": "https://www.toymasterballina.ie/gabbys-dollhouse---gabby-girl"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.toymasterballina.ie/gabbys-dollhouse---gabby-girl",
+      "title": "ecommercedns.uk - your DNS is configured correctly",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "N_mIvatvWmM",
+      "channel": "Gabby ASMR",
+      "duration": 6449.0,
+      "title": "GABBY’S DOLLHOUSE : 140 min Compilation - Satisfying Unboxing (ASMR)"
+    },
+    {
+      "id": "GNnr0MIjLIs",
+      "channel": "Happy Sweety ASMR",
+      "duration": 1340.0,
+      "title": "💥 TOP 4 most viewed GABBY‘S DOLLHOUSE videos 🤩 in 2024 | Funny Candy ASMR | Satisfying Video"
+    },
+    {
+      "id": "GWSLoT8WnwA",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 828.0,
+      "title": "Gabby's Dollhouse Toy Learning Video for Kids!"
+    },
+    {
+      "id": "zw0FHt470Xk",
+      "channel": "Toy Talks Learning",
+      "duration": 481.0,
+      "title": "GABBY'S DOLLHOUSE Gabby Girl On-The-Go Travel Set Unboxing Pretend Play"
+    },
+    {
+      "id": "c9O-XxZG65E",
+      "channel": "Gabby's Dollhouse",
+      "duration": 1390.0,
+      "title": "Gabby's SISTER Visits the Dollhouse! Meeting Doozie & Her Pal Puggie! 🐶 | GABBY'S DOLLHOUSE"
+    }
+  ]
+}

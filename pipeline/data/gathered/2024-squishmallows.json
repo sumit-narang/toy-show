@@ -1,0 +1,60 @@
+{
+  "id": "2024-squishmallows",
+  "year": 2024,
+  "name": "Squishmallows",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/squishmallows/maudie-the-pink-donkey-50cm/2000777841.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/teddy-bears-soft-toys/squishmallows/maudie-the-pink-donkey-50cm/2000777841.html",
+      "title": "SQUISHMALLOWS Maudie the Pink Donkey 50cm - Pink",
+      "description": "Squishmallows plush toys are here to fill your hearts with love and affection. Squishmallows offer comfort, support and warmth as friends, couch companions, bedtime buddies and travel teammates.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000777841_01.jpg?$product_tile_plp$",
+      "ld_description": "Squishmallows plush toys are here to fill your hearts with love and affection. Squishmallows offer comfort, support and warmth as friends, couch companions, bedtime buddies and travel teammates.",
+      "brand": "SQUISHMALLOWS",
+      "ld_image": "https://images.brownthomas.com/bta/2000777841_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zbn5D3SIJV8",
+      "channel": "SugarStar",
+      "duration": 7049.0,
+      "title": "OPENING *SO MANY* MYSTERY SQUISHMALLOWS! #squishmallows #unboxing"
+    },
+    {
+      "id": "g8E40jArMfE",
+      "channel": "Carter Kench",
+      "duration": 689.0,
+      "title": "MY SQUISHMALLOW COLLECTION (I lost count)"
+    },
+    {
+      "id": "IkR_PHp4YIY",
+      "channel": "Amyy Woahh",
+      "duration": 2350.0,
+      "title": "I Bought 50+ HAPPY MEALS to Collect ALL 23 SQUISHMALLOWS! *FIFA World Cup 2026*"
+    },
+    {
+      "id": "uTjj6qAn8pg",
+      "channel": "Guinness World Records",
+      "duration": 327.0,
+      "title": "Largest Squishmallow Collection - Guinness World Records"
+    },
+    {
+      "id": "sf1nAeH2qOM",
+      "channel": "Amyy Woahh",
+      "duration": 1275.0,
+      "title": "BUYING HAPPY MEALS TO FIND *RARE* SQUISHMALLOWS !"
+    }
+  ]
+}

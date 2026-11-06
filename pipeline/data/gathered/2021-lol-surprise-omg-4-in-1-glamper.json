@@ -1,0 +1,54 @@
+{
+  "id": "2021-lol-surprise-omg-4-in-1-glamper",
+  "year": 2021,
+  "name": "LOL Surprise! OMG 4-in-1 Glamper",
+  "price_eur": 119.0,
+  "price_text": "€119.00",
+  "retailers": [
+    {
+      "name": "Byrnes Toys",
+      "url": "https://www.byrnesonline.ie/shop/world-of-wonder/l-o-l-surprise-o-m-g-4-1-glamper-55-surprises/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://byrnesonline.ie/shop/world-of-wonder/l-o-l-surprise-o-m-g-4-1-glamper-55-surprises/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uLFCWKXoJFI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 122.0,
+      "title": "LOL SURPRISE! OMG 4-in-1 Glamper from MGA Entertainment Unboxing + Review!"
+    },
+    {
+      "id": "p_zti5zfGK4",
+      "channel": "L.O.L. Surprise!",
+      "duration": 418.0,
+      "title": "Spot The Deets The 4-in-1 Glamper! | L.O.L. Surprise! O.M.G."
+    },
+    {
+      "id": "ovkTLddVMgo",
+      "channel": "DIY Bandit",
+      "duration": 544.0,
+      "title": "️🔥 LOL Surprise OMG Glamper Fashion Camper Doll Playset for Kids➔ **Instructions & Review**"
+    },
+    {
+      "id": "wE9ZqJokq-E",
+      "channel": "CookieSwirlC",
+      "duration": 948.0,
+      "title": "BIG  Glamper Car House with Makeup Room"
+    },
+    {
+      "id": "Bv8a367Nq-Y",
+      "channel": "OhcluckToys",
+      "duration": 1034.0,
+      "title": "LOL Surprise OMG 4 in 1 Glamper Unboxing Review"
+    }
+  ]
+}

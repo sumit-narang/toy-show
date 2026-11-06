@@ -1,0 +1,64 @@
+{
+  "id": "2017-celebrity-mani-pedi-deluxe-nail-spa",
+  "year": 2017,
+  "name": "Celebrity Mani-Pedi Deluxe Nail Spa",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "F6jUVoW6r_I",
+      "channel": "Iffs Lifestyle ",
+      "duration": 1279.0,
+      "title": "The most *AESTHETIC* Nail Salon in London?! 💅🏽 Luxury Mani Pedi Experience ✨🌸"
+    },
+    {
+      "id": "8eLswJYG140",
+      "channel": "CBS LA",
+      "duration": 108.0,
+      "title": "Marijuana Mani-Pedis On The Menu At Beverly Hills Salon"
+    },
+    {
+      "id": "s5BjhadRcIc",
+      "channel": "India Forums",
+      "duration": 443.0,
+      "title": "Nail Spa with Rubina Dilak aka Soumya from Shakti - Astitva Ke Ehsaas Ki"
+    },
+    {
+      "id": "HZdr8dyqSHg",
+      "channel": "Janette Ok",
+      "duration": 840.0,
+      "title": "COME WITH ME to get a PEDICURE - Olive&June (famous LA nail salon) | INMYSEAMS"
+    },
+    {
+      "id": "E4zXGprLgM0",
+      "channel": "WCCO - CBS Minnesota",
+      "duration": 149.0,
+      "title": "WCCO Viewers’ Choice For Best Mani-Pedi In Minnesota"
+    }
+  ]
+}

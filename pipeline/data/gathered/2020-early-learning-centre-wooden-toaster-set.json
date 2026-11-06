@@ -1,0 +1,54 @@
+{
+  "id": "2020-early-learning-centre-wooden-toaster-set",
+  "year": 2020,
+  "name": "Early Learning Centre Wooden Toaster Set",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Kaliedy",
+      "url": "https://www.kaliedy.com/eshop/product/Kaliedy-3-years-Early-Learning-Centre-Wooden-Toaster-Set.html/1/pid/434226/frmCatID/97519/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.kaliedy.com/eshop/product/Kaliedy-3-years-Early-Learning-Centre-Wooden-Toaster-Set.html/1/pid/434226/frmCatID/97519/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "76MQcXyFXpY",
+      "channel": "brainius",
+      "duration": 52.0,
+      "title": "WOODEN BREAD TOASTER"
+    },
+    {
+      "id": "Wi88GQtIh7E",
+      "channel": "Early Learning Centre",
+      "duration": 33.0,
+      "title": "Wooden Pastel Kitchen (3 years+) Early Learning Centre"
+    },
+    {
+      "id": "s9l4IvHULSY",
+      "channel": "Bamgaga Tv",
+      "duration": 52.0,
+      "title": "Early Learning Centre Wooden Cottage Kitchen   Mothercare"
+    },
+    {
+      "id": "Q1Lp2CSxmqc",
+      "channel": "Leo Vj",
+      "duration": 28.0,
+      "title": "EARLY LEARNING CENTRE SPOTTED TEA SET"
+    },
+    {
+      "id": "nVcQfplHb3A",
+      "channel": "School Decor - Classroom Decoration Ideas ",
+      "duration": 30.0,
+      "title": "Wooden Bread Toaster Toy Model || Play School Kids Toy || Age Group 4-6 Years"
+    }
+  ]
+}

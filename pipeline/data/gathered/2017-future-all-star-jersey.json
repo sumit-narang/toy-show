@@ -1,0 +1,54 @@
+{
+  "id": "2017-future-all-star-jersey",
+  "year": 2017,
+  "name": "Future All-Star jersey",
+  "price_eur": 35.59,
+  "price_text": "€35.59",
+  "retailers": [
+    {
+      "name": "GAA Store.com",
+      "url": "https://www.thegaastore.com/en/Hurling-Sticks/c-2473.aspx"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.mckeeversports.com/en/Hurling-Sticks/c-2473.aspx"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CDvn9e9r2Bc",
+      "channel": "Future",
+      "duration": 189.0,
+      "title": "Jersey"
+    },
+    {
+      "id": "85Vqh_Kzye8",
+      "channel": "Firstpost",
+      "duration": 256.0,
+      "title": "Not Messi, Not Ronaldo, This Star Tops Europe’s Jersey Sales | First Sports With Rupha Ramani | N18G"
+    },
+    {
+      "id": "bKWOy3IC3iM",
+      "channel": "Maui XIII",
+      "duration": 425.0,
+      "title": "Liga MX Charly  2021 MLS All Star Jersey (Review)"
+    },
+    {
+      "id": "l0U7SxXHkPY",
+      "channel": "Future",
+      "duration": 336.0,
+      "title": "Future - Life Is Good (Official Music Video) ft. Drake"
+    },
+    {
+      "id": "wJVq_6DkavM",
+      "channel": "Zee Music South",
+      "duration": 253.0,
+      "title": "Needa Padadhani | Jersey | Nani, Shraddha Srinath | Anirudh Ravichander | Darshan Raval |Telugu Song"
+    }
+  ]
+}

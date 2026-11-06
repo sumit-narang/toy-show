@@ -1,0 +1,57 @@
+{
+  "id": "2021-hamilton-a-revolution-by-lin-manuel-miranda",
+  "year": 2021,
+  "name": "Hamilton: A Revolution by Lin-Manuel Miranda",
+  "price_eur": null,
+  "price_text": "£22.08",
+  "retailers": [
+    {
+      "name": "Abe's Books Belfast",
+      "url": "https://www.abebooks.co.uk/9781455539741/Hamilton-Revolution-Lin-Manuel-Miranda-1455539740/plp"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.abebooks.co.uk/9781455539741/Hamilton-Revolution-Lin-Manuel-Miranda-1455539740/plp",
+      "title": "Hamilton: The Revolution - McCarter, Jeremy; Miranda, Lin-Manuel: 9781455539741 - AbeBooks",
+      "description": "A backstage pass to the groundbreaking, hit musical Hamilton, winner of the 2016 Pulitzer Prize for Drama and Eleven Tony Awards, including Best Musical, including the award-winning libretto, behind-the-scenes photos and interviews, and exclusive footnotes from composer-lyricist-star Lin-Manuel ...",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DMRP8R8iMRI",
+      "channel": "EAFY ",
+      "duration": 75.0,
+      "title": "Hamilton The Revolution (Hamiltome) Unboxing"
+    },
+    {
+      "id": "jS3OyB4OFOk",
+      "channel": "bibliophilebooks",
+      "duration": 165.0,
+      "title": "HAMILTON THE REVOLUTION: Slipcased"
+    },
+    {
+      "id": "IIQsgurJF6k",
+      "channel": "CBS Sunday Morning",
+      "duration": 321.0,
+      "title": "The origins of the revolutionary musical \"Hamilton\""
+    },
+    {
+      "id": "Oy5ybRNSkb8",
+      "channel": "Asaki Takaya",
+      "duration": 100.0,
+      "title": "Farmer Refuted - Hamilton (Original Cast 2016 - Live) [HD]"
+    },
+    {
+      "id": "Af_Sew19Ypo",
+      "channel": "Kevin Lockett",
+      "duration": 195.0,
+      "title": "Hamilton: The Hip-Hop Revolution That Changed Broadway Forever |  Wicked Inspired"
+    }
+  ]
+}

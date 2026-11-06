@@ -1,0 +1,42 @@
+{
+  "id": "2022-baba-bear-doll-rattan-high-chair",
+  "year": 2022,
+  "name": "Baba Bear Doll Rattan High Chair",
+  "price_eur": 95.95,
+  "price_text": "€95.95",
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/products/rattan-toy-high-chair-bear"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/products/rattan-toy-high-chair-bear",
+      "title": "Bear Doll Rattan High Chair",
+      "description": "Make mealtime magical with our gorgeous doll-sized Bear HighChair!  A charming highchair for playtime fun, perfect for dolls up to 40 cm tall with the cushion, and up to 45 cm tall without the padded cushion. This heirloom piece brings elegance to playtime. Especially designed for little hands. A timeless addition to a",
+      "image": "http://www.littleangelrose.com/cdn/shop/products/image_19500634-8845-4188-97a9-14d21ceab08f.jpg?v=1684916707",
+      "ld_description": "Make mealtime magical with our gorgeous doll-sized Bear HighChair!  A charming highchair for playtime fun, perfect for dolls up to 40 cm tall with the cushion, and up to 45 cm tall without the padded cushion.\nThis heirloom piece brings elegance to playtime. Especially designed for little hands. A timeless addition to any playroom.\nEach handcrafted highchair comes with a natural cotton chair pad with side ties \nDimensions:  25cm L x 55cm H x 25cm D   \nAs Seen on the Late Late Toy Show 2022\nPlease note: The measurements we provide are a guide, they may vary slightly as every piece is uniquely crafted by hand. Small variations of shape and colour may also vary from the images shown as our products are made from natural materials. \nDesigned by us at Little AngelRose® Product is Copyright ©️ of LittleAngelrose",
+      "brand": "Little AngelRose",
+      "ld_image": "https://www.littleangelrose.com/cdn/shop/products/image_19500634-8845-4188-97a9-14d21ceab08f_2999x.jpg?v=1684916707"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TetTokrjKp0",
+      "channel": "Vlad and Niki",
+      "duration": 634.0,
+      "title": "Niki takes care of mom at the children's hotel"
+    },
+    {
+      "id": "eJISYO_UIUc",
+      "channel": "蒲公英剧场",
+      "duration": 9866.0,
+      "title": "現代窮小伙穿越到大宋，竟發現冷庫成了時空傳送門！隨手拿個玻璃杯去典當就賺到第一桶金，從此靠現代商品在汴京瘋狂逆襲！#ai #aivideo #aishorts #aiart"
+    }
+  ]
+}

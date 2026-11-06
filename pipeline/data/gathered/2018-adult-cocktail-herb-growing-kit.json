@@ -1,0 +1,57 @@
+{
+  "id": "2018-adult-cocktail-herb-growing-kit",
+  "year": 2018,
+  "name": "Adult Cocktail Herb Growing Kit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XUM-dRt5lYc",
+      "channel": "TheGardenShopIreland",
+      "duration": 137.0,
+      "title": "Cocktail Herb Growing Kit"
+    },
+    {
+      "id": "4XLkUBlxT1A",
+      "channel": "Garden Republic",
+      "duration": 15.0,
+      "title": "Garden Republic Edible Flower Grow Kits Make The Perfect Gift!"
+    },
+    {
+      "id": "04a_z_5x55M",
+      "channel": "Garden Republic",
+      "duration": 16.0,
+      "title": "Garden Republic Edible Flower Seed Grow Kit"
+    },
+    {
+      "id": "6zH0khQYgcw",
+      "channel": "Backyard Safari Company",
+      "duration": 68.0,
+      "title": "Grow Cocktails"
+    },
+    {
+      "id": "3PLaTNSp_y0",
+      "channel": "Garden Republic",
+      "duration": 561.0,
+      "title": "Planting and Troubleshooting Your Edible Flower Grow Kit - Live From The Help Desk With Nikki"
+    }
+  ]
+}

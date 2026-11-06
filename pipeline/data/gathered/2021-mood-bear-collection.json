@@ -1,0 +1,54 @@
+{
+  "id": "2021-mood-bear-collection",
+  "year": 2021,
+  "name": "Mood Bear Collection",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "It'sMagic.ie",
+      "url": "https://www.itsmagic.ie/catalogsearch/result/?q=Mood%20Bear%20Collection"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.itsmagic.ie/catalogsearch/result/?q=Mood%20Bear%20Collection"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kJYJTC2VoV0",
+      "channel": "TaDaBoom English",
+      "duration": 675.0,
+      "title": "TaDaBoom English 😎☀️ Songs to brighten your mood 😎☀️ Collection of kids' songs 🎶 Masha and the Bear"
+    },
+    {
+      "id": "8lNzZD9BUVo",
+      "channel": "Check It Out",
+      "duration": 53.0,
+      "title": "TeeTurtle TikTok Reversible Plushies, show your mood without words, squishy animal, collect them all"
+    },
+    {
+      "id": "jB_PpOQd1I4",
+      "channel": "Flow State Studio",
+      "duration": 3978.0,
+      "title": "Every Second Counts. That’s How Greatness Is Built."
+    },
+    {
+      "id": "JI9adS6NP3Q",
+      "channel": "Musical Feelings",
+      "duration": 42898.0,
+      "title": "Cute Little Wild Animals With Relaxing Music, Good Mood Music, Baby Animals 4K  UHD"
+    },
+    {
+      "id": "5yx6BWlEVcY",
+      "channel": "Chillhop Music",
+      "duration": null,
+      "title": "Chillhop Radio - jazzy & lofi hip hop beats 🐾"
+    }
+  ]
+}

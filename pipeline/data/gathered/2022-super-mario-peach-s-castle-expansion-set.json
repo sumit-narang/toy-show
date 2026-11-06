@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-peach-s-castle-expansion-set",
+  "year": 2022,
+  "name": "Super Mario Peach's Castle Expansion Set",
+  "price_eur": 130.0,
+  "price_text": "€130",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/peach-s-castle-expansion-set-71408"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/peach-s-castle-expansion-set-71408"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GNbkEXOkXNQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 168.0,
+      "title": "Peach’s Castle Expansion Set"
+    },
+    {
+      "id": "8U2Gmx6SjyI",
+      "channel": "Beyond the Brick",
+      "duration": 883.0,
+      "title": "REVIEW: LEGO Peach's Castle Expansion + Summer 2022 Super Mario Sets"
+    },
+    {
+      "id": "v1KCRiwj2Jg",
+      "channel": "MKMBrick",
+      "duration": 1135.0,
+      "title": "I Built EVERY LEGO Super Mario Set EVER Made..."
+    },
+    {
+      "id": "vkcEmMoZDaY",
+      "channel": "BCStrike Productions",
+      "duration": 3150.0,
+      "title": "LEGO Mario: Peach’s Castle set Instructions | Set 71408"
+    },
+    {
+      "id": "eUkSARwJZEY",
+      "channel": "Bricks By Mind",
+      "duration": 942.0,
+      "title": "Peach's Castle Expansion Set EARLY Review! LEGO Super Mario Set 71408"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-national-geographic-telescope",
+  "year": 2019,
+  "name": "National Geographic Telescope",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "ALDI Ireland",
+      "url": "https://www.aldi.ie/national-geographic-telescope/p/022012311129800"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.aldi.ie/national-geographic-telescope/p/022012311129800"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4qXsIEZOOWM",
+      "channel": "Bresser",
+      "duration": 73.0,
+      "title": "NATIONAL GEOGRAPHIC 76/700 EQ reflector telescope"
+    },
+    {
+      "id": "sCsgno7jVDE",
+      "channel": "LearnToStargaze",
+      "duration": 1129.0,
+      "title": "Review - National Geographic 102mm StarApp Telescope (The Costco Scope)"
+    },
+    {
+      "id": "kDbzgkG4PXE",
+      "channel": "Explore Scientific",
+      "duration": 58.0,
+      "title": "National Geographic NG114mm Newtonian Telescope Equatorial Mount"
+    },
+    {
+      "id": "NGGVy_M0zBY",
+      "channel": "National Geographic",
+      "duration": 205.0,
+      "title": "The Largest Fully Steerable Telescope in the World | National Geographic"
+    },
+    {
+      "id": "MH6bIjmuDbY",
+      "channel": "Mark Kelly",
+      "duration": 558.0,
+      "title": "National Geographic 76/700"
+    }
+  ]
+}

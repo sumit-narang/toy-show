@@ -1,0 +1,57 @@
+{
+  "id": "2022-got-2-glow-fairy-finder-glow-in-the-dark-jar",
+  "year": 2022,
+  "name": "Got 2 Glow Fairy Finder Glow in the Dark Jar",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Smyths Toys Ireland",
+      "url": "https://www.smythstoys.com/ie/en-ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "40C65FrCduw",
+      "channel": "AdventureFun!",
+      "duration": 1522.0,
+      "title": "WowWee Got2Glow Fairy Finder Electronic Fairy Jar Catches Virtual Fairies Adventure Fun Toy Review!"
+    },
+    {
+      "id": "1KpIwqWbuTM",
+      "channel": "Beyond Family",
+      "duration": 695.0,
+      "title": "We Found a Fairy Cottage and Caught Faries With Friends!!!"
+    },
+    {
+      "id": "ExlOdgOaxbg",
+      "channel": "Smyths Toys Superstores",
+      "duration": 34.0,
+      "title": "Got2Glow Fairy Finder Glow in the Dark Jar - Smyths Toys"
+    },
+    {
+      "id": "V3MKp5bjQ_M",
+      "channel": "Anis Adam Alif Toys",
+      "duration": 213.0,
+      "title": "WowWee Fairy Finder - Glow in the Dark Exclusive"
+    },
+    {
+      "id": "bttzYvxgzME",
+      "channel": "NerdECrafter",
+      "duration": 2393.0,
+      "title": "I Tested 6 Crazy  CHEAP Interactive Toys So You Don't Have To"
+    }
+  ]
+}

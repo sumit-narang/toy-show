@@ -1,0 +1,54 @@
+{
+  "id": "2022-kids-polaroid-print-camera",
+  "year": 2022,
+  "name": "Kids Polaroid Print Camera",
+  "price_eur": null,
+  "price_text": "£55",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/print-camera-blue"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.emktoys.com/products/print-camera-blue"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zLuI6XBN5y8",
+      "channel": "Rehan's Unboxing",
+      "duration": 354.0,
+      "title": "Instant Print Camera Unboxing and Testing"
+    },
+    {
+      "id": "ERoGobhrQkM",
+      "channel": "HypeTech Picks",
+      "duration": 402.0,
+      "title": "▶️ Top 5 Best Instant Print Cameras in (2025-2026) 📸 | Quick Prints Anytime"
+    },
+    {
+      "id": "kJMkQu8jdvU",
+      "channel": "Ginny and Raitu",
+      "duration": 130.0,
+      "title": "Kids Instant Print Camera Review"
+    },
+    {
+      "id": "2mfS-yXKWyU",
+      "channel": "Cody Lander",
+      "duration": 892.0,
+      "title": "Testing Amazons $40 Himont Instant Print Kids Camera"
+    },
+    {
+      "id": "YTOJYU_rX2A",
+      "channel": "Review with Harper & Max",
+      "duration": 434.0,
+      "title": "Top 6 Best Kids Cameras Review 2026 | Digital, Instant Print & AI Cameras for kids"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-ford-ranger-raptor-police-truck-electric-ride-on",
+  "year": 2025,
+  "name": "Ford Ranger Raptor Police Truck Electric Ride On",
+  "price_eur": 199.99,
+  "price_text": "€199.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/electric-wheeled/ford-ranger-raptor-police-truck-10-8v-lithium-electric-ride-on-with-remote-control/p/248253"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/electric-wheeled/ford-ranger-raptor-police-truck-10-8v-lithium-electric-ride-on-with-remote-control/p/248253",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "g7K2XJX5UmI",
+      "channel": "Beneo Motors",
+      "duration": 689.0,
+      "title": "How to assemble a Ford Ranger Police Electric Car for Kids, Electric Ride-on Ford Raptor"
+    },
+    {
+      "id": "waEZ-ErPVp0",
+      "channel": "Gift factory outlet-GFO Sydney Australia",
+      "duration": 157.0,
+      "title": "Police car Ford Ranger"
+    },
+    {
+      "id": "DRnnvbuZVYU",
+      "channel": "Thomas Kirkpatrick",
+      "duration": 173.0,
+      "title": "003 Ford Ranger Wildtrak, Kinder Elektroauto tuning"
+    },
+    {
+      "id": "WJ_b4zays_g",
+      "channel": "RiiRoo",
+      "duration": 143.0,
+      "title": "Ford Raptor F150 Wildtrak Police Edition 12v Battery Electric Kids Ride On Car With Remote Control"
+    },
+    {
+      "id": "M5EJ8QQpEhk",
+      "channel": "service costway",
+      "duration": 217.0,
+      "title": "TY327435/TY327062 Installation Guide"
+    }
+  ]
+}

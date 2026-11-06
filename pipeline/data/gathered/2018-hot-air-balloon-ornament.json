@@ -1,0 +1,57 @@
+{
+  "id": "2018-hot-air-balloon-ornament",
+  "year": 2018,
+  "name": "Hot Air Balloon Ornament",
+  "price_eur": 3.95,
+  "price_text": "€3.95",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IM9pt4DQCqg",
+      "channel": "NYC Webstore",
+      "duration": 25.0,
+      "title": "Garden Party Hot Air Balloon Glass Christmas Ornament"
+    },
+    {
+      "id": "w-DgR38XerY",
+      "channel": "NYC Webstore",
+      "duration": 24.0,
+      "title": "Garden Party Hot Air Balloon Glass Christmas Ornament"
+    },
+    {
+      "id": "fuvum4GnlUQ",
+      "channel": "Personalized Ornaments For You",
+      "duration": 24.0,
+      "title": "Personalized Glass Hot Air Balloon Christmas Ornament RAINBOW"
+    },
+    {
+      "id": "2ob0kjls5mY",
+      "channel": "Irene's DIY Addiction ",
+      "duration": 1269.0,
+      "title": "DIY AMAZING CHRISTMAS ORNAMENTS / How to make hot air balloon decoration"
+    },
+    {
+      "id": "QlRBn0MmHnw",
+      "channel": "Lisa Robertson",
+      "duration": 58.0,
+      "title": "Set of 3 Glass Hot Air Balloon Ornaments"
+    }
+  ]
+}

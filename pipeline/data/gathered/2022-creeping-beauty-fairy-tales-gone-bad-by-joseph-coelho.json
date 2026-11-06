@@ -1,0 +1,60 @@
+{
+  "id": "2022-creeping-beauty-fairy-tales-gone-bad-by-joseph-coelho",
+  "year": 2022,
+  "name": "Creeping Beauty: Fairy tales gone bad by Joseph Coelho",
+  "price_eur": 8.79,
+  "price_text": "€8.79",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/creeping-beauty-joseph-coelho-9781406389685"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/creeping-beauty-joseph-coelho-9781406389685",
+      "title": "Buy Creeping Beauty Book at Easons",
+      "description": "Celebrate Halloween and the spooky season with this subversive, funny - and deliciously prickly! - tale for the young reader looking for a book with bite. Written in verse by former Waterstones Children's Laureate Joseph Coelho and illustrated by Freya Har",
+      "image": null,
+      "ld_description": "Celebrate Halloween and the spooky season with this subversive, funny - and deliciously prickly! - tale for the young reader looking for a book with bite. Written in verse by former Waterstones Children's Laureate Joseph Coelho and illustrated by Freya Hartas.  Eshe and her twelve sisters are Fairy Godmothers, honoured for the incredible gifts they can bestow. But Eshe's special abilities are a little different - she can glimpse into the future! And, one day, Eshe foresees something terrifying: a world blanketed in creeping vines and a girl covered in thorns. Eshe needs to stop her vision becoming true, but it will require old and powerful magic. And she won't be able to do it alone…  Following on from Zombierella and Frankenstiltskin, this is the third and final book in a deliciously dark trilogy of twisted classics, written in verse by the winner of the Yoto Carnegie Medal for Writing Joseph Coelho and illustrated by Freya Hartas.  \"This twist on Sleeping Beauty is absorbing, original and deliciously magical.\" BookTrust",
+      "brand": "Walker Books Ltd",
+      "ld_image": "https://www.easons.com/images/asset/c9bf8008-5142-480d-b474-6bf923f0d2c8/9781406389685_5643374863.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZiJGNGem8f8",
+      "channel": "Free Audiobook",
+      "duration": 300.0,
+      "title": "Creeping Beauty: Fairy Tales Gone Bad by Joseph Coelho | Full Audiobook"
+    },
+    {
+      "id": "HyG0ji6goi0",
+      "channel": "Google Play Books",
+      "duration": 581.0,
+      "title": "Creeping Beauty: Fairy Tales Gone Bad Book 3 by Joseph Coelho · Audiobook preview"
+    },
+    {
+      "id": "6qRvxE3_xYs",
+      "channel": "Free Audiobook",
+      "duration": 185.0,
+      "title": "Creeping Beauty: Fairy Tales Gone Bad Audiobook by Joseph Coelho"
+    },
+    {
+      "id": "GIK-rb6dUDY",
+      "channel": "Books 4 People",
+      "duration": 20.0,
+      "title": "Fairy Tales Gone Bad Series Collection 3 Books Set By Joseph Coelho"
+    },
+    {
+      "id": "sejCYIHF2LM",
+      "channel": "Walker Books",
+      "duration": 281.0,
+      "title": "Creeping Beauty by Joseph Coelho, illustrated by Freya Hartas | Book trailer"
+    }
+  ]
+}

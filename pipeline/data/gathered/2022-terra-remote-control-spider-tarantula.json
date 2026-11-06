@@ -1,0 +1,54 @@
+{
+  "id": "2022-terra-remote-control-spider-tarantula",
+  "year": 2022,
+  "name": "Terra Remote Control Spider Tarantula",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "NuORDER",
+      "url": "https://thesourcewholesale.co.uk/product/rc-tarantula/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://thesourcewholesale.co.uk/product/rc-tarantula/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bCuzec8y30Q",
+      "channel": "Kalle Beck Unboxing & Reviews",
+      "duration": 63.0,
+      "title": "Terra Remote Control Spider Review! Realistic Fun For Pranks"
+    },
+    {
+      "id": "2uEnrc6kMpM",
+      "channel": "Robot Box",
+      "duration": 35.0,
+      "title": "Terra by Battat RC Spider Tarantula Red Infrared Remote Control Spider with Creepy"
+    },
+    {
+      "id": "9Y-WKnmSUPg",
+      "channel": "Baby Store",
+      "duration": 29.0,
+      "title": "Terra by Battat -  Funny Infrared RC Spider"
+    },
+    {
+      "id": "bkIiAm6hlL0",
+      "channel": "chatpat toy tv",
+      "duration": 581.0,
+      "title": "RC Realistic Wall Climbing Tarantula Fastest Spider Unboxing & Testing – Chatpat toy tv"
+    },
+    {
+      "id": "mDZDC6ebeXg",
+      "channel": "JohnVHRC",
+      "duration": 343.0,
+      "title": "RC Tarantula!"
+    }
+  ]
+}

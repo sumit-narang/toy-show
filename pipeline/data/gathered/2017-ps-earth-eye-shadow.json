@@ -1,0 +1,53 @@
+{
+  "id": "2017-ps-earth-eye-shadow",
+  "year": 2017,
+  "name": "PS Earth Eye Shadow",
+  "price_eur": 2.5,
+  "price_text": "€2.50",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PKGLSMu4fJU",
+      "channel": "Angela Bright",
+      "duration": 574.0,
+      "title": "Easy Neutral Eyeshadow Tutorial for Beginners | YSL Eyeshadow Quad"
+    },
+    {
+      "id": "p-NLpcpAkqI",
+      "channel": "Samantha Ravndahl",
+      "duration": 763.0,
+      "title": "PEACOCK HALO EYE | NYX EARTH PALETTE"
+    },
+    {
+      "id": "5Zq_h9fQWNY",
+      "channel": "Ishita Soni",
+      "duration": 484.0,
+      "title": "Party Makeup in Minutes | Simple Smokey Eye Technique"
+    },
+    {
+      "id": "M5iT6i0vwTM",
+      "channel": "mαdeline suzαnne",
+      "duration": 634.0,
+      "title": "Nyx In Your Element Earth Palette Tutorial // maddie suzanne"
+    },
+    {
+      "id": "BpOzOyEIdOI",
+      "channel": "Stephanie Alford",
+      "duration": 561.0,
+      "title": "HOW TO APPLY EYESHADOW FOR BEGINNERS : MUST SEE!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-12v-land-rover-defender-svx-ride-on",
+  "year": 2019,
+  "name": "12V Land Rover Defender SVX Ride-On",
+  "price_eur": 259.99,
+  "price_text": "€259.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/12v-land-rover-defender-svx-ride-on/p/178433"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/electric-ride-ons/12v-land-rover-defender-svx-ride-on/p/178433",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mujIUSXbUU0",
+      "channel": "Outside Play",
+      "duration": 94.0,
+      "title": "Kids Land Rover Defender 90 Version 24V 4WD Electric Ride On Toy Car Jeep | Outside Play"
+    },
+    {
+      "id": "08hsCaT_Vi0",
+      "channel": "powerfulukltd",
+      "duration": 636.0,
+      "title": "Land Rover Defender Ride on Toy from Britpart - Demo & user guide"
+    },
+    {
+      "id": "do6BAtbYW6Q",
+      "channel": "Outdoor Toys UK",
+      "duration": 55.0,
+      "title": "Licensed Land Rover Defender 12V Ride On Jeep 2021 Model"
+    },
+    {
+      "id": "BOqA0lG-kz8",
+      "channel": "Electric Ride on Cars Online",
+      "duration": 147.0,
+      "title": "Kids 24V Land Rover Defender Ride On | Ages 2-6 | ElectricRideOnCars.co.uk"
+    },
+    {
+      "id": "j076tVvu0kg",
+      "channel": "CHITUO TOYS",
+      "duration": 273.0,
+      "title": "CL-SHQ18605 Land Rover Defender 110 SVX Conctpt Assembling Video"
+    }
+  ]
+}

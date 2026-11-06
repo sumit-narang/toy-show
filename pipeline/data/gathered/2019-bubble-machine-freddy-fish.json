@@ -1,0 +1,54 @@
+{
+  "id": "2019-bubble-machine-freddy-fish",
+  "year": 2019,
+  "name": "Bubble Machine Freddy Fish",
+  "price_eur": 65.0,
+  "price_text": "€65.00",
+  "retailers": [
+    {
+      "name": "Safe Care Technologies",
+      "url": "https://www.safecaretechnologies.com/product/bubble-machine-freddy-fish/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://ie.tobiidynavox.com/product/bubble-machine-freddy-fish/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "M9OWXgDCdXs",
+      "channel": "Understand Me - the Communication Library",
+      "duration": 109.0,
+      "title": "Freddie Fish Bubble Machine"
+    },
+    {
+      "id": "5wvUarw1InU",
+      "channel": "Early Learning Centre",
+      "duration": 36.0,
+      "title": "early learning centre - Freddie The Fish Bubble Machine"
+    },
+    {
+      "id": "MIaccAa8i2w",
+      "channel": "Early Learning Centre Indonesia",
+      "duration": 39.0,
+      "title": "ELC Indonesia - Serunya bermain Bubble dengan ELC Freddie and Flora Bubble Machine"
+    },
+    {
+      "id": "ygRDxfJRb2o",
+      "channel": "Klinik Robot",
+      "duration": 1113.0,
+      "title": "Cara Perbaikan Mainan ELC Freddy the Fish Bubble Machine"
+    },
+    {
+      "id": "ZbPwUel8pzQ",
+      "channel": "Chad Kuo",
+      "duration": 30.0,
+      "title": "My ELC Freddy the Fish Bubble Machine"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-complete-farmyard-set",
+  "year": 2021,
+  "name": "Complete Farmyard Set",
+  "price_eur": null,
+  "price_text": "£419.00",
+  "retailers": [
+    {
+      "name": "Millwood Craft",
+      "url": "https://millwoodcrafts.co.uk/product/complete-farm-yard-2/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://millwoodcrafts.co.uk/product/complete-farm-yard-2/",
+      "title": "Complete Model Farm Yard| Wooden Handcrafted Farm Sets, Nortern Ireland",
+      "description": "Complete Model Farm Yard. Consisting of Livestock Yard, Small Farm Yard and Small Milking Parlour. Size Approx: Length 32",
+      "image": "https://millwoodcrafts.co.uk/wp-content/uploads/2013/04/DSC_0386.jpg",
+      "ld_description": "Size Approx: Length 32\",  Width 72\", Height 7\"\r\n\r\nConsisting of Livestock Yard, Small Farm Yard and Small Milking Parlour.",
+      "brand": null,
+      "ld_image": "https://millwoodcrafts.co.uk/wp-content/uploads/2013/04/DSC_0386.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PbAfkTPymaI",
+      "channel": "RaceToyTime",
+      "duration": 518.0,
+      "title": "Fun Farm and Playmobil Farmyard Sets -  Barn Animal Figurines"
+    },
+    {
+      "id": "Ld-hT5UWpnU",
+      "channel": "RaceToyTime",
+      "duration": 444.0,
+      "title": "Fun Barn Set and Farmyard Animal Figurines"
+    },
+    {
+      "id": "sTZpiPrl1E0",
+      "channel": "RaceToyTime",
+      "duration": 810.0,
+      "title": "Schleich Farm World Playset Collection and Fun Farm Animals Toys For Kids"
+    },
+    {
+      "id": "5-FYgR_G3EQ",
+      "channel": "RaceToyTime",
+      "duration": 272.0,
+      "title": "Barn Farm Diorama Set and Farmyard Animal Figurines"
+    },
+    {
+      "id": "1k4ZvOWbpIA",
+      "channel": "RaceToyTime",
+      "duration": 529.0,
+      "title": "Miniature Farm Scenery Set with Farmyard Animal Figures   1"
+    }
+  ]
+}

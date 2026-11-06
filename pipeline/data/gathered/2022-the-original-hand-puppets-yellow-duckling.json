@@ -1,0 +1,57 @@
+{
+  "id": "2022-the-original-hand-puppets-yellow-duckling",
+  "year": 2022,
+  "name": "The Original Hand Puppets Yellow Duckling",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Toynamics",
+      "url": "https://toynamics.com/?lang=en"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://toynamics.com/?lang=en",
+      "title": "Front page - Toynamics",
+      "description": "With Toynamics it's all about toys. With our broad brand portfolio and innovative, unique products, we are a one-stop-shop for toys!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cWnWMHUzwjg",
+      "channel": "FolkmanisEurope",
+      "duration": 23.0,
+      "title": "3187 Duck weiß"
+    },
+    {
+      "id": "JvJZgZEmC8s",
+      "channel": "Richard John Guenther",
+      "duration": 14.0,
+      "title": "Shake Yellow Duckling Finger Puppet to Make Chirp"
+    },
+    {
+      "id": "LioPWqBmif8",
+      "channel": "Heritage Media Group",
+      "duration": 183.0,
+      "title": "Paul Zerdin and Baby on Stage - HMG"
+    },
+    {
+      "id": "QTtImP24iiA",
+      "channel": "Einstein Street Productions - Official Channel",
+      "duration": 244.0,
+      "title": "Free to Use Puppet Show Clip Pack No. 11 - Yellow Duck (Part 1)"
+    },
+    {
+      "id": "MtN1YnoL46Q",
+      "channel": "forrestfire101",
+      "duration": 192.0,
+      "title": "The Duck Song"
+    }
+  ]
+}

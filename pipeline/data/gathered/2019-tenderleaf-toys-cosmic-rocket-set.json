@@ -1,0 +1,54 @@
+{
+  "id": "2019-tenderleaf-toys-cosmic-rocket-set",
+  "year": 2019,
+  "name": "TenderLeaf Toys Cosmic Rocket Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tWAh3jE6NUA",
+      "channel": "Wood Bee Nice Toys",
+      "duration": 36.0,
+      "title": "Tenderleaf Cosmic Rocket Set"
+    },
+    {
+      "id": "4-MQDG-wxQ0",
+      "channel": "Little Dreamers",
+      "duration": 57.0,
+      "title": "Tenderleaf Toys Cosmic Rocket"
+    },
+    {
+      "id": "m2R8AMn1Tw8",
+      "channel": "Tender Leaf Toys",
+      "duration": 57.0,
+      "title": "Cosmic Rocket Set | Tender Leaf Toys"
+    },
+    {
+      "id": "TFq3P8k-JT0",
+      "channel": "Whittleco",
+      "duration": 30.0,
+      "title": "Tender Leaf Cosmic Rocket Set | Pretend Play Toys at Whittleco"
+    },
+    {
+      "id": "if07HTCnqFg",
+      "channel": "Little Dreamers",
+      "duration": 70.0,
+      "title": "Tenderleaf Toys Wooden Space Race"
+    }
+  ]
+}

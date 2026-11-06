@@ -1,0 +1,54 @@
+{
+  "id": "2019-adapted-mx-trike",
+  "year": 2019,
+  "name": "Adapted MX Trike",
+  "price_eur": 795.0,
+  "price_text": "€795.00",
+  "retailers": [
+    {
+      "name": "Ability Ireland",
+      "url": "https://www.abilityireland.com/cycling"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://abilityireland.com/cycling"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RQy5TjnZ_gg",
+      "channel": "Break The Boundary",
+      "duration": 591.0,
+      "title": "Adaptive Mountain Bike Review - Sport-on Jeetrike in Australia"
+    },
+    {
+      "id": "RKfn1_drHBw",
+      "channel": "adaptHIIT",
+      "duration": 125.0,
+      "title": "FatNuke"
+    },
+    {
+      "id": "d0gSyEdGTMU",
+      "channel": "ETNNIC Personal Mobility Cycles",
+      "duration": 235.0,
+      "title": "UNBOXING Etnnic Trikes (FAT, ADVENTURE, CITY)| Etnnic Trikes"
+    },
+    {
+      "id": "Je41IaMAjeM",
+      "channel": "A Determined Mountain Biker",
+      "duration": 1147.0,
+      "title": "The Jee Trike from Sport On.First Ride Review"
+    },
+    {
+      "id": "duGwUKoaXTI",
+      "channel": "⚡️BIKE eRACK™",
+      "duration": 147.0,
+      "title": "Universal 2 Trikes Carrier. eRACK2 adapted bikes universal, for Recumbent, aMTB, Tadpole, Delta."
+    }
+  ]
+}

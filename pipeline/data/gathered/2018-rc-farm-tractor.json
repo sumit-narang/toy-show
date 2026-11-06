@@ -1,0 +1,69 @@
+{
+  "id": "2018-rc-farm-tractor",
+  "year": 2018,
+  "name": "RC Farm Tractor",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O7QH7XINx6o",
+      "channel": "monsterchannel24",
+      "duration": 544.0,
+      "title": "INCREDIBLE! John  Deere, New Holland, Fendt, small scale rc farming!"
+    },
+    {
+      "id": "t9xSuymGyAE",
+      "channel": "Toys 'n' Rc",
+      "duration": 501.0,
+      "title": "Top 5 Best RC Farm Tractors of 2025"
+    },
+    {
+      "id": "wMBNzFXid6o",
+      "channel": "RC TRACTOR",
+      "duration": 3763.0,
+      "title": "XXL RC TRACTOR COLLECTION!! RC FENDT, RC CLAAS, RC K700, RC FARMING, RC TRUCKS, RC DIGGER, RC DOZER"
+    },
+    {
+      "id": "6X-s4yUa5Ls",
+      "channel": "monsterchannel24",
+      "duration": 1727.0,
+      "title": "TRACTORS, RC TRUCKS, STUNNING RIGS!!"
+    },
+    {
+      "id": "uCGi57mxxGk",
+      "channel": "monsterchannel24",
+      "duration": 465.0,
+      "title": "RC Tractors John Deere, Case and Fendt at work! Siku Farmland in Neumünster, Germany."
+    }
+  ]
+}

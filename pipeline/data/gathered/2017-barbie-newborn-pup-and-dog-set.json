@@ -1,0 +1,64 @@
+{
+  "id": "2017-barbie-newborn-pup-and-dog-set",
+  "year": 2017,
+  "name": "Barbie Newborn Pup and Dog Set",
+  "price_eur": 26.99,
+  "price_text": "€26.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qOUQXLPDSDM",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "Barbie® Newborn Pups playset    | AD"
+    },
+    {
+      "id": "rTrMf86blIE",
+      "channel": "Mimi's Fun and Play",
+      "duration": 357.0,
+      "title": "Barbie's Pet Pooch Has Puppies Set Unboxing"
+    },
+    {
+      "id": "fRN1PQ_NIfI",
+      "channel": "Fabulous Freddie barbie",
+      "duration": 590.0,
+      "title": "Barbie Newborn Pups"
+    },
+    {
+      "id": "HLGUXx9OCmg",
+      "channel": "Cardboard & Sundry",
+      "duration": 428.0,
+      "title": "Barbie Newborn Puppies playset - with color changing test"
+    },
+    {
+      "id": "bnBVTBCtmE0",
+      "channel": "Happy Happy Toys",
+      "duration": 520.0,
+      "title": "【Barbie】 Barbie Potty Pup Walk & Newborn Pups"
+    }
+  ]
+}

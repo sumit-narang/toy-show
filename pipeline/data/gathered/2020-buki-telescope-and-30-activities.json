@@ -1,0 +1,54 @@
+{
+  "id": "2020-buki-telescope-and-30-activities",
+  "year": 2020,
+  "name": "Buki Telescope and 30 Activities",
+  "price_eur": 77.0,
+  "price_text": "€77.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/buki-telescope-and-30-activities/1600487618.prd"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/buki-telescope-and-30-activities/1600487618.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-vcTeBFmI_0",
+      "channel": "bukifrance",
+      "duration": 118.0,
+      "title": "Télescope lunaire 30 activités - TS009B - BUKI France"
+    },
+    {
+      "id": "7FZ5TAQuiOQ",
+      "channel": "bukifrance",
+      "duration": 180.0,
+      "title": "TS006B TS007B TS008B - Gamme télescopes - BUKI France"
+    },
+    {
+      "id": "tDoogVE3EWg",
+      "channel": "bukifrance",
+      "duration": 82.0,
+      "title": "Télescope réflecteur 50 activités - TS011 - BUKI France"
+    },
+    {
+      "id": "j8Ncrb_DFsE",
+      "channel": "bukifrance",
+      "duration": 83.0,
+      "title": "Télescope 40 activités - TS010 - BUKI France"
+    },
+    {
+      "id": "ggD6JGSErtk",
+      "channel": "ProduitsDuJour",
+      "duration": 47.0,
+      "title": "AVIS: Télescope Buki TS007B - 30 activités. DÉTAILS ESSENTIELS"
+    }
+  ]
+}

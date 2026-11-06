@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-fashionistas-dolls",
+  "year": 2023,
+  "name": "Barbie Fashionistas Dolls",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-198-in-retro-floral-prints/p/158153116"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-fashionistas-doll-198-in-retro-floral-prints/p/158153116",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KMf6cx1u_gg",
+      "channel": "Harold",
+      "duration": 1074.0,
+      "title": "Barbie Fashionistas 2009-2024"
+    },
+    {
+      "id": "rk0rZ64DqwA",
+      "channel": "Beauty Inside A Box",
+      "duration": 624.0,
+      "title": "Are the NEW Barbie Fashionistas dolls actually good?"
+    },
+    {
+      "id": "RBkytq5kCAQ",
+      "channel": "MyFroggyStuff",
+      "duration": 583.0,
+      "title": "Barbie Style Dolls & Fashion Packs |  Doll 248 & 249  | Make Them Made To Move"
+    },
+    {
+      "id": "jeCfuGIBh3A",
+      "channel": "MattelShop",
+      "duration": 16.0,
+      "title": "Barbie® Fashionistas™ Dolls Commercial"
+    },
+    {
+      "id": "-M0eWV2IJ2g",
+      "channel": "𝒫𝓁𝑜𝑜𝓅𝒾𝑒",
+      "duration": 582.0,
+      "title": "The Tragic Trajectory of Barbie Fashionistas"
+    }
+  ]
+}

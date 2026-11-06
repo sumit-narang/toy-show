@@ -1,0 +1,57 @@
+{
+  "id": "2024-zhu-zhu-aquarium-coral-reef-tunnel-set",
+  "year": 2024,
+  "name": "Zhu Zhu Aquarium Coral Reef Tunnel Set",
+  "price_eur": null,
+  "price_text": "£28.68",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4L5N"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4L5N",
+      "title": "John Adams Zhu Zhu Pets Aquarium Coral Reef Tunnel Playset (Fish Sold Separately) | Electronic Land-Swimming Pets for Kids | Mess-Free Adventure Toy | Connects to All Zhu Zhu Playsets | Ages 4+ : Amazon.co.uk: Outlet",
+      "description": "John Adams Zhu Zhu Pets Aquarium Coral Reef Tunnel Playset (Fish Sold Separately) | Electronic Land-Swimming Pets for Kids | Mess-Free Adventure Toy | Connects to All Zhu Zhu Playsets | Ages 4+ : Amazon.co.uk: Outlet",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "M2S8J2VDh-w",
+      "channel": "RyderRenegade",
+      "duration": 846.0,
+      "title": "Zhu Zhu Aquarium Unboxing on Coral Reef Tunnel Combo Set"
+    },
+    {
+      "id": "PclPEqiR_pE",
+      "channel": "NiklasPeterson ",
+      "duration": 922.0,
+      "title": "Zhu Zhu Aquarium Unboxing On Coral Reef Tunnel Combo Set "
+    },
+    {
+      "id": "4dlbLrqCB_g",
+      "channel": "NiklasPeterson ",
+      "duration": 910.0,
+      "title": "Zhu Zhu Aquarium Unboxing On Coral Reef Tunnel Combo Set"
+    },
+    {
+      "id": "QjehxsYWSaQ",
+      "channel": "Toys Make Three",
+      "duration": 751.0,
+      "title": "Unboxing ZhuZhu Aquarium Fish and Coral Reef!"
+    },
+    {
+      "id": "klrZBqiiEZY",
+      "channel": "RyderRenegade",
+      "duration": 911.0,
+      "title": "The Zhu Zhu Pets website has finally updated!!"
+    }
+  ]
+}

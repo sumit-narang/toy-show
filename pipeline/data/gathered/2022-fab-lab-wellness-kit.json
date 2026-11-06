@@ -1,0 +1,54 @@
+{
+  "id": "2022-fab-lab-wellness-kit",
+  "year": 2022,
+  "name": "Fab Lab Wellness Kit",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/fab-lab-wellness-kit/1600773660.prd?sku=sku25263352&msclkid=01672ecc2c971f94ae6d4dbbf9048cf2"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/fab-lab-wellness-kit/1600773660.prd?sku=sku25263352&msclkid=01672ecc2c971f94ae6d4dbbf9048cf2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gn-F0AtVlz4",
+      "channel": "FabLab",
+      "duration": 179.0,
+      "title": "The NEW FabLab Wellness Kit - 4 Cute Pampering Activities! (Featuring Ambi C)"
+    },
+    {
+      "id": "Pm9Ph1r758o",
+      "channel": "# TV",
+      "duration": 376.0,
+      "title": "AMAZING ARABELLA- FABLAB INVENT-A-SCENT PERFUME KIT!"
+    },
+    {
+      "id": "dl2k68G6OK8",
+      "channel": "MedNet Colorado",
+      "duration": 74.0,
+      "title": "Wellness Kits"
+    },
+    {
+      "id": "U1rNSuCFgQI",
+      "channel": "The Welsh Twins",
+      "duration": 1302.0,
+      "title": "Full Face Using ONLY Kids Makeup Challenge ! | SLEEPOVERRRRR 💜🖤 The Welsh Twins"
+    },
+    {
+      "id": "6GHZ__4otL0",
+      "channel": "Gold Bond Inc",
+      "duration": 60.0,
+      "title": "Safety and Wellness Kits"
+    }
+  ]
+}

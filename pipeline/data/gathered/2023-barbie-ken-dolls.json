@@ -1,0 +1,54 @@
+{
+  "id": "2023-barbie-ken-dolls",
+  "year": 2023,
+  "name": "Barbie Ken Dolls",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/barbie-ken-fashionista-doll-211-with-blonde-hair-and-cactus-tee/1600886648.prd?_requestid=308908&Ntt=barbie%20fashionista"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/barbie-ken-fashionista-doll-211-with-blonde-hair-and-cactus-tee/1600886648.prd?_requestid=308908&Ntt=barbie%20fashionista"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UdbWmKk6cn8",
+      "channel": "FunFun Toy Doll TV",
+      "duration": 814.0,
+      "title": "Barbie and Ken doll Bedroom Bathroom Kitchen Breakfast Morning Routine"
+    },
+    {
+      "id": "FnHhAuSeg4w",
+      "channel": "dolls2remember",
+      "duration": 1403.0,
+      "title": "NEW Ken Doll! Unboxing, Makeover, & Review! Barbie The Movie Dolls"
+    },
+    {
+      "id": "JqD-KS9jLi4",
+      "channel": "Titi Toys and Dolls",
+      "duration": 1258.0,
+      "title": "Barbie & Ken Doll Family - Toddler Halloween Costumes & Party"
+    },
+    {
+      "id": "6jI8ZoaAYrA",
+      "channel": "Let's Go Dream Dolls",
+      "duration": 483.0,
+      "title": "Barbie & Ken Doll Family McDonald's Drive Thru Boo Buckets"
+    },
+    {
+      "id": "U_gJw-joL_Y",
+      "channel": "Titi Toys and Dolls",
+      "duration": 1204.0,
+      "title": "Barbie & Ken Doll Family Feel Better Routine & Getting Lost"
+    }
+  ]
+}

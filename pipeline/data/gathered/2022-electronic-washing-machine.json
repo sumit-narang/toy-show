@@ -1,0 +1,54 @@
+{
+  "id": "2022-electronic-washing-machine",
+  "year": 2022,
+  "name": "Electronic Washing Machine",
+  "price_eur": 35.0,
+  "price_text": "€35",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/cb476?_pos=2&_psq=casdon%20electronic&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/cb476?_pos=2&_psq=casdon%20electronic&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JzuuIWwII-w",
+      "channel": "Simply Nandani 2.0",
+      "duration": 17.0,
+      "title": "How to change washing cycle in samsung washing machine | Samsung Top Load Washing Cycle Setting"
+    },
+    {
+      "id": "64TAMY3fWMA",
+      "channel": "Agnofite",
+      "duration": 278.0,
+      "title": "LG automatic washing Machine Demo | LG washing machine | T65SKSF1Z LG top load washing machine Demo"
+    },
+    {
+      "id": "cQLjJX1hSns",
+      "channel": "The Grapevine",
+      "duration": 620.0,
+      "title": "Best Top Load Washing Machine 2026 | LG vs Samsung vs Haier vs IFB vs Whirlpool"
+    },
+    {
+      "id": "3MnTgEk2eTM",
+      "channel": "Vineet Malhotra",
+      "duration": 1502.0,
+      "title": "Best Washing Machine 2026 | Best Washing Machine under 15000 | Best Washing Machine"
+    },
+    {
+      "id": "qGiJIfisLJI",
+      "channel": "Dealfixkaro",
+      "duration": 680.0,
+      "title": "Lg vs IFB Front Load Washing Machine Review ⚡ IFB vs Lg Front Load Washing Machine 2026"
+    }
+  ]
+}

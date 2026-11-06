@@ -1,0 +1,57 @@
+{
+  "id": "2023-bluey-toy-phone",
+  "year": 2023,
+  "name": "Bluey Toy Phone",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/blueys-play-telephone/p/221881"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/blueys-play-telephone/p/221881",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Hc0aqOEU2w8",
+      "channel": "Marques Brownlee",
+      "duration": 263.0,
+      "title": "Bluey Phone Review"
+    },
+    {
+      "id": "TphMzOQjIXc",
+      "channel": "Jasnor Australia",
+      "duration": 35.0,
+      "title": "Bluey Telephone"
+    },
+    {
+      "id": "adFJyrp3Sec",
+      "channel": "[Culture Snap] ",
+      "duration": 50.0,
+      "title": "VTech Bluey Toy Smart Phone And Smart Watch"
+    },
+    {
+      "id": "eHrLspfJQks",
+      "channel": "Collin Forrestfire(FF109)",
+      "duration": 583.0,
+      "title": "VTech Bluey Ring Ring Phone review"
+    },
+    {
+      "id": "AixV2Xyn4YI",
+      "channel": "Bunya Toy Town",
+      "duration": 1824.0,
+      "title": "BLUEY The Phones Took Mum and Dad | Pretend Play with Bluey Toys"
+    }
+  ]
+}

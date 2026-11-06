@@ -1,0 +1,54 @@
+{
+  "id": "2021-chef-s-hat-apron",
+  "year": 2021,
+  "name": "Chef's Hat & Apron",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Kidiko",
+      "url": "https://kidiko.ie/product/apron-set-red/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 401,
+      "final_url": "https://kidiko.ie/product/apron-set-red/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6h6wghhNaLI",
+      "channel": "A Fate So Twisted",
+      "duration": 220.0,
+      "title": "Chef's Hat For A Child (McCall's Pattern M6049)"
+    },
+    {
+      "id": "QIgev5ws29E",
+      "channel": "Zaza Line Studio",
+      "duration": 1702.0,
+      "title": "How to make kids kitchen chef hat and apron. Sewing tutorial + FREE PDF pattern"
+    },
+    {
+      "id": "dc69BUqopO0",
+      "channel": "DIY Craft Bazaar",
+      "duration": 502.0,
+      "title": "How To Make Master Chef Cap | How To Make Master Chef Hat | How To Make Chef Hat With Paper |DIY Hat"
+    },
+    {
+      "id": "2eVMerCOeRk",
+      "channel": "Simply Quickly",
+      "duration": 291.0,
+      "title": "Kids Chef Cap & Apron For School Activity | Chef Cap & Apron Cutting & Stitching"
+    },
+    {
+      "id": "qdAGgWAhkj4",
+      "channel": "Rhang Yan",
+      "duration": 603.0,
+      "title": "DIY how to make Kid’s Chef Hat Tutorial"
+    }
+  ]
+}

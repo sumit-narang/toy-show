@@ -1,0 +1,30 @@
+{
+  "id": "2025-the-cloud-kingdom-by-m-ire-zepf",
+  "year": 2025,
+  "name": "The Cloud Kingdom by Máire Zepf",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/cloud-kingdom"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/cloud-kingdom"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QZwuLYdP0yM",
+      "channel": "Cobra Roll",
+      "duration": 274.0,
+      "title": "Hymns"
+    }
+  ]
+}

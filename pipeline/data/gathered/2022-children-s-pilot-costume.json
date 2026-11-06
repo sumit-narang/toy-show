@@ -1,0 +1,54 @@
+{
+  "id": "2022-children-s-pilot-costume",
+  "year": 2022,
+  "name": "Children’s Pilot costume",
+  "price_eur": 52.95,
+  "price_text": "€52.95",
+  "retailers": [
+    {
+      "name": "My Little Uniform",
+      "url": "https://mylittleuniform.com/shop/childrens-pilot-costume/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 503,
+      "final_url": "https://mylittleuniform.com"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kgID5oXAp48",
+      "channel": "Melissa & Doug",
+      "duration": 26.0,
+      "title": "Melissa & Doug Pilot Role Play Costume Set"
+    },
+    {
+      "id": "ybSh4MngzRk",
+      "channel": "♾️INFINITY ®️",
+      "duration": 37.0,
+      "title": "KIDIN Boys Airline Captain Uniform - Pilot Costume for Kids Career Day, Halloween, Party"
+    },
+    {
+      "id": "gnZyEmp2LWE",
+      "channel": "LUX Fotoğraf Video Prodüksiyon ",
+      "duration": 27.0,
+      "title": "LUX x Costumes Club | Kids Pilot Costume Promotional Video"
+    },
+    {
+      "id": "Z_4BtZMkY3c",
+      "channel": "kalaiyum karpanaiyum",
+      "duration": 395.0,
+      "title": "Pilot costume for kids making at home"
+    },
+    {
+      "id": "foT0P5jIyZ0",
+      "channel": "The Product Critiques",
+      "duration": 129.0,
+      "title": "✈️ReliBeauty Earhart Historical Costume Kids Aviator Costume | Best Amelia Airheart Costume🛩️"
+    }
+  ]
+}

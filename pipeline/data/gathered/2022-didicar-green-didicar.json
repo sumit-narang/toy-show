@@ -1,0 +1,57 @@
+{
+  "id": "2022-didicar-green-didicar",
+  "year": 2022,
+  "name": "Didicar Green Didicar®",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0jFakDd-0kQ",
+      "channel": "Bigjigs Toys",
+      "duration": 145.0,
+      "title": "How To Assemble Your didicar® | Quick & Easy Setup Guide"
+    },
+    {
+      "id": "jXoHqocpPvU",
+      "channel": "Magia Bebe",
+      "duration": 25.0,
+      "title": "Reseña del Bigjigs Didicar (Green)"
+    },
+    {
+      "id": "4OV3Fv-8idc",
+      "channel": "TakingThePixels",
+      "duration": 53.0,
+      "title": "Bopster Wiggle Car"
+    },
+    {
+      "id": "PSw9jP7i0qI",
+      "channel": "mike mettetal",
+      "duration": 874.0,
+      "title": "Lil Rider Wiggle Car Assembly Tips"
+    },
+    {
+      "id": "V06vtdosRoc",
+      "channel": "Reviews of Cool Stuff",
+      "duration": 36.0,
+      "title": "Review for Lil Rider Wiggle car ride on toy"
+    }
+  ]
+}

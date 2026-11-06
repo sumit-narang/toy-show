@@ -1,0 +1,72 @@
+{
+  "id": "2018-fingerlings-hugs-sloth",
+  "year": 2018,
+  "name": "Fingerlings Hugs Sloth",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eiV23iQ6TpE",
+      "channel": "Freddie griffiths",
+      "duration": 23.0,
+      "title": "fingerlings hugs sloth - smyths toys"
+    },
+    {
+      "id": "qmCvZVXElW4",
+      "channel": "Fun with Family",
+      "duration": 767.0,
+      "title": "FINGERLINGS HUGS GIGI UNICORN / UNBOXING WITH FULL INSTRUCTIONS"
+    },
+    {
+      "id": "EB73d05SJZ0",
+      "channel": "YourBlueBistro",
+      "duration": 243.0,
+      "title": "Sloth fingerling video"
+    },
+    {
+      "id": "5QvCn_Ih99I",
+      "channel": "Fingerlings",
+      "duration": 1146.0,
+      "title": "Fingerlings Tales | Marge The Sloth Is In Trouble | Funny Cartoons | Videos for Kids"
+    },
+    {
+      "id": "f4eyHXbeugM",
+      "channel": "Scoop on Stuff",
+      "duration": 378.0,
+      "title": "New Fingerlings Hugs | Fingerlings Interactive Plush"
+    }
+  ]
+}

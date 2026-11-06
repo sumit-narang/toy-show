@@ -1,0 +1,54 @@
+{
+  "id": "2025-interactive-toy-dj-furby-rainbow",
+  "year": 2025,
+  "name": "Interactive Toy DJ Furby Rainbow",
+  "price_eur": 62.0,
+  "price_text": "€62",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/furby-interactive-toy-dj-furby-rainbow/1601183518.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/furby-interactive-toy-dj-furby-rainbow/1601183518.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4LA-_b8iWu0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 189.0,
+      "title": "There's More Furby to Love With DJ Furby!"
+    },
+    {
+      "id": "F7gZlINTV3g",
+      "channel": "Sterling Andrews",
+      "duration": 897.0,
+      "title": "Hasbro DJ Long Furby - All Interactions (Rainbow & Neon Star Colors)"
+    },
+    {
+      "id": "SitvD8pOcBI",
+      "channel": "Silvolf",
+      "duration": 499.0,
+      "title": "DJ Furby and Furby 2023 Interaction and Comparison"
+    },
+    {
+      "id": "aU12YYce0R4",
+      "channel": "Reviewing Literally Everything",
+      "duration": 239.0,
+      "title": "Review of FURBY DJ Interactive Toy: KIDS WILL LOVE!"
+    },
+    {
+      "id": "DnsDL-Hnt3A",
+      "channel": "Real Reviews by MLC & RGC",
+      "duration": 169.0,
+      "title": "Furby DJ Interactive Toy, Super Snuggly Rainbow Electronic Plush overview | Is it worth it? #ad #ama"
+    }
+  ]
+}

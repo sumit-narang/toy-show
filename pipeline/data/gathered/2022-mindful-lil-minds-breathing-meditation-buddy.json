@@ -1,0 +1,44 @@
+{
+  "id": "2022-mindful-lil-minds-breathing-meditation-buddy",
+  "year": 2022,
+  "name": "Mindful Lil Minds - Breathing Meditation Buddy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "g7_jIDte3qo",
+      "channel": "Mindfulness for Littles",
+      "duration": 112.0,
+      "title": "Kids Belly Breathing: Soothe Emotions with Mindful Breathing | Buddy Breathe Tutorial"
+    },
+    {
+      "id": "RiMb2Bw4Ae8",
+      "channel": "The Mindfulness Teacher",
+      "duration": 246.0,
+      "title": "Belly Breathing: Mindfulness for Children"
+    },
+    {
+      "id": "QZyeAy6AxbI",
+      "channel": "Calm Caterpillar",
+      "duration": 35.0,
+      "title": "Buddy Breathing"
+    },
+    {
+      "id": "edpJoRO5faM",
+      "channel": "Teach Peace of Mind TV",
+      "duration": 182.0,
+      "title": "Mini-Lessons: Belly Breathing #calm #teachmindfulness #peace #teachpeace #kidsshow #cartoon #YouTube"
+    },
+    {
+      "id": "Pk_mkXHXyyA",
+      "channel": "TheMindSync LLC",
+      "duration": 107.0,
+      "title": "TheMindSync Mindful Breathing with Belly Buddy"
+    }
+  ]
+}

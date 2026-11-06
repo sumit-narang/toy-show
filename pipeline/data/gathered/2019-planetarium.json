@@ -1,0 +1,60 @@
+{
+  "id": "2019-planetarium",
+  "year": 2019,
+  "name": "Planetarium",
+  "price_eur": 28.0,
+  "price_text": "€28.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/planetarium-raman-prinja-9781787411579"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/planetarium-raman-prinja-9781787411579",
+      "title": "Buy Planetarium Book at Easons",
+      "description": "WINNER OF THE ROYAL SOCIETY'S YOUNG PEOPLE'S BOOK PRIZE 2019  Welcome to the museum that is always open to explore... Step inside the pages of this beautiful book to discover galleries of galactic matter, expertly curated to bring you the experience of a f",
+      "image": null,
+      "ld_description": "WINNER OF THE ROYAL SOCIETY'S YOUNG PEOPLE'S BOOK PRIZE 2019  Welcome to the museum that is always open to explore... Step inside the pages of this beautiful book to discover galleries of galactic matter, expertly curated to bring you the experience of a fascinating exhibition from the comfort of your own home. Planetarium features all aspects of space, from the Sun and our Solar System, to the lives of stars, the Milky Way and the Universe beyond. With stunning artwork from Chris Wormell and informative text by Professor Raman Prinja, Planetarium is the perfect gift for anyone with an interest in this fascinating field.",
+      "brand": "Big Picture Press",
+      "ld_image": "https://www.easons.com/images/asset/60e3c692-7296-4074-8aeb-866c0f83ec73/9781787411579_5643114783.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "evmy6ooFR9w",
+      "channel": "David D.C. Ortega",
+      "duration": 378.0,
+      "title": "La La Land Soundtrack: Planetarium"
+    },
+    {
+      "id": "zDD_Pv8Adqg",
+      "channel": "Smithsonian Theaters",
+      "duration": 66.0,
+      "title": "Albert Einstein Planetarium Video"
+    },
+    {
+      "id": "0ec2OhBVbVY",
+      "channel": "Adler Planetarium",
+      "duration": 33.0,
+      "title": "Planetarium Sky Shows | Official Trailer | Adler Planetarium"
+    },
+    {
+      "id": "byrPyWAOX9w",
+      "channel": "RMSCVideo",
+      "duration": 1632.0,
+      "title": "Virtual Planetarium: Sun Moon Stars"
+    },
+    {
+      "id": "qV1KxmGDkk8",
+      "channel": "Justin Hurwitz - Topic",
+      "duration": 260.0,
+      "title": "Planetarium"
+    }
+  ]
+}

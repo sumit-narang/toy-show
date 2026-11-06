@@ -1,0 +1,57 @@
+{
+  "id": "2018-diary-of-a-wimpy-kid-the-meltdown-by-jeff-kinney",
+  "year": 2018,
+  "name": "Diary of a Wimpy Kid: The Meltdown by Jeff Kinney",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DaJBO_ueFnQ",
+      "channel": "Jonathan The Mashup Creator",
+      "duration": 684.0,
+      "title": "All Diary of a Wimpy Kid Book Trailers (Including Fight or Flight)"
+    },
+    {
+      "id": "Ej15KTNJCaE",
+      "channel": "Best Audiobook",
+      "duration": 300.0,
+      "title": "Diary of a Wimpy Kid: The Meltdown (book 13) by Jeff Kinney | Full Audiobook"
+    },
+    {
+      "id": "ubI0B6yWei0",
+      "channel": "Free Audiobooks",
+      "duration": 185.0,
+      "title": "Meltdown: Diary of a Wimpy Kid (13) - Jeff Kinney"
+    },
+    {
+      "id": "ZSgwx24DXcA",
+      "channel": "Penguin Random House South Africa",
+      "duration": 30.0,
+      "title": "Diary of a Wimpy Kid: The Meltdown"
+    },
+    {
+      "id": "zPq7CBduvZ4",
+      "channel": "Scholastic",
+      "duration": 101.0,
+      "title": "Diary of a Wimpy Kid: THE MELTDOWN #13 by Jeff Kinney"
+    }
+  ]
+}

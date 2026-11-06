@@ -1,0 +1,65 @@
+{
+  "id": "2020-the-den-kit-co-flower-press-kit",
+  "year": 2020,
+  "name": "The Den Kit Co. Flower Press Kit",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/the-den-kit-comay-the-flower-press/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.freddieandmillietoys.ie/product/the-den-kit-comay-the-flower-press/",
+      "title": "The Den Kit Company – The Flower Press | Freddie & Millie Toys",
+      "description": null,
+      "image": null,
+      "ld_description": "Preserving flowers by pressing is an age-old art, and one that deserves to be celebrated and cherished by every generation. Our hand-crafted, wooden flower press enables a simple way for children to enjoy this absorbing and mindful activity, whilst preserving natural beauty for use in craft projects and study.",
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "The Den Kit Company"
+        }
+      ],
+      "ld_image": "https://www.freddieandmillietoys.ie/wp-content/uploads/2020/09/AK_Flower_Press_External_1000x.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QvMIgnIlS5g",
+      "channel": "Our Favorite Things Reviewed",
+      "duration": 166.0,
+      "title": "10 Layer Wooden Flower Press Kit | Full Demo + Review"
+    },
+    {
+      "id": "0c0BPKzwcZY",
+      "channel": "The Den Kit Co.",
+      "duration": 122.0,
+      "title": "Get To Know Us | The Den Kit Company"
+    },
+    {
+      "id": "DbqkaQqbtgw",
+      "channel": "Home and Gift Association",
+      "duration": 37.0,
+      "title": "Den Kit Co   Advice"
+    },
+    {
+      "id": "5ZSMd2CuRhk",
+      "channel": "The Den Kit Co.",
+      "duration": 289.0,
+      "title": "Camp Wilderness meet The Den Kit Company and review The Ed Stafford Shelter Kit"
+    },
+    {
+      "id": "QXmsUZLQF1Q",
+      "channel": "Taslima Maya Art",
+      "duration": 1120.0,
+      "title": "How to Press Flowers with Suziko Kit + Make Beautiful Bookmarks | Flower Drying & Craft Tutorial"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-our-big-day-by-bob-johnston",
+  "year": 2022,
+  "name": "Our Big Day by Bob Johnston",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "The O'Brien Press",
+      "url": "https://obrien.ie/our-big-day"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://obrien.ie/our-big-day",
+      "title": "Our Big Day",
+      "description": "Our Big Day; A fun and engaging picture book and a heart-warming celebration of love, family, weddings and marriage equality.",
+      "image": "https://obrien.ie/assets/d9e1826a/ourbigday-72969-450x450.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bbRFw5W10TI",
+      "channel": "Bob Johnston",
+      "duration": 173.0,
+      "title": "Unwrapping the First Copy of \"Our Big Day\" (with \"help\" from Jessie the dog...)"
+    },
+    {
+      "id": "ueYuIBNEzsg",
+      "channel": "Calgary Jazz Orchestra",
+      "duration": 570.0,
+      "title": "Hello, Beautiful Child [African Inspired Big Band Jazz Fusion] - Calgary Jazz Orchestra"
+    },
+    {
+      "id": "ozj76yJz2C8",
+      "channel": "Calgary Jazz Orchestra",
+      "duration": 541.0,
+      "title": "Oh Holy Night - Calgary Jazz Orchestra"
+    },
+    {
+      "id": "qL54-K12OPI",
+      "channel": "SMAADallas",
+      "duration": 1175.0,
+      "title": "The Rev. Robert \"Bob\" Johnston III - \"Double Take\""
+    },
+    {
+      "id": "59aoWggycSE",
+      "channel": "legbreakgoogly",
+      "duration": 109.0,
+      "title": "Tony Greig - Commentary Gold"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-wwe-undisputed-wwe-universal-championship-belt",
+  "year": 2024,
+  "name": "WWE Undisputed WWE Universal Championship Belt",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-undisputed-wwe-universal-championship-belt/p/234349"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-undisputed-wwe-universal-championship-belt/p/234349",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KHSf9lYVpt0",
+      "channel": "Wick Belts",
+      "duration": 305.0,
+      "title": "WWE Undisputed Universal Championship Shop Belt vs Commemorative Title Belt"
+    },
+    {
+      "id": "kZEx0tyfIg4",
+      "channel": "Wick Belts",
+      "duration": 307.0,
+      "title": "WWE Undisputed Universal Championship Title Belt Unboxing!"
+    },
+    {
+      "id": "q7q95X_Ow6g",
+      "channel": "Wick Belts",
+      "duration": 278.0,
+      "title": "WWE Undisputed Universal Championship Commemorative Title Belt Unboxing!"
+    },
+    {
+      "id": "_NanF0N2RGk",
+      "channel": "Apex Killer",
+      "duration": 419.0,
+      "title": "WWE 2K23: How To Make The New Undisputed WWE Universal Championship"
+    },
+    {
+      "id": "L2KPRVfHlmE",
+      "channel": "Deus Legend Collects",
+      "duration": 1025.0,
+      "title": "Undisputed WWE Championship Belt By Altair Belts/Ali Anas Review | 4K #wwe #wwechampionship"
+    }
+  ]
+}

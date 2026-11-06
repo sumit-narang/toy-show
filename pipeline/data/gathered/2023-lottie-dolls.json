@@ -1,0 +1,60 @@
+{
+  "id": "2023-lottie-dolls",
+  "year": 2023,
+  "name": "Lottie Dolls",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Art & Hobby",
+      "url": "https://www.artnhobby.ie/products/lottie-doll-rockability"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.artnhobby.ie/products/lottie-doll-rockability",
+      "title": "Lottie Doll - Rockabilly Doll with Glasses | Art & Hobby",
+      "description": "Dressed in her vintage-style jacket and glasses, Lottie heads over to the Victorian Bandstand to listen to live music performances. It’s fun to listen to new bands and musicians, discover different types of music, and let loose and dance. After a day of music and laughter, Lottie heads home with a spring in her step.",
+      "image": "http://www.artnhobby.ie/cdn/shop/products/lt051.jpg?crop=center&height=1200&v=1653839177&width=1200",
+      "ld_description": "Dressed in her vintage-style jacket and glasses, Lottie heads over to the Victorian Bandstand to listen to live music performances.\nIt’s fun to listen to new bands and musicians, discover different types of music, and let loose and dance. Lottie isn’t the greatest dancer, but she’s happy to do her own thing, and isn’t scared to march to the beat of her own drum, and be herself.\nAfter a day of music and laughter, Lottie heads home with a spring in her step.\n\nBall jointed doll with bendable knees, easy to pose for imaginative play\nPremium saran nylon hair, soft to touch and reduced tangle\nPhthalate free vinyl plastic, super soft feel\nRemovable doll shoes, able to stand on her own two feet\nBrown doll hair, green doll eyes\nLoved and suitable for all ages over 3 years\n7.5/18cm, perfectly portable childhood companion\n\nPresented in beautifully designed, brightly coloured boxes (complete with handle for easy transport) these Irish designed dolls need no wrapping and have award winning attention to detail which make them an essential addition for any doll collector.   Includes: \n\nLottie Doll\nA vintage-style Varsity jacket featuring the ‘Be Bold Be Brave Be You’ print on the back\nA long sleeved t-shirt\nA fun tutu skirt\nSneakers\nStriped leggings\nA cute bow hairband\nA pair of retro-style cat’s eye glasses",
+      "brand": "BIGJIG TOYS LTD",
+      "ld_image": "https://www.artnhobby.ie/cdn/shop/products/lt051.jpg?v=1653839177&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bLUSIsNJ1ec",
+      "channel": "The Coffee Apple",
+      "duration": 347.0,
+      "title": "Lottie Dolls"
+    },
+    {
+      "id": "R2f-c_yBIUk",
+      "channel": "Beauty Inside A Box",
+      "duration": 515.0,
+      "title": "Lottie Dolls - Doll Review - Beauty Inside A Box"
+    },
+    {
+      "id": "pcnIcksApyw",
+      "channel": "Lottie Dolls",
+      "duration": 193.0,
+      "title": "Lottie Dolls. The story of how it all started."
+    },
+    {
+      "id": "HbWq2W_QQ8Q",
+      "channel": "Lottie Dolls",
+      "duration": 92.0,
+      "title": "Lottie Dolls Teaser Trailer"
+    },
+    {
+      "id": "TuCH5lzYeto",
+      "channel": "Lottie Dolls",
+      "duration": 34.0,
+      "title": "Lottie dolls: Snow Queen Lottie doll by Arklu"
+    }
+  ]
+}

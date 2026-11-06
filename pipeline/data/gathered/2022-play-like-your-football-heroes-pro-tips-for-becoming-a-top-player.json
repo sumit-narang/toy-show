@@ -1,0 +1,57 @@
+{
+  "id": "2022-play-like-your-football-heroes-pro-tips-for-becoming-a-top-player",
+  "year": 2022,
+  "name": "Play Like Your Football Heroes: Pro tips for becoming a top player",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bookstation",
+      "url": "https://www.bookstation.ie/?s=Play+like+your+football+heroes&post_type=product&type_aws=true"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://bookstation.ie/?s=Play+like+your+football+heroes&post_type=product&type_aws=true",
+      "title": "Bookstation",
+      "description": "Shop at Bookstation Home — Bookstation Is Ireland's Best Value Chain Of Book & Stationery Shops. 100% Irish Owned.",
+      "image": "http://bookstation.ie/cdn/shop/files/Bookstation_Logo_Black.png?v=1747056870&width=1024"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7XT7d2m2BUw",
+      "channel": "Walker Books",
+      "duration": 143.0,
+      "title": "Be More Messi | Play Like Your Football Heroes by Seth Burkett and Matt Oldfield"
+    },
+    {
+      "id": "EeyeLkXNRDQ",
+      "channel": "Walker Books",
+      "duration": 75.0,
+      "title": "Think Like De Bruyne | Play Like Your Football Heroes by Seth Burkett and Matt Oldfield"
+    },
+    {
+      "id": "7atXJ5T982o",
+      "channel": "ZTH Training",
+      "duration": 770.0,
+      "title": "How I Would Go Pro (at Every Age)"
+    },
+    {
+      "id": "8DdbRS46kew",
+      "channel": "Seth Burkett Author",
+      "duration": 119.0,
+      "title": "Play Like Your Football Heroes: BONUS skill tutorial!"
+    },
+    {
+      "id": "4vlDRaNly5M",
+      "channel": "Mr. Believer",
+      "duration": 699.0,
+      "title": "15+ TIPS to WIN ANY OPPONENT in FC Mobile - IGNORE = REGRET | Mr. Believer"
+    }
+  ]
+}

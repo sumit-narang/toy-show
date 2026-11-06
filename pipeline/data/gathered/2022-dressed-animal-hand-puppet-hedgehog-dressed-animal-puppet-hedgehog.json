@@ -1,0 +1,57 @@
+{
+  "id": "2022-dressed-animal-hand-puppet-hedgehog-dressed-animal-puppet-hedgehog",
+  "year": 2022,
+  "name": "Dressed Animal Hand Puppet - Hedgehog Dressed Animal Puppet Hedgehog",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/",
+      "title": "Mimitoys.ie | Quality Toys, Puppets & Educational Toys in Ireland",
+      "description": "Shop quality toys, puppets, arts and crafts, role play toys and educational gifts at Mimitoys.ie. Trusted for over 20 years by Irish parents, teachers, childcare providers and play therapists. Irish-owned online toy shop with real stock in Ireland and fast delivery nationwide.",
+      "image": "http://mimitoys.ie/cdn/shop/files/Mimitoys_Social_Share_Image.webp?v=1683541818"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EQ-gqpDdPb8",
+      "channel": "Knowledgeable Hedgehog",
+      "duration": 366.0,
+      "title": "DIY Bee Pet Costume for hedgehogs, hamsters, guinea pigs, rabbits, and other small animals"
+    },
+    {
+      "id": "cglLLYRGcrc",
+      "channel": "Renata Kolibova",
+      "duration": 160.0,
+      "title": "How To Make a Paper Hedgehog - DIY Hedgehog - Paper Craft"
+    },
+    {
+      "id": "y52bt5y82UE",
+      "channel": "Kreativ mit Lena",
+      "duration": 243.0,
+      "title": "𝗞𝗿𝗲𝗮𝘁𝗶v 𝗺𝗶𝘁 𝗟𝗲𝗻𝗮 🦔 Igel basteln mit Lena - How to make hedgehog mask DIY - Как сделать маску ёжика"
+    },
+    {
+      "id": "S8ApxToWd3M",
+      "channel": "Sudesh Maker",
+      "duration": 723.0,
+      "title": "\"How to Make Sonic The Hedgehog Head with Cardboard | DIY Sonic Costume Tutorial (Part 1)\""
+    },
+    {
+      "id": "EKTh5EwfvQ0",
+      "channel": "Wendi Gratz",
+      "duration": 683.0,
+      "title": "Heidi Hedgehog"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-long-skipping-rope-for-2-3-people",
+  "year": 2022,
+  "name": "Long Skipping Rope for 2-3 People",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "jiminy eco-toys",
+      "url": "https://jiminy.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "V4Cx58njydI",
+      "channel": "Mrs. Carly Glanzman",
+      "duration": 24.0,
+      "title": "PE Long Jump Rope Rhymes"
+    },
+    {
+      "id": "cDMSdoGFOsA",
+      "channel": "Calories Planet",
+      "duration": 261.0,
+      "title": "Training Guide for X2 Ropeless Battle Ropes"
+    },
+    {
+      "id": "9sPnN6fe6VM",
+      "channel": "BreatheFit TV",
+      "duration": 361.0,
+      "title": "Jump Rope Exercise | Burn More Calories | Best HIIT Workout For Fat Loss | BreatheFit TV"
+    },
+    {
+      "id": "Z75iIY5ez2s",
+      "channel": "PHABulous Kids ",
+      "duration": 251.0,
+      "title": "Building Jump Rope Skills for Kindergarten to 2nd Grade"
+    },
+    {
+      "id": "sk89d9nMTI0",
+      "channel": "Luke Skywalker",
+      "duration": 71.0,
+      "title": "Supersonics Jump Rope"
+    }
+  ]
+}

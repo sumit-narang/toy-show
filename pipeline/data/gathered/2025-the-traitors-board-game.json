@@ -1,0 +1,57 @@
+{
+  "id": "2025-the-traitors-board-game",
+  "year": 2025,
+  "name": "The Traitors Board Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/the-traitors-board-game/p/225351"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/family-board-games/the-traitors-board-game/p/225351",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dAeXQolEyXE",
+      "channel": "JestaThaRogue",
+      "duration": 456.0,
+      "title": "How to play The Traitors: The Official Board Game"
+    },
+    {
+      "id": "uCtoTudcbF0",
+      "channel": "Vivid Toys and Games",
+      "duration": 352.0,
+      "title": "The Traitors Official Board Game - How To Play"
+    },
+    {
+      "id": "0-XuvpLDT6M",
+      "channel": "Menkind",
+      "duration": 423.0,
+      "title": "The Traitors Board Game Second Edition"
+    },
+    {
+      "id": "TyzQDyrISP0",
+      "channel": "JestaThaRogue",
+      "duration": 295.0,
+      "title": "How to play The Traitors: Card Game"
+    },
+    {
+      "id": "40EdUJ5TBCk",
+      "channel": "Prezzybox",
+      "duration": 75.0,
+      "title": "The Traitors Board Game"
+    }
+  ]
+}

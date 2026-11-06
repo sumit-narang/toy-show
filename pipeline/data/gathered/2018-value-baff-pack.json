@@ -1,0 +1,54 @@
+{
+  "id": "2018-value-baff-pack",
+  "year": 2018,
+  "name": "Value Baff Pack",
+  "price_eur": 4.99,
+  "price_text": "from €4.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "http://Amazon.co.uk"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JPL-rasIMRM",
+      "channel": "Culture Jouer",
+      "duration": 142.0,
+      "title": "Avis sur la ZIMPLI - Pack Mega Value Baff 12 utilisations, 4 x Gelli Baff, 2 x Slime Baff & 6 x Crac"
+    },
+    {
+      "id": "ImPY9jAdLgk",
+      "channel": "The Product Critiques",
+      "duration": 170.0,
+      "title": "💧 Zimpli Kids 12 Use Mega Value Baff Pack from Zimpli Kids | Best Squishy Baff 💧"
+    },
+    {
+      "id": "6cdpXbDPkoE",
+      "channel": "Zimpli Kids",
+      "duration": 27.0,
+      "title": "Zimpli Round Baff Bombz - 16 Pack"
+    },
+    {
+      "id": "5jawBfHUd-c",
+      "channel": "True Toys",
+      "duration": 8.0,
+      "title": "Zimpli Kids Baff Bombz 6x Large Egg Bath Bombs"
+    },
+    {
+      "id": "WJiMAHZcM-w",
+      "channel": "CrazyRussianHacker",
+      "duration": 160.0,
+      "title": "Gelli Baff Slime Kit"
+    }
+  ]
+}

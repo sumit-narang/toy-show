@@ -1,0 +1,54 @@
+{
+  "id": "2022-fur-fluffs",
+  "year": 2022,
+  "name": "Fur fluffs",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "World Of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product/fur-fluffs/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://worldofwondertoys.ie/product/fur-fluffs/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s3g-_EWMUtk",
+      "channel": "Hatchimals",
+      "duration": 354.0,
+      "title": "How to Play with NEW WHAT THE FLUFF Surprise Interactive Pet"
+    },
+    {
+      "id": "sQGEelSz6QY",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 866.0,
+      "title": "New Interactive Toys for Christmas 2022: What the Fluff Fur Fluffs Interactive Pet How to Use"
+    },
+    {
+      "id": "sL0ekQXcBZE",
+      "channel": "Tallie's Tricks",
+      "duration": 706.0,
+      "title": "What the Fluff? Purr’n Fluff Surprise Reveal Interactive Toy Pet"
+    },
+    {
+      "id": "WB6WL6n1z0k",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 471.0,
+      "title": "Creepy or Cute? Spin master What the Fluff Fur Fluffs Interactive Pet"
+    },
+    {
+      "id": "U5pUSWGeY8U",
+      "channel": "Upside Down Toys",
+      "duration": 628.0,
+      "title": "What the Fluff Interactive Pet Unboxing Review | The Upside Down Robot"
+    }
+  ]
+}

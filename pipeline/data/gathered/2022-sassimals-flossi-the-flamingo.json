@@ -1,0 +1,54 @@
+{
+  "id": "2022-sassimals-flossi-the-flamingo",
+  "year": 2022,
+  "name": "SASSIMALS FLOSSI THE FLAMINGO",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aqdB42pMsjs",
+      "channel": "LordOfNerds",
+      "duration": 87.0,
+      "title": "Toys Under High Voltage - Sassimals Flossi Flamingo"
+    },
+    {
+      "id": "UJ6dVYFSUkc",
+      "channel": "MiniturePharell",
+      "duration": 37.0,
+      "title": "Sassimals Flossi Flamingo"
+    },
+    {
+      "id": "4mmI1UeDsv4",
+      "channel": "SAFFRON 2",
+      "duration": 84.0,
+      "title": "Танцююча Лама Альпака  Ali Alpaca Sassimals"
+    },
+    {
+      "id": "rbxLFdxSB_w",
+      "channel": "Miss Sabrina Blue - Topic",
+      "duration": 169.0,
+      "title": "Flossie Flamingo Dance Party"
+    },
+    {
+      "id": "cufmvnHX9Q4",
+      "channel": "TLTC - the little things count",
+      "duration": 41.0,
+      "title": "Frieda Flamingo in Aktion"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-pony-fly-hood",
+  "year": 2023,
+  "name": "LeMieux Mini Pony Fly Hood",
+  "price_eur": 20.34,
+  "price_text": "€20.34",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Pony-Fly-Hood/19HT?stock=58962"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Fly-Hood-Chilli/19HT?stock=58962",
+      "title": "Toy Pony Fly Hood - Chilli",
+      "description": "Toy Pony Fly Hood - Chilli\n\nAn identical miniature version of the Classic Fly Hood with intricate handmade crochet.  Super soft suede...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GM3/1000/1000/chilli-mini-lemieux-fly-hood-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lpGAOyphvDE",
+      "channel": "LeMieux Official",
+      "duration": 31.0,
+      "title": "LeMieux Toy Ponies"
+    },
+    {
+      "id": "9NkvHjb4Wtg",
+      "channel": "Lemieux toy pony ",
+      "duration": 496.0,
+      "title": "The LeMieux jump unboxing and review - all 5 jumps"
+    },
+    {
+      "id": "zXjmN83nGP4",
+      "channel": "Mali Mini Equestrian ",
+      "duration": 1352.0,
+      "title": "THE ULTIMATE TOY PONY COLLECTION! 😍🐎"
+    },
+    {
+      "id": "FyqIJ-RoiSw",
+      "channel": "𝐎𝐀𝐊 𝐅𝐈𝐄𝐋𝐃 𝐒𝐓𝐀𝐁𝐋𝐄𝐒",
+      "duration": 274.0,
+      "title": "New LeMieux AW26 Toy Pony Leaks!! ⛅️ ࣪  || Sneak Peak of LeMieux New Collection"
+    },
+    {
+      "id": "f74OZ48WPNE",
+      "channel": "Angel Wings Equestrian",
+      "duration": 641.0,
+      "title": "Unboxing My New LeMieux Toy Pony Star"
+    }
+  ]
+}

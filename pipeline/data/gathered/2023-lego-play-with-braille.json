@@ -1,0 +1,60 @@
+{
+  "id": "2023-lego-play-with-braille",
+  "year": 2023,
+  "name": "LEGO Play with Braille",
+  "price_eur": 90.0,
+  "price_text": "€90.00",
+  "retailers": [
+    {
+      "name": "LEGO",
+      "url": "https://www.lego.com/en-ie/product/play-with-braille-english-40656"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lego.com/en-ie/product/play-with-braille-english-alphabet-40656",
+      "title": "Play with Braille – English Alphabet 40656 | Other | Buy online at the Official LEGO® Shop IE",
+      "description": "LEGO® bricks with braille for kids with visual impairments",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltc294bab7105e338c/40656_Box1_v39.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "ld_description": "LEGO® bricks with braille for kids with visual impairments",
+      "brand": "LEGO®",
+      "ld_image": "https://www.lego.com/cdn/cs/set/assets/bltc294bab7105e338c/40656_Box1_v39.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QLsP-qr_At8",
+      "channel": "LEGO",
+      "duration": 253.0,
+      "title": "Introducing LEGO Braille Bricks – Play with Braille"
+    },
+    {
+      "id": "KzOSG_zYvNo",
+      "channel": "Molly Burke",
+      "duration": 996.0,
+      "title": "Playing with LEGO Braille Bricks & Talking About Blindness and Childhood!"
+    },
+    {
+      "id": "VW6xeiG8kIM",
+      "channel": "CBS Mornings",
+      "duration": 190.0,
+      "title": "Legos' \"Braille Bricks\" aim to help blind children learn"
+    },
+    {
+      "id": "j0o1_-K5n38",
+      "channel": "ThatChazGuy",
+      "duration": 231.0,
+      "title": "LEGO Braille Bricks | LEGO Introduces A New Hands On Experience With Their New Play With Braille Set"
+    },
+    {
+      "id": "S78_CPGUZfc",
+      "channel": "The LEGO Group",
+      "duration": 168.0,
+      "title": "How LEGO® Braille Bricks help kids learn!"
+    }
+  ]
+}

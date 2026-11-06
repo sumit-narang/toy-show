@@ -1,0 +1,60 @@
+{
+  "id": "2024-selection-of-lego-flowers",
+  "year": 2024,
+  "name": "Selection of LEGO Flowers",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-sunflowers-40524-7302076"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/lego-sunflowers-40524-7302076",
+      "title": "Lego Sunflowers 40524 | FREE DELIVERY on orders over €10",
+      "description": "Create a stunning LEGO sunflower display bringing a touch of nature indoors all year round. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "Sunflowers symbolise warmth, positivity and joy, qualities captured in the LEGO Creator Sunflowers (40524) building kit that allows you to create your own cheerful display of artificial sunflowers.\n\n  Perfect as floral decoration, these faux flowers add brightness to any setting, including as kids' bedroom accessories. Their vibrant colours and realistic design make them a captivating addition to your home or office.\n\n  Create an eye-catching faux sunflower display or make a mixed bouquet by adding the LEGO Roses (40460), LEGO Tulips (40461) or LEGO Flower Bouquet (10280) sets (each sold separately). These combinations work well as sunflower decorations or as a centrepiece in any room, appealing to LEGO fans of all ages.\n\n  LEGO artificial flowers are beautiful gifts for teenage girls and nature lovers, and offer a fun, engaging building experience. They are also ideal as sunflower gifts for special occasions like Mother's Day, making a thoughtful and lasting present.\n\n  \n    Includes buildable sunflowers for a bright, cheerful display\n    Suitable as décor for bedrooms, home or office\n    Combine with LEGO Roses (40460), Tulips (40461) or Flower Bouquet (10280)\n    Appeals to builders and flower lovers of all ages\n    A lasting alternative to real flowers, perfect for gifting",
+      "brand": "Lego",
+      "ld_image": "https://www.easons.com/images/m/e9721cd02ec61d9/original/7302076_5638269512.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "03tAsarwgQs",
+      "channel": "The BRIC House",
+      "duration": 223.0,
+      "title": "Lego Flower Bouquet giveaway winner selection. Are you a winner?"
+    },
+    {
+      "id": "vsv839SKNz0",
+      "channel": "Barlow Bricks",
+      "duration": 861.0,
+      "title": "My Complete LEGO Garden Collection and Builds! LEGO Flowers and Botanical Collection!"
+    },
+    {
+      "id": "adSv8djnZGU",
+      "channel": "Magic Brick Builder",
+      "duration": 263.0,
+      "title": "Lego 10280, Flower Bouquet , botanical collection - stop motion build."
+    },
+    {
+      "id": "28JHdHEIpuA",
+      "channel": "WorldShoping",
+      "duration": 72.0,
+      "title": "LEGO Botanicals Flower Arrangement Artificial Flowers Building Set"
+    },
+    {
+      "id": "U31BydZIAnM",
+      "channel": "Bricksie",
+      "duration": 1349.0,
+      "title": "LEGO Botanicals | Review | Display Update | MILS Integration | Custom Vase"
+    }
+  ]
+}

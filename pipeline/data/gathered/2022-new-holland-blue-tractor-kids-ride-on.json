@@ -1,0 +1,60 @@
+{
+  "id": "2022-new-holland-blue-tractor-kids-ride-on",
+  "year": 2022,
+  "name": "New Holland Blue Tractor Kids Ride On",
+  "price_eur": 635.0,
+  "price_text": "€635",
+  "retailers": [
+    {
+      "name": "Hennessy Outdoors",
+      "url": "https://hennessyoutdoors.ie/product/kids-ride-on-licenced-new-holland-t7-24v-tractor/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://koala-play.com/product/kids-ride-on-licenced-new-holland-t7-24v-tractor/",
+      "title": "Kids Ride On Licenced New Holland T7 24V Tractor - Koala Play",
+      "description": "You're the future of farming. You've got a lot of work to do and need a tractor that can keep up with you. Check out the New Holland Kids Ride On Tractor!",
+      "image": "https://koala-play.com/wp-content/uploads/2025/04/New-Holland-Kids-Tractor-and-Trailer.jpg",
+      "ld_description": "You're the future of farming. You've got a lot of work to do and you need a tractor that can keep up with you. New Holland Tractor is your partner in progress. This 24V heavy-duty battery has the power to take on any job, from ploughing to planting. Forward and backward gears let you get where you need to go, and the additional features like a leather seat, headlights and tough EVA rubber wheels, and more will make sure you get the job done in no time. Keep her lit with our durable battery.\r\n\r\n\r\n \tPowerful 24V Battery: Provides the strength needed for any task.\r\n \tDual 200W Motors: Delivers reliable performance for heavy-duty jobs.\r\n \tForward/Backward Gears: Allows easy maneuverability on any terrain.\r\n \t2.4G Parental Remote Control: Ensures safety and control for young drivers.\r\n \tMP3 Player: Enjoy music while you work.\r\n \tHigh/Low Speed Options: Adapt to different tasks with variable speed control.\r\n \tEVA Rubber Wheels: Offers exceptional durability and traction.\r\n \tLuxurious Leather Seat: Comfortably designed for long hours of play.\r\n \tHeadlights &amp; Start-Up Sounds: Adds realism to every ride.\r\n \tSpeed: Adjustable between 5-7 km/hr, perfect for young drivers.\r\n \tRecommended Age Group: Suitable for kids aged 3 – 8 years.\r\n \tNew: Hitch and Trailer (Select option from drop down below!)\r\n\r\n&nbsp;\r\n\r\nORDER SPARE PARTS HERE!\r\n\r\n&nbsp;\r\n\r\n\r\n\r\n\r\n\r\n&nbsp;\r\n\r\nDELIVERED ALL OVER IRELAND &amp; N.IRELAND!",
+      "brand": null,
+      "ld_image": "https://koala-play.com/wp-content/uploads/2025/04/New-Holland-Kids-Tractor-and-Trailer.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EvCFwfSTsmI",
+      "channel": "Monaghan Hire",
+      "duration": 34.0,
+      "title": "Kids Ride On Licenced New Holland Tractor 24v available at Monaghan Hire!"
+    },
+    {
+      "id": "TDHILszGNrw",
+      "channel": "FNY Toys",
+      "duration": 60.0,
+      "title": "24v New Holland T7"
+    },
+    {
+      "id": "f6tE4xQsHVY",
+      "channel": "Shamshad Maker",
+      "duration": 372.0,
+      "title": "RC Mahindra Tractor Vs RC John Deere Tractor Unboxing & Testing | Shamshad Maker🔥🔥"
+    },
+    {
+      "id": "Tuu-dxSfKJE",
+      "channel": "Jess & Obie",
+      "duration": 103.0,
+      "title": "My Honest Review of TEOAYEAH Kids Ride on Tractor with Remote Control"
+    },
+    {
+      "id": "4Sz3pF7DA3o",
+      "channel": "RC T4K",
+      "duration": 637.0,
+      "title": "BRUDER TRACTOR RC New Holland T7.315 & RC John DEERE 9620"
+    }
+  ]
+}

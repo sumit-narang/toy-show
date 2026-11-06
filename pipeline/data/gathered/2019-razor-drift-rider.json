@@ -1,0 +1,57 @@
+{
+  "id": "2019-razor-drift-rider",
+  "year": 2019,
+  "name": "Razor Drift Rider",
+  "price_eur": 269.99,
+  "price_text": "€269.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JUx_XoHjHM8",
+      "channel": "RazorWorldwide",
+      "duration": 110.0,
+      "title": "Razor Drift Rider Ride Video"
+    },
+    {
+      "id": "7UKJczYHumU",
+      "channel": "Razor Australia",
+      "duration": 279.0,
+      "title": "How to Replace the Battery on the Razor Drift Rider"
+    },
+    {
+      "id": "oH8JAe-_WIc",
+      "channel": "Razor Russia",
+      "duration": 110.0,
+      "title": "Дрифтовый электробайк Drift Rider! Новинка 2019"
+    },
+    {
+      "id": "RTHiwMK9EoY",
+      "channel": "RazorWorldwide",
+      "duration": 351.0,
+      "title": "How to Assemble the Razor Drift Rider"
+    },
+    {
+      "id": "wdKRPN6IZps",
+      "channel": "Nigelclarketv",
+      "duration": 203.0,
+      "title": "Razor Drift Rider - Toy Review"
+    }
+  ]
+}

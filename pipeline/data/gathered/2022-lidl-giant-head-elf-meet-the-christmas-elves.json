@@ -1,0 +1,45 @@
+{
+  "id": "2022-lidl-giant-head-elf-meet-the-christmas-elves",
+  "year": 2022,
+  "name": "Lidl Giant Head Elf Meet The Christmas Elves",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lidl Ireland",
+      "url": "https://www.lidl.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lidl.ie/",
+      "title": "Lidl - Special Offers, Super Savers & More - Lidl Ireland - www.lidl.ie",
+      "description": "Lidl supermarkets have a range of high-quality fresh food groceries at prices you'll love. Browse our weekly special offers and Super Savers online.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lIhEtAJzBVE",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 3636.0,
+      "title": "Ben and Holly’s Little Kingdom Full Episodes 💎 The Dwarf Mine  💎 HD Cartoons for Kids"
+    },
+    {
+      "id": "zIQx2GQ9SkQ",
+      "channel": "Madison and Beyond",
+      "duration": 742.0,
+      "title": "20 Questions with Madison! Then vs Now!!"
+    },
+    {
+      "id": "aSIQVzqnoCw",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 14802.0,
+      "title": "The Big Vet Rescue! 🏥 | Peppa Pig Official Minisodes"
+    }
+  ]
+}

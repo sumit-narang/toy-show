@@ -1,0 +1,54 @@
+{
+  "id": "2019-tenderleaf-toys-cottontail-cottage",
+  "year": 2019,
+  "name": "TenderLeaf Toys Cottontail Cottage",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Bygge Bo",
+      "url": "https://byggebo.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://byggebo.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O1iQDdRz9qs",
+      "channel": "tedaria-pl",
+      "duration": 119.0,
+      "title": "Drewniany leśny domek Rosewood Cottage Tender Leaf Toys"
+    },
+    {
+      "id": "oQcO9PI72Z0",
+      "channel": "John Gonzalez",
+      "duration": 49.0,
+      "title": "Tender Leaf Toys - Cottontail Cottage - Furnished 18.7\" Tall Countryside Cottage review"
+    },
+    {
+      "id": "3JO9xrOj1wI",
+      "channel": "mackojatek.hu",
+      "duration": 122.0,
+      "title": "Fa erdei házikó Rosewood Cottage Tender Leaf Toys"
+    },
+    {
+      "id": "gYneTiEODSs",
+      "channel": "Beesybox",
+      "duration": 113.0,
+      "title": "Tender Leaf Cottage Rosewood Cottage"
+    },
+    {
+      "id": "VXHmVFxIsAQ",
+      "channel": "Wip Produções, Video strategies for BUSINESS",
+      "duration": 276.0,
+      "title": "Tender Leaf Toys Spielwarenmesse 2019"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2020-the-den-kit-co-forest-school-natural-fabric-art-kit",
+  "year": 2020,
+  "name": "The Den Kit Co. Forest School Natural Fabric Art Kit",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-the-natural-fabric-art-kit/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-the-natural-fabric-art-kit/",
+      "title": "The Den Kit Company –  The Natural Fabric Art Kit | Freddie & Millie Toys",
+      "description": null,
+      "image": null,
+      "ld_description": "Create your own natural artwork using plant dyes and two absorbing techniques to produce vibrant patterns and stunning scenes on a calico cotton flag, and mini-bunting.",
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "The Den Kit Company"
+        }
+      ],
+      "ld_image": "https://www.freddieandmillietoys.ie/wp-content/uploads/2020/09/AK_Natural_Fabric_Art_External_1000x.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DcIcAi5kjyY",
+      "channel": "The Den Kit Co.",
+      "duration": 149.0,
+      "title": "Ignite Their Imagination Film"
+    },
+    {
+      "id": "SDT29f4nWEk",
+      "channel": "Ivy Lily Creative",
+      "duration": 192.0,
+      "title": "I Tried Acrylic Squeegee Painting & I'm Hooked!"
+    },
+    {
+      "id": "WIbIG1Pzqoo",
+      "channel": "Tradition Forge",
+      "duration": 1015.0,
+      "title": "How Amish Make Their Famous Quilts | The Amish Way"
+    },
+    {
+      "id": "D7CtQorMKU0",
+      "channel": "SIKANA English",
+      "duration": 121.0,
+      "title": "Learn how to make incense"
+    },
+    {
+      "id": "Rks83yMD6Io",
+      "channel": "Training Hands Academy",
+      "duration": 799.0,
+      "title": "Buying The Right Masks And Respirators"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-ireland-in-numbers-by-jackie-mccann",
+  "year": 2024,
+  "name": "Ireland in Numbers by Jackie McCann",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/ireland-in-numbers-hb-jackie-mccann-9781804581780"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/ireland-in-numbers-hb-jackie-mccann-9781804581780",
+      "title": "Ireland In Numbers By Jacqueline Mccann | Buy Now At Easons",
+      "description": "Dive into Ireland's statistics and insights with Ireland in Numbers by Jackie McCann a unique look at Irish life. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "From the founding of the Irish Free State to today, Ireland in Numbers covers everything you ever wanted to know about the people of Ireland, with bite-size facts and vibrant illustrations. How many people live on the island of Ireland and why are there fewer people today than there were 100 years ago? Where do most of us live, and what is the fastest-growing region? What languages do we speak? 99% of children in Ireland go to school, but how many went 100 years ago? And are there really more cows than people on our island? Take a deep dive into the data and you'll be amazed by what the numbers tell us about Ireland past and present!",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/3060d243-1acf-46db-b6ae-05f9cc9f29e8/9781804581780_5643316059.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "IIYoucMhjaI",
+      "channel": "Fionán Ó Murchadha",
+      "duration": 227.0,
+      "title": "\"Put Em' Under Pressure\" - 1990 FIFA World Cup Republic of Ireland Song"
+    },
+    {
+      "id": "A1LRpQUfEzY",
+      "channel": "Opening Salvo",
+      "duration": 259.0,
+      "title": "Put Em Under Pressure: Lyrics (Italia 90) HD/HQ"
+    },
+    {
+      "id": "r5PuNd5iguc",
+      "channel": "FAI TV",
+      "duration": 196.0,
+      "title": "We're All Part of Jackie's Army | Jack Charlton's greatest moments as Ireland Manager"
+    },
+    {
+      "id": "hBH0-57vrHA",
+      "channel": "Christy Moore",
+      "duration": 267.0,
+      "title": "Christy Moore - Joxer Goes To Stuttgart (Official Live Video)"
+    },
+    {
+      "id": "2TEXKU8JiHQ",
+      "channel": "Northern Ireland Traveller",
+      "duration": 843.0,
+      "title": "World's First LIDL Pub - THE MIDDLE ALE 🍺 Started Great - Ended Bad 🍻"
+    }
+  ]
+}

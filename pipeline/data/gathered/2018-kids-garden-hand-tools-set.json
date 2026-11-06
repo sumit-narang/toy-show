@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-garden-hand-tools-set",
+  "year": 2018,
+  "name": "Kids Garden Hand Tools Set",
+  "price_eur": 3.99,
+  "price_text": "€3.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1drkb5N9l7I",
+      "channel": "TheGardenShopIreland",
+      "duration": 142.0,
+      "title": "Children's Garden Hand Tools Set"
+    },
+    {
+      "id": "ndRR9FaG89c",
+      "channel": "TheGardenShopIreland",
+      "duration": 100.0,
+      "title": "Kids Garden Hand Tool Set"
+    },
+    {
+      "id": "mYaEBgeebf4",
+      "channel": "PRARAMBHIK BAL SHIKSHA",
+      "duration": 202.0,
+      "title": "Gardening Tools | Learning Garden Tools | Gardening Tools for Kids | Simple Garden Tools for Kids"
+    },
+    {
+      "id": "ac75tG1T7A8",
+      "channel": "Vibing with Aleks ",
+      "duration": 536.0,
+      "title": "INNOCHEER Kids Gardening Tools🌼 SPRING is COMING 🌞SWEETIE FELLA ALEKS Little Gardener"
+    },
+    {
+      "id": "NgIH3VTgADs",
+      "channel": "TheGardenShopIreland",
+      "duration": 57.0,
+      "title": "Kids Garden Hand Tool Set"
+    }
+  ]
+}

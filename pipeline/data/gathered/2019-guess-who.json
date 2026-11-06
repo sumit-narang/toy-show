@@ -1,0 +1,54 @@
+{
+  "id": "2019-guess-who",
+  "year": 2019,
+  "name": "Guess Who?",
+  "price_eur": 16.0,
+  "price_text": "€16.00",
+  "retailers": [
+    {
+      "name": "Argos",
+      "url": "https://www.argos.ie/static/Product/partNumber/3904323/Trail/searchtext%3EGUESS+WHO.htm"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/features/republic-of-ireland"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XnNE5xP1ZDk",
+      "channel": "Guess Who and Deliric",
+      "duration": 196.0,
+      "title": "Guess Who ✘ Deliric - In Prezent | Official Video"
+    },
+    {
+      "id": "dy1MoRB4J70",
+      "channel": "Guess Who and idk",
+      "duration": 217.0,
+      "title": "Guess Who ✘ Bahoi ✘ IDK - Scandal | Official Video"
+    },
+    {
+      "id": "S5JBFYLII4g",
+      "channel": "Cat Music",
+      "duration": 175.0,
+      "title": "Guess Who - Locul Potrivit (Official Video)"
+    },
+    {
+      "id": "m0bt_9Qiznc",
+      "channel": "Guess Who",
+      "duration": 190.0,
+      "title": "Guess Who - Manifest | Official Video"
+    },
+    {
+      "id": "5C-wMFzt_O0",
+      "channel": "Guess Who",
+      "duration": 224.0,
+      "title": "Guess Who - Visul Asta"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-fao-castle-blocks-75-pieces",
+  "year": 2019,
+  "name": "FAO Castle Blocks 75 Pieces",
+  "price_eur": 23.0,
+  "price_text": "€23.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/fao-schwarz/construction-cars/fao-schwarz/solid-wood-castle-blocks-75-pieces/141781146.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/construction-cars/fao-schwarz/solid-wood-castle-blocks-75-pieces/141781146.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rx7_A97u4xM",
+      "channel": "FAO Schwarz",
+      "duration": 61.0,
+      "title": "FAO Schwarz Wood Castle Blocks 75 Piece Set"
+    },
+    {
+      "id": "y4S8IsA6Yio",
+      "channel": "Collective Goods",
+      "duration": 27.0,
+      "title": "FAO building blocks Short"
+    },
+    {
+      "id": "md2zbsgrUeQ",
+      "channel": "CGH149",
+      "duration": 61.0,
+      "title": "FAO Schwarz {75 Piece Set} Wooden Castle Building Blocks Set"
+    },
+    {
+      "id": "k0xsOWfUzjk",
+      "channel": "Tom Caklos",
+      "duration": 61.0,
+      "title": "Best wooden castle building blocks 2019"
+    },
+    {
+      "id": "cy3uR9oST44",
+      "channel": "FAO Schwarz",
+      "duration": 67.0,
+      "title": "FAO Schwarz Cardboard Fort Toy"
+    }
+  ]
+}

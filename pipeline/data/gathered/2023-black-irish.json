@@ -1,0 +1,57 @@
+{
+  "id": "2023-black-irish",
+  "year": 2023,
+  "name": "Black & Irish",
+  "price_eur": 14.5,
+  "price_text": "€14.50",
+  "retailers": [
+    {
+      "name": "Little Island Books",
+      "url": "https://www.littleisland.ie/products/black-and-irish-legends-trailblazers-and-everyday-heroes"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleisland.ie/products/black-and-irish-legends-trailblazers-and-everyday-heroes",
+      "title": "Black and Irish: Legends, Trailblazers & Everyday Heroes",
+      "description": "A groundbreaking new book: this is a celebration of Black Irish identity. Published in collaboration with Black & Irish As featured on the Late Late Toy Show 2023! Actors.Athletes.Activists.Style icons.Scientists.Influencers.Entrepreneurs. Black Irish people are blazing trails in every sphere of modern life. In the",
+      "image": "http://www.littleisland.ie/cdn/shop/files/Black_Irish300_1200x1200.png?v=1692289473"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Jfip96k1cE0",
+      "channel": "Larry Lawlor",
+      "duration": 183.0,
+      "title": "The Black Irish of Montserrat   Irish accents in the Caribbean"
+    },
+    {
+      "id": "Y5zUSkqMb7o",
+      "channel": "Evo Inception",
+      "duration": 879.0,
+      "title": "The Truth About the Black Irish: Ireland’s Hidden DNA"
+    },
+    {
+      "id": "R_uT58C-wHw",
+      "channel": "RTÉ News",
+      "duration": 258.0,
+      "title": "Growing up black and Irish"
+    },
+    {
+      "id": "4yOsw8n2QAs",
+      "channel": "Billx",
+      "duration": 342.0,
+      "title": "Billx & Black Muffin - Irish Legend (Official video)"
+    },
+    {
+      "id": "hzlgyMwCz_E",
+      "channel": "Sir Stevo Timothy",
+      "duration": 44.0,
+      "title": "When you spot a black lad in Ireland"
+    }
+  ]
+}

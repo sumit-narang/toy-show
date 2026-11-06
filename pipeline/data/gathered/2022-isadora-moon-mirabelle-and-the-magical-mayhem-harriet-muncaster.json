@@ -1,0 +1,44 @@
+{
+  "id": "2022-isadora-moon-mirabelle-and-the-magical-mayhem-harriet-muncaster",
+  "year": 2022,
+  "name": "Isadora Moon: Mirabelle and the Magical Mayhem - Harriet Muncaster",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "5QsnnPF2quI",
+      "channel": "Books 4 People",
+      "duration": 43.0,
+      "title": "Harriet Muncaster Mirabelle 3 Books Set (Mirabelle Breaks the Rules and more)"
+    },
+    {
+      "id": "J0YEOeEjs7A",
+      "channel": "Google Play Books",
+      "duration": 334.0,
+      "title": "Mirabelle and the Magical Mayhem Book 6 by Harriet Muncaster · Audiobook preview"
+    },
+    {
+      "id": "4qBbBZnZyPY",
+      "channel": "Harriet Muncaster",
+      "duration": 239.0,
+      "title": "Harriet Muncaster reads from Mirabelle Gets up to Mischief"
+    },
+    {
+      "id": "LIeCCt52eSU",
+      "channel": "Free Audiobook",
+      "duration": 293.0,
+      "title": "Isadora Moon Gets in Trouble Audiobook by Harriet Muncaster"
+    },
+    {
+      "id": "raLm9dEGdB8",
+      "channel": "Google Play Books",
+      "duration": 654.0,
+      "title": "Mirabelle and the Magical Mayhem & Mirabelle… by Harriet Muncaster · Audiobook preview"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-wooden-cutting-food",
+  "year": 2023,
+  "name": "Wooden Cutting Food",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "The Learning Lab",
+      "url": "https://learninglab.ie/product/cutting-food-wooden-play-food/?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrJwuFbWwU0uEh5sQQy5HS_DB0Mg5EeXTkZYR6Fe-Afc1YmnRJWMskaArFVEALw_wcB"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://learninglab.ie/product/cutting-food-wooden-play-food/?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrJwuFbWwU0uEh5sQQy5HS_DB0Mg5EeXTkZYR6Fe-Afc1YmnRJWMskaArFVEALw_wcB"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ZOjmaAi4tGk",
+      "channel": "Megi Learn and Play",
+      "duration": 575.0,
+      "title": "Melissa and Doug Cut Slice Wooden Play Food | Cutting Wooden Fruit and Vegetables"
+    },
+    {
+      "id": "SmBJaV4i__M",
+      "channel": " Kitchen Cutting ASMR",
+      "duration": 3796.0,
+      "title": "1 HOUR Cutting Wooden Fruit and Vegetable/ ASMR no talking"
+    },
+    {
+      "id": "NJ3utlXbt50",
+      "channel": " Kitchen Cutting ASMR",
+      "duration": 3658.0,
+      "title": "1 HOUR Cutting Plastic & Wooden Fruit and Vegetable/ ASMR no talking"
+    },
+    {
+      "id": "2jMsFiAqzoI",
+      "channel": " Kitchen Cutting ASMR",
+      "duration": 3615.0,
+      "title": "1 HOUR Cutting Real vs Wooden Fruit and Vegetable/ ASMR no talking"
+    },
+    {
+      "id": "fIe1gT-CJ2o",
+      "channel": "YL Toys Collection",
+      "duration": 453.0,
+      "title": "Learn Fruits & Vegetables with Wooden Cutting Toys I Kids Learning Video"
+    }
+  ]
+}

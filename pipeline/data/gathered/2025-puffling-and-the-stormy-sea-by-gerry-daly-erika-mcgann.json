@@ -1,0 +1,48 @@
+{
+  "id": "2025-puffling-and-the-stormy-sea-by-gerry-daly-erika-mcgann",
+  "year": 2025,
+  "name": "Puffling And The Stormy Sea by Gerry Daly & Erika McGann",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/puffling-and-the-stormy-sea-erika-mcgann-9781788495288"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/puffling-and-the-stormy-sea-erika-mcgann-9781788495288",
+      "title": "Puffling And The Stormy Sea By Erika Mcgann | Easons Books",
+      "description": "A brave puffling is swept into adventure on Skellig Michael in this warm, windswept animal story for young readers — FREE DELIVERY OVER €10",
+      "image": null,
+      "ld_description": "A brave little puffling lives on Skellig Michael.\nIt's a windy, stormy day - a perfect day for a wild adventure. But she ends up far from home!\nCan her new animal friends help her find her way back?\nIdeal for readers who:\n\nLove picture-book adventures with animals, jeopardy and a reassuring ending.\nAre charmed by stories where a small creature gets lost and must find her way home.\nWould enjoy Skellig Michael, seabirds and a windswept island world brought to life.\nPrefer gentle, atmospheric reads that mix excitement with comfort.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/asset/2a7abebf-6f02-4c86-8868-ba80a23f4c48/9781788495288_5641968350.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Z1w9UWLrkMo",
+      "channel": "Gerry Daly Art",
+      "duration": 419.0,
+      "title": "Draw along Puffling and a gannet chick from 'Puffling and the Stormy Sea’"
+    },
+    {
+      "id": "3IJ_t8lJZbM",
+      "channel": "Gerry Daly Art",
+      "duration": 413.0,
+      "title": "Draw along gannets from 'Puffling and the Stormy Sea’"
+    },
+    {
+      "id": "xSnmmxZLfB4",
+      "channel": "Gerry Daly Art",
+      "duration": 400.0,
+      "title": "Draw along the basking shark from 'Puffling and the Stormy Sea’"
+    }
+  ]
+}

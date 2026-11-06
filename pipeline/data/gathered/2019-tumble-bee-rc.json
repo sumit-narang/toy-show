@@ -1,0 +1,57 @@
+{
+  "id": "2019-tumble-bee-rc",
+  "year": 2019,
+  "name": "Tumble Bee RC",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/radio-control-cars/radio-control-new-bright-tumble-bee/p/172826"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/radio-control-cars/radio-control-new-bright-tumble-bee/p/172826",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C7ZFhEc_kEM",
+      "channel": "bryansbikes",
+      "duration": 651.0,
+      "title": "New Bright RC Tumble Bee Test Run 14 years and up"
+    },
+    {
+      "id": "UMwUxSNocbg",
+      "channel": "Modern Brands",
+      "duration": 15.0,
+      "title": "New Bright Tumble Bee Remote Control"
+    },
+    {
+      "id": "ks7q3cyhcgs",
+      "channel": "KIDDY ZONE",
+      "duration": 31.0,
+      "title": "TUMBLEBEE REMOTE CONTROL BY NEWBRIGHT TOY"
+    },
+    {
+      "id": "HQtsyaWHU54",
+      "channel": "Modern Brands",
+      "duration": 16.0,
+      "title": "New Bright Tumble Bee Remote Control (Yellow)"
+    },
+    {
+      "id": "v8-ITPoPK6k",
+      "channel": "Technology Offers",
+      "duration": 54.0,
+      "title": "RC Stunt Car Bumble Tumble Bee Truck"
+    }
+  ]
+}

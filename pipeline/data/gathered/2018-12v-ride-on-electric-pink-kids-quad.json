@@ -1,0 +1,57 @@
+{
+  "id": "2018-12v-ride-on-electric-pink-kids-quad",
+  "year": 2018,
+  "name": "12V Ride On Electric Pink Kids Quad",
+  "price_eur": 249.95,
+  "price_text": "€249.95",
+  "retailers": [
+    {
+      "name": "funstuff.ie",
+      "url": "https://www.funstuff.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/",
+      "title": "Lifestyle, Ride on Cars, Outdoor Toys Ireland - Funstuff.ie",
+      "description": "Shop now at Funstuff.ie for the best electric ride on cars, go karts, quads, motorbikes, tractors, jeeps, balance bikes and more.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "StlFH9jHOdo",
+      "channel": "Naomi Stephens",
+      "duration": 235.0,
+      "title": "12V Kids Ride-On Electric ATV Review - Is It Worth The Investment?"
+    },
+    {
+      "id": "UkPSeIBFDn0",
+      "channel": "Costway",
+      "duration": 164.0,
+      "title": "How to Install the 12V Kids Ride on ATV | ATY327798 #costway #howto"
+    },
+    {
+      "id": "L6sku5lASOQ",
+      "channel": "Kidz Auto",
+      "duration": 30.0,
+      "title": "Electric Ride on Quad Bike (Red) | Electric Toy Bikes for Kids | Australia & New Zealand"
+    },
+    {
+      "id": "Wi8LN3bPAGg",
+      "channel": "Nater Tater",
+      "duration": 1044.0,
+      "title": "Unboxing and Driving - Peg Perego Polaris Outlaw Pink Power ATV - 12v Ride On Toy for My 2 Year Old"
+    },
+    {
+      "id": "9gY7BGOIybA",
+      "channel": "Zack Hill",
+      "duration": 193.0,
+      "title": "Costzon Kids ATV, 12V Battery Powered Electric Vehicle Review, Pretty cute and strong because of 12v"
+    }
+  ]
+}

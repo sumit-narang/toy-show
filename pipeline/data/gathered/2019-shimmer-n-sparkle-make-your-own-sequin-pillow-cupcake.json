@@ -1,0 +1,57 @@
+{
+  "id": "2019-shimmer-n-sparkle-make-your-own-sequin-pillow-cupcake",
+  "year": 2019,
+  "name": "Shimmer n' Sparkle Make Your Own Sequin Pillow Cupcake",
+  "price_eur": 9.0,
+  "price_text": "€9.00",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/fashion-craft/shimmer-n-sparkle-make-your-own-sequin-pillow-cupcake/p/175511002"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/creativity-music-and-partyware/fashion-craft/shimmer-n-sparkle-make-your-own-sequin-pillow-cupcake/p/175511002",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "WmFWVDcpiQA",
+      "channel": "Southpaw's Studio",
+      "duration": 502.0,
+      "title": "Sublimation on a Sequin Pillow case - The Easy Way"
+    },
+    {
+      "id": "kfi9GFPF9yg",
+      "channel": "Yen trang Truong",
+      "duration": 1129.0,
+      "title": "Cra-Z-Art Shimmer 'n Sparkle Crystal Craze DIY Gem Headbands! LISA FRANK Lip Gloss FUN"
+    },
+    {
+      "id": "5itfD3tkWGE",
+      "channel": "StylHarmony",
+      "duration": 535.0,
+      "title": "How to Make Your Very Own Sequins in Any Size : Tutorial"
+    },
+    {
+      "id": "tqw_W9Dp56A",
+      "channel": "CakesbyLynz",
+      "duration": 682.0,
+      "title": "Make Your Cakes Shimmer & Sparkle - 3 Glitter Cake Techniques"
+    },
+    {
+      "id": "FzPSuba3PgQ",
+      "channel": "assortedfindsbyjenny",
+      "duration": 351.0,
+      "title": "Unicorn Sequins Key Chain"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-abacus-underh-lla-abacus",
+  "year": 2022,
+  "name": "Abacus UNDERHÅLLA Abacus",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "IKEA Ireland",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NCI23zaM1w4",
+      "channel": "D3DIdeal",
+      "duration": 30.0,
+      "title": "UNDERHÅLLA Abacus | Store | 3DArt"
+    },
+    {
+      "id": "d57LGabPCWU",
+      "channel": "MyLoor",
+      "duration": 153.0,
+      "title": "Ikea beads counter"
+    },
+    {
+      "id": "Q2JjaopLHLo",
+      "channel": "Alişe Dair",
+      "duration": 67.0,
+      "title": "IKEA UNDERHALLA abaküs, çok renkli"
+    },
+    {
+      "id": "R_gatuxciWU",
+      "channel": "Kera",
+      "duration": 45.0,
+      "title": "Ava uses IKEA abacus (subtraction)"
+    },
+    {
+      "id": "rJkQnAagk0w",
+      "channel": "NHSC",
+      "duration": 143.0,
+      "title": "Having a look at the Underhalla IKEA 🧮 Abacus"
+    }
+  ]
+}

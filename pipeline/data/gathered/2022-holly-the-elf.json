@@ -1,0 +1,44 @@
+{
+  "id": "2022-holly-the-elf",
+  "year": 2022,
+  "name": "Holly the Elf",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "4xpYDr0ZTJs",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 3637.0,
+      "title": "Ben and Holly’s Little Kingdom | Bluest Blue that is Blue Gastue!? | Cartoons for Kids"
+    },
+    {
+      "id": "StE-NhWd_ps",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 3635.0,
+      "title": "Ben and Holly’s Little Kingdom Full Episode 🌟Mr. Elf Takes a Holiday | 4K | Cartoons for Kids"
+    },
+    {
+      "id": "0umQOYtl_M0",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 3604.0,
+      "title": "Ben and Holly’s Little Kingdom | Morning Magic | Cartoon for Kids"
+    },
+    {
+      "id": "yc_CpxBMPlY",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 3638.0,
+      "title": "Ben and Holly’s Little Kingdom Full Episodes 👍 Superheroes | HD Cartoons for Kids"
+    },
+    {
+      "id": "Kmq5rzNGe2U",
+      "channel": "Ben and Holly’s Little Kingdom – Official Channel",
+      "duration": 10716.0,
+      "title": "🐞 Back to School Fun! 🚌 Ben and Holly's Little Kingdom | Cartoons For Kids"
+    }
+  ]
+}

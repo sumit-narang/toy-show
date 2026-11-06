@@ -1,0 +1,54 @@
+{
+  "id": "2019-xootz-bubble-scooter-in-pink",
+  "year": 2019,
+  "name": "XOOTZ Bubble Scooter in Pink",
+  "price_eur": 45.99,
+  "price_text": "€45.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/xootz-bubble-scooter-pink/1600377776.prd"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/xootz-bubble-scooter-pink/1600377776.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UYmNLqSoSiY",
+      "channel": "Xootz",
+      "duration": 221.0,
+      "title": "Assembling the Xootz Bubble Go Scooter"
+    },
+    {
+      "id": "3gIVL28AvPQ",
+      "channel": "OUR CHOICE PRODUCTS",
+      "duration": 15.0,
+      "title": "Xootz Bubble Go Foldable Tri Scooter   Pink"
+    },
+    {
+      "id": "rL0q4ujy6tM",
+      "channel": "True Toys",
+      "duration": 41.0,
+      "title": "Xootz Bubble Go Scooter"
+    },
+    {
+      "id": "lbYS5RYRmZU",
+      "channel": "Xootz",
+      "duration": 45.0,
+      "title": "Xootz Bubble Go Dino & Unicorn Scooters"
+    },
+    {
+      "id": "F2SN_iOBuRA",
+      "channel": "Xootz",
+      "duration": 54.0,
+      "title": "Xootz Bubble Go Trike"
+    }
+  ]
+}

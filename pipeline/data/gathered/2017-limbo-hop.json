@@ -1,0 +1,64 @@
+{
+  "id": "2017-limbo-hop",
+  "year": 2017,
+  "name": "Limbo Hop",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bBpltU4q4Vo",
+      "channel": "Kid Active",
+      "duration": 36.0,
+      "title": "Limbo Hop"
+    },
+    {
+      "id": "MRhWtf_RT-0",
+      "channel": "DJ Raphi",
+      "duration": 187.0,
+      "title": "The Limbo Dance!"
+    },
+    {
+      "id": "6BTjG-dhf5s",
+      "channel": "Daddy Yankee",
+      "duration": 255.0,
+      "title": "Daddy Yankee - Limbo (Video Oficial)"
+    },
+    {
+      "id": "wOxgZCoXRiQ",
+      "channel": "SoulRhythm “🎶”",
+      "duration": 226.0,
+      "title": "Daddy Yankee - Limbo (Letra / Lyrics)"
+    },
+    {
+      "id": "zSKJrevtY0c",
+      "channel": "A BAILAR",
+      "duration": 230.0,
+      "title": "Limbo   Daddy Yankee   Just Dance 2014 Wii U   copia"
+    }
+  ]
+}

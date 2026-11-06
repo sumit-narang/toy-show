@@ -1,0 +1,54 @@
+{
+  "id": "2025-decoden-magic-think-pink-creations-deluxe-kit",
+  "year": 2025,
+  "name": "Decoden Magic Think Pink Creations Deluxe Kit",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Hopkins of Wicklow",
+      "url": "https://hopkinsofwicklow.ie/products/decoden-magic-think-pink"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://hopkinsofwicklow.ie/products/decoden-magic-think-pink"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9fodoZGZHi0",
+      "channel": "Ambi C ",
+      "duration": 154.0,
+      "title": "👉 VIRAL Puffy Glue Phone Case 💖 EASY Decoden Tutorial!"
+    },
+    {
+      "id": "5t0at6qNFIY",
+      "channel": "Janeth Perez TV",
+      "duration": 21.0,
+      "title": "Bizak Decoden Magic 2025"
+    },
+    {
+      "id": "XKYtn6HKtl8",
+      "channel": "🦕•ThatShrekGurly•🦕",
+      "duration": 811.0,
+      "title": "Testing out a set! I give it 9.5/10. Decoden magic pretty kitty set!!"
+    },
+    {
+      "id": "nB0QNIueLSM",
+      "channel": "Pattje",
+      "duration": 868.0,
+      "title": "I make FOAM hair accessories 💇🏼‍♀️ | Decoden Magic | Epee | Pattje"
+    },
+    {
+      "id": "tlFSHQFlw20",
+      "channel": "Martyna Zabawa",
+      "duration": 577.0,
+      "title": "WHAT IS THIS?! 😳 I'm testing the viral Fluffy Glue"
+    }
+  ]
+}

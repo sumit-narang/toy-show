@@ -1,0 +1,54 @@
+{
+  "id": "2020-vtech-kidizoom-studio",
+  "year": 2020,
+  "name": "VTech Kidizoom Studio",
+  "price_eur": 70.0,
+  "price_text": "€70.00",
+  "retailers": [
+    {
+      "name": "Argos",
+      "url": "https://www.argos.co.uk/product/8913539?clickSR=slp:term:kidizoom%20camera:4:452:2"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.argos.co.uk/product/8913539?clickSR=slp:term:kidizoom%20camera:4:452:2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NKhBXkOsNVs",
+      "channel": "EFTM",
+      "duration": 180.0,
+      "title": "VTECH Kidizoom Studio Camera - Review"
+    },
+    {
+      "id": "IwbThnf4kec",
+      "channel": "Messi Darwin",
+      "duration": 745.0,
+      "title": "Camera with green screen effect ?! | Kidizoom Studio | Unboxing Toys"
+    },
+    {
+      "id": "T6QtdmkhI_c",
+      "channel": "Safa Zoya",
+      "duration": 239.0,
+      "title": "Unboxing & Setting Vtech KidiZoom Studio Camera |Our new camera for shooting YouTube videos!"
+    },
+    {
+      "id": "ppDfTibkLkg",
+      "channel": "Queen Sugar Sparkles",
+      "duration": 191.0,
+      "title": "VTech Kidizoom Studio Review"
+    },
+    {
+      "id": "uCMlSU3TE2k",
+      "channel": "InspectaGadget",
+      "duration": 285.0,
+      "title": "VTech Kidizoom Creator Cam with Tripod | FULL DEMO and Review!"
+    }
+  ]
+}

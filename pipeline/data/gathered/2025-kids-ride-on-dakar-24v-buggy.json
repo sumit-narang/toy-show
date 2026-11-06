@@ -1,0 +1,60 @@
+{
+  "id": "2025-kids-ride-on-dakar-24v-buggy",
+  "year": 2025,
+  "name": "Kids Ride-On Dakar 24V Buggy",
+  "price_eur": 585.0,
+  "price_text": "€585",
+  "retailers": [
+    {
+      "name": "Koala Play",
+      "url": "https://koala-play.com/product/kids-ride-on-dakar-24v-buggy/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://koala-play.com/product/kids-ride-on-dakar-24v-buggy/",
+      "title": "Dakar 24V 2 Seater Ride On Buggy | Koala Play",
+      "description": "Order the Dakar 24V 2 seater ride on buggy with roof, parental remote and four 75W motors. Great for fun with siblings or pals. Ireland & NI delivery.",
+      "image": "https://koala-play.com/wp-content/uploads/2026/10/Kids-Ride-On-Licensed-VESPA-PX150-12V-2.jpg",
+      "ld_description": "The Dakar 24V 2 Seater Ride On Buggy is built for young drivers who want to share every adventure. With two adjustable seats and safety belts, there is plenty of room for siblings or friends to enjoy supervised outdoor play together. The powerful 24V system, 4WD setup and four 75W motors provide a confident driving experience across suitable garden surfaces, while EVA wheels and spring suspension help deliver a smoother, more comfortable ride.\r\n\r\nKey Features\r\n\r\n \t24V system — two 12V 7Ah batteries\r\n \tFour 75W motors — 300W combined rated motor power\r\n \tTwo seats with safety belts\r\n \t2.4G parental remote included\r\n \tEVA wheels and spring suspension\r\n \tBluetooth music and LED lights\r\n\r\n\r\nALSO AVAILABLE IN PINK! CLICK HERE\r\n&nbsp;\r\n\r\n\r\n\r\n&nbsp;\r\n\r\n\r\n\r\n&nbsp;\r\n\r\nDELIVERED ALL OVER IRELAND &amp; N.IRELAND!",
+      "brand": null,
+      "ld_image": "https://koala-play.com/wp-content/uploads/2026/10/Kids-Ride-On-Licensed-VESPA-PX150-12V-2.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cFeKLZP23pA",
+      "channel": "The Khan Life",
+      "duration": 395.0,
+      "title": "24V Can-Am Maverick Ride on for kids!"
+    },
+    {
+      "id": "k0kpuNoTj2A",
+      "channel": "My Ride on . Com",
+      "duration": 120.0,
+      "title": "Giant UTV Buggy 24V With Touch TV 4x4 Kids ages 1-10 with Remote"
+    },
+    {
+      "id": "O_5yKdAARNI",
+      "channel": "FunStuff Ireland UK",
+      "duration": 94.0,
+      "title": "Clash XL 24V Electric Ride On Buggy Red"
+    },
+    {
+      "id": "NJ0iQWDCoFA",
+      "channel": "TechSpac3",
+      "duration": 958.0,
+      "title": "BMC Beast Review - Ultimate Kids Ride On Car?"
+    },
+    {
+      "id": "qMNiQmTzDk0",
+      "channel": "Ezra & Bella",
+      "duration": 503.0,
+      "title": "Ezra's 24V Dakar Dune Buggy 4x4 Kids Ride On Car"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2020-desert-commander-24v-ride-on-electric-kids-quad-red",
+  "year": 2020,
+  "name": "Desert Commander 24v Ride On Electric Kids Quad - Red",
+  "price_eur": 349.95,
+  "price_text": "€349.95",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://www.funstuff.ie/desert-commander-24v-2-x-12v-ride-on-electric-kids-quad-four-wheel-drive-eva-rubber-wheels-red/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.funstuff.ie/desert-commander-24v-electric-ride-on-quad-red/",
+      "title": "Desert Commander 24V Electric Ride On Quad Red",
+      "description": "Desert Commander 24V Electric Ride On Quad Red",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1083/images/15996/funstuff-desert-commander-24v-electric-ride-on-quad-red__08618.1789452915.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cFeKLZP23pA",
+      "channel": "The Khan Life",
+      "duration": 395.0,
+      "title": "24V Can-Am Maverick Ride on for kids!"
+    },
+    {
+      "id": "StlFH9jHOdo",
+      "channel": "Naomi Stephens",
+      "duration": 235.0,
+      "title": "12V Kids Ride-On Electric ATV Review - Is It Worth The Investment?"
+    },
+    {
+      "id": "wyQmOTP3xMA",
+      "channel": "KG Simple Reviews",
+      "duration": 123.0,
+      "title": "24V Kids Ride On ATV Car Review | 9AH Battery Powered Electric Vehicle w/LED Lights"
+    },
+    {
+      "id": "xz8rsOnlRnQ",
+      "channel": "Verified Picks",
+      "duration": 146.0,
+      "title": "Before You Buy the Kids ATV 4 Wheeler, Watch This Review U8162"
+    },
+    {
+      "id": "geNT5zm37kU",
+      "channel": "The Khan Life",
+      "duration": 370.0,
+      "title": "24V , 5 mph, 4x4 Ride-on UTV  for Kids! Anpabo Power wheels"
+    }
+  ]
+}

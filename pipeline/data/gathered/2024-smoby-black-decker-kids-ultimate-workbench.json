@@ -1,0 +1,54 @@
+{
+  "id": "2024-smoby-black-decker-kids-ultimate-workbench",
+  "year": 2024,
+  "name": "Smoby Black + Decker Kids Ultimate Workbench",
+  "price_eur": 92.99,
+  "price_text": "€92.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/smoby-black-amp-decker-kids-ultimate-workbench-with-95-accessories/1600497492.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/smoby-black-amp-decker-kids-ultimate-workbench-with-95-accessories/1600497492.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Mq1VFu3oQfc",
+      "channel": "tedaria-com",
+      "duration": 73.0,
+      "title": "Black+Decker Smoby Workbench"
+    },
+    {
+      "id": "zNHZlESgYoU",
+      "channel": "The Cooperman Project!",
+      "duration": 346.0,
+      "title": "#TOYTIME Alfie's Smoby Kids Black and Decker Workshop"
+    },
+    {
+      "id": "JKKzZR2sCP4",
+      "channel": "tedaria-com",
+      "duration": 105.0,
+      "title": "Black+Decker Smoby Workbench"
+    },
+    {
+      "id": "D2N3RHgTvSQ",
+      "channel": "Jacksons Leisure",
+      "duration": 27.0,
+      "title": "Smoby Black & Decker Children's Bricolo Workbench Tool Centre"
+    },
+    {
+      "id": "QmLUDLMR_xk",
+      "channel": "DIY Life Tech",
+      "duration": 172.0,
+      "title": "Review of the Black and Decker Kids Workbench"
+    }
+  ]
+}

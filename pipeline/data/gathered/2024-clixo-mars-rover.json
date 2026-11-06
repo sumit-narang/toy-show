@@ -1,0 +1,57 @@
+{
+  "id": "2024-clixo-mars-rover",
+  "year": 2024,
+  "name": "Clixo Mars Rover",
+  "price_eur": null,
+  "price_text": "£40.98",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/Clixo-Mars-Rover-Glow-Dark/dp/B0CJ92MC5M"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Clixo-Mars-Rover-Glow-Dark/dp/B0CJ92MC5M",
+      "title": "Clixo Mars Rovers Pack Magnetic Building Tiles for Kids, 30 Pcs, Ages 6+ | Space-Themed STEM Building Set, 30 Flexible Magnetic Tiles for Creative Play, Fun Gift for Boys & Girls, Ages 6+ : Amazon.co.uk: Toys & Games",
+      "description": "Clixo Mars Rovers Pack Magnetic Building Tiles for Kids, 30 Pcs, Ages 6+ | Space-Themed STEM Building Set, 30 Flexible Magnetic Tiles for Creative Play, Fun Gift for Boys & Girls, Ages 6+ : Amazon.co.uk: Toys & Games",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "CqsM-XSCZYo",
+      "channel": "60 Seconds Toy Review",
+      "duration": 72.0,
+      "title": "Mars Rovers Pack, by Clixo"
+    },
+    {
+      "id": "ZqkwuMwiiiw",
+      "channel": "CoolThings Australia",
+      "duration": 42.0,
+      "title": "Clixo Mars Rover Pack 30pcs"
+    },
+    {
+      "id": "psteZcUwIyg",
+      "channel": "Juegaconmigo JC",
+      "duration": 241.0,
+      "title": "Clixo Mars Rovers Pack"
+    },
+    {
+      "id": "1Q-CzkRoWSA",
+      "channel": "Clixo",
+      "duration": 56.0,
+      "title": "Moondust Dirtbike Creation"
+    },
+    {
+      "id": "Piab-I2y2Zw",
+      "channel": "Clixo",
+      "duration": 45.0,
+      "title": "Drone"
+    }
+  ]
+}

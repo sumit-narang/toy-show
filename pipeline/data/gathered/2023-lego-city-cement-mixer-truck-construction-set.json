@@ -1,0 +1,54 @@
+{
+  "id": "2023-lego-city-cement-mixer-truck-construction-set",
+  "year": 2023,
+  "name": "LEGO City Cement Mixer Truck Construction Set",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/lego-city-cement-mixer-truck-60325-7301334"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/lego-city-cement-mixer-truck-60325-7301334"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-1aYtaAkaAM",
+      "channel": "All New Bricks",
+      "duration": 284.0,
+      "title": "LEGO City 60478 Cement Mixer Truck"
+    },
+    {
+      "id": "NzmttrwNouU",
+      "channel": "AustrianBrickFan",
+      "duration": 485.0,
+      "title": "LEGO City 60478 Cement Mixer Truck - LEGO Speed Build Review"
+    },
+    {
+      "id": "n-GlQ9MOLd8",
+      "channel": "Alexander Studios",
+      "duration": 338.0,
+      "title": "LEGO City Cement Mixer"
+    },
+    {
+      "id": "eLFKZGkypzo",
+      "channel": "MADABOUTLEGO",
+      "duration": 200.0,
+      "title": "LEGO City Cement Mixer 60478"
+    },
+    {
+      "id": "7AK97eF18XM",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 406.0,
+      "title": "LEGO City 2026 Cement Mixer review! Yep, it's as good as you've heard #NotSponsored 60478"
+    }
+  ]
+}

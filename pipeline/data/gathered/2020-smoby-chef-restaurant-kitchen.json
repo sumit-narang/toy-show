@@ -1,0 +1,54 @@
+{
+  "id": "2020-smoby-chef-restaurant-kitchen",
+  "year": 2020,
+  "name": "Smoby Chef Restaurant Kitchen",
+  "price_eur": 159.99,
+  "price_text": "€159.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/product/smoby-chef-corner-restaurant/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://worldofwondertoys.ie/product/smoby-chef-corner-restaurant/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EngI4CCThFQ",
+      "channel": "Smoby",
+      "duration": 21.0,
+      "title": "Smoby - Chef Corner Restaurant [NO VOICE]"
+    },
+    {
+      "id": "RCnpwAdQArs",
+      "channel": "Kidspeak UK",
+      "duration": 213.0,
+      "title": "Smoby Chef Corner Restaurant & Switch Ride on Scooter (AD)"
+    },
+    {
+      "id": "-ePpvyzjZPc",
+      "channel": "Jouet KID Toy",
+      "duration": 20.0,
+      "title": "Smoby Chef Corner restaurant kitchen"
+    },
+    {
+      "id": "I7BX55hC4rw",
+      "channel": "Smoby Toys Germany",
+      "duration": 64.0,
+      "title": "Hereinspaziert ins Smoby Chef Haus!"
+    },
+    {
+      "id": "PE9To9WGRqY",
+      "channel": "Jacksons Leisure",
+      "duration": 81.0,
+      "title": "Smoby Chef Kids play house cafe children’s outdoor toy restaurant"
+    }
+  ]
+}

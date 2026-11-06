@@ -1,0 +1,57 @@
+{
+  "id": "2018-giraffe-ornament",
+  "year": 2018,
+  "name": "Giraffe Ornament",
+  "price_eur": 44.95,
+  "price_text": "€44.95",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ICgDATsDXWI",
+      "channel": "Design Toscano",
+      "duration": 12.0,
+      "title": "Design Toscano's Zari, the Resting Giraffe Statue"
+    },
+    {
+      "id": "mWU66nYsT7s",
+      "channel": "Thorness LTD",
+      "duration": 16.0,
+      "title": "GIRAFFE FAMILY ORNAMENT | Wooden giraffe ornament for the home"
+    },
+    {
+      "id": "fInHGKu5rxQ",
+      "channel": "Helis Alyona",
+      "duration": 970.0,
+      "title": "How to make a Felt Toy Giraffe | Sewing Hand | Felt Ornaments Pattern"
+    },
+    {
+      "id": "TGokHUIcbvc",
+      "channel": "Thorness LTD",
+      "duration": 16.0,
+      "title": "Giraffe In Wood Effect Resin"
+    },
+    {
+      "id": "W9NieGTWOjs",
+      "channel": "ornamentsbyelves",
+      "duration": 19.0,
+      "title": "Ornaments by Elves: Personalized Giraffe with Dangling Legs Christmas Ornament OBE-OR909-Giraffe"
+    }
+  ]
+}

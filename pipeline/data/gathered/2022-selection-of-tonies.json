@@ -1,0 +1,57 @@
+{
+  "id": "2022-selection-of-tonies",
+  "year": 2022,
+  "name": "Selection of Tonies",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Tonies",
+      "url": "https://us.tonies.com/pages/bundle?gclid=Cj0KCQiA4aacBhCUARIsAI55maFy3_vUsg8SjueTNWFsh9GkWo_g2PTPNCZDlmjfyCUveQejyvCyP9gaApAAEALw_wcB"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://us.tonies.com/pages/bundle?gclid=Cj0KCQiA4aacBhCUARIsAI55maFy3_vUsg8SjueTNWFsh9GkWo_g2PTPNCZDlmjfyCUveQejyvCyP9gaApAAEALw_wcB",
+      "title": "tonies® | Bundle & Save",
+      "description": "Bundle & Save when purchasing a Toniebox and Tonies. Add additional Tonies and accessories to save even more!",
+      "image": "https://us.tonies.com/cdn/shop/files/Tonies-SocialShare_46fe9352-f029-47c0-bd64-157b9bc3ea0e.jpg?v=1755645293&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "g3Wf5yGzdsQ",
+      "channel": "Your Everyday Shopper",
+      "duration": 82.0,
+      "title": "TONIES @ KOHL'S | Ms. Rachel, Frozen, Mickey & More | August 2026"
+    },
+    {
+      "id": "cWCiXVn9b6U",
+      "channel": "The Everymom",
+      "duration": 309.0,
+      "title": "Tonies vs. Yoto: Which Kids' Audio Player is Best for Your Family?"
+    },
+    {
+      "id": "ppRldrGa1F0",
+      "channel": "ToniesWorld",
+      "duration": 596.0,
+      "title": "Fluttercup Tonie - Audio Preview"
+    },
+    {
+      "id": "spfuLH-_0UA",
+      "channel": "Put to the Test",
+      "duration": 370.0,
+      "title": "Toniebox 2 REVIEW - What's New?  What's Missing?  Same Tonies, new box."
+    },
+    {
+      "id": "xRP5rFFVx-c",
+      "channel": "ToniesWorld",
+      "duration": 522.0,
+      "title": "Maestro Tonie - Audio Preview"
+    }
+  ]
+}

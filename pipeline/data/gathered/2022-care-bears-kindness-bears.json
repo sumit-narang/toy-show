@@ -1,0 +1,57 @@
+{
+  "id": "2022-care-bears-kindness-bears",
+  "year": 2022,
+  "name": "Care Bears Kindness Bears",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "z-k1ACkgK_s",
+      "channel": "Care Bears",
+      "duration": 153.0,
+      "title": "NEW! Care Bears - Better Together - Introducing Togetherness Bear!"
+    },
+    {
+      "id": "tLyNBjf8hls",
+      "channel": "Care Bears",
+      "duration": 1974.0,
+      "title": "Kindness Keepers | Care Bears Unlock the Music"
+    },
+    {
+      "id": "ws_4sC_lMgc",
+      "channel": "Care Bears",
+      "duration": 165.0,
+      "title": "NEW! Kindness Keepers | Care Bears Unlock the Music"
+    },
+    {
+      "id": "DhFzqap_1gM",
+      "channel": "Care Bears",
+      "duration": 1361.0,
+      "title": "Being There for Your Friends | Care Bears"
+    },
+    {
+      "id": "WiVnMh6q50Y",
+      "channel": "Care Bears",
+      "duration": 129.0,
+      "title": "GREEN Care Bears Care Package to wish LUCK - ft. GOOD LUCK Bear"
+    }
+  ]
+}

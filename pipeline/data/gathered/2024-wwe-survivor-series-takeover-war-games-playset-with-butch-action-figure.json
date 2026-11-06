@@ -1,0 +1,57 @@
+{
+  "id": "2024-wwe-survivor-series-takeover-war-games-playset-with-butch-action-figure",
+  "year": 2024,
+  "name": "WWE Survivor Series TakeOver War Games Playset with Butch Action Figure",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-survivor-series-takeover-war-games-playset-with-butch-action-figure/p/208196"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-survivor-series-takeover-war-games-playset-with-butch-action-figure/p/208196",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hxHvC5a9Ssc",
+      "channel": "BrettO Live",
+      "duration": 942.0,
+      "title": "WAR GAMES WWE Action Figure PLAYSET!"
+    },
+    {
+      "id": "LNE92oQpckk",
+      "channel": "WHF ",
+      "duration": 449.0,
+      "title": "WWE WAR GAMES PLAYSET ANY GOOD?"
+    },
+    {
+      "id": "QeRGvmyPL-A",
+      "channel": "BalorFigs UK",
+      "duration": 839.0,
+      "title": "NXT TAKEOVER WARGAMES PLAYSET! UNBOXING, SETUP + REVIEW! - Balor Boxings #88"
+    },
+    {
+      "id": "Ab1xsiU-pVM",
+      "channel": "My Damn Toys",
+      "duration": 560.0,
+      "title": "WWE FIGURE WARGAMES PLAYSET! NXT TAKEOVER WARGAMES FIGURE RING!"
+    },
+    {
+      "id": "sUYlc5k9TQc",
+      "channel": "Joey Stealth Dragon",
+      "duration": 449.0,
+      "title": "WWE War Games Playset Unboxing"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-wooden-toy-camera",
+  "year": 2022,
+  "name": "Wooden Toy Camera",
+  "price_eur": 17.0,
+  "price_text": "€17",
+  "retailers": [
+    {
+      "name": "BeoVERDE Ireland",
+      "url": "https://beoverde.ie/products/wooden-toys-small-foot-pretend-play-wooden-play-camera?_pos=1&_sid=0b94caf74&_ss=r"
+    }
+  ],
+  "kind": "tech",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://beoverde.ie/products/wooden-toys-small-foot-pretend-play-wooden-play-camera?_pos=1&_sid=0b94caf74&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5BqTjbpasQE",
+      "channel": "LOUD CLOUD Animation Studio",
+      "duration": 464.0,
+      "title": "Making a wooden toy camera for my kid (design inspired by the Fuji x100 series)"
+    },
+    {
+      "id": "6lx6p_pr80E",
+      "channel": "snappiness",
+      "duration": 554.0,
+      "title": "This Toy Camera Got a Serious Upgrade"
+    },
+    {
+      "id": "p0X8um5RuFk",
+      "channel": "Okeykids Toys",
+      "duration": 42.0,
+      "title": "Pkeykids Wooden Camera Toy with 2 Kaleidoscopic Lenses for Kids"
+    },
+    {
+      "id": "0UeqawO_yRU",
+      "channel": "The Happy Cart Collective",
+      "duration": 39.0,
+      "title": "Photography Studio Staple | Cynzia Baby Toy Wooden Mini Camera Toy, Baby Kids Cute Mini Sharpe Toy,"
+    },
+    {
+      "id": "DXhD_yeSgMQ",
+      "channel": "Sam’s Prime Picks",
+      "duration": 43.0,
+      "title": "Why We Love This Baby Einstein Camera Toy"
+    }
+  ]
+}

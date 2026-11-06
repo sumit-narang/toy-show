@@ -1,0 +1,72 @@
+{
+  "id": "2018-pimple-pete",
+  "year": 2018,
+  "name": "Pimple Pete",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UfrqhDCKQnY",
+      "channel": "To Toy Or Not To Toy",
+      "duration": 225.0,
+      "title": "Pimple Pete Game Set Up Instructions And Demonstration"
+    },
+    {
+      "id": "FqC9w7kFxTU",
+      "channel": "TTPM Toy Reviews",
+      "duration": 88.0,
+      "title": "Dr. Pimple Popper Pimple Pete Board Game Review | Spin Master"
+    },
+    {
+      "id": "fTWAGBLlAPI",
+      "channel": "WorldConnecT",
+      "duration": 21.0,
+      "title": "Spin Master Games  Pimple Pete  UK UA 1080p"
+    },
+    {
+      "id": "XxwgrEjECFo",
+      "channel": "Mega Fun Toys",
+      "duration": 484.0,
+      "title": "Pimple Pete and Gooey Louie are playing and competing! Who is gonna win this challenge?"
+    },
+    {
+      "id": "1b4mNt4Agm4",
+      "channel": "Spin Master",
+      "duration": 16.0,
+      "title": "Spin Master Games | Pimple Pete | Jen’s Plan for Poppin’"
+    }
+  ]
+}

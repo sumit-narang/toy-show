@@ -1,0 +1,57 @@
+{
+  "id": "2023-stroll-roll-dolly",
+  "year": 2023,
+  "name": "Stroll & Roll Dolly",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/stroll-and-roll-dolly-assortment/p/159198"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/stroll-and-roll-dolly-assortment/p/159198",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UrGLNtZ0rEg",
+      "channel": "MrMemories",
+      "duration": 156.0,
+      "title": "The Original Stroll - February 1958"
+    },
+    {
+      "id": "qUG20QtDxCU",
+      "channel": "Made for Kids",
+      "duration": 44.0,
+      "title": "Toy : Stroll & Roll Dolly"
+    },
+    {
+      "id": "PdHMTGhhunE",
+      "channel": "Miss Emma's Dancing",
+      "duration": 1091.0,
+      "title": "Miss Emma's Dancing: Rockabilly Stroll"
+    },
+    {
+      "id": "8h7swYO_U_c",
+      "channel": "Made for Kids",
+      "duration": 44.0,
+      "title": "Toy - Stroll & Roll Dolly"
+    },
+    {
+      "id": "5PBk7c9BcWE",
+      "channel": "Cross-Arrows Production",
+      "duration": 2356.0,
+      "title": "Dollywood Opening Day and Dolly's Parade 2026"
+    }
+  ]
+}

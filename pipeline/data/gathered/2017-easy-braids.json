@@ -1,0 +1,53 @@
+{
+  "id": "2017-easy-braids",
+  "year": 2017,
+  "name": "Easy Braids",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8rOx_oS6rSo",
+      "channel": "EverydayHairInspiration",
+      "duration": 220.0,
+      "title": "BEGINNERS START HERE!! How To Braid Hair For Complete Beginners (With Hand Placement & More)"
+    },
+    {
+      "id": "oOz5ujBilWA",
+      "channel": "EverydayHairInspiration",
+      "duration": 257.0,
+      "title": "How to French Braid Your Own Hair in 5 Minutes - Easy Step-by-Step Tutorial for Beginners"
+    },
+    {
+      "id": "CPE1ktvWXsY",
+      "channel": "Princess Hairstyles",
+      "duration": 360.0,
+      "title": "How To French Braid, hair4myprincess"
+    },
+    {
+      "id": "P6kixAppktE",
+      "channel": "EverydayHairInspiration",
+      "duration": 200.0,
+      "title": "How To French Braid for Beginners with ZERO Experience | Easy Step-by-Step Guide"
+    },
+    {
+      "id": "3xfqp8lLFfQ",
+      "channel": "EverydayHairInspiration",
+      "duration": 1741.0,
+      "title": "10 EASY Braids For Beginners - ALL THE BRAIDS YOU NEED! ⭐️ Cute & Easy Summer Hairstyles ⭐️"
+    }
+  ]
+}

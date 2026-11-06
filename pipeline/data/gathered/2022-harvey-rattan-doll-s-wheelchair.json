@@ -1,0 +1,30 @@
+{
+  "id": "2022-harvey-rattan-doll-s-wheelchair",
+  "year": 2022,
+  "name": "Harvey Rattan Doll's Wheelchair",
+  "price_eur": 124.9,
+  "price_text": "€124.90",
+  "retailers": [
+    {
+      "name": "Little Angel Rose",
+      "url": "https://www.littleangelrose.com/products/rattan-toy-doll-wheelchair"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.littleangelrose.com/products/rattan-toy-doll-wheelchair"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BPRNhCMr6x4",
+      "channel": "LonFur Channel",
+      "duration": 829.0,
+      "title": "VINTAGE RATTAN CHAIR"
+    }
+  ]
+}

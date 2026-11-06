@@ -1,0 +1,26 @@
+{
+  "id": "2018-brick-city-new-york-paris-london-by-warren-elsmore-lonely-planet",
+  "year": 2018,
+  "name": "Brick City: New York / Paris / London by Warren Elsmore (Lonely Planet)",
+  "price_eur": 13.99,
+  "price_text": "€13.99 each",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "http://www.Easons.com"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/",
+      "title": "Eason Bookstore | Buy Books, Gifts and Stationery online",
+      "description": "Buy books, stationery & gifts online on easons.com. Huge range of books, kids books, teen fiction, & more. Free Delivery When You Spend Over €10!",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

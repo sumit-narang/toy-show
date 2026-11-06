@@ -1,0 +1,60 @@
+{
+  "id": "2020-wheelybugs",
+  "year": 2020,
+  "name": "Wheelybugs",
+  "price_eur": 69.0,
+  "price_text": "€69.00",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/wheelybug-ladybug/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/wheelybug-ladybug/",
+      "title": "Wheelybug Ladybug Small",
+      "description": "The Wheelybug Ladybug ride on wooden toy with unlimited directional movement can go backwards, forwards, sideways, round and round",
+      "image": "https://littledreamers.ie/wp-content/uploads/Wheelybug-Ride-On-Ladybug-Small-1.jpg",
+      "ld_description": "The Wheelybug Ladybug is a ride-on wooden toy that provides unlimited directional movement. It can move backwards, forwards, sideways, and even spin around.\r\n\r\nDesigned for little adventurers, this colourful ride-on ladybug features a sturdy wooden base and a soft, black and red cover that is both cute and comfortable. With its smooth, multi-directional wheels, this Ladybug-themed toy allows kids to zoom and spin in any direction, promoting self-confidence, spatial awareness, and gross motor skills.\r\n\r\nThe Wheelybug has a padded layer of sponge covered with a durable layer of polyurethane leatheroid, making it easy to wipe clean. It works best on smooth, level floors and is ideal for indoor use.\r\n\r\nThe Wheelybug Ladybug is crafted to provide hours of robust fun while encouraging active play and imaginative adventures.\r\n\r\n \tRide on Ladybug toy with spring loaded eyes\r\n \tBodies have a padded layer of sponge covered with tough polyurethane\r\n \tEasily wiped clean\r\n \tFor use on all level surfaces\r\n \tHandmade and beautifully crafted from the highest quality materials\r\n \tMulti-directional castors - rated at 30kg each giving a safe working load of 120kg\r\n \tUnlimited mobility\r\n \tWooden base is made from plywood\r\n \tAll WheelyBugs are made from sustainably sourced materials\r\n \tHandle is made from aluminium so will not rust\r\n \tInternational & European Safety Tested (EN71)\r\n \tRecommended for 1 – 3 years\r\n\r\n \r\nWeight: 1.8kg\r\nDimensions:L39, W23.5, H31cm",
+      "brand": null,
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "j6fleu39F1Y",
+      "channel": "House of Angus",
+      "duration": 46.0,
+      "title": "Wheely Bug Ride on Animals"
+    },
+    {
+      "id": "nUky1t6ybUk",
+      "channel": "Piera Jolly",
+      "duration": 32.0,
+      "title": "The WheelyBUG"
+    },
+    {
+      "id": "5o26gXNiSC0",
+      "channel": "ArcadeInternational",
+      "duration": 22.0,
+      "title": "Wheelybugs"
+    },
+    {
+      "id": "594PwwSa9VU",
+      "channel": "Kiddicare",
+      "duration": 95.0,
+      "title": "Wheelybugs"
+    },
+    {
+      "id": "ej96gRKJCcM",
+      "channel": "What I Bought",
+      "duration": 139.0,
+      "title": "Prince Lionheart Wheelybug Review"
+    }
+  ]
+}

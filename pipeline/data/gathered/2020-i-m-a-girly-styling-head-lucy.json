@@ -1,0 +1,54 @@
+{
+  "id": "2020-i-m-a-girly-styling-head-lucy",
+  "year": 2020,
+  "name": "I'M A GIRLY Styling Head Lucy",
+  "price_eur": 117.06,
+  "price_text": "€117.06",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/im-a-girly/im-a-girly/styling-head-lucy/147928129.html?cgid=im-a-girly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/im-a-girly/im-a-girly/147928129.html?cgid=im-a-girly"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oFW4aC9kdXM",
+      "channel": "TTPM Toy Reviews",
+      "duration": 134.0,
+      "title": "I'm A Stylist Styling Head Lucy from I'm A Girly | Full Review"
+    },
+    {
+      "id": "ReuF6Jk7t7k",
+      "channel": "I'M A GIRLY",
+      "duration": 339.0,
+      "title": "Testing Viral Hair Hacks"
+    },
+    {
+      "id": "02dhunY2rNM",
+      "channel": "Vickey Cathey",
+      "duration": 1654.0,
+      "title": "DOiNG My MANNEQUiN THiCK HAiR OnLy USiNG PiNK PRODUCTs"
+    },
+    {
+      "id": "jMkzuX7fmAo",
+      "channel": "Mic Drop!",
+      "duration": 662.0,
+      "title": "One Girl. Two DIFFERENT Voices. Coaches Are STUNNED! 🤩"
+    },
+    {
+      "id": "RdBkszuL99s",
+      "channel": "Titi Toys and Dolls",
+      "duration": 573.0,
+      "title": "Barbie & Ken Doll Family Getting Ready for Halloween Fun"
+    }
+  ]
+}

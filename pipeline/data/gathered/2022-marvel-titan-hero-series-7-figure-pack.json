@@ -1,0 +1,57 @@
+{
+  "id": "2022-marvel-titan-hero-series-7-figure-pack",
+  "year": 2022,
+  "name": "Marvel Titan Hero Series 7 Figure Pack",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-titan-hero-series-7-figure-pack/p/209199"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-titan-hero-series-7-figure-pack/p/209199",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tZNO9XMm-68",
+      "channel": "Hasbro",
+      "duration": 21.0,
+      "title": "Marvel - 'Avengers Infinity War: Titan Power FX' Official TV Spot"
+    },
+    {
+      "id": "Lc-hA_0dzy0",
+      "channel": "Hasbro Brands",
+      "duration": 17.0,
+      "title": "Marvel Spider-Man - 'Titan Hero Series' Official T.V. Commercial - Hasbro"
+    },
+    {
+      "id": "YQHKmcv_ClE",
+      "channel": "Pentoys",
+      "duration": 248.0,
+      "title": "UNBOXING Marvel Titan Hero Series"
+    },
+    {
+      "id": "vFLuaKebQ4k",
+      "channel": "Louis Bernal",
+      "duration": 522.0,
+      "title": "Venom Marvel Comics Hasbro Titan Hero Series Web Warriors Action Figure Review"
+    },
+    {
+      "id": "6nreWJ-g8lE",
+      "channel": "ShartimusPrime",
+      "duration": 835.0,
+      "title": "Marvel Titan Heroes Series Mega Collection 12 Pack Hasbro Movie Comic Toy Review"
+    }
+  ]
+}

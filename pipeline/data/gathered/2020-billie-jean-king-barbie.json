@@ -1,0 +1,53 @@
+{
+  "id": "2020-billie-jean-king-barbie",
+  "year": 2020,
+  "name": "Billie Jean King Barbie",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mattel",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2IVP-UZKY-s",
+      "channel": "Young At Heart Dolls",
+      "duration": 178.0,
+      "title": "Unboxing Billie Jean King Barbie!!"
+    },
+    {
+      "id": "IAI-2mnfwx8",
+      "channel": "Barbie Collector Next Door",
+      "duration": 761.0,
+      "title": "Venus Williams & Billie Jean King Barbies #venus #tennis #king #barbie "
+    },
+    {
+      "id": "n0GOSc2cHXk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 185.0,
+      "title": "Barbie Inspiring Women Billie Jean King and Florence Nightingale from Mattel"
+    },
+    {
+      "id": "pNaKkBP8CkQ",
+      "channel": "MyFroggyStuff",
+      "duration": 765.0,
+      "title": "Inspiring Women Series - Billie Jean King | Ella Fitzgerald | Florence Nightingale"
+    },
+    {
+      "id": "5FHDDSIVgKk",
+      "channel": "DOLLS ORIGINAL ",
+      "duration": 512.0,
+      "title": "Барби инспиринг вумен Билли Джин Кинг Barbie inspiring women Billie Jean King #billiejeanking #doll"
+    }
+  ]
+}

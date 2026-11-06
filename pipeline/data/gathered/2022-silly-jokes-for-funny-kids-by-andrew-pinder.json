@@ -1,0 +1,60 @@
+{
+  "id": "2022-silly-jokes-for-funny-kids-by-andrew-pinder",
+  "year": 2022,
+  "name": "Silly Jokes for Funny Kids by Andrew Pinder",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/product/silly-jokes-for-funny-kids-9781780559087"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.dubraybooks.ie/product/silly-jokes-for-funny-kids-9781780559087",
+      "title": "Silly Jokes For Funny Kids - Dubray Books",
+      "description": "A new title in the 'Buster Laugh-a-Lot' series, this hilarious collection has over 300 silly jokes for funny kids to enjoy and share.  What do you call blueberries playing music together? A jam session.  What do you call a magic dog? A labracadabrador.  Why was the monster so full? He was goblin his pie.  Brimming with over 300 laugh-out-loud jokes split into ten chapters, from Alien Antics and Silly Schoolin' to Zany Zingers and Gross Giggles, this is the ultimate collection of silly jokes that every funny kid needs to know. Designed to be easy to read and accompanied by hilarious illustrations by Andrew Pinder for extra fun, this comical collection will have young jokers howling with laughter.  Also available in the 'Buster Laugh-a-lot' series: 9781780556260 Jokes for Funny Kids: 6 Year Olds 9781780556246 Jokes for Funny Kids: 7 Year Olds 9781780556253 Jokes for Funny Kids: 8 Year Olds 9781780557168 The Jumbo Joke Book for Funny Kids 9781780557083 The Christmas Joke Book for Funny Kids 9781780557847 Animal Jokes for Funny Kids 9781780557854 Knock Knock Jokes for Funny Kids 9781780559070 Dinosaur Jokes for Funny Kids",
+      "image": "https://www.dubraybooks.ie/assets/img/dark-logo.png",
+      "ld_description": "A new title in the 'Buster Laugh-a-Lot' series, this hilarious collection has over 300 silly jokes for funny kids to enjoy and share.  What do you call blueberries playing music together? A jam session.  What do you call a magic dog? A labracadabrador.  Why was the monster so full? He was goblin his pie.  Brimming with over 300 laugh-out-loud jokes split into ten chapters, from Alien Antics and Silly Schoolin' to Zany Zingers and Gross Giggles, this is the ultimate collection of silly jokes that every funny kid needs to know. Designed to be easy to read and accompanied by hilarious illustrations by Andrew Pinder for extra fun, this comical collection will have young jokers howling with laughter.  Also available in the 'Buster Laugh-a-lot' series: 9781780556260 Jokes for Funny Kids: 6 Year Olds 9781780556246 Jokes for Funny Kids: 7 Year Olds 9781780556253 Jokes for Funny Kids: 8 Year Olds 9781780557168 The Jumbo Joke Book for Funny Kids 9781780557083 The Christmas Joke Book for Funny Kids 9781780557847 Animal Jokes for Funny Kids 9781780557854 Knock Knock Jokes for Funny Kids 9781780559070 Dinosaur Jokes for Funny Kids",
+      "brand": "Andrew Pinder",
+      "ld_image": "https://media.dubraybooks.ie/asset/d5596f1f-0f75-4860-9663-ceff0a45fea5/9781780559087_5642998528.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w9lzQXo2VLo",
+      "channel": "AndreoBee",
+      "duration": 645.0,
+      "title": "FUNNIEST KIDS ANSWER!"
+    },
+    {
+      "id": "eqFjcl02Ekc",
+      "channel": "AndreoBee",
+      "duration": 1173.0,
+      "title": "FUNNIEST KIDS & SCHOOL LIFE MEMES😂"
+    },
+    {
+      "id": "IcW9NyGVqJA",
+      "channel": "AndreoBee",
+      "duration": 970.0,
+      "title": "FUNNIEST SCHOOL LIFE & KIDS MEMES😂"
+    },
+    {
+      "id": "WBhiiArfYIQ",
+      "channel": "AndreoBee",
+      "duration": 1138.0,
+      "title": "FUNNIEST SCHOOL LIFE & KIDS MEMES😂"
+    },
+    {
+      "id": "UNZxip5Zjtc",
+      "channel": "Britain's Got Talent",
+      "duration": 339.0,
+      "title": "Dad Andrew Hindson's song about parenting is hilariously relatable | Auditions | BGT 2025"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-16-inch-trolls-bike",
+  "year": 2017,
+  "name": "16-inch Trolls Bike",
+  "price_eur": 119.99,
+  "price_text": "€119.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PM-8j7yEi98",
+      "channel": "Richard Reinke",
+      "duration": 31.0,
+      "title": "Dynacraft Trolls Girls BMX Street Dirt Bike with Hand Brake 16 Review"
+    },
+    {
+      "id": "uzZMsU4cclE",
+      "channel": "Happy Life",
+      "duration": 100.0,
+      "title": "Dynacraft Trolls Girls BMX Street/Dirt Bike with Hand Brake 16\""
+    },
+    {
+      "id": "xfGmkMstS34",
+      "channel": "TTPM Toy Reviews",
+      "duration": 90.0,
+      "title": "Schwinn 16-inch Backdraft Bike from Pacific Cycle"
+    },
+    {
+      "id": "3DEe7POns_k",
+      "channel": "DAD's Channel",
+      "duration": 665.0,
+      "title": "First Schwinn Iris 16\" Kids' Bike Unboxing and Riding"
+    },
+    {
+      "id": "_HuRtzswuFg",
+      "channel": "Keeping Up With The Stratton’s",
+      "duration": 865.0,
+      "title": "Building My Very First Trolls Bike"
+    }
+  ]
+}

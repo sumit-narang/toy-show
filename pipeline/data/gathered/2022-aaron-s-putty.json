@@ -1,0 +1,54 @@
+{
+  "id": "2022-aaron-s-putty",
+  "year": 2022,
+  "name": "Aaron's Putty",
+  "price_eur": 13.0,
+  "price_text": "€13",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/collections/crazy-aarons-putty"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/collections/crazy-aarons-putty"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YvC8LGX9uOE",
+      "channel": "Crazy Aaron's ",
+      "duration": 32.0,
+      "title": "What Can You Do With Thinking Putty®? | Crazy Aaron's"
+    },
+    {
+      "id": "kOGJaBP0ihg",
+      "channel": "Vat19",
+      "duration": 72.0,
+      "title": "Liquid Glass Thinking Putty"
+    },
+    {
+      "id": "Ok6k70qgy-E",
+      "channel": "TODAY",
+      "duration": 251.0,
+      "title": "How A Former Software Engineer Transformed The Putty Game"
+    },
+    {
+      "id": "Ugc_gLMRqj4",
+      "channel": "English Tree Playhouse",
+      "duration": 504.0,
+      "title": "Crazy Aarons Fun Dough | English Tree's Alphabet Playhouse"
+    },
+    {
+      "id": "W55suQg85F0",
+      "channel": "Vat19",
+      "duration": 104.0,
+      "title": "Make Your Own Putty Kit!"
+    }
+  ]
+}

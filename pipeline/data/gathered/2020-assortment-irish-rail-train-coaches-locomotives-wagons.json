@@ -1,0 +1,57 @@
+{
+  "id": "2020-assortment-irish-rail-train-coaches-locomotives-wagons",
+  "year": 2020,
+  "name": "Assortment Irish Rail Train Coaches/Locomotives/Wagons",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Irish Railway Models",
+      "url": "https://irishrailwaymodels.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.accurascale.com/",
+      "title": "accurascale",
+      "description": "Here at accurascale we are committed to producing accurate and finely detailed ready-to-run railway models with the highest standards at all stages of production, from initial research of prototypes right through to final delivery to the customer.",
+      "image": "http://www.accurascale.com/cdn/shop/files/accura_transparent_a70e5fbb-c41a-425d-b666-12a500b1e9f4.png?v=1632318616"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JrJlW3ljRQg",
+      "channel": "Flyin9 Scotsman",
+      "duration": 47.0,
+      "title": "LSLtd 87002 TnT 90002 fly through Bushey with an assortment of coaches 14/7/20"
+    },
+    {
+      "id": "zRVD1XDcCHE",
+      "channel": "Cian Daly",
+      "duration": 89.0,
+      "title": "Irish Rail 201 Class Locos + Mark 4 Sets at Kildare (28/3/18)"
+    },
+    {
+      "id": "geulUvWZiw0",
+      "channel": "fmnut",
+      "duration": 886.0,
+      "title": "UK Flasks"
+    },
+    {
+      "id": "whp50RnZ5s8",
+      "channel": "Train of Thought",
+      "duration": 195.0,
+      "title": "Driving a steam engine while standing in a carriage - GWR Autocoach"
+    },
+    {
+      "id": "a23AgVt8ymY",
+      "channel": "Sam'sTrains",
+      "duration": 851.0,
+      "title": "A Saddle Tank Engine With No Tank! | Sam'sTrains At The Ecclesbourne Valley Railway"
+    }
+  ]
+}

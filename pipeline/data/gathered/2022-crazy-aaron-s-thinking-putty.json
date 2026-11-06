@@ -1,0 +1,54 @@
+{
+  "id": "2022-crazy-aaron-s-thinking-putty",
+  "year": 2022,
+  "name": "Crazy Aaron's Thinking Putty",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OntuP7ZUmCE",
+      "channel": "Vat19",
+      "duration": 81.0,
+      "title": "This Putty can CHANGE COLORS! | Super Illusions Thinking Putty | VAT19"
+    },
+    {
+      "id": "kOGJaBP0ihg",
+      "channel": "Vat19",
+      "duration": 72.0,
+      "title": "Liquid Glass Thinking Putty"
+    },
+    {
+      "id": "YvC8LGX9uOE",
+      "channel": "Crazy Aaron's ",
+      "duration": 32.0,
+      "title": "What Can You Do With Thinking Putty®? | Crazy Aaron's"
+    },
+    {
+      "id": "jhnLtcX3bKk",
+      "channel": "Vat19",
+      "duration": 688.0,
+      "title": "8 Putties You Won't Be Able to Put Down"
+    },
+    {
+      "id": "_Ga78uLk3yY",
+      "channel": "Lucky Penny Shop",
+      "duration": 1640.0,
+      "title": "11 Crazy Aaron's Thinking Putty Comparison Video - Glow - Hypercolor - Aura - Treasure - Electric"
+    }
+  ]
+}

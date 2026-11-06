@@ -1,0 +1,54 @@
+{
+  "id": "2025-i-m-very-busy-by-oliver-jeffer",
+  "year": 2025,
+  "name": "I’m Very Busy by Oliver Jeffer",
+  "price_eur": 17.99,
+  "price_text": "€17.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/oliver-jeffers-im-very-busy-2025-hardback?_pos=1&_sid=a0e63503e&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/oliver-jeffers-im-very-busy-2025-hardback?_pos=1&_sid=a0e63503e&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rPQIgi0pEwE",
+      "channel": "C.A. Cordova",
+      "duration": 189.0,
+      "title": "I'm Very Busy Read Aloud Storytime | StorySquawk"
+    },
+    {
+      "id": "8FX4tRkFowU",
+      "channel": "Ms. Emma's Library",
+      "duration": 186.0,
+      "title": "📖 New Oliver Jeffers Book! I’m Very Busy - Read Aloud Story"
+    },
+    {
+      "id": "8q71lHYY4NM",
+      "channel": "Falusa",
+      "duration": 281.0,
+      "title": "I'm Very Busy: A (Nearly Forgotten) Birthday Book by Oliver Jeffers #readaloud"
+    },
+    {
+      "id": "K6H9_MDzIMc",
+      "channel": "CBS Mornings",
+      "duration": 281.0,
+      "title": "Oliver Jeffers on new book \"I'm Very Busy\" and the importance of slowing down"
+    },
+    {
+      "id": "OgPZTFzdJ8g",
+      "channel": "Free Audiobooks",
+      "duration": 65.0,
+      "title": "I'm Very Busy: A (Nearly Forgotten) Birthday Book - Oliver Jeffers"
+    }
+  ]
+}

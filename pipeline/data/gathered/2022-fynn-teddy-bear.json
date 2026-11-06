@@ -1,0 +1,54 @@
+{
+  "id": "2022-fynn-teddy-bear",
+  "year": 2022,
+  "name": "Fynn Teddy Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5ab2WKduS8M",
+      "channel": "Steiff North America",
+      "duration": 26.0,
+      "title": "Steiff Fynn Teddy Bear 028960 - 360 degree video"
+    },
+    {
+      "id": "-7mtl9J3UPs",
+      "channel": "fynn",
+      "duration": 151.0,
+      "title": "I made a Choo Choo Charles Plush!"
+    },
+    {
+      "id": "Qm8uR6W5cvo",
+      "channel": "Filmakademie Baden-Württemberg",
+      "duration": 66.0,
+      "title": "Steiff - Don't be afraid of the Dark (2012)"
+    },
+    {
+      "id": "-94xN_vtDCc",
+      "channel": "OSCAR FYNN ROVE - The French Touch",
+      "duration": 218.0,
+      "title": "Oscar Fynn Rove  ♣ Teddy Bear [Official Music Video] Alternative Rock Song"
+    },
+    {
+      "id": "nvxsDVbAIu8",
+      "channel": "The Steiff Shop",
+      "duration": 365.0,
+      "title": "Steiff Fynn Bear"
+    }
+  ]
+}

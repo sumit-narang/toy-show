@@ -1,0 +1,39 @@
+{
+  "id": "2020-tobar-animigos-rainbow-magic-bunny-rabbit-hopping-plush-toy",
+  "year": 2020,
+  "name": "Tobar Animigos Rainbow Magic Bunny Rabbit Hopping Plush Toy",
+  "price_eur": 28.0,
+  "price_text": "€28",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Tobar-Animigos-Rainbow-Rabbit-Hopping/dp/B083XZBZFM"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Tobar-Animigos-Rainbow-Rabbit-Hopping/dp/B083XZBZFM",
+      "title": "Tobar ANIMIGOS MAGIC RAINBOW BUNNY RABBIT : Amazon.co.uk: Toys & Games",
+      "description": "Tobar ANIMIGOS MAGIC RAINBOW BUNNY RABBIT : Amazon.co.uk: Toys & Games",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kR8xbNa5weY",
+      "channel": "Anzsy's toy videos",
+      "duration": 16.0,
+      "title": "Tobar Bouncing Easter Bunny Squeak Hopping Plush Rabbit Toy"
+    },
+    {
+      "id": "UvhY54ues2g",
+      "channel": "One For Fun",
+      "duration": 25.0,
+      "title": "ANIMIGOS Magical Unicorn | Tobar"
+    }
+  ]
+}

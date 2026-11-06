@@ -1,0 +1,57 @@
+{
+  "id": "2018-swiftyixi-scooter",
+  "year": 2018,
+  "name": "SwiftyIXI Scooter",
+  "price_eur": 399.0,
+  "price_text": "€399",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://www.arnotts.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/",
+      "title": "Arnotts | Homeware, Beauty, Furniture, Designer Fashion & Gifts",
+      "description": "Shop the best homeware, furniture, beauty, and premium fashion clothing or accessories at Arnotts Online- Premium Irish shopping destination at your fingertips!",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8c1pT1Ymjjo",
+      "channel": "Swifty Scooters",
+      "duration": 286.0,
+      "title": "How to Assemble the SwiftyIXI Kids Scooter"
+    },
+    {
+      "id": "-fO2-dDoKEw",
+      "channel": "Swifty Scooters",
+      "duration": 130.0,
+      "title": "Unboxing the Award-winning SwiftyIXI Kids Scooter"
+    },
+    {
+      "id": "LcUuigJMPEQ",
+      "channel": "Swifty Scooters",
+      "duration": 86.0,
+      "title": "SwiftyIXI - A Scooter Review by Miss Swifty (age 8)"
+    },
+    {
+      "id": "gzjfFhRE08g",
+      "channel": "kat molesworth",
+      "duration": 222.0,
+      "title": "Swifty IXI Review | Swifty Scooters Children's Scooter"
+    },
+    {
+      "id": "P41VxQImyg0",
+      "channel": "Swifty Scooters",
+      "duration": 53.0,
+      "title": "First Look at the E-Scooter, SwiftyONE-e and SwiftyZERO-e"
+    }
+  ]
+}

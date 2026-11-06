@@ -1,0 +1,60 @@
+{
+  "id": "2019-giant-teddy",
+  "year": 2019,
+  "name": "Giant Teddy",
+  "price_eur": 580.0,
+  "price_text": "€580",
+  "retailers": [
+    {
+      "name": "FAO Schwarz",
+      "url": null
+    },
+    {
+      "name": "Arnotts",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "bUe_vaSELOs",
+      "channel": "BBC News",
+      "duration": 32.0,
+      "title": "Giant teddy 'breaks world record'- BBC News"
+    },
+    {
+      "id": "O5UOQbfbWic",
+      "channel": "Giant Teddy",
+      "duration": 46.0,
+      "title": "Pink 6ft Lady Cuddles | Huge Pink Teddy Bear | Giant Teddy Brand"
+    },
+    {
+      "id": "KpNPuzwXWsc",
+      "channel": "Salman POV World",
+      "duration": 61.0,
+      "title": "Giant Teddy Bear FAIL! 😂 | POV Comedy"
+    },
+    {
+      "id": "SDfWXt-mAro",
+      "channel": "ABC 10 News",
+      "duration": 56.0,
+      "title": "Fact or Fiction: Teen tries to hide from police inside giant teddy bear?"
+    },
+    {
+      "id": "wd71_Mjioj8",
+      "channel": "Dangie Bros",
+      "duration": 614.0,
+      "title": "*REAL LIFE* Climb Inside GIANT Teddy Bear Boxing Match!!"
+    }
+  ]
+}

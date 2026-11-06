@@ -1,0 +1,54 @@
+{
+  "id": "2023-playstation-5",
+  "year": 2023,
+  "name": "PlayStation 5",
+  "price_eur": 549.0,
+  "price_text": "€549",
+  "retailers": [
+    {
+      "name": "Currys PC World",
+      "url": "https://www.currys.ie/products/sony-playstation-5-825-gb-10203370.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.currys.ie/products/sony-playstation-5-825-gb-10203370.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vVAT6MFJtkM",
+      "channel": "Tyrone Magnus",
+      "duration": 413.0,
+      "title": "Sony Just Released a NEW PS5 Update to STOP Gamers from JAILBREAKING!"
+    },
+    {
+      "id": "P4TQsI7uGeQ",
+      "channel": "PlayStation",
+      "duration": 52.0,
+      "title": "PlayStation x LISA"
+    },
+    {
+      "id": "Y95LzGdAbKk",
+      "channel": "BLASTERTECHNOLOGY",
+      "duration": 417.0,
+      "title": "All PS5 Models Explained | Standard vs Digital vs Slim vs Pro"
+    },
+    {
+      "id": "nx9055-s_Wg",
+      "channel": "TCMFGamesOFFICIAL",
+      "duration": 676.0,
+      "title": "PLAYSTATION 5 - NEW PS5 UPDATE 14.20 OUT NOW - JailBreak 14.10 SHUTDOWN !?  / NEW PS6 Leaks SHOCK t…"
+    },
+    {
+      "id": "NPMV3_Q8i2E",
+      "channel": "Karimus",
+      "duration": 723.0,
+      "title": "Buying a PS5 Right Now is the Dumbest Thing You Can Do"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-mini-micro-deluxe-led",
+  "year": 2023,
+  "name": "Mini Micro Deluxe LED",
+  "price_eur": 109.99,
+  "price_text": "€109.99",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://donnybrookbikes.ie/shop/mini-micro-deluxe-led/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://donnybrookbikes.ie/shop/mini-micro-deluxe-led/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PuMKf9r-JT4",
+      "channel": "Micro Scooters Ltd",
+      "duration": 177.0,
+      "title": "What is the difference between the Mini Micro range?"
+    },
+    {
+      "id": "C8UmEyh1MEo",
+      "channel": "Micro Mobility Official",
+      "duration": 41.0,
+      "title": "Mini Micro & Maxi Micro Deluxe LED - Shine bright like a star!"
+    },
+    {
+      "id": "II3bQ2v64OQ",
+      "channel": "Micro Mobility NL BE distributeur",
+      "duration": 39.0,
+      "title": "Mini Micro Deluxe Magic - experience the LED Magic!"
+    },
+    {
+      "id": "YMq7H5SINjQ",
+      "channel": "Micro Mobility Official",
+      "duration": 439.0,
+      "title": "Mini Micro Deluxe Rock & Go LED – 6-in-1 Scooter for Kids | UNBOXING & FEATURES"
+    },
+    {
+      "id": "7BiHEI8krIw",
+      "channel": "Micro Mobility NL BE distributeur",
+      "duration": 41.0,
+      "title": "Mini Micro Deluxe Foldable LED - one of the lightest scooters available"
+    }
+  ]
+}

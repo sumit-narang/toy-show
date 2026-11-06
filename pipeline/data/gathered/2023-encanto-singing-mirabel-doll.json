@@ -1,0 +1,54 @@
+{
+  "id": "2023-encanto-singing-mirabel-doll",
+  "year": 2023,
+  "name": "Encanto Singing Mirabel Doll",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/disney-store-mirabel-singing-doll-encanto-460022220242.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/mirabel-singing-doll-encanto-460022220242.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "e0p1WCUKLF4",
+      "channel": "MmDisney200",
+      "duration": 491.0,
+      "title": "Encanto: Mirabel Madrigal Singing doll Review & unboxing (Disney Store)"
+    },
+    {
+      "id": "PU6Q5jY-S3A",
+      "channel": "Gigi's Toy Tube",
+      "duration": 735.0,
+      "title": "Disney Encanto Toys Collection Unboxing Review | Singing Mirabel & Magic Butterfly ASMR"
+    },
+    {
+      "id": "C_Sur_Kd2eU",
+      "channel": "𝘚𝘶𝘯𝘯𝘺𝘛𝘢𝘪𝘭𝘴𝘊𝘳𝘦𝘸 ",
+      "duration": 318.0,
+      "title": "Toy Review: Encanto Singing Mirabel & Dolores Madrigal Dolls | SunnyTailsCrew"
+    },
+    {
+      "id": "dnYM-KhQXOI",
+      "channel": "Jaxen Ross is b-a-c-k! | Reels & Ruins",
+      "duration": 139.0,
+      "title": "Encanto Singing Mirabel & Magic Butterfly Doll Destruction (NOT FOR ENCANTO FANS)"
+    },
+    {
+      "id": "gomNysH28E4",
+      "channel": "Motivella",
+      "duration": 160.0,
+      "title": "Encanto Mirabel Doll - Sing and Play - Encanto Toy Unboxing"
+    }
+  ]
+}

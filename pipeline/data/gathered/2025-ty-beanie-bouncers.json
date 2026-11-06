@@ -1,0 +1,54 @@
+{
+  "id": "2025-ty-beanie-bouncers",
+  "year": 2025,
+  "name": "TY Beanie Bouncers",
+  "price_eur": 6.95,
+  "price_text": "€6.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/collections/ty"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/collections/ty"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zR83ZWgzs1s",
+      "channel": "Ty",
+      "duration": 31.0,
+      "title": "Beanie Bouncers!"
+    },
+    {
+      "id": "NjiBKiNJfRA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 60.0,
+      "title": "Get Bouncing with Beanie Bouncers!"
+    },
+    {
+      "id": "RUAbwX9D2Jk",
+      "channel": "Very Plush Stories",
+      "duration": 2978.0,
+      "title": "Relaxing Jazz  with Beanie Bouncers 🌊 Chill-out music 2026 Summer"
+    },
+    {
+      "id": "vphX4B44uH8",
+      "channel": "Very Plush Stories",
+      "duration": 70.0,
+      "title": "REVIEW - Angela and Stitch, the Beanie Bouncer #ty #beaniebouncers"
+    },
+    {
+      "id": "_8BmuEuLOTc",
+      "channel": "Very Plush Stories",
+      "duration": 81.0,
+      "title": "REVIEW - Bluey Family, the Beanie Bouncers  #ty #beaniebouncers"
+    }
+  ]
+}

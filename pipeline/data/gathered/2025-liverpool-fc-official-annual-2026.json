@@ -1,0 +1,54 @@
+{
+  "id": "2025-liverpool-fc-official-annual-2026",
+  "year": 2025,
+  "name": "Liverpool FC Official Annual 2026",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/liverpool-fc-official-annual-2026-liverpool-fc-9781917538435"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/liverpool-fc-official-annual-2026-liverpool-fc-9781917538435"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ePHumAe_lZE",
+      "channel": "Dilip on Football ",
+      "duration": 119.0,
+      "title": "Liverpool Football Club Players Yearly Salary In 2026 😍"
+    },
+    {
+      "id": "AenRNoY3D4Q",
+      "channel": "Liverpool FC",
+      "duration": 135.0,
+      "title": "HIGHLIGHTS: Liverpool 9-0 Bournemouth | Record-breaking NINE goals at Anfield!"
+    },
+    {
+      "id": "EF80NtswRhM",
+      "channel": "DjuanCok666",
+      "duration": 69.0,
+      "title": "Liverpool FC Player Salaries 2026 — Top 10 Highest Paid Per Season"
+    },
+    {
+      "id": "1YdhVK98hVc",
+      "channel": "RealMetricWorld",
+      "duration": 151.0,
+      "title": "Liverpool ’s Highest Paid Player Revealed! 💰 (2026 Salary Breakdown)"
+    },
+    {
+      "id": "FDloXdf1akI",
+      "channel": "Infinite Data",
+      "duration": 174.0,
+      "title": "Liverpool FC 2026/27 💰 | Every Player’s Position & Yearly Salary"
+    }
+  ]
+}

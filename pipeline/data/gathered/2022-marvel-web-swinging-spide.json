@@ -1,0 +1,57 @@
+{
+  "id": "2022-marvel-web-swinging-spide",
+  "year": 2022,
+  "name": "Marvel Web Swinging Spide",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kdwFLGjcAdg",
+      "channel": "Alex Boucher",
+      "duration": 1143.0,
+      "title": "How Spider-Man's Web Swinging Changed"
+    },
+    {
+      "id": "X7_tCWcVvsw",
+      "channel": "Marvel Entertainment",
+      "duration": 168.0,
+      "title": "Inside Marvel’s Spider-Man - How Insomniac Perfected Web-Swinging | PS4"
+    },
+    {
+      "id": "ECghydYh-V4",
+      "channel": "5en",
+      "duration": 57.0,
+      "title": "when you turn off swing assist in Spider-Man 2.."
+    },
+    {
+      "id": "8AdWavPwmL0",
+      "channel": "Gehab",
+      "duration": 748.0,
+      "title": "[4K] Spider-Man PRO Web Swinging (Free Roam Gameplay PS4 Pro)"
+    },
+    {
+      "id": "mAx8IDaGzM0",
+      "channel": "Deep Kick",
+      "duration": 445.0,
+      "title": "Advanced Swinging Guide For Spider-Man: Remastered"
+    }
+  ]
+}

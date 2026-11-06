@@ -1,0 +1,42 @@
+{
+  "id": "2025-mo-ch-ad-seinnteoir-ceirn-n-my-record-player",
+  "year": 2025,
+  "name": "Mo Chéad Seinnteoir Ceirníní (My Record Player)",
+  "price_eur": 59.95,
+  "price_text": "€59.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/my-first-record-player-my-irish-books"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/my-first-record-player-my-irish-books"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nflQbGofExs",
+      "channel": "sabetwave",
+      "duration": 5532.0,
+      "title": "[Above the Rain] Wow, the first song brought tears to my eyes.. Classic 70s & 80s Old Pop heard by t"
+    },
+    {
+      "id": "6W_1WkZWN0k",
+      "channel": "小水短剧",
+      "duration": 7176.0,
+      "title": "【最新】姚冠宇❤️朱小雪《这个班就上到这了》社畜被困同一天循环！被抢方案惨遭裁员，联手女主疯狂整顿职场！#甜宠 #都市 #奇幻 #喜剧 #短剧 #全集 #cdrama"
+    },
+    {
+      "id": "9gmb8Rn5Nhw",
+      "channel": "My Essential Style",
+      "duration": 1858.0,
+      "title": "🎄I'M DECORATING MY HOUSE FOR CHRISTMAS WHILE IT'S SNOWING❄️COLONIAL HOME WITH TRADITIONAL STYLE ✨..."
+    }
+  ]
+}

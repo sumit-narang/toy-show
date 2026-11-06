@@ -1,0 +1,54 @@
+{
+  "id": "2023-heroes-of-goo-jit-zu-deep-goo-sea-hero-pack",
+  "year": 2023,
+  "name": "Heroes of Goo Jit Zu Deep Goo Sea Hero Pack",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/heroes-of-goo-jit-zu-hero-pack-deep-goo-sea-thrash/1600887977.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/heroes-of-goo-jit-zu-hero-pack-deep-goo-sea-thrash/1600887977.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FqCk_JSE_8k",
+      "channel": "AdventureFun!",
+      "duration": 2151.0,
+      "title": "7 Heroes of Goo Jit Zu “Cursed Goo Sea” Including Ultra Rare Rock Jaw Adventure Fun Toy review!"
+    },
+    {
+      "id": "wrA0kC9Zt9w",
+      "channel": "Lucky Penny Shop",
+      "duration": 1237.0,
+      "title": "Heroes of Goo Jit Zu Suction Action Deep Goo Sea Squidor Hero Pack - My HUGE Collection!"
+    },
+    {
+      "id": "R-hmIUnvsiA",
+      "channel": "Candys Closet Diary",
+      "duration": 69.0,
+      "title": "Heros of Goo Jit Zu  Deep Goo Sea Thrash Hero Pack Stretchy Toy Product Review"
+    },
+    {
+      "id": "73C5LyaZL9Q",
+      "channel": "AdventureFun!",
+      "duration": 3884.0,
+      "title": "13 Heroes of Goo Jit Zu Deep Sea Goo Series 9 Including Mantara Adventure Fun Toy review!"
+    },
+    {
+      "id": "E5axrSnRSU0",
+      "channel": "harley x hunt gold,gems and more",
+      "duration": 1293.0,
+      "title": "the heroes of goo jit zu deep goo sea squidor hero pack"
+    }
+  ]
+}

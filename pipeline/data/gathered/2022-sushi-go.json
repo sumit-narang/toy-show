@@ -1,0 +1,54 @@
+{
+  "id": "2022-sushi-go",
+  "year": 2022,
+  "name": "Sushi Go!",
+  "price_eur": 15.95,
+  "price_text": "€15.95",
+  "retailers": [
+    {
+      "name": "Cogs The Brain Shop",
+      "url": "https://cogsthebrainshop.ie/product/sushi-go/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://cogst.myshopify.com/products/sushi-go"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vkBMxDgteFg",
+      "channel": "Triple S Games",
+      "duration": 211.0,
+      "title": "How to play Sushi Go"
+    },
+    {
+      "id": "-WO1cP9wzrw",
+      "channel": "Games Explained",
+      "duration": 179.0,
+      "title": "How to play Sushi Go - Games Explained"
+    },
+    {
+      "id": "uSN0NoaeNbk",
+      "channel": "wikiHow",
+      "duration": 217.0,
+      "title": "How to Play Sushi Go"
+    },
+    {
+      "id": "Vi-ywEOPA00",
+      "channel": "BoardGameGeek",
+      "duration": 2740.0,
+      "title": "Sushi Go! - GameNight! Se2 Ep5"
+    },
+    {
+      "id": "uKhpCmM9wHI",
+      "channel": "Tabletop Duo",
+      "duration": 290.0,
+      "title": "How to Play Sushi Go in 4 minutes (Family Card Game Gamewright Games)"
+    }
+  ]
+}

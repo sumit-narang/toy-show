@@ -1,0 +1,57 @@
+{
+  "id": "2023-lemieux-mini-pony-rug",
+  "year": 2023,
+  "name": "LeMieux Mini Pony Rug",
+  "price_eur": 29.94,
+  "price_text": "€29.94",
+  "retailers": [
+    {
+      "name": "The Equine Warehouse",
+      "url": "https://www.theequinewarehouse.com/item/LeMieux/Mini-LeMieux-Pony-Fly-Hood/19HT?stock=58962"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theequinewarehouse.com/item/LeMieux/Toy-Pony-Fly-Hood-Chilli/19HT?stock=58962",
+      "title": "Toy Pony Fly Hood - Chilli",
+      "description": "Toy Pony Fly Hood - Chilli\n\nAn identical miniature version of the Classic Fly Hood with intricate handmade crochet.  Super soft suede...",
+      "image": "https://d1vupj7v4hd8ug.cloudfront.net/product-media/GM3/1000/1000/chilli-mini-lemieux-fly-hood-2.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1dcLWYwQ-d8",
+      "channel": "LeMieux Official",
+      "duration": 84.0,
+      "title": "LeMieux Arika Shower-Tek Fly Rug Features"
+    },
+    {
+      "id": "CBfwaa0FGiw",
+      "channel": "Angel Wings Equestrian",
+      "duration": 239.0,
+      "title": "How to Make a Rug for Your LeMieux Pony"
+    },
+    {
+      "id": "PHbSitkghb0",
+      "channel": "Redpost Equestrian",
+      "duration": 31.0,
+      "title": "LeMieux Arika 2022 | New Horse Rugs & Accessories"
+    },
+    {
+      "id": "JsfhFdGxKJk",
+      "channel": "Kids Crafts and Pony Adventures",
+      "duration": 45.0,
+      "title": "This or That Lemieux Toy Pony Edition 🐴"
+    },
+    {
+      "id": "y45VIPlX_LI",
+      "channel": "JRS Ruitersport",
+      "duration": 141.0,
+      "title": "Arika Rugs explanation * JRS | LeMieux *"
+    }
+  ]
+}

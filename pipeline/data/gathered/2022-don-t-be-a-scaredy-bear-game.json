@@ -1,0 +1,54 @@
+{
+  "id": "2022-don-t-be-a-scaredy-bear-game",
+  "year": 2022,
+  "name": "Don't Be a Scaredy Bear Game",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Totally Toys Ireland",
+      "url": "https://totallytoys.ie/products/dont-be-a-scaredy-bear-board-game"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://totallytoys.ie/products/dont-be-a-scaredy-bear-board-game"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "h4Ae5m3GAEo",
+      "channel": "Lucas Berry’s Vids",
+      "duration": 22.0,
+      "title": "Don’t Be A Scaredy Bear Advert (2000, UK) (Fanmade)"
+    },
+    {
+      "id": "s0yqhVQa4lo",
+      "channel": "Toys Fun Kids UK",
+      "duration": 145.0,
+      "title": "Don't Be A Scaredy Bear ! | Oh No ! scared this time 😀 #game #scared #fun"
+    },
+    {
+      "id": "njYkBg4KCp4",
+      "channel": "Lucas Berry’s Vids",
+      "duration": 22.0,
+      "title": "Don’t Be A Scaredy Fox Advert (2015, UK) (Fanmade)"
+    },
+    {
+      "id": "8-eaIBb_MiU",
+      "channel": "Onell Falcao",
+      "duration": 52.0,
+      "title": "advert strepsils and don't be a scaredy bear game ctc"
+    },
+    {
+      "id": "VoBpkL2QNRQ",
+      "channel": "Lucas Berry’s Vids",
+      "duration": 22.0,
+      "title": "Don’t Be A Scaredy Bunny Ad (2015 UK)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2019-be-teens-knitting-and-knitting-mill",
+  "year": 2019,
+  "name": "Be Teens Knitting and Knitting Mill",
+  "price_eur": 36.0,
+  "price_text": "€36.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting-mill/1600424601.prd"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/buki-be-teens-knitting-mill/1600424601.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iCBOQh8h2aU",
+      "channel": "GiftsHQ",
+      "duration": 627.0,
+      "title": "Sentro Cast On / Cast Off: Beginner's How To Knitting Machine Guide"
+    },
+    {
+      "id": "vyWkDacUuN4",
+      "channel": "Anna Haferman",
+      "duration": 2334.0,
+      "title": "Crochet-look Beanie on the LK 150 Knitting Machine"
+    },
+    {
+      "id": "tqFFjAkOtN4",
+      "channel": "Yarn Knot Alone Muscat",
+      "duration": 407.0,
+      "title": "unboxing Girls Creator 22 needle knitting machine and cast on"
+    },
+    {
+      "id": "22rwRyfx9Lk",
+      "channel": "The Crafty Grrl",
+      "duration": 744.0,
+      "title": "10 Easy Spring/Summer Projects for the Circular Knitting Machine"
+    },
+    {
+      "id": "bwA8xwQvMIU",
+      "channel": "AB Crafty",
+      "duration": 363.0,
+      "title": "Sentro Knitting Machine for Beginners: Knit a Reversible Hat | Circular Knitting Machine Tutorial"
+    }
+  ]
+}

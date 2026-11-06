@@ -1,0 +1,54 @@
+{
+  "id": "2022-purse-pets",
+  "year": 2022,
+  "name": "Purse Pets",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Purse Pets",
+      "url": "https://www.pursepets.com/en_us/toys/778988437209"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3PQajozydqQ",
+      "channel": "Nathan Reviews",
+      "duration": 115.0,
+      "title": "Purse Pets Glamicorn Review and How To Demo - Purse Pets Glamicorn Unicorn Interactive Purse"
+    },
+    {
+      "id": "pxYVeWeBCnE",
+      "channel": "TTPM Toy Reviews",
+      "duration": 105.0,
+      "title": "Purse Pets Savannah Spotlight Belt Bag"
+    },
+    {
+      "id": "MlVTwaEDsQs",
+      "channel": "Hatchimals",
+      "duration": 177.0,
+      "title": "Purse Pets – INTERACTIVE Pet and Purse! – Unboxing and How-To"
+    },
+    {
+      "id": "BfzpQ2q2C5U",
+      "channel": "Echoes of PlayTime",
+      "duration": 21.0,
+      "title": "Purse Pets (Spin Master) TV Commercial - 2023"
+    },
+    {
+      "id": "uuh_0wtgiSw",
+      "channel": "Hatchimals",
+      "duration": 174.0,
+      "title": "Interactive Kuromi Purse Pets!| Kuromi How To"
+    }
+  ]
+}

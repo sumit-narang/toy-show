@@ -1,0 +1,60 @@
+{
+  "id": "2020-t-rex-ride-on-inflatable-costume",
+  "year": 2020,
+  "name": "T-Rex Ride On Inflatable Costume",
+  "price_eur": null,
+  "price_text": "£20.99",
+  "retailers": [
+    {
+      "name": "Morph Suits",
+      "url": "https://www.morphsuits.co.uk/t-rex-ride-on-inflatable-costume"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.morphsuits.co.uk/t-rex-ride-on-inflatable-costume",
+      "title": "T-Rex Ride On Inflatable Costume",
+      "description": "Our inflatable T-Rex ride-on costume for adults zips up, inflates in about a minute, and keeps the room entertained all evening. One size fits most, powered by 4 x AA batteries with a built-in fan.",
+      "image": "https://www.morphsuits.co.uk/media/catalog/product/M/C/MCROITR_akeneo_0.jpg?width=350&height=350&store=morphsuitsuk_storeview&image-type=image",
+      "ld_description": "Our inflatable T-Rex ride-on costume for adults is the centrepiece of any fancy dress occasion, turning heads the moment you zip up and switch on. At MorphCostumes, we have been designing bold, quality costumes since 2009, and this blow-up dinosaur is one of our most iconic creations.The built-in air pump inflates the costume in roughly one minute, powered by 4 x AA batteries (not included).Reinforced stitching and elasticated openings keep the suit fully inflated throughout wear.The fan runs for approximately 4 hours on high-quality batteries, so it lasts a full evening.Made from 100% polyester for durability and comfort during extended wear.One size fits most adults, with a zip-up entry that makes getting in and out straightforward.Hand wash only to keep the costume looking its best between wears.Whether you are heading to a Halloween party, a festive gathering, or a World Book Week event, this T-Rex ride-on costume delivers a spectacle every time. We make your best times better with costumes.",
+      "brand": null,
+      "ld_image": "https://www.morphsuits.co.uk/media/catalog/product/M/C/MCROITR_akeneo_0.jpg?width=1200&height=1200&store=morphsuitsuk_storeview&image-type=image"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tgM5G5mkHdc",
+      "channel": "Caroline",
+      "duration": 85.0,
+      "title": "Adult Inflatable T-Rex Dinosaur Costume Review"
+    },
+    {
+      "id": "jUjQYhLoCuY",
+      "channel": "MyKeyReviews",
+      "duration": 304.0,
+      "title": "Inflatable Ride-On Dinosaur (T-Rex) Costume (2019) | Set-Up & Review | MyKeyReviews"
+    },
+    {
+      "id": "BTtm-PNG_VQ",
+      "channel": "Unhappy Dan",
+      "duration": 634.0,
+      "title": "How Inflatable Dinosaur Costumes Work"
+    },
+    {
+      "id": "DTGHcHHywTI",
+      "channel": "Kaderade Reviews",
+      "duration": 221.0,
+      "title": "Complete MXoSUM Dino Inflatable Costume Review - Total Breakdown"
+    },
+    {
+      "id": "btO8c7dIbpk",
+      "channel": "Cassandra's Reviews",
+      "duration": 92.0,
+      "title": "This Skeleton Dino Costume Is Way Funnier Than I Expected 😂"
+    }
+  ]
+}

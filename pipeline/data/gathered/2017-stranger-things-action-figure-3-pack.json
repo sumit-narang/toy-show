@@ -1,0 +1,53 @@
+{
+  "id": "2017-stranger-things-action-figure-3-pack",
+  "year": 2017,
+  "name": "Stranger Things Action Figure 3 Pack",
+  "price_eur": 23.99,
+  "price_text": "€23.99",
+  "retailers": [
+    {
+      "name": "Retro Nation",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "c9ajbLvgvIw",
+      "channel": "SEAN LONG",
+      "duration": 330.0,
+      "title": "Stranger Things Funko Eleven, Mike, Lucas, Dustin, Will & Demogorgon 3 3/4\" Three Pack Toy Review"
+    },
+    {
+      "id": "32c1MTMc1Lc",
+      "channel": "Mr Evilcheese",
+      "duration": 662.0,
+      "title": "Funko: Stranger Things Exclusive 3-Pack Action Figure Review"
+    },
+    {
+      "id": "h-RBWIB7Gmk",
+      "channel": "Rob's Toy Bin",
+      "duration": 1274.0,
+      "title": "Stranger Things Funko Action Figures | From The Toy Bin"
+    },
+    {
+      "id": "h1F5AP_ilDE",
+      "channel": "ARMY OF TOYS",
+      "duration": 212.0,
+      "title": "Stranger Things 3 pack toy review!"
+    },
+    {
+      "id": "N5U05Hiasu0",
+      "channel": "MobileRafie",
+      "duration": 154.0,
+      "title": "Funko \"Stranger Things\" Collectible Action Figures (RafaPlaysWithToys)"
+    }
+  ]
+}

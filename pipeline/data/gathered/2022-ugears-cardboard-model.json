@@ -1,0 +1,71 @@
+{
+  "id": "2022-ugears-cardboard-model",
+  "year": 2022,
+  "name": "Ugears Cardboard Model",
+  "price_eur": 15.12,
+  "price_text": "€15.12",
+  "retailers": [
+    {
+      "name": "Ugears",
+      "url": "https://ugears.ie/devices-for-tabletop-games/83-ugears-games-dice-keeper-4820184120938"
+    },
+    {
+      "name": "ugears.ie",
+      "url": "https://ugears.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://ugears.ie/easy-gears/83-ugears-games-dice-keeper-4820184120938",
+      "title": "Dice Keeper - Unique Wooden Mechanical Device for Tabletop Games by Ugears",
+      "description": "Buy online Ugears Dice Keeper - Mechanical Wooden Device Hobby Table Top Games Kit and 3D Puzzle for Kids and Adults. Unusual gift at Ugears Ireland",
+      "image": "https://ugears.ie/647-large_default/ugears-games-dice-keeper.jpg",
+      "ld_description": "Buy online Ugears Dice Keeper - Mechanical Wooden Device Hobby Table Top Games Kit and 3D Puzzle for Kids and Adults. Unusual gift at Ugears Ireland",
+      "brand": "Ugears Ireland",
+      "ld_image": "https://ugears.ie/647-home_default/ugears-games-dice-keeper.jpg"
+    },
+    {
+      "status": 200,
+      "final_url": "https://ugears.ie/",
+      "title": "Ugears® Wooden 3D Puzzles | Mechanical Models",
+      "description": "Explore the Ugears® World of DIY Wooden 3D Puzzles that move without batteries. Shop Bestsellers and Newest Model Kits.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HkrBraxstFg",
+      "channel": "Ugears Models",
+      "duration": 32.0,
+      "title": "Millennium Falcon™ | Assemble me. Fly the fastest ship in the galaxy!"
+    },
+    {
+      "id": "TDjQiUmq0sk",
+      "channel": "Ugears Models",
+      "duration": 61.0,
+      "title": "New Ugears models: the Antique Wooden Box and the Butterfly Model-Automaton"
+    },
+    {
+      "id": "-bljaPp0QcA",
+      "channel": "Ugears Models",
+      "duration": 16.0,
+      "title": "Lighthouse of Alexandria | Assemble me. Build one of the Seven Wonders of the Ancient World!"
+    },
+    {
+      "id": "uFLKb0isomg",
+      "channel": "Ugears Models",
+      "duration": 42.0,
+      "title": "Quidditch™ Pinball from Ugears Harry Potter™ series"
+    },
+    {
+      "id": "IWMpnz8WBUs",
+      "channel": "MY UNIQUE IDEA",
+      "duration": 447.0,
+      "title": "Mini bridge construction ll How to make dam bridge with cardboard"
+    }
+  ]
+}

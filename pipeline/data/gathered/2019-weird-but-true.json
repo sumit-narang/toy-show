@@ -1,0 +1,54 @@
+{
+  "id": "2019-weird-but-true",
+  "year": 2019,
+  "name": "Weird but True!",
+  "price_eur": 7.0,
+  "price_text": "€7.00",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/weird-but-true-5-national-geographic-kids-9781426311246"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/weird-but-true-5-national-geographic-kids-9781426311246"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Df49TC9NONk",
+      "channel": "Nat Geo Kids",
+      "duration": 2653.0,
+      "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids"
+    },
+    {
+      "id": "gce527HId7c",
+      "channel": "Nat Geo Kids",
+      "duration": 1331.0,
+      "title": "Animal Invaders | Weird But True! | S1 E10 | Full Episode | @natgeokids"
+    },
+    {
+      "id": "-gCHN5sjFmA",
+      "channel": "Nat Geo Kids",
+      "duration": 71.0,
+      "title": "Looking Good ... And Gross! | Weird But True! Shorts"
+    },
+    {
+      "id": "yC7lhscL9qY",
+      "channel": "Nat Geo Kids",
+      "duration": 1334.0,
+      "title": "Astronauts 🌕 | Weird But True! | S1 E17 | Full Episode | @natgeokids"
+    },
+    {
+      "id": "OwR3KWmJwYg",
+      "channel": "Nat Geo Kids",
+      "duration": 1320.0,
+      "title": "The Volcano Science Fair Showdown 🌋| Weird But True! | S2 E6 | Full Episode |@natgeokids"
+    }
+  ]
+}

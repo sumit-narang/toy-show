@@ -1,0 +1,57 @@
+{
+  "id": "2021-blue-s-clues-you-25cm-peek-a-boo-plush",
+  "year": 2021,
+  "name": "Blue's Clues & You! 25cm Peek-A-Boo Plush",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/blue-s-clues-and-you-/blue-s-clues-and-you-25cm-peek-a-boo-plush-blue/p/194971"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/blue-s-clues-and-you-/blue-s-clues-and-you-25cm-peek-a-boo-plush-blue/p/194971",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8uvYfA0a9WI",
+      "channel": "havenhalli",
+      "duration": 63.0,
+      "title": "Krew Blue PeekaBoo!"
+    },
+    {
+      "id": "Rgz1EMfx4Vs",
+      "channel": "Toys\"R\"Us Singapore",
+      "duration": 160.0,
+      "title": "Blue's Clues - Green Grass Grew All Around!"
+    },
+    {
+      "id": "D0Qp5w-cm6A",
+      "channel": "Madison Castle",
+      "duration": 226.0,
+      "title": "Smyths Toys Furby Connect Blue Slow Motion 2x"
+    },
+    {
+      "id": "3VKwTdGW-RU",
+      "channel": "The Unboxers",
+      "duration": 895.0,
+      "title": "Easter Basket Surprise Package from IMC Toys"
+    },
+    {
+      "id": "ar93VWO9moI",
+      "channel": "The Weyser Man is Back",
+      "duration": 70.0,
+      "title": "The Boohbahs Go For Wide Walks To The Blue’s Clues: Blue’s Safari VHS End Credits"
+    }
+  ]
+}

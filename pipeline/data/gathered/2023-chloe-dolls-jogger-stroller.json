@@ -1,0 +1,57 @@
+{
+  "id": "2023-chloe-dolls-jogger-stroller",
+  "year": 2023,
+  "name": "Chloe Dolls Jogger Stroller",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls-buggies-and-prams/chloe-dolls-jogger-stroller/p/209230"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls-buggies-and-prams/chloe-dolls-jogger-stroller/p/209230",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rcfc8tRqYrQ",
+      "channel": "Badger Basket",
+      "duration": 457.0,
+      "title": "Assembly of 09960 Badger Basket Three Wheel Doll Jogging Stroller"
+    },
+    {
+      "id": "TsJciSm5VfI",
+      "channel": "Made for Kids",
+      "duration": 44.0,
+      "title": "Toy - Lucy Jogger Stroller"
+    },
+    {
+      "id": "Di0zBafUbXY",
+      "channel": "Amy Sanchez",
+      "duration": 389.0,
+      "title": "Baby born baby Chloe trying new carrier and outside feeding zapf creations"
+    },
+    {
+      "id": "YRshP4RrmSE",
+      "channel": "Hilary Surratt",
+      "duration": 112.0,
+      "title": "Mollie gets baby doll stroller for Christmas from pop and g"
+    },
+    {
+      "id": "Sp8SKyzc4hI",
+      "channel": "Storyful Viral ",
+      "duration": 62.0,
+      "title": "Little Girl Proudly Pushes Creepy Doll Around in Stroller"
+    }
+  ]
+}

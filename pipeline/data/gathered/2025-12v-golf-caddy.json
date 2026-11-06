@@ -1,0 +1,54 @@
+{
+  "id": "2025-12v-golf-caddy",
+  "year": 2025,
+  "name": "12v Golf Caddy",
+  "price_eur": 292.12,
+  "price_text": "€292.12",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/pre-order-12v-golf-caddy-green"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.emktoys.com/products/pre-order-12v-golf-caddy-green"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Kdl0Umke9G8",
+      "channel": "Golf BPM",
+      "duration": 223.0,
+      "title": "Why I Chose The Axglo Follow-Me Electric Golf Cart – More Features and $1,000 Cheaper Than the Rest!"
+    },
+    {
+      "id": "6T8jm9ag5Es",
+      "channel": "BATCADDY",
+      "duration": 60.0,
+      "title": "Golf Life May 2022 BATCADDY 60S Spot"
+    },
+    {
+      "id": "uZcT6yiTQ_A",
+      "channel": "Drummond Golf",
+      "duration": 326.0,
+      "title": "MGI Battery Education Video"
+    },
+    {
+      "id": "zTV3zA_qCVI",
+      "channel": "CAMPO REVIEWS",
+      "duration": 339.0,
+      "title": "⛳ ULTRAMAX 16Ah Golf Trolley Battery Review! 🔋 27 Holes?"
+    },
+    {
+      "id": "Qtp2DK3Sj0U",
+      "channel": "BATCADDY",
+      "duration": 76.0,
+      "title": "Golf Life X8R Video Review"
+    }
+  ]
+}

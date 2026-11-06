@@ -1,0 +1,54 @@
+{
+  "id": "2019-atomic-power-popper-12-shot-blaster",
+  "year": 2019,
+  "name": "Atomic Power Popper 12 Shot Blaster",
+  "price_eur": null,
+  "price_text": "£16.00",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Cheatwell-Games-Atomic-Popper-Blaster/dp/B00CW9AOIK"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Cheatwell-Games-Atomic-Popper-Blaster/dp/B00CW9AOIK"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zm4DN9i_Ke8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 57.0,
+      "title": "Atomic Power Popper 12X from Hog Wild"
+    },
+    {
+      "id": "z-78tqJ86Vo",
+      "channel": "Toys R Us Philippines",
+      "duration": 31.0,
+      "title": "Atomic Power Popper"
+    },
+    {
+      "id": "uLCsp7Elxkc",
+      "channel": "Hog Wild Toys",
+      "duration": 36.0,
+      "title": "Atomic Power Popper 12x"
+    },
+    {
+      "id": "d4N7HbyW6Rg",
+      "channel": "Buckets-O-Fun",
+      "duration": 33.0,
+      "title": "Atomic Power Popper"
+    },
+    {
+      "id": "RFMnHw1Atlo",
+      "channel": "Sterling W",
+      "duration": 71.0,
+      "title": "Costco! Atomic Power Popper - 2 Pack $14!!!"
+    }
+  ]
+}

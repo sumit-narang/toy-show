@@ -1,0 +1,57 @@
+{
+  "id": "2019-madame-badobedah",
+  "year": 2019,
+  "name": "Madame Badobedah",
+  "price_eur": 17.0,
+  "price_text": "€17.00",
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/products/sophie-dahl-madame-badobedah-illustrated-by-lauren-ohara"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://talesfortadpoles.ie/",
+      "title": "Tales for Tadpoles | Buy Beautiful Children's Books & Gifts Ireland",
+      "description": "A celebration of children's book illustration. We sell beautiful books, stationery and prints - perfect gifts for both children and adults alike.",
+      "image": "http://talesfortadpoles.ie/cdn/shop/files/Tales_for_Tadpole_Logo_for_Light_Wood.jpg?v=1636974912&width=1024"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "zrArtII8ooM",
+      "channel": "Book Nook",
+      "duration": 1676.0,
+      "title": "Madame Badobedah by Sophie Dhal Readalong Book Nook Ruth Parnell"
+    },
+    {
+      "id": "Fui1mAIQH-Q",
+      "channel": "Olivia McDonnell",
+      "duration": 1617.0,
+      "title": "Madame Badobedah audiobook"
+    },
+    {
+      "id": "uHuAheB0aYs",
+      "channel": "Waterstones",
+      "duration": 228.0,
+      "title": "Sophie Dahl reads Madame Badobedah"
+    },
+    {
+      "id": "HtgVc2Gsxgk",
+      "channel": "Storytime with Suzanne",
+      "duration": 1945.0,
+      "title": "Madame Badobedah by Sopie Dahl  Illustrated by Lauren O'Hara"
+    },
+    {
+      "id": "QazEre3AR18",
+      "channel": "Stories with Grandma",
+      "duration": 1510.0,
+      "title": "Madame Badobedah"
+    }
+  ]
+}

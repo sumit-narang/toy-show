@@ -1,0 +1,57 @@
+{
+  "id": "2019-fao-jack-in-the-box",
+  "year": 2019,
+  "name": "FAO Jack in the Box",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/",
+      "title": "Kids Toys & Games | Arnotts",
+      "description": "Step into a world of wonder, where imagination knows no bounds. Discover a magical collection of toys, playful companions and imaginative adventures at Arnotts, designed to inspire curiosity, creativity and endless hours of fun. From the irresistibly charming soft toys of Jellycat to the limitless possibilities of LEGO and the enchanting storytelling of Tonies, explore something special for every little dreamer. Whether you're searching for a treasured new companion, an imaginative gift or a world of adventure waiting to unfold, discover toys that bring playtime to life at Arnotts. Arnotts",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C_RrwzL6-AI",
+      "channel": "SoNowYouveSeenThis",
+      "duration": 17.0,
+      "title": "Jack in the Box | FAO Bear in the Box"
+    },
+    {
+      "id": "lZjHvn58aOs",
+      "channel": "Olimphia Bradshow (mysontoys)",
+      "duration": 38.0,
+      "title": "I&K's toys: Schylling Jack In The Box Peek - A- Boo Monkey"
+    },
+    {
+      "id": "eSPma6c-lS4",
+      "channel": "ercost60",
+      "duration": 14.0,
+      "title": "Flamethrowing Jack in the Box"
+    },
+    {
+      "id": "Bz08bqOb24U",
+      "channel": "MrKimo772004",
+      "duration": 17.0,
+      "title": "Winnie the Pooh Jack-in-the-Box"
+    },
+    {
+      "id": "4HOcCrVP9xs",
+      "channel": "Greg D",
+      "duration": 24.0,
+      "title": "Thomas and friends jack in the box."
+    }
+  ]
+}

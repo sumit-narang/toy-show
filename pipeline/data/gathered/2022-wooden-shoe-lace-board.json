@@ -1,0 +1,54 @@
+{
+  "id": "2022-wooden-shoe-lace-board",
+  "year": 2022,
+  "name": "Wooden Shoe lace Board",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BRPGNLee6pM",
+      "channel": "windelnde",
+      "duration": 65.0,
+      "title": "Lacing Board - PlanToys"
+    },
+    {
+      "id": "ZB-T5dx5zA8",
+      "channel": "MittStore",
+      "duration": 22.0,
+      "title": "Lacing Board with Strings 🧵 | Fun Skill-Building Hands-On Activity for Kids"
+    },
+    {
+      "id": "KqkKN3vE94I",
+      "channel": "BabyBibi",
+      "duration": 35.0,
+      "title": "Wooden Busy Board by BabyBibi will teach your baby shoelacing!"
+    },
+    {
+      "id": "Hlx9xJAYQuA",
+      "channel": "School Decor - Classroom Decoration Ideas ",
+      "duration": 63.0,
+      "title": "Wooden Shoe Lacing Learning Toy || Age Group 5-8"
+    },
+    {
+      "id": "Z1mZPsfROuU",
+      "channel": "DIY Crafts with Dana",
+      "duration": 358.0,
+      "title": "DIY SHOE LACING BOARD"
+    }
+  ]
+}

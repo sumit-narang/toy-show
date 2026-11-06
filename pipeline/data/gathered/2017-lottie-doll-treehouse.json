@@ -1,0 +1,57 @@
+{
+  "id": "2017-lottie-doll-treehouse",
+  "year": 2017,
+  "name": "Lottie Doll Treehouse",
+  "price_eur": 69.95,
+  "price_text": "€69.95",
+  "retailers": [
+    {
+      "name": "lottie.com",
+      "url": "http://lottie.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.lottie.com/",
+      "title": "Lottie Dolls Toys Clothes & Playsets | Arklu",
+      "description": "Official Lottie website, shop dolls, accessories, doll clothes, pets, toy horses, doll houses, stables and more today!",
+      "image": "http://www.lottie.com/cdn/shop/t/13/assets/logo.png?v=158799498952555539171509011606"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dAJfurCq0Vk",
+      "channel": "Tiny Treasures and Toys",
+      "duration": 126.0,
+      "title": "Daniel Tiger Toys and Lottie Doll WOODEN TREEHOUSE"
+    },
+    {
+      "id": "xb3BrYQiPtc",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 823.0,
+      "title": "Lottie Doll Wooden Treehouse 🌳 With Swing & Slide | Unboxing, Assembly & Pretend Pla"
+    },
+    {
+      "id": "H9WD4gAFtzQ",
+      "channel": "Lottie Dolls",
+      "duration": 64.0,
+      "title": "Lottie Dolls Tree House"
+    },
+    {
+      "id": "kQYDuzIOeNo",
+      "channel": "Kenci Beauty",
+      "duration": 510.0,
+      "title": "Kenci pretend play with Ryan and LOL house surprise opening Toys lottie doll treehouse"
+    },
+    {
+      "id": "7p-tPebzU0c",
+      "channel": "Little Dreamers",
+      "duration": 24.0,
+      "title": "Lottie Doll Spring Celebration"
+    }
+  ]
+}

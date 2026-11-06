@@ -1,0 +1,57 @@
+{
+  "id": "2020-lawn-mower-green-garden-asst",
+  "year": 2020,
+  "name": "Lawn Mower Green Garden Asst",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Mary's Toymaster, Cork",
+      "url": "https://www.marys.ie/Lawn-Mower-Green-Garden-Asst"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.marys.ie/Lawn-Mower-Green-Garden-Asst",
+      "title": "Lawn-Mower-Green-Garden-Asst",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k1qcyTWwcqY",
+      "channel": "Doctor Lefthandthread",
+      "duration": 252.0,
+      "title": "PARKSIDE 20V Robot Lawnmower FAILS 5 Big Mistakes to Avoid"
+    },
+    {
+      "id": "bhv-vaW5Tu4",
+      "channel": "TonaziTube",
+      "duration": 351.0,
+      "title": "How to Assemble and Setup Cordless Grass Cutter Step by Step | Portable Rechargeable Grass Trimmer"
+    },
+    {
+      "id": "g50oOG8g1Og",
+      "channel": "The Green Reaper",
+      "duration": 959.0,
+      "title": "Handy LIVE Demos: Webb Lawn Mowers"
+    },
+    {
+      "id": "hHqetQK5mj4",
+      "channel": "Deer Run Shop",
+      "duration": 38.0,
+      "title": "Meet Segway Navimow X4: Revolutionizing Mowing with 4WD and Wire-Free Tech #RoboticMower"
+    },
+    {
+      "id": "9pKMjC9xyc8",
+      "channel": "The Hook Up",
+      "duration": 1433.0,
+      "title": "Watch BEFORE You Buy a Robotic Lawnmower - LIDAR is a GAME CHANGER!"
+    }
+  ]
+}

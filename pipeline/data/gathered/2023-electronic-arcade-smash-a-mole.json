@@ -1,0 +1,57 @@
+{
+  "id": "2023-electronic-arcade-smash-a-mole",
+  "year": 2023,
+  "name": "Electronic Arcade Smash-a-Mole",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/tabletop-arcade-games/electronic-arcade-smash-a-mole/p/211444"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/tabletop-arcade-games/electronic-arcade-smash-a-mole/p/211444",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NgPiTQFnSf0",
+      "channel": "Merchant Ambassador",
+      "duration": 31.0,
+      "title": "Electronic Arcade Smash-A-Mole (GA2202) - Introduction (30 seconds, English)"
+    },
+    {
+      "id": "xmpBYR-nx5M",
+      "channel": "Michelle Sirg",
+      "duration": 1371.0,
+      "title": "Unboxing and Testing Electronic Arcade Smash a Mole + My Review!"
+    },
+    {
+      "id": "UAfKvY6MuLc",
+      "channel": "Merchant Ambassador",
+      "duration": 16.0,
+      "title": "Electronic Arcade Smash-A-Mole (GA2202) - TVC (15secs, English)"
+    },
+    {
+      "id": "chv0k3dypTk",
+      "channel": "Bites&Journeys",
+      "duration": 33.0,
+      "title": "Smash-A - Mole"
+    },
+    {
+      "id": "w1SlAMObX_M",
+      "channel": "Michaela Rice",
+      "duration": 345.0,
+      "title": "Smashamole"
+    }
+  ]
+}

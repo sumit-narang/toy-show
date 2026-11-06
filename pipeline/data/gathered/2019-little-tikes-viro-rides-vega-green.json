@@ -1,0 +1,26 @@
+{
+  "id": "2019-little-tikes-viro-rides-vega-green",
+  "year": 2019,
+  "name": "Little Tikes VIRO Rides VEGA Green",
+  "price_eur": 329.99,
+  "price_text": "€329.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/little-tikes-viro-rides-vega-green/p/176325"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/large-and-electric-scooters/electric-scooters/little-tikes-viro-rides-vega-green/p/176325",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

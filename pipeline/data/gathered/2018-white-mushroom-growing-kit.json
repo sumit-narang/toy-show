@@ -1,0 +1,57 @@
+{
+  "id": "2018-white-mushroom-growing-kit",
+  "year": 2018,
+  "name": "White Mushroom Growing Kit",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hW_B5UOwOKM",
+      "channel": "Top 5 Reviews",
+      "duration": 98.0,
+      "title": "reviewWhite Button Mushroom Growing Kit The Easiest Way to Grow Fresh Shrooms!"
+    },
+    {
+      "id": "LW4mQr8Zzlg",
+      "channel": "Calendula's Garden",
+      "duration": 608.0,
+      "title": "Oyster Mushroom Kit Review & Step-by-Step Growing Process"
+    },
+    {
+      "id": "3IuyO87Zxrg",
+      "channel": "Merryhill Mushrooms",
+      "duration": 35.0,
+      "title": "White Mushroom Growing Kit"
+    },
+    {
+      "id": "DLZgGnCN954",
+      "channel": "Little Acre",
+      "duration": 542.0,
+      "title": "Little Acre Gourmet Mushrooms - Instructional Grow Kit Video"
+    },
+    {
+      "id": "0EE-YeQpAb0",
+      "channel": "North Spore",
+      "duration": 109.0,
+      "title": "Grow Mushrooms Right in the Bag! | ShroomTek All-In-One Mushroom Grow Bag by North Spore"
+    }
+  ]
+}

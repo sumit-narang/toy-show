@@ -1,0 +1,53 @@
+{
+  "id": "2020-orbeez-ultimate-soothing-spa",
+  "year": 2020,
+  "name": "Orbeez Ultimate Soothing Spa",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SnuHc5Q5PWI",
+      "channel": "redplanetgroup",
+      "duration": 31.0,
+      "title": "Orbeez Ultimate Soothing Spa"
+    },
+    {
+      "id": "BDTjzkFfyWE",
+      "channel": "Toys Academy",
+      "duration": 585.0,
+      "title": "Ultimate Orbeez Soothing Spa | Toys Academy"
+    },
+    {
+      "id": "aJXwkP-bVqc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 82.0,
+      "title": "Orbeez Ultimate Soothing Spa from The Maya Group"
+    },
+    {
+      "id": "L8CVTMiH37M",
+      "channel": "For Kids WorldWide",
+      "duration": 520.0,
+      "title": "Orbeez Soothing Spa ★ For Kids Worldwide ★"
+    },
+    {
+      "id": "x0bvPEYB9Aw",
+      "channel": "Funtastic Limited",
+      "duration": 15.0,
+      "title": "Orbeez Ultimate Soothing Spa"
+    }
+  ]
+}

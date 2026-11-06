@@ -1,0 +1,64 @@
+{
+  "id": "2017-barbie-fashionistas-range",
+  "year": 2017,
+  "name": "Barbie Fashionistas Range",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2gVU8tc5YnI",
+      "channel": "The Entertainer",
+      "duration": 21.0,
+      "title": "Barbie Fashionistas Doll With Wheelchair and Ramp Set"
+    },
+    {
+      "id": "0srv-6EtJKE",
+      "channel": "TTPM Toy Reviews",
+      "duration": 112.0,
+      "title": "Barbie Fashionistas from Mattel"
+    },
+    {
+      "id": "lEe9YUWX45k",
+      "channel": "Faith Elene",
+      "duration": 491.0,
+      "title": "My Barbie Organization System: How I Store, Organize, and Display my Barbies"
+    },
+    {
+      "id": "PNripsbBMZI",
+      "channel": "toohunky toys",
+      "duration": 609.0,
+      "title": "Barbie Fashionistas Get Prosthesis & Wheelchairs 121 & 132 Made to Move Unboxing Review"
+    },
+    {
+      "id": "WuoCMLEY-0s",
+      "channel": "toohunky toys",
+      "duration": 864.0,
+      "title": "Barbie Fashionistas Beach Body WWE Superstars Makeover Fail Unboxing Review"
+    }
+  ]
+}

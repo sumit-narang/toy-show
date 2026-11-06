@@ -1,0 +1,57 @@
+{
+  "id": "2022-jurassic-world-dominion-real-fx-baby-blue-dinosaur",
+  "year": 2022,
+  "name": "Jurassic World Dominion: Real FX Baby Blue Dinosaur",
+  "price_eur": 119.99,
+  "price_text": "€119.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-dominion-real-fx-baby-blue-dinosaur/p/207056"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-dominion-real-fx-baby-blue-dinosaur/p/207056",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hDw2Cj-u-4k",
+      "channel": "AdventureFun!",
+      "duration": 1845.0,
+      "title": "Jurassic World Dominion & Park REAL FX Baby T.REX & Baby BLUE Animatronic Dinosaur Toys!"
+    },
+    {
+      "id": "IkU3Qu2E53A",
+      "channel": "Smyths Toys Superstores",
+      "duration": 45.0,
+      "title": "Jurassic World Dominion: Real FX Baby Blue - Smyths Toys"
+    },
+    {
+      "id": "Rmkg6M24t-E",
+      "channel": "JAKKS Pacific",
+      "duration": 78.0,
+      "title": "Wow! Stuff Jurassic World RealFX Baby Blue - Demo Video | JAKKS Pacific"
+    },
+    {
+      "id": "dB65tA-ySgg",
+      "channel": "Movieclips",
+      "duration": 203.0,
+      "title": "Jurassic World Dominion (2022) - Blue's Baby Scene | Movieclips"
+    },
+    {
+      "id": "VtAcSesZDFU",
+      "channel": "Banter Toys & Collectibles",
+      "duration": 41.0,
+      "title": "Jurassic World Real FX Baby Blue TVC 40 Sec"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-littlest-pet-shop-winter-besties-collectors-five-pack",
+  "year": 2024,
+  "name": "Littlest Pet Shop Winter Besties Collectors Five Pack",
+  "price_eur": 21.99,
+  "price_text": "€21.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/littlest-pet-shop-playset/p/239400"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/littlest-pet-shop-playset/p/239400",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2eUugKj-Wyo",
+      "channel": "squigglekinz",
+      "duration": 428.0,
+      "title": "Littlest Pet Shop G7 Winter Besties Set | REVIEW!"
+    },
+    {
+      "id": "eK-p_j8-xAo",
+      "channel": "TTPM Toy Reviews",
+      "duration": 56.0,
+      "title": "Littlest Pet Shop Collector's Pack from Hasbro"
+    },
+    {
+      "id": "9KlKi79b8t8",
+      "channel": "plecollect",
+      "duration": 2165.0,
+      "title": "I got every G7 LPS so you don't have to. (series 2) | Littlest Pet Shop comprehensive review"
+    },
+    {
+      "id": "Vf1xL8oOElc",
+      "channel": "Lps Honey",
+      "duration": 929.0,
+      "title": "Unboxing the BEST G7 LPS from Wave 2 (Snowy collectors set)"
+    },
+    {
+      "id": "D2wDhhyGEW8",
+      "channel": "Vic",
+      "duration": 348.0,
+      "title": "LPS Winter Besties Collector Set Unboxing"
+    }
+  ]
+}

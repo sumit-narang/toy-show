@@ -1,0 +1,54 @@
+{
+  "id": "2022-red-forklift-12v",
+  "year": 2022,
+  "name": "Red Forklift 12V",
+  "price_eur": null,
+  "price_text": "£300",
+  "retailers": [
+    {
+      "name": "EMK Toys",
+      "url": "https://www.emktoys.com/products/forklift-red"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.emktoys.com/products/forklift-red"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TGu0F9aIjlk",
+      "channel": "Toy4you",
+      "duration": 46.0,
+      "title": "12V Kids Forklift with Remote Contro| Storage Trunk | Electric toy Construction Vehicle | Toy4you.in"
+    },
+    {
+      "id": "jLSvcBDdB8U",
+      "channel": "Outside Play",
+      "duration": 152.0,
+      "title": "12v Electric Kids Ride On Forklift Truck Toy Car | Outside Play"
+    },
+    {
+      "id": "X974dSLpu0Q",
+      "channel": "Co.,Ltd Toptree Auto Lamp",
+      "duration": 43.0,
+      "title": "Forklift Safety - LED Red Zone Warning Lights"
+    },
+    {
+      "id": "YVMCKZvPfmk",
+      "channel": "Omar Success",
+      "duration": 170.0,
+      "title": "The Best Christmas Present In The World | Kids Forklift Truck"
+    },
+    {
+      "id": "XbeYgPkdjfs",
+      "channel": "New Vision Automotive Parts Co., Ltd",
+      "duration": 16.0,
+      "title": "Red LED Arc Beam Forklift Warning Lights 12V- 80V"
+    }
+  ]
+}

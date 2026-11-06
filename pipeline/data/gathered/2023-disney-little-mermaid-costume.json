@@ -1,0 +1,54 @@
+{
+  "id": "2023-disney-little-mermaid-costume",
+  "year": 2023,
+  "name": "Disney Little Mermaid Costume",
+  "price_eur": 80.0,
+  "price_text": "€80",
+  "retailers": [
+    {
+      "name": "Disney Store",
+      "url": "https://www.shopdisney.eu/the-little-mermaid-deluxe-costume-for-kids-5502047080305M.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.disneystore.eu/the-little-mermaid-deluxe-costume-for-kids-5502047080305M.html?isProductSearch=1&plpPosition=undefined&searchType=autosuggest-popular&siteSearchTopProduct=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NDFmaBCTbsY",
+      "channel": "partycostumeguy",
+      "duration": 63.0,
+      "title": "Disney's Little Mermaid Ariel Costume"
+    },
+    {
+      "id": "_n0xk1B1hxU",
+      "channel": "BestCostumeIdeas",
+      "duration": 58.0,
+      "title": "Ariel Mermaid Costumes Ideas"
+    },
+    {
+      "id": "_Knoz4ASnMc",
+      "channel": "Mini toys",
+      "duration": 4480.0,
+      "title": "Satisfying with Unboxing Disney Little Mermaid Toys Collection | Review Toys | ASMR"
+    },
+    {
+      "id": "sJwJcHAZiX8",
+      "channel": "KAYCEE & RACHEL in WONDERLAND FAMILY",
+      "duration": 604.0,
+      "title": "LITTLE MERMAID MAKEOVER"
+    },
+    {
+      "id": "P-2UbHdLjEc",
+      "channel": "TheDollBoy",
+      "duration": 219.0,
+      "title": "Ariel: Disney Princess Doll Look Book [The Little Mermaid]"
+    }
+  ]
+}

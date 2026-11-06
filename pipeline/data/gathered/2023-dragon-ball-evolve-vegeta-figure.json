@@ -1,0 +1,57 @@
+{
+  "id": "2023-dragon-ball-evolve-vegeta-figure",
+  "year": 2023,
+  "name": "Dragon Ball Evolve Vegeta Figure",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/dragon-ball-evolve/dragon-stars-17cm-goku-figure/p/226263"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/dragon-ball-evolve/dragon-stars-17cm-goku-figure/p/226263",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BCw9esQA_4I",
+      "channel": "Space Jelly Reviews",
+      "duration": 565.0,
+      "title": "Is the Dragon Ball Evolve Vegeta figure any good?"
+    },
+    {
+      "id": "9rRqCtXmH50",
+      "channel": "El Cuarto 4to Gamer MX",
+      "duration": 597.0,
+      "title": "Are they WORTH IT? 🤔 Goku & Vegeta Dragon Ball Evolve | No SH Figuarts | Bandai | Unboxing Review"
+    },
+    {
+      "id": "fu46iPzXMUk",
+      "channel": "Wasting Money",
+      "duration": 600.0,
+      "title": "The EASIEST Dragon Ball SH Figuarts Custom You Will Ever Do!"
+    },
+    {
+      "id": "sUshcGH8VeY",
+      "channel": "Galbi Zz",
+      "duration": 237.0,
+      "title": "Goku vs Broly  Stop Motion  Dragon Ball Evolve"
+    },
+    {
+      "id": "ZLa-JVtmzRI",
+      "channel": "THE FIGUREVERSE",
+      "duration": 793.0,
+      "title": "UNBOXING the NEW Dragon Ball Evolve Figures!!"
+    }
+  ]
+}

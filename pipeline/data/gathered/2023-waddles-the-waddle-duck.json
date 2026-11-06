@@ -1,0 +1,57 @@
+{
+  "id": "2023-waddles-the-waddle-duck",
+  "year": 2023,
+  "name": "Waddles the Waddle Duck",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/other-preschool/waddles-the-waddle-duck/p/218812"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/other-preschool/waddles-the-waddle-duck/p/218812",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "dUjIuKZDwy0",
+      "channel": "Jawwad Ali",
+      "duration": 36.0,
+      "title": "Waddles the Waddle Duck"
+    },
+    {
+      "id": "MtN1YnoL46Q",
+      "channel": "forrestfire101",
+      "duration": 192.0,
+      "title": "The Duck Song"
+    },
+    {
+      "id": "Ly14VX6vo_E",
+      "channel": "Calabria's Channel",
+      "duration": 73.0,
+      "title": "Calabria & Waddles the waddle duck!"
+    },
+    {
+      "id": "t_MP28r9wK0",
+      "channel": "Arlo & Aria",
+      "duration": 139.0,
+      "title": "Waddles the Waddle Duck"
+    },
+    {
+      "id": "wbHAq0V1Gu0",
+      "channel": "Bionic Pets",
+      "duration": 16.0,
+      "title": "Waddles the Duck."
+    }
+  ]
+}

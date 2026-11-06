@@ -1,0 +1,23 @@
+{
+  "id": "2025-evil-duck-and-the-nest-of-destiny-by-chris-judge",
+  "year": 2025,
+  "name": "Evil Duck and the Nest of Destiny by Chris Judge",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/evil-duck-and-the-nest-of-destiny?_pos=1&_sid=13a9721c6&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/evil-duck-and-the-nest-of-destiny?_pos=1&_sid=13a9721c6&_ss=r"
+    }
+  ],
+  "video_candidates": []
+}

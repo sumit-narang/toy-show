@@ -1,0 +1,54 @@
+{
+  "id": "2022-school-day",
+  "year": 2022,
+  "name": "School Day",
+  "price_eur": 60.0,
+  "price_text": "€60",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/school-day-60329"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/school-day-60329"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DgICmKsikBI",
+      "channel": "prettytopia ",
+      "duration": 459.0,
+      "title": "Productive School Day Routine | Realistic and Productive Full School Day Routine"
+    },
+    {
+      "id": "CskyDVPbN1g",
+      "channel": "Jordan Matter",
+      "duration": 1764.0,
+      "title": "My Daughter's FIRST DAY OF HIGH SCHOOL *Hidden Cameras*"
+    },
+    {
+      "id": "iP85R3ZNw7I",
+      "channel": "This Story English",
+      "duration": 723.0,
+      "title": "My School Day & Daily Routine 🌟 | Easy English for Kids | English Speaking Practice"
+    },
+    {
+      "id": "KmE4ZIL-B-g",
+      "channel": "NammaFlix",
+      "duration": 372.0,
+      "title": "School Days | Comedy Scene | Umesh S Hiremath | Sanjay H | K M Indra"
+    },
+    {
+      "id": "6ic0Ck1J8lo",
+      "channel": "Kinigra Deon",
+      "duration": 1961.0,
+      "title": "SCHOOL DAYS | Ep.1 "
+    }
+  ]
+}

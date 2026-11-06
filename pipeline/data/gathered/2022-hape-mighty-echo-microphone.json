@@ -1,0 +1,54 @@
+{
+  "id": "2022-hape-mighty-echo-microphone",
+  "year": 2022,
+  "name": "Hape Mighty Echo Microphone",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Hape",
+      "url": "https://de.hape.com/en/mighty-echo-microphone-e0337"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://de.hape.com/en/mighty-echo-microphone-e0337"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nXwzGGUkNZA",
+      "channel": "Rachybop Reviews",
+      "duration": 59.0,
+      "title": "Perfect first Microphone! Hape #ad"
+    },
+    {
+      "id": "OfWasumGbYM",
+      "channel": "Lindsy Reviews It",
+      "duration": 53.0,
+      "title": "Review - Hape Mighty Echo Microphone"
+    },
+    {
+      "id": "SjNCaiBYEp4",
+      "channel": "Lindsy Reviews It",
+      "duration": 53.0,
+      "title": "Review - Hape Mighty Echo Microphone"
+    },
+    {
+      "id": "rgGR2cUZyD4",
+      "channel": "The Doodlebug Den",
+      "duration": 43.0,
+      "title": "Review Hape Mighty Echo Microphone | Battery-Free Voice Amplifying Microphone Toy for Kids 1 Year &"
+    },
+    {
+      "id": "48-Z3q8h_88",
+      "channel": "Top Reviews",
+      "duration": 56.0,
+      "title": "Hape Mighty Echo Microphone - Battery Free Voice Amplifying Microphone Toy for Kids 1 Year #shorts"
+    }
+  ]
+}

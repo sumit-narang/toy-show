@@ -1,0 +1,29 @@
+{
+  "id": "2025-croke-park-mice-the-missing-referee-by-ruth-and-triona-croke",
+  "year": 2025,
+  "name": "Croke Park Mice: the missing referee by Ruth and Triona Croke",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/the-missing-referee-ruth-croke-9781788490559"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/the-missing-referee-ruth-croke-9781788490559",
+      "title": "Buy The Missing Referee Book at Easons",
+      "description": "Do you know the secret about Croke Park? When there are no games happening on the pitch, the Croke Park mice play their own games there! Right out in the middle of the pitch! \n\nThere are thirty-two mice, one from each county in Ireland. They live under the",
+      "image": null,
+      "ld_description": "Do you know the secret about Croke Park? When there are no games happening on the pitch, the Croke Park mice play their own games there! Right out in the middle of the pitch! \n\nThere are thirty-two mice, one from each county in Ireland. They live under the stands and watch every match from their tiny mouse holes. But on the day of the All-Ireland final, the referee is nowhere to be found! Can the Croke Park mice find the referee in time to save the day - and the match? \n\nA GAA picture book for children by Ruth and Triona Croke, charmingly illustrated by Audrey Dowling.",
+      "brand": "The O&#x27;Brien Press",
+      "ld_image": "https://www.easons.com/images/m/7f5dcff754ea55e5/original/9781788490559_5641532407.jpg"
+    }
+  ],
+  "video_candidates": []
+}

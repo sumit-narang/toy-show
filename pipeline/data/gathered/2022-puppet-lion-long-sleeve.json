@@ -1,0 +1,54 @@
+{
+  "id": "2022-puppet-lion-long-sleeve",
+  "year": 2022,
+  "name": "PUPPET LION - LONG SLEEVE",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JGRUKdiUrfU",
+      "channel": "San Marcos Public Library",
+      "duration": 343.0,
+      "title": "The Lion and the Mouse - Children's Puppet Show"
+    },
+    {
+      "id": "Muz2oCPrtNE",
+      "channel": "HONGKONGSHOWAGENT",
+      "duration": 350.0,
+      "title": "Chinese Puppet Show"
+    },
+    {
+      "id": "QCCyl2tY7V0",
+      "channel": "Maria - PolushkaBunny",
+      "duration": 424.0,
+      "title": "Knitted Lion Pattern - How to attach all parts together - PolushkaBunny"
+    },
+    {
+      "id": "DwxylOqL2ZU",
+      "channel": "Viator",
+      "duration": 112.0,
+      "title": "Water Puppet Show in Hanoi, Vietnam"
+    },
+    {
+      "id": "nmy53i-9aLQ",
+      "channel": "FolkmanisPuppets",
+      "duration": 14.0,
+      "title": "Folkmanis® Sheepdog Puppet Demo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2021-the-wonderful-wizard-of-oz-by-l-frank-baum",
+  "year": 2021,
+  "name": "The Wonderful Wizard of Oz by L. Frank Baum",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Hodges Figgis",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "twx_s8btFt4",
+      "channel": "The Book Tutor",
+      "duration": 405.0,
+      "title": "THE WONDERFUL WIZARD OF OZ BY L. FRANK BAUM // ANIMATED BOOK SUMMARY"
+    },
+    {
+      "id": "a4vBqP8nywA",
+      "channel": "English Audio Books",
+      "duration": 14790.0,
+      "title": "The Wonderful Wizard of Oz [Full Audiobook] by L.Frank Baum"
+    },
+    {
+      "id": "YK3M_49lJro",
+      "channel": "Minute Book Reports",
+      "duration": 223.0,
+      "title": "The Wonderful Wizard of Oz by L. Frank Baum (Book Summary and Review) - Minute Book Report"
+    },
+    {
+      "id": "v4EzVo1poUs",
+      "channel": "Fairy Tales and Stories for Kids",
+      "duration": 862.0,
+      "title": "The Wonderful Wizard of Oz Fairy Tales and Bedtime Stories for Kids"
+    },
+    {
+      "id": "g_XCGPogmPg",
+      "channel": "The Beckoning Bookshelf",
+      "duration": 605.0,
+      "title": "Let's Talk About L. Frank Baum's The Wonderful Wizard of Oz"
+    }
+  ]
+}

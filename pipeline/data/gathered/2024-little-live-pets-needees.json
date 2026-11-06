@@ -1,0 +1,57 @@
+{
+  "id": "2024-little-live-pets-needees",
+  "year": 2024,
+  "name": "Little Live Pets NeeDees",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-needee-interactive-toy-assortment/p/237831"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-needee-interactive-toy-assortment/p/237831",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Bu3RjcwpsA0",
+      "channel": "Baby Basket",
+      "duration": 276.0,
+      "title": "Little Live Pets: How to Care for & Play with NeeDees"
+    },
+    {
+      "id": "WrEle5sZFG0",
+      "channel": "Imagination Monster",
+      "duration": 239.0,
+      "title": "Little Live Pets NeeDees | How To Play & Interact With Super Cute Wearable Electronic Toy Pets"
+    },
+    {
+      "id": "Vzamn2dTydg",
+      "channel": "Giochi Preziosi Hellas",
+      "duration": 274.0,
+      "title": "Giochi Preziosi Hellas | Little Live Pets : Ζωάκια Needees - Πως να παίξετε"
+    },
+    {
+      "id": "8aWRS19P2ew",
+      "channel": "Bored House Flies",
+      "duration": 1054.0,
+      "title": "Little Live Pets - NeeDees | Interactive Wearable Pets! | Adult Collector Review & Toy Unboxing"
+    },
+    {
+      "id": "oP87uubGKXY",
+      "channel": "Mini fun toys",
+      "duration": 688.0,
+      "title": "Little Live Pets NeeDees Pets Toys Unboxing & Review"
+    }
+  ]
+}

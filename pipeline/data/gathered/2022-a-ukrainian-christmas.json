@@ -1,0 +1,44 @@
+{
+  "id": "2022-a-ukrainian-christmas",
+  "year": 2022,
+  "name": "A Ukrainian Christmas",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "sQ-olcGgzcA",
+      "channel": "FJHmusic",
+      "duration": 119.0,
+      "title": "A Ukrainian Christmas - Arranged by Robert Sheldon"
+    },
+    {
+      "id": "T7bSU1sFnJM",
+      "channel": "Ingen",
+      "duration": 91.0,
+      "title": "\"Щедрик\" - Ukrainian Christmas Carol (Carol of The Bells Original Version)"
+    },
+    {
+      "id": "YxOliGlNVw4",
+      "channel": "Ukraine Unfiltered",
+      "duration": 629.0,
+      "title": "Ukrainian Christmas Traditions Decoded | Food, Carols & the Customs That Survived"
+    },
+    {
+      "id": "grBrc3YODhA",
+      "channel": "Food Around The World Studio",
+      "duration": 1480.0,
+      "title": "LIFE in the a remote Ukrainian village! CHRISTMAS IN THE VILLAGE!"
+    },
+    {
+      "id": "d4GPwobzW94",
+      "channel": "Google Play Books",
+      "duration": 1178.0,
+      "title": "A Ukrainian Christmas by Yaroslav Hrytsak · Audiobook preview"
+    }
+  ]
+}

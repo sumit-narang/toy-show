@@ -1,0 +1,33 @@
+{
+  "id": "2019-smiffys-fart-whoopee-cushion",
+  "year": 2019,
+  "name": "Smiffys Fart Whoopee Cushion",
+  "price_eur": 3.0,
+  "price_text": "€3.00",
+  "retailers": [
+    {
+      "name": "Fun Place",
+      "url": "https://www.funplace.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funplace.ie/",
+      "title": "Halloween Costumes Dublin Ireland and Nationwide Delivery",
+      "description": "All our products are stocked and shipped from our Irish warehouse. We stock a range of halloween costumes including Peppa Pig, The Traitors, Spiderman and Roblox.",
+      "image": "https://cdn.shopify.com/s/files/1/0562/4286/4279/files/fun_place_logo.jpg?height=628&pad_color=fff&v=1622545527&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ufCwAYtFQ3w",
+      "channel": "SIMUL TV",
+      "duration": 191.0,
+      "title": "fart boom fart bomb review"
+    }
+  ]
+}

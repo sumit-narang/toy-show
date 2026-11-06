@@ -1,0 +1,57 @@
+{
+  "id": "2024-soccer-bot",
+  "year": 2024,
+  "name": "Soccer Bot",
+  "price_eur": 59.99,
+  "price_text": "€59.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/smart-ball-indoor-soccer-bot-size-1/p/226557"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/smart-ball-indoor-soccer-bot-size-1/p/226557",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yGOIZTf10LU",
+      "channel": "Golden Bear Toys",
+      "duration": 34.0,
+      "title": "Smart Ball Soccer Bot - Dec - Landscape"
+    },
+    {
+      "id": "zwVmu7666Sg",
+      "channel": "Golden Bear Toys",
+      "duration": 50.0,
+      "title": "How to Set Up Soccer Bot UK"
+    },
+    {
+      "id": "thriuSVvXxI",
+      "channel": "Headstart Toys",
+      "duration": 31.0,
+      "title": "Soccer Bot 2.0 Indoor Soccer Game – Light-Up Ball & Multiplayer Action"
+    },
+    {
+      "id": "jatOZAz-mjI",
+      "channel": "strikesphere",
+      "duration": 341.0,
+      "title": "Strikesphere Soccer Bot Setting Up & Troubleshooting"
+    },
+    {
+      "id": "QRIFtyKNMr4",
+      "channel": "Abel Ruiz",
+      "duration": 105.0,
+      "title": "Soccer Bot Review: Is It Actually Worth It?"
+    }
+  ]
+}

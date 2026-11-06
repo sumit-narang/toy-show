@@ -1,0 +1,54 @@
+{
+  "id": "2020-thomas-friends-large-motorised-engine-thomas-with-annie-and-clarabel",
+  "year": 2020,
+  "name": "Thomas & Friends Large Motorised Engine - Thomas with Annie and Clarabel",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/thomas-friends-large-motorised-engine-thomas-with-annie-and-clarabel/1600482500.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/thomas-friends-large-motorised-engine-thomas-with-annie-and-clarabel/1600482500.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sc-nj_nQXWY",
+      "channel": "Train Tsar Fun",
+      "duration": 512.0,
+      "title": "Thomas & Friends RED VS BLUE THOMAS with Annie & Clarabel - Amazing Train Collection!!"
+    },
+    {
+      "id": "RRPpopFnDFw",
+      "channel": "Bachmann Trains",
+      "duration": 59.0,
+      "title": "Bachmann Large Scale Thomas & Friends™ Thomas with Annie & Clarabel"
+    },
+    {
+      "id": "pSmK8h5I4iA",
+      "channel": "Bachmann Europe",
+      "duration": 173.0,
+      "title": "Thomas with Annie & Clarabel OO Scale Electric Train Set"
+    },
+    {
+      "id": "N2zKj4-JoPw",
+      "channel": "Train Tsar Fun",
+      "duration": 494.0,
+      "title": "THOMAS THE TANK ENGINE, ANNIE & CLARABEL G Scale BACHMANN Train Set"
+    },
+    {
+      "id": "qEFXOP9WuLM",
+      "channel": "Josh’s Junction",
+      "duration": 298.0,
+      "title": "*REVIEWING* Bachmann Thomas Annie And Clarabelle Electric Train Set!"
+    }
+  ]
+}

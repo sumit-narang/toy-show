@@ -1,0 +1,60 @@
+{
+  "id": "2023-the-great-big-irish-annual-2024",
+  "year": 2023,
+  "name": "The Great Big Irish Annual 2024",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/great-big-irish-annual-2024?_pos=1&_sid=480e0189e&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://chaptersbookstore.com/products/great-big-irish-annual-2024?_pos=1&_sid=480e0189e&_ss=r",
+      "title": "Gill: The Great Big Irish Annual 2024 [2023] hardback",
+      "description": "Gill: The Great Big Irish Annual 2024 [2023] hardback | The Great Big Irish Annual 2024 is packed with lots of fun things to make and do, puzzles, colouring, crazy facts and much, much more. Build a CATAPULT in our Science Lab, solve a Murder Mystery, create the next GAMING SENSATION, or make your own ROCKY ROAD in the",
+      "image": "http://chaptersbookstore.com/cdn/shop/files/gill-gill-the-great-big-irish-annual-2024-2023-hardback-9780717198863-51859861602643_1200x1200.jpg?v=1692213264",
+      "ld_description": "The Great Big Irish Annual 2024 is packed with lots of fun things to make and do, puzzles, colouring, crazy facts and much, much more. Build a CATAPULT in our Science Lab, solve a Murder Mystery, create the next GAMING SENSATION, or make your own ROCKY ROAD in the Kitchen Corner. This bumper book of the year delivers hilarious jokes, Serious science and Hectic History that will keep you entertained for hours!",
+      "brand": "Gill",
+      "ld_image": "https://chaptersbookstore.com/cdn/shop/files/gill-gill-the-great-big-irish-annual-2024-2023-hardback-9780717198863-51859861602643_307x.jpg?v=1692213264"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0CzdYnLNJNw",
+      "channel": "BigRedEngineTV",
+      "duration": 148.0,
+      "title": "American Chamber of Commerce Ireland -  Annual Dinner Highlights (2024)"
+    },
+    {
+      "id": "nGc47xWe_XM",
+      "channel": "Moss Joe Browne (Ballyduff Kerry)",
+      "duration": 559.0,
+      "title": "Athea annual horse fair Sat 9th Nov 2024."
+    },
+    {
+      "id": "ur0v79EOSKk",
+      "channel": "Roll on square",
+      "duration": 13826.0,
+      "title": "Old Skool Dance Megamix (90s Classics) | 3.5 Hours Non-Stop Club Anthems | Roll On Square Mix"
+    },
+    {
+      "id": "w0v_pu6miJ8",
+      "channel": "Riverdance",
+      "duration": 495.0,
+      "title": "Riverdance at the Eurovision Song Contest 30 April 1994, Dublin"
+    },
+    {
+      "id": "IinUlhdcqj8",
+      "channel": "Relentless 03",
+      "duration": 1847.0,
+      "title": "Kilcluney Volunteers (Full Clip 4K)@ Their Own Parade ~ Markethill~ 07/06/24 (4K)"
+    }
+  ]
+}

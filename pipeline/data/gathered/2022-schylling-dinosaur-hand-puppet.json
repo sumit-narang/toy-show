@@ -1,0 +1,57 @@
+{
+  "id": "2022-schylling-dinosaur-hand-puppet",
+  "year": 2022,
+  "name": "Schylling Dinosaur Hand Puppet",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Discovery Playtime",
+      "url": "https://discoveryplaytime.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://discoveryplaytime.ie/",
+      "title": "Discovery Playtime | Home",
+      "description": "We offer a variety of exciting opportunities, including seasonal camps, teacher training, parent talks, and engaging workshops focused on child development. Plus, you can tune into our 'Rediscovering Childhood' podcast and join in on our fun family events—all designed to support growth, learning, and connection.",
+      "image": "https://assets.cdn.filesafe.space/GXO6Ip88k0CjXrbTGgfH/media/68c3e4f2bc9c09cdc8adb084.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "45kkOQDePjg",
+      "channel": "SchyllingToy",
+      "duration": 23.0,
+      "title": "Schylling Dinosaur Stretchy Hand Puppet"
+    },
+    {
+      "id": "JrhL3RD_0k4",
+      "channel": "SchyllingToy",
+      "duration": 48.0,
+      "title": "Schylling Dino Skull Hand Puppets"
+    },
+    {
+      "id": "Ch0v35vymmM",
+      "channel": "SchyllingToy",
+      "duration": 32.0,
+      "title": "Schylling Baby Dino Snappers Chomping Finger Puppets"
+    },
+    {
+      "id": "SgVeHUvn4FI",
+      "channel": "SchyllingToy",
+      "duration": 44.0,
+      "title": "Schylling Chomp & Go Dino Bones"
+    },
+    {
+      "id": "OnOnugY9DxM",
+      "channel": "SchyllingToy",
+      "duration": 26.0,
+      "title": "Schylling Dragon Stretchy Hand Puppets"
+    }
+  ]
+}

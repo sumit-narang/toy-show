@@ -1,0 +1,54 @@
+{
+  "id": "2018-lidl-rc-rat",
+  "year": 2018,
+  "name": "Lidl RC Rat",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "LIDL",
+      "url": "https://www.lidl.ie/en/index.htm"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.lidl.ie/en/index.htm"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6zrX7cyKF1o",
+      "channel": "Out of the BOX UNBOXING",
+      "duration": 426.0,
+      "title": "UNBOXING / TEST :) Remote Control Rat Lidl :)"
+    },
+    {
+      "id": "yxBhlRlbqvY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 52.0,
+      "title": "Horrible Pets RC Rat from Uncle Milton"
+    },
+    {
+      "id": "Mmhgr1hgsPY",
+      "channel": "Super Cowboy",
+      "duration": 60.0,
+      "title": "Wireless Electric RC Flocking Rat Toys Pet Cat Play Remote Control Mouse"
+    },
+    {
+      "id": "_1sHg4uqUXE",
+      "channel": "Hearthsong",
+      "duration": 40.0,
+      "title": "RC RAT Sku# 732068 - HearthSong"
+    },
+    {
+      "id": "zeomNp4gosg",
+      "channel": "Senya Toys",
+      "duration": 208.0,
+      "title": "Grey rat remote control unboxing video"
+    }
+  ]
+}

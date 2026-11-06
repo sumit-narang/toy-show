@@ -1,0 +1,60 @@
+{
+  "id": "2021-discovery-rc-smoking-dragon",
+  "year": 2021,
+  "name": "Discovery RC Smoking Dragon",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "FAO Schwarz at Arnotts",
+      "url": "https://www.arnotts.ie/fao-schwarz/discovery-remote-control-dragon/151785095.html?cgid=root#q=dragon&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/fao-schwarz/remote-control-dragon/151785095.html?cgid=root#q=dragon&lang=en_IE&start=1",
+      "title": "FAO SCHWARZ Discovery Remote Control Dragon - Blue",
+      "description": "With realistic lights and sounds, this mythical dragon from FAO Schwarz is under your control and can breathe real smoke and flap its wings!",
+      "image": "https://images.brownthomas.com/bta/2000075362_01.jpg?$product_tile_plp$",
+      "ld_description": "With realistic lights and sounds, this mythical dragon from FAO Schwarz is under your control and can breathe real smoke and flap its wings!",
+      "brand": "FAO SCHWARZ",
+      "ld_image": "https://images.brownthomas.com/bta/2000075362_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sD9Vv2dJkg4",
+      "channel": "Maxon & Jason's Channel",
+      "duration": 471.0,
+      "title": "Unboxing and Review Discovery RC Dragon Frost Breathing Pet Toy, It can breath smoke!!"
+    },
+    {
+      "id": "EP2mLg_39xo",
+      "channel": "Camtec Marketing",
+      "duration": 37.0,
+      "title": "Discovery - RC Siberia The Frost Breathing Dragon TVC"
+    },
+    {
+      "id": "jSJan4dUULc",
+      "channel": "ClearCut Product Reviews",
+      "duration": 57.0,
+      "title": "Discovery RC Dragon Review"
+    },
+    {
+      "id": "ae9_bOh-NGc",
+      "channel": "DisneyToysReview",
+      "duration": 313.0,
+      "title": "UNBOXING I/R SMOKE BREATHING ICE DRAGON REMOTE CONTROLLED DRAGONS & DINOSAURS FIGHT ATTACK"
+    },
+    {
+      "id": "wT6dZF5hdhc",
+      "channel": "RC4all",
+      "duration": 371.0,
+      "title": "ROARS and Blows Smoke, Dragon World RC walking ice dragon “for the kids”"
+    }
+  ]
+}

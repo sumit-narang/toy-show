@@ -1,0 +1,57 @@
+{
+  "id": "2021-just-like-home-sewing-machine",
+  "year": 2021,
+  "name": "Just Like Home Sewing Machine",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://worldofwondertoys.ie/",
+      "title": "Kids Toys Online | New Arrivals 2023 | World of Wonder Ireland",
+      "description": "We are a 100% Irish owned toy & nursery retailer, a leading stockist of kids toys for all ages. Shop our range of boys & girls toys online with fast nationwide shipping.",
+      "image": "https://worldofwondertoys.ie/wp-content/uploads/2021/03/Schleich.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BJ8f1LGxOxY",
+      "channel": "East and West Railways UK",
+      "duration": 428.0,
+      "title": "Toy's R Us Just Like Home Washing Machine Review"
+    },
+    {
+      "id": "04DarPVWkpI",
+      "channel": "Easy Sewing for Beginners",
+      "duration": 580.0,
+      "title": "How to Operate a Mini Stapler Sewing Machine  - Tutorial"
+    },
+    {
+      "id": "ypo0LqqwgfE",
+      "channel": "Sydney Graham",
+      "duration": 247.0,
+      "title": "How to Finish Raw Edges Without An Overlocker or Serger | Zig Zag and Overlock Stitch Tutorial"
+    },
+    {
+      "id": "iW3AULgs2uU",
+      "channel": "Easy Sewing for Beginners",
+      "duration": 742.0,
+      "title": "How to Operate a Handheld Sewing Machine - Tutorial"
+    },
+    {
+      "id": "p7gQvU1hSyo",
+      "channel": "Easy Sewing for Beginners",
+      "duration": 900.0,
+      "title": "How to Operate a Portable Mini Sewing Machine FHSM 505 - NEX Sewing Machine"
+    }
+  ]
+}

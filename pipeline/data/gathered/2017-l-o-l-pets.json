@@ -1,0 +1,64 @@
+{
+  "id": "2017-l-o-l-pets",
+  "year": 2017,
+  "name": "L.O.L Pets",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "6DnQxLzT7l0",
+      "channel": "Genieland",
+      "duration": 1109.0,
+      "title": "Opening LOL Surprise Pets with Animator's Collection Little Surprises"
+    },
+    {
+      "id": "ksovvCrCFTQ",
+      "channel": "FunFun Toy Doll TV",
+      "duration": 1673.0,
+      "title": "LOL SURPRISE PETS Series 3 Full Box - LOL Surpresa Animais de estimação LOL Überraschung Haustiere"
+    },
+    {
+      "id": "40GazsJxPnM",
+      "channel": "The Doll Archives",
+      "duration": 2255.0,
+      "title": "LOL Surprise EYE SPY Series 2025! TOTS, LITTLE SISTERS and PETS Unboxing"
+    },
+    {
+      "id": "mxBASAFuPBg",
+      "channel": "OhcluckToys",
+      "duration": 1227.0,
+      "title": "LOL Surprise Fuzzy Pets Wave 2 Makeover Series Blind Box Unboxing Toy Review"
+    },
+    {
+      "id": "Dxq4lEMBrdw",
+      "channel": "The Doll Archives",
+      "duration": 645.0,
+      "title": "LOL Surprise Fuzzy Pets Wave 2 Unboxing"
+    }
+  ]
+}

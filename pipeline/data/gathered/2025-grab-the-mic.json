@@ -1,0 +1,60 @@
+{
+  "id": "2025-grab-the-mic",
+  "year": 2025,
+  "name": "Grab The Mic",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/grab-the-mic-0500050?msclkid=3567ddfed3261b15a46bb4db55c00a5d&utm_source=bing&utm_medium=cpc&utm_campaign=Products%20-%20Games&utm_term=grab%20the%20mic&utm_content=Grab%20The%20Mic%20-%20BM"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/grab-the-mic-0500050?msclkid=3567ddfed3261b15a46bb4db55c00a5d&utm_source=bing&utm_medium=cpc&utm_campaign=Products%20-%20Games&utm_term=grab%20the%20mic&utm_content=Grab%20The%20Mic%20-%20BM",
+      "title": "Grab The Mic | Easons.com",
+      "description": "THE KARAOKE GAME FOR PEOPLE WHO CAN’T SING - Grab The Mic is the ultimate karaoke-style game for those who love music but might not have the singing skills! FREE delivery on orders over €10 on Easons.com",
+      "image": null,
+      "ld_description": "THE KARAOKE GAME FOR PEOPLE WHO CAN’T SING - Grab The Mic is the ultimate karaoke-style game for those who love music but might not have the singing skills! FAST-PACED FUN - Flip a card, think quick, and race to grab the foam microphone to sing a lyric containing the revealed word. It's a fast-paced game that keeps everyone on their toes! HILARIOUS MOMENTS - Watch as your friends try to recall lyrics under pressure, resulting in hilarious renditions of popular songs. It's guaranteed to have everyone laughing and singing along! VERSATILE GAMEPLAY - Featuring a game board with multiple game modes, Grab The Mic offers various levels of challenge and keeps the fun fresh every time, switch up the board for a new experience and endless musical battles that never get old! Get your friends and family together for hours of musical entertainment with Grab The Mic!  125 word cards Foam microphone Game board Player tokens 1 mute token Easy-to-follow instructions Age 8+ 2 - 10 players",
+      "brand": null,
+      "ld_image": "https://www.easons.com/images/m/790d91e85c111048/original/0500050_5638604416.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zyg1Ypeta9U",
+      "channel": "Lucky Egg",
+      "duration": 90.0,
+      "title": "Grab The Mic - How To Play"
+    },
+    {
+      "id": "ULPjlbkq-to",
+      "channel": "Santagato Studios",
+      "duration": 872.0,
+      "title": "Let's Sing! | GRAB THE MIC"
+    },
+    {
+      "id": "t0yKy-gdYKA",
+      "channel": "Santagato Studios",
+      "duration": 1123.0,
+      "title": "Time To Sing! | Grab The Mic 3"
+    },
+    {
+      "id": "BFWALXdKJjk",
+      "channel": "Santagato Studios",
+      "duration": 1022.0,
+      "title": "Sing That Song | Grab The Mic 2"
+    },
+    {
+      "id": "dwjNJZqyuTk",
+      "channel": "Double Take Reacts",
+      "duration": 437.0,
+      "title": "2Pac - Grab the Mic | REACTION"
+    }
+  ]
+}

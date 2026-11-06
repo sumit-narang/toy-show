@@ -1,0 +1,57 @@
+{
+  "id": "2018-kid-s-strawberry-growing-kit",
+  "year": 2018,
+  "name": "Kid's Strawberry Growing Kit",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mN9yQctzr-M",
+      "channel": "GraceTime LI",
+      "duration": 462.0,
+      "title": "Grace and Jax Plant Basil And Strawberry|Buzzy Grow Kit| |Family Vlog|"
+    },
+    {
+      "id": "OESYPlYVKjM",
+      "channel": "TheGardenShopIreland",
+      "duration": 135.0,
+      "title": "Kids Strawberry Growing kit"
+    },
+    {
+      "id": "B040p3ZM17c",
+      "channel": "Mitoo's Corner",
+      "duration": 201.0,
+      "title": "Buzzy Strawberry Grow Kit 🍓"
+    },
+    {
+      "id": "tWyROVzfsMA",
+      "channel": "Robin's Buys and DIYs",
+      "duration": 539.0,
+      "title": "Strawberry Kit Tips: Grow Like a Pro!"
+    },
+    {
+      "id": "ekfWN5EnnT8",
+      "channel": "VeganWorld TechBook",
+      "duration": 423.0,
+      "title": "Strawberry Grow Kit"
+    }
+  ]
+}

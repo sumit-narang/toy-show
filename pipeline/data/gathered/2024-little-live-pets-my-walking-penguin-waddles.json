@@ -1,0 +1,60 @@
+{
+  "id": "2024-little-live-pets-my-walking-penguin-waddles",
+  "year": 2024,
+  "name": "Little Live Pets My Walking Penguin Waddles",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Totally Toys",
+      "url": "https://totallytoys.ie/products/little-live-pets-my-walking-penguin"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://totallytoys.ie/products/little-live-pets-my-walking-penguin",
+      "title": "Little Live Pets My Walking Penguin",
+      "description": "Little Live Pets My Walking Penguin Meet Waddles, your new pet penguin that walks and sounds just like a real penguin!",
+      "image": "https://totallytoys.ie/cdn/shop/files/Website-Image-33-1_4ddbf5af-ad68-4c55-8c8e-9fb69c12dc3d_600x.jpg?v=1789388826",
+      "ld_description": "Little Live Pets My Walking Penguin\n\nMeet Waddles, your new pet penguin that walks and sounds just like a real penguin!\nWaddles has soft and cuddly fur to touch, with fluffy wings that flap when he walks and dances.\nDiscover your pet penguin’s playful personality – you can feed, walk and dance with Waddles!\nWalk Waddles on his leash or get him to dance to his own tunes as he flaps his wings!\nMy Walking Penguin is so soft and cuddly. Feed Waddles with his fish and listen as he drinks, burps and giggles.\nPerfect for kids aged 5+, My Walking Penguin comes with a detachable leash, a feeding fish, an instruction booklet.\nWatch as Waddles flaps his wings as she walks, dances and reacts to your touch, it is so sweet!\nAge 5+",
+      "brand": "Little Live Pets",
+      "ld_image": "https://totallytoys.ie/cdn/shop/files/Website-Image-33-1_4ddbf5af-ad68-4c55-8c8e-9fb69c12dc3d.jpg?v=1789388826"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tMz5RHj_rZE",
+      "channel": "Toys & Smiles",
+      "duration": 534.0,
+      "title": "Little Live Pets My Walking Penguin Waddles Unboxing & Demo"
+    },
+    {
+      "id": "8tYf0boW8yg",
+      "channel": "Toy Time Together",
+      "duration": 695.0,
+      "title": "Little Live Pets My Walking Penguin Waddles Unboxing & Playthrough"
+    },
+    {
+      "id": "3OyaNm4s6PM",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1278.0,
+      "title": "New Interactive Toys for Xmas 2024: Moose Toys My Pet Penguin waddles Unboxing Demonstration Review"
+    },
+    {
+      "id": "rxhogGuFiU0",
+      "channel": "What Do Toys Do?",
+      "duration": 219.0,
+      "title": "Little Live Pets My Walking Penguin Waddles Dances Soft Plush Toy Moose"
+    },
+    {
+      "id": "1Va3Dx32eU4",
+      "channel": "JILANA IN USA",
+      "duration": 301.0,
+      "title": "🐧 CUTE Girl Unboxing Little Live Pets Walking Penguin #shorts #littlelivepets #walkingpenguinwaddles"
+    }
+  ]
+}

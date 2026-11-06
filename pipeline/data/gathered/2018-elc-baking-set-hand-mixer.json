@@ -1,0 +1,72 @@
+{
+  "id": "2018-elc-baking-set-hand-mixer",
+  "year": 2018,
+  "name": "ELC Baking Set (Hand Mixer)",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "T_vu_NRQGsQ",
+      "channel": "irysky",
+      "duration": 24.0,
+      "title": "ELC mixer"
+    },
+    {
+      "id": "4mBDAVaRauA",
+      "channel": "Playing with Lana",
+      "duration": 244.0,
+      "title": "Bosch Handmixer Toy review and unpacking - Theo Klein 9574"
+    },
+    {
+      "id": "xBl5lG1B0V4",
+      "channel": "Lemon Pie",
+      "duration": 519.0,
+      "title": "ELC Happyland Mouse Kettle House and Mouse Café"
+    },
+    {
+      "id": "qUc2K8mOPkY",
+      "channel": "Classic World Toys",
+      "duration": 30.0,
+      "title": "Classic World 👉Tool Bench"
+    },
+    {
+      "id": "jbKwj3elszI",
+      "channel": "YourKIDZ",
+      "duration": 34.0,
+      "title": "Mixer & Toaster for Kidz"
+    }
+  ]
+}

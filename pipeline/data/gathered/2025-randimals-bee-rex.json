@@ -1,0 +1,26 @@
+{
+  "id": "2025-randimals-bee-rex",
+  "year": 2025,
+  "name": "Randimals Bee-rex",
+  "price_eur": 32.71,
+  "price_text": "€32.71",
+  "retailers": [
+    {
+      "name": "Amazon.ie",
+      "url": "https://www.amazon.ie/Randimals-B-Rex-Plush-Cuddly-Hybrid/dp/B0B52BYVSX/ref=sr_1_2?crid=2CD8V129IS9DP&dib=eyJ2IjoiMSJ9.3IB97yr2G1V3u46lEl4_0EFc7EcAfPj6eN2yiS-HviVsnFDqxqWJsfgnrVpk3KwGiS2EaaFvqM3l4PwGXjyHDSjKHZ7Pk4maoCX3xFK7_bdd6yirrfcf9avncmm8IGXvOC4QtkxBWeaAbD8dLZ2XMMNXX5rEoqYjvsMj3pPyseOOMdPgTHPIQxwJ4_Uf0fat.ufxDEcFADUH8xugsCuQW6y-JfcOS4F3RU4MLSphzRiM&dib_tag=se&keywords=randimals&qid=1764871385&s=toys&sprefix=randimals%2Ctoys%2C39&sr=1-2&th=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.ie/Randimals-B-Rex-Plush-Cuddly-Hybrid/dp/B0B52BYVSX/ref=sr_1_2?crid=2CD8V129IS9DP&dib=eyJ2IjoiMSJ9.3IB97yr2G1V3u46lEl4_0EFc7EcAfPj6eN2yiS-HviVsnFDqxqWJsfgnrVpk3KwGiS2EaaFvqM3l4PwGXjyHDSjKHZ7Pk4maoCX3xFK7_bdd6yirrfcf9avncmm8IGXvOC4QtkxBWeaAbD8dLZ2XMMNXX5rEoqYjvsMj3pPyseOOMdPgTHPIQxwJ4_Uf0fat.ufxDEcFADUH8xugsCuQW6y-JfcOS4F3RU4MLSphzRiM&dib_tag=se&keywords=randimals&qid=1764871385&s=toys&sprefix=randimals%2Ctoys%2C39&sr=1-2&th=1",
+      "title": "Amazon.ie",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

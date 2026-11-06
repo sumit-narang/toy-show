@@ -1,0 +1,23 @@
+{
+  "id": "2017-swapums-the-fancy-paper-collection-display-folder",
+  "year": 2017,
+  "name": "Swapums The Fancy Paper Collection Display Folder",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "swapums.com",
+      "url": "https://www.swapums.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": []
+}

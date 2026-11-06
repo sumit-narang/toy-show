@@ -1,0 +1,54 @@
+{
+  "id": "2023-christmas-trees-family-cuddle-organic-cotton-blanket",
+  "year": 2023,
+  "name": "Christmas Trees Family Cuddle Organic Cotton Blanket",
+  "price_eur": 100.0,
+  "price_text": "€100",
+  "retailers": [
+    {
+      "name": "BabyBoo",
+      "url": "https://babyboo.ie/shop/gifts/christmas-family-cuddle-organic-cotton-blanket/"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://babyboo.ie/collections/family-cuddle-blanket"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sS2midO6rDg",
+      "channel": "Matt Zefi",
+      "duration": 634.0,
+      "title": "The Warmest Winter Wool Blankets Compared!"
+    },
+    {
+      "id": "U3rCoT50sKc",
+      "channel": "Hometalk",
+      "duration": 528.0,
+      "title": "People are flipping out over these GENIUS ornament ideas!"
+    },
+    {
+      "id": "V6rklVQfCvU",
+      "channel": "QVC",
+      "duration": 207.0,
+      "title": "Seed to Style Organic Cotton French Terry Sweatshirt Dress on QVC"
+    },
+    {
+      "id": "eMLHBfpawl4",
+      "channel": "My Green Nest",
+      "duration": 193.0,
+      "title": "The Snuggle Me Organic"
+    },
+    {
+      "id": "pTAuKfVfTe4",
+      "channel": "No Trace",
+      "duration": 566.0,
+      "title": "How to make fabric Christmas tree ornaments. Quick Christmas gift idea & easy scrap-buster project!"
+    }
+  ]
+}

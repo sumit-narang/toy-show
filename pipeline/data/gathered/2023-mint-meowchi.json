@@ -1,0 +1,54 @@
+{
+  "id": "2023-mint-meowchi",
+  "year": 2023,
+  "name": "Mint Meowchi",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/tp-mint-meowchi-7in-accessories"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/tp-mint-meowchi-7in-accessories"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Q7V7ybSf-xg",
+      "channel": "Kawaii Plush Torturer",
+      "duration": 286.0,
+      "title": "Destroying a Mint Meowchi"
+    },
+    {
+      "id": "-pbNDmfC-NM",
+      "channel": "Maddyjoy videos😜🥸",
+      "duration": 22.0,
+      "title": "Omg my cat mint meowchi is watching Lily lovebraids is doing anime dance omg she’s so cute X3😇✨💕👍🏻🎶🎵"
+    },
+    {
+      "id": "GDFuvP01g8s",
+      "channel": "MintApocalypse",
+      "duration": 33.0,
+      "title": "The Meme King"
+    },
+    {
+      "id": "2xc-TEqCrgE",
+      "channel": "Fairwind Cosplay",
+      "duration": 173.0,
+      "title": "Meowchi Tasty Peach Studios Plush Review!"
+    },
+    {
+      "id": "byB8K51I9lE",
+      "channel": "ZacuraTheFurry",
+      "duration": 67.0,
+      "title": "Zombie Meowchi Speedpaint!"
+    }
+  ]
+}

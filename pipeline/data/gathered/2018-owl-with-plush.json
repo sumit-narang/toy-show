@@ -1,0 +1,57 @@
+{
+  "id": "2018-owl-with-plush",
+  "year": 2018,
+  "name": "Owl with Plush",
+  "price_eur": 22.0,
+  "price_text": "€22.00",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://www.theorchard.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "P7M1Ds7SR3M",
+      "channel": "NA",
+      "duration": 46.0,
+      "title": "An ape 🦧 recieves a «Duolingo» owl 🦉 as a present 🎁"
+    },
+    {
+      "id": "8GoQv626k5E",
+      "channel": "NA",
+      "duration": 1114.0,
+      "title": "My Owl Collection"
+    },
+    {
+      "id": "sHkDWAw9IRc",
+      "channel": "NA",
+      "duration": 11.0,
+      "title": "Owl Stuff Toy (Eule Kuscheltier)"
+    },
+    {
+      "id": "vBgKKPPsZ9U",
+      "channel": "NA",
+      "duration": 147.0,
+      "title": "The owner bought the stuffed toy but was robbed by him."
+    },
+    {
+      "id": "xamFVYWaOfY",
+      "channel": "NA",
+      "duration": 30.0,
+      "title": "Cute owl to gift!"
+    }
+  ]
+}

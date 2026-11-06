@@ -1,0 +1,68 @@
+{
+  "id": "2021-fidget-toys",
+  "year": 2021,
+  "name": "Fidget Toys",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Claires Accessories",
+      "url": "https://www.claires.com/search/?q=fidget&lang=en_GB"
+    },
+    {
+      "name": "Dealz",
+      "url": "https://www.dealz.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.claires.com/search/?q=fidget&lang=en_GB",
+      "title": "Search: 0 results found for \"fidget\"",
+      "description": "Every girl's first piercing starts at Claire's. Safe, hypoallergenic starter earrings. Over 130M ears pierced. Book your appointment today.",
+      "image": "https://www.claires.com/cdn/shop/files/updatedfavicon.png?v=1784566041&width=1200"
+    },
+    {
+      "status": 200,
+      "final_url": "https://www.dealz.ie/",
+      "title": "Dealz | Amazing value every day",
+      "description": "Shop amazing value at Dealz.ie with great prices on groceries, household essentials, health and beauty products, toys, and more across Ireland.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "440WWQZwn48",
+      "channel": "EXCESSORIZE ME.",
+      "duration": 642.0,
+      "title": "I Tested the Best FIDGET TOYS... So You Don’t Have To!"
+    },
+    {
+      "id": "yN58_x6QbO4",
+      "channel": "Courtney, Literally",
+      "duration": 1928.0,
+      "title": "My FAVE Fidget Toys as a Late-Diagnosed Autistic Adult"
+    },
+    {
+      "id": "1QKceimxRf0",
+      "channel": "Markiplier",
+      "duration": 2641.0,
+      "title": "I Review Amazon ADHD Fidget Toys"
+    },
+    {
+      "id": "Jk458xum_as",
+      "channel": "Jon Gadget",
+      "duration": 964.0,
+      "title": "10 Amazing Fidget Toys Worth Buying"
+    },
+    {
+      "id": "PfM2OQzouqI",
+      "channel": "wrldxfidgets",
+      "duration": 930.0,
+      "title": "wrldxfidgets talking fidgets mashup part 1-18"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2025-our-generation-doll-sleepover-lizbeth",
+  "year": 2025,
+  "name": "Our Generation Doll Sleepover Lizbeth",
+  "price_eur": 32.99,
+  "price_text": "€32.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-sleepover-lizbeth/p/238021"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/our-generation/our-generation-dolls/our-generation-doll-sleepover-lizbeth/p/238021",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Rrr68xZnIJ0",
+      "channel": "Rainbowunicorncat1 American Girl Doll Channel",
+      "duration": 1010.0,
+      "title": "New Our Generation Release at Target! Starbucks Coffee Shop for 18” Dolls like American Girl"
+    },
+    {
+      "id": "ZXU_07kvnZs",
+      "channel": "The Late Late Show",
+      "duration": 357.0,
+      "title": "Nyla's Pet Hospital | The Late Late Toy Show 2025"
+    },
+    {
+      "id": "Cjd13AmY_ak",
+      "channel": "Smyths Toys France",
+      "duration": 38.0,
+      "title": "La Poupée Lizbeth Soirée Pyjama de Our Generation est chez Smyths Toys !"
+    },
+    {
+      "id": "Lf4t-21QU1s",
+      "channel": "NexJen",
+      "duration": 1498.0,
+      "title": "New Dolls, Collectibles and Plushies at Sweet Suite 2023 - Early Holiday Gift Ideas"
+    }
+  ]
+}

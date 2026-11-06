@@ -1,0 +1,72 @@
+{
+  "id": "2018-baby-annabell-baby-walker",
+  "year": 2018,
+  "name": "Baby Annabell Baby Walker",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "y0EXZCnJ3nE",
+      "channel": "Zapf Creation Archive",
+      "duration": 21.0,
+      "title": "[ FINALLY FOUND!!! ] Baby Annabell Pram Commercial (2008 English, UK)"
+    },
+    {
+      "id": "MgDbnKkGRlE",
+      "channel": "Made for Kids",
+      "duration": 36.0,
+      "title": "Toy - Baby Annabell Baby Walker"
+    },
+    {
+      "id": "7masoOLB2FI",
+      "channel": "Zapf Creation: BABY born, Baby Annabell & Friends",
+      "duration": 20.0,
+      "title": "Baby Annabell 👣 Emily Walk with Me"
+    },
+    {
+      "id": "dWoTsP9QlDs",
+      "channel": "ToysXL - TV Commercials",
+      "duration": 21.0,
+      "title": "Baby Annabell - Annabell and Alexander"
+    },
+    {
+      "id": "FNLXgmMCSIM",
+      "channel": "Susanna Fabbrucci",
+      "duration": 39.0,
+      "title": "Baby Annabell Sweet Dreams 30sec 01ok"
+    }
+  ]
+}

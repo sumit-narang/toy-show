@@ -1,0 +1,60 @@
+{
+  "id": "2024-air-toobz",
+  "year": 2024,
+  "name": "Air Toobz",
+  "price_eur": 154.95,
+  "price_text": "€154.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys and Games",
+      "url": "https://www.cogstoysandgames.ie/products/air-toobz-fat-brain"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.cogstoysandgames.ie/products/air-toobz-fat-brain",
+      "title": "Air Toobz Fat Brain",
+      "description": "Shop Air Toobz by Fat Brain Toys at Cogs Toys & Games Ireland. Build air-powered tube tracks and launch balls through your own design. Ages 3+.",
+      "image": "http://www.cogstoysandgames.ie/cdn/shop/files/blob-2024-08-16T110346.728_7c74f91a-78f9-42f2-9662-539f7802a672.jpg?v=1756451477",
+      "ld_description": "Excluded from discount codes\nExperience the most in-demand toy of Christmas 2025! Air Toobz by Fat Brain Toys brings endless hours of fun and learning as kids (and adults!) design, build, and explore the fascinating world of airflow and physics.\nImagine, Build, Experiment!With modular tubes, connectors, and a powerful kid-safe turbine, Air Toobz encourages creativity and STEM learning like never before. Arrange loops, swirls, and pathways, under tables, over desks, or even across the room. Then, let the foam balls take flight! Watch as they leap from tube to tube, hover in mid-air, or zip around in continuous cycles.\nAdjust the airflow with a simple dial and LED indicators to see how different speeds impact movement. Whether it's high-speed excitement or low-speed experiments, Air Toobz is a gateway to endless exploration.\nWhy You'll Love Air Toobz:\n\n\nSTEM Learning Made Fun: Encourages spatial reasoning, problem-solving, and experimentation.\n\nModular Design: Connect and arrange the tubes however you like.\n\nInteractive Accessories: Includes tools to explore airflow, motion, and physics.\n\nKid-Safe and Durable: Built with high-quality materials for a lasting play experience.\n\nRechargeable Fun: Features a fan unit with a 1-hour runtime on full speed and up to 3 hours on half speed.\n\nWhat's Included in the Air Toobz Set:\n\n20 vibrant EVA foam balls\n6 transparent 12-inch tubes\n6 transparent orange corner tubes\n1 T-tube and 1 silicone funnel\n12 easy-fit connectors\n1 fan unit with rub",
+      "brand": "Fat Brain Toys",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PWQvoCHSmJo",
+      "channel": "Fat Brain Toys",
+      "duration": 25.0,
+      "title": "Air Toobz"
+    },
+    {
+      "id": "0vjJmwy-KTE",
+      "channel": "Fat Brain Toys",
+      "duration": 31.0,
+      "title": "Launch Into the World of Air Toobz - The Popular Air-Powered STEM Toy!"
+    },
+    {
+      "id": "YdXmWssmSpY",
+      "channel": "Brittney Gawrieh",
+      "duration": 98.0,
+      "title": "Honest Review and Demo of Air Toobz - Watch Before Buying!"
+    },
+    {
+      "id": "WUx4__vGyKE",
+      "channel": "Fat Brain Toys",
+      "duration": 146.0,
+      "title": "Air Toobz Walkthrough"
+    },
+    {
+      "id": "XY8KcYHYXOs",
+      "channel": "Fun Times With James",
+      "duration": 1408.0,
+      "title": "FUN Air Toobz | Air-Powered Up Playtime – Fat Brain Toys For Kids"
+    }
+  ]
+}

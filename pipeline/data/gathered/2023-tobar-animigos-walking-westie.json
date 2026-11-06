@@ -1,0 +1,54 @@
+{
+  "id": "2023-tobar-animigos-walking-westie",
+  "year": 2023,
+  "name": "Tobar Animigos Walking Westie",
+  "price_eur": null,
+  "price_text": "£22.53",
+  "retailers": [
+    {
+      "name": "Amazon.co.uk",
+      "url": "https://www.amazon.co.uk/Tobar-28778-Walking-Electronic-Accessory/dp/B009M5K0O0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Tobar-28778-Walking-Electronic-Accessory/dp/B009M5K0O0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4czveMA2iaA",
+      "channel": "Happy Finds",
+      "duration": 80.0,
+      "title": "Tobar  Walking Westie Electronic Barking Dog Soft Toy Working"
+    },
+    {
+      "id": "7Y0slP0fLtw",
+      "channel": "Lovely Lullabies",
+      "duration": 195.0,
+      "title": "Battery Operated Soft Toy Dog Pet Walking and Talking Animigos Tobar"
+    },
+    {
+      "id": "SzlaNM_gAD8",
+      "channel": "One For Fun",
+      "duration": 67.0,
+      "title": "Animigos From Tobar"
+    },
+    {
+      "id": "UvhY54ues2g",
+      "channel": "One For Fun",
+      "duration": 25.0,
+      "title": "ANIMIGOS Magical Unicorn | Tobar"
+    },
+    {
+      "id": "O7C2LiecKoA",
+      "channel": "Anzsy's toy videos",
+      "duration": 23.0,
+      "title": "Walking Westie Dog Toy.My little puppy"
+    }
+  ]
+}

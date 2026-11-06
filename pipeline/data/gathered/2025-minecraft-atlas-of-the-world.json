@@ -1,0 +1,54 @@
+{
+  "id": "2025-minecraft-atlas-of-the-world",
+  "year": 2025,
+  "name": "Minecraft Atlas of the World",
+  "price_eur": 18.99,
+  "price_text": "€18.99",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/dk-minecraft-atlas-of-the-world-2025?_pos=1&_sid=1b8a44271&_ss=r"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/dk-minecraft-atlas-of-the-world-2025?_pos=1&_sid=1b8a44271&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nBWy_ICaTL4",
+      "channel": "Wunba",
+      "duration": 1327.0,
+      "title": "I Made the World’s Largest Map in Minecraft…"
+    },
+    {
+      "id": "pKKRUqF5PAs",
+      "channel": "Eyecraftmc",
+      "duration": 1107.0,
+      "title": "Minecraft 1.21 Map & Cartography Table Guide | Mega Map, Scaling, Copying Locking & More!"
+    },
+    {
+      "id": "UZ6dz36dRyI",
+      "channel": "tazoh",
+      "duration": 1482.0,
+      "title": "I Mapped my Entire World"
+    },
+    {
+      "id": "8e3HsFR2f-4",
+      "channel": "FoundInMN",
+      "duration": 1177.0,
+      "title": "I Built THE EARTH in Minecraft Survival"
+    },
+    {
+      "id": "1vTqDNx_Shk",
+      "channel": "Penguin Books Australia",
+      "duration": 37.0,
+      "title": "Minecraft Atlas of the World #minecraft #gamer #lego #giftideas"
+    }
+  ]
+}

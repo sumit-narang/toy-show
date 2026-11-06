@@ -1,0 +1,60 @@
+{
+  "id": "2024-xootz-cyclone-drift-trike",
+  "year": 2024,
+  "name": "Xootz Cyclone Drift Trike",
+  "price_eur": null,
+  "price_text": "£229.99",
+  "retailers": [
+    {
+      "name": "Xootz",
+      "url": "https://www.xootz.co.uk/cyclone-electric-trike-blue.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.xootz.co.uk/products/cyclone-power-drifter-electric-trike-black-blue",
+      "title": "Cyclone Power Drifter Electric Trike",
+      "description": "Get ready for high speeds as you indulge in 360-degree spins and adrenaline-pumping drifts, you can light the streets with the Xootz light-up electric trike! Perfect for kids aged 8 through to teens.",
+      "image": "http://www.xootz.co.uk/cdn/shop/files/kids_electric_trike_go_kart.jpg?v=1735317968&width=2048",
+      "ld_description": "CYCLONE POWER DRIFT TRIKE: Get ready for high speeds as you indulge in 360-degree spins and adrenaline-pumping drifts, you can light the streets with the Xootz light-up electric trike! HIGH PERFORMANCE BATTERY: The 24V lithium rechargeable battery gives up to 1 hour of continuous fun on a single charge, with faster recharging, lighter weight and longer lifespan than standard batteries, so your little rider spends more time playing. ///LIGHT UP WHEELS: Experience the thrills of full 360 spins as you effortlessly drift around on the vibrant LED light-up castor wheels. The high grip footrests will help keep you grounded as you whizz around!TWIST GRIP THROTTLE: Enjoy smooth acceleration and precise speed control with the twist grip throttle, choose from 3 speed options and reach up to 16km/h. For added safety, the mechanical brake provides reliable stopping powerDESIGNED FOR AGES 8 AND UP: The adjustable, durable frame grows with kids, while the ergonomic bucket seat ensures comfort. Perfect for kids aged 8 through to teens. Product size: L86-111cm x W56cm x H63cm, Max user weight: 60kgAWARD-WINNING PRODUCT: The Cyclone Electric Trike has earned high praise, receiving multiple awards from BlogOn",
+      "brand": "Xootz",
+      "ld_image": "https://www.xootz.co.uk/cdn/shop/files/kids_electric_trike_go_kart.jpg?v=1735317968&width=2048"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "59bXhxFlMu8",
+      "channel": "Xootz",
+      "duration": 31.0,
+      "title": "Xootz Cyclone Drift Trike"
+    },
+    {
+      "id": "rsQfJ7SHqxI",
+      "channel": "Ibaad&Wahhaj World",
+      "duration": 253.0,
+      "title": "My New Xootz Cyclone Drifter Trike "
+    },
+    {
+      "id": "woKv2fRjLCg",
+      "channel": "Xootz",
+      "duration": 39.0,
+      "title": "Xootz: Typhoon Power Drifter"
+    },
+    {
+      "id": "uMjcwzad0DU",
+      "channel": "Ian Jackson",
+      "duration": 30.0,
+      "title": "Xootz Cyclone Electric Power Drift Trike, 3 Wheel Go Kart with 360 Light Up Rear Castor Wheels."
+    },
+    {
+      "id": "THkjFeChXGE",
+      "channel": "Pit Bike MiniMoto",
+      "duration": 24.0,
+      "title": "KIDS ELECTRIC DRIFT TRIKE - 2"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-super-mario-bros-yoshi",
+  "year": 2022,
+  "name": "Super Mario Bros Yoshi",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yP5RGz_CRFM",
+      "channel": "Nintendo of America",
+      "duration": 125.0,
+      "title": "The Super Mario Galaxy Movie – Yoshi First Look"
+    },
+    {
+      "id": "jTwaGZ9kI4A",
+      "channel": "Movieclips",
+      "duration": 127.0,
+      "title": "The Super Mario Galaxy Movie (2026) 4K - Meet Yoshi! (1/11) | Movieclips"
+    },
+    {
+      "id": "I2tlcfEyfpc",
+      "channel": "Level UP",
+      "duration": 158.0,
+      "title": "When everything Mario touches turns to Yoshi Eggs!"
+    },
+    {
+      "id": "hurHBr2yItI",
+      "channel": "KIDS2KIDS",
+      "duration": 1349.0,
+      "title": "Super Mario Bros 🥚 YOSHI'S IMPOSSIBLE EGG (How Many Layers Does It Have?!)"
+    },
+    {
+      "id": "H9AQKfkw_Jo",
+      "channel": "BOX STORY GAME",
+      "duration": 324.0,
+      "title": "Super Mario Bros. but there are MORE Custom Yoshi"
+    }
+  ]
+}

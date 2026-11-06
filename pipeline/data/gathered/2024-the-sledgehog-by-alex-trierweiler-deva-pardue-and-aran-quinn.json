@@ -1,0 +1,29 @@
+{
+  "id": "2024-the-sledgehog-by-alex-trierweiler-deva-pardue-and-aran-quinn",
+  "year": 2024,
+  "name": "The Sledgehog by Alex Trierweiler, Deva Pardue and Aran Quinn",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Sledgehog",
+      "url": "https://www.thesledgehog.com/store/p/the-sledgehog-picture-book"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thesledgehog.com/store/p/the-sledgehog-picture-book",
+      "title": "Picture Book — The Sledgehog",
+      "description": "A smyth-sewn, hardcover, first edition print of The Sledgehog — a 36-page story poem and picture book for 7 to 12-year-olds.",
+      "image": "http://static1.squarespace.com/static/645850a5c1404d2a6791a465/64a06fdd25cee11f8aed3c66/64a06fdf9d2f370d31a4c7c0/1787842865456/Sledge-Comp-Cover.png?format=1500w",
+      "ld_description": "A smyth-sewn, hardcover, first edition print of The Sledgehog — a 36-page story poem and picture book for 7 to 12-year-olds.",
+      "brand": "The Sledgehog",
+      "ld_image": "http://static1.squarespace.com/static/645850a5c1404d2a6791a465/64a06fdd25cee11f8aed3c66/64a06fdf9d2f370d31a4c7c0/1787842865456/Sledge-Comp-Cover.png?format=1500w"
+    }
+  ],
+  "video_candidates": []
+}

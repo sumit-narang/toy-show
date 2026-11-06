@@ -1,0 +1,54 @@
+{
+  "id": "2020-lego-friends-friendship-box",
+  "year": 2020,
+  "name": "LEGO Friends Friendship Box",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "McGreevy's Toys Direct",
+      "url": "https://toysdirect.ie/products/lego-41346-friends-friendship-box?_pos=1&_sid=88e155ce4&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://toysdirect.ie/products/lego-41346-friends-friendship-box?_pos=1&_sid=88e155ce4&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7LR6rxzvJI0",
+      "channel": "AustrianBrickFan",
+      "duration": 451.0,
+      "title": "Lego Friends 41346 Friendship Box - Lego Speed Build Review"
+    },
+    {
+      "id": "eKvaUyD51YU",
+      "channel": "ellieV ",
+      "duration": 1056.0,
+      "title": "Lego Friends Friendship Box Build Review Kids Toys"
+    },
+    {
+      "id": "4y-SbOW7m3Y",
+      "channel": "LEGO",
+      "duration": 212.0,
+      "title": "Friendship Box Build & Dance-Along - LEGO Friends"
+    },
+    {
+      "id": "p77rIs0Mzto",
+      "channel": "LEGO",
+      "duration": 41.0,
+      "title": "Friendship Box 41346 - LEGO Friends - Product Animation"
+    },
+    {
+      "id": "WwhuYil-ZNg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 71.0,
+      "title": "LEGO Friends Friendship Box from LEGO"
+    }
+  ]
+}

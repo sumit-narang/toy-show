@@ -1,0 +1,54 @@
+{
+  "id": "2025-spy-labs-night-vision-goggles",
+  "year": 2025,
+  "name": "Spy Labs Night Vision Goggles",
+  "price_eur": 22.95,
+  "price_text": "€22.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/spy-labs-night-vision-goggles"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/spy-labs-night-vision-goggles"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kwI35A9miU4",
+      "channel": "Thames & Kosmos",
+      "duration": 45.0,
+      "title": "Spy Labs: Night Vision Goggles"
+    },
+    {
+      "id": "ngsYOagwc_s",
+      "channel": "Thames & Kosmos",
+      "duration": 49.0,
+      "title": "Spy Labs: Ultimate Spy Sleuth - Master of Surveillance"
+    },
+    {
+      "id": "2qTaj8QvhX4",
+      "channel": "Thames & Kosmos",
+      "duration": 44.0,
+      "title": "Spy Labs Inc."
+    },
+    {
+      "id": "K1rI13GFNWA",
+      "channel": "Thames & Kosmos",
+      "duration": 57.0,
+      "title": "Spy Labs: Digital Snake Scope"
+    },
+    {
+      "id": "J6BNPJi1uvc",
+      "channel": "Smart world",
+      "duration": 37.0,
+      "title": "Night Vision Goggles, Adjustable Spy Gear Night Mission Goggles with Flip-Out Lights Green Lens"
+    }
+  ]
+}

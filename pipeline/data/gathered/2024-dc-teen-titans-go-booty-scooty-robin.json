@@ -1,0 +1,57 @@
+{
+  "id": "2024-dc-teen-titans-go-booty-scooty-robin",
+  "year": 2024,
+  "name": "DC Teen Titans Go! Booty Scooty Robin",
+  "price_eur": 32.95,
+  "price_text": "€32.95",
+  "retailers": [
+    {
+      "name": "Murphy's Toymaster",
+      "url": "https://murphystoymaster.ie/product/teen-titans-booty-scooty-robin/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://murphystoymaster.ie/product/teen-titans-booty-scooty-robin/",
+      "title": "TEEN TITANS BOOTY SCOOTY ROBIN – Murphy's Toymaster",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "gtWO4WWNjK8",
+      "channel": "Peter G",
+      "duration": 24.0,
+      "title": "Teen Titans Go! | Booty Scooty"
+    },
+    {
+      "id": "V8vuHtFj-XA",
+      "channel": "Jaxen Ross is b-a-c-k! | Reels & Ruins",
+      "duration": 281.0,
+      "title": "Teen Titans Go Booty Scooty Robin Dancing Figure Destruction"
+    },
+    {
+      "id": "_EO6-b0x6Hk",
+      "channel": "Cartoon Multiverse",
+      "duration": 94.0,
+      "title": "Teen Titans Go! Booty Scooty Robin does Booty Scooty"
+    },
+    {
+      "id": "irNoW_q6T-I",
+      "channel": "XyLe.editz.",
+      "duration": 11.0,
+      "title": "TTG Robin powerfull Booty scooty!!!"
+    },
+    {
+      "id": "S75SMABILq8",
+      "channel": "Yugo entertainment",
+      "duration": 101.0,
+      "title": "Teen Titans Go! - Justice League's Second Greatest Team Edition- Part One - Booty Scooty"
+    }
+  ]
+}

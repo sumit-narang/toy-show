@@ -1,0 +1,54 @@
+{
+  "id": "2022-life-skills-learning-not-to-throw-tantrums-life-skills",
+  "year": 2022,
+  "name": "Life Skills - Learning Not to Throw Tantrums Life Skills",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "J7P6ZCI3hl4",
+      "channel": "EMoMee™ – Cartoons That Build Life Skills",
+      "duration": 178.0,
+      "title": "😤Anger Management for Kids 😡| Social Emotional Learning | Social Skills | Emotions for Kids | EMoMee"
+    },
+    {
+      "id": "pwaudZWNPAc",
+      "channel": "Pikids Music",
+      "duration": 296.0,
+      "title": "Learning to Control Anger | Story for Kids | The Volcano Inside Me🌋"
+    },
+    {
+      "id": "9iAYd0BLtrE",
+      "channel": "Doctors' Circle World's Largest Health Platform",
+      "duration": 314.0,
+      "title": "4 Tips to Discipline Stubborn Kids | Temper Tantrum in Children-Dr. Surekha Tiwari | Doctors' Circle"
+    },
+    {
+      "id": "rXgz7f2eV3E",
+      "channel": "paulthomasmd - Dr. Paul",
+      "duration": 520.0,
+      "title": "HOW TO STOP TANTRUMS FOREVER! (3 Easy Steps) | Dr. Paul"
+    },
+    {
+      "id": "9vhawjLEtSw",
+      "channel": "Emma Hubbard",
+      "duration": 556.0,
+      "title": "STOP Talking When Your Child Melts Down. Do THIS Instead"
+    }
+  ]
+}

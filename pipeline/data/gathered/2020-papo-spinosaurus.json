@@ -1,0 +1,60 @@
+{
+  "id": "2020-papo-spinosaurus",
+  "year": 2020,
+  "name": "Papo Spinosaurus",
+  "price_eur": 28.99,
+  "price_text": "€28.99",
+  "retailers": [
+    {
+      "name": "Art & Hobby",
+      "url": "https://www.artnhobby.ie/papo-spinosaurus"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.artnhobby.ie/products/papo-spinosaurus",
+      "title": "Papo Spinosaurus",
+      "description": "papo spinosaurus unassigned",
+      "image": "http://www.artnhobby.ie/cdn/shop/products/55011.jpg?crop=center&height=1200&v=1653840712&width=1200",
+      "ld_description": "Spinosaurus or \"spiny lizard\" is one of the longest known dinosaurs, measuring up to 18 m long, 6 m high and up to 9 tonnes.  \n\nThe Spinosaurus, which lived in the Cretaceous Period, was both carnivorous and piscivorous. Long, narrow and with many straight teeth, the skull of Spinosaurus is shaped like crocodiles.   \n\n Dimensions:  18 x 12 x 6 cm",
+      "brand": "PAPO UK",
+      "ld_image": "https://www.artnhobby.ie/cdn/shop/products/55011.jpg?v=1653840712&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "F5D94uBJ_7c",
+      "channel": "SpinoDude",
+      "duration": 510.0,
+      "title": "Revisiting the 2007 Papo Spinosaurus"
+    },
+    {
+      "id": "gX3E72e_7SE",
+      "channel": "Killershrewfan’s Killer Toy Reviews",
+      "duration": 706.0,
+      "title": "Papo Spinosaurus Figure Review-Review For Adult Collectors by an Adult Collector"
+    },
+    {
+      "id": "IXKNABnwYDY",
+      "channel": "The Dino Defender",
+      "duration": 284.0,
+      "title": "Papo Spinosaurus Review!! Awesome Figure!"
+    },
+    {
+      "id": "ZnVAY2dXBl0",
+      "channel": "SpinoDude",
+      "duration": 252.0,
+      "title": "Papo || Spinosaurus (Version 1) || Review"
+    },
+    {
+      "id": "KHy_mdBqYa0",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 525.0,
+      "title": "Crazy Papo? Spinosaurus Version 3 Review!!! All 3 versions!"
+    }
+  ]
+}

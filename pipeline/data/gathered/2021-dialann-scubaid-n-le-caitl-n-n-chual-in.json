@@ -1,0 +1,29 @@
+{
+  "id": "2021-dialann-scubaid-n-le-caitl-n-n-chual-in",
+  "year": 2021,
+  "name": "Dialann Scubaidín le Caitlín Ní Chualáin",
+  "price_eur": 10.0,
+  "price_text": "€10.00",
+  "retailers": [
+    {
+      "name": "Siopa Gaeilge",
+      "url": "https://www.siopagaeilge.ie/products/dialann-scubaidin-caitlin-ni-chualain"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopagaeilge.ie/products/dialann-scubaidin-caitlin-ni-chualain",
+      "title": "Dialann Scubaidín - Caitlín Ní Chualáin",
+      "description": "Leagan Gaeilge le Caitlín Ní Chualáin den leabhar Diary of the Naughtiest Girl le Jeanne Willis, maisithe ag Alex T. Smith atá bunaithe ar an tsraith leabhar The Naughtiest Girl le Enid Blyton. Sa leabhar seo, téann léitheoirí isteach i smaointe an pháiste is seirbhíseach agus is gránna riamh. Cuireann an scéal béim ar",
+      "image": "http://www.siopagaeilge.ie/cdn/shop/products/DialannScubaidinCover-1.jpg?v=1614690077",
+      "ld_description": "Leagan Gaeilge le Caitlín Ní Chualáin den leabhar Diary of the Naughtiest Girl le Jeanne Willis, maisithe ag Alex T. Smith atá bunaithe ar an tsraith leabhar The Naughtiest Girl le Enid Blyton. Sa leabhar seo, téann léitheoirí isteach i smaointe an pháiste is seirbhíseach agus is gránna riamh. Cuireann an scéal béim ar dhaoine óga ata ag iarraidh a gcuid féin a bhaint amach. \nDialann Scubaidín is the Irish-language edition, written by Caitlín Ní Chualáin, of the book Diary of the Naughtiest Girl by Jeanne Willis, illustrated by Alex T. Smith. Inspired by the Enid Blyton The Naughtiest Girl series of books, these are the laugh-out-loud innermost thoughts of  of the naughtiest pupil there's ever been.\n\"Mum says pupils aren't allowed to take mobile devices to Whyteleafe ... excuse me? It's the twenty-first century! What next? Ride to school on a penny-farthing?",
+      "brand": "Cló Iar-Chonnacht",
+      "ld_image": null
+    }
+  ],
+  "video_candidates": []
+}

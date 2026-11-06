@@ -1,0 +1,54 @@
+{
+  "id": "2024-lego-dreamzzz-cooper-s-robot-dinosaur-c-rex",
+  "year": 2024,
+  "name": "LEGO DreamZzz Cooper's Robot Dinosaur C-Rex",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "LEGO Shop",
+      "url": "https://www.lego.com/en-ie/product/cooper-s-robot-dinosaur-c-rex-71484"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/cooper-s-robot-dinosaur-c-rex-71484"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nulbmGyNoZg",
+      "channel": "Bricks By Mind",
+      "duration": 1424.0,
+      "title": "Cooper's Robot Dinosaur C-Rex EARLY Review! *BOTH BUILDS* | LEGO Dreamzzz Set 71484"
+    },
+    {
+      "id": "DZ4G9AzVMGk",
+      "channel": "AustrianBrickFan",
+      "duration": 788.0,
+      "title": "LEGO Dreamzzz 71484 Cooper's Robot Dinosaur C.Rex - LEGO Speed Build Review"
+    },
+    {
+      "id": "K9PVKAHmEfQ",
+      "channel": "DuckBricks",
+      "duration": 839.0,
+      "title": "LEGO Dreamzzz 71484: Cooper's Robot Dinosaur C-Rex EARLY REVIEW"
+    },
+    {
+      "id": "-8f2XuDTvGw",
+      "channel": "BrickStory 玩乐积动队",
+      "duration": 245.0,
+      "title": "LEGO Dreamzzz 71484 Cooper's Robot Dinosaur C-Rex【Stop Motion Animation】"
+    },
+    {
+      "id": "tfKlH_yEpPE",
+      "channel": "Moments Of the Magic",
+      "duration": 476.0,
+      "title": "Clean Build and Review of Dreamzzz Coopers Robot Dinosaur C Rex"
+    }
+  ]
+}

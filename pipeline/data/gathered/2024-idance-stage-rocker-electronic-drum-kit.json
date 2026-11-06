@@ -1,0 +1,45 @@
+{
+  "id": "2024-idance-stage-rocker-electronic-drum-kit",
+  "year": 2024,
+  "name": "iDance Stage Rocker Electronic Drum Kit",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/toy-musical/idance-stage-rocker-electronic-drum-kit/p/236049"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/toy-musical/idance-stage-rocker-electronic-drum-kit/p/236049",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "x07tprlM5W8",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 121.0,
+      "title": "iDance SILENT DRUMS iROCKER S100E"
+    },
+    {
+      "id": "5v2kzoJRoZM",
+      "channel": "idanceaudio idanceaudio",
+      "duration": 74.0,
+      "title": "iDance iRocker S100E - Quick Assembly"
+    },
+    {
+      "id": "qyBcSM8TiMk",
+      "channel": "HTECK",
+      "duration": 498.0,
+      "title": "Best Party Speakers 2026 | The 5 Best Party Speakers Review"
+    }
+  ]
+}

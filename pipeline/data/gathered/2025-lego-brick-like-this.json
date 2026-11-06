@@ -1,0 +1,54 @@
+{
+  "id": "2025-lego-brick-like-this",
+  "year": 2025,
+  "name": "LEGO Brick Like This!",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/lego-brick-like-this"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/lego-brick-like-this"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fnMlFF3nlFo",
+      "channel": "Asmodee North America",
+      "duration": 236.0,
+      "title": "How To Play: LEGO Brick Like This Party Game"
+    },
+    {
+      "id": "-3AmSjhHY-0",
+      "channel": "Watch It Played",
+      "duration": 684.0,
+      "title": "Brick Like This! - How To Play"
+    },
+    {
+      "id": "Q11P_1okPFY",
+      "channel": "Smosh Games",
+      "duration": 2489.0,
+      "title": "Who Can Build Faster? | Board AF: Brick Like This"
+    },
+    {
+      "id": "2V0olsfC7zY",
+      "channel": "The Dice Tower",
+      "duration": 578.0,
+      "title": "Brick Like This Review: It Looks Like a Bunk Bed Couch"
+    },
+    {
+      "id": "xtqnNkFb5DY",
+      "channel": "asmodee UK",
+      "duration": 31.0,
+      "title": "Brick Like This"
+    }
+  ]
+}

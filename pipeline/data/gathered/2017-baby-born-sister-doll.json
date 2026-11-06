@@ -1,0 +1,64 @@
+{
+  "id": "2017-baby-born-sister-doll",
+  "year": 2017,
+  "name": "Baby Born Sister Doll",
+  "price_eur": 46.99,
+  "price_text": "€46.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UDlF0_0OlwE",
+      "channel": "Vikky B.",
+      "duration": 642.0,
+      "title": "New Baby Born Sister Doll Unboxing and Review"
+    },
+    {
+      "id": "d7ZYkPpbk_E",
+      "channel": "MotherGeek",
+      "duration": 601.0,
+      "title": "Baby Born Sister Doll"
+    },
+    {
+      "id": "nwd4BHtMH6E",
+      "channel": "Zapf Creation: BABY born, Baby Annabell & Friends",
+      "duration": 20.0,
+      "title": "BABY born Little Sister Mermaid"
+    },
+    {
+      "id": "HeohOg2Ve0M",
+      "channel": "PlayToys",
+      "duration": 322.0,
+      "title": "Big Sister Baby Born Doll Feeding and Dressing Twin Dolls!  Play Toys"
+    },
+    {
+      "id": "DcxcI2oF3fo",
+      "channel": "Play Dolls",
+      "duration": 1757.0,
+      "title": "Big sister in charge for the twin babies! Play Dolls"
+    }
+  ]
+}

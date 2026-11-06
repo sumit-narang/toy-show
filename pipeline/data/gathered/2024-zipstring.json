@@ -1,0 +1,60 @@
+{
+  "id": "2024-zipstring",
+  "year": 2024,
+  "name": "ZipString",
+  "price_eur": 33.0,
+  "price_text": "€33",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/kids/toys-games/arts-crafts/marvins-magic/zipstring-blister-vivacious-violet/2000801507.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/kids/toys-games/arts-crafts/marvins-magic/zipstring-blister-vivacious-violet/2000801507.html",
+      "title": "MARVINS MAGIC ZipString Blister Vivacious Violet - Violet",
+      "description": "ZipString is a mesmerizing toy that floats a seemingly standard loop of string in the air. It carefully balances several forces of gravity, lift, tension, and drag to fly the string in the air. Any movement that a Zipster (a user of a ZipString) does, the string follows.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000801507_01.jpg?$product_tile_plp$",
+      "ld_description": "ZipString is a mesmerizing toy that floats a seemingly standard loop of string in the air. It carefully balances several forces of gravity, lift, tension, and drag to fly the string in the air. Any movement that a Zipster (a user of a ZipString) does, the string follows.",
+      "brand": "MARVIN'S MAGIC",
+      "ld_image": "https://images.brownthomas.com/bta/2000801507_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5AUbgAOtBZk",
+      "channel": "ZipString",
+      "duration": 46.0,
+      "title": "ZipString Luma is AWESOME!! Best glow-in-the-dark toy!"
+    },
+    {
+      "id": "Qu5uDPKcieE",
+      "channel": "ZipString",
+      "duration": 61.0,
+      "title": "Introducing the Corkscrew! #zipstring"
+    },
+    {
+      "id": "O132DzdSerA",
+      "channel": "ZipString",
+      "duration": 202.0,
+      "title": "The Story of ZipString!"
+    },
+    {
+      "id": "fYtwENKOASA",
+      "channel": "ZipString",
+      "duration": 75.0,
+      "title": "How to Insert a String with ZipString"
+    },
+    {
+      "id": "9MtrcXZbHh8",
+      "channel": "ZipString",
+      "duration": 114.0,
+      "title": "The Science of ZipString"
+    }
+  ]
+}

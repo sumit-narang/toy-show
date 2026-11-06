@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-sleep-scan-niall-breslin",
+  "year": 2022,
+  "name": "The Sleep Scan - Niall Breslin",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "Sp050Bgnwuk",
+      "channel": "Niall Breslin",
+      "duration": 579.0,
+      "title": "Mindful Moments for Children | Episode 5: Body Scan"
+    },
+    {
+      "id": "3ceHq2Bbl3g",
+      "channel": "Kevin Street",
+      "duration": 528.0,
+      "title": "Storytime Reading of The Chill Skill by Niall Breslin, illustrated by Emma Proctor"
+    },
+    {
+      "id": "9qhY-nrYVjY",
+      "channel": "Google Play Books",
+      "duration": 381.0,
+      "title": "The Magic Moment and Other Stories: Mindful… by Niall Breslin · Audiobook preview"
+    },
+    {
+      "id": "hKxKb3dOl6E",
+      "channel": "Limerick Libraries",
+      "duration": 501.0,
+      "title": "Storytime with Pam - The Chill Skill"
+    },
+    {
+      "id": "pkNGjep3bjU",
+      "channel": "The Mindful Movement",
+      "duration": 1287.0,
+      "title": "20 Minute Relaxing Body Scan for Grounding Energy / Grounding Meditation / Mindful Movement"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-santa-s-magical-train",
+  "year": 2018,
+  "name": "Santa's Magical Train",
+  "price_eur": 52.95,
+  "price_text": "€52.95",
+  "retailers": [
+    {
+      "name": "The Orchard Celbridge",
+      "url": "http://theorchard.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.theorchard.ie/",
+      "title": "The Orchard in Celbridge",
+      "description": "Check the opening hours, promotions and product range of The Orchard in Celbridge.",
+      "image": "https://www.theorchard.ie/files/images/social-media/og-image-1200x627-68dfb9a3daa47_facebook.webp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4ZEKiUPwwpw",
+      "channel": "Scott Artus (Scott Artus)",
+      "duration": 702.0,
+      "title": "Gwili Railway - Santa's Magical Steam Train Movie 2016"
+    },
+    {
+      "id": "peNflY3yKGE",
+      "channel": "Happy Minds - Sleep Meditation & Bedtime Stories",
+      "duration": 1817.0,
+      "title": "Sleep Meditation for Kids SANTA'S MAGICAL TRAIN RIDE 🎅 🚂 Christmas Bedtime Story for Kids"
+    },
+    {
+      "id": "gmw7HAa8zcg",
+      "channel": "Sarah Monaghan",
+      "duration": 3112.0,
+      "title": "SANTA SPECIAL TRAIN RIDE 🎄🚂 | East Lancashire Railway | Family Christmas Vlog & Review"
+    },
+    {
+      "id": "CwUY2Dsrt6I",
+      "channel": "Waterloo Central Railway",
+      "duration": 35.0,
+      "title": "Santa's Christmas Caboose - The holiday magic comes to life at night!"
+    },
+    {
+      "id": "zLoQcq4T33M",
+      "channel": "Indy with Kids",
+      "duration": 235.0,
+      "title": "The Cutest Little Santa Train Ride in Indianapolis"
+    }
+  ]
+}

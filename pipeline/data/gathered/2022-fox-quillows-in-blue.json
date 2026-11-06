@@ -1,0 +1,54 @@
+{
+  "id": "2022-fox-quillows-in-blue",
+  "year": 2022,
+  "name": "Fox Quillows in blue",
+  "price_eur": 34.95,
+  "price_text": "€34.95",
+  "retailers": [
+    {
+      "name": "Hana Lee Studios",
+      "url": "https://hanaleestudios.ie/products/quillows"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://hanaleestudios.ie/products/quillows"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VriQ5688vV8",
+      "channel": "The Sewing Studio",
+      "duration": 832.0,
+      "title": "Quillow Block of the Month - Block 7 ⭐"
+    },
+    {
+      "id": "I49DcL6eNe0",
+      "channel": "The Sewing Studio",
+      "duration": 820.0,
+      "title": "Quillow Block of the Month - Block 5 ⭐ Make a Friendship Star with a diamond in a square"
+    },
+    {
+      "id": "8EPVWb7YbrI",
+      "channel": "The Sewing Studio",
+      "duration": 1496.0,
+      "title": "Quillow Block of the Month - Block 4 ⭐ Make a Double Sawtooth Star quilt block"
+    },
+    {
+      "id": "GLbEi1zd52Y",
+      "channel": "Matt Fox",
+      "duration": 85.0,
+      "title": "A Baseball Quilt"
+    },
+    {
+      "id": "8hz_-3Sp94w",
+      "channel": "Justhands-on.tv",
+      "duration": 49.0,
+      "title": "Tomten Blue Quilt with Valerie Nesbitt (Taster Video)"
+    }
+  ]
+}

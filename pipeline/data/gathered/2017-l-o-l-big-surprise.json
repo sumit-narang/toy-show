@@ -1,0 +1,64 @@
+{
+  "id": "2017-l-o-l-big-surprise",
+  "year": 2017,
+  "name": "L.O.L Big Surprise",
+  "price_eur": 72.99,
+  "price_text": "€72.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Tk_A27Lg8n4",
+      "channel": "CookieSwirlC",
+      "duration": 877.0,
+      "title": "My Thoughts On The $90 BIGGER Limited Edition Capsule From 2018"
+    },
+    {
+      "id": "G86blQu0BvU",
+      "channel": "Come Play With Me",
+      "duration": 1297.0,
+      "title": "LOL Surprise Dolls ! Elsa and Anna toddlers - Big Fizz balls - Bath - Confetti Pop"
+    },
+    {
+      "id": "hXCD74ondO8",
+      "channel": "Rhia Official",
+      "duration": 2137.0,
+      "title": "UNBOXING THE *WORLDS BIGGEST* MYSTERY TOY TO EXIST!!!😱🎁⁉️L.O.L 3D MOVIE MAGIC STUDIOS (70+ BOXES!!🫢)"
+    },
+    {
+      "id": "llnwNURVxH0",
+      "channel": "SLICK SLIME SAM Live",
+      "duration": 1323.0,
+      "title": "Fake Vs. Real LOL Surprise! ||  Never Buy a Fake Toy!"
+    },
+    {
+      "id": "ytjttR7hecE",
+      "channel": "CookieSwirlC",
+      "duration": 1282.0,
+      "title": "Time Capsule of My Thoughts On The $130 box ( 2019 )"
+    }
+  ]
+}

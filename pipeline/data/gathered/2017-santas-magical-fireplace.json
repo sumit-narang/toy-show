@@ -1,0 +1,54 @@
+{
+  "id": "2017-santas-magical-fireplace",
+  "year": 2017,
+  "name": "Santas Magical Fireplace",
+  "price_eur": 19.95,
+  "price_text": "€19.95",
+  "retailers": [
+    {
+      "name": "SantasMagicalFirePlace.com",
+      "url": "http://SantasMagicalFirePlace.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Ufu78kBp1SQ",
+      "channel": "Fireplace 4K Ambiences",
+      "duration": 14401.0,
+      "title": "Christmas Fireplace Ambience Santa's Cozy Christmas Eve Crackling Fire Sounds for Sleep & Relaxation"
+    },
+    {
+      "id": "QuB6LQX37y4",
+      "channel": "Santa's Magical Fireplace",
+      "duration": 91.0,
+      "title": "Santa's Magical Fireplace.. A fairytale comes to life"
+    },
+    {
+      "id": "12jAeFMjM90",
+      "channel": "Solstice Night",
+      "duration": 6640.0,
+      "title": "Santa's Cozy Christmas Eve 🎅 Peaceful Holiday Music, Crackling Fire & Winter Snowfall"
+    },
+    {
+      "id": "h4vwWjzHLZg",
+      "channel": "Urban Solitude",
+      "duration": 43200.0,
+      "title": "4K Santa’s Workshop Christmas Fireplace | 12 hours Cozy Holiday Ambience & Crackling Fire Sounds"
+    },
+    {
+      "id": "8JBJsJkVKm4",
+      "channel": "Yuletide Glow",
+      "duration": 10800.0,
+      "title": "Magical Christmas Cabin Ambience 🎄 Cozy Fireplace & Santa's Snowy Village"
+    }
+  ]
+}

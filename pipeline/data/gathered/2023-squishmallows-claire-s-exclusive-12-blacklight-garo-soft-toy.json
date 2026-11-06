@@ -1,0 +1,23 @@
+{
+  "id": "2023-squishmallows-claire-s-exclusive-12-blacklight-garo-soft-toy",
+  "year": 2023,
+  "name": "Squishmallows Claire's Exclusive 12\" Blacklight Garo Soft Toy",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Claire's",
+      "url": "https://www.claires.com/squishmallows-claires-exclusive-12%22-blacklight-garo-soft-toy-7514.html?lang=en"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.claires.com/squishmallows-claires-exclusive-12%22-blacklight-garo-soft-toy-7514.html?lang=en"
+    }
+  ],
+  "video_candidates": []
+}

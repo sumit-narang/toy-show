@@ -1,0 +1,54 @@
+{
+  "id": "2022-puppet-crow",
+  "year": 2022,
+  "name": "Puppet Crow",
+  "price_eur": 25.0,
+  "price_text": "€25",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/pc03102?_pos=1&_sid=d61530849&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/pc03102?_pos=1&_sid=d61530849&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ToQ8_QY3w7Q",
+      "channel": "Creative Deck",
+      "duration": 478.0,
+      "title": "Crow Flying Bird Puppet | Paper Craft | Wing Flapping | Crow Stick Puppet | Easy Craft  Thirsty Crow"
+    },
+    {
+      "id": "f-CIYbNYJhI",
+      "channel": "Puja Desai",
+      "duration": 159.0,
+      "title": "How to make Thirsty crow puppet story # A Thirsty crow #Finger Puppet crow #Easy finger puppet crow"
+    },
+    {
+      "id": "WvWe6_WBhPg",
+      "channel": "Colors Paper Craft",
+      "duration": 191.0,
+      "title": "How to make  Flying crow craft | Flying crow craft - easy to make"
+    },
+    {
+      "id": "IFnslUulPqk",
+      "channel": "123 Easy Paper Crafts DIY",
+      "duration": 247.0,
+      "title": "Moving paper crow | Origami paper toy antistress | Talking crow"
+    },
+    {
+      "id": "ta6HKUJhC7g",
+      "channel": "SS Recreation",
+      "duration": 522.0,
+      "title": "Crow Puppet|Crow Wing Flapping Puppet|How To Make Crow Puppet Using Paper|Paper Craft"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-livestock-mart",
+  "year": 2017,
+  "name": "Livestock Mart",
+  "price_eur": null,
+  "price_text": "£108.99",
+  "retailers": [
+    {
+      "name": "Brushwood Toys (Only Available to purchase",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "y3kgxVICWgc",
+      "channel": "Haveri Cattle Lovers",
+      "duration": 661.0,
+      "title": "ಹಾವೇರಿ ಆಕಳು ಪ್ಯಾಟಿ || Haveri cow market || ಪ್ರತಿ ಗುರುವಾರ ಬೆಳಿಗ್ಗೆ || @HaveriCattleLovers "
+    },
+    {
+      "id": "NEqxOQfiUcE",
+      "channel": "Agriland",
+      "duration": 44.0,
+      "title": "Bullock hits €3,000 at Carnew Mart Fatstock Show and Sale"
+    },
+    {
+      "id": "v_7ZkZrhgp0",
+      "channel": "Sam Shutt Farming",
+      "duration": 1651.0,
+      "title": "We Sold 5 Cattle… Then Went BUYING! | Kendal Auction"
+    },
+    {
+      "id": "ieK7hW0-I4o",
+      "channel": "Yücel Güngör",
+      "duration": 2374.0,
+      "title": "KASTAMONU LIVESTOCK MARKET NOVEMBER 4"
+    },
+    {
+      "id": "NoqfKmOKpgw",
+      "channel": "Helping Tamil Traders",
+      "duration": 24164.0,
+      "title": "LIVE SHARE MARKET UPDATES - 05/11/2026"
+    }
+  ]
+}

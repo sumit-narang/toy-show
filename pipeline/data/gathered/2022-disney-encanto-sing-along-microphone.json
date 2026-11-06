@@ -1,0 +1,57 @@
+{
+  "id": "2022-disney-encanto-sing-along-microphone",
+  "year": 2022,
+  "name": "Disney Encanto Sing-Along Microphone",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/disney-encanto-sing-along-microphone/p/209250"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/disney-encanto-sing-along-microphone/p/209250",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SaLzftMLK6o",
+      "channel": "eKids",
+      "duration": 46.0,
+      "title": "Disney Encanto Bluetooth Karaoke Microphone with EZ Link Technology"
+    },
+    {
+      "id": "Wfv5_GfMAbA",
+      "channel": "eKids",
+      "duration": 40.0,
+      "title": "Disney Encanto EZ Link Karaoke Machine"
+    },
+    {
+      "id": "DfzwPbQVt3I",
+      "channel": "America Premium Outlets Perú",
+      "duration": 46.0,
+      "title": "Disney Encanto Sing Along Micrófono iluminado de Mirabel"
+    },
+    {
+      "id": "OQf3RRQuSxE",
+      "channel": "Walt Disney Animation Studios",
+      "duration": 230.0,
+      "title": "\"Behind the Lyrics\" Featurette | Disney's Encanto | Disney+"
+    },
+    {
+      "id": "cDLv3FP2UeA",
+      "channel": "eKids",
+      "duration": 39.0,
+      "title": "eKids Bluetooth Karaoke Machine with Microphone and Recorder"
+    }
+  ]
+}

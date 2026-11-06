@@ -1,0 +1,57 @@
+{
+  "id": "2018-usa-hat",
+  "year": 2018,
+  "name": "USA Hat",
+  "price_eur": 4.0,
+  "price_text": "from €4.00",
+  "retailers": [
+    {
+      "name": "Funplace",
+      "url": "http://www.funplace.ie"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funplace.ie/",
+      "title": "Halloween Costumes Dublin Ireland and Nationwide Delivery",
+      "description": "All our products are stocked and shipped from our Irish warehouse. We stock a range of halloween costumes including Peppa Pig, The Traitors, Spiderman and Roblox.",
+      "image": "https://cdn.shopify.com/s/files/1/0562/4286/4279/files/fun_place_logo.jpg?height=628&pad_color=fff&v=1622545527&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "k4GYOYKIpYo",
+      "channel": "lollipop",
+      "duration": 55.0,
+      "title": "250th Anniversary USA Hat, Patriotic Embroidered Baseball Cap Review"
+    },
+    {
+      "id": "4smVtUTRSPM",
+      "channel": "Whose Line Is It Anyway?",
+      "duration": 1909.0,
+      "title": "Scenes from a Hat Megacut Part 1! - Whose Line Is It Anyway? US"
+    },
+    {
+      "id": "pAbgc41pksE",
+      "channel": "CNN",
+      "duration": 36.0,
+      "title": "Trump stops to retrieve Marine's hat"
+    },
+    {
+      "id": "6ayOcMRl31I",
+      "channel": "Large Man Abroad",
+      "duration": 986.0,
+      "title": "🚨ENOUGH IS ENOUGH: The UK Is Officially DONE With The US After Disgusting Insult…"
+    },
+    {
+      "id": "r8udy9UuIsg",
+      "channel": "Ms. Spotlight",
+      "duration": 481.0,
+      "title": "CEO BREAKS SILENCE After Snatching Hat From Kid At US Open"
+    }
+  ]
+}

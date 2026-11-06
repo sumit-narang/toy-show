@@ -1,0 +1,53 @@
+{
+  "id": "2017-frosted-berries-body-butter",
+  "year": 2017,
+  "name": "Frosted Berries Body Butter",
+  "price_eur": 20.95,
+  "price_text": "€20.95",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sWinoVefdEs",
+      "channel": " masterofnone1963 ",
+      "duration": 283.0,
+      "title": "Body product review : Body shop  body butter  Frosted Berries"
+    },
+    {
+      "id": "IkFWbipccpc",
+      "channel": "Jessica Be Brave",
+      "duration": 245.0,
+      "title": "I Reacted To Bodycology Frosted Berries Body Cream And I Have My Thoughts About It As A Consumer🤗"
+    },
+    {
+      "id": "8FHYMsd-87k",
+      "channel": "Apna REVIEW",
+      "duration": 130.0,
+      "title": "Frosted Cranberry Body Butter Review"
+    },
+    {
+      "id": "Uaa2E2jLI5A",
+      "channel": "BarSoap Guy",
+      "duration": 174.0,
+      "title": "The Body Shop frosted berries body gel"
+    },
+    {
+      "id": "CAdfjd3G2Xc",
+      "channel": "🍡Ariana’sSinfulScents🍡",
+      "duration": 671.0,
+      "title": "🍓🫐❄️FROSTED BERRIES! #bodycology #berries #new #musk"
+    }
+  ]
+}

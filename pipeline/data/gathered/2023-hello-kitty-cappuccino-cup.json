@@ -1,0 +1,60 @@
+{
+  "id": "2023-hello-kitty-cappuccino-cup",
+  "year": 2023,
+  "name": "Hello Kitty Cappuccino Cup",
+  "price_eur": 7.99,
+  "price_text": "€7.99",
+  "retailers": [
+    {
+      "name": "Art & Hobby",
+      "url": "https://www.artnhobby.ie/products/hello-kitty-cappuccino-kapt15cn2020"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.artnhobby.ie/products/hello-kitty-cappuccino-kapt15cn2020",
+      "title": "Hello Kitty Cappuccino",
+      "description": "The individual cappuccino cups simply need a splash of water to ignite the magic and reveal the Hello Kitty squishy within. With eight different characters to collect, the simple reveal adds a magical element to the kawaii-style collectible. Kids are delighted as they watch the squishable, scented Hello Kitty character",
+      "image": "http://www.artnhobby.ie/cdn/shop/files/HKCappuccinoCDU.jpg?crop=center&height=1200&v=1695306321&width=1200",
+      "ld_description": "The individual cappuccino cups simply need a splash of water to ignite the magic and reveal the Hello Kitty squishy within.\nWith eight different characters to collect, the simple reveal adds a magical element to the kawaii-style collectible.\nKids are delighted as they watch the squishable, scented Hello Kitty character pop up from the colourful coffee cup.",
+      "brand": "KAP TOYS",
+      "ld_image": "https://www.artnhobby.ie/cdn/shop/files/HKCappuccinoCDU.jpg?v=1695306321&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mrWhuCppzV8",
+      "channel": "SugarStar",
+      "duration": 3499.0,
+      "title": "SugarStar Makes *MINI* HELLO KITTY FOOD! Hello Kitty MiniVerse Coffee, Milkshake, Waffles"
+    },
+    {
+      "id": "amDW4Yg1Mk8",
+      "channel": "Tania Liceaga",
+      "duration": 447.0,
+      "title": "CUTE SANRIO CHARACTER KAWAII PHONE THEME"
+    },
+    {
+      "id": "i72quhZxRNo",
+      "channel": "Maria Fenwick",
+      "duration": 157.0,
+      "title": "HELLO KITTY l Maria Fenwick"
+    },
+    {
+      "id": "MtBThHFC-i8",
+      "channel": "Argos Anon",
+      "duration": 517.0,
+      "title": "What Is The MetaZoo Sanrio Hello Kitty PREMIUM COLLECTOR BOX? EVERYTHING You NEED To Know"
+    },
+    {
+      "id": "2VXJmtuOBHE",
+      "channel": "Kelly S",
+      "duration": 399.0,
+      "title": "How to make a Hello Kitty Matcha Cappuccino"
+    }
+  ]
+}

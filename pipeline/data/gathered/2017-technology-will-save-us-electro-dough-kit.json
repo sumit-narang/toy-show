@@ -1,0 +1,53 @@
+{
+  "id": "2017-technology-will-save-us-electro-dough-kit",
+  "year": 2017,
+  "name": "Technology Will Save Us \"Electro Dough Kit\"",
+  "price_eur": 26.99,
+  "price_text": "€26.99",
+  "retailers": [
+    {
+      "name": "Atnorrs",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "33F54_CHZj0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 160.0,
+      "title": "Dough Universe Electro Machines, Bright Creatures & Techno Sounds Kits from Technology Will Save Us"
+    },
+    {
+      "id": "x-EBOu5K_v0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 110.0,
+      "title": "Electro Dough Kit from Technology Will Save Us"
+    },
+    {
+      "id": "OucxlfQusq4",
+      "channel": "What Do We Do All Day?",
+      "duration": 27.0,
+      "title": "DIY Electro Play Dough Set from Technology Will Save Us"
+    },
+    {
+      "id": "ndffqpRFSIc",
+      "channel": "Tech Will Save Us",
+      "duration": 290.0,
+      "title": "Make with DIY Electro Dough Kit"
+    },
+    {
+      "id": "dDzw0c69Iak",
+      "channel": "Brookstone",
+      "duration": 16.0,
+      "title": "DIY Electro Dough Conductive Sculpting Kit by Technology Will Save Us"
+    }
+  ]
+}

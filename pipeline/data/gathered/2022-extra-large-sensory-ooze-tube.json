@@ -1,0 +1,60 @@
+{
+  "id": "2022-extra-large-sensory-ooze-tube",
+  "year": 2022,
+  "name": "Extra Large Sensory Ooze Tube",
+  "price_eur": 17.95,
+  "price_text": "€17.95",
+  "retailers": [
+    {
+      "name": "sensoryhouse.ie",
+      "url": "https://sensoryhouse.ie/oozetube"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://sensoryhouse.ie/oozetube",
+      "title": "Ooze Tube - Extra Large / Jumbo",
+      "description": "Jumbo Ooze Tube ( Slow Moving Modern Hour Glass )This extra large ooze tube is a visually captivating slow moving hour glass style product. Watch the bubbling, dripping and oozing motion of the thick gel slowly moving from chamber to chamber creating a relaxing and calming effect t",
+      "image": "https://sensoryhouse.ie/image/cache/catalog/92094_8-600x315w.jpg",
+      "ld_description": "Jumbo Ooze Tube ( Slow Moving Modern Hour Glass )This extra large ooze tube is a visually captivating slow moving hour glass style product. Watch the bubbling, dripping and oozing motion of the thick gel slowly moving from chamber to chamber creating a relaxing and calming effect t",
+      "brand": null,
+      "ld_image": "https://sensoryhouse.ie/image/cache/catalog/92094_8-4500x4500.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "psXz9pwv7Fo",
+      "channel": "Office Playground",
+      "duration": 41.0,
+      "title": "Ooze Tube Large"
+    },
+    {
+      "id": "VuJ0_zc1hfk",
+      "channel": "Playlearn USA",
+      "duration": 28.0,
+      "title": "Jumbo Ooze Tubes- Therapy toys at Playlearn"
+    },
+    {
+      "id": "Phvh5DUjZ4U",
+      "channel": "RJC's Product Reviews Down on Conroys Farm",
+      "duration": 47.0,
+      "title": "Ooze Tube Toy Liquid Hour Glass"
+    },
+    {
+      "id": "o-vk0fod4To",
+      "channel": "Twins world",
+      "duration": 52.0,
+      "title": "Tink n Stink green ooze tube review"
+    },
+    {
+      "id": "m1tItfzAW3U",
+      "channel": "c033954",
+      "duration": 90.0,
+      "title": "Ooze Tube"
+    }
+  ]
+}

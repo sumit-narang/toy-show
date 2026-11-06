@@ -1,0 +1,57 @@
+{
+  "id": "2020-assortment-of-art-supplies-paints-palettes-easels-canvas",
+  "year": 2020,
+  "name": "Assortment of Art Supplies - Paints, Palettes, Easels, Canvas",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Evan's Art Supplies",
+      "url": "https://store.evansartsupplies.ie/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://store.evansartsupplies.ie/",
+      "title": "Evans Art Supplies - Fine Art Materials in Ireland - K&M Evans Trading Ltd.",
+      "description": "Evans Art Supplies is a family run business which has been in the same family for 4 generations. We are the leading supplier in Ireland of Fine Art Materials.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qVCvswCYhxI",
+      "channel": "Amanda Rinaldi",
+      "duration": 299.0,
+      "title": "This Easel Made Painting Large Feel Possible"
+    },
+    {
+      "id": "wDIDET9dNio",
+      "channel": "Artina-Shop",
+      "duration": 33.0,
+      "title": "ARTINA XXL Painting Set 188pcs - Vincent - Art Set with Easel & Professional Art Supplies"
+    },
+    {
+      "id": "t8qvdJqQa-U",
+      "channel": "Christina Kent Art",
+      "duration": 249.0,
+      "title": "My super simple plein air painting kit ✣ plein air painting travel kit"
+    },
+    {
+      "id": "4leI8HPp5E8",
+      "channel": "Mont Marte Art",
+      "duration": 76.0,
+      "title": "How to: work with a canvas on an easel"
+    },
+    {
+      "id": "vX9jXX2heIo",
+      "channel": "Artina-Shop",
+      "duration": 30.0,
+      "title": "ARTINA Table Easel - Florenz - Painting Set Box Easel with 18 Paints, 6 Brushes & Canvas"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2020-bigjigs-wooden-village-shop",
+  "year": 2020,
+  "name": "Bigjigs Wooden Village Shop",
+  "price_eur": 139.95,
+  "price_text": "€139.95",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/big-jigs-village-shop/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/product-category/wooden-toys/wooden-play-shop-accessories/",
+      "title": "Wooden Play Shop & Accessories Archives",
+      "description": "Discover our beautiful collection of wooden play shops and accessories, designed to inspire imaginative role play and creative shopping adventures",
+      "image": "https://littledreamers.ie/wp-content/uploads/Wooden-Play-Shop-Accessories.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mxuM4Xjf1ig",
+      "channel": "B&H Models",
+      "duration": 71.0,
+      "title": "UNBOXING OF BIGJIGS BJT026  FLYING SCOTSMAN WOODEN TRAIN SET! IDEAL FOR AGES 3+"
+    },
+    {
+      "id": "fhdvVKFGnsY",
+      "channel": "Zoe Corkhill - Mama Geek",
+      "duration": 114.0,
+      "title": "Bigjigs Toys Farm House Sorter (#BB064)"
+    },
+    {
+      "id": "qCKDbqn69G4",
+      "channel": "wendymcd83",
+      "duration": 76.0,
+      "title": "Freddy runs his Bigjigs Grocery Shop"
+    },
+    {
+      "id": "3QIT_WYLS2Q",
+      "channel": "Hayneedle",
+      "duration": 64.0,
+      "title": "Bigjigs Toys Rose Cottage Dollhouse - Product Review Video"
+    },
+    {
+      "id": "eqJoxWvq6tY",
+      "channel": "The Izzys",
+      "duration": 695.0,
+      "title": "GRAND CENTRAL STATION BY BIGJIGS! Shunting Yard MEGA THOMAS TRACK"
+    }
+  ]
+}

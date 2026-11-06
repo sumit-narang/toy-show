@@ -1,0 +1,54 @@
+{
+  "id": "2018-slime-play",
+  "year": 2018,
+  "name": "Slime Play",
+  "price_eur": 4.99,
+  "price_text": "from €4.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "http://Amazon.co.uk"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lcPTDc9vHkE",
+      "channel": "Talisa Tossell",
+      "duration": 1201.0,
+      "title": "Satisfying Slime ASMR | Relaxing Slime Videos Compilation No Talking No Music No Voiceover"
+    },
+    {
+      "id": "u7tN_zftXh8",
+      "channel": "★ Kids Roma Show",
+      "duration": 1431.0,
+      "title": "Roma and Diana are playing with slimes | Fun games with dad"
+    },
+    {
+      "id": "wGIeGff4MMU",
+      "channel": "Fun Caboodle",
+      "duration": 516.0,
+      "title": "Bluey and Bingo DIY Slime Making and Mixing Tutorial! Crafts for Kids"
+    },
+    {
+      "id": "4jMTJQ_0M4Y",
+      "channel": "Danny Go!",
+      "duration": 228.0,
+      "title": "Slime Time! 🐸 | Slime Splat | Pretend Play | Danny Go! Songs For Kids"
+    },
+    {
+      "id": "cCvPKHo7ceQ",
+      "channel": "Fizzy Fun House - Fun Stories for Kids",
+      "duration": 3042.0,
+      "title": "Fizzy's Fun Adventures With Dinosaurs Making Slime, Packing Lunch Boxes & More |Compilation For Kids"
+    }
+  ]
+}

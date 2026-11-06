@@ -1,0 +1,30 @@
+{
+  "id": "2025-fao-schwarz-bluetooth-karaoke-rhinestone-microphone",
+  "year": 2025,
+  "name": "FAO SCHWARZ Bluetooth Karaoke Rhinestone Microphone",
+  "price_eur": 36.0,
+  "price_text": "€36",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/fao-schwarz/bluetooth-karaoke-rhinestone-microphone/187685029.html?cgid=root#q=fao%2Bmicrophone&lang=en_IE&start=1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.arnotts.ie/fao-schwarz/bluetooth-karaoke-rhinestone-microphone/187685029.html?cgid=root#q=fao%2Bmicrophone&lang=en_IE&start=1"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QYV-ArlJO5M",
+      "channel": "MIGZ DERULO - Music - Fitness - Style ",
+      "duration": 227.0,
+      "title": "BLING MIC / Learns to rock..."
+    }
+  ]
+}

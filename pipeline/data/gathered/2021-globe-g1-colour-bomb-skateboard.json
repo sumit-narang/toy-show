@@ -1,0 +1,54 @@
+{
+  "id": "2021-globe-g1-colour-bomb-skateboard",
+  "year": 2021,
+  "name": "Globe G1 Colour Bomb Skateboard",
+  "price_eur": 89.95,
+  "price_text": "€89.95",
+  "retailers": [
+    {
+      "name": "GoSk8",
+      "url": "https://gosk8.ie/globe-g1-full-on-color-bomb-complete-skateboard-7-75"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "https://gosk8.ie/globe-g1-full-on-color-bomb-complete-skateboard-7-75"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Z-zDVHYy8Qc",
+      "channel": "Skate Horizons - Michael Skates ",
+      "duration": 129.0,
+      "title": "Loaded Fathom Longboard Review - Loadeds first Bracket Board"
+    },
+    {
+      "id": "4-ofQJag9Uc",
+      "channel": "Leon Paxton",
+      "duration": 451.0,
+      "title": "Which Skateboard Wheels are BEST for You?"
+    },
+    {
+      "id": "F5Jd7ZSt8ak",
+      "channel": "Caylus  ",
+      "duration": 677.0,
+      "title": "We Broke ALL 206 BONES in Skate.."
+    },
+    {
+      "id": "rFLCqqsAtEQ",
+      "channel": "Flight",
+      "duration": 719.0,
+      "title": "I Pressed A Button To END The WORLD 🌎"
+    },
+    {
+      "id": "C0b7yFtta2U",
+      "channel": "Blippi - Educational Videos for Kids",
+      "duration": 7109.0,
+      "title": "Blippi and Meekah's Bowling Ball Blast | Blippi Educational Videos for Kids"
+    }
+  ]
+}

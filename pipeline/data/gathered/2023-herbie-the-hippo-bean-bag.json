@@ -1,0 +1,57 @@
+{
+  "id": "2023-herbie-the-hippo-bean-bag",
+  "year": 2023,
+  "name": "Herbie the Hippo Bean Bag",
+  "price_eur": 79.0,
+  "price_text": "€79",
+  "retailers": [
+    {
+      "name": "Elephant Living",
+      "url": "https://elephantliving.com/collections/stuff/products/herbie-the-hippo-bean-bag"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://elephantliving.com/collections/stuff/products/herbie-the-hippo-bean-bag",
+      "title": "Herbie - The Hippo Bean Bag",
+      "description": "Shop Herbie the Hippo Bean Bag by Elephant Living is a fun, comfy seat for kids. Soft, durable, and perfect for bedrooms, playrooms, or cosy corners.",
+      "image": "http://elephantliving.com/cdn/shop/files/1-herbie-the-hippo-bean-bag-01_grande.jpg?v=1747838349"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LHRfb6amVf0",
+      "channel": "Inside Edition",
+      "duration": 68.0,
+      "title": "Would You Wear This Beanbag?"
+    },
+    {
+      "id": "HYCnOo2PIfk",
+      "channel": "Michelle",
+      "duration": 3647.0,
+      "title": "Bean Bear compilation 1 hour loop"
+    },
+    {
+      "id": "hQHemhd26JQ",
+      "channel": "Yo La Tengo",
+      "duration": 183.0,
+      "title": "Beanbag Chair"
+    },
+    {
+      "id": "0-rg7EIt1x4",
+      "channel": "TheLearningStation - Kids Songs and Nursery Rhymes",
+      "duration": 218.0,
+      "title": "Herman the Worm ♫ Camp Songs for Children ♫ Kids Brain Breaks Songs by The Learning Station"
+    },
+    {
+      "id": "tUIQcc9ASe4",
+      "channel": "Creature Challenge",
+      "duration": 815.0,
+      "title": "Why Hippos Are Worse Than Any Carnivore"
+    }
+  ]
+}

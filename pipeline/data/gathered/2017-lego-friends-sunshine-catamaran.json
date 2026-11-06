@@ -1,0 +1,64 @@
+{
+  "id": "2017-lego-friends-sunshine-catamaran",
+  "year": 2017,
+  "name": "LEGO Friends Sunshine Catamaran",
+  "price_eur": 49.95,
+  "price_text": "€49.95",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "p0euKTB83rY",
+      "channel": "AustrianBrickFan",
+      "duration": 601.0,
+      "title": "Lego Friends 41317 Sunshine Catamaran - Lego Speed Build Review"
+    },
+    {
+      "id": "-juxKhX5qrs",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 616.0,
+      "title": "🔄 LEGO Friends Sunshine Catamaran review ⛵ 41317 re upload"
+    },
+    {
+      "id": "fGfzJs02u5s",
+      "channel": "ellieV ",
+      "duration": 811.0,
+      "title": "Lego Friends Sunshine Catamaran Part 2 Build Review Silly Play Kids Toys"
+    },
+    {
+      "id": "ggYCPMqCafg",
+      "channel": "LEGO",
+      "duration": 40.0,
+      "title": "Sunshine Catamaran - LEGO Friends - 41317 - Product Animation"
+    },
+    {
+      "id": "lphx2lpYfww",
+      "channel": "Game of bricks 2nd channel",
+      "duration": 833.0,
+      "title": "Lego Friends 41317 Sunshine Catamaran"
+    }
+  ]
+}

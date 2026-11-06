@@ -1,0 +1,57 @@
+{
+  "id": "2022-little-live-pets-mama-surprise-guinea-pig-little-live-pets",
+  "year": 2022,
+  "name": "Little Live Pets Mama Surprise Guinea Pig Little Live Pets",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-mama-surprise/p/210504"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-mama-surprise/p/210504",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MrpzRWKGauA",
+      "channel": "Smyths Toys Superstores",
+      "duration": 405.0,
+      "title": "Little Live Pets - Mama Surprise How To Video- Smyths Toys"
+    },
+    {
+      "id": "6nsYSAMCVeg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 104.0,
+      "title": "Little Live Pets Mama Surprise! Guinea Pigs from Moose Toys Review!"
+    },
+    {
+      "id": "dWeldz263HA",
+      "channel": "Chris Vids",
+      "duration": 610.0,
+      "title": "Little Live Pets - Mama Surprise Guinea Pig  - How Does It Work?"
+    },
+    {
+      "id": "-u8L3Z2QiWA",
+      "channel": "Mini fun toys",
+      "duration": 820.0,
+      "title": "Little Live Pets Mama Surprise Guinea Pigs Toys Unboxing & Review"
+    },
+    {
+      "id": "HtoVwr4Yiho",
+      "channel": "Ashley's Finds and Faves",
+      "duration": 187.0,
+      "title": "Review and Demo of the Little Live Pets Mama Surprise Guinea Pig"
+    }
+  ]
+}

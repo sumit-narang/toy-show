@@ -1,0 +1,36 @@
+{
+  "id": "2023-aldrin-adams-and-the-legend-of-nemeswiss",
+  "year": 2023,
+  "name": "Aldrin Adams and the Legend of Nemeswiss",
+  "price_eur": 11.19,
+  "price_text": "€11.19",
+  "retailers": [
+    {
+      "name": "Dubray",
+      "url": "https://www.dubraybooks.ie/product/aldrin-adams-and-the-legend-of-nemeswiss-pb-9780241441701"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/aldrin-adams-and-the-legend-of-nemeswiss-pb-9780241441701"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "l7jehCSBwzI",
+      "channel": "Full Audiobook",
+      "duration": 305.0,
+      "title": "Aldrin Adams and the Legend of Nemeswiss - Paul Howard"
+    },
+    {
+      "id": "INf5IR-qiFE",
+      "channel": "Google Play Books",
+      "duration": 651.0,
+      "title": "Aldrin Adams and the Legend of Nemeswiss Book 2 by Paul Howard · Audiobook preview"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2024-playmobil-space-mars-mission-station",
+  "year": 2024,
+  "name": "Playmobil Space Mars Mission Station",
+  "price_eur": null,
+  "price_text": "£91.98",
+  "retailers": [
+    {
+      "name": "Amazon UK",
+      "url": "https://www.amazon.co.uk/Playmobil-9487-Space-Mars-Station/dp/B079MLP1S3"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.co.uk/Playmobil-9487-Space-Mars-Station/dp/B079MLP1S3",
+      "title": "Playmobil 9487 Space Mars Mission Station with Functioning Double Laser Shooter, space experience for little space explorers, educational toy, fun imaginative role play, play set for children ages 6+ : Amazon.co.uk: Toys & Games",
+      "description": "Immersive space experience for young explorers with double laser shooter, removable roof, command center, and accessories for imaginative role-play. Ages 6+.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OEaOOKiGzR0",
+      "channel": "DisneyToysReview",
+      "duration": 612.0,
+      "title": "UNBOXING PLAYMOBIL MARS MISSION SPACE STATION WITH ASTRONAUTS & ROBOT"
+    },
+    {
+      "id": "0RakVVWLDVw",
+      "channel": "OhcluckToys",
+      "duration": 563.0,
+      "title": "PlayMobil Mars Mission Rocket with Launch Site Unboxing Toy Review Speed Build"
+    },
+    {
+      "id": "UVbjROdexag",
+      "channel": "Playmobil English",
+      "duration": 30.0,
+      "title": "Playmobil Mission to Mars range TV Ad"
+    },
+    {
+      "id": "tNyAZ8idANY",
+      "channel": "duo schreib & spiel",
+      "duration": 132.0,
+      "title": "Preview : Playmobil 9487 - Mars Station"
+    },
+    {
+      "id": "99cSJSAgxNE",
+      "channel": "JANGmobil",
+      "duration": 1201.0,
+      "title": "Playmobil Mars Space Station 9487 review!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2019-alice-in-wonderland",
+  "year": 2019,
+  "name": "Alice in Wonderland",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/Search?q=alice%20in%20wonderland"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/Search?q=alice%20in%20wonderland",
+      "title": "Search",
+      "description": "Search",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4M2UcT3c-HA",
+      "channel": "T-Series Kids Hut",
+      "duration": 815.0,
+      "title": "ALICE IN WONDERLAND Fairy Tales And Bedtime Story For Kids | Animated Full Story"
+    },
+    {
+      "id": "qfRAL0AgzGs",
+      "channel": "Curiouser Archive",
+      "duration": 2749.0,
+      "title": "Alice in Wonderland (1995)"
+    },
+    {
+      "id": "pRNCYvnt4N4",
+      "channel": "rrppo",
+      "duration": 3580.0,
+      "title": "Alice in Wonderland (1915) – 4K, full film with score"
+    },
+    {
+      "id": "Oc7WuYfGbrA",
+      "channel": "Geethanjali Kids - Rhymes and Stories",
+      "duration": 562.0,
+      "title": "Alice in Wonderland Full Movie - Animated Fairy Tales - Bedtime Stories For Kids"
+    },
+    {
+      "id": "qBGE6A_uHCs",
+      "channel": "ViddyWell",
+      "duration": 230.0,
+      "title": "Alice in Wonderland | One of Touhou's Greatest Themes?"
+    }
+  ]
+}

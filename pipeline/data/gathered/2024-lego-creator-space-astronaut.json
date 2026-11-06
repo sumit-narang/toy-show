@@ -1,0 +1,54 @@
+{
+  "id": "2024-lego-creator-space-astronaut",
+  "year": 2024,
+  "name": "LEGO Creator Space Astronaut",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "LEGO Shop",
+      "url": "https://www.lego.com/en-ie/product/space-astronaut-31152"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/space-astronaut-31152"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3LwMWnVefOU",
+      "channel": "JediJACPenguin",
+      "duration": 1086.0,
+      "title": "LEGO Creator Review: Space Astronaut (3-in-1) (2024 Set 31152) SPACE DOG!"
+    },
+    {
+      "id": "Ah2lSiE3qlA",
+      "channel": "AustrianBrickFan",
+      "duration": 558.0,
+      "title": "LEGO Creator 31152 Space Astronaut – LEGO Speed Build Review"
+    },
+    {
+      "id": "VhWH8M0cjCQ",
+      "channel": "Tiago Catarino",
+      "duration": 442.0,
+      "title": "LEGO Creator 3in1 Astronaut, Ukelele and Roller Skate"
+    },
+    {
+      "id": "w3lQrZc_hdE",
+      "channel": "Top Brick Builder",
+      "duration": 1375.0,
+      "title": "LEGO Creator Space Astronaut (31152)[647 pcs] Step-by-Step Building Instructions @TopBrickBuilder"
+    },
+    {
+      "id": "VycuECuLy0c",
+      "channel": "BRIT'N BRICKS",
+      "duration": 1614.0,
+      "title": "LEGO creator  #31134 3in1 Astronaut building guide 2023"
+    }
+  ]
+}

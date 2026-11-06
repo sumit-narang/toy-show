@@ -1,0 +1,54 @@
+{
+  "id": "2022-orbeez-soothing-foot-spa",
+  "year": 2022,
+  "name": "Orbeez Soothing Foot Spa",
+  "price_eur": 35.0,
+  "price_text": "€35",
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "https://banbatoys.ie/products/sr6061137?_pos=4&_sid=bb34d814a&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/sr6061137?_pos=4&_sid=bb34d814a&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a9pgBicmWgA",
+      "channel": "True Toys",
+      "duration": 37.0,
+      "title": "Orbeez Soothing Foot Spa"
+    },
+    {
+      "id": "aJXwkP-bVqc",
+      "channel": "TTPM Toy Reviews",
+      "duration": 82.0,
+      "title": "Orbeez Ultimate Soothing Spa from The Maya Group"
+    },
+    {
+      "id": "BnGfFuv1iUA",
+      "channel": "ToysXL - TV Commercials",
+      "duration": 31.0,
+      "title": "Orbeez - Ultimate Soothing Spa | Official TV Commercial"
+    },
+    {
+      "id": "V9N3ez0FTZs",
+      "channel": "Toys\"R\"Us Singapore",
+      "duration": 32.0,
+      "title": "Orbeez Soothing Spa"
+    },
+    {
+      "id": "SnuHc5Q5PWI",
+      "channel": "redplanetgroup",
+      "duration": 31.0,
+      "title": "Orbeez Ultimate Soothing Spa"
+    }
+  ]
+}

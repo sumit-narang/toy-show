@@ -1,0 +1,54 @@
+{
+  "id": "2023-the-kai-dinosaur",
+  "year": 2023,
+  "name": "The Kai Dinosaur",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie/collections/the-collection/products/the-kai-dinosaur"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 402,
+      "final_url": "https://lucyandme.ie/collections/the-collection/products/the-kai-dinosaur"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "O9k4tORRIlI",
+      "channel": "Kai Cenat Live",
+      "duration": 3263.0,
+      "title": "We Went To Universal Studios!"
+    },
+    {
+      "id": "4LHhO6B1ZXo",
+      "channel": "Kayato",
+      "duration": 57.0,
+      "title": "Kai Cenat got mad after Ray & Rakai ruined the moment Tota had as he thought that he met a dinosaur "
+    },
+    {
+      "id": "jkOEu-ktAvY",
+      "channel": "Kaiju Capi",
+      "duration": 1966.0,
+      "title": "BATTLE ROYALE with EVERY LAND DINOSAUR! - Jurassic World Evolution 2"
+    },
+    {
+      "id": "28dEKtjCJ7k",
+      "channel": "CRAFTALIA",
+      "duration": 26.0,
+      "title": "What are Dinosaurs? Kai Explains what are Dinosaurs!"
+    },
+    {
+      "id": "JxibZ7yYnxg",
+      "channel": "Kai and Lulu - Kids Songs",
+      "duration": 695.0,
+      "title": "Run! A Big Dinosaur Is Chasing Us! 🦖😱 | T-Rex Chase | Baby Dinosaur Song | Dinosaur Songs for Kids"
+    }
+  ]
+}

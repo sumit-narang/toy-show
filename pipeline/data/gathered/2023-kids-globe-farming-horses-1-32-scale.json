@@ -1,0 +1,54 @@
+{
+  "id": "2023-kids-globe-farming-horses-1-32-scale",
+  "year": 2023,
+  "name": "Kids Globe Farming Horses 1:32 Scale",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Totally Toys",
+      "url": "https://totallytoys.ie/products/kids-globe-farming-horses-4pc-1-32"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://totallytoys.ie/products/kids-globe-farming-horses-4pc-1-32"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hXRRGQxNczE",
+      "channel": "MikroTrading",
+      "duration": 76.0,
+      "title": "Kids Globe Farming - farmy, stáje, garáže"
+    },
+    {
+      "id": "WdUAr_a3ngA",
+      "channel": "Tim's Speelgoedboerderij",
+      "duration": 87.0,
+      "title": "Kids Globe Horses pickup met trailer art. 520124"
+    },
+    {
+      "id": "TJq3SHCG6q8",
+      "channel": "Kids Globe",
+      "duration": 61.0,
+      "title": "Kids Globe 570010 6 koeien rood/bont (schaal 1:32) OP=OP"
+    },
+    {
+      "id": "HpjWpqgJfvo",
+      "channel": "Tim's Speelgoedboerderij",
+      "duration": 101.0,
+      "title": "KidsGlobe Traffic Volvo XC90 met paardentrailer (Artikelnr: KGT521631)"
+    },
+    {
+      "id": "Ps5a75oARcE",
+      "channel": "MikroTrading",
+      "duration": 26.0,
+      "title": "Kids Globe Farming traktor - 65503"
+    }
+  ]
+}

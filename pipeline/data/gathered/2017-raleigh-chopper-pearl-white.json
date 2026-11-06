@@ -1,0 +1,53 @@
+{
+  "id": "2017-raleigh-chopper-pearl-white",
+  "year": 2017,
+  "name": "Raleigh Chopper Pearl White",
+  "price_eur": 360.0,
+  "price_text": "€360.00",
+  "retailers": [
+    {
+      "name": "Eurocycles",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LfotG7PTjus",
+      "channel": "Wild Prairie Harley-Davidson",
+      "duration": 30.0,
+      "title": "2020 Harley-Davidson® CVO™ Tri Glide® Blizzard White Pearl w/ Lightning Silver & Stormcloud at WPH-D"
+    },
+    {
+      "id": "upuyxv-H9tg",
+      "channel": "Time Warp Custom Paint",
+      "duration": 298.0,
+      "title": "LiME LiNE Diamond White Pearl GHOST FLAMES — The Ultimate Custom Paint Illusion"
+    },
+    {
+      "id": "U0nJvJRnUJ8",
+      "channel": "Wild Prairie Harley-Davidson",
+      "duration": 26.0,
+      "title": "2026 Harley-Davidson® Fat Boy® White Onyx Pearl Chrome Trim at WPH-D"
+    },
+    {
+      "id": "ZFZFS8ie5YE",
+      "channel": "North County Indian Motorcycle",
+      "duration": 108.0,
+      "title": "2011 Harley-Davidson V-Rod Night Rod Special"
+    },
+    {
+      "id": "4oYR8BKkyI0",
+      "channel": "MOTO-CAR TV",
+      "duration": 269.0,
+      "title": "The White Pearl Beast: 2026 Harley-Davidson Low Rider ST Review"
+    }
+  ]
+}

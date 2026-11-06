@@ -1,0 +1,72 @@
+{
+  "id": "2018-fugglers",
+  "year": 2018,
+  "name": "Fugglers",
+  "price_eur": 19.0,
+  "price_text": "€19",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "imhQ2hx0Ouk",
+      "channel": "Small Model Collector",
+      "duration": 281.0,
+      "title": "Fuggler Budgie Count Underoo McGoo by Spin Master Zuru funny ugly monster teeth toy plush animal"
+    },
+    {
+      "id": "vqo803m3YeY",
+      "channel": "lulaloopsey",
+      "duration": 1045.0,
+      "title": "A Deep Dive into Fugglers"
+    },
+    {
+      "id": "VHKtBAKMcUo",
+      "channel": "Maddy Ha",
+      "duration": 1603.0,
+      "title": "We Bought *ALL* The FUGGLERS in The *ENTIRE* Store"
+    },
+    {
+      "id": "VBjYoBHgY9o",
+      "channel": "CAPYBARA QUIZ",
+      "duration": 782.0,
+      "title": "Would You Rather..? Fuggler Edition 👾 🤪 Choose Your Fuggler! Quiz 2026"
+    },
+    {
+      "id": "AFtpx1_oEyU",
+      "channel": "Blooshi Pooshi",
+      "duration": 933.0,
+      "title": "What's a Fuggler? | Fuggler Deep Dive"
+    }
+  ]
+}

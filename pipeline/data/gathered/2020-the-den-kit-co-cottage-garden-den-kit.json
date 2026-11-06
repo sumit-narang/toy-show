@@ -1,0 +1,60 @@
+{
+  "id": "2020-the-den-kit-co-cottage-garden-den-kit",
+  "year": 2020,
+  "name": "The Den Kit Co. Cottage Garden Den Kit",
+  "price_eur": 50.0,
+  "price_text": "€50.00",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-cottage-garden-den-kit/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.freddieandmillietoys.ie/product/the-den-kit-company-cottage-garden-den-kit/",
+      "title": "The Den Kit Company – Cottage Garden Den Kit | Freddie & Millie Toys",
+      "description": null,
+      "image": null,
+      "ld_description": "Surround yourself with the charm and vibrancy of a cottage garden in summertime. Use your skill and ingenuity to create a perfectly purple shelter, adorn it with the natural hues of your cotton bunting and gaze at the world through your kaleidoscope to see colours as vivid as your own imagination.\r\n\r\n&nbsp;",
+      "brand": null,
+      "ld_image": "https://www.freddieandmillietoys.ie/wp-content/uploads/2020/09/DK_Cottage_Garden_External_600x.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PkukXxCEV7M",
+      "channel": "Hidden Valley Footpaths",
+      "duration": 1662.0,
+      "title": "The Original Den Kit , Made by the Den Kit company"
+    },
+    {
+      "id": "GApKoTYlSfg",
+      "channel": "Booth Co",
+      "duration": 263.0,
+      "title": "Kit-Kat Cottage"
+    },
+    {
+      "id": "VjTJvwgJnGc",
+      "channel": "The Fable Cottage",
+      "duration": 349.0,
+      "title": "The Little Red Hen (US English accent) - TheFableCottage.com"
+    },
+    {
+      "id": "gF5pzjWUb2I",
+      "channel": "House & Garden",
+      "duration": 448.0,
+      "title": "Inside Cath Kidston’s Art-Filled Notting Hill Terrace | Design Notes"
+    },
+    {
+      "id": "9HEQ36Yn6BE",
+      "channel": "Linda Vater",
+      "duration": 2139.0,
+      "title": "Most Surprising Thing About This Cottage Garden Is..."
+    }
+  ]
+}

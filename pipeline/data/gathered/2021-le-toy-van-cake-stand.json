@@ -1,0 +1,54 @@
+{
+  "id": "2021-le-toy-van-cake-stand",
+  "year": 2021,
+  "name": "Le Toy Van Cake Stand",
+  "price_eur": 45.0,
+  "price_text": "€45.00",
+  "retailers": [
+    {
+      "name": "Freddie and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/tender-leaf-birdie-afternoon-tea-stand/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.freddieandmillietoys.ie/product/tender-leaf-birdie-afternoon-tea-stand/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oXJ8rI8IuUA",
+      "channel": "TOYBOX",
+      "duration": 30.0,
+      "title": "Le Toy Van Three Tier Cake Stand | Honeybake© Collection | Traditional Wooden Toys"
+    },
+    {
+      "id": "Pvvlvbn5tgc",
+      "channel": "Ogoshka.ua",
+      "duration": 27.0,
+      "title": "Strawberry Wedding Cake   Honeybake© Collection   Le Toy Van   Traditional Wooden Toys"
+    },
+    {
+      "id": "qHsTstsywEQ",
+      "channel": "Entropy Toys",
+      "duration": 31.0,
+      "title": "Le Toy Van - Wooden Honeybake 2-in-1 Shop & Cafe"
+    },
+    {
+      "id": "mGYOmE94w84",
+      "channel": "OummAnna Lifestyle Blogger",
+      "duration": 120.0,
+      "title": "Le Toy Van Honeybake Toys Demonstration"
+    },
+    {
+      "id": "7QtZlBRidIg",
+      "channel": "Le Toy Van",
+      "duration": 16.0,
+      "title": "Tea Set | Serving Quality | Le Toy Van"
+    }
+  ]
+}

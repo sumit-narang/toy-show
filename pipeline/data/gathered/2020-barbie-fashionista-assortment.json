@@ -1,0 +1,53 @@
+{
+  "id": "2020-barbie-fashionista-assortment",
+  "year": 2020,
+  "name": "Barbie Fashionista Assortment",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mattel",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yyOEnkbA5uk",
+      "channel": "MABUHAY DOLLS",
+      "duration": 322.0,
+      "title": "Barbie Fashionistas Rainbow Bright 90 Doll Review ~ Mabuhay Dolls"
+    },
+    {
+      "id": "styCBKxP7g4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 156.0,
+      "title": "Barbie Fashionistas 2020 from Mattel"
+    },
+    {
+      "id": "x0JDOc6kcog",
+      "channel": "TTPM Toy Reviews",
+      "duration": 107.0,
+      "title": "Barbie Fashionistas Dolls & Fashions from Mattel"
+    },
+    {
+      "id": "1bDAZLWEXSg",
+      "channel": "Ricky's Corner🍓",
+      "duration": 444.0,
+      "title": "Barbie Fashionistas #240 unboxing & head swap✨️"
+    },
+    {
+      "id": "oGwUygjQOtA",
+      "channel": "BM&ND",
+      "duration": 258.0,
+      "title": "Newest Barbie Fashionistas 2020 and All Collections!"
+    }
+  ]
+}

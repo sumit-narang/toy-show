@@ -1,0 +1,54 @@
+{
+  "id": "2022-lego-marvel-i-am-groot-set",
+  "year": 2022,
+  "name": "Lego Marvel I am Groot set",
+  "price_eur": 50.0,
+  "price_text": "€50",
+  "retailers": [
+    {
+      "name": "LEGO®",
+      "url": "https://www.lego.com/en-ie/product/i-am-groot-76217"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/i-am-groot-76217"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "URUdFxnv8As",
+      "channel": "AustrianBrickFan",
+      "duration": 552.0,
+      "title": "LEGO Marvel 76217 I am Groot Speed Build"
+    },
+    {
+      "id": "KKknhNOmuxA",
+      "channel": "Ashnflash",
+      "duration": 543.0,
+      "title": "LEGO Marvel I Am Groot (76217) - 2022 Set Review"
+    },
+    {
+      "id": "tqZ833-7Hb8",
+      "channel": "JANG's LEGO Reviews",
+      "duration": 573.0,
+      "title": "LEGO Marvel I Am Groot / Baby Groot review! Charming, solid build & A+ cassette tape"
+    },
+    {
+      "id": "UpIyROYrk0k",
+      "channel": "RelaxWithBrickenridge",
+      "duration": 3097.0,
+      "title": "Relaxing Chitchat and Full Build LEGO Marvel Dancing Groot"
+    },
+    {
+      "id": "23uEWskA0T0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 81.0,
+      "title": "LEGO Marvel The Infinity Saga I am Groot Review!"
+    }
+  ]
+}

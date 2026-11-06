@@ -1,0 +1,57 @@
+{
+  "id": "2022-titanic-memorabilia",
+  "year": 2022,
+  "name": "Titanic Memorabilia",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Titanic Belfast",
+      "url": "https://www.titanicbelfast.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.titanicbelfast.com/",
+      "title": "Titanic Belfast",
+      "description": "Titanic Belfast is a world-leading visitor attraction which tells the story of RMS Titanic, from her conception in Belfast in the early 1900s, through its construction and launch, to its maiden voyage and subsequent place in history.",
+      "image": "https://www.titanicbelfast.com/media/qcwfkrt5/tb-no-bigger-story.jpg?width=1200&height=630&format=webp&quality=80&v=1d762bf0e6318d0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MCQMtu-YLEY",
+      "channel": "Grunge",
+      "duration": 659.0,
+      "title": "13 Artifacts Recovered From The Titanic Wreck"
+    },
+    {
+      "id": "hV70Voitrt8",
+      "channel": "Jessica Vill",
+      "duration": 622.0,
+      "title": "My Titanic Collection | 20th Anniversary"
+    },
+    {
+      "id": "tQHX_Zl2q2w",
+      "channel": "BBC News",
+      "duration": 201.0,
+      "title": "Rarely-seen items recovered from Titanic wreckage | BBC News"
+    },
+    {
+      "id": "KToY3W3-Qlk",
+      "channel": "Bright Side Dark Secrets",
+      "duration": 3938.0,
+      "title": "The Most Valuable Titanic Artifacts Ever Recovered (Priceless)"
+    },
+    {
+      "id": "dEP7zuPh9sk",
+      "channel": "Adventure Is Out There",
+      "duration": 3147.0,
+      "title": "Titanic Museum in Pigeon Forge Tennessee Full Tour"
+    }
+  ]
+}

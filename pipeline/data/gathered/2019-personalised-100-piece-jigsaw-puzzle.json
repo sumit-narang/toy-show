@@ -1,0 +1,60 @@
+{
+  "id": "2019-personalised-100-piece-jigsaw-puzzle",
+  "year": 2019,
+  "name": "Personalised 100 Piece Jigsaw Puzzle",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "PhotoPuzzle.ie",
+      "url": "https://www.photopuzzle.ie/"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.puzzleyou.ie/",
+      "title": "puzzleYOU ® | Personalised Jigsaw & Custom Puzzle",
+      "description": "Personalised jigsaw puzzles with your photo from €22.99. 48 to 2000 pieces, 100+ layouts, personalized gift box ✓ The original custom jigsaw puzzle with >4 million ♥ customers. Create yours now >>",
+      "image": "https://resi.puzzleyou.net/images/logo-puzzleyou-2021-compact?stretch=%7B%22long_side%22%3A+505%7D&convert=image%2Fjpeg",
+      "ld_description": "A personal photo puzzle is a real highlight! With us you may turn your favourite photograph into a real jigsaw puzzle. Our selection of 48, 100, 200, 500, 1000 and 2000 pieces offers puzzling fun for everyone - for children and adults, for beginners and profs. Create your unique photo puzzle from unforgettable moments, family portraits, funny snapshots, beautiful holiday memories or artwork of your own, in minutes. Relieve all those wonderful moments and memories again while putting the pieces of your puzzle together.",
+      "brand": "puzzleYOU",
+      "ld_image": "https://ph.puzzleyou.ie/_/prod/puzzle/1-medium/puzzle.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "auoQUeXMUCU",
+      "channel": "Anniversary Gifts",
+      "duration": 40.0,
+      "title": "Shopping Jigsaw - Personalised Image Jigsaw Puzzles"
+    },
+    {
+      "id": "AnPHLCG2aKU",
+      "channel": "CreateJigsawPuzzles",
+      "duration": 30.0,
+      "title": "100 Piece Promotional Jigsaw Puzzle Maker"
+    },
+    {
+      "id": "8AIxVQ3xH6s",
+      "channel": "Chuckle & Roar",
+      "duration": 17.0,
+      "title": "Chuckle & Roar 100 Piece Jigsaw Puzzles"
+    },
+    {
+      "id": "0P29qDv5wOs",
+      "channel": "BigC Vlogs",
+      "duration": 441.0,
+      "title": "PuzzleYou.com Custom Puzzle Review!"
+    },
+    {
+      "id": "waeja8EWaAI",
+      "channel": "Tammy McLeod Puzzler",
+      "duration": 541.0,
+      "title": "Comparing 4 Custom Jigsaw Puzzle Companies"
+    }
+  ]
+}

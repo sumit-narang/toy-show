@@ -1,0 +1,54 @@
+{
+  "id": "2023-one-piece-vol-6-the-oath",
+  "year": 2023,
+  "name": "One Piece Vol 6: The Oath",
+  "price_eur": 8.99,
+  "price_text": "€8.99",
+  "retailers": [
+    {
+      "name": "Forbidden Planet",
+      "url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://forbiddenplanet.com/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hHz_S3JPXEk",
+      "channel": "Qushu92",
+      "duration": 6516.0,
+      "title": "ONE PIECE FULL READTHROUGH - Volume 6 - The Oath"
+    },
+    {
+      "id": "pifUH_q31Uo",
+      "channel": "Andreas Tsironis",
+      "duration": 404.0,
+      "title": "One Piece: One Pieceson Reading: Ch 6!"
+    },
+    {
+      "id": "E1SPKv6QPS4",
+      "channel": "Mildly Read and Oddbarber",
+      "duration": 1840.0,
+      "title": "Vol. 6. The Oath. Podcast about One Piece manga. Sailing the Story."
+    },
+    {
+      "id": "_PLbUyTpG8Q",
+      "channel": "We Are! Reading One Piece",
+      "duration": 6809.0,
+      "title": "We Are! Reading One Piece Podcast Episode 6-Volume 6: The Oath"
+    },
+    {
+      "id": "aSH95phdz1s",
+      "channel": "dimsim3000",
+      "duration": 89.0,
+      "title": "My One Piece Manga Collection So Far..... 2"
+    }
+  ]
+}

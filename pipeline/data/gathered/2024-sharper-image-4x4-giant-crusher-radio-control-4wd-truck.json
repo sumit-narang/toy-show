@@ -1,0 +1,57 @@
+{
+  "id": "2024-sharper-image-4x4-giant-crusher-radio-control-4wd-truck",
+  "year": 2024,
+  "name": "Sharper Image 4x4 Giant Crusher Radio Control 4WD Truck",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-4x4-giant-crusher-radio-control-4wd-truck/p/235607"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-4x4-giant-crusher-radio-control-4wd-truck/p/235607",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qQC6EMo72LA",
+      "channel": "TTPM Toy Reviews",
+      "duration": 168.0,
+      "title": "4x4 Giant Crusher"
+    },
+    {
+      "id": "qE1oTr7kcrc",
+      "channel": "Yalla Toys Middle East Distribution",
+      "duration": 25.0,
+      "title": "Sharper Image 4x4 Giant Crusher RC Truck: Off-Road Adventure"
+    },
+    {
+      "id": "3UyN5yN3sxQ",
+      "channel": "Intersource ApS",
+      "duration": 41.0,
+      "title": "P001048   1212010071   Sharper Image Toy RC Giant Crusher 4x4"
+    },
+    {
+      "id": "4i4JwNYdDH8",
+      "channel": "Lekekassen.no",
+      "duration": 36.0,
+      "title": "Giant Crusher 4x4 RC-bil med store dekk og LED-lykter - 70 cm lang - 8 km/t - rekkevidde på 30 m"
+    },
+    {
+      "id": "-2RNh6zi86c",
+      "channel": "Salling Group Home & Leisure",
+      "duration": 41.0,
+      "title": "P001048   1212010071   Sharper Image Toy RC Giant Crusher 4x4"
+    }
+  ]
+}

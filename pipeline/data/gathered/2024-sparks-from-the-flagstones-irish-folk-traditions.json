@@ -1,0 +1,57 @@
+{
+  "id": "2024-sparks-from-the-flagstones-irish-folk-traditions",
+  "year": 2024,
+  "name": "Sparks from the Flagstones: Irish Folk Traditions",
+  "price_eur": 25.0,
+  "price_text": "€25",
+  "retailers": [
+    {
+      "name": "Charlie Byrne's",
+      "url": "https://charliebyrne.ie/product/sparks-from-the-flagstones-irish-folk-traditions-calendar-customs/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://charliebyrne.ie/product/sparks-from-the-flagstones-irish-folk-traditions-calendar-customs-edwina-guckian-illustrations-andrea-rossi-hardback-9781068625404/",
+      "title": "Sparks from the flagstones : Irish folk traditions & calendar customs – Charlie Byrne's Bookshop",
+      "description": "|",
+      "image": "https://charliebyrne.ie/wp-content/uploads/2025/10/F7IBPfhXgAIDyM4.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EA6rbAUITio",
+      "channel": "CR's Video Vaults",
+      "duration": 393.0,
+      "title": "Old Irish Cottages & Flagstones, Co. Clare, Ireland 1977"
+    },
+    {
+      "id": "I_n5H0mpG3c",
+      "channel": "Joseph Gibson",
+      "duration": 199.0,
+      "title": "Flagstones of Memories"
+    },
+    {
+      "id": "SdiOX1j4DOs",
+      "channel": "Naomh Pádraig Céilí Band - Topic",
+      "duration": 211.0,
+      "title": "Flagstone of Memories / Reel of Bogey / Boil the Breakfast Early Reels"
+    },
+    {
+      "id": "qEAhKUegnU4",
+      "channel": "WriterManFromMann",
+      "duration": 367.0,
+      "title": "The Ballad Of Michael Collins - Tara Shamrock (incl. Monologue and Lyrics)"
+    },
+    {
+      "id": "eqHc4GXrXgw",
+      "channel": "가을나그네",
+      "duration": 394.0,
+      "title": "Cherish The Ladies  -  The Green Fields of Canada (2007)  - Celtic, Country Music -"
+    }
+  ]
+}

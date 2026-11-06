@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-lucy-dinosaur",
+  "year": 2022,
+  "name": "The Lucy Dinosaur",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "02Yubc9_1q0",
+      "channel": "Christine Del Rosario",
+      "duration": 176.0,
+      "title": "Lucy the Dinosaur"
+    },
+    {
+      "id": "HK_GLTVYP4A",
+      "channel": "Fredbot",
+      "duration": 104.0,
+      "title": "The Lucy Dance | Fredbot Kids Songs (Lucy the Dinosaur)"
+    },
+    {
+      "id": "tp5c5EIYCJQ",
+      "channel": "Fredbot",
+      "duration": 119.0,
+      "title": "Jack and Jill | Fredbot Kids Songs (Lucy the Dinosaur)"
+    },
+    {
+      "id": "V1fDXwAcJ6E",
+      "channel": "Fredbot",
+      "duration": 108.0,
+      "title": "ABC Song | Fredbot Nursery Rhymes (Lucy the Dinosaur)"
+    },
+    {
+      "id": "bbueiaRaXrE",
+      "channel": "Fredbot",
+      "duration": 79.0,
+      "title": "Where's Lucy The Dinosaur? | Kinder Surprise Eggs!"
+    }
+  ]
+}

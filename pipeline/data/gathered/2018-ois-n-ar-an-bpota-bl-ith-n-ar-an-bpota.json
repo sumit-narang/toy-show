@@ -1,0 +1,33 @@
+{
+  "id": "2018-ois-n-ar-an-bpota-bl-ith-n-ar-an-bpota",
+  "year": 2018,
+  "name": "Oisín ar an bPota / Bláithín ar an bPota",
+  "price_eur": 7.5,
+  "price_text": "€7.50",
+  "retailers": [
+    {
+      "name": "siopa.ie",
+      "url": "http://www.siopa.ie"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopa.ie/",
+      "title": "Siopa.ie",
+      "description": "Réimse ollmhór leabhar Gaeilge le ceannach ar líne. Seachadadh sciobtha domhanda. Huge range of Irish language books available to buy online. Fast worldwide delivery.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "aY4pZlP6YtE",
+      "channel": "Booze & Glory / The Gamblers Official",
+      "duration": 222.0,
+      "title": "Booze & Glory - \"London SC\" - Official Video (HD)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-cars-3-lightening-mcqueen-rc-car",
+  "year": 2017,
+  "name": "Cars 3 Lightening McQueen RC Car",
+  "price_eur": 30.0,
+  "price_text": "€30.00",
+  "retailers": [
+    {
+      "name": "Disney Store Grafton Street",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yTEOqkdCysg",
+      "channel": "TTPM Toy Reviews",
+      "duration": 118.0,
+      "title": "Disney Pixar Cars 3 Infrared Remote Control Racing Hero Lightning McQueen from Thinkway Toys"
+    },
+    {
+      "id": "vhqUP6-cCn4",
+      "channel": "Piston Cup Productions",
+      "duration": 673.0,
+      "title": "2026 Animated Lightning McQueen RC Vehicle By Jada: Unboxing & Review — Is It Worth The Price? "
+    },
+    {
+      "id": "U7qGmd657zs",
+      "channel": "UNBOX BURRITO",
+      "duration": 865.0,
+      "title": "Sphero Cars Ultimate Lightning McQueen Unbox & Review (4K)"
+    },
+    {
+      "id": "ifVfKuR49XE",
+      "channel": "Toys Make Me Smile",
+      "duration": 314.0,
+      "title": "New Disney Cars 3 Lightning McQueen 6V Battery-Powered Ride On Test Drive Park Playtime"
+    },
+    {
+      "id": "zlhQHFwE7k8",
+      "channel": "Ryan's World",
+      "duration": 403.0,
+      "title": "Disney Cars 3 $40 Lightning McQueen vs $300 Lightning McQueen Remote Control Toy Cars"
+    }
+  ]
+}

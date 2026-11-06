@@ -1,0 +1,57 @@
+{
+  "id": "2019-narwhal-soft-toy",
+  "year": 2019,
+  "name": "Narwhal Soft Toy",
+  "price_eur": 19.0,
+  "price_text": "€19",
+  "retailers": [
+    {
+      "name": "Marks and Spencer Ireland",
+      "url": "https://www.marksandspencer.com/ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.marksandspencer.com/ie/",
+      "title": "Welcome to Marks & Spencer IE",
+      "description": "Welcome to the M&S IE website. Shop clothing, home, furniture, beauty, food, wine, flowers & gifts. Buy now for free delivery, store collections and returns.",
+      "image": "https://images.ctfassets.net/prxuf37q3ta2/4q135QYXPP18bPt1tw4OWp/ffd6d8c9985079696b5507f3f87f6c20/DESKTOP_TRIO_851X1130-1.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "r6_JBoMYg2w",
+      "channel": "Adam's Toyland",
+      "duration": 267.0,
+      "title": "Wild republic narwhal toy review"
+    },
+    {
+      "id": "pTis5enkCeE",
+      "channel": "Adam's Toyland",
+      "duration": 309.0,
+      "title": "Narwhal stuffed animal toy review"
+    },
+    {
+      "id": "OkqyGmjRdqc",
+      "channel": "OlyaSam",
+      "duration": 56.0,
+      "title": "Stuffed narwhal toy, babies soft toy, kids gift, kids toy, unique baby gift"
+    },
+    {
+      "id": "wl3kXayd1M8",
+      "channel": "GJS Channel",
+      "duration": 33.0,
+      "title": "Narwhal Plush Squishy With Colouring Book"
+    },
+    {
+      "id": "U0YAJ7BSL2I",
+      "channel": "What Do Toys Do?",
+      "duration": 104.0,
+      "title": "Fingerlings Hug Rachel Narwhal Pink Interactive Plush Soft Toy 2019 WowWee "
+    }
+  ]
+}

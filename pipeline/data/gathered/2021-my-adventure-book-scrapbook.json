@@ -1,0 +1,57 @@
+{
+  "id": "2021-my-adventure-book-scrapbook",
+  "year": 2021,
+  "name": "My Adventure Book Scrapbook",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.eu/disney-store-adventure-book-a4-replica-journal-up-466040955371.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.eu/adventure-book-a4-replica-journal-up-466040955371.html",
+      "title": "Adventure Book A4 Replica Journal, Up | Disney Store",
+      "description": "Adventure Book A4 Replica Journal, Up",
+      "image": "https://cdn.s7.shopdisney.eu/is/image/DisneyStoreES/466040955371"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xj-GDcnkcwU",
+      "channel": "Dezineaura",
+      "duration": 99.0,
+      "title": "Create & Cherish ❤️ Our Adventure Book Scrapbook Review | Travel & Memory Album"
+    },
+    {
+      "id": "HfqfEM_h0pQ",
+      "channel": "Mei-Ying Chow",
+      "duration": 682.0,
+      "title": "DIY HOW TO SCRAPBOOK ideas & inspiration"
+    },
+    {
+      "id": "uAc-PbzTgOY",
+      "channel": "La Laila",
+      "duration": 61.0,
+      "title": "Our Adventure Book 💕  Scrapbooking Inspiration & First Page Ideas"
+    },
+    {
+      "id": "MLLaU2ncMmI",
+      "channel": "Shana4Sure",
+      "duration": 886.0,
+      "title": "Pixar UP journal VS. scrapbook"
+    },
+    {
+      "id": "Cguqlr7LEps",
+      "channel": "Rosniza Jusoh",
+      "duration": 181.0,
+      "title": "MY ADVENTURE BOOK"
+    }
+  ]
+}

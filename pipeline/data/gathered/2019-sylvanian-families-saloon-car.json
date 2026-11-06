@@ -1,0 +1,57 @@
+{
+  "id": "2019-sylvanian-families-saloon-car",
+  "year": 2019,
+  "name": "Sylvanian Families Saloon Car",
+  "price_eur": 18.99,
+  "price_text": "€18.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-saloon-car/p/161103"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-saloon-car/p/161103",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YxXAmC7NGMk",
+      "channel": "Mansell",
+      "duration": 318.0,
+      "title": "Family Saloon Car Unboxing Review - Sylvanian Families"
+    },
+    {
+      "id": "0cZ7tZPOBeM",
+      "channel": "ellieV ",
+      "duration": 451.0,
+      "title": "Sylvanian Families Calico Critters Red Saloon Car and Caravan Set - Unboxing the Car - Kids Toys"
+    },
+    {
+      "id": "YSt-MUCMpNY",
+      "channel": "ellieV ",
+      "duration": 1009.0,
+      "title": "Sylvanian Families Calico Critters Campervan and Red Car Saloon Unboxing Review - Kids Toys"
+    },
+    {
+      "id": "tVAvxfkOUoU",
+      "channel": "Kids Learn Colors",
+      "duration": 220.0,
+      "title": "Sylvanian Families Carro Sedan Red Saloon Car and Caravan Set Unboxing the Car Kids Toys Family Car"
+    },
+    {
+      "id": "DO800oBFUrE",
+      "channel": "TOY GUMA",
+      "duration": 523.0,
+      "title": "Kids Toy play sets 실바니안 패밀리  Sylvanian Families Red Saloon Car and Caravan Set - Unboxing the Car"
+    }
+  ]
+}

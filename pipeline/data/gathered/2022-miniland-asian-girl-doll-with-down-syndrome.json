@@ -1,0 +1,57 @@
+{
+  "id": "2022-miniland-asian-girl-doll-with-down-syndrome",
+  "year": 2022,
+  "name": "Miniland Asian Girl Doll with Down Syndrome",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Little AngelRose",
+      "url": "https://www.littleangelrose.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.littleangelrose.com/",
+      "title": "Little AngelRose - Rattan Toys and Nursery Decor",
+      "description": "Children's products with an aesthetic appreciation for adults. Dolls, Doll clothes, Doll accessories, Doll Rattan Furniture, Nursery and Children room decoration. Eco-friendly and sustainable.",
+      "image": "http://www.littleangelrose.com/cdn/shop/files/socialsharing.jpg?v=1633103121"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "52eNyZP9VyY",
+      "channel": "TTPM Toy Reviews",
+      "duration": 69.0,
+      "title": "Miniland Dolls with Down Syndrome"
+    },
+    {
+      "id": "ZlbHRHQn6nU",
+      "channel": "Zofia's Sensory Spin",
+      "duration": 306.0,
+      "title": "Unboxing Miniland's Baby Doll With Down Syndrome For The FIRST TIME!! // PERFECT & UNIQUE Gift Idea!"
+    },
+    {
+      "id": "7fZtPji42Uo",
+      "channel": "Educative Games",
+      "duration": 57.0,
+      "title": "Испанские куклы Miniland"
+    },
+    {
+      "id": "CWuRnlGo2HM",
+      "channel": "Jack Wiliamson",
+      "duration": 191.0,
+      "title": "Dolls and Scientific Kit,Toys by Miniland"
+    },
+    {
+      "id": "CEOus4-TMbQ",
+      "channel": "Good Morning America",
+      "duration": 241.0,
+      "title": "1st look at Barbie doll with Down syndrome l GMA"
+    }
+  ]
+}

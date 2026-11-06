@@ -1,0 +1,57 @@
+{
+  "id": "2019-draught-set-with-irish-pennies",
+  "year": 2019,
+  "name": "Draught Set with Irish Pennies",
+  "price_eur": 100.0,
+  "price_text": "€100.00",
+  "retailers": [
+    {
+      "name": "O'Gowna",
+      "url": "https://ogowna.com/shop?olsPage=products%2Fdraughts-checkers-set-based-on-irish-pennies"
+    }
+  ],
+  "kind": "game",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://ogowna.com/shop?olsPage=products%2Fdraughts-checkers-set-based-on-irish-pennies",
+      "title": "ogowna",
+      "description": "Your name, carved in Ireland’s oldest script — a piece of heritage that lasts a lifetime",
+      "image": "https://img1.wsimg.com/isteam/ip/a13fca1e-da42-49ce-b732-060fc0b102a9/ols/DSC_1367.JPG"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AXnw_9bWJEY",
+      "channel": "Expensive Coins History",
+      "duration": 1597.0,
+      "title": "5 Most Valuable Irish Coins in History Find These Irish Coins You’re Sitting on Gold"
+    },
+    {
+      "id": "c2bEwZR7g1Y",
+      "channel": "Paddyhats",
+      "duration": 292.0,
+      "title": "Irish Way - The O'Reillys and the Paddyhats [Official Video]"
+    },
+    {
+      "id": "AmRnZVFvHro",
+      "channel": "Cute Little Heroes",
+      "duration": 3084.0,
+      "title": "Calming Classroom Music for Peaceful Learning | Focus Music for ADHD & Autism Support"
+    },
+    {
+      "id": "ybbc4EFNEJY",
+      "channel": "Misfit Minds",
+      "duration": 869.0,
+      "title": "Pouring Sh*t Beers in Ireland!"
+    },
+    {
+      "id": "4U60quup5TM",
+      "channel": "MrRozburn",
+      "duration": 207.0,
+      "title": "De Danann - The Broken Pledge, Jenny's Welcome To Charlie"
+    }
+  ]
+}

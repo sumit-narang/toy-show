@@ -1,0 +1,53 @@
+{
+  "id": "2017-party-rocker-max",
+  "year": 2017,
+  "name": "Party Rocker Max",
+  "price_eur": 329.99,
+  "price_text": "€329.99",
+  "retailers": [
+    {
+      "name": "bCool Gadget Store",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8kZnrTrYQxA",
+      "channel": "ReviewWithMatt",
+      "duration": 96.0,
+      "title": "Ion Party Rocker Max Bluetooth Stereo Review"
+    },
+    {
+      "id": "5yK4_7d6UBU",
+      "channel": "Pwinkle R",
+      "duration": 187.0,
+      "title": "ION Party Rocker Max (Rechargeable Bluetooth Speaker, 100W of Dynamic Power) Perfect For Karaoke"
+    },
+    {
+      "id": "McYV5nYU5I8",
+      "channel": "ION Audio",
+      "duration": 81.0,
+      "title": "Party Rocker Max | ION Audio"
+    },
+    {
+      "id": "QfS3MjvBiXc",
+      "channel": "ION Audio",
+      "duration": 50.0,
+      "title": "ION® Party Rocker™ Max - High-power portable Bluetooth speaker w/18 customizable party theme lights"
+    },
+    {
+      "id": "2cZSfeXixyA",
+      "channel": "ION Audio",
+      "duration": 30.0,
+      "title": "ION® Party Rocker Max -  Wireless Rechargeable Karaoke Speaker with Multi-Effect Party Lights"
+    }
+  ]
+}

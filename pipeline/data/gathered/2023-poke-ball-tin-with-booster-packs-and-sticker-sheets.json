@@ -1,0 +1,54 @@
+{
+  "id": "2023-poke-ball-tin-with-booster-packs-and-sticker-sheets",
+  "year": 2023,
+  "name": "Poke Ball Tin with Booster Packs and Sticker Sheets",
+  "price_eur": 22.0,
+  "price_text": "€22",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/poke-ball-poke-tin-series-9-toys"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/poke-ball-poke-tin-series-9-toys"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cNiop8ULrVE",
+      "channel": "TCG Rip Journey",
+      "duration": 197.0,
+      "title": "😱 This Poké Ball Tin Started With an INSANE Pull!"
+    },
+    {
+      "id": "J708bIYv4Kc",
+      "channel": "JediMasterJosh",
+      "duration": 718.0,
+      "title": "I Opened Each of The NEW Pokemon GO Pokeball Tins!"
+    },
+    {
+      "id": "xWCg3Ce896A",
+      "channel": "Jerry Trucks Around",
+      "duration": 897.0,
+      "title": "Poké Ball Tin Bundle Unboxing"
+    },
+    {
+      "id": "yMonoOW0qiY",
+      "channel": "PokeCardQuickies",
+      "duration": 593.0,
+      "title": "Opening Pokemon TCG Poke ball Tins!!"
+    },
+    {
+      "id": "9hgfx-1380E",
+      "channel": "The Cardboard Degenerate",
+      "duration": 327.0,
+      "title": "A ball vs ball battle! Ripping the new Pokemon TCG 2025 Pokeball Tin!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2020-dawes-lil-duchess-20-inch-bike-pink",
+  "year": 2020,
+  "name": "Dawes Lil Duchess 20 Inch Bike - Pink",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": null
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BeKHvCIpdKg",
+      "channel": "Glenn Kinning",
+      "duration": 47.0,
+      "title": "Dawes Duchess Royal Blue and Roses"
+    },
+    {
+      "id": "pAZ6I-LGmIE",
+      "channel": "Joystar Bikes",
+      "duration": 382.0,
+      "title": "The Assembly Guide of JOYSTAR Little Daisy Girls Bike"
+    },
+    {
+      "id": "6xuQaIoJlIo",
+      "channel": "Camden Cycles",
+      "duration": 51.0,
+      "title": "Dawes Bella 24-Inch Girls Heritage Bike"
+    },
+    {
+      "id": "8dyLDYmkf9g",
+      "channel": "OMA Bikes",
+      "duration": 36.0,
+      "title": "20\" PINNACLE CALIFORNIUM Aluminium Girls Town BIKE Kids Child Hybrid BICYCLE (5065)"
+    },
+    {
+      "id": "WMRT1NDHNts",
+      "channel": "ROYALBABY",
+      "duration": 275.0,
+      "title": "RoyalBaby Freestyle 85% pre-Assembly bike installation video"
+    }
+  ]
+}

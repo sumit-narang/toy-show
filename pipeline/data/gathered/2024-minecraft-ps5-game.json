@@ -1,0 +1,57 @@
+{
+  "id": "2024-minecraft-ps5-game",
+  "year": 2024,
+  "name": "Minecraft PS5 Game",
+  "price_eur": 29.99,
+  "price_text": "€29.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/minecraft-gaming/minecraft-ps5/p/242417"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/minecraft-gaming/minecraft-ps5/p/242417",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "-1Sy6iz43vg",
+      "channel": "Jozzah",
+      "duration": 376.0,
+      "title": "The ULTIMATE Beginner Guide to Minecraft (5 steps)"
+    },
+    {
+      "id": "gdeHmhCWR2I",
+      "channel": "Diamond man",
+      "duration": 270.0,
+      "title": "the ps5 version of minecraft is diabolically bad"
+    },
+    {
+      "id": "DA-SP1S9LFw",
+      "channel": "NeonSwordX",
+      "duration": 11840.0,
+      "title": "Ultimate Minecraft PS5 Pro Edition - FULL GAME Playthrough (4K 60fps)"
+    },
+    {
+      "id": "3jUcyyz-W5o",
+      "channel": "Forestplayz",
+      "duration": 1181.0,
+      "title": "Is Minecraft Bedrock Edition Good on PS5?"
+    },
+    {
+      "id": "Tbe5IKp57Uo",
+      "channel": "Danvacraft",
+      "duration": 21693.0,
+      "title": "Minecraft PS5 Edition - FULL GAME Playthrough (4K 60FPS) - No Commentary"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-mo-chuid-uirlis-ceoil-my-musical-instruments",
+  "year": 2025,
+  "name": "Mo Chuid Uirlisí Ceoil (My Musical Instruments)",
+  "price_eur": 12.95,
+  "price_text": "€12.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/mo-chuid-uirlisi-ceoil"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/mo-chuid-uirlisi-ceoil"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q-Ljg5zLILc",
+      "channel": "My Irish Books",
+      "duration": 131.0,
+      "title": "Mo Chuid Uirlisí Ceoil by My Irish Books"
+    },
+    {
+      "id": "EQcf9TNa0dU",
+      "channel": "MUSIC-AND-SONGS",
+      "duration": 226.0,
+      "title": "This Song Will Take You to Scotland | Celtic Music | Violin, flute, bagpipes & orchestra"
+    },
+    {
+      "id": "CkudJfsEKwY",
+      "channel": "Dream Dive",
+      "duration": 924.0,
+      "title": "Musical Instruments Around the World 🌎🎵 AI ASMR Compilation (65 Countries)"
+    },
+    {
+      "id": "NZ8ZkvYyXKw",
+      "channel": "Daily Japanese Talks",
+      "duration": 1781.0,
+      "title": "30 Minutes of Easy Japanese Conversations | Learn Japanese for Beginners (N5-N4) 🗣️"
+    },
+    {
+      "id": "JMUB_VyhdHc",
+      "channel": "Classical Mastermind",
+      "duration": 18018.0,
+      "title": "You Will Become as Intelligent as Einstein by Mozart Effect | Classical Music for Brain Power"
+    }
+  ]
+}

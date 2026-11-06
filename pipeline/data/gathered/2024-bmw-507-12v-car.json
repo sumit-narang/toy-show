@@ -1,0 +1,54 @@
+{
+  "id": "2024-bmw-507-12v-car",
+  "year": 2024,
+  "name": "BMW 507 12V Car",
+  "price_eur": 385.0,
+  "price_text": "€385",
+  "retailers": [
+    {
+      "name": "Hennessy Outdoors",
+      "url": "https://hennessyoutdoors.ie/product/kids-ride-on-licensed-bmw-507-12v-car/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://hennessyoutdoors.ie/product/kids-ride-on-licensed-bmw-507-12v-car/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "HU_hHNt-JMw",
+      "channel": "NA",
+      "duration": 126.0,
+      "title": "BMW 507 Classic  Licensed 12v Battery Electric Ride On Car For Kids with Parental Remote Control"
+    },
+    {
+      "id": "4puW_fJsKno",
+      "channel": "NA",
+      "duration": 611.0,
+      "title": "Unboxing, Assembling and Testing of new BMW 507 License Ride On Car - Electric car for Kids"
+    },
+    {
+      "id": "IFnmKJFZixM",
+      "channel": "NA",
+      "duration": 244.0,
+      "title": "BMW 507 Classic  Licensed 12v Battery Electric Ride On Car For Kids with Parental Remote Control"
+    },
+    {
+      "id": "8svvbA92s-s",
+      "channel": "NA",
+      "duration": 67.0,
+      "title": "BMW 507 Oldtimer Voiture Électrique Enfant 12 Volts"
+    },
+    {
+      "id": "Wnhovl6WVbw",
+      "channel": "NA",
+      "duration": 133.0,
+      "title": "BMW 507 Classic Licensed 12v Kids Electric Ride On Car Assembly Instructions"
+    }
+  ]
+}

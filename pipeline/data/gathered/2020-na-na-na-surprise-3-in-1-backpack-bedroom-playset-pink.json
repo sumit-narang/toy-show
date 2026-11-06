@@ -1,0 +1,54 @@
+{
+  "id": "2020-na-na-na-surprise-3-in-1-backpack-bedroom-playset-pink",
+  "year": 2020,
+  "name": "Na! Na! Na! Surprise 3-in-1 Backpack Bedroom Playset - Pink",
+  "price_eur": 55.0,
+  "price_text": "€55.00",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/na-na-na-surprise-3-in-1-backpack-bedroom-playset-pink/1600494391.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/na-na-na-surprise-3-in-1-backpack-bedroom-playset-pink/1600494391.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cSm87lrrYQA",
+      "channel": "Na! Na! Na! Surprise!",
+      "duration": 31.0,
+      "title": "FUZZY BACKPACK BEDROOM SURPRISE! | Na! Na! Na! Surprise"
+    },
+    {
+      "id": "5XNEQc4xsxI",
+      "channel": "TTPM Toy Reviews",
+      "duration": 100.0,
+      "title": "Na! Na! Na! Surprise 3-in-1 Backpack Bedroom from MGA Entertainment"
+    },
+    {
+      "id": "BdjRK9AcabY",
+      "channel": "My World",
+      "duration": 1477.0,
+      "title": "NEW NaNaNa Surprise Jaguar Doll 3 in 1 Backpack Doll and Bedroom Playset Review"
+    },
+    {
+      "id": "HwiNdilFMyA",
+      "channel": "Tallie's Tricks",
+      "duration": 457.0,
+      "title": "Na Na Na Surprise Backpack Bedroom Sarah Snuggles"
+    },
+    {
+      "id": "apQt64vZ2tc",
+      "channel": "juguetes de colores",
+      "duration": 65.0,
+      "title": "Na! Na! Na! Surprise 3-in-1 Backpack Bedroom Pink Bunny Playset with Limited Edition Doll"
+    }
+  ]
+}

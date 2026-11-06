@@ -1,0 +1,57 @@
+{
+  "id": "2025-minecraft-blast-attack-ghast-feature-figure",
+  "year": 2025,
+  "name": "Minecraft Blast Attack Ghast Feature Figure",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-playset-blast-attack-ghast/p/245736"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minecraft/minecraft-movie-playset-blast-attack-ghast/p/245736",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yWl1RZ7yIqk",
+      "channel": "True Toys",
+      "duration": 31.0,
+      "title": "Minecraft Blast Attack Ghast Feature"
+    },
+    {
+      "id": "KuJ50UqX974",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "MINECRAFT Blast Attack Ghast | AD"
+    },
+    {
+      "id": "wk3C9VFPxIk",
+      "channel": "Mattel",
+      "duration": 21.0,
+      "title": "MINECRAFT Blast Attack Ghast | AD"
+    },
+    {
+      "id": "3qn3eFNZE7Y",
+      "channel": "Rayyans Universe ",
+      "duration": 239.0,
+      "title": "Minecraft Movie - Blast Attack Ghast Toy"
+    },
+    {
+      "id": "SN45jaZWMnU",
+      "channel": "JJ Toys Review",
+      "duration": 1089.0,
+      "title": "Unboxing ALL the MINECRAFT MOVIE TOYS!  Steve, Dennis The Wolf, Creeper, Blast Attack Ghast"
+    }
+  ]
+}

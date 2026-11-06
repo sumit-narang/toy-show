@@ -1,0 +1,57 @@
+{
+  "id": "2022-living-nature-brown-bear",
+  "year": 2022,
+  "name": "Living Nature Brown Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "q3cnACjek_s",
+      "channel": "Kara and Nate",
+      "duration": 2616.0,
+      "title": "4 Days Camping with Wild Brown Bears in Alaska"
+    },
+    {
+      "id": "J184FmCiuLk",
+      "channel": "Beastly",
+      "duration": 306.0,
+      "title": "Our Big Bear Family"
+    },
+    {
+      "id": "aAfXsxLSblM",
+      "channel": "BBC Earth",
+      "duration": 2767.0,
+      "title": "Inside the World of Bears | BBC Earth"
+    },
+    {
+      "id": "9fm3N-EFvo0",
+      "channel": "BBC Earth",
+      "duration": 2194.0,
+      "title": "The World of Bears - Giants of the Wild | BBC Earth"
+    },
+    {
+      "id": "C4KJXwK3Ghk",
+      "channel": "BBC Earth",
+      "duration": 245.0,
+      "title": "Humans Living Alongside Brown Bears | 4KUHD | Japan: Earth's Enchanted Islands | BBC Earth"
+    }
+  ]
+}

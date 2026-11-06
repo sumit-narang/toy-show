@@ -1,0 +1,54 @@
+{
+  "id": "2018-mega-baff-pack",
+  "year": 2018,
+  "name": "Mega Baff Pack",
+  "price_eur": 4.99,
+  "price_text": "from €4.99",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "http://Amazon.co.uk"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 202,
+      "final_url": "https://www.amazon.co.uk/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "kAjYY8--g8Y",
+      "channel": "JBT",
+      "duration": 296.0,
+      "title": "12 Use Mega Baff Pack"
+    },
+    {
+      "id": "CQzawjisOmQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 139.0,
+      "title": "Glitter Gelli Baff, Colour Change Gelli Baff, and MEGA Baff Pack from Zimpli Kids"
+    },
+    {
+      "id": "O8dWk5UPuhM",
+      "channel": "Zimpli Kids",
+      "duration": 27.0,
+      "title": "Zimpli's Special Effect Baff Bombz"
+    },
+    {
+      "id": "44YiQvC6F24",
+      "channel": "True Toys",
+      "duration": 9.0,
+      "title": "Zimpli  Baff Bombz Mega Pack"
+    },
+    {
+      "id": "nbKrguXmZjE",
+      "channel": "Sam Bee",
+      "duration": 128.0,
+      "title": "Gelli Baff (Red) and adding Crackle Baff to the Gelli"
+    }
+  ]
+}

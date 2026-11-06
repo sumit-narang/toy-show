@@ -1,0 +1,54 @@
+{
+  "id": "2019-mercedes-benz-actros-heavy-truck",
+  "year": 2019,
+  "name": "Mercedes Benz Actros Heavy Truck",
+  "price_eur": 399.99,
+  "price_text": "€399.99",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://www.funstuff.ie/licensed-mercedes-benz-actros-heavy-truck-12v-kids-ride-on-artic-black/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.funstuff.ie/licensed-mercedes-benz-actros-heavy-truck-12v-kids-ride-on-artic-black/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "mRcRtmG0Zy4",
+      "channel": "carwow",
+      "duration": 961.0,
+      "title": "Mercedes Actros vs Scania R500 - DRAG RACE  & 44 Ton BRAKE TEST!"
+    },
+    {
+      "id": "vSWJnhTGGSY",
+      "channel": "carwow",
+      "duration": 819.0,
+      "title": "This is the MOST luxurious truck EVER!"
+    },
+    {
+      "id": "R_bIfdqCWRk",
+      "channel": "YOUCAR",
+      "duration": 601.0,
+      "title": "Mercedes-Benz Actros HIGH-TECH Truck"
+    },
+    {
+      "id": "8pGm9D_76x4",
+      "channel": "Mercedes-Benz Trucks",
+      "duration": 51.0,
+      "title": "TruckLive for the Actros L with ProCabin | Mercedes-Benz Trucks"
+    },
+    {
+      "id": "cVKAjbkA2RM",
+      "channel": "Carztech",
+      "duration": 65.0,
+      "title": "Mercedes-Benz Actros-2663 | Super Flagship Big-Truck 6x4 | CARZTECH"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2023-little-tikes-cozy-coupe",
+  "year": 2023,
+  "name": "Little Tikes Cozy Coupe",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/pedal-cars/little-tikes-cozy-coupe-classic-assortment/p/102538"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/pedal-cars/little-tikes-cozy-coupe-classic-assortment/p/102538",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Sh6jcW9Hc2A",
+      "channel": "Little Tikes",
+      "duration": 710.0,
+      "title": "Cozy Coupe® | Assembly Instructions | Little Tikes"
+    },
+    {
+      "id": "Gs5r8iGPjSg",
+      "channel": "Auto Focus",
+      "duration": 314.0,
+      "title": "Little Tikes Cozy Coupe Review"
+    },
+    {
+      "id": "mII6ZCRXeIc",
+      "channel": "Little Tikes",
+      "duration": 879.0,
+      "title": "Cozy Coupe® 30th Anniversary Edition | Assembly Instructions | Little Tikes"
+    },
+    {
+      "id": "CioZm3seCXI",
+      "channel": "FP Driving",
+      "duration": 291.0,
+      "title": "2024 Little Tikes Cozy Coupe - POV TEST DRIVE"
+    },
+    {
+      "id": "QJnv0_rj7nU",
+      "channel": "TheTopher",
+      "duration": 267.0,
+      "title": "2023 Little Tikes Cozy Coupe (T-Rex Edition) - POV Driving Impressions"
+    }
+  ]
+}

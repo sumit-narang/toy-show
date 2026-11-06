@@ -1,0 +1,57 @@
+{
+  "id": "2023-pokemon-sleeping-charmander",
+  "year": 2023,
+  "name": "Pokemon Sleeping Charmander",
+  "price_eur": 46.99,
+  "price_text": "€46.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/sleeping-charmander-pokemon-46cm-plush/p/195587"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/sleeping-charmander-pokemon-46cm-plush/p/195587",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rvA1Vb888U8",
+      "channel": "Abraxas Arcadia",
+      "duration": 36001.0,
+      "title": "Charmander Sleeps by Crackling Campfire to some Calming Nature Music | おやすみ | Pokemon | 10 Hour Mix"
+    },
+    {
+      "id": "OOCE20QWclY",
+      "channel": "Rexy Bedtime",
+      "duration": 526.0,
+      "title": "Pikachu and Charmander's Fiery Hiccups | Pokémon Bedtime Story for Kids | Calming Sleep Story"
+    },
+    {
+      "id": "IlZpZsPKm40",
+      "channel": "12 Hour Videos",
+      "duration": 43200.0,
+      "title": "Pokémon Charmander's Fireside Slumber ASMR・焚き火音 - ヒトカゲといっしょ  [12 Hours]"
+    },
+    {
+      "id": "WbQAT2JS174",
+      "channel": "Night Train Vibes",
+      "duration": 30587.0,
+      "title": "🔥 Charmander Sweet Dreams | Pokémon Kids Sleep Music 🌙✨ Bedtime Lullabies"
+    },
+    {
+      "id": "vqRRMoKgU-A",
+      "channel": "Paws & Dreams",
+      "duration": null,
+      "title": "Sleep Instantly with Pokemon Friends 💤 Deep Sleep Music & Relaxing Night Sounds"
+    }
+  ]
+}

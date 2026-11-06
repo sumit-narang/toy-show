@@ -1,0 +1,44 @@
+{
+  "id": "2022-isadora-moon-under-the-sea-harriet-muncaster",
+  "year": 2022,
+  "name": "Isadora Moon: Under the Sea - Harriet Muncaster",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "MuC_3R2z7yg",
+      "channel": "Google Play Books",
+      "duration": 346.0,
+      "title": "Isadora Moon under the Sea by Harriet Muncaster · Audiobook preview"
+    },
+    {
+      "id": "uBRVPGXveLA",
+      "channel": "Books 4 People",
+      "duration": 37.0,
+      "title": "Harriet Muncaster Isadora Moon Series 2 Collection 6 Books Set"
+    },
+    {
+      "id": "pXjk5F-XIbs",
+      "channel": "Oxford Education",
+      "duration": 135.0,
+      "title": "Harriet Muncaster, creator of the Isadora Moon series, shares her top five storywriting tips"
+    },
+    {
+      "id": "vxAGpcrGBPc",
+      "channel": "Free Audiobook",
+      "duration": 300.0,
+      "title": "Isadora Moon Under the Sea Audiobook by Harriet Muncaster"
+    },
+    {
+      "id": "8OgDNhCPPE0",
+      "channel": "Lowplex Books",
+      "duration": 44.0,
+      "title": "Victoria Stitch Series by Harriet Muncaster - Book Unboxing"
+    }
+  ]
+}

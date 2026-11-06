@@ -1,0 +1,60 @@
+{
+  "id": "2025-jonty-gentoo-by-julia-donaldson",
+  "year": 2025,
+  "name": "Jonty Gentoo by Julia Donaldson",
+  "price_eur": 9.49,
+  "price_text": "€9.49",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/jonty-gentoo-julia-donaldson-9780702329432?msclkid=16539c1b3e0c1b709b2df53658e42b64&utm_source=bing&utm_medium=cpc&utm_campaign=Products%20-%20Books%20McKee%20Top%20Sellers%20101%20-%2010000&utm_term=jonty%20gentoo%20julia%20donaldson&utm_content=Jonty%20Gentoo%20-%209780702329432%20-%20BM"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/jonty-gentoo-julia-donaldson-9780702329432?msclkid=16539c1b3e0c1b709b2df53658e42b64&utm_source=bing&utm_medium=cpc&utm_campaign=Products%20-%20Books%20McKee%20Top%20Sellers%20101%20-%2010000&utm_term=jonty%20gentoo%20julia%20donaldson&utm_content=Jonty%20Gentoo%20-%209780702329432%20-%20BM",
+      "title": "Jonty Gentoo: The Adventures Of A Penguin",
+      "description": "Delight in Julia Donaldson’s charming new children’s story Jonty Gentoo perfect for bedtime reading. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "Winner of the 2025 British Book Award for\n      Book of the Year: Children's Illustrated\n\n      \"Gorgeous ... it has a lovely message about finding\n      your place in the world.\" - Good Housekeeping Magazine\n\n      \"A captivating story written in rhyme so perfect that\n      reading it as a bedtime story is a breeze. It's an instant classic.\"\n      - The I\n      \"Julia Donaldson and Axel Scheffler are the Lennon\n      and McCartney of children's publishing.\"- Sunday Times\n\n      Join a plucky little penguin on the journey of a lifetime,\n      in this fabulous new picture book from superstar author and\n      illustrator Julia Donaldson and Axel Scheffler.\n      Jonty the little gentoo penguin longs to find his true\n      home at the South Pole. \n      One night, he sneaks out of the zoo and sets off on an amazing\n      adventure, all the way to Antarctica\n      (with an accidental detour to the North Pole!)\n      Children will be cheering Jonty on as he finally finds his way,\n      in this captivating story of bravery, friendship, and finding your\n      place in the world.\n      \n       Jonty Gentoo is an official UK Number One Children's\n      Bestseller (17 Sept 2024) \n      Perfect read-aloud rhyming text and stunning pictures on every\n      page\n      Fantastic illustrations of the natural world, with lots of details\n      to spot, including seals, polar bears . . . and lots and lots\n      of penguins!\n      This hardback edition comes with a beautifully foiled dust jacket",
+      "brand": "Alison Green Books",
+      "ld_image": "https://www.easons.com/images/asset/fb5e6886-b4b6-4fd7-bdb0-2c576c2275c5/9780702329432_5642631197.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UWtTalB-zPU",
+      "channel": "MovingStories",
+      "duration": 388.0,
+      "title": "🐧 Jonty Gentoo by Julia Donaldson - Animated and Read Aloud for Kids!"
+    },
+    {
+      "id": "8YMJ3qjdDHk",
+      "channel": "Read Aloud Edu",
+      "duration": 691.0,
+      "title": "JONTY GENTOO | THE ADVENTURE OF A PENGUIN | IRRESISTIBLY FUN JOURNEY! | #readaloud #esl"
+    },
+    {
+      "id": "so7fBpmtD4U",
+      "channel": "Snuggle Bug Stories",
+      "duration": 329.0,
+      "title": "Jonty Gentoo | Julia Donaldson New Book | Axel Scheffler | Learn about Penguins | Read Aloud"
+    },
+    {
+      "id": "IAuCM6rKrC4",
+      "channel": "Kids Storytime & Peppa Pig Books Read Aloud",
+      "duration": 283.0,
+      "title": "Jonty Gentoo story book read aloud - The Adventures of a Penguin, Julia Donaldson Axel Scheffler"
+    },
+    {
+      "id": "sLOKEHUmiXA",
+      "channel": "Let's Read Books",
+      "duration": 242.0,
+      "title": "Jonty Gentoo - Read Aloud"
+    }
+  ]
+}

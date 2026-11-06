@@ -1,0 +1,57 @@
+{
+  "id": "2024-bitzee-disney-interactive-digital-pet",
+  "year": 2024,
+  "name": "Bitzee Disney Interactive Digital Pet",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/bitzee-disney-interactive-digital-pet/p/236797"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/bitzee-disney-interactive-digital-pet/p/236797",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3yC_cWM3LH4",
+      "channel": "Jill Grygas",
+      "duration": 661.0,
+      "title": "Getting Started with Disney Bitzee Virtual Pet – Setup & Gameplay Guide!"
+    },
+    {
+      "id": "yJXE8EiJgA0",
+      "channel": "Spin Toys for Kids",
+      "duration": 689.0,
+      "title": "How to play with NEW BITZEE featuring DISNEY Characters!"
+    },
+    {
+      "id": "6P4Q3D8__Xw",
+      "channel": "Spin Toys for Kids",
+      "duration": 164.0,
+      "title": "How to attract all 30 BITZEE featuring DISNEY characters!"
+    },
+    {
+      "id": "vgcZiEC2pTI",
+      "channel": "Toy Time Together",
+      "duration": 1209.0,
+      "title": "Bitzee Disney Interactive Digital Pet Unboxing & Playthrough"
+    },
+    {
+      "id": "ouxT9iCmQnI",
+      "channel": "Hatchimals",
+      "duration": 900.0,
+      "title": "How to play with BITZEE!"
+    }
+  ]
+}

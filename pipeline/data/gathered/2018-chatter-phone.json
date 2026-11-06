@@ -1,0 +1,64 @@
+{
+  "id": "2018-chatter-phone",
+  "year": 2018,
+  "name": "Chatter Phone",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "N4ty2-8R9hU",
+      "channel": "Pixar",
+      "duration": 45.0,
+      "title": "Chatter Phone Tipline: A113"
+    },
+    {
+      "id": "vKCOmvYObc8",
+      "channel": "CircuitMess Learning Hub - Tutorials & Guides",
+      "duration": 68.0,
+      "title": "Chatter 2.0 - Build & code your own walkie-talkies for texting"
+    },
+    {
+      "id": "rpxT7LDEhUY",
+      "channel": "Calvin Jacks (Original)",
+      "duration": 13.0,
+      "title": "Fisher Price Ad - Chatter Telephone (1978 France)"
+    },
+    {
+      "id": "du3U3Rk4JJk",
+      "channel": "The Toy Story Fan",
+      "duration": 38.0,
+      "title": "Chatter Phone Tipline - Sid Cameo {720p HD]"
+    },
+    {
+      "id": "GPflBN49f6c",
+      "channel": "TodayIGrewUP",
+      "duration": 556.0,
+      "title": "Toy Story Chatter Phone Review and Comparison"
+    }
+  ]
+}

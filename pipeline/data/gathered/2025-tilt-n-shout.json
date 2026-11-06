@@ -1,0 +1,54 @@
+{
+  "id": "2025-tilt-n-shout",
+  "year": 2025,
+  "name": "Tilt N Shout",
+  "price_eur": 29.95,
+  "price_text": "€29.95",
+  "retailers": [
+    {
+      "name": "Cogs Toys & Games",
+      "url": "https://www.cogstoysandgames.ie/products/tilt-n-shout"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://www.cogstoysandgames.ie/products/tilt-n-shout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_mfC153_SX8",
+      "channel": "Big Potato Games",
+      "duration": 151.0,
+      "title": "How to Play Tilt 'n' Shout: A shouty-outy category game"
+    },
+    {
+      "id": "-GAmgb0VYYo",
+      "channel": "Smosh Games",
+      "duration": 2395.0,
+      "title": "Thinking FAST (but not well)"
+    },
+    {
+      "id": "9FI-Y_mcfOE",
+      "channel": "The Dice Tower",
+      "duration": 187.0,
+      "title": "Tilt N Shout Review: Quick Take with Tom Vasel"
+    },
+    {
+      "id": "sa9OUSY-tyM",
+      "channel": "Game Rules",
+      "duration": 336.0,
+      "title": "Learn to Play Tilt N Shout - Yell Out Answers Fast in this Party Game"
+    },
+    {
+      "id": "XKz437Z6U2E",
+      "channel": "TTPM Toy Reviews",
+      "duration": 115.0,
+      "title": "How to Play Tilt 'N' Shout!"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-barbie-astronaut-and-space-scientist",
+  "year": 2017,
+  "name": "Barbie Astronaut and Space Scientist",
+  "price_eur": null,
+  "price_text": "$19.99",
+  "retailers": [
+    {
+      "name": "Mattel",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vWTswIFcwV0",
+      "channel": "Izzy’s Learning Time",
+      "duration": 365.0,
+      "title": "Space Scientist and Astronaut Barbie Unboxing"
+    },
+    {
+      "id": "GitHQnhACYs",
+      "channel": "Monkey Cookie",
+      "duration": 826.0,
+      "title": "Barbie | Astronaut and Space Scientist"
+    },
+    {
+      "id": "CV8oK9eRaco",
+      "channel": "About A Mom",
+      "duration": 11.0,
+      "title": "Barbie Career Dolls Inspiring Girls"
+    },
+    {
+      "id": "_iB2VybdbbI",
+      "channel": "The Weather Channel",
+      "duration": 54.0,
+      "title": "Barbie Takes on Space!"
+    },
+    {
+      "id": "ytxilwbidiM",
+      "channel": "Sallyheartsjack80",
+      "duration": 477.0,
+      "title": "Barbie “Scientist” Doll Review✨"
+    }
+  ]
+}

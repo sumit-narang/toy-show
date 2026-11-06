@@ -1,0 +1,57 @@
+{
+  "id": "2025-so-slime-diy-fluffy-slime-ice-cream-factory-set",
+  "year": 2025,
+  "name": "So Slime DIY Fluffy Slime Ice Cream Factory Set",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/slime-and-putty/so-slime-diy-fluffy-slime-ice-cream-factory-set/p/233246"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/slime-and-putty/so-slime-diy-fluffy-slime-ice-cream-factory-set/p/233246",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "1UyifVv40eE",
+      "channel": "Easy recipes & health and beauty",
+      "duration": 364.0,
+      "title": "So Slime DIY Ice Cream Factory unboxing and using review best gift"
+    },
+    {
+      "id": "iOe0XsJvlLw",
+      "channel": "Hunter Leisure",
+      "duration": 60.0,
+      "title": "So Slime D.I.Y. Slimelicious Tutorial"
+    },
+    {
+      "id": "xtv6zcB1FBM",
+      "channel": "Canal Toys",
+      "duration": 68.0,
+      "title": "HOW TO VIDEO | Créé ton propre pot de glace en Slime  - So Slime - @CanalToys"
+    },
+    {
+      "id": "Mw5r5GD0P_E",
+      "channel": "SoCraftastic",
+      "duration": 770.0,
+      "title": "Testing ICE CREAM SLIME Craft Kit from Amazon // Best-Seller!?"
+    },
+    {
+      "id": "IFoj43NJe2s",
+      "channel": "Maisies Toy World",
+      "duration": 487.0,
+      "title": "SO SLIME DIY SLIMELICIOUS VANITY CASE"
+    }
+  ]
+}

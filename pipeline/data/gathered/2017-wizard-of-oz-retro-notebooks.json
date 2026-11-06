@@ -1,0 +1,53 @@
+{
+  "id": "2017-wizard-of-oz-retro-notebooks",
+  "year": 2017,
+  "name": "Wizard of Oz Retro Notebooks",
+  "price_eur": 6.35,
+  "price_text": "€6.35",
+  "retailers": [
+    {
+      "name": "Tales",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7ClJ0A61BNk",
+      "channel": "Melanie Sullivan",
+      "duration": 598.0,
+      "title": "Wizard of Oz Junk Journal Flip-Through"
+    },
+    {
+      "id": "RRlrk5jbhbE",
+      "channel": "PlumFiggy",
+      "duration": 844.0,
+      "title": "Wizard of Oz Junk Journal - Sold, Thank You!"
+    },
+    {
+      "id": "3-iwEL2nZC4",
+      "channel": "Debbie-Anne | Ephemera's Vintage Garden",
+      "duration": 306.0,
+      "title": "Wizard Of Oz - Vintage Junk Journal (SOLD)"
+    },
+    {
+      "id": "7ZK8iVxOHAI",
+      "channel": "Emily Designs",
+      "duration": 183.0,
+      "title": "Vintage Oz Scrapbook Kit Flip Through 🦁🧙‍♂️ #junkjournal #scrapbook #ephemera #vintage #emilydesigns"
+    },
+    {
+      "id": "nV3MgRhWMTw",
+      "channel": "ideastimestwo",
+      "duration": 1070.0,
+      "title": "Vintage Wizard of Oz Junk Journal Share"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-our-generation-hair-play-doll-phoebe",
+  "year": 2017,
+  "name": "Our Generation Hair Play Doll Phoebe",
+  "price_eur": 39.99,
+  "price_text": "€39.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SL0xD31jbes",
+      "channel": "NettiezDolls",
+      "duration": 582.0,
+      "title": "Our Generation Doll - Phoebe @nettiezdolls6742"
+    },
+    {
+      "id": "9ShGAlkE3Eo",
+      "channel": "sew4dolls",
+      "duration": 227.0,
+      "title": "Our Generation Doll Hair Play Phoebe"
+    },
+    {
+      "id": "fy_IdrsRkI8",
+      "channel": "GirlsTToyZZ",
+      "duration": 350.0,
+      "title": "Hairstyles for a Phoebe doll. Toys for Girls."
+    },
+    {
+      "id": "RslZR8OW9kA",
+      "channel": "Moustakastoys",
+      "duration": 14.0,
+      "title": "Our Generation Κούκλα Phoebe Hair Grow (BD31028Z)"
+    },
+    {
+      "id": "TiupPtPm9II",
+      "channel": "Jouet KID Toy",
+      "duration": 28.0,
+      "title": "OG Poupée Phoebe"
+    }
+  ]
+}

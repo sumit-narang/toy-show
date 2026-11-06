@@ -1,0 +1,54 @@
+{
+  "id": "2019-the-snow-queen",
+  "year": 2019,
+  "name": "The Snow Queen",
+  "price_eur": 10.5,
+  "price_text": "€10.50",
+  "retailers": [
+    {
+      "name": "Tales for Tadpoles",
+      "url": "https://talesfortadpoles.ie/products/hans-christian-andersen-the-snow-queen-illustrated-by-p-j-lynch"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://talesfortadpoles.ie/products/hans-christian-andersen-the-snow-queen-illustrated-by-p-j-lynch"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "FBQzt5r06Ig",
+      "channel": "English Fairy Tales",
+      "duration": 740.0,
+      "title": "The Snow Queen in English | Stories for Teenagers | @EnglishFairyTales"
+    },
+    {
+      "id": "-Rkb88fPMd8",
+      "channel": "Fairy Tales and Stories for Kids",
+      "duration": 912.0,
+      "title": "Snow Queen | Fairy Tales and Bedtime Stories for Kids | Princess Story"
+    },
+    {
+      "id": "xzmkBQAHp5Q",
+      "channel": "T-Series Kids Hut",
+      "duration": 785.0,
+      "title": "THE SNOW QUEEN Bedtime Story and Fairy Tales For Kids || Animated Story"
+    },
+    {
+      "id": "NDOskZdJN24",
+      "channel": "Bedtime Story (BedtimeStory.TV)",
+      "duration": 764.0,
+      "title": "The Snow Queen - Bedtime Story (BedtimeStory.TV)"
+    },
+    {
+      "id": "q4Vj7rSHK2s",
+      "channel": "English Singsing",
+      "duration": 928.0,
+      "title": "The Snow Queen - Fairy tale - English Stories (Reading Books)"
+    }
+  ]
+}

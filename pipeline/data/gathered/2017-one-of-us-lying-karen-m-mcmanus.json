@@ -1,0 +1,53 @@
+{
+  "id": "2017-one-of-us-lying-karen-m-mcmanus",
+  "year": 2017,
+  "name": "One of Us Lying Karen M. McManus",
+  "price_eur": 11.2,
+  "price_text": "€11.20",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": null
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "R-P-TKy8PCc",
+      "channel": "Bookimo ",
+      "duration": 912.0,
+      "title": "One Of Us Is LYING | Animated Summary"
+    },
+    {
+      "id": "TWVMBfMpFiU",
+      "channel": "Peacock",
+      "duration": 128.0,
+      "title": "One of Us Is Lying | Official Trailer | Peacock Original"
+    },
+    {
+      "id": "E27NdMYA7Ig",
+      "channel": "Ayesha Syed",
+      "duration": 327.0,
+      "title": "One of Us is Lying by Karen McManus | Book Review | Murder Mystery | Young Adult | Ayesha Syed"
+    },
+    {
+      "id": "KmeAXnU7QdY",
+      "channel": "The Fun Size Reader",
+      "duration": 434.0,
+      "title": "One of Us Is Lying by Karen McManus Book and Show Review SPOILER FREE"
+    },
+    {
+      "id": "6KBe3OxdEmE",
+      "channel": "Audiobook Summaries",
+      "duration": 121.0,
+      "title": "One of Us Is Lying Series Paperback Boxed Set by Karen M. McManus [Full Audiobook Free]"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2020-rebel-girls-100-piece-jigsaw-puzzle",
+  "year": 2020,
+  "name": "Rebel Girls 100 Piece Jigsaw Puzzle",
+  "price_eur": null,
+  "price_text": "£10.50",
+  "retailers": [
+    {
+      "name": "Gibsons Games",
+      "url": "https://gibsonsgames.co.uk/collections/all/products/rebel-girls-100-piece-puzzle"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://gibsonsgames.co.uk/collections/all-puzzles",
+      "title": "Jigsaw Puzzles for Adults & Children",
+      "description": "Shop our range of jigsaw puzzles for adults and children, with varying difficulty levels and designs, to give all ages hours of fun!",
+      "image": "https://cdn.shopify.com/s/files/1/0039/8491/6589/collections/1000_Piece_Banner_949003c5-5520-4b02-8be6-67f7600f173b.jpg?v=1568795608"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "qBJNRLwlb9c",
+      "channel": "Gibsons Games",
+      "duration": 36.0,
+      "title": "Unboxing:  Rebel Girls 100 Piece Jigsaw Puzzle"
+    },
+    {
+      "id": "R1ife7UH3yQ",
+      "channel": "Gibsons Games",
+      "duration": 39.0,
+      "title": "Unboxing: Rebel Girls 500 piece puzzle"
+    },
+    {
+      "id": "ZIYilfGri58",
+      "channel": "Ariel Orapa",
+      "duration": 789.0,
+      "title": "My First Gibsons | 500 Pieces Rebel Girls Jigsaw Puzzle Review"
+    },
+    {
+      "id": "Sljko73qf6w",
+      "channel": "Gibsons Games",
+      "duration": 117.0,
+      "title": "Introducing Gibsons Planet-Friendly Puzzles"
+    },
+    {
+      "id": "eGc4nT9NiKc",
+      "channel": "Lucky Penny Shop",
+      "duration": 92.0,
+      "title": "In The Swiss Alps Tuco Puzzle Miniatures Vintage Jigsaw Puzzle"
+    }
+  ]
+}

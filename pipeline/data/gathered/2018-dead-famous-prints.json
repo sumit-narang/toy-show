@@ -1,0 +1,54 @@
+{
+  "id": "2018-dead-famous-prints",
+  "year": 2018,
+  "name": "Dead Famous Prints",
+  "price_eur": 30.0,
+  "price_text": "€30",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "http://fintanwall.com/dead-famous"
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://fintanwall.com/dead-famous"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "wz1NnUiakko",
+      "channel": "OIL & OMEN",
+      "duration": 507.0,
+      "title": "8 Famous Paintings That Hide a Clue About Death"
+    },
+    {
+      "id": "nJ_V4RtLdxI",
+      "channel": "O2backstagechat",
+      "duration": 195.0,
+      "title": "Trail of Dead: Conrad Shows His Paintings"
+    },
+    {
+      "id": "kTQTdZJViW8",
+      "channel": "Red Delivery",
+      "duration": 50.0,
+      "title": "Raising Our Forefathers From The Dead: I Recreate Costumes From Famous Paintings 🙃"
+    },
+    {
+      "id": "CO9y6fSgbl4",
+      "channel": "Ickonic and Gareth Icke",
+      "duration": 68.0,
+      "title": "Paul Is Dead? | Trailer | Out 24.10.26"
+    },
+    {
+      "id": "GmE6CPEWZg4",
+      "channel": "Neil Dinsmore",
+      "duration": 261.0,
+      "title": "Terrifying Paintings of Death"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-mimi-toys-giraffe-mouth-moving-hand-puppet-living-puppets-giraffe-mouth-moving",
+  "year": 2022,
+  "name": "Mimi Toys Giraffe Mouth Moving Hand Puppet Living Puppets Giraffe Mouth Moving",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Mimitoys",
+      "url": "https://mimitoys.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://mimitoys.ie/",
+      "title": "Mimitoys.ie | Quality Toys, Puppets & Educational Toys in Ireland",
+      "description": "Shop quality toys, puppets, arts and crafts, role play toys and educational gifts at Mimitoys.ie. Trusted for over 20 years by Irish parents, teachers, childcare providers and play therapists. Irish-owned online toy shop with real stock in Ireland and fast delivery nationwide.",
+      "image": "http://mimitoys.ie/cdn/shop/files/Mimitoys_Social_Share_Image.webp?v=1683541818"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "nmy53i-9aLQ",
+      "channel": "FolkmanisPuppets",
+      "duration": 14.0,
+      "title": "Folkmanis® Sheepdog Puppet Demo"
+    },
+    {
+      "id": "ibxIMXS2Otc",
+      "channel": "Amuse Your Friends!",
+      "duration": 1037.0,
+      "title": "Make 10 Animal Puppets with your Hands! Compilation (Part 1)"
+    },
+    {
+      "id": "ayFG5Ow4wXI",
+      "channel": "Maison ZiZou",
+      "duration": 286.0,
+      "title": "How to make a hand puppet from one sheet of paper | Animal hand puppets DIY | Maison Zizou"
+    },
+    {
+      "id": "bXFPWZSIOs0",
+      "channel": "ThePelhamPuppets",
+      "duration": 103.0,
+      "title": "Working your new Pelham Puppet"
+    },
+    {
+      "id": "V4GYtI5K6vo",
+      "channel": "Christine Barger",
+      "duration": 809.0,
+      "title": "How to Make a Puppet"
+    }
+  ]
+}

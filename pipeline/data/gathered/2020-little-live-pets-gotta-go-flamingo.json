@@ -1,0 +1,54 @@
+{
+  "id": "2020-little-live-pets-gotta-go-flamingo",
+  "year": 2020,
+  "name": "Little Live Pets Gotta Go Flamingo",
+  "price_eur": 41.99,
+  "price_text": "€41.99",
+  "retailers": [
+    {
+      "name": "Littlewoods Ireland",
+      "url": "https://www.littlewoodsireland.ie/little-live-pets-gotta-go-flamingo/1600490359.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.littlewoodsireland.ie/little-live-pets-gotta-go-flamingo/1600490359.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C-St1REyjxM",
+      "channel": "Little Live Pets",
+      "duration": 31.0,
+      "title": "Little Live Pets | Gotta Go Flamingo | TVC 30"
+    },
+    {
+      "id": "0OeQMxWjOk8",
+      "channel": "TTPM Toy Reviews",
+      "duration": 117.0,
+      "title": "Little Live Pets Gotta Go Flamingo from Moose Toys"
+    },
+    {
+      "id": "GUoAM8dBCu4",
+      "channel": "Treasure Hunt Toys",
+      "duration": 300.0,
+      "title": "Little Live Pets Gotta Go Flamingo Sherbert by Moose Toys"
+    },
+    {
+      "id": "6B5nz75Hwfc",
+      "channel": "Little Live Pets",
+      "duration": 195.0,
+      "title": "Little Live Pets | Gotta Go Flamingo | How to Care & Play!"
+    },
+    {
+      "id": "7RiC5qsB6r8",
+      "channel": "ASMR toy4you",
+      "duration": 1891.0,
+      "title": "UNBOXING SET GOTTA GO FLAMINGO,GIRAFFE,TURTLE | POOPING | LITTLE LIVE PETS |ASMR"
+    }
+  ]
+}

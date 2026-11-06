@@ -1,0 +1,57 @@
+{
+  "id": "2019-buzz-lightyear-infinity-blaster",
+  "year": 2019,
+  "name": "Buzz Lightyear Infinity Blaster",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-4-buzz-lightyear-infinity-blaster/p/180249"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/toy-story/toy-story-4-buzz-lightyear-infinity-blaster/p/180249",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OfeUqlxTjVU",
+      "channel": "FUN",
+      "duration": 22.0,
+      "title": "Toy story Space Ranger Infinity Blaster Gun with Lights and Sounds Test"
+    },
+    {
+      "id": "jP9t6f2WZO8",
+      "channel": "Simon Says Smile",
+      "duration": 428.0,
+      "title": "To Infinity and Beyond - Meet BUZZ LIGHTYEAR. Space Rangers. Laser Blasters Guns. Ride @ Disneyland"
+    },
+    {
+      "id": "5_N3tVBAvD4",
+      "channel": "Savebythrift",
+      "duration": 139.0,
+      "title": "Thinkway Toys Disney Pixar Toy Story Buzz Lightyear Infinity Blaster WORKING + personal info"
+    },
+    {
+      "id": "zPj9K_Tz-UQ",
+      "channel": "Tosh Toys",
+      "duration": 466.0,
+      "title": "UNBOXING TOY STORY 4 TOYS | Buzz Lightyear Rapid Disc Blaster Infinity Gun"
+    },
+    {
+      "id": "DlcQagX3g10",
+      "channel": "TKOR",
+      "duration": 313.0,
+      "title": "Rocket Buzz - To Infinity, or Beyond?"
+    }
+  ]
+}

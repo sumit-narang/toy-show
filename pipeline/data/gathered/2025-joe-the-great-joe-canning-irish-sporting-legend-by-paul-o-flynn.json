@@ -1,0 +1,36 @@
+{
+  "id": "2025-joe-the-great-joe-canning-irish-sporting-legend-by-paul-o-flynn",
+  "year": 2025,
+  "name": "Joe The Great: Joe Canning Irish Sporting Legend by Paul O’Flynn",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/joe-the-great-paul-oflynn-9781399747684"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/joe-the-great-paul-oflynn-9781399747684",
+      "title": "Joe The Greate By Paul O’Flynn | Shop Now At Easons",
+      "description": "The inspiring story of Joe Canning’s rise to hurling greatness—overcoming setbacks to win for Galway. FREE DELIVERY on orders over €10.",
+      "image": null,
+      "ld_description": "Dyslexia-friendly text, published according to guidelines supplied by Dyslexia Ireland Joe Canning played hurling for as long as he could remember, and by the age of 15 he’d won an All-Ireland medal for Galway minors.Joe’s career should have been perfect after that, but things changed when he reached the senior hurling team. Galway struggled against their main rivals, Kilkenny, and other great teams, and Joe experienced constant setbacks and disappointments. But this hurler was no quitter. He continued to train hard, kept his focus and finally found himself in Croke Park winning an All-Ireland hurling medal.This is the amazing story of how Joe Canning became one of the greatest hurlers of all time!",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/m/6ccaa3ce1b68a212/original/9780717185832_5638786492.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ff78lwqyPs0",
+      "channel": "GAA - officialgaa",
+      "duration": 215.0,
+      "title": "GAANOW: GAA Hall of fame - Jimmy Barry Murphy"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2021-dinette-musical-tin-teaset",
+  "year": 2021,
+  "name": "Dinette Musical Tin Teaset",
+  "price_eur": 32.9,
+  "price_text": "€32.90",
+  "retailers": [
+    {
+      "name": "Beo Verde",
+      "url": "https://beoverde.ie/products/vilac-pretend-play-toy-musical-tea-set?_pos=3&_sid=6a2cb76d0&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://beoverde.ie/products/vilac-pretend-play-toy-musical-tea-set?_pos=3&_sid=6a2cb76d0&_ss=r",
+      "title": "Buy Vilac Musical Tea Set by Michelle Carlslund at BeoVERDE Ireland",
+      "description": "Musical tin tea set for ages 3+, illustrated by Michelle Carlslund. 14-piece pretend play with melody teapot — perfect for role play and tea parties.",
+      "image": "http://beoverde.ie/cdn/shop/products/Photo-1_BeoVERDE_Vilac_Ice-Musical-Tea-Set_VI8504_1500x1500_8099ed49-d943-46ac-9e07-93b784308f92.jpg?v=1671300656",
+      "ld_description": "Tea for four, with music. This tin tea set, decorated by Danish illustrator Michelle Carlslund, has a teapot with a wind-up music box inside: tip it to pour and it plays a tune while the imaginary tea comes out.\nFourteen pieces in all: the teapot, four cups, four saucers, four plates and a tray to carry them on. The set is printed tin, light enough for a three-year-old to lay the table for teddies, dolls and whoever else is invited.\nPretend tea parties are where children rehearse real life: pouring, serving, taking turns and talking. The music box needs no batteries, just a wind of the key.",
+      "brand": "Vilac",
+      "ld_image": "https://beoverde.ie/cdn/shop/products/Photo-1_BeoVERDE_Vilac_Ice-Musical-Tea-Set_VI8504_1500x1500_8099ed49-d943-46ac-9e07-93b784308f92.jpg?v=1671300656&width=1920"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "TkLy6OCkNUc",
+      "channel": "Jewelkeeper Official",
+      "duration": 37.0,
+      "title": "JUNGLE PARTY Tea Set for Little Kids by JEWELKEEPER"
+    },
+    {
+      "id": "rsQf6sqPqv4",
+      "channel": "Jewelkeeper Official",
+      "duration": 65.0,
+      "title": "Porcelain Tea Party Set for Little Girls by Jewelkeeper"
+    },
+    {
+      "id": "-apDSYi2qgA",
+      "channel": "Miniature Home",
+      "duration": 631.0,
+      "title": "Miniature Tea Set | Dollhouse Food Snacks | Mini Tree Potted | ASMR Tiny Kitchen Set Unboxing"
+    },
+    {
+      "id": "INZSvVxbzGc",
+      "channel": "teapotsteapots",
+      "duration": 75.0,
+      "title": "Children's Tea Sets"
+    },
+    {
+      "id": "rDXFYlGHl_o",
+      "channel": "༺agvelvet༻",
+      "duration": 146.0,
+      "title": "Schylling Butterfly Tea Set for 18 inch American Girl dolls"
+    }
+  ]
+}

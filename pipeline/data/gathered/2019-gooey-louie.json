@@ -1,0 +1,57 @@
+{
+  "id": "2019-gooey-louie",
+  "year": 2019,
+  "name": "Gooey Louie",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/board-games-at-smyths-toys-superstores/gooey-louie-game/p/130204"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/board-games-at-smyths-toys-superstores/gooey-louie-game/p/130204",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "PhRaxwlV2QU",
+      "channel": "Adult Swim Europe",
+      "duration": 97.0,
+      "title": "Robot Chicken | Gooey Louie on an Airplane | Adult Swim UK 🇬🇧"
+    },
+    {
+      "id": "Y0a4qfey6D0",
+      "channel": "Goliath",
+      "duration": 21.0,
+      "title": "Gooey Louie 2023"
+    },
+    {
+      "id": "TviGWT5XTu0",
+      "channel": "Movie & Video Game TV Spots",
+      "duration": 19.0,
+      "title": "Gooey Louie Game Toy Ad (1996)"
+    },
+    {
+      "id": "czEsgkVifWM",
+      "channel": "Goliath",
+      "duration": 16.0,
+      "title": "Gooey Louie Commercial"
+    },
+    {
+      "id": "ZMTnW0F6DGs",
+      "channel": "Jerrybomb's Goliath Vids",
+      "duration": 16.0,
+      "title": "Gooey Piggy Ad (2013 USA)"
+    }
+  ]
+}

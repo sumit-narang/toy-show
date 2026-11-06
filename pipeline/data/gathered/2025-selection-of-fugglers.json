@@ -1,0 +1,57 @@
+{
+  "id": "2025-selection-of-fugglers",
+  "year": 2025,
+  "name": "Selection of Fugglers",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/fugglers/c/SM06010104"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/fugglers/c/SM06010104",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d3j0ka8MLWw",
+      "channel": "CAPYBARA QUIZ",
+      "duration": 720.0,
+      "title": "Would You Rather..? Fuggler Edition 🦇 👽 Choose Your Fuggler!"
+    },
+    {
+      "id": "VBjYoBHgY9o",
+      "channel": "CAPYBARA QUIZ",
+      "duration": 782.0,
+      "title": "Would You Rather..? Fuggler Edition 👾 🤪 Choose Your Fuggler! Quiz 2026"
+    },
+    {
+      "id": "LKP2NGRovZs",
+      "channel": "Happy QUIZZES",
+      "duration": 482.0,
+      "title": "Fuggler Good or Bad – What's Your Pick? 😳"
+    },
+    {
+      "id": "tZwjqZkQFA4",
+      "channel": "Happy QUIZZES",
+      "duration": 500.0,
+      "title": "Choose Your Fuggler – Mystery Box Reveal Quiz"
+    },
+    {
+      "id": "_iCS4CEswu8",
+      "channel": "Double Clutch Nation",
+      "duration": 738.0,
+      "title": "The Old Fogies Fuggler Tier List!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-kids-apron",
+  "year": 2018,
+  "name": "Kids Apron",
+  "price_eur": 6.99,
+  "price_text": "€6.99",
+  "retailers": [
+    {
+      "name": "thegardenshop.ie",
+      "url": "http://thegardenshop.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thegardenshop.ie/",
+      "title": "Ireland's Low Cost Garden Centre | Garden Equipment & Supplies",
+      "description": "The Garden Shop is Ireland's Leading Online Garden Centre. Buy Best Price Garden Equipment & Supplies on Sale. Super Fast Delivery",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y8PWmEfLo8Y",
+      "channel": "MySewBliss",
+      "duration": 1307.0,
+      "title": "How to make a Kids Apron, FREE PATTERN, Baby Lock Zest, sewing for beginners"
+    },
+    {
+      "id": "0aOcGs31s_E",
+      "channel": "Sew Simple Home",
+      "duration": 2061.0,
+      "title": "Simple Kids Apron Sewing Pattern - Step by Step Tutorial"
+    },
+    {
+      "id": "CsmZteE6Ssc",
+      "channel": "emels' handicraft",
+      "duration": 755.0,
+      "title": "How to sew Kids Apron/3 sizes Free Pattern."
+    },
+    {
+      "id": "L00A8FG8L2A",
+      "channel": "Sandhai",
+      "duration": 14.0,
+      "title": "Kids Apron for artist and painters"
+    },
+    {
+      "id": "xXWK39UKKJU",
+      "channel": "Mary Makes Masks & More",
+      "duration": 2881.0,
+      "title": "Awesomely Easy ~ RIDICULOUSLY ADORABLE ~ Children’s Apron! GREAT GIFT ANYONE CAN MAKE!!!"
+    }
+  ]
+}

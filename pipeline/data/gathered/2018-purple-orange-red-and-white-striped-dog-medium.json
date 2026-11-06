@@ -1,0 +1,57 @@
+{
+  "id": "2018-purple-orange-red-and-white-striped-dog-medium",
+  "year": 2018,
+  "name": "Purple, Orange, Red and White Striped Dog (Medium)",
+  "price_eur": 35.0,
+  "price_text": "€35.00",
+  "retailers": [
+    {
+      "name": "Kilkenny Shop",
+      "url": "https://www.kilkennyshop.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://kilkennydesign.com/",
+      "title": "Kilkenny Design | The Home Of Irish Design",
+      "description": "Kilkenny Design is home to Ireland's largest collection of Irish products. Shop our homeware, fashion, jewellery and gifts today. 10% Off Your First Order. Free ROI delivery when you spend €89+",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "eqzEJtOhiu8",
+      "channel": "American Dog Lovers",
+      "duration": 1341.0,
+      "title": "Pitbull Colors: 23 Coat Color Variations Explained (With Pictures)"
+    },
+    {
+      "id": "-wMExjG3ZqM",
+      "channel": "2 Minute Gardener",
+      "duration": 176.0,
+      "title": "Doug's 5 Favorite Ornamental Grasses for Low-Maintenance & Drought-Tolerant Lawn Alternatives"
+    },
+    {
+      "id": "P496sSBO-Vw",
+      "channel": "Dr. Paul Anderson",
+      "duration": 469.0,
+      "title": "The BEST Light Therapy: Red Light vs. Near Infrared"
+    },
+    {
+      "id": "9dgjrQdSNmY",
+      "channel": "Moonlight",
+      "duration": 97.0,
+      "title": "Red and Orange Flowers with Green Dots on White Nails - Nail Art Design Tutorial"
+    },
+    {
+      "id": "SDT29f4nWEk",
+      "channel": "Ivy Lily Creative",
+      "duration": 192.0,
+      "title": "I Tried Acrylic Squeegee Painting & I'm Hooked!"
+    }
+  ]
+}

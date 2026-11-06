@@ -1,0 +1,54 @@
+{
+  "id": "2025-jelly-bands-peel-away-bracelets",
+  "year": 2025,
+  "name": "Jelly Bands Peel Away Bracelets",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/wcbund44479_8de1ec33e188692?_pos=5&_sid=7a71496fc&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/wcbund44479_8de1ec33e188692?_pos=5&_sid=7a71496fc&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hOh48iUCJQM",
+      "channel": "folia diy",
+      "duration": 179.0,
+      "title": "RubberLoops® from folia® - the newest trend from the USA Part 1"
+    },
+    {
+      "id": "C_PpI7XUtu4",
+      "channel": "FlipItTeach",
+      "duration": 529.0,
+      "title": "How to Make a Single Chain Bracelet with a Rainbow Loom Super Easy! Beginner's Bracelet"
+    },
+    {
+      "id": "PAMMbCFsEB0",
+      "channel": "Knot Queen",
+      "duration": 194.0,
+      "title": "How to tie elastic bracelets - most secure knot!"
+    },
+    {
+      "id": "TAQBU2iL-uk",
+      "channel": "Friskmegood",
+      "duration": 1099.0,
+      "title": "EXPOSING THE SCANDALOUS LORE OF JELLY BRACELETS"
+    },
+    {
+      "id": "GARnW8Xu86k",
+      "channel": "Liz Blue and Hazel",
+      "duration": 279.0,
+      "title": "Easy Rubber Band Bracelet (Single Chain With 2 Fingers / no loom)"
+    }
+  ]
+}

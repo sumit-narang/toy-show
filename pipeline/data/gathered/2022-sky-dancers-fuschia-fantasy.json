@@ -1,0 +1,57 @@
+{
+  "id": "2022-sky-dancers-fuschia-fantasy",
+  "year": 2022,
+  "name": "Sky Dancers Fuschia Fantasy",
+  "price_eur": 25.99,
+  "price_text": "€25.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/sky-dancers-fuschia-fantasy/p/211340"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/sky-dancers-fuschia-fantasy/p/211340",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "z3leS2v_3pM",
+      "channel": "Lansay",
+      "duration": 22.0,
+      "title": "Sky Dancers 🧚‍♀️(English)"
+    },
+    {
+      "id": "k9f3y1_v424",
+      "channel": "Toy Tales",
+      "duration": 32.0,
+      "title": "Sky Dancers Fairy Flyers from Galoob (1995)"
+    },
+    {
+      "id": "OzstrciSOtE",
+      "channel": "Cangrejo de mar",
+      "duration": 19.0,
+      "title": "Skydancers"
+    },
+    {
+      "id": "tdMeFqjKEV0",
+      "channel": "🌈My Own PFP Pink Girly🦄",
+      "duration": 29.0,
+      "title": "Sky Dancers - Coral Cutie Part 99"
+    },
+    {
+      "id": "3KeK53JeIFc",
+      "channel": "Mr. Rupert",
+      "duration": 8.0,
+      "title": "Robot Chicken - Sky Dancers"
+    }
+  ]
+}

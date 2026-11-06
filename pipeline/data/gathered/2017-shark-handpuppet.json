@@ -1,0 +1,54 @@
+{
+  "id": "2017-shark-handpuppet",
+  "year": 2017,
+  "name": "Shark Handpuppet",
+  "price_eur": 5.0,
+  "price_text": "€5.00",
+  "retailers": [
+    {
+      "name": "Penneysfor",
+      "url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.primark.com/en-ie/homepage"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "RMZju2q49Is",
+      "channel": "SchyllingToy",
+      "duration": 29.0,
+      "title": "Schylling Shark Stretchy Hand Puppet"
+    },
+    {
+      "id": "957-2d4k3s4",
+      "channel": "Mr Plush",
+      "duration": 792.0,
+      "title": "SHARK PUPPET ADVENTURE IN THAILAND"
+    },
+    {
+      "id": "lFcpBEGs5fc",
+      "channel": "Amuse Your Friends!",
+      "duration": 204.0,
+      "title": "SHARK Hand Puppet Tutorial 🦈"
+    },
+    {
+      "id": "EKqOG5PGOvk",
+      "channel": "Best Viners 2",
+      "duration": 1161.0,
+      "title": "Shark Puppet Funny Instagram Videos - NEW Shark Puppet Vines - Best Viners 2020"
+    },
+    {
+      "id": "45kkOQDePjg",
+      "channel": "SchyllingToy",
+      "duration": 23.0,
+      "title": "Schylling Dinosaur Stretchy Hand Puppet"
+    }
+  ]
+}

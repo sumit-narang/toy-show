@@ -1,0 +1,53 @@
+{
+  "id": "2020-vtech-my-first-laptop",
+  "year": 2020,
+  "name": "VTech My First Laptop",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8hOdFVLbOZ8",
+      "channel": "ictio",
+      "duration": 873.0,
+      "title": "VTech Genio: My First Laptop (Best Laptop For Kids?)"
+    },
+    {
+      "id": "C7h1QAgq7z0",
+      "channel": "VTech Toys UK",
+      "duration": 71.0,
+      "title": "VTech Genio My First Laptop"
+    },
+    {
+      "id": "Svog3GX8bZY",
+      "channel": "iicaovtech",
+      "duration": 226.0,
+      "title": "VTech 「My Laptop」"
+    },
+    {
+      "id": "nMjDWx7pZuc",
+      "channel": "Griffen Sander",
+      "duration": 230.0,
+      "title": "My First Laptop - VTech Talking Whizkid!"
+    },
+    {
+      "id": "5BsLM_8OrW8",
+      "channel": "ictio",
+      "duration": 1062.0,
+      "title": "VTech Genio: My First Laptop - An ‘Interesting’ Android Laptop For Kids"
+    }
+  ]
+}

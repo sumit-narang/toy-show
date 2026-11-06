@@ -1,0 +1,54 @@
+{
+  "id": "2022-hey-duggee-explore-and-snore",
+  "year": 2022,
+  "name": "Hey Duggee Explore and Snore",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "t8TphKdJoUE",
+      "channel": "Golden Bear Toys",
+      "duration": 99.0,
+      "title": "Hey Duggee Explore and Snore Toy Adventure"
+    },
+    {
+      "id": "iVXQB5iwUOg",
+      "channel": "Cocofly Media",
+      "duration": 99.0,
+      "title": "Hey Duggee Talking Plushies (Voice Lines)"
+    },
+    {
+      "id": "26FpeeEKbto",
+      "channel": "Sergio Campos",
+      "duration": 71.0,
+      "title": "Peluche Hey Duggee Con Sonido Duge"
+    },
+    {
+      "id": "V2J1-7aQwI8",
+      "channel": "Superkids",
+      "duration": 221.0,
+      "title": "Hey Duggee - Duggee’s Bedtime Rhymes || Kids Book Read Aloud || Storybooks "
+    },
+    {
+      "id": "IZ66EdEhcfU",
+      "channel": "SteamTeamExtraEXTRA",
+      "duration": 22.0,
+      "title": "Hey Duggee - Clubhouse Playset Advert"
+    }
+  ]
+}

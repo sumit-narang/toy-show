@@ -1,0 +1,54 @@
+{
+  "id": "2025-furreal-coco-the-tumbling-panda",
+  "year": 2025,
+  "name": "furReal Coco the Tumbling Panda",
+  "price_eur": 69.0,
+  "price_text": "€69",
+  "retailers": [
+    {
+      "name": "Very Ireland",
+      "url": "https://www.very.ie/furreal-friends-furreal-coco-the-tumbling-panda/1601196719.prd"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.very.ie/furreal-friends-furreal-coco-the-tumbling-panda/1601196719.prd"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fZhtrWcyXe0",
+      "channel": "TTPM Toy Reviews",
+      "duration": 101.0,
+      "title": "Roll Into Run With FurReal Coco the Tumbling Panda!"
+    },
+    {
+      "id": "qgBTtVJIy6s",
+      "channel": "Florida Mom Product Reviews",
+      "duration": 89.0,
+      "title": "Full demo and detail of Coco the panda"
+    },
+    {
+      "id": "JZ9J_9xzbyE",
+      "channel": "Alexa | Is It Worth It?",
+      "duration": 143.0,
+      "title": "Meet Coco the Tumbling Panda — Interactive Plush That Rolls, Drinks & Giggles!"
+    },
+    {
+      "id": "pJMpj-MDyds",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1275.0,
+      "title": "New Interactive Toys for Xmas 2025 Furreal Tumbling Baby Panda Coco Unboxing, Demonstration & Review"
+    },
+    {
+      "id": "9YBNrTIu4gk",
+      "channel": "Moustakastoys",
+      "duration": 18.0,
+      "title": "Jpl Furreal Λούτρινο Coco The Tumbling Panda (28166)"
+    }
+  ]
+}

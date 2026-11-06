@@ -1,0 +1,44 @@
+{
+  "id": "2022-bunny-vs-monkey-machine-mayhem-jamie-smarts",
+  "year": 2022,
+  "name": "Bunny vs Monkey: Machine Mayhem - Jamie Smarts",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "1NsTbnzAssY",
+      "channel": "Google Play Books",
+      "duration": 881.0,
+      "title": "Bunny vs Monkey: Machine Mayhem! by Jamie Smart · Audiobook preview"
+    },
+    {
+      "id": "3zvoRRqkpkI",
+      "channel": "The real thatonekid",
+      "duration": 99.0,
+      "title": "I ANIMATED my brothers favorite book: Jamie Smart’s BUNNY VS MONKEY?!"
+    },
+    {
+      "id": "iW4HnfF4T9U",
+      "channel": "World Book Day",
+      "duration": 21.0,
+      "title": "World Book Day 2026: Jamie Smart, Bunny vs Monkey: Total Chaos"
+    },
+    {
+      "id": "dxgiUgQmy8s",
+      "channel": "Jamie Smart",
+      "duration": 540.0,
+      "title": "2025 UPDATE - My first ever card game HERO SLAM, Bunny Vs Monkey 11, and the final Flember!"
+    },
+    {
+      "id": "kM2oLFv_rV8",
+      "channel": "Saturnoids",
+      "duration": 23.0,
+      "title": "Bunny Vs. Monkey - Exclusive First Look | Saturnoids"
+    }
+  ]
+}

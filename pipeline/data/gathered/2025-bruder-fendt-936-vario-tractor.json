@@ -1,0 +1,54 @@
+{
+  "id": "2025-bruder-fendt-936-vario-tractor",
+  "year": 2025,
+  "name": "Bruder Fendt 936 Vario Tractor",
+  "price_eur": 42.99,
+  "price_text": "€42.99",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/bruder-3040-fendt-936-vario-tractor"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/bruder-3040-fendt-936-vario-tractor"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ewh73D7opHY",
+      "channel": "Bruder Toys",
+      "duration": 67.0,
+      "title": "Bruder Toys Fendt 936 Vario Tractor with Frontloader #03041"
+    },
+    {
+      "id": "zvQ3nLXoVsE",
+      "channel": "RC T4K",
+      "duration": 640.0,
+      "title": "BRUDER TOYS RC New Traktor Fendt 936 Vario"
+    },
+    {
+      "id": "54dSxAahofs",
+      "channel": "Bruder Toys",
+      "duration": 93.0,
+      "title": "Bruder Toys Fendt 936 Vario Forestry Tractor #03042"
+    },
+    {
+      "id": "R3sls6RWf6Y",
+      "channel": "Martin's BRUDER World",
+      "duration": 475.0,
+      "title": "BRUDER Fendt 936 Vario"
+    },
+    {
+      "id": "F3etf4RTn38",
+      "channel": "ISE Forest and Garden ltd",
+      "duration": 67.0,
+      "title": "Bruder Fendt 936 Vario Tractor"
+    }
+  ]
+}

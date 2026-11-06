@@ -1,0 +1,57 @@
+{
+  "id": "2025-volkswagen-id-buzz-green-12v",
+  "year": 2025,
+  "name": "Volkswagen ID Buzz Green 12v",
+  "price_eur": 279.95,
+  "price_text": "€279.95",
+  "retailers": [
+    {
+      "name": "Fun Stuff",
+      "url": "https://funstuff.ie/electric-ride-on-cars/volkswagen-id-buzz-green-12v/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funstuff.ie/electric-ride-on-cars/volkswagen-id-buzz-12v-electric-ride-on-car-green/",
+      "title": "Volkswagen ID Buzz 12V Electric Ride On Car Green",
+      "description": "Shop now at Funstuff.ie for the best electric ride on cars, go karts, quads, motorbikes, tractors, jeeps, balance bikes and more.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1660/images/15731/volkswagen-id-buzz-green-12v__43123.1773710831.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4lXmJJANBYE",
+      "channel": "Volkswagen Commercial Vehicles",
+      "duration": 42.0,
+      "title": "Volkswagen ID. Buzz - How to use the battery care mode"
+    },
+    {
+      "id": "oRqbcZBm_Xs",
+      "channel": "Citygate Automotive",
+      "duration": 73.0,
+      "title": "Volkswagen ID. Buzz - Style SWB 204 PS 77 kWh Pro Electric 1 Speed Automatic - Citygate Volkswage..."
+    },
+    {
+      "id": "VU0FAQlxlvQ",
+      "channel": "Downshift",
+      "duration": 1618.0,
+      "title": "2025 VW ID BUZZ - 17 THINGS YOU SHOULD KNOW"
+    },
+    {
+      "id": "EYQ2L5roG0U",
+      "channel": "Citygate Automotive",
+      "duration": 42.0,
+      "title": "Volkswagen ID. Buzz - Life SWB 204 PS 77 kWh Pro Electric 1 Speed Automatic - Citygate Volkswagen..."
+    },
+    {
+      "id": "BLbHc0f_LQw",
+      "channel": "NonCarTom",
+      "duration": 302.0,
+      "title": "Review | Is the Volkswagen ID.Buzz Cargo any good at being a working vehicle? | 2025 VW Van Review"
+    }
+  ]
+}

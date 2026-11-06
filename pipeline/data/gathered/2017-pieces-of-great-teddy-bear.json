@@ -1,0 +1,54 @@
+{
+  "id": "2017-pieces-of-great-teddy-bear",
+  "year": 2017,
+  "name": "Pieces of Great Teddy Bear",
+  "price_eur": 75.0,
+  "price_text": "€75.00",
+  "retailers": [
+    {
+      "name": "Piecesofgreat.com",
+      "url": "http://Piecesofgreat.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LpjegMM1mAU",
+      "channel": "Albi's Craft & Crochet",
+      "duration": 490.0,
+      "title": "Amazing Teddy Bear Making with Wool - Super Easy Teddy Bear Make at Home - How to Make Teddy Bear"
+    },
+    {
+      "id": "666UZRBO5q8",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 139.0,
+      "title": "My Teddy Bear | Kids Song | Super Simple Songs"
+    },
+    {
+      "id": "mh3uM3XF708",
+      "channel": "✿ Kids Diana Show",
+      "duration": 368.0,
+      "title": "Diana and Roma play with Giant Teddy bears"
+    },
+    {
+      "id": "iDVJZlr3LM0",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 177.0,
+      "title": "Teddy Bear, Teddy Bear | Kids Songs | Super Simple Songs"
+    },
+    {
+      "id": "mxIhlA9u89Y",
+      "channel": "Super Simple Songs - Kids Songs",
+      "duration": 129.0,
+      "title": "My Teddy Bear | Teddy Bear Song! | Kids Music | Super Simple Songs"
+    }
+  ]
+}

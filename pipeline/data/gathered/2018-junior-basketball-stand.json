@@ -1,0 +1,69 @@
+{
+  "id": "2018-junior-basketball-stand",
+  "year": 2018,
+  "name": "Junior Basketball Stand",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KM7hO0WAy30",
+      "channel": "Smyths Toys Superstores",
+      "duration": 115.0,
+      "title": "Junior Adjustable Basketball Stand 2.2m to 2.6m - Smyths Toys"
+    },
+    {
+      "id": "C3PnpkIT19o",
+      "channel": "Pwinkle R",
+      "duration": 354.0,
+      "title": "kids Basketball Hoops (Testing Two Popular Hoops) install & info"
+    },
+    {
+      "id": "3nETqDZ7dss",
+      "channel": "Costway",
+      "duration": 129.0,
+      "title": "How to Install the Adjustable Portable Basketball Hoop Stand | SP37743 #costway #howto"
+    },
+    {
+      "id": "fH3rPxy_sPM",
+      "channel": "New Parents in Training",
+      "duration": 302.0,
+      "title": "Adjustable Basketball Hoop for Kids: Perfect for Any Space!"
+    },
+    {
+      "id": "Ahrr-hRnVKQ",
+      "channel": "Unboxing-628",
+      "duration": 478.0,
+      "title": "How to Install the Kids Arcade Basketball Game Set|HX Sport Kids Indoor/Outdoor Basketbal Game Set🤾🏻"
+    }
+  ]
+}

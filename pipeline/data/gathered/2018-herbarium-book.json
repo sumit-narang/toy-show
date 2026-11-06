@@ -1,0 +1,57 @@
+{
+  "id": "2018-herbarium-book",
+  "year": 2018,
+  "name": "Herbarium Book",
+  "price_eur": 20.0,
+  "price_text": "€20.00",
+  "retailers": [
+    {
+      "name": "Designist",
+      "url": "http://shop.designist.ie"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://shop.designist.ie/",
+      "title": "designist | Irish & European Gifts, Home Décor, Cards & Stationery",
+      "description": "Discover beautifully designed Irish & European gifts, home décor, greeting cards, stationery, candles & souvenirs at designist. Thoughtful presents for birthdays & every occasion.",
+      "image": "https://shop.designist.ie/cdn/shop/files/shop_front_1204x630.jpg?v=1781710494"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fpfmfTZV4G4",
+      "channel": "Cambridge University Herbarium",
+      "duration": 205.0,
+      "title": "How herbarium specimens are prepared at the Cambridge University Herbarium"
+    },
+    {
+      "id": "6Rnhz-mdg4c",
+      "channel": "Lincolnshire Wildlife Trust",
+      "duration": 312.0,
+      "title": "How to Make a Herbarium"
+    },
+    {
+      "id": "2kEbCaTe8XM",
+      "channel": "New York Botanical Garden",
+      "duration": 324.0,
+      "title": "Herbarium At Home: A Beginner's Guide"
+    },
+    {
+      "id": "_Adk7UcPyCY",
+      "channel": "Karen BohemianRhapsodyGB",
+      "duration": 936.0,
+      "title": "Herbarium junk journal"
+    },
+    {
+      "id": "IKTYQhAS8Jg",
+      "channel": "Summer Rayne Oakes",
+      "duration": 2333.0,
+      "title": "Tour an HERBARIUM: Museum of Plants — Ep. 283"
+    }
+  ]
+}

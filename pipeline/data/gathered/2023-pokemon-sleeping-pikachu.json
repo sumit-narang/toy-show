@@ -1,0 +1,57 @@
+{
+  "id": "2023-pokemon-sleeping-pikachu",
+  "year": 2023,
+  "name": "Pokemon Sleeping Pikachu",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/sleeping-pikachu-pokemon-45cm-plush/p/189460"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/pokemon/pokemon-toys/sleeping-pikachu-pokemon-45cm-plush/p/189460",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "omIWWi08CYU",
+      "channel": "Pokémon Kids TV",
+      "duration": 4698.0,
+      "title": "Pokémon Sleep Lullaby (Rock-a-bye Baby)  | Nursery Rhyme | Kids Song | Pokémon Kids TV​"
+    },
+    {
+      "id": "ma_qhjBzdz4",
+      "channel": "Pokémon Kids TV",
+      "duration": 190.0,
+      "title": "Pikachu's Morning Routine | Pokémon Fun Video | Pokémon Kids TV"
+    },
+    {
+      "id": "OtRi4EmcXFo",
+      "channel": "Night Train Vibes",
+      "duration": 30068.0,
+      "title": "⚡ Pikachu & Eevee Bedtime Lullabies | Pokémon Kids Sleep Music 💤 Cozy Night Lights ✨"
+    },
+    {
+      "id": "u0o6HyRcqnU",
+      "channel": "Night Train Vibes",
+      "duration": 11833.0,
+      "title": "✨ Sleepy Pikachu in Dreamland 💤 | Relaxing Lullabies for Kids"
+    },
+    {
+      "id": "j7RlB3WuTZw",
+      "channel": "Slumber Sonic Safari",
+      "duration": 42900.0,
+      "title": "FALL INTO SLEEP INSTANTLY• Healing of Stress, Anxiety and Depressive States • INSOMNIA Relief"
+    }
+  ]
+}

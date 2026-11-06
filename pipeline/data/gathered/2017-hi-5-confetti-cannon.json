@@ -1,0 +1,53 @@
+{
+  "id": "2017-hi-5-confetti-cannon",
+  "year": 2017,
+  "name": "Hi-5 Confetti Cannon",
+  "price_eur": null,
+  "price_text": "$7.95",
+  "retailers": [
+    {
+      "name": "FiestaFive",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uJgwfhb9VUs",
+      "channel": "Yoeri Aarts",
+      "duration": 46.0,
+      "title": "High Five Confetti"
+    },
+    {
+      "id": "RcsHmOPNmw8",
+      "channel": "Top Best Picks",
+      "duration": 610.0,
+      "title": "The Top 5 Best Confetti Cannons in 2025 - Must Watch Before Buying!"
+    },
+    {
+      "id": "1EGfY57RTk4",
+      "channel": "Ultimate Confetti",
+      "duration": 19.0,
+      "title": "Ultimate Confetti XL Cannon- 1/2\" Tissue Streamers"
+    },
+    {
+      "id": "0aoGJBBbWuE",
+      "channel": "Schurel Video",
+      "duration": 105.0,
+      "title": "New Year's Eve   Confetti's air worthiness tested in NYC"
+    },
+    {
+      "id": "YOiCiGbqOoQ",
+      "channel": "mokasfx_official",
+      "duration": 59.0,
+      "title": "MK-CN05A CO2 Confetti Blaster | DMX Confetti Machine"
+    }
+  ]
+}

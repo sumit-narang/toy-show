@@ -1,0 +1,54 @@
+{
+  "id": "2020-vintage-musical-bluetooth-microphone",
+  "year": 2020,
+  "name": "Vintage Musical Bluetooth Microphone",
+  "price_eur": 39.35,
+  "price_text": "€39.35",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/toys/electronics/fao-schwarz/vintage-musical-bluetooth-microphone/141784451.html"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.arnotts.ie/toys/electronics/fao-schwarz/vintage-musical-bluetooth-microphone/141784451.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UEy5CK4NWSs",
+      "channel": "New Stuff TV",
+      "duration": 595.0,
+      "title": "Turn Any Speaker Into A Karaoke Machine: TONOR Handheld Mic With Bluetooth"
+    },
+    {
+      "id": "hBwKIrxsBsQ",
+      "channel": "HappyRider Reviews",
+      "duration": 655.0,
+      "title": "BONAOK Bluetooth Microphone UNBOX & REVIEW - Karaoke Mic With Speaker"
+    },
+    {
+      "id": "s7rs0wj7rsU",
+      "channel": "Audio Amigo",
+      "duration": 1321.0,
+      "title": "SnowSky Retro Nano Bluetooth DAC/AMP Showcase - Audio Amigo Showcase Ep.6"
+    },
+    {
+      "id": "kLpE4yfhNhE",
+      "channel": "JBL Support",
+      "duration": 219.0,
+      "title": "JBL EasySing Mic Mini & Mic Mini Duo | How to set up and use your microphone"
+    },
+    {
+      "id": "yFLm-45f0YQ",
+      "channel": "AudioHaze",
+      "duration": 677.0,
+      "title": "Behringer XM8500 vs Shure SM57/58 - Literally the Best Bargain on the Market (Budget Mic Review)"
+    }
+  ]
+}

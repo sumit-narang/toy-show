@@ -1,0 +1,54 @@
+{
+  "id": "2025-classic-football-heroes-mcgrath",
+  "year": 2025,
+  "name": "Classic Football Heroes McGrath",
+  "price_eur": 7.99,
+  "price_text": "€7.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/mcgrath-emily-stead-9781789469165"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.easons.com/mcgrath-emily-stead-9781789469165"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "uq8KxPkzh4c",
+      "channel": "Classic Footy Videos & Clips",
+      "duration": 238.0,
+      "title": "Football Entertainers... Paul McGrath"
+    },
+    {
+      "id": "o8_u-Jiymos",
+      "channel": "Virgin Media Sport",
+      "duration": 488.0,
+      "title": "Paul McGrath's Aston Villa 'love story' - how Villa managed his knees & lifestyle and how he repaid"
+    },
+    {
+      "id": "Ns2YzEXndXc",
+      "channel": "Cricketers Comparison",
+      "duration": 140.0,
+      "title": "Glenn McGrath vs Shaun Pollock Career Comparison | Best Amazing Wickets Over Vs in Test ODI & More"
+    },
+    {
+      "id": "AXvweg9GC_A",
+      "channel": "Star Sports",
+      "duration": 20.0,
+      "title": "Glenn McGrath on the Ashes"
+    },
+    {
+      "id": "8bddsabkKCY",
+      "channel": "I-ROC ENT",
+      "duration": 346.0,
+      "title": "DINTHILL TECHNICAL 1-2 MCGRATH HIGH | ISSA DACOSTA CUP 2026 HIGHLIGHTS "
+    }
+  ]
+}

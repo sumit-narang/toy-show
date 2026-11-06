@@ -1,0 +1,30 @@
+{
+  "id": "2025-fab-lab-colourspin-bracelet-maker",
+  "year": 2025,
+  "name": "Fab Lab Colourspin Bracelet Maker",
+  "price_eur": 28.0,
+  "price_text": "€28",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/vi934424?_pos=1&_psq=colourspin&_ss=e&_v=1.0"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/vi934424?_pos=1&_psq=colourspin&_ss=e&_v=1.0"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BeoxGjwfkgw",
+      "channel": "Vivid Toys and Games",
+      "duration": 20.0,
+      "title": "ColourSpin Bracelet Maker"
+    }
+  ]
+}

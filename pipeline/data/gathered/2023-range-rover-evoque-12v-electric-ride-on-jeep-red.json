@@ -1,0 +1,57 @@
+{
+  "id": "2023-range-rover-evoque-12v-electric-ride-on-jeep-red",
+  "year": 2023,
+  "name": "Range Rover Evoque 12V Electric Ride On Jeep Red",
+  "price_eur": 349.95,
+  "price_text": "€349.95",
+  "retailers": [
+    {
+      "name": "FunStuff",
+      "url": "https://funstuff.ie/range-rover-evoque-12v-electric-ride-on-jeep-red/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://funstuff.ie/range-rover-evoque-12v-electric-ride-on-jeep-red/",
+      "title": "Range Rover Evoque 12V Electric Ride On Jeep Red",
+      "description": "Shop now for best Range Rover Evoque 12V Electric Ride On Jeep Funstuff Ireland UK.",
+      "image": "https://cdn11.bigcommerce.com/s-58807/products/1451/images/15995/jaguar-land-rover-range-rover-evoque-12v-electric-ride-on-jeep-red__22908.1789452914.220.220.jpg?c=2"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8l1I_Nz4DT4",
+      "channel": "RiiRoo",
+      "duration": 189.0,
+      "title": "Range Rover Evoque 12v Kids Electric Ride On Car Assembly Instructions"
+    },
+    {
+      "id": "yYp8aV1tFi8",
+      "channel": "Outdoor Toys UK",
+      "duration": 61.0,
+      "title": "Licensed Range Rover Evoque 4WD 12V Ride On Battery Jeep 2020 Model"
+    },
+    {
+      "id": "Gp41428OC6M",
+      "channel": "EVERYTHING REVIEWS",
+      "duration": 506.0,
+      "title": "RANGE ROVER EVOQUE 12VOLT KIDS CAR REMOTE CONTROL REVIEW"
+    },
+    {
+      "id": "6ufYoM7yJK0",
+      "channel": "Ride on Car (Zoom Toys)",
+      "duration": 465.0,
+      "title": "Range rover ride on car Installation instruction video ZDKRR998"
+    },
+    {
+      "id": "jX3VDnxj7_I",
+      "channel": "RiiRoo",
+      "duration": 301.0,
+      "title": "Range Rover Evoque Licensed 12v Battery Electric Ride On Car For Kids With Parental Remote"
+    }
+  ]
+}

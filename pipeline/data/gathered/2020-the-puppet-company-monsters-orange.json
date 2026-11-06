@@ -1,0 +1,57 @@
+{
+  "id": "2020-the-puppet-company-monsters-orange",
+  "year": 2020,
+  "name": "The Puppet Company Monsters Orange",
+  "price_eur": 24.29,
+  "price_text": "€24.29",
+  "retailers": [
+    {
+      "name": "O Mahony's",
+      "url": "https://www.omahonys.ie/monster-puppet-blue-and-green-p-246887.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.omahonys.ie/r_index.php?s=no_longer_available",
+      "title": "O'Mahony's - Ireland's Largest Independent Bookseller",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "d66aMsJAbSQ",
+      "channel": "Puppets Ireland",
+      "duration": 85.0,
+      "title": "Review Dressed Animals   Puppet Company"
+    },
+    {
+      "id": "vI0p1-PPCXs",
+      "channel": "TREE LIFE 584TREE",
+      "duration": 290.0,
+      "title": "Folkmanis Elephant Puppet Unbox Demo and Review by Roger Waldman the Puppet Company Aurora Hand Held"
+    },
+    {
+      "id": "724vJFndFoQ",
+      "channel": "THE PUPPET HIDEAWAY",
+      "duration": 198.0,
+      "title": "Orange Monster Break-Up Song “Misunderstood Monsters 14” The Puppet Hideaway with Eric Thomsen"
+    },
+    {
+      "id": "vtkGtXtDlQA",
+      "channel": "Don't Hug Me .I'm Scared",
+      "duration": 222.0,
+      "title": "Don't Hug Me I'm Scared 2 - TIME"
+    },
+    {
+      "id": "AsFHmnxzG4k",
+      "channel": "Best Learning Videos for Little Ones",
+      "duration": 479.0,
+      "title": "Let's Learn How to Tie Our Shoes! Puppet Toys and Learning for Toddlers Kindergarten Video for Kids"
+    }
+  ]
+}

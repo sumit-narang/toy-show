@@ -1,0 +1,54 @@
+{
+  "id": "2023-barbie-dreamtopia-rainbow-potty-unicorn-playset",
+  "year": 2023,
+  "name": "Barbie Dreamtopia Rainbow Potty Unicorn Playset",
+  "price_eur": 50.0,
+  "price_text": "€50.00",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/mtgtg01"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://banbatoys.ie/products/mtgtg01"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MUn_ONMq0Ss",
+      "channel": "Fakie Spaceman",
+      "duration": 173.0,
+      "title": "Unboxed Barbie Dreamtopia Unicorn Nursery Drink 'n Wet Baby Unicorn!"
+    },
+    {
+      "id": "1W2duz1hh2I",
+      "channel": "ΟΔΟΣ ΕΡΜΟΥ (odosermou)",
+      "duration": 65.0,
+      "title": "Barbie Πριγκίπισσα και Μονόκερος (GTG01) στο www.odosermou.gr"
+    },
+    {
+      "id": "VKXOdFM7itk",
+      "channel": "Barbie",
+      "duration": 21.0,
+      "title": "@Barbie | Barbie™ Dreamtopia Brush n’ Sparkle Princess | Dreamtopia"
+    },
+    {
+      "id": "DlIQ7zhzpKg",
+      "channel": "Retro Toys and Cartoons",
+      "duration": 21.0,
+      "title": "Barbie Dreamtopia Rainbow Cove Princess Castle Commercial Retro Toys and Cartoons"
+    },
+    {
+      "id": "uNmjKYVes3E",
+      "channel": "jumbostores",
+      "duration": 23.0,
+      "title": "Barbie Dreamtopia"
+    }
+  ]
+}

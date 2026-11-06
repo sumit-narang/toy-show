@@ -1,0 +1,57 @@
+{
+  "id": "2023-torpey-bambu-hurls",
+  "year": 2023,
+  "name": "Torpey Bambu Hurls",
+  "price_eur": 35.0,
+  "price_text": "€35-€80",
+  "retailers": [
+    {
+      "name": "Torpey",
+      "url": "https://torpey.ie/shop/hurleys/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://torpey.ie/collections/hurleys/",
+      "title": "Hurleys - Torpey",
+      "description": "Torpey Big Bás Bambú hurleys are the preference of many intercounty hurling stars and top players nationwide.",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "vPDoT9j33pg",
+      "channel": "TORPEY",
+      "duration": 161.0,
+      "title": "The Hurley That Changed Hurling | 5 Years of Torpey Bambú"
+    },
+    {
+      "id": "0fVLVREu5Xo",
+      "channel": "TORPEY",
+      "duration": 509.0,
+      "title": "TORPEY® BAMBÚ - THE FULL STORY"
+    },
+    {
+      "id": "TtFnJ_Xnpuc",
+      "channel": "TORPEY",
+      "duration": 53.0,
+      "title": "TORPEY® BAMBÚ - ENGINEERED HURLING PERFORMANCE"
+    },
+    {
+      "id": "wnPKJuUAZDQ",
+      "channel": "TORPEY",
+      "duration": 61.0,
+      "title": "Bambú Speed & Strike"
+    },
+    {
+      "id": "pIO6mP8u0NY",
+      "channel": "Naoise Hurling",
+      "duration": 372.0,
+      "title": "Torpey Bambú Strike, Speed and Sleek - My breakdown "
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2024-xootz-enigma-electric-scooter",
+  "year": 2024,
+  "name": "Xootz Enigma Electric Scooter",
+  "price_eur": null,
+  "price_text": "£129.95",
+  "retailers": [
+    {
+      "name": "Xootz",
+      "url": "https://www.xootz.co.uk/enigma-electric-scooter-blue.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.xootz.co.uk/products/enigma-electric-scooter",
+      "title": "Enigma Electric Scooter",
+      "description": "Offering impressive performance, practicality, and a stunning design, the Enigma has a top speed of 10km/h meaning riders can zip around with ease.",
+      "image": "http://www.xootz.co.uk/cdn/shop/files/xootz_electric_scooter_enigma.jpg?v=1735038589&width=2048",
+      "ld_description": "ENIGMA ELECTRIC SCOOTER: Offering impressive performance, practicality, and a stunning design, the Enigma has a top speed of 12km/h meaning riders can zip around with ease. QUICK TO CHARGE: The 24V lithium rechargeable battery gives up to 1 hour of fun on a single 2-3 hour charge, with faster recharging, lighter weight and longer lifespan than standard batteries, so your little rider spends more time playing /// THUMB THROTTLE CONTROL: Enjoy smooth acceleration and precise speed control with the easy-to-use thumb throttle. For added safety, the rear brake provides reliable stopping power.FOLDABLE DESIGN: The foldable functionality allows for convenient storage and portability, while the kickstand ensures the scooter stays upright and secure when not in motion. Folded Dimensions: L80cm x W40cm x H24cmDESIGNED FOR AGES 6 AND UP: With adjustable handlebar height and a max user weight of 50kg, the scooter is perfect for kids aged 6 through to teens. Scooter dimensions: L80cm x W40cm x H82-95cmAWARD-WINNING PRODUCT: The Enigma has earned widespread recognition, winning top awards like The Big Christmas Wishlist, Independent Toy Awards and more",
+      "brand": "Xootz",
+      "ld_image": "https://www.xootz.co.uk/cdn/shop/files/xootz_electric_scooter_enigma.jpg?v=1735038589&width=2048"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "UKkDpYtdPqg",
+      "channel": "Xootz",
+      "duration": 144.0,
+      "title": "Enigma Electric Scooter Assembly Video"
+    },
+    {
+      "id": "GrhDBZS4iEk",
+      "channel": "Xootz",
+      "duration": 31.0,
+      "title": "Xootz Enigma Electric Scooter"
+    },
+    {
+      "id": "GUEgimTkCYg",
+      "channel": "Xootz",
+      "duration": 165.0,
+      "title": "Xootz Enigma Assembly Video"
+    },
+    {
+      "id": "SoW8Csp2b0w",
+      "channel": "The Entertainer",
+      "duration": 31.0,
+      "title": "Xootz Enigma 24V Electric Scooter"
+    },
+    {
+      "id": "THD2b0i8-Ok",
+      "channel": "Fantasyworld Kuwait",
+      "duration": 38.0,
+      "title": "Xootz Enigma 24V Electric Scooter - زوتز إنيجما سكوتر كهربائي 24 فولت"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-oscar-wilde-s-stories-for-children-by-oscar-wilde",
+  "year": 2025,
+  "name": "Oscar Wilde's Stories for Children by Oscar Wilde",
+  "price_eur": 22.99,
+  "price_text": "€22.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/oscar-wildes-stories-for-children-oscar-wilde-9781915071897"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/oscar-wildes-stories-for-children-oscar-wilde-9781915071897",
+      "title": "Oscar Wilde's Stories For Children By Oscar Wilde",
+      "description": "A beautifully illustrated keepsake edition of Oscar Wilde’s classic children’s stories, made to be treasured and shared — FREE DELIVERY OVER €10",
+      "image": null,
+      "ld_description": "Introduce a new generation to Oscar Wilde's classic children's tales with this stunningly illustrated luxury gift edition - a must-have for young readers this Christmas.\nOscar Wilde has enchanted readers young and old alike for over a hundred years. In 1888, he published a collection of bedtime stories for children. This beautiful collection contains six of these classic tales: ' The Selfish Giant', ' The Happy Prince', ' The Devoted Friend', ' The Nightingale & the Rose', ' The Remarkable Rocket' and ' The Young King'.\nFor the first time, these beloved stories from the great Irish queer author are being published in a major new edition by an Irish publisher. With high-quality paper, a linen-effect cover, gold foil details, ribbon bookmark and classic binding touches, this keepsake hardback edition, printed and bound in Italy, is crafted to be treasured and shared.\nFeeling both classic and fresh, timeless and modern, Lauren O'Hara's delicate, rich colour illustrations bring this cornerstone of children's literature to life for readers of all ages.\nIdeal for readers who:\n\nWould love to share classic children's stories in a beautiful new edition.\nEnjoy fairy tales filled with tenderness, sadness and moral wonder.\nWant a gift book that celebrates Oscar Wilde through rich illustration and design.\nPrefer timeless stories presented in a keepsake hardback to treasure and share.",
+      "brand": "Little Island Books",
+      "ld_image": "https://www.easons.com/images/m/574208f9fcb83720/original/9781915071897_5640986601.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pizpe79Kuq0",
+      "channel": "Classic Audiobooks with Elliot",
+      "duration": 1743.0,
+      "title": "The Devoted Friend by Oscar Wilde - Full Audiobook | Short Stories"
+    },
+    {
+      "id": "8_--YApHF10",
+      "channel": "Classic Audiobooks with Elliot",
+      "duration": 1532.0,
+      "title": "The Happy Prince by Oscar Wilde - Full Audiobook | Bedtime Stories"
+    },
+    {
+      "id": "VcSZ7vP4L-A",
+      "channel": "PastPorts Kids",
+      "duration": 181.0,
+      "title": "Who Was Oscar Wilde? 📚| The King of Clever Stories 🎭| PastPorts Kids Presents"
+    },
+    {
+      "id": "4ii1jGH6YHY",
+      "channel": "wisdom Tales animated",
+      "duration": 569.0,
+      "title": "The Selfish Giant | Oscar Wilde’s Timeless Moral Story | Animated Classic Fairytale"
+    },
+    {
+      "id": "aJwKm5CHmGo",
+      "channel": "Shalini Braganza",
+      "duration": 559.0,
+      "title": "Class 7: The Devoted Friend by Oscar Wilde"
+    }
+  ]
+}

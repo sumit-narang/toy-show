@@ -1,0 +1,54 @@
+{
+  "id": "2020-ty-squish-a-boo-giselle-the-leopard",
+  "year": 2020,
+  "name": "Ty Squish a Boo Giselle the Leopard",
+  "price_eur": 14.5,
+  "price_text": "€14.50",
+  "retailers": [
+    {
+      "name": "The Bubble Room, Skerries",
+      "url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-squish-a-boo-giselle-the-leopard"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thebubbleroom.ie/collections/beanie-boos/products/ty-squish-a-boo-giselle-the-leopard"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cmWSSSvX0nE",
+      "channel": "Ha Sa",
+      "duration": 531.0,
+      "title": "Beanie Boos: Twin Trouble!"
+    },
+    {
+      "id": "gyUJgWhwhRw",
+      "channel": "Ha Sa",
+      "duration": 592.0,
+      "title": "MY 550+ BEANIE BOO COLLECTION (2023)"
+    },
+    {
+      "id": "eGik82vrYW8",
+      "channel": "Susannes Vlogs",
+      "duration": 162.0,
+      "title": "Ty Beanie Boos Pink Leopard  Lainey"
+    },
+    {
+      "id": "kEzm-earAak",
+      "channel": "Beanie Boo Duo",
+      "duration": 438.0,
+      "title": "HORNLESS GISELLE?!"
+    },
+    {
+      "id": "qJ8uaDB44PM",
+      "channel": "Ha Sa",
+      "duration": 597.0,
+      "title": "ALL The Beanie Boos To EVER Exist (500+)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2025-squishy-bead-dinosaur-head",
+  "year": 2025,
+  "name": "Squishy Bead Dinosaur Head",
+  "price_eur": 1.85,
+  "price_text": "€1.85",
+  "retailers": [
+    {
+      "name": "Learning Space",
+      "url": "https://learningspace.ie/products/squishy-bead-dinosaur-head?shpxid=0f7557a3-c6e2-43bb-b172-d4c52b95e724"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://learningspace.ie/products/squishy-bead-dinosaur-head?shpxid=0f7557a3-c6e2-43bb-b172-d4c52b95e724"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "trHa5v33lTI",
+      "channel": "Eon Dude",
+      "duration": 552.0,
+      "title": "squishy dinosaur toy review"
+    },
+    {
+      "id": "rxOXCBDL0zA",
+      "channel": "Chillin' with Rachel 💛",
+      "duration": 605.0,
+      "title": "I Made VIRAL CRUNCHY STRESS BALL SQUISHIES! 😱😳 🫧*how to make diy squishy*"
+    },
+    {
+      "id": "ARwIKAg9PkE",
+      "channel": "The Therapy Store",
+      "duration": 36.0,
+      "title": "Squishy Dinosaur - The Therapy Store"
+    },
+    {
+      "id": "uGdqBS6GXkQ",
+      "channel": "Triangle ",
+      "duration": 1709.0,
+      "title": "I Found a Giant T. Rex in My Pool! Jurassic World Dinosaurs"
+    },
+    {
+      "id": "Drt_WOY-QpA",
+      "channel": "New City Toy",
+      "duration": 188.0,
+      "title": "Dinosaur Squishy Toy | Dinosaur World."
+    }
+  ]
+}

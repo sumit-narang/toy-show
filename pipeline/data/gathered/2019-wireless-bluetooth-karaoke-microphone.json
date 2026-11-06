@@ -1,0 +1,57 @@
+{
+  "id": "2019-wireless-bluetooth-karaoke-microphone",
+  "year": 2019,
+  "name": "Wireless Bluetooth Karaoke Microphone",
+  "price_eur": 12.99,
+  "price_text": "€12.99",
+  "retailers": [
+    {
+      "name": "Pigsback",
+      "url": "https://www.pigsback.com/en-ie/offer/434033"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.pigsback.com/",
+      "title": "Pigsback",
+      "description": "Join Secret Escapes for free to enjoy luxury travel at low prices.",
+      "image": "https://images.secretescapes.io/c/facebook/invite_to_secret_escapes.jpg?w=640&h=459"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hBwKIrxsBsQ",
+      "channel": "HappyRider Reviews",
+      "duration": 655.0,
+      "title": "BONAOK Bluetooth Microphone UNBOX & REVIEW - Karaoke Mic With Speaker"
+    },
+    {
+      "id": "lklMbr0_15o",
+      "channel": "Ultra Value Tech",
+      "duration": 644.0,
+      "title": "WS-858 Karaoke Microphone & Speaker - REVIEW ,TEST & How to Use it"
+    },
+    {
+      "id": "WouxD06xrT8",
+      "channel": "SuperTeki",
+      "duration": 486.0,
+      "title": "Wireless karaoke microphone and speaker for kids WS 858 unboxing and setup"
+    },
+    {
+      "id": "KPGP4ehwpZg",
+      "channel": "Reviewing Literally Everything",
+      "duration": 398.0,
+      "title": "Dual Mic Karaoke Machine PACKED with Features!"
+    },
+    {
+      "id": "cHI5nsUE2O0",
+      "channel": "Unwrapped and Rated",
+      "duration": 437.0,
+      "title": "How to Use Wireless Bluetooth Karaoke Microphones?"
+    }
+  ]
+}

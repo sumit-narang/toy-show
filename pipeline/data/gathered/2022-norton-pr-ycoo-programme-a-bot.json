@@ -1,0 +1,54 @@
+{
+  "id": "2022-norton-pr-ycoo-programme-a-bot",
+  "year": 2022,
+  "name": "Norton PR YCOO Programme a Bot",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YsD-B-_VbYk",
+      "channel": "SilverlitOfficial",
+      "duration": 47.0,
+      "title": "YCOO Program A bot X How to play Demo Video by Silverlit Toys"
+    },
+    {
+      "id": "P-PsKqoOk2s",
+      "channel": "Meisech",
+      "duration": 1291.0,
+      "title": "Silverlit YCOO Neo Robo Up"
+    },
+    {
+      "id": "b9knpDrX8WY",
+      "channel": "SilverlitOfficial",
+      "duration": 135.0,
+      "title": "YCOO Octobot robot how to play by Silverlit Toys"
+    },
+    {
+      "id": "IbtZKhwRLlA",
+      "channel": "SilverlitOfficial",
+      "duration": 80.0,
+      "title": "[How to Play] YCOO Follow me Droid Robot Demo Video by Silverlit Toys"
+    },
+    {
+      "id": "73kwsqUN-hc",
+      "channel": "SilverlitOfficial",
+      "duration": 51.0,
+      "title": "[How to play] YCOO Robo Dackel JR. Demo video by Silverlit Toys"
+    }
+  ]
+}

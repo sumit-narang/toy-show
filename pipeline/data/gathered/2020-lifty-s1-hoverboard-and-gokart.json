@@ -1,0 +1,57 @@
+{
+  "id": "2020-lifty-s1-hoverboard-and-gokart",
+  "year": 2020,
+  "name": "Lifty S1 Hoverboard and GoKart",
+  "price_eur": 269.0,
+  "price_text": "€269",
+  "retailers": [
+    {
+      "name": "Lifty",
+      "url": "https://www.lifty.co/product-page/hoverboard-gokart-kit"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.liftyelectric.com/",
+      "title": "Electric Scooters & E-Bikes Ireland | Lifty Electric",
+      "description": "Shop electric scooters and e-bikes in Ireland at Lifty Electric. Dublin showroom at 157 Capel Street, Irish warranty, and certified workshop repairs.",
+      "image": "https://www.liftyelectric.com/cdn/shop/files/liftylogojuly.jpg?v=1740097250"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Q7cVJYK99Qo",
+      "channel": "KhanFlicks",
+      "duration": 560.0,
+      "title": "Unboxing & Let's Drive - GoKart Kit by Hyper GoGo - Convert ANY Hoverboard into a Tesla Gokart!"
+    },
+    {
+      "id": "oH4MsREGFuM",
+      "channel": "Eridespace",
+      "duration": 139.0,
+      "title": "How to Turn Hoverboard into Gokart - Intall HYPER GOGO hoverboard Attachment"
+    },
+    {
+      "id": "bPdb1JwMW5Q",
+      "channel": "Citymate",
+      "duration": 14.0,
+      "title": "Smart Balance N8S Elektrikli Kaykay Hummer Hoverboard Off Road 8 5 İnch"
+    },
+    {
+      "id": "4U3tEXi4Uc8",
+      "channel": "Tech With Brett",
+      "duration": 879.0,
+      "title": "Ninebot S Self Balancing Hover Board Review"
+    },
+    {
+      "id": "nqW-ZjsoU4A",
+      "channel": "KhanFlicks",
+      "duration": 495.0,
+      "title": "Unboxing & Let's Drive - GoKart Kit by NineBot - Segway turns into a Tesla Gokart!"
+    }
+  ]
+}

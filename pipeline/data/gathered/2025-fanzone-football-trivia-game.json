@@ -1,0 +1,57 @@
+{
+  "id": "2025-fanzone-football-trivia-game",
+  "year": 2025,
+  "name": "Fanzone Football Trivia Game",
+  "price_eur": 19.99,
+  "price_text": "€19.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/fanzone-football-trivia-game/p/230010"
+    }
+  ],
+  "kind": "game",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/fanzone-football-trivia-game/p/230010",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4FWTK9MP_Fg",
+      "channel": "GOAL's FanZone",
+      "duration": 1579.0,
+      "title": "ULTIMATE WORLD CUP FOOTBALL QUIZ FOR £1000"
+    },
+    {
+      "id": "v-Zqqm42mJs",
+      "channel": "GOAL's FanZone",
+      "duration": 2069.0,
+      "title": "ULTIMATE FOOTBALL QUIZ FOR £1000"
+    },
+    {
+      "id": "H0jEXwWpRKI",
+      "channel": "GOAL's FanZone",
+      "duration": 1594.0,
+      "title": "FOOTBALL QUIZ BATTLE FOR £1000"
+    },
+    {
+      "id": "qdELP4uDTv0",
+      "channel": "Golden Bear Toys",
+      "duration": 97.0,
+      "title": "The Ultimate Football Trivia Game - Fanzone"
+    },
+    {
+      "id": "D0WffqMQMFk",
+      "channel": "GOAL's FanZone",
+      "duration": 1567.0,
+      "title": "How well do these fans REALLY know football?"
+    }
+  ]
+}

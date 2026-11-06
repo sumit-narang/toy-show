@@ -1,0 +1,54 @@
+{
+  "id": "2020-rio-roller-artist-quad-roller-skates",
+  "year": 2020,
+  "name": "Rio Roller Artist Quad Roller Skates",
+  "price_eur": 79.95,
+  "price_text": "€79.95",
+  "retailers": [
+    {
+      "name": "GoSk8",
+      "url": "https://gosk8.ie/skates/roller-skates-ireland/kids-quad-roller-skates/rio-roller-artist-quad-skates"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "https://gosk8.ie/skates/roller-skates-ireland/kids-quad-roller-skates/rio-roller-artist-quad-skates"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OBFExGm-tLQ",
+      "channel": "Skatie",
+      "duration": 486.0,
+      "title": "What Type Of Skates Should I Buy?"
+    },
+    {
+      "id": "91f3Y-otEio",
+      "channel": "SkateHut",
+      "duration": 35.0,
+      "title": "Rio Roller Leopard Quad Skates - Skatehut"
+    },
+    {
+      "id": "oOd7oR6BO_8",
+      "channel": "Skatie",
+      "duration": 591.0,
+      "title": "I Tested A Variety Of Roller Skate Wheels Indoors And Outdoors So That You Don't Have To!"
+    },
+    {
+      "id": "41G35DBfYCw",
+      "channel": "Confidence on Skates with Mel",
+      "duration": 82.0,
+      "title": "Rio Signature vs Rookie Rosa - Roller skates on a BUDGET - what to buy 2025"
+    },
+    {
+      "id": "hXpAHf-rwPI",
+      "channel": "Sk8rangers",
+      "duration": 1365.0,
+      "title": "OUR ROLLERSKATE COLLECTION | Rio Roller/Bauers/Roces/Rookies/Ventros"
+    }
+  ]
+}

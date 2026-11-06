@@ -1,0 +1,57 @@
+{
+  "id": "2024-power-saber",
+  "year": 2024,
+  "name": "Power Saber",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/red-power-saber-auto-extending-and-retracting-saber/p/238208"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/red-power-saber-auto-extending-and-retracting-saber/p/238208",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Y3qWkZAxank",
+      "channel": "Goliath",
+      "duration": 92.0,
+      "title": "Power Saber: How To"
+    },
+    {
+      "id": "I9BiTZzoJMc",
+      "channel": "Finding The Force",
+      "duration": 800.0,
+      "title": "World's 1st Retractable Lightsaber For Sale! Power Saber Unboxing + Review!"
+    },
+    {
+      "id": "qKHJTtyTUnY",
+      "channel": "Hyperdrive A Star Wars Channel",
+      "duration": 594.0,
+      "title": "Is the Power Saber The 1st Automatic Lightsaber Worth The Money?"
+    },
+    {
+      "id": "eqsXrAp9AGg",
+      "channel": "Order 66 Collectibles",
+      "duration": 575.0,
+      "title": "Goliath Power Saber - World FIRST Automatic Retractable Lightsaber"
+    },
+    {
+      "id": "ziI_V4-foww",
+      "channel": "Crabbok",
+      "duration": 734.0,
+      "title": "World's First Self Retractable Lightsaber Review - Power Saber by Goliath"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2018-disney-dolls-various",
+  "year": 2018,
+  "name": "Disney Dolls Various",
+  "price_eur": 16.0,
+  "price_text": "€16.00",
+  "retailers": [
+    {
+      "name": "The Disney Store",
+      "url": "https://www.shopdisney.co.uk/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.disneystore.co.uk/",
+      "title": "Disney Store | Official Site for Disney Merchandise",
+      "description": "shopDisney online is now disneystore.co.uk, the ultimate Disney shopping destination! Shop for costumes, clothes, toys, collectibles, decor, movies and more.",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/ShopDisney/ds-logo-social?wid=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Zg50cc0Z87s",
+      "channel": "Forever Disney Princess ",
+      "duration": 2348.0,
+      "title": "Disney Princess Commercials: All Of The Mattel Disney Princess Commercials"
+    },
+    {
+      "id": "676oNUWEVf8",
+      "channel": "Beauty Inside A Box",
+      "duration": 297.0,
+      "title": "Mulan - Disney Princess Doll Collection (2018 Update) - Beauty Inside A Box"
+    },
+    {
+      "id": "FCGTlmJ9ZAI",
+      "channel": "PeachY Reviews",
+      "duration": 3541.0,
+      "title": "Unboxing ALL 13 NEW 2026 Disney Princess Dolls by Mattel + Hasbro COMPARISONS!!💖🍵🔥"
+    },
+    {
+      "id": "nSrVQh0jXZA",
+      "channel": "Worldflyer Too",
+      "duration": 521.0,
+      "title": "Disney Princess (12 Inch Doll Collection) Song Medley [For Adult Collectors]"
+    },
+    {
+      "id": "Nuf0Zmzgbks",
+      "channel": "Beauty Inside A Box",
+      "duration": 615.0,
+      "title": "Ariel - Disney Princess Doll Collection (2017 Update) - Beauty Inside A Box"
+    }
+  ]
+}

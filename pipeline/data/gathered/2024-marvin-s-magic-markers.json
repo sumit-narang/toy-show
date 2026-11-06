@@ -1,0 +1,60 @@
+{
+  "id": "2024-marvin-s-magic-markers",
+  "year": 2024,
+  "name": "Marvin's Magic Markers",
+  "price_eur": 18.0,
+  "price_text": "€18",
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "https://www.arnotts.ie/toys/arts-crafts/marvins-magic/12-pack-silver-rainbow-markers/2000489799.html"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/toys/arts-crafts/marvins-magic/12-pack-silver-rainbow-markers/2000489799.html",
+      "title": "MARVINS MAGIC 12-Pack Silver Rainbow Markers - Multi",
+      "description": "Create marvellous magic art using 12 magic pens with amazing powers. These magical marker pens from Marvins Magic draw beautifully with 2 colours at once, silver on the inside and a colour of your choice on the outside.",
+      "image": "https://images.brownthomas.com/bta/PLP/PLP_2000489799_01.jpg?$product_tile_plp$",
+      "ld_description": "Create marvellous magic art using 12 magic pens with amazing powers. These magical marker pens from Marvin's Magic draw beautifully with 2 colours at once, silver on the inside and a colour of your choice on the outside.",
+      "brand": "MARVIN'S MAGIC",
+      "ld_image": "https://images.brownthomas.com/bta/2000489799_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "E0shtmN81_s",
+      "channel": "Marvin's Magic",
+      "duration": 61.0,
+      "title": "Marvin's 30 Amazing Magic Changing Pens"
+    },
+    {
+      "id": "6BTz7igjfd0",
+      "channel": "Marvin's Magic",
+      "duration": 72.0,
+      "title": "Marvin's Magic 30 Amazing Magic Changing Pens"
+    },
+    {
+      "id": "mWnFA-5YuHw",
+      "channel": "Pittsburgh Pat",
+      "duration": 379.0,
+      "title": "Marvin's Magic Markers: Ultimate Guide and Tips"
+    },
+    {
+      "id": "afTsr68_4xs",
+      "channel": "Marvin's Magic",
+      "duration": 127.0,
+      "title": "Marvin's 25 Amazing Magic Changing Pens"
+    },
+    {
+      "id": "yQnqjjCgf0U",
+      "channel": "Moriah Elizabeth",
+      "duration": 794.0,
+      "title": "Making Art With *MAGIC*"
+    }
+  ]
+}

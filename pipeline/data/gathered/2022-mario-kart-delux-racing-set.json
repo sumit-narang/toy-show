@@ -1,0 +1,54 @@
+{
+  "id": "2022-mario-kart-delux-racing-set",
+  "year": 2022,
+  "name": "Mario Kart Delux Racing Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "KHHANh-CwTU",
+      "channel": "4up media",
+      "duration": 121.0,
+      "title": "Mario & Luigi play Mario Kart Racing Deluxe from Epoch"
+    },
+    {
+      "id": "wTEj1NE0Iuc",
+      "channel": "Smyths Toys Superstores",
+      "duration": 24.0,
+      "title": "Super Mario kart Racing Track Deluxe Game - Smyths Toys"
+    },
+    {
+      "id": "IxM3mFb2KkU",
+      "channel": "YoungExplorersToys",
+      "duration": 34.0,
+      "title": "MarioKart Tabletop Racing"
+    },
+    {
+      "id": "Hajl5cvZdpw",
+      "channel": "JammerProHD",
+      "duration": 729.0,
+      "title": "BEST Karts for RACING!! - Mario Kart 8 Deluxe"
+    },
+    {
+      "id": "uiP6c2ktJxE",
+      "channel": "GamePartyHub.",
+      "duration": 891.0,
+      "title": "Mario Kart 8 Deluxe (2-Player): Epic 150CC Showdown - Mario Gold vs. Dry Bones Gold!"
+    }
+  ]
+}

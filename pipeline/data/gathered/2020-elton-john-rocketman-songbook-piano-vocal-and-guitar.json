@@ -1,0 +1,54 @@
+{
+  "id": "2020-elton-john-rocketman-songbook-piano-vocal-and-guitar",
+  "year": 2020,
+  "name": "Elton John Rocketman Songbook (Piano, Vocal and Guitar)",
+  "price_eur": 23.0,
+  "price_text": "€23.00",
+  "retailers": [
+    {
+      "name": "Waltons Music",
+      "url": "https://www.waltons.ie/home/products/view/11amus-hl00298946-elton-john-rocketman-piano-vocal-and-guitar/"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://www.waltons.ie/home/products/view/11amus-hl00298946-elton-john-rocketman-piano-vocal-and-guitar/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "BV4URDgUgqA",
+      "channel": "brodyworld",
+      "duration": 235.0,
+      "title": "Elton John - Rocket Man (cover)"
+    },
+    {
+      "id": "DtVBCG6ThDk",
+      "channel": "Elton John",
+      "duration": 283.0,
+      "title": "Elton John - Rocket Man (Official Music Video)"
+    },
+    {
+      "id": "q3dhgUrW0yU",
+      "channel": "Songbook - Topic",
+      "duration": 143.0,
+      "title": "Rocketman (Songbook Sessions)"
+    },
+    {
+      "id": "-9mXep5rN24",
+      "channel": "ThreeTimesThrough",
+      "duration": 247.0,
+      "title": "07 Rocket Man - 70s Songbook with Anni McCann & Friends"
+    },
+    {
+      "id": "SDzOlO3_TqA",
+      "channel": "Peter Tam Music",
+      "duration": 97.0,
+      "title": "Piano Men HD Video - Elton John Billy Joel Song Book by Peter Tam"
+    }
+  ]
+}

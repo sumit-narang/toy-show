@@ -1,0 +1,53 @@
+{
+  "id": "2017-teddy-unicorn-purple",
+  "year": 2017,
+  "name": "Teddy Unicorn Purple",
+  "price_eur": 7.0,
+  "price_text": "€7.00",
+  "retailers": [
+    {
+      "name": "Tiger",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "EX6Ve0l6kkY",
+      "channel": "Kids Toys Universe",
+      "duration": 114.0,
+      "title": "Pink baby unicorn teddy bear toy |Unicorn teddy bear stuffed toy | Best teddy bear toys"
+    },
+    {
+      "id": "KsiF1eVcKd4",
+      "channel": "MomLife",
+      "duration": 105.0,
+      "title": "Build a Bear purple baby unicorn online exclusive"
+    },
+    {
+      "id": "olWBgQV-IWQ",
+      "channel": "Kiddie Lanka",
+      "duration": 91.0,
+      "title": "Pinky the Unicorn 🦄| Magical Kids Rhyme & Adventure Song ✨| Kiddie Lanka 🌈| Fantasy World 🌸| English"
+    },
+    {
+      "id": "ugzEbCI3h4g",
+      "channel": "Maqaroon",
+      "duration": 917.0,
+      "title": "COLOR-CHANGING Unicorn Plush!! How to Make Cutest DIY Unicorn Crafts!"
+    },
+    {
+      "id": "L1q3UWVH-So",
+      "channel": "Love of Purple World 💜💜",
+      "duration": 22.0,
+      "title": "Unicorn🦄🦄 vs Teady 🐻🐻"
+    }
+  ]
+}

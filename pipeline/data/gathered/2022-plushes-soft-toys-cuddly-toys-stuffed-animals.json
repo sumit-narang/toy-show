@@ -1,0 +1,57 @@
+{
+  "id": "2022-plushes-soft-toys-cuddly-toys-stuffed-animals",
+  "year": 2022,
+  "name": "Plushes Soft Toys - Cuddly Toys - Stuffed Animals",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "IKEA Ireland",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "srj8o9v-uYM",
+      "channel": "SLYP1E",
+      "duration": 830.0,
+      "title": "BIGGEST Poppy Playtime Plush Collection!"
+    },
+    {
+      "id": "0eR1w39McAY",
+      "channel": " Magnet ASMR ",
+      "duration": 5755.0,
+      "title": "90 Minutes Satisfying with Unboxing COCOMELON Bingo Recycled Plush Stuffed Animal Dog | ASMR"
+    },
+    {
+      "id": "D_DO2jXYYMY",
+      "channel": "pstoyreviews",
+      "duration": 637.0,
+      "title": "Care Bears 22\" Expanding Plush Stuffed Animal Haul Unboxing"
+    },
+    {
+      "id": "Es1E1OrPuqw",
+      "channel": "Maple Eye Toys",
+      "duration": 121.0,
+      "title": "Stuffed Animals Wholesale | Bulk Stuffed Animals | Plush Toy Wholesale From China Toys Manufacturers"
+    },
+    {
+      "id": "dX8NiRrhrpI",
+      "channel": "Uniplushdoll",
+      "duration": 71.0,
+      "title": "Cotton plush doll Unboxing, make up."
+    }
+  ]
+}

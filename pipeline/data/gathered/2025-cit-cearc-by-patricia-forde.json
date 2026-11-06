@@ -1,0 +1,36 @@
+{
+  "id": "2025-cit-cearc-by-patricia-forde",
+  "year": 2025,
+  "name": "Cití Cearc by Patricia Forde",
+  "price_eur": 10.95,
+  "price_text": "€10.95",
+  "retailers": [
+    {
+      "name": "Chapters Bookstore",
+      "url": "https://chaptersbookstore.com/products/patricia-forde-citi-cearc-2025?_pos=1&_sid=76ae30e98&_ss=r"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://chaptersbookstore.com/products/patricia-forde-citi-cearc-2025?_pos=1&_sid=76ae30e98&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "w89VogRlESo",
+      "channel": "Muinteoir A",
+      "duration": 462.0,
+      "title": "Cití Cearc - Scéalta le hAoife"
+    },
+    {
+      "id": "sDh4PsHonOw",
+      "channel": "FutaFata",
+      "duration": 336.0,
+      "title": "Mise agus an Dragún"
+    }
+  ]
+}

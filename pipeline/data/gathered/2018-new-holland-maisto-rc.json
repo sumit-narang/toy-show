@@ -1,0 +1,73 @@
+{
+  "id": "2018-new-holland-maisto-rc",
+  "year": 2018,
+  "name": "New Holland Maisto RC",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    },
+    {
+      "name": "Tobar",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "SAQCXxozQSI",
+      "channel": "One For Fun",
+      "duration": 61.0,
+      "title": "Maisto Tech RC New Holland Tractor from Tobar"
+    },
+    {
+      "id": "knY-iJq9hT8",
+      "channel": "Maisto Toys",
+      "duration": 70.0,
+      "title": "Maisto Tech R/C  Massey Ferguson and New Holland Farm Tractors"
+    },
+    {
+      "id": "X52GMGzOqc4",
+      "channel": "Play&Unbox",
+      "duration": 648.0,
+      "title": "NEW HOLLAND T8.435 GENESIS RC TRACTOR Unboxing & Test Drive🚜 Maisto Tech R/C Farm Series #rctractor"
+    },
+    {
+      "id": "pMOpdkB49l8",
+      "channel": "Μπιζζζ! Παιχνίδια",
+      "duration": 70.0,
+      "title": "Mpiztoys - Maisto Tech RC New Holland Farm Tractors"
+    },
+    {
+      "id": "bpT_Z1cQwJA",
+      "channel": "heinrichbauer _toys",
+      "duration": 77.0,
+      "title": "Maisto Tech - RC New Holland"
+    }
+  ]
+}

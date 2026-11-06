@@ -1,0 +1,57 @@
+{
+  "id": "2023-transformers-rc-converting-optimus-prime",
+  "year": 2023,
+  "name": "Transformers RC Converting Optimus Prime",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/transformers/transformers-war-for-cybertron/transformers-transforming-r-c-robot-optimus-prime/p/216054"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/transformers/transformers-war-for-cybertron/transformers-transforming-r-c-robot-optimus-prime/p/216054",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DuuQCCiTQRk",
+      "channel": "TTPM Toy Reviews",
+      "duration": 196.0,
+      "title": "Transformers AutoBot Optimus Prime Converting RC from Jada Toys Review!"
+    },
+    {
+      "id": "-KbPiSEtVJs",
+      "channel": "emgo316",
+      "duration": 681.0,
+      "title": "Jada Toys R/C Converting OPTIMUS PRIME: EmGo's Transformers Reviews N' Stuff"
+    },
+    {
+      "id": "hfysW9121dc",
+      "channel": "JJ Toys Review",
+      "duration": 289.0,
+      "title": "NEW RC Transformer Bubblebee Auto Converts 🧐🤖 (Unboxing & Review)"
+    },
+    {
+      "id": "gZhiDOI9AWQ",
+      "channel": "Action Figure Insider",
+      "duration": 299.0,
+      "title": "Jada Toys R/C Transforming Optimus Prime"
+    },
+    {
+      "id": "a0SEYM9jHVg",
+      "channel": "CNET",
+      "duration": 449.0,
+      "title": "This Transformers robot transforms BY ITSELF"
+    }
+  ]
+}

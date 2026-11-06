@@ -1,0 +1,38 @@
+{
+  "id": "2022-the-truth-about-riley-sin-ad-moriarty",
+  "year": 2022,
+  "name": "The Truth About Riley - Sinéad Moriarty",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "DZZKp5kADi4",
+      "channel": "Google Play Books",
+      "duration": 959.0,
+      "title": "Fixing Mum and Dad by Sinéad Moriarty · Audiobook preview"
+    },
+    {
+      "id": "xme7Aq4PyQo",
+      "channel": "Google Play Books",
+      "duration": 969.0,
+      "title": "The New Girl by Sinéad Moriarty · Audiobook preview"
+    },
+    {
+      "id": "12zOMK_9e2Y",
+      "channel": "An Post",
+      "duration": 105.0,
+      "title": "Sinead Moriarty Wins Teen & Young Adult Book of the Year"
+    },
+    {
+      "id": "PcdDdB_-Wuc",
+      "channel": "Google Play Books",
+      "duration": 924.0,
+      "title": "Finding Hope by Sinéad Moriarty · Audiobook preview"
+    }
+  ]
+}

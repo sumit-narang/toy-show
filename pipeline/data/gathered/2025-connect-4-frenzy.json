@@ -1,0 +1,54 @@
+{
+  "id": "2025-connect-4-frenzy",
+  "year": 2025,
+  "name": "Connect 4 Frenzy",
+  "price_eur": 18.0,
+  "price_text": "€18.00",
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "https://banbatoys.ie/products/hbg2782"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/products/hbg2782"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "2hF-NkAPAS4",
+      "channel": "TTPM Toy Reviews",
+      "duration": 109.0,
+      "title": "Learn How to Play the NEW Connect 4 Frenzy!"
+    },
+    {
+      "id": "UD51Yh25-o4",
+      "channel": "Matt's Real Reviews",
+      "duration": 193.0,
+      "title": "How to Play Connect Four Frenzy, Gameplay Options and Instructions"
+    },
+    {
+      "id": "3iz8fOyh710",
+      "channel": "TurboToyTime",
+      "duration": 653.0,
+      "title": "Father VS Son PLAY CONNECT 4 FRENZY ! (Trick Shot Battle!)"
+    },
+    {
+      "id": "xAlnCJO7Fxw",
+      "channel": "Hasbro Games",
+      "duration": 162.0,
+      "title": "How To Play Connect 4 Frenzy | Frenzy Meets Free-4-all Fun! | Hasbro Games"
+    },
+    {
+      "id": "v6N0JGmi1W4",
+      "channel": "Way Too Simple",
+      "duration": 306.0,
+      "title": "How to Win Connect 4 Every Time"
+    }
+  ]
+}

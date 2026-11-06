@@ -1,0 +1,53 @@
+{
+  "id": "2017-ps-nail-dryer",
+  "year": 2017,
+  "name": "PS... Nail Dryer",
+  "price_eur": 5.0,
+  "price_text": "€5.00",
+  "retailers": [
+    {
+      "name": "Penneys",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "GykwlVpWrA8",
+      "channel": "Buddy Bennett",
+      "duration": 117.0,
+      "title": "Gel UV LED Nail Lamp,LKE Nail Dryer 40W Gel Nail Polish LED UV Light with 3 Timers Profess"
+    },
+    {
+      "id": "5DZjfzSQ5K8",
+      "channel": "แม่ลำ สืบหลาด",
+      "duration": 174.0,
+      "title": "Gellen Nail Tips And Glue Gel Kit, Acrylic Nail Kit 240Pcs Square Fake Nails, U V Led Nail Lamp - H"
+    },
+    {
+      "id": "PS-ijRl_PzQ",
+      "channel": "CN ",
+      "duration": 101.0,
+      "title": "Fashion Angels Unicorn Magic Nail Kit With Nail Polish, and Nail Dryer  kids Toys #short"
+    },
+    {
+      "id": "bolMVxd6L6s",
+      "channel": "Luckymall Indonesia",
+      "duration": 15.0,
+      "title": "UV LED Nail Dryer Pengering Kutek LED Lampu Pengeringan Lamp Kutek Mini Gel Profesional Cat Kuku"
+    },
+    {
+      "id": "o1qPeh7I1uo",
+      "channel": "Raquel Kishara",
+      "duration": 723.0,
+      "title": "Try it out: Beetles Stay Shining Mini Mani Studio Kit (Starting with Blush Muse)"
+    }
+  ]
+}

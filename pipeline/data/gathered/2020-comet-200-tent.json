@@ -1,0 +1,54 @@
+{
+  "id": "2020-comet-200-tent",
+  "year": 2020,
+  "name": "Comet 200 Tent",
+  "price_eur": 43.95,
+  "price_text": "€43.95",
+  "retailers": [
+    {
+      "name": "Basecamp",
+      "url": "https://basecamp.ie/collections/tents/products/comet-200-tent-green"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://basecamp.ie/collections/tents/products/comet-200-tent-green"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sE3pgHMc3NQ",
+      "channel": "easy camp outdoor",
+      "duration": 94.0,
+      "title": "Easy Camp Comet 200 Tent | Just Add People"
+    },
+    {
+      "id": "XuYvL9s4dQ8",
+      "channel": "Camping World UK",
+      "duration": 73.0,
+      "title": "Easy Camp Comet 200 Tent - CampingWorld.co.uk"
+    },
+    {
+      "id": "iuS_1iL24WI",
+      "channel": "easy camp outdoor",
+      "duration": 188.0,
+      "title": "Easy Camp Comet 200 Tent Pitching Video | Just Add People"
+    },
+    {
+      "id": "-h-OyDlkh0Y",
+      "channel": "easy camp outdoor",
+      "duration": 253.0,
+      "title": "Comet 200.wmv"
+    },
+    {
+      "id": "unFs_lzgcJ4",
+      "channel": "Camping World UK",
+      "duration": 222.0,
+      "title": "Easy Camp Comet 200 Tent Pitching - CampingWorld.co.uk"
+    }
+  ]
+}

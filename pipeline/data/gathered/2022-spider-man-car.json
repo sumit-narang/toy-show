@@ -1,0 +1,44 @@
+{
+  "id": "2022-spider-man-car",
+  "year": 2022,
+  "name": "Spider-man car",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "SIUV1QpbIzE",
+      "channel": "Cars Racing Games",
+      "duration": 3924.0,
+      "title": "GTA V Superheroes Crazy Race Challenge with Super Cars | GTA 5 Spiderman Car Stunt Race"
+    },
+    {
+      "id": "zuoJ4C5pt3Y",
+      "channel": "SpiderMan Car Master",
+      "duration": 1288.0,
+      "title": "🕸️ Epic Spider-Man Car Jump From Building Top"
+    },
+    {
+      "id": "MMD3R_fjo90",
+      "channel": "FLife TV",
+      "duration": 3974.0,
+      "title": "Spider-Man Becomes A RACER And The Richest Student At School !! ( Racing Action POV )"
+    },
+    {
+      "id": "6Nw29nTXd4Q",
+      "channel": "GTAStreaming",
+      "duration": 2374.0,
+      "title": "SPIDER MAN Takes on Spiral Bridge Stunt Ride on Motorcycle🦺🥽بطال الخارقين على القضبان دوامة قمع جس"
+    },
+    {
+      "id": "xcUmaOsmzcA",
+      "channel": "FLife TV",
+      "duration": 2666.0,
+      "title": "Suddenly ,  Spider-Man Became Rich Student But Who Stole His SuperCar at School ?? ( Journey POV )"
+    }
+  ]
+}

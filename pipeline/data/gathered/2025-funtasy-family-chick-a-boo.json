@@ -1,0 +1,26 @@
+{
+  "id": "2025-funtasy-family-chick-a-boo",
+  "year": 2025,
+  "name": "Funtasy Family Chick-A-Boo",
+  "price_eur": 40.74,
+  "price_text": "€40.74",
+  "retailers": [
+    {
+      "name": "Amazon.ie",
+      "url": "https://www.amazon.ie/1110100678-Chick-a-boo/dp/B0F3BHFBXZ/ref=sr_1_1?crid=1OLO72JATW97X&dib=eyJ2IjoiMSJ9.CfSlRoTHzjTaTqHQ-EN06w.u72dKYXQDv8Xi_wzqyJiC7Z05Hj9oEJ_eEOWLGFkY5U&dib_tag=se&keywords=chick-a-boo+funtasy+family&qid=1764866426&sprefix=chick-a-boo+funtasy+family%2Caps%2C38&sr=8-1"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.amazon.ie/1110100678-Chick-a-boo/dp/B0F3BHFBXZ/ref=sr_1_1?crid=1OLO72JATW97X&dib=eyJ2IjoiMSJ9.CfSlRoTHzjTaTqHQ-EN06w.u72dKYXQDv8Xi_wzqyJiC7Z05Hj9oEJ_eEOWLGFkY5U&dib_tag=se&keywords=chick-a-boo+funtasy+family&qid=1764866426&sprefix=chick-a-boo+funtasy+family%2Caps%2C38&sr=8-1",
+      "title": "Chick a boo : Amazon.ie",
+      "description": "Chick a boo : Amazon.ie",
+      "image": null
+    }
+  ],
+  "video_candidates": []
+}

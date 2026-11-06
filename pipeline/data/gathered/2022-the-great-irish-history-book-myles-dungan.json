@@ -1,0 +1,44 @@
+{
+  "id": "2022-the-great-irish-history-book-myles-dungan",
+  "year": 2022,
+  "name": "The Great Irish History Book - Myles Dungan",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "lJugaJOG8B8",
+      "channel": "Alan Dunne",
+      "duration": 46.0,
+      "title": "The Great Irish History Book by Myles Dungan, illustrated by Alan Dunne."
+    },
+    {
+      "id": "npBs5rKI-Xw",
+      "channel": "Google Play Books",
+      "duration": 1224.0,
+      "title": "Land Is All That Matters: The Struggle That… by Myles Dungan · Audiobook preview"
+    },
+    {
+      "id": "X7twwbz5Eqs",
+      "channel": "Royal Irish Academy",
+      "duration": 292.0,
+      "title": "Meet the authors: Myles Dungan"
+    },
+    {
+      "id": "-Fs7zNnJuOM",
+      "channel": "The Courts Service of Ireland",
+      "duration": 4152.0,
+      "title": "The Irish Law Times goes to war 1914 - 1918 :  Dr Myles Dungan"
+    },
+    {
+      "id": "8QAWm3joots",
+      "channel": "Meath County Library",
+      "duration": 203.0,
+      "title": "Ireland Reads - Myles Dungan"
+    }
+  ]
+}

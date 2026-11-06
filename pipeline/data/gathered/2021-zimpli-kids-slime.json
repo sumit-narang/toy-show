@@ -1,0 +1,57 @@
+{
+  "id": "2021-zimpli-kids-slime",
+  "year": 2021,
+  "name": "Zimpli Kids Slime",
+  "price_eur": null,
+  "price_text": "£14.99",
+  "retailers": [
+    {
+      "name": "Zimpli Kids",
+      "url": "https://www.zimplikids.com/"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://zimplikids.com/",
+      "title": "Zimpli Kids – Children’s Sensory and Bath Products",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "YXYJ4emTYqE",
+      "channel": "Zimpli Kids",
+      "duration": 401.0,
+      "title": "DIY Science Experiments with Zimpli Kids - Gelli & Slime Edition!"
+    },
+    {
+      "id": "O8dWk5UPuhM",
+      "channel": "Zimpli Kids",
+      "duration": 27.0,
+      "title": "Zimpli's Special Effect Baff Bombz"
+    },
+    {
+      "id": "_5JOlvGHLhU",
+      "channel": "Victoria Jane",
+      "duration": 493.0,
+      "title": "AD | GELLI BAFF, SNOBALL PLAY AND SLIME BAFF | REVIEW | UK MUM OF ONE"
+    },
+    {
+      "id": "CQzawjisOmQ",
+      "channel": "TTPM Toy Reviews",
+      "duration": 139.0,
+      "title": "Glitter Gelli Baff, Colour Change Gelli Baff, and MEGA Baff Pack from Zimpli Kids"
+    },
+    {
+      "id": "CdcUKMGBS7E",
+      "channel": "Sensational Learning with Penguin",
+      "duration": 124.0,
+      "title": "Playing with Slime Play from Zimpli Kids"
+    }
+  ]
+}

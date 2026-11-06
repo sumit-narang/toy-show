@@ -1,0 +1,53 @@
+{
+  "id": "2018-bosco-tea-cosy",
+  "year": 2018,
+  "name": "Bosco Tea Cosy",
+  "price_eur": 25.0,
+  "price_text": "€25.00",
+  "retailers": [
+    {
+      "name": "JK Timeless Crafts on Etsy",
+      "url": null
+    }
+  ],
+  "kind": "other",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "8p47lkx-GsA",
+      "channel": "Bella Coco",
+      "duration": 2986.0,
+      "title": "CROCHET: Tea Cosy tutorial | Bella Coco"
+    },
+    {
+      "id": "Wl7z1DOxPZs",
+      "channel": "Her 86m2",
+      "duration": 527.0,
+      "title": "#47 Homegrown Herbal Tea Recipes for Better Sleep 🍵"
+    },
+    {
+      "id": "s1aoCKFw2RY",
+      "channel": "Restful Cabin Jazz",
+      "duration": 9421.0,
+      "title": "Luxury Cabin In A Forest Waterfall Jazz | Afternoon Tea, Cozy Jazz, Natural Sound For A Restful M..."
+    },
+    {
+      "id": "p5JQejtWJG0",
+      "channel": "Lord Pecalon",
+      "duration": 3871.0,
+      "title": "Gentle Fantasy Music for Autumn Rest – The Badger’s Quiet Cup"
+    },
+    {
+      "id": "5w8Pqk57W3Q",
+      "channel": "Otogi.",
+      "duration": 200.0,
+      "title": "[Celtic Music] A Little Café on the First Snowy Night ☕❄️ | Cozy Animated Storybook Short"
+    }
+  ]
+}

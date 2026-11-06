@@ -1,0 +1,26 @@
+{
+  "id": "2022-amuigh-faoin-sp-ir-sadhbh-devlin-brian-fitzgerald",
+  "year": 2022,
+  "name": "Amuigh Faoin Spéir - Sadhbh Devlin & Brian Fitzgerald",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "FJTbDW8yQvc",
+      "channel": "Meath County Library",
+      "duration": 394.0,
+      "title": "Scéal Trail: Amuigh Faoin Spéir. Scríofa ag Sadhbh Devlin agus maisithe le Brian Fitzgerald."
+    },
+    {
+      "id": "e5Qgis0g2QM",
+      "channel": "The Arts Council / An Chomhairle Ealaíon",
+      "duration": 2360.0,
+      "title": "Creative Schools Webinar   Amuigh Faoin Spéir"
+    }
+  ]
+}

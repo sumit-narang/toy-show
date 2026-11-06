@@ -1,0 +1,69 @@
+{
+  "id": "2018-our-generation-awesome-academy-school-room",
+  "year": 2018,
+  "name": "Our Generation Awesome Academy School Room",
+  "price_eur": 159.99,
+  "price_text": "€159.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "oU_XwQATAMI",
+      "channel": "OG Dolls",
+      "duration": 70.0,
+      "title": "Our Generation Dolls - Awesome Academy Assembly Instructions"
+    },
+    {
+      "id": "enbbRkaiOqQ",
+      "channel": "DeenaandBeena",
+      "duration": 670.0,
+      "title": "Our Generation Classroom Awesome Academy School Review"
+    },
+    {
+      "id": "bAnSFpJHXE4",
+      "channel": "AGitssocute",
+      "duration": 464.0,
+      "title": "Setting Up~Our Generation Awesome Academy School Room!"
+    },
+    {
+      "id": "bwvrrrjmzko",
+      "channel": "CoolToys",
+      "duration": 607.0,
+      "title": "OUR GENERATION AWESOME ACADEMY SCHOOL ROOM FOR DOLLS | MINIS"
+    },
+    {
+      "id": "l3i86KakjMk",
+      "channel": "ASMR Toys & Party",
+      "duration": 745.0,
+      "title": "Organizing my mini School 🏫 | Our Generation Awesome Academy ✨ ASMR No Talking"
+    }
+  ]
+}

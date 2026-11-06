@@ -1,0 +1,57 @@
+{
+  "id": "2021-batman-mini-6v-quad-ride-on-bike",
+  "year": 2021,
+  "name": "Batman Mini 6V Quad Ride On Bike",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "World of Wonder Toys",
+      "url": "https://worldofwondertoys.ie/?s=batman+"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://worldofwondertoys.ie/?s=batman+",
+      "title": "You searched for batman  | World Of Wonder Toys",
+      "description": null,
+      "image": "https://worldofwondertoys.ie/wp-content/uploads/2021/03/wowtoys.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "AWmtPXw1Dv8",
+      "channel": "Ride On Cars Unlimited",
+      "duration": 603.0,
+      "title": "Batman Motorbike Ride On Surpsie Unboxing and Playtime | Power Wheels Assembly"
+    },
+    {
+      "id": "8J547psrCMM",
+      "channel": "EAV KIDS",
+      "duration": 212.0,
+      "title": "Fun Ride on Batman Power Wheels ATV - Lil' Quad from Fisher-price"
+    },
+    {
+      "id": "7UjsKN7ruB4",
+      "channel": "FunWithAlexandAlyssa",
+      "duration": 247.0,
+      "title": "Alex riding on his  Power Wheels Batman Lil' Quad Ride-On"
+    },
+    {
+      "id": "VZasGtpX0Ug",
+      "channel": "Damon's Toy World",
+      "duration": 528.0,
+      "title": "Unboxing BATMAN Power Wheels Ride On for Kids 6V Batmobile"
+    },
+    {
+      "id": "9j2HHBBl33Y",
+      "channel": "Ride On Cars Unlimited",
+      "duration": 354.0,
+      "title": "Batmobile Batman Kids Ride On Walkaround | Power Wheels 12V Fun Demonstration"
+    }
+  ]
+}

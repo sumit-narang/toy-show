@@ -1,0 +1,69 @@
+{
+  "id": "2018-lego-harry-potter-hogwarts-express",
+  "year": 2018,
+  "name": "LEGO Harry Potter Hogwarts Express",
+  "price_eur": 79.99,
+  "price_text": "€79.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "iTq1kipeRCg",
+      "channel": "Solid Brix Studios",
+      "duration": 912.0,
+      "title": "Is this worth $500? | LEGO Harry Potter Hogwarts Express REVIEW"
+    },
+    {
+      "id": "tEqIAcdTSZc",
+      "channel": "Tiago Catarino",
+      "duration": 656.0,
+      "title": "LEGO Hogwarts Express Review"
+    },
+    {
+      "id": "QuuKWbwcxvM",
+      "channel": "Brick Builder",
+      "duration": 1403.0,
+      "title": "LEGO HARRY POTTER 76405 Hogwarts Express - Collectors' Edition - Brick Builder"
+    },
+    {
+      "id": "DOGmRB4z08c",
+      "channel": "AustrianBrickFan",
+      "duration": 3235.0,
+      "title": "LEGO Harry Potter 76405 Hogwarts Express Collectors Edition - LEGO Speed Build Review"
+    },
+    {
+      "id": "OCJXgINWUaU",
+      "channel": "MandRproductions",
+      "duration": 909.0,
+      "title": "LEGO Harry Potter 76423 HOGWARTS EXPRESS & HOGSMEADE STATION Review! (2023)"
+    }
+  ]
+}

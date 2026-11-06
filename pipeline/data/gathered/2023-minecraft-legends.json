@@ -1,0 +1,57 @@
+{
+  "id": "2023-minecraft-legends",
+  "year": 2023,
+  "name": "Minecraft Legends",
+  "price_eur": 44.99,
+  "price_text": "€44.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/minecraft-gaming/minecraft-legends/minecraft-legends-deluxe-edition-ps5/p/221575"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/minecraft-gaming/minecraft-legends/minecraft-legends-deluxe-edition-ps5/p/221575",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cnVftw9QWgg",
+      "channel": "Minecraft",
+      "duration": 72.0,
+      "title": "Minecraft x Dragon Ball Z - 1.1 Legends Update"
+    },
+    {
+      "id": "zIYtAHe3F3k",
+      "channel": "MooseCraft",
+      "duration": 11974.0,
+      "title": "I Survived 100 Days as a GOLEM in Minecraft LEGENDS"
+    },
+    {
+      "id": "zT1K7kNrDH0",
+      "channel": "John Calum",
+      "duration": 856.0,
+      "title": "I Platinum’d Minecraft Legends, It's Awful..."
+    },
+    {
+      "id": "poMFQCOB5cY",
+      "channel": "nkin",
+      "duration": 1226.0,
+      "title": "Stop Ignoring Minecraft Legends (It Changes EVERYTHING)"
+    },
+    {
+      "id": "O2U4WUzxz7g",
+      "channel": "MCBYT",
+      "duration": 649.0,
+      "title": "Minecraft Legends Was A $27,000,000 Disaster"
+    }
+  ]
+}

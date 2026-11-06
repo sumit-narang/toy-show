@@ -1,0 +1,44 @@
+{
+  "id": "2022-angel-rose-baby",
+  "year": 2022,
+  "name": "Angel Rose Baby",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "9xm3qnh1sck",
+      "channel": "Vietnameze4Life",
+      "duration": 217.0,
+      "title": "Rosie & the Originals - Angel Baby"
+    },
+    {
+      "id": "Pi18HSUt4wc",
+      "channel": "sunryse111",
+      "duration": 167.0,
+      "title": "Angel Baby   ROSIE & THE ORIGINALS (with lyrics)"
+    },
+    {
+      "id": "dtHK6jEzUFU",
+      "channel": "The Soul Halo",
+      "duration": 228.0,
+      "title": "Rosie & The Originals - Angel Baby"
+    },
+    {
+      "id": "62i4-WAHePc",
+      "channel": "Rosie & The Originals - Topic",
+      "duration": 228.0,
+      "title": "Angel Baby"
+    },
+    {
+      "id": "MppYiTqu1Ms",
+      "channel": "Rosie & The Originals - Topic",
+      "duration": 228.0,
+      "title": "Angel Baby"
+    }
+  ]
+}

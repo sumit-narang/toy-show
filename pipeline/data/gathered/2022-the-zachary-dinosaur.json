@@ -1,0 +1,54 @@
+{
+  "id": "2022-the-zachary-dinosaur",
+  "year": 2022,
+  "name": "The Zachary Dinosaur",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Lucy and Me",
+      "url": "https://lucyandme.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cECDRJOZ9jg",
+      "channel": "Zachary's Storybook Adventures",
+      "duration": 172.0,
+      "title": "Zachary's Dinosaur Adventure | Fairy Tale For Children"
+    },
+    {
+      "id": "ztUeWCI4wlg",
+      "channel": "Zachary the Dino",
+      "duration": 30.0,
+      "title": "The Incredibles (Zachary the Dino) part 37 End Credits "
+    },
+    {
+      "id": "sq_Jj1AFKeo",
+      "channel": "Zachary Zibulewsky",
+      "duration": 44.0,
+      "title": "T-Rex: The Code Word (Dinosaur Animatic)"
+    },
+    {
+      "id": "KD__UQbeRtk",
+      "channel": "Blippi - Educational Videos for Kids",
+      "duration": 866.0,
+      "title": "Blippi Explores Dinosaurs At The Natural History Museum! | Educational Videos for Kids"
+    },
+    {
+      "id": "e8S58tC4Ehg",
+      "channel": "Zachary Denman",
+      "duration": 1075.0,
+      "title": "Dinosaur Relics | Acambaro Figures"
+    }
+  ]
+}

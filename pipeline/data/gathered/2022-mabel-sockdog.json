@@ -1,0 +1,51 @@
+{
+  "id": "2022-mabel-sockdog",
+  "year": 2022,
+  "name": "Mabel SockDog",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Red Rufus",
+      "url": "https://www.redrufus.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://irishcasino-sites.ie/",
+      "title": "Best Online Casinos in Ireland – Top Irish Casino Sites 2026",
+      "description": "Redrufus's recommended Irish online casinos. Browse our list of top-rated online casinos, with unique bonuses and reputable ratings.",
+      "image": "https://irishcasino-sites.ie/wp-content/uploads/2026/03/mino-casino.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XZop39gHhAs",
+      "channel": "Steven Hinde",
+      "duration": 70.0,
+      "title": "The Sock Incident"
+    },
+    {
+      "id": "yKsl_omrAMc",
+      "channel": "Kathy Tran",
+      "duration": 106.0,
+      "title": "Snoopy the crazy sock monster"
+    },
+    {
+      "id": "YuYC8b8SK_Y",
+      "channel": "Kev Sutherland",
+      "duration": 181.0,
+      "title": "Broadchurch - Scottish Falsetto Sock Puppet Theatre"
+    },
+    {
+      "id": "ARLj07H83aE",
+      "channel": "DrawingNow",
+      "duration": 181.0,
+      "title": "How to draw a cartoon girl"
+    }
+  ]
+}

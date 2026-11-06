@@ -1,0 +1,60 @@
+{
+  "id": "2025-lantern-smoke-by-dagogo-hart",
+  "year": 2025,
+  "name": "Lantern Smoke by Dagogo Hart",
+  "price_eur": 16.99,
+  "price_text": "€16.99",
+  "retailers": [
+    {
+      "name": "Easo ns",
+      "url": "https://www.easons.com/lantern-smoke-dagogo-hart-9780717197552"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/lantern-smoke-dagogo-hart-9780717197552",
+      "title": "Buy Lantern Smoke Book at Easons",
+      "description": "This beautiful book is based on an autobiographical poem about a young boy sent away by his family to build a future abroad - to find a new and hopeful place to call home.\n\nTold through the light and warmth of a lantern, this is a simple but beautiful stor",
+      "image": null,
+      "ld_description": "This beautiful book is based on an autobiographical poem about a young boy sent away by his family to build a future abroad - to find a new and hopeful place to call home.\n\nTold through the light and warmth of a lantern, this is a simple but beautiful story of love, family and resilience.\n\nAt a time when more Irish people are living around the world than at home in Ireland, and where many seek refuge on our island from across the globe, Dagogo's own story holds echoes for us all.",
+      "brand": "Gill Children&#x27;s",
+      "ld_image": "https://www.easons.com/images/asset/f23d4014-37be-4d43-a4fb-6f34b7cc41a7/9780717197552_5643345282.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ketmzvpzDFY",
+      "channel": "Button Poetry",
+      "duration": 160.0,
+      "title": "Dagogo Hart - Lantern Smoke"
+    },
+    {
+      "id": "JiDyiGfS1OA",
+      "channel": "Dagogo Dagogo Hart",
+      "duration": 151.0,
+      "title": "Dagogo Hart- Lantern Smoke"
+    },
+    {
+      "id": "46-MBUj32pY",
+      "channel": "The Woal",
+      "duration": 151.0,
+      "title": "Lantern Smoke | Dagogo Hart"
+    },
+    {
+      "id": "R3LeoWNmajM",
+      "channel": "Adrian Brinkerhoff Poetry Foundation",
+      "duration": 166.0,
+      "title": "Dagogo Hart - \"Paper Planes\""
+    },
+    {
+      "id": "mTKfXLyvQ-M",
+      "channel": "Contatto",
+      "duration": 493.0,
+      "title": "Dagogo Hart. Contatto"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-tikkina-headlamp",
+  "year": 2020,
+  "name": "Tikkina Headlamp",
+  "price_eur": 24.95,
+  "price_text": "€24.95",
+  "retailers": [
+    {
+      "name": "Basecamp",
+      "url": "https://basecamp.ie/tikkina-headlamp.html"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://basecamp.ie/products/tikkina-headlamp"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "axI8ExfS0u8",
+      "channel": "goinggeardotcom",
+      "duration": 151.0,
+      "title": "Petzl Tikkina Headlamp Review"
+    },
+    {
+      "id": "47BgrKLQicE",
+      "channel": "Petzl Sport",
+      "duration": 99.0,
+      "title": "Petzl TIKKINA - How To Use"
+    },
+    {
+      "id": "KQ-BPAt10AI",
+      "channel": "Julie",
+      "duration": 111.0,
+      "title": "Features of PETZL TIKKINA Headlamp -Compact and Lightweight"
+    },
+    {
+      "id": "na5FLY5x15k",
+      "channel": "Ground Up Adventures",
+      "duration": 608.0,
+      "title": "Hiking Gear I Wish I Didn't Buy (& What I Wish I Got Instead) PT. 3: HEADLAMPS"
+    },
+    {
+      "id": "_L2YpgrU7Wk",
+      "channel": "The Roof Box Company",
+      "duration": 234.0,
+      "title": "Petzl TIKKINA - Head torch Classic series head lamp's"
+    }
+  ]
+}

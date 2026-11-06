@@ -1,0 +1,72 @@
+{
+  "id": "2018-maddison-3-in-1-baby-stroller",
+  "year": 2018,
+  "name": "Maddison 3-in-1 Baby Stroller",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 200,
+      "final_url": "https://kenblack.ie/",
+      "title": "Ken Black Toys & Nursery",
+      "description": "One of Ireland's largest toy and nursery store groups with shops in Laois, Carlow, Kilkenny and Wexford. Sell Trampolines, Board Games, NeeDoh, Barbie, Hot Wheels, Bruder, Books, Art Sets, Our Generation, VTech, Leapfrog, Fisher-Price and so much more. In nursery we stock everything for babies.",
+      "image": "https://cdn.shopify.com/s/files/1/0827/7170/6142/files/Untitled_design_31aea8c3-39f2-4f8c-bb81-f531a8b108b3.png?v=1708292668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s3K7_lzehWY",
+      "channel": "Made for Kids",
+      "duration": 41.0,
+      "title": "Toy - Maddison 3-in-1 Travel Stroller"
+    },
+    {
+      "id": "5PIilHnsdUw",
+      "channel": "Wowow Toys",
+      "duration": 67.0,
+      "title": "Joie Junior Chrome 3-in-1 Dolls Pram"
+    },
+    {
+      "id": "REePYk9hQno",
+      "channel": "Madison Davis",
+      "duration": 180.0,
+      "title": "Siège rehausseur avec harnais 3 en 1 Tranzitions de Graco"
+    },
+    {
+      "id": "H_joZOYX5vE",
+      "channel": "Glenn Gamut",
+      "duration": 195.0,
+      "title": "Madison stroller"
+    },
+    {
+      "id": "ENM1Gx2FFTw",
+      "channel": "PacaPod",
+      "duration": 48.0,
+      "title": "PacaPod Oban video, 3 in 1 organising system"
+    }
+  ]
+}

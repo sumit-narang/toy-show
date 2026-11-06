@@ -1,0 +1,69 @@
+{
+  "id": "2018-luvabeau",
+  "year": 2018,
+  "name": "Luvabeau",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4vbt4sOcWGw",
+      "channel": "Little Foot Nursery",
+      "duration": 955.0,
+      "title": "New and Improved Interactive  Luvabeau / Luvabella Baby!"
+    },
+    {
+      "id": "jwX3DaJmk9o",
+      "channel": "Mommy Ramblings ",
+      "duration": 997.0,
+      "title": "LuvaBeau Doll - Boy Version of LuvaBella Doll Review"
+    },
+    {
+      "id": "cVIvkBLmhls",
+      "channel": "BestProducts.com",
+      "duration": 98.0,
+      "title": "This Kids' Holiday Toy Is the Most Realistic Baby You've Ever Seen | Best Products"
+    },
+    {
+      "id": "1CvncBVIUl8",
+      "channel": "lil' monkey media",
+      "duration": 2481.0,
+      "title": "My Luva💕Bella Dolls! Best Banggood Slime Testing with Luvabeau Will!"
+    },
+    {
+      "id": "de9w0OJm42I",
+      "channel": "Meet Me At The Dollhouse",
+      "duration": 1153.0,
+      "title": "LuvaBella and LuvaBeau Dolls Demo- Dolly Dreams Ep 304"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-blazer-outrun-pro-stunt-scooter-blazer",
+  "year": 2022,
+  "name": "Blazer Outrun Pro Stunt Scooter Blazer",
+  "price_eur": 139.95,
+  "price_text": "€139.95",
+  "retailers": [
+    {
+      "name": "Gosk8",
+      "url": "https://gosk8.ie/blazer-outrun-pro-stunt-scooter-black-8581"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 307,
+      "final_url": "https://gosk8.ie/blazer-outrun-pro-stunt-scooter-black-8581"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "jskltgQia_c",
+      "channel": "SkateHut",
+      "duration": 183.0,
+      "title": "Best Stunt Scooters for 2023 - SkateHut"
+    },
+    {
+      "id": "ecx44W4_wiM",
+      "channel": "Freestyle Scoot",
+      "duration": 22.0,
+      "title": "Blazer Pro Eon"
+    },
+    {
+      "id": "aDov-HnQ7oI",
+      "channel": "SkateHut",
+      "duration": 462.0,
+      "title": "BLAZER PRO - BRAND OF THE MONTH APR 2021"
+    },
+    {
+      "id": "yMBcUEp9L_Q",
+      "channel": "Gt",
+      "duration": 101.0,
+      "title": "Blazer Pro pegs review"
+    },
+    {
+      "id": "WM-7jZCe3_E",
+      "channel": "Blazer Pro Scooters",
+      "duration": 102.0,
+      "title": "BlazerPro Scooters - Celebrating 10 Years!"
+    }
+  ]
+}

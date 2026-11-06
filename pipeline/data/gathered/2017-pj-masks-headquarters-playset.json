@@ -1,0 +1,64 @@
+{
+  "id": "2017-pj-masks-headquarters-playset",
+  "year": 2017,
+  "name": "PJ Masks Headquarters Playset",
+  "price_eur": 42.99,
+  "price_text": "€42.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3Yye5c6cAos",
+      "channel": "CKN ",
+      "duration": 365.0,
+      "title": "Headquarters Playset  Playing With Catboy Gekko Owlette CKN"
+    },
+    {
+      "id": "PhSE8HoBIbQ",
+      "channel": "CriançasCriativasBrinquedos [CCB]",
+      "duration": 1132.0,
+      "title": "Enorme PJ MASKS Headquarters HQ Playset com Catboy Owlette Gekko Ação Carros! | CCB"
+    },
+    {
+      "id": "YnUOsJhYwCY",
+      "channel": "Ryan's World",
+      "duration": 558.0,
+      "title": "PJ Masks Headquarters Playset with Catboy, Gekko, and Owlette!"
+    },
+    {
+      "id": "uCFEyIPTbE0",
+      "channel": "CKN ",
+      "duration": 301.0,
+      "title": "New Headquarters Playset Playtime CKN"
+    },
+    {
+      "id": "FXUjHcR8vxw",
+      "channel": "DuDuPopTOY",
+      "duration": 209.0,
+      "title": "Awesome PJ Masks headquarters HQ Playset with Action Cars! - DuDuPopTOY"
+    }
+  ]
+}

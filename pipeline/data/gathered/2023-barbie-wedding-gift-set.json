@@ -1,0 +1,57 @@
+{
+  "id": "2023-barbie-wedding-gift-set",
+  "year": 2023,
+  "name": "Barbie Wedding Gift Set",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-wedding-gift-set/p/148402"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/barbie/barbie-wedding-gift-set/p/148402",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "paWRZdGcSOg",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 696.0,
+      "title": "Barbie Wedding Gift Set : Barbie Bride, Ken Groom & Barbie Sister Bridesmaid Dolls | Unboxing & Play"
+    },
+    {
+      "id": "2L8JBhCXMFc",
+      "channel": "The Childhood Life – Dolls & Crafts",
+      "duration": 612.0,
+      "title": "Barbie Wedding Gift Set Unboxing | Bride, Groom & Bridesmaids Doll Wedding Playtime #barbieunboxing"
+    },
+    {
+      "id": "aVdM8UlaVlI",
+      "channel": "Titi Toys and Dolls",
+      "duration": 1066.0,
+      "title": "Barbie and Ken get Married - Doll Stories - Barbie Wedding Playset - Titi Toys"
+    },
+    {
+      "id": "19TL1-5BcBc",
+      "channel": "iheartfairies1982",
+      "duration": 551.0,
+      "title": "MIDGE WEDDING PARTY SET 1990 part 1"
+    },
+    {
+      "id": "YhLMamj5otE",
+      "channel": "FunFun Toy Doll TV",
+      "duration": 661.0,
+      "title": "Barbie I Can Be A Bride Wedding Gift Set Wedding Dress Barbie gaun pengantin Vestido de casamento"
+    }
+  ]
+}

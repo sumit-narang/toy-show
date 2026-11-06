@@ -1,0 +1,54 @@
+{
+  "id": "2022-teletubbies-1-tinky-winky-1-la-la-eco-plush",
+  "year": 2022,
+  "name": "Teletubbies (1 Tinky Winky, 1 La La) Eco Plush",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XwOgJnJ-9YY",
+      "channel": "Tiny Treasures and Toys",
+      "duration": 1575.0,
+      "title": "TELETUBBIES Collection Toys PO LAA LAA Tinky Winky DIPSY and NOO NOO"
+    },
+    {
+      "id": "8OH2oeIxh5A",
+      "channel": "Teletubbies - WildBrain",
+      "duration": 3673.0,
+      "title": "The Best of Teletubbies Episodes! Your Favourite Episodes Compilation"
+    },
+    {
+      "id": "SiNBHBLNcvk",
+      "channel": "Teletubbies - WildBrain",
+      "duration": 2892.0,
+      "title": "Teletubbies | Taking The Big Ride With The Teletubbies | Shows for Kids"
+    },
+    {
+      "id": "FRGOgBTzuSo",
+      "channel": "Teletubbies - WildBrain",
+      "duration": 3663.0,
+      "title": "Teletubbies | Teletubbies Time To Wake Up! | Shows for Kids"
+    },
+    {
+      "id": "HGj_9qCa2G8",
+      "channel": "Teletubbies - WildBrain",
+      "duration": 1442.0,
+      "title": "Playing In Water - Teletubbies: The Beach - Full Episode"
+    }
+  ]
+}

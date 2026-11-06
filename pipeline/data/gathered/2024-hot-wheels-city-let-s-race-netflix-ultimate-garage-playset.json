@@ -1,0 +1,57 @@
+{
+  "id": "2024-hot-wheels-city-let-s-race-netflix-ultimate-garage-playset",
+  "year": 2024,
+  "name": "Hot Wheels City Let's Race Netflix - Ultimate Garage Playset",
+  "price_eur": 89.99,
+  "price_text": "€89.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-city-lets-race-netflix-ultimate-garage-playset/p/225075"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-city-lets-race-netflix-ultimate-garage-playset/p/225075",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "5xzRL1yrTvI",
+      "channel": "Echoes of PlayTime",
+      "duration": 15.0,
+      "title": "Hot Wheels City Ultimate Garage Playset (Mattel) TV Commercial - 2025"
+    },
+    {
+      "id": "MhRhdE-rL68",
+      "channel": "Denis and family",
+      "duration": 322.0,
+      "title": "THE BIGGEST CAR GARAGE EVER for Denis and mama! Hot Wheels Let's Race Netflix"
+    },
+    {
+      "id": "bj9Lu6LMCJE",
+      "channel": "Tessera+",
+      "duration": 1323.0,
+      "title": "Tessera Reviews: The Hot Wheels Ultimate Garage (Gen 5)"
+    },
+    {
+      "id": "GaYeZRHubdk",
+      "channel": "Echoes of PlayTime",
+      "duration": 16.0,
+      "title": "Hot Wheels City Ultimate Garage Playset Disney Channel Sponsor (Mattel) TV Commercial - 2025"
+    },
+    {
+      "id": "b5TO08fXVao",
+      "channel": "Mattel",
+      "duration": 20.0,
+      "title": "Hot Wheels® Ultimate Garage | AD"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2018-nintendo-labo-robot-kit",
+  "year": 2018,
+  "name": "Nintendo Labo Robot Kit",
+  "price_eur": 389.99,
+  "price_text": "€389.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VOOFcF5MgDE",
+      "channel": "Game Clips And Tips",
+      "duration": 222.0,
+      "title": "Nintendo Labo Gameplay - Toy Con 02 Robot Kit Gameplay Trailer"
+    },
+    {
+      "id": "9d6A_1krRjQ",
+      "channel": "Nintendo World Report TV",
+      "duration": 257.0,
+      "title": "Nintendo Labo Robot Kit (Switch) Review"
+    },
+    {
+      "id": "YFspP2gcR9Q",
+      "channel": "Kevin Kenson",
+      "duration": 402.0,
+      "title": "Nintendo Switch Labo: Which Should You Buy?"
+    },
+    {
+      "id": "bE1t1_4fwuc",
+      "channel": "GameTrailers",
+      "duration": 424.0,
+      "title": "Nintendo Labo - Toy Con 03: Vehicle Kit Video"
+    },
+    {
+      "id": "2qkpeDZAOe4",
+      "channel": "IGN",
+      "duration": 348.0,
+      "title": "5 Minutes of Nintendo Labo Robot Kit Gameplay - Crushing Cities - IGN Plays"
+    }
+  ]
+}

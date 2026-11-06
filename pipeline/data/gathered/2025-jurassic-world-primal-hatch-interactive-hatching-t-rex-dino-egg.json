@@ -1,0 +1,57 @@
+{
+  "id": "2025-jurassic-world-primal-hatch-interactive-hatching-t-rex-dino-egg",
+  "year": 2025,
+  "name": "Jurassic World Primal Hatch Interactive Hatching T.Rex Dino Egg",
+  "price_eur": 51.99,
+  "price_text": "€51.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-primal-hatch-interactive-hatching-t-rex-tyrannosaurus-dino-egg/p/249840"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-primal-hatch-interactive-hatching-t-rex-tyrannosaurus-dino-egg/p/249840",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "xrQWrlLjlhg",
+      "channel": "SquirrelStampede",
+      "duration": 1476.0,
+      "title": "Jurassic World Primal Hatch Your Own T. Rex Dinosaur Specimen Review"
+    },
+    {
+      "id": "SYaczyXtxQk",
+      "channel": "Gearshift Productions",
+      "duration": 321.0,
+      "title": "Primal Hatch Jurassic World - How To!"
+    },
+    {
+      "id": "DJgY_liLYiE",
+      "channel": "AdventureFun!",
+      "duration": 1361.0,
+      "title": "Primal Hatch Jurassic World T-Rex Toy Dinosaur Egg Gen 2! Real Hatching T-Rex Toys Review!"
+    },
+    {
+      "id": "0CQduI6ePnw",
+      "channel": "Andy's Dinosaur Reviews",
+      "duration": 1047.0,
+      "title": "AMAZING HATCHING REXY!!! GEN 2 Primal Hatch Jurassic World Tyrannosaurus rex Review!!! "
+    },
+    {
+      "id": "MSX3cj_AvsQ",
+      "channel": "outsider238",
+      "duration": 1096.0,
+      "title": "Primal Hatch T-Rex Hatching Dinosaur From Spin Master"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-3d-origami-rabbit-origami-3d-bunny",
+  "year": 2022,
+  "name": "3D Origami - Rabbit ORIGAMI 3D – Bunny",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Alexander Toys",
+      "url": "http://alexandertoys.com"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "http://alexandertoys.com/",
+      "title": "Homepage - Alexander - one of the largest toys producers in Poland",
+      "description": "[...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://alexandertoys.com/\">Read More...</a></p>",
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MC2MD3xm5y8",
+      "channel": "123 Easy Paper Crafts DIY",
+      "duration": 236.0,
+      "title": "Easy origami rabbit | Easter Craft Ideas"
+    },
+    {
+      "id": "MoPYF2kVOe8",
+      "channel": "Tran Nga 3D Origami",
+      "duration": 388.0,
+      "title": "3d origami little rabbit tutorial , paper rabbit making | como hacer un conejo de origami 3d"
+    },
+    {
+      "id": "hwGw6L4MzeM",
+      "channel": "Hong 3D Origami",
+      "duration": 449.0,
+      "title": "How To Make 3D Origami Rabbit | Modular Origami Rabbit for Easter | Step By Step Tutorial"
+    },
+    {
+      "id": "o2o2ND6CXFk",
+      "channel": "Hello Origami",
+      "duration": 1246.0,
+      "title": "Origami Jumping Paper Rabbit | How to make paper bunny"
+    },
+    {
+      "id": "oUlFP0aIwDc",
+      "channel": "Ying 3D Origami",
+      "duration": 3823.0,
+      "title": "3D Origami - Rabbit - Tutorial"
+    }
+  ]
+}

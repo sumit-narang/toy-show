@@ -1,0 +1,54 @@
+{
+  "id": "2022-kinetic-sand-swirl-n-surprise",
+  "year": 2022,
+  "name": "Kinetic Sand Swirl N' Surprise",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "BanbaToymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pZrqKQZkdcs",
+      "channel": "Kinetic Sand",
+      "duration": 216.0,
+      "title": "NEW Swirl N’ Surprise How To | Kinetic Sand | Toys for Kids"
+    },
+    {
+      "id": "Qi55cU32e4A",
+      "channel": "TTPM Toy Reviews",
+      "duration": 88.0,
+      "title": "Kinetic Sand Swirl N' Surprise from Spin Master Review!"
+    },
+    {
+      "id": "ZiwhOd2SV24",
+      "channel": "The Entertainer",
+      "duration": 31.0,
+      "title": "Kinetic Sand - Swirl N' Surprise"
+    },
+    {
+      "id": "pe2YFbaxZ9Y",
+      "channel": "Kinetic Sand",
+      "duration": 122.0,
+      "title": "NEW SquishBlossom How To | Kinetic Sand | Toys for Kids"
+    },
+    {
+      "id": "1Gr-aYDz4Eg",
+      "channel": "Jason Elijah John",
+      "duration": 16.0,
+      "title": "Kinetic Sand: Swirl n' Surprise | Toy Commercial (2022)"
+    }
+  ]
+}

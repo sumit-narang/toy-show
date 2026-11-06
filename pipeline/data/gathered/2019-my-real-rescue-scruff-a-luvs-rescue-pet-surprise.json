@@ -1,0 +1,57 @@
+{
+  "id": "2019-my-real-rescue-scruff-a-luvs-rescue-pet-surprise",
+  "year": 2019,
+  "name": "My Real Rescue Scruff-a-Luvs Rescue Pet Surprise",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths / Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/pets-alive-boppi-the-booty-shakin-llama/p/172598",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "lDzZpNbZ9QQ",
+      "channel": "A for Adley - Learning & Fun",
+      "duration": 558.0,
+      "title": "NEW PET MORNING ROUTINE!! Adley finds a hidden Scruff-A-Luv Real Rescue toy in the backyard!"
+    },
+    {
+      "id": "R5Maigg5-_E",
+      "channel": "Moose Top TV Commercials",
+      "duration": 173.0,
+      "title": "SCRUFFALUVS- PET SCRUFFS  I  HOW TO CARE & PLAY VIDEO"
+    },
+    {
+      "id": "Sd7myfYOucc",
+      "channel": "QVC",
+      "duration": 398.0,
+      "title": "My Real Rescue Scruff A Luv Mystery Pet with Accessories on QVC"
+    },
+    {
+      "id": "TI-oU760JsM",
+      "channel": "MyFroggyStuff",
+      "duration": 427.0,
+      "title": "Scruff-a-Luvs Real Rescue | Plush Rescue Pets"
+    },
+    {
+      "id": "sgSbEV1SRy4",
+      "channel": "Trinity and Beyond",
+      "duration": 604.0,
+      "title": "Rescued Crate Creatures! We Found them Scruffy and MakeThem Fluffy! Scruff a Luvs Toy Unboxing!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2022-the-mandalorian-savings-b",
+  "year": 2022,
+  "name": "The Mandalorian Savings B",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "s0-8Cs6k3II",
+      "channel": "Ashkhan",
+      "duration": 246.0,
+      "title": "Kelleran Beq save Grogu at Coruscant - The Mandalorian Season Three (2023)"
+    },
+    {
+      "id": "L0Wu878STAs",
+      "channel": "Ashkhan",
+      "duration": 213.0,
+      "title": "Carson found Mandalorian covert - The Mandalorian Season Three (2023)"
+    },
+    {
+      "id": "NiYvjg0F534",
+      "channel": "Ashkhan",
+      "duration": 291.0,
+      "title": "Mando & IG-11 vs Desert bandits - The Mandalorian Season One (2019)"
+    },
+    {
+      "id": "e13MkT9rH-Y",
+      "channel": "Ashkhan",
+      "duration": 129.0,
+      "title": "Mando escape from New Republic patrol - The Book of Boba Fett (2021)"
+    },
+    {
+      "id": "XJYE2MQixQI",
+      "channel": "Scenes Clips",
+      "duration": 99.0,
+      "title": "Mando Fights Battle Droids Chase Scene Din Djarin | The Mandalorian Season 3 Episode 6"
+    }
+  ]
+}

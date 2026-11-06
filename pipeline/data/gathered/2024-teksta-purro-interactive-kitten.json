@@ -1,0 +1,57 @@
+{
+  "id": "2024-teksta-purro-interactive-kitten",
+  "year": 2024,
+  "name": "Teksta Purro Interactive Kitten",
+  "price_eur": 36.99,
+  "price_text": "€36.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/teksta-purro-interactive-kitten/p/237448"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/teksta-purro-interactive-kitten/p/237448",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rrrKS8nVjpw",
+      "channel": "The Entertainer",
+      "duration": 426.0,
+      "title": "Teksta Purro Interactive Kitten Electronic Pet"
+    },
+    {
+      "id": "XoFMrPtsa7o",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1930.0,
+      "title": "New Interactive Toys for Xmas 2024: Teksta Purro Interactive Kitten"
+    },
+    {
+      "id": "VEmKtsgE9sA",
+      "channel": "ТД Детских товаров",
+      "duration": 44.0,
+      "title": "Игрушка интерактивная Котенок Purro Мурро с звуковыми эффектами с 5лет"
+    },
+    {
+      "id": "zSWHHd0N56w",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 531.0,
+      "title": "Ropet Next Gen AI Rob​​​​ot Pet Teksta Purro Robot Kitten Reaction #robot #newrobot #robotcompanion"
+    },
+    {
+      "id": "WpvbF3dM_Yc",
+      "channel": "Thanks to Caleb Chung",
+      "duration": 1325.0,
+      "title": "Teksta Newborn Robotic Kitty Mini Kitten Robot Unboxing Demonstration & Review New Toys 2024"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2018-cleaning-trolley",
+  "year": 2018,
+  "name": "Cleaning Trolley",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Early Learning Centre / Mothercare",
+      "url": "https://www.mothercare.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ConnectionError"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DuDhB3s2HYI",
+      "channel": "OctoClean Media",
+      "duration": 198.0,
+      "title": "Cleaning Cart Tips and Tricks: Important Info!"
+    },
+    {
+      "id": "3oCXUnC69Ls",
+      "channel": "Girlymicro",
+      "duration": 411.0,
+      "title": "How to clean a bedside trolley"
+    },
+    {
+      "id": "Vk35Kd4xskI",
+      "channel": "OctoClean Media",
+      "duration": 328.0,
+      "title": "How to Set Up a Janitorial Cleaning Cart for Beginners | Train With Us"
+    },
+    {
+      "id": "HUd245p_uag",
+      "channel": "Crystal Clean Windows",
+      "duration": 567.0,
+      "title": "Will This Xline 45 Litre Trolley SURVIVE a Busy Day of Cleaning?"
+    },
+    {
+      "id": "tCVzc-gli9U",
+      "channel": "gr8tvids1",
+      "duration": 30.0,
+      "title": "Cleaning Trolley Vacuum"
+    }
+  ]
+}

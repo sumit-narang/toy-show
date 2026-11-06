@@ -1,0 +1,53 @@
+{
+  "id": "2017-bunny-head-band",
+  "year": 2017,
+  "name": "Bunny Head Band",
+  "price_eur": 6.5,
+  "price_text": "€6.50",
+  "retailers": [
+    {
+      "name": "Body Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "juzm8scehlM",
+      "channel": "arham ai videos",
+      "duration": 203.0,
+      "title": "How to Make Bunny Headband For Kids | Easy Paper Bunny Crown"
+    },
+    {
+      "id": "OsH03oGtE2Y",
+      "channel": "CP Creative Ideas",
+      "duration": 210.0,
+      "title": "Rabbit Headgear | DIY Rabbit headgear | paper hat | Bunny headband"
+    },
+    {
+      "id": "r9KoAnc_MWY",
+      "channel": "Creative Crayon",
+      "duration": 222.0,
+      "title": "Easter Bunny Ears Headband | Simple DIY Easter Rabbit Craft"
+    },
+    {
+      "id": "RD-RJp2nD90",
+      "channel": "Art And Craft By Saba",
+      "duration": 257.0,
+      "title": "How To Make Paper Bunny Headband | Bunny Headband Rabbit Crown #easterbunny #papercrown #kidscraft"
+    },
+    {
+      "id": "nlIcxcgoOy4",
+      "channel": "Simple Everyday Mom",
+      "duration": 48.0,
+      "title": "Easter Bunny Headband Craft For Kids"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2020-autogami-solar-toy-car-blue-retro-renault",
+  "year": 2020,
+  "name": "Autogami Solar Toy Car – Blue Retro Renault",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Fred and Millie Toys",
+      "url": "https://www.freddieandmillietoys.ie/product/litogami-autogami-solar-powered-build-charge-play-car/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.freddieandmillietoys.ie/product/litogami-autogami-solar-powered-build-charge-play-car/",
+      "title": "Blue Retro Renault – Autogami solar toy car | Freddie & Millie Toys",
+      "description": null,
+      "image": null,
+      "ld_description": "A DIY, solar-powered car: build it, decorate it, charge it, switch it on and watch it drive!\r\n\r\nWhat it contains: A precut sheet of cardboard, wheel attachments, and solar/electric \"Powerbase\" module (polycrystalline solar panel, rechargeable battery, electric motor and gear system). Size once assembled: 9 x 4 x 5 cm",
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "Autogami"
+        }
+      ],
+      "ld_image": "https://www.freddieandmillietoys.ie/wp-content/uploads/2020/09/litogami-autogami-solar-powered-build-charge-play-car-trade-454417_medium.jpg"
+    }
+  ],
+  "video_candidates": []
+}

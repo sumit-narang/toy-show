@@ -1,0 +1,65 @@
+{
+  "id": "2018-20-our-generation-bike",
+  "year": 2018,
+  "name": "20\" Our Generation Bike",
+  "price_eur": 149.99,
+  "price_text": "€149.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "NAbhULL6r5Y",
+      "channel": "Miniature World ",
+      "duration": 217.0,
+      "title": "Unbox  Our Generation Food delivery Bike with us! 18 inch doll playset review! Pizza soda cake salad"
+    },
+    {
+      "id": "3uhgTz0unYc",
+      "channel": "HappyLife",
+      "duration": 47.0,
+      "title": "Ridealong"
+    },
+    {
+      "id": "-olcbh7Xljs",
+      "channel": "Amelie. C",
+      "duration": 399.0,
+      "title": "BIG Surprice for American Girl Doll Camilla- Our Generation Ride Along Scooter"
+    },
+    {
+      "id": "b9fBJ3Pid7A",
+      "channel": "Joystar Bikes",
+      "duration": 57.0,
+      "title": "DRBIKE Doll Bike Seat Installation Guide"
+    },
+    {
+      "id": "Jf0MMnuRyYs",
+      "channel": "BikeRadar",
+      "duration": 432.0,
+      "title": "You’ve Got The Wrong Bike (Get This Instead)"
+    }
+  ]
+}

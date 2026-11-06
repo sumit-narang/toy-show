@@ -1,0 +1,54 @@
+{
+  "id": "2020-beat-bugs-singing-figures",
+  "year": 2020,
+  "name": "Beat Bugs Singing Figures",
+  "price_eur": 10.0,
+  "price_text": "€10",
+  "retailers": [
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.co.uk/Beat-Bugs-Singing-Kumi-Figure/dp/B074L8WBMZ"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.amazon.co.uk/Beat-Bugs-Singing-Kumi-Figure/dp/B074L8WBMZ"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "i4O7LH32x_4",
+      "channel": "Chirp",
+      "duration": 90.0,
+      "title": "Chirp, Alexa and Beatbugs"
+    },
+    {
+      "id": "aclhPpLycnA",
+      "channel": "The Unboxers",
+      "duration": 706.0,
+      "title": "Beat Bugs Hijinx Alive Singing Crick & Buzz Figures"
+    },
+    {
+      "id": "2y10dz7zmjA",
+      "channel": "OhcluckToys",
+      "duration": 693.0,
+      "title": "Beat Bugs Singing Crick, Buzz, Walter and Glowie Plush Unboxing Toy Review"
+    },
+    {
+      "id": "JLkKZsDYw_s",
+      "channel": "Catherine S",
+      "duration": 139.0,
+      "title": "Beat Bugs Singing Walter Plush"
+    },
+    {
+      "id": "-9-TipBY-eo",
+      "channel": "MayandJC",
+      "duration": 754.0,
+      "title": "BEAT BUGS Toy Fab Figures & Singing GLOWIES by Blip Toys Unboxing & Review"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2017-assortment-of-bath-bombs",
+  "year": 2017,
+  "name": "Assortment of Bath Bombs",
+  "price_eur": 6.95,
+  "price_text": "€6.95",
+  "retailers": [
+    {
+      "name": "Lush",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "QZT0381YRhU",
+      "channel": "xSlayer Rose",
+      "duration": 769.0,
+      "title": "The MOST BEAUTIFUL & BEST BATH BOMBS from LUSH COSMETICS | Top 15 bath bombs and demos"
+    },
+    {
+      "id": "5s_Hgsvm53k",
+      "channel": "HopeScope",
+      "duration": 1329.0,
+      "title": "I Bought VIRAL Ai Bath Bombs.. then made a REAL one"
+    },
+    {
+      "id": "lGSOWwUvJiU",
+      "channel": "Safiya Nygaard",
+      "duration": 1944.0,
+      "title": "Mixing Every Bath Bomb From Lush Together"
+    },
+    {
+      "id": "uocwJAi2y_U",
+      "channel": "Pleasant Green",
+      "duration": 602.0,
+      "title": "Don't Buy AI Bath Bombs"
+    },
+    {
+      "id": "R9LXl5LLSsg",
+      "channel": "KAYCEE & RACHEL in WONDERLAND FAMILY",
+      "duration": 601.0,
+      "title": "Marble Bath bombs"
+    }
+  ]
+}

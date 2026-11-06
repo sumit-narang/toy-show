@@ -1,0 +1,42 @@
+{
+  "id": "2020-tidlo-general-hospital-playset",
+  "year": 2020,
+  "name": "Tidlo General Hospital Playset",
+  "price_eur": 129.95,
+  "price_text": "€129.95",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/tidlo-general-hospital-playset/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://littledreamers.ie/tidlo-general-hospital-playset/",
+      "title": "Tidlo Toys General Hospital",
+      "description": "Tidlo Toys General Hospital 30 piece wooden playset would be the perfect setting to nurse your favourite character back to health.",
+      "image": "https://littledreamers.ie/wp-content/uploads/Tidlo-General-Hospital-2.jpg",
+      "ld_description": "The Tidlo Toys General Hospital 30-piece wooden playset provides the perfect environment for nursing your favourite character back to health.\r\n\r\nThis comprehensive playset includes everything you need for an engaging hospital experience, featuring an air ambulance, a road ambulance, ward beds, privacy screens, surgery lights, tables, a heart monitor, an MRI scanner, and an X-ray machine. It also comes with a wheelchair and stretchers for easy movement around the hospital.\r\n\r\nAt this hospital, there are no lengthy waiting times, as doctors, nurses, paramedics, and pilots are always on call to care for the five patients.\r\n\r\nThe Tidlo Toys General Hospital is fully equipped to handle emergencies, complete with a clicking elevator, a helicopter landing pad, and an A&E ambulance drop-off point.\r\n\r\n \tThree floors packed with play value\r\n \tConsists of 30 play pieces.\r\n \tIncludes an air ambulance, road ambulance, ward beds, privacy screens, an MRI scanner, an X-Ray machine, doctors, nurses & more\r\n \tA great way to encourage creative and imaginative play sessions.\r\n \tDevelops hand/eye coordination, fine motor skills and dexterity.\r\n \tCan be combined with our other Doctor and Hospital toys for a complete play experience\r\n \tRequires adult assembly.\r\n \tMade from high quality, responsibly sourced materials.\r\n \tConforms to current European safety standards.\r\n\r\n \r\n\r\nDimensions 52.8 x 51.8 x 12.4 cm",
+      "brand": null,
+      "ld_image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "XeiagvpxMxw",
+      "channel": "pintoytoys",
+      "duration": 37.0,
+      "title": "Pintoy hospital series"
+    },
+    {
+      "id": "dsJqXrPeezQ",
+      "channel": "Travel Walks and Tours",
+      "duration": 4141.0,
+      "title": "Discover the Venice of the North Europe’s Most Beautiful Canals – Bruges 4K Walking Tour"
+    }
+  ]
+}

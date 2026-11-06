@@ -1,0 +1,54 @@
+{
+  "id": "2023-funko-pop-jujutsu-kaisen-panda",
+  "year": 2023,
+  "name": "Funko Pop! Jujutsu Kaisen - Panda",
+  "price_eur": 16.0,
+  "price_text": "€16",
+  "retailers": [
+    {
+      "name": "Golden Discs",
+      "url": "https://goldendiscs.ie/products/funko-pop-jjk-panda-s2-toys?_pos=7&_sid=73a05eaa2&_ss=r"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://goldendiscs.ie/products/funko-pop-jjk-panda-s2-toys?_pos=7&_sid=73a05eaa2&_ss=r"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MD9xcw7Jmsw",
+      "channel": "86snow",
+      "duration": 110.0,
+      "title": "Panda (Flocked) | Jujutsu Kaisen Funko Pop 1374 | Unboxing"
+    },
+    {
+      "id": "ixapU_geBeU",
+      "channel": "Entertainment Earth",
+      "duration": 61.0,
+      "title": "Jujutsu Kaisen Panda Flocked Funko Pop! Vinyl Figure #1374 - Entertainment Earth Exclusive"
+    },
+    {
+      "id": "ca-Y3J9AIKU",
+      "channel": "Pops Drawing",
+      "duration": 266.0,
+      "title": "Drawing Funko Pop! Panda from Jujutsu Kaisen"
+    },
+    {
+      "id": "fhogVf8ri7M",
+      "channel": "PiPPOP!",
+      "duration": 82.0,
+      "title": "PANDA 1374 FLOCKED - UNBOXING FUNKO POP JUJUTSU KAISEN"
+    },
+    {
+      "id": "4wbpVz-zmZU",
+      "channel": "Carlos C.",
+      "duration": 798.0,
+      "title": "Unboxing Panda Flocked & Naruto Baryon Mode Glow in the dark Funko Pop"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2022-fao-schwarz-teddy-bear-anniversary-soldier-bear",
+  "year": 2022,
+  "name": "FAO Schwarz Teddy Bear - Anniversary Soldier Bear",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "MIOUssuhjLk",
+      "channel": "Ambient New York — Matt Pierce",
+      "duration": 555.0,
+      "title": "Inside FAO SCHWARZ TOY STORE New York City 2026"
+    },
+    {
+      "id": "rxV5KnUtL5s",
+      "channel": "The NYC Walking Show",
+      "duration": 1728.0,
+      "title": "The BIGGEST Toy Store in NYC FAO Schwarz NYC Tour 4K The World’s Most Famous Toy Store"
+    },
+    {
+      "id": "WgcPq52zjIc",
+      "channel": "EXPLORE Walking Tours",
+      "duration": 1514.0,
+      "title": "New York City’s most iconic toy store: What's Popular this Year? Jellycat Diner and More"
+    },
+    {
+      "id": "-XDq5zWs5rI",
+      "channel": "FAO Schwarz",
+      "duration": 31.0,
+      "title": "FAO Schwarz is exclusively at Target!"
+    },
+    {
+      "id": "ndT8x07lSeY",
+      "channel": "CBS Miami",
+      "duration": 38.0,
+      "title": "FAO Schwarz Returns To NYC"
+    }
+  ]
+}

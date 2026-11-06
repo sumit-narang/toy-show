@@ -1,0 +1,54 @@
+{
+  "id": "2024-lego-lamborghini-hurac-n-tecnica",
+  "year": 2024,
+  "name": "LEGO Lamborghini Huracán Tecnica",
+  "price_eur": 52.99,
+  "price_text": "€52.99",
+  "retailers": [
+    {
+      "name": "LEGO Shop",
+      "url": "https://www.lego.com/en-ie/product/lamborghini-huracan-tecnica-42161"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "https://www.lego.com/en-ie/product/lamborghini-huracan-tecnica-42161"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "tAUPoBTQaPs",
+      "channel": "RacingBrick",
+      "duration": 519.0,
+      "title": "LEGO Technic 42161 Lamborghini Huracán Tecnica detailed building review"
+    },
+    {
+      "id": "UrgWt1xp82Q",
+      "channel": "Top Brick Builder",
+      "duration": 2055.0,
+      "title": "LEGO® Technic™ Lamborghini Huracán Tecnica (42161)[806 pcs] Building Instructions @TopBrickBuilder"
+    },
+    {
+      "id": "Sl3v_d_Iyrs",
+      "channel": "RacingBrick",
+      "duration": 387.0,
+      "title": "Nice car or parts pack? LEGO Technic 42196 Lamborghini Huracán Tecnica Orange review and comparison"
+    },
+    {
+      "id": "s_pcY9YA7cw",
+      "channel": "Josh Builds Stuff",
+      "duration": 648.0,
+      "title": "Can LEGO Technic Make a Good Looking Lamborghini? Huracán Tecnica Review"
+    },
+    {
+      "id": "u073iB4z6_c",
+      "channel": "AustrianBrickFan",
+      "duration": 735.0,
+      "title": "LEGO Technic 42161 Lamborghini Huracán Tecnica - LEGO Speed Build Review"
+    }
+  ]
+}

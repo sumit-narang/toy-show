@@ -1,0 +1,54 @@
+{
+  "id": "2022-tiki-toko-gorillas",
+  "year": 2022,
+  "name": "Tiki & Toko Gorillas",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cj3SyfxBO9E",
+      "channel": "Smyths Toys Superstores",
+      "duration": 25.0,
+      "title": "Animagic Tiki & Toko Gorillas- Smyths Toys"
+    },
+    {
+      "id": "FVS3ojQwSIY",
+      "channel": "ElectricGemZ",
+      "duration": 169.0,
+      "title": "AniMagic Tiki & Toko Supersoft Interactive Mother and Baby Gorillas - How to Play"
+    },
+    {
+      "id": "WTocm57-qs0",
+      "channel": "Toy Time Together",
+      "duration": 808.0,
+      "title": "Animagic Ziki & Zoko Gorillas Interactive Toy Unboxing & Playthrough"
+    },
+    {
+      "id": "IJUwM-rXHk8",
+      "channel": "Vivid Toys and Games",
+      "duration": 169.0,
+      "title": "Animagic Tiki & Toko - How to Video"
+    },
+    {
+      "id": "flVC1ZvHLYs",
+      "channel": "GOLIATH FRANCE",
+      "duration": 41.0,
+      "title": "Tiki & Toko FR 40s"
+    }
+  ]
+}

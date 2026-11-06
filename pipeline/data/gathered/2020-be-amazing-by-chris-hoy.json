@@ -1,0 +1,60 @@
+{
+  "id": "2020-be-amazing-by-chris-hoy",
+  "year": 2020,
+  "name": "Be Amazing! by Chris Hoy",
+  "price_eur": 11.99,
+  "price_text": "€11.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/be-amazing-chris-hoy-9781406394733"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.easons.com/be-amazing-chris-hoy-9781406394733",
+      "title": "Buy Be Amazing! Book at Easons",
+      "description": "In this inspiring and confidence-boosting guide, the cyclist Sir Chris Hoy, six-time Olympic Champion, shows kids that with the right mindset, they have the power to do something extraordinary.   As a boy, Chris Hoy never would have believed that he could",
+      "image": null,
+      "ld_description": "In this inspiring and confidence-boosting guide, the cyclist Sir Chris Hoy, six-time Olympic Champion, shows kids that with the right mindset, they have the power to do something extraordinary.   As a boy, Chris Hoy never would have believed that he could have achieved his dream of becoming an Olympic Champion. In his first motivational book for children, he shares everything he has learned on his journey to help inspire kids to fulfil their potential and be the best they can be.   The book brings together his incredible personal story with practical ideas for building confidence, resilience and self-belief, as well as dealing with failure. An essential read for any young person with a big dream, this guide shows that anything is possible with a positive attitude!",
+      "brand": "Walker Books Ltd",
+      "ld_image": "https://www.easons.com/images/asset/defe216c-1bb6-4bbf-95d1-da2a1512f696/9781406394733_5643422119.jpg"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "OmN2smasVbQ",
+      "channel": "The Lone Biker",
+      "duration": 1263.0,
+      "title": "The Chris Hoy Tour de 4 | The Best Atmosphere on a Cycle"
+    },
+    {
+      "id": "X6KVKn7EY-0",
+      "channel": "Google Play Books",
+      "duration": 945.0,
+      "title": "Be Amazing!: An inspiring guide to being your… by Sir Chris Hoy · Audiobook preview"
+    },
+    {
+      "id": "ihhXE00Udgs",
+      "channel": "Glasgow2014OC",
+      "duration": 131.0,
+      "title": "Chris Hoy Wins 1km Time Trial, Manchester 2002 | Classic Commonwealth Games Archive"
+    },
+    {
+      "id": "SCsRgnPqANM",
+      "channel": "livetosport",
+      "duration": 521.0,
+      "title": "Chris Hoy Wins Mens Sprint - London World Cup 2012"
+    },
+    {
+      "id": "ywKWsX65NAY",
+      "channel": "PureGym",
+      "duration": 1135.0,
+      "title": "Workout With Sir Chris Hoy - 6 x Olympic Champion"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-kevin-s-in-a-mood",
+  "year": 2023,
+  "name": "Kevin's in a Mood",
+  "price_eur": 14.99,
+  "price_text": "€14.99",
+  "retailers": [
+    {
+      "name": "Easons",
+      "url": "https://www.easons.com/kevins-in-a-mood-sarah-bowie-9781788493598"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": "error",
+      "error": "ReadTimeout"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Em7sJukNZlI",
+      "channel": "Kevin Kaarl",
+      "duration": 164.0,
+      "title": "on my mood"
+    },
+    {
+      "id": "E0MWtbGPpJg",
+      "channel": "nativeraf",
+      "duration": 199.0,
+      "title": "Kevin and Perry Go Large - I'm In The Mood For Love"
+    },
+    {
+      "id": "K7cNeKOgAqQ",
+      "channel": "Dany Ome & Kevincito El 13 ",
+      "duration": 188.0,
+      "title": "Mood - Dany Ome & Kevincito El 13 ft Descemer Bueno (Video Official)"
+    },
+    {
+      "id": "sJ-1KtsxbgU",
+      "channel": "Keven Williams - Topic",
+      "duration": 163.0,
+      "title": "mood"
+    },
+    {
+      "id": "P50a0GUec9E",
+      "channel": "Kevin Depree - Topic",
+      "duration": 171.0,
+      "title": "In the Mood"
+    }
+  ]
+}

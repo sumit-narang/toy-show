@@ -1,0 +1,44 @@
+{
+  "id": "2022-happy-to-help-tom-gates",
+  "year": 2022,
+  "name": "Happy to Help - Tom Gates",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "Snysl50v048",
+      "channel": "Tom Gates Brilliant World",
+      "duration": 31.0,
+      "title": "Tom Gates: Happy to Help (Eventually) by Liz Pichon - out now in the UK!"
+    },
+    {
+      "id": "p7jqPLlccUk",
+      "channel": "Google Play Books",
+      "duration": 922.0,
+      "title": "Happy to Help (Eventually) Book 20 by Liz Pichon · Audiobook preview"
+    },
+    {
+      "id": "vdDEDwtEk7s",
+      "channel": "Tom Gates - Topic",
+      "duration": 137.0,
+      "title": "Happy To Help"
+    },
+    {
+      "id": "YQfol7uH1JY",
+      "channel": "Tom Gates Brilliant World",
+      "duration": 2065.0,
+      "title": "Washing The Car & MORE! | Brilliant World Of Tom Gates | New Compilation | Cartoons For Kids"
+    },
+    {
+      "id": "kn_MtNF_Yx4",
+      "channel": "Tom Gates Music",
+      "duration": 136.0,
+      "title": "Tom Gates - Happy To Help"
+    }
+  ]
+}

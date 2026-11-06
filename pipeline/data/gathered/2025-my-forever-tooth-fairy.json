@@ -1,0 +1,57 @@
+{
+  "id": "2025-my-forever-tooth-fairy",
+  "year": 2025,
+  "name": "My Forever Tooth Fairy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "My Forever Tooth Fairy",
+      "url": "https://myforevertoothfairy.com/"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://myforevertoothfairy.com/",
+      "title": "Tooth Fairy Gift Sets & Keepsakes | My Forever Tooth Fairy",
+      "description": "Step into a story that begins with a lost tooth & unfolds into a wondrous journey, where each child unlocks the magic of their own Forever Tooth Fairy tale. Browse our unique tooth fairy gifts that elevate and reimagine the tooth fairy tradition by saying to each child that they are magical, just the way they are.",
+      "image": "http://myforevertoothfairy.com/cdn/shop/files/Facebook_Profile_Logo_8e844518-ad33-4b4d-8d44-9ece71f377d5.png?v=1714389668"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "h9CqVOyFb-E",
+      "channel": "My Forever Tooth Fairy",
+      "duration": 202.0,
+      "title": "My Forever Tooth Fairy Featuring on RTE Today Show September 2025"
+    },
+    {
+      "id": "hfkqQpAB5e0",
+      "channel": "My Forever Tooth Fairy",
+      "duration": 223.0,
+      "title": "RTE Today Show   MY Forever Tooth Fairy"
+    },
+    {
+      "id": "gXil3AvlnrA",
+      "channel": "Pearle Maaney",
+      "duration": 1012.0,
+      "title": "Nila Lost Her First Tooth! 🦷✨ The Tooth Fairy Came!"
+    },
+    {
+      "id": "AyJeEJKy7kg",
+      "channel": "The McFive Circus",
+      "duration": 179.0,
+      "title": "The Tooth Fairy did NOT come... It's MAD!😡"
+    },
+    {
+      "id": "34BU_h4VB1Y",
+      "channel": "Business Matters",
+      "duration": 752.0,
+      "title": "Emma Duffy from My Forever Tooth Fairy explains how her business is bringing the tooth fairy to..."
+    }
+  ]
+}

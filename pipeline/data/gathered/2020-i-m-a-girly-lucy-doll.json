@@ -1,0 +1,29 @@
+{
+  "id": "2020-i-m-a-girly-lucy-doll",
+  "year": 2020,
+  "name": "I'M A GIRLY Lucy Doll",
+  "price_eur": 107.22,
+  "price_text": "€107.22",
+  "retailers": [
+    {
+      "name": "Arnotts/FAO Schwarz",
+      "url": "https://www.arnotts.ie/brands/im-a-girly/im-a-girly/lucy-doll/147928153.html?cgid=im-a-girly"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.arnotts.ie/brands/fao-schwarz/im-a-girly/im-a-girly/lucy-doll/147928153.html?cgid=im-a-girly",
+      "title": "IM A GIRLY Lucy Doll - MULTI",
+      "description": "The Im A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each dolls hair is interchangeable so you can create new styles. Meet Lucy. She is passionate about singing and dancing and loves going to concerts. Comes dressed in this blue dress, on trend trainers and faux leather jacket.",
+      "image": "https://images.brownthomas.com/bta/2000105946_01.jpg?$product_tile_plp$",
+      "ld_description": "The I'm A Girly trendy Swiss-designed fashion dolls build a bridge between childhood and teenage years, creating strong role models and inspiring children to live out their individual ideas and fantasies. Each doll's hair is interchangeable so you can create new styles. Meet Lucy. She is passionate about singing and dancing and loves going to concerts. Comes dressed in this blue dress, on trend trainers and faux leather jacket.",
+      "brand": "I'M A GIRLY",
+      "ld_image": "https://images.brownthomas.com/bta/2000105946_01.jpg?$pdp_main$"
+    }
+  ],
+  "video_candidates": []
+}

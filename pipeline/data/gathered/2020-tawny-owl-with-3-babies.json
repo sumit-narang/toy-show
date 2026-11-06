@@ -1,0 +1,53 @@
+{
+  "id": "2020-tawny-owl-with-3-babies",
+  "year": 2020,
+  "name": "Tawny Owl With 3 Babies",
+  "price_eur": 25.0,
+  "price_text": "€25",
+  "retailers": [
+    {
+      "name": "The Puppet Company",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LG0y9swWgm4",
+      "channel": "Robert E Fuller",
+      "duration": 2956.0,
+      "title": "Wild Tawny Owls Adopt 6 Orphaned Owlets | Full Story | Luna & Bomber | Robert E Fuller"
+    },
+    {
+      "id": "DItNe9P_rx4",
+      "channel": "The Dodo",
+      "duration": 268.0,
+      "title": "Hopeful Owl Mom Fosters Two Abandoned Chicks | The Dodo"
+    },
+    {
+      "id": "XO1kkIka9rs",
+      "channel": "Smile Book Club for Kids",
+      "duration": 288.0,
+      "title": "Owl Babies"
+    },
+    {
+      "id": "PUeFWtMK87o",
+      "channel": "Robert E Fuller",
+      "duration": 146.0,
+      "title": "Tawny Owl Dad Takes Precious Time With His Chicks | Luna & Bomber | Robert E Fuller"
+    },
+    {
+      "id": "TIWZmnE2I88",
+      "channel": "british bird nests and eggs",
+      "duration": 25.0,
+      "title": "Tawny owl nest with three chicks"
+    }
+  ]
+}

@@ -1,0 +1,1999 @@
+[
+  {
+    "name": "Zhu Zhu Aquarium Toy Fish",
+    "price_eur": 15.0,
+    "price_text": "€15",
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "https://banbatoys.ie/products/ja11543?_pos=1&_sid=3a00dbc96&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zhu Zhu Aquarium",
+    "price_eur": null,
+    "price_text": "£33.40",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4QG4"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zhu Zhu Aquarium Submarine Set",
+    "price_eur": 18.0,
+    "price_text": "€18",
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "https://banbatoys.ie/products/ja11548"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zhu Zhu Aquarium Coral Reef Tunnel Set",
+    "price_eur": null,
+    "price_text": "£28.68",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/John-Adams-Aquarium-Starter-Electronic/dp/B0CY5H4L5N"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pets Alive Mama Duck & Baby Surprise",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/pets-alive/pets-alive-mama-duck-and-baby-surprise-by-zuru/p/235052"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Furby Galaxy Glow in the Dark Interactive Toy",
+    "price_eur": 49.99,
+    "price_text": "€ 49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/furby-galaxy-glow-in-the-dark-interactive-toy/p/237281"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FurReal Peanut the Playful Monkey",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/fur-real/furreal-peanut-the-playful-monkey/p/237217"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Live Pets Mango Baby Monkey",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-my-baby-monkey-mango/p/235686"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Silver Cross Dolls Twin Wave Stroller",
+    "price_eur": 44.99,
+    "price_text": "€44.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls-prams-and-strollers/silver-cross-dolls-twin-wave-stroller/p/221453"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Real FX Disney Stitch Puppet Interactive Toy",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/disney-lilo-and-stitch/real-fx-disney-stitch-puppet-interactive-toy/p/235627"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Build-A-Bear Timeless Teddy",
+    "price_eur": 39.0,
+    "price_text": "€39",
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Live Pets My Walking Penguin Waddles",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Totally Toys",
+        "url": "https://totallytoys.ie/products/little-live-pets-my-walking-penguin"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Littlest Pet Shop Playset",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://totallytoys.ie/products/little-live-pets-my-walking-penguin"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Littlest Pet Shop Winter Besties Collectors Five Pack",
+    "price_eur": 21.99,
+    "price_text": "€21.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/littlest-pet-shop-playset/p/239400"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hug-A-Lumps Weighted Plush",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "McGillicuddy's Toyshop",
+        "url": "https://mcgillicuddystoyshop.ie/shop/p/hug-a-lumps"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Teksta Purro Interactive Kitten",
+    "price_eur": 36.99,
+    "price_text": "€36.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/teksta-purro-interactive-kitten/p/237448"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Live Pets NeeDees",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-needee-interactive-toy-assortment/p/237831"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Pet Cat Grooming Salon",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/my-pet-cat-grooming-salon/p/217069"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "iDance Stage Rocker Electronic Drum Kit",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/toy-musical/idance-stage-rocker-electronic-drum-kit/p/236049"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "7 Piece Toy Drum Set",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/musical-instruments/7-piece-toy-drum-set/p/159275"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "WWE Undisputed WWE Universal Championship Belt",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-undisputed-wwe-universal-championship-belt/p/234349"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "WWE Wrekkin' Raw Brawl Playset",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-wrekkin/wwe-wrekkin-raw-brawl-playset/p/235963"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "WWE Imperium Pack",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-battle-pack-figures/wwe-main-event-imperium-action-figure-3-pack/p/238558"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "WWE Sheamus Action Figure",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-action-figures-range/wwe-elite-action-figures/wwe-elite-series-greatest-hits-king-sheamus-action-figure/p/239840"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hot Wheels Monster Truck Epic Loop Bundle",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-monster-trucks-epic-loop-challenge-playset-with-8-vehicles/p/198121"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "RC Walking Godzilla Heat-Ray Breath 1:12",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/godzilla-and-king-kong/monsterverse/monsterverse-godzilla-x-kong-remote-control-1-12-heat-ray-breath-godzilla-figure/p/234252"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FurReal Daisy the Yoga Goat",
+    "price_eur": 60.0,
+    "price_text": "€60",
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "https://banbatoys.ie/products/jp28104"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Despicable Me 4 Ultimate Fart Blaster",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minions/despicable-me-4-the-ultimate-fart-blaster/p/235889"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Despicable Me 4 Mini Fart Blaster",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/minions/despicable-me-4-mini-fart-blaster/p/236864"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "WWE Survivor Series TakeOver War Games Playset with Butch Action Figure",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/wwe-wrestling/wwe-wrestling-range/wwe-survivor-series-takeover-war-games-playset-with-butch-action-figure/p/208196"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jurassic World Ravenous Raptors",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/jurassic-world/jurassic-world-ravenous-raptors/p/221243"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "DC Teen Titans Go! Booty Scooty Robin",
+    "price_eur": 32.95,
+    "price_text": "€32.95",
+    "retailers": [
+      {
+        "name": "Murphy's Toymaster",
+        "url": "https://murphystoymaster.ie/product/teen-titans-booty-scooty-robin/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "So Slime Twist 'n' Slime",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/slime-and-putty/so-slime-twist-n-slime-mixer/p/223725"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cookeez Pancake Treatz",
+    "price_eur": 24.0,
+    "price_text": "€24",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/cookeez-makery-cookeez-makery-pancake-treatz-playset/1601043758.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rainbow High Watercolour & Create Dolls",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-watercolour-and-create-fashion-diy-doll-brown-eyes/p/237166"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rainbow High Fashion Rack Play Set",
+    "price_eur": 47.99,
+    "price_text": "€47.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/rainbow-high/rainbow-high-averys-fashion-rack-playset/p/237032"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jakks Playdate Moana Doll",
+    "price_eur": 84.99,
+    "price_text": "€84.99",
+    "retailers": [
+      {
+        "name": "Disney Store",
+        "url": "https://www.disneystore.eu/jakks-playdate-moana-doll---81cm-416128168179.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jakks Playdate Elsa Doll",
+    "price_eur": 84.99,
+    "price_text": "€84.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/toys-catalogue/disney-frozen-playdate-81cm-posable-elsa-doll/p/192922"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dyson Toy Hairdryer and Straighteners Set",
+    "price_eur": 44.99,
+    "price_text": "€44.99",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/dyson-dyson-toy-hairdryer-and-straighteners-set/1600771998.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Air Toobz",
+    "price_eur": 154.95,
+    "price_text": "€154.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/air-toobz-fat-brain"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Crystal Gaze Fortune Telling Crystal Ball",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/crystal-gaze-fortune-telling-crystal-ball/p/235341"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "L.O.L. Surprise! Winter Snow Chalet",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-chalet-playset/p/237622"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "L.O.L. Surprise! Winter Snow Tots Assortment",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/l-o-l-surprise/l-o-l-surprise-winter-snow-tots-assortment/p/237619"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Instax Mini 12 Pastel Blue",
+    "price_eur": 85.0,
+    "price_text": "€85",
+    "retailers": [
+      {
+        "name": "Fujifilm Merrion",
+        "url": null
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hexbot Gecko",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/hex-bots-wall-crawler-gecko/p/237767"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PS5 Console",
+    "price_eur": 549.0,
+    "price_text": "€549",
+    "retailers": [
+      {
+        "name": "PlayStation",
+        "url": "https://www.playstation.com/en-ie/ps5/buy-now/"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Astro Bot PS5 Game",
+    "price_eur": 69.99,
+    "price_text": "€69.99",
+    "retailers": [
+      {
+        "name": "PlayStation",
+        "url": "https://www.playstation.com/en-ie/games/astro-bot/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Minecraft PS5 Game",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/minecraft-gaming/minecraft-ps5/p/242417"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Soccer Bot",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/sports-and-equipment/football/smart-ball-indoor-soccer-bot-size-1/p/226557"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "iDance Party Groove Karaoke Machine",
+    "price_eur": 84.99,
+    "price_text": "€84.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/musical-instruments-and-karaoke/karaoke/idance-party-groove-karaoke-machine-x2/p/235847"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "X Rocker Veleno eSports RGB 2.1 Audio Gaming Chair",
+    "price_eur": 189.99,
+    "price_text": "€189.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/gaming-chairs/x-rocker-veleno-esports-rgb-2-1-audio-gaming-chair/p/224172"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ziggy the Robot Dog",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/robots/ziggy-the-robo-dog/p/188373"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "HoloToyz Tattoos & Stickers",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "HoloToyz",
+        "url": "https://holotoyz.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bitzee Disney Interactive Digital Pet",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/interactive-pets/bitzee-disney-interactive-digital-pet/p/236797"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Playmobil Space Mars Mission Research Vehicle",
+    "price_eur": null,
+    "price_text": "£37.87",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/Playmobil-9489-Space-Research-Vehicle/dp/B079MPNCHW"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Playmobil Space Mars Mission Station",
+    "price_eur": null,
+    "price_text": "£91.98",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/Playmobil-9487-Space-Mars-Station/dp/B079MLP1S3"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "ZipString",
+    "price_eur": 33.0,
+    "price_text": "€33",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/kids/toys-games/arts-crafts/marvins-magic/zipstring-blister-vivacious-violet/2000801507.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Alien Space Hopper",
+    "price_eur": 24.95,
+    "price_text": "€24.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/flashing-space-hopper"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Build-A-Blizzard Experiment Kit",
+    "price_eur": 12.0,
+    "price_text": "€12",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/kids/toys-games/science-education/fao-schwarz-fao-dolls/build-a-blizzard-experiment-kit/2000796308.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Go Go UFO",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/childrens-board-games/go-go-ufo-game/p/238122"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plasma Ball",
+    "price_eur": 34.95,
+    "price_text": "€34.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/plasma-ball-thames-kosmos"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Technic NASA Mars Rover Perseverance",
+    "price_eur": 104.99,
+    "price_text": "€ 104.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/lego-technic-nasa-mars-rover-perseverance-42158-7301870"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Creator Space Astronaut",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "LEGO Shop",
+        "url": "https://www.lego.com/en-ie/product/space-astronaut-31152"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stomp Rocket",
+    "price_eur": 25.95,
+    "price_text": "€25.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/stomp-rocket-dueling-rockets"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Clixo Mars Rover",
+    "price_eur": null,
+    "price_text": "£40.98",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/Clixo-Mars-Rover-Glow-Dark/dp/B0CJ92MC5M"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TOYI Spaceship Maker Set",
+    "price_eur": null,
+    "price_text": "£14.99",
+    "retailers": [
+      {
+        "name": "Bigjigs Toys",
+        "url": "https://www.bigjigstoys.co.uk/products/toyi-arts-and-crafts-spaceship-building-kit"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rainbow Loom Bands",
+    "price_eur": 17.0,
+    "price_text": "€17",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/arts-crafts/rainbow-loom/rainbow-loom-rubber-band-crafting-set/2000775207.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lockitz Luxury Studio",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/lockitz-luxury-studio/p/239221"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Concert Bracelet Kit",
+    "price_eur": 9.99,
+    "price_text": "€9.99",
+    "retailers": [
+      {
+        "name": "Art n Hobby",
+        "url": "https://www.artnhobby.ie/collections/jewellery/products/concert-bracelets-medium-box-sv21862"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Irish Bracelet Weaving Set",
+    "price_eur": 24.0,
+    "price_text": "€24",
+    "retailers": [
+      {
+        "name": "Pop Out Projects",
+        "url": "https://www.popoutprojects.com/products/bracelet-weaving-kits"
+      }
+    ],
+    "kind": "craft",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Sticki Rolls Sticki Book",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-book/p/238406"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sticki Rolls Sticki Station",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/sticki-rolls-sticki-station-jewellery-kit/p/238407"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cotton Twist Bracelet Making Kit",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Jiminy Eco-Toys",
+        "url": "https://jiminy.ie/products/rainbow-and-flower-bracelet-making-kit"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "So Squishy Bracelet Maker",
+    "price_eur": 27.99,
+    "price_text": "€27.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/arts-crafts-and-music/crafts/jewellery-and-bracelets/so-squishy-squish-n-style-jewellery-studio/p/239222"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvin's Magic Markers",
+    "price_eur": 18.0,
+    "price_text": "€18",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/arts-crafts/marvins-magic/12-pack-silver-rainbow-markers/2000489799.html"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Colour-changing NeeDoh",
+    "price_eur": 4.95,
+    "price_text": "€4.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/colour-changing-nee-doh"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of squishies",
+    "price_eur": 2.95,
+    "price_text": "€2.95-€7.95",
+    "retailers": [
+      {
+        "name": "Cogs Toys and Games",
+        "url": "https://www.cogstoysandgames.ie/products/axolotl-squishy"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Wicked Elphaba & Glinda Figures",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/lego/wicked-elphaba-glinda-figures-movie-set-75682/2000768223.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of LEGO Flowers",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/lego-sunflowers-40524-7302076"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bruder John Deere 7R 350",
+    "price_eur": 44.99,
+    "price_text": "€44.99",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/bruder-john-deere-7r-350-tractor2"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Remote Control Massey Ferguson Tractor",
+    "price_eur": 88.99,
+    "price_text": "€88.99",
+    "retailers": [
+      {
+        "name": "Tinneys Toys",
+        "url": "https://www.tinneystoys.com/en/Jamara-Massey-Ferguson-8s285---Scale-116/m-10073.aspx"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bruder Fliegl Barrel Tanker",
+    "price_eur": 61.99,
+    "price_text": "€61.99",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/bruder-fliegl-barrel-tanker2"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bruder Scania Super 560R Cattle Transportation Truck with Cattle",
+    "price_eur": 88.99,
+    "price_text": "€88.99",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/bruder-scania-super-560r-cattle-transportation-truck-with-cattle2"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Field Paddock",
+    "price_eur": 54.99,
+    "price_text": "€54.99",
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "https://www.thefield.ie/product/the-field-paddocks/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Double Shot Basketball Arcade Game with LED Light",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/basketball/double-shot-basketball-arcade-game-with-led-lights/p/237190"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bruder Massey Ferguson 7624 With Loader",
+    "price_eur": 53.0,
+    "price_text": "€53",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/bruder-massey-ferguson-7624-with-loader"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of cows",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Tinneys Toys",
+        "url": "https://www.tinneystoys.com/en/Kids-Globe-12-Pack-Cows/m-7584.aspx"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Toimsa 16″ Vintage Bicycle – Beige",
+    "price_eur": 209.0,
+    "price_text": "€209",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/vintage-bike-beige-16"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rail SuperCarver SC1 Scooter",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/scooters/stunt-scooters/rail-supercarver-sc1-scooter/p/235908"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rolly Kids Farmtrac John Deere 7310R Pedal Tractor",
+    "price_eur": 299.98,
+    "price_text": "€299.98",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/rolly-farmtrac-john-deere-7310r"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "BMW 507 12V Car",
+    "price_eur": 385.0,
+    "price_text": "€385",
+    "retailers": [
+      {
+        "name": "Hennessy Outdoors",
+        "url": "https://hennessyoutdoors.ie/product/kids-ride-on-licensed-bmw-507-12v-car/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Drift 24V Electric Ride on Trike Green",
+    "price_eur": 369.95,
+    "price_text": "€369.95",
+    "retailers": [
+      {
+        "name": "Funstuff",
+        "url": "https://funstuff.ie/drift-24v-electric-ride-on-trike-green/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Unicorn 12V Electric Purple-Blue Ride-On Jeep",
+    "price_eur": 269.95,
+    "price_text": "€269.95",
+    "retailers": [
+      {
+        "name": "Funstuff",
+        "url": "https://funstuff.ie/unicorn-12v-electric-ride-on-jeep-blue-purple/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Woom 4",
+    "price_eur": 529.0,
+    "price_text": "€529",
+    "retailers": [
+      {
+        "name": "Donnybrook Bikes",
+        "url": "https://donnybrookbikes.ie/shop/woom-4/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Xootz Cyclone Drift Trike",
+    "price_eur": null,
+    "price_text": "£229.99",
+    "retailers": [
+      {
+        "name": "Xootz",
+        "url": "https://www.xootz.co.uk/cyclone-electric-trike-blue.html"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Peg Perego Taurus Electric Ride-On with Winch",
+    "price_eur": 595.0,
+    "price_text": "€595",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/peg-perego-taurus-electric-ride-on-with-winch2"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PonyCycle Brown Horse Ride-On with Brakes",
+    "price_eur": 249.99,
+    "price_text": "€249.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/outdoor/ride-ons/ponycycle-brown-horse-ride-on-with-brakes/p/231612"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Xootz Enigma Electric Scooter",
+    "price_eur": null,
+    "price_text": "£129.95",
+    "retailers": [
+      {
+        "name": "Xootz",
+        "url": "https://www.xootz.co.uk/enigma-electric-scooter-blue.html"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Zombie 20\" BMX Bike – Alloy Wheels, Stunt Pegs, Black/Orange",
+    "price_eur": 243.0,
+    "price_text": "€243",
+    "retailers": [
+      {
+        "name": "Clarkes of Cavan",
+        "url": "https://www.clarkesofcavan.ie/product/20-zombie-bmx"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Woom Helmet",
+    "price_eur": 69.99,
+    "price_text": "€69.99",
+    "retailers": [
+      {
+        "name": "Donnybrook Bikes",
+        "url": "https://donnybrookbikes.ie/shop/woom-helmet/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Micro Helmet Red",
+    "price_eur": 36.95,
+    "price_text": "€36.95",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/outdoor-toys-scooters/micro-scooters/deluxe-premium-logo-helmet-small/2000764399.html"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Vizybel Kids Hi-vis Vests",
+    "price_eur": 49.0,
+    "price_text": "€49",
+    "retailers": [
+      {
+        "name": "Vizybel",
+        "url": "https://vizybel.com/products/vizybel-for-kids"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djeco Gymnastics Ribbon",
+    "price_eur": 5.95,
+    "price_text": "€5.95",
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/products/djeco-skill-games-and-activities-jolyruban"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Power Saber",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/other-action-figures-and-playsets/red-power-saber-auto-extending-and-retracting-saber/p/238208"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Star Wars TIE Fighter & X-Wing Mash-up",
+    "price_eur": 109.99,
+    "price_text": "€109.99",
+    "retailers": [
+      {
+        "name": "LEGO Shop",
+        "url": "https://www.lego.com/en-ie/product/tie-fighter-x-wing-mash-up-75393"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Beyblade X Xtreme Battle Set",
+    "price_eur": 54.99,
+    "price_text": "€54.99",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/root/beyblades/beyblade-x-xtreme-battle-set/2000794662.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Home Alone House",
+    "price_eur": 299.99,
+    "price_text": "€299.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/lego-icons/lego-ideas-21330-home-alone-mccallisters-house-building-set/p/226501"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sharper Image Motor Battles",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-motor-battles-radio-control-bumper-cars-2-pack-bundle/p/234562"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sharper Image Cyclone Twister",
+    "price_eur": 26.5,
+    "price_text": "€26.50",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/electronics/fao-schwarz-fao-dolls/cyclone-twister-remote-control-stunt-car/2000796264.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sharper Image 4x4 Giant Crusher Radio Control 4WD Truck",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/radio-control-cars/sharper-image-4x4-giant-crusher-radio-control-4wd-truck/p/235607"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Lamborghini Huracán Tecnica",
+    "price_eur": 52.99,
+    "price_text": "€52.99",
+    "retailers": [
+      {
+        "name": "LEGO Shop",
+        "url": "https://www.lego.com/en-ie/product/lamborghini-huracan-tecnica-42161"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "LEGO DreamZzz Cooper's Robot Dinosaur C-Rex",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "LEGO Shop",
+        "url": "https://www.lego.com/en-ie/product/cooper-s-robot-dinosaur-c-rex-71484"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Beyblade X Helm Knight 3-80N",
+    "price_eur": 9.95,
+    "price_text": "€9.95",
+    "retailers": [
+      {
+        "name": "Murphy's Toymaster",
+        "url": "https://murphystoymaster.ie/product/beyblade-x-booster-single-top-ast/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "BB-8 3D Jigsaw",
+    "price_eur": null,
+    "price_text": "£18.44",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/Ravensburger-Star-Wars-Puzzle-Years/dp/B0CSZ5R9DB"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hylkies Luke Skywalker",
+    "price_eur": null,
+    "price_text": "£10.20",
+    "retailers": [
+      {
+        "name": "Amazon UK",
+        "url": "https://www.amazon.co.uk/Ravensburger-12001013-Hylkies-Skywalker-Up-Collectable/dp/B0CRDV98CV"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nina Peanut: Mega Mystery Solver by Sarah Bowie",
+    "price_eur": 10.99,
+    "price_text": "€10.99",
+    "retailers": [
+      {
+        "name": "Chapters Bookstore",
+        "url": "https://chaptersbookstore.com/products/nina-peanut-mega-mystery-solver-book-2"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Sledgehog by Alex Trierweiler, Deva Pardue and Aran Quinn",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Sledgehog",
+        "url": "https://www.thesledgehog.com/store/p/the-sledgehog-picture-book"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mamaí Gé le Gabriel Rosenstock agus Kim Sharkey",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "Éabhlóid",
+        "url": "https://eabhloid.com/siopa/mamai-ge/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Seed to Supper by Michelle Darmody",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/seed-to-supper-michelle-darmody-9781739210571"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Lost and Found by Oliver Jeffers",
+    "price_eur": 9.27,
+    "price_text": "€9.27",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/lost-and-found-oliver-jeffers-9780007150366"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Where to Hide a Star by Oliver Jeffers",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Chapters Bookstore",
+        "url": "https://chaptersbookstore.com/products/dictionary-story"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Wonder by R.J. Palacio",
+    "price_eur": 9.27,
+    "price_text": "€9.27",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/wonder-r-j-palacio-9780552565974"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sally and the Lost Photograph by Judi Curtin",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Chapters Bookstore",
+        "url": "https://chaptersbookstore.com/products/judi-curtin-sally-and-the-lost-photograph-2024-paperback"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Sparks from the Flagstones: Irish Folk Traditions",
+    "price_eur": 25.0,
+    "price_text": "€25",
+    "retailers": [
+      {
+        "name": "Charlie Byrne's",
+        "url": "https://charliebyrne.ie/product/sparks-from-the-flagstones-irish-folk-traditions-calendar-customs/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Story of Irish Rugby by Gerard Siggins",
+    "price_eur": 19.99,
+    "price_text": "€19.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/the-story-of-irish-rugby-gerard-siggins-9781788494564"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Ireland in Numbers by Jackie McCann",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/ireland-in-numbers-hb-jackie-mccann-9781804581780"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Ireland's Call: Six Nations Success by Paul O'Flynn",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/irelands-call-six-nations-success-hb-paul-o-flynn-9780717195909"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "LEGO Minecraft Steve model built by Dublin Brickcon",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Dublin Brick Con",
+        "url": "https://dublinbrickcon.com/"
+      }
+    ],
+    "kind": "other",
+    "irish": true,
+    "is_product": false
+  },
+  {
+    "name": "Sensory Toys provided by Everyday OT Ireland",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Everyday OT Ireland",
+        "url": "https://www.everydayotireland.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Elephant Living Bean Bags",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Elephant Living",
+        "url": "https://elephantliving.com/"
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Milly McCarthy and the Christmas Calamity by Leona Forde",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/milly-mccarthy-and-the-christmas-calamity-pb-leona-forde-9781804581018"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Plush toys from Golden Discs",
+    "price_eur": 12.0,
+    "price_text": "€12-15",
+    "retailers": [
+      {
+        "name": "Golden Discs",
+        "url": "https://goldendiscs.ie/products/yabu-dinosaur-pink-posters-merchandise"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/squishmallows/maudie-the-pink-donkey-50cm/2000777841.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "SKOGSDUVA IKEA Plush Toys",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/ie/en/cat/skogsduva-collection-700582/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "JCB Ride-on",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": null
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Smoby Black + Decker Kids Ultimate Workbench",
+    "price_eur": 92.99,
+    "price_text": "€92.99",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/smoby-black-amp-decker-kids-ultimate-workbench-with-95-accessories/1600497492.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Angel Rose Down Syndrome Doll",
+    "price_eur": 29.95,
+    "price_text": "€29.95",
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/products/miniland-caucasian-brunette-girl-doll-with-glasses-and-romper"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Yoto Player 3rd Generation",
+    "price_eur": 99.99,
+    "price_text": "€99.99",
+    "retailers": [
+      {
+        "name": "Lulabug Kids",
+        "url": "https://lulabug.ie/collections/yoto-player/products/yoto-player-3rd-generation"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hot Wheels City Let's Race Netflix - Ultimate Garage Playset",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/car-toys/hot-wheels/hot-wheels-playsets/hot-wheels-city-lets-race-netflix-ultimate-garage-playset/p/225075"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Puppet Company Chameleon Puppet",
+    "price_eur": 39.95,
+    "price_text": "€39.95",
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/products/the-puppet-company-large-creature-chameleon"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Moulin Roty Large Octopus",
+    "price_eur": 80.0,
+    "price_text": "€80",
+    "retailers": [
+      {
+        "name": "Green Chair Sneem",
+        "url": "https://greenchair.ie/product/moulin-roty-large-octopus/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jellycat Jack Giant Head",
+    "price_eur": 250.0,
+    "price_text": "€250",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/kids/toys-games/teddy-bears-soft-toys/jellycat/jellycat-jack-head-giant-57cm/2000719436.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stitch Christmas Stocking",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Penneys",
+        "url": null
+      }
+    ],
+    "kind": "other",
+    "irish": false,
+    "is_product": true
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "2022-spot-soft-toy",
+  "year": 2022,
+  "name": "Spot Soft Toy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "fMYULt7fswk",
+      "channel": "The Review Spot",
+      "duration": 354.0,
+      "title": "Toy Spot - Underground Toys Disney Star Wars Yoda Talking Character Plush"
+    },
+    {
+      "id": "padd6Wa_dbg",
+      "channel": "The Review Spot",
+      "duration": 504.0,
+      "title": "Spin Master Toys Monsters University My Scare Pal Sulley | @TheReviewSpot"
+    },
+    {
+      "id": "ZHAR8WNQGQc",
+      "channel": "Hasbro Australia",
+      "duration": 31.0,
+      "title": "FurReal - Star Wars Ultimate Co-pilot Chewie Interactive Plush Toy"
+    },
+    {
+      "id": "47bNhL2oSHY",
+      "channel": "wikiHow",
+      "duration": 60.0,
+      "title": "How to Handwash a Stuffed Animal by Spot Cleaning"
+    },
+    {
+      "id": "8puj1ka19n8",
+      "channel": "Hasbro Australia",
+      "duration": 16.0,
+      "title": "FurReal - Star Wars Ultimate Co-pilot Chewie Interactive Plush Toy"
+    }
+  ]
+}

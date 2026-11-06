@@ -1,0 +1,54 @@
+{
+  "id": "2025-bruder-krone-big-pack-1290-square-baler",
+  "year": 2025,
+  "name": "Bruder Krone Big Pack 1290 Square Baler",
+  "price_eur": 61.99,
+  "price_text": "€61.99",
+  "retailers": [
+    {
+      "name": "Clarkes of Cavan",
+      "url": "https://www.clarkesofcavan.ie/product/krone-big-pack1290"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://clarkesofcavan.ie/products/krone-big-pack1290"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7UrsBB5nU_w",
+      "channel": "RC T4K",
+      "duration": 163.0,
+      "title": "New Bruder Farming Krone BiG Pack 1290HDP VC and RC TRACTOR John DEERE 9RX"
+    },
+    {
+      "id": "YZ9L_E2G6xM",
+      "channel": "Bruder Toys",
+      "duration": 42.0,
+      "title": "Bruder Toys Big Bale Press Krone Big Pack #02015"
+    },
+    {
+      "id": "DfYBY0Z2tQc",
+      "channel": "LandPowerTV",
+      "duration": 529.0,
+      "title": "CUSTOMER REVIEW: Krone Big Pack 1290 HDP VC large square baler"
+    },
+    {
+      "id": "Ow5nQAK-BsI",
+      "channel": "KRONE Agriculture International",
+      "duration": 83.0,
+      "title": "NEW BiG Pack – 5th generation KRONE BiG Pack"
+    },
+    {
+      "id": "1gnA0tz6MxM",
+      "channel": "Tim's Speelgoedboerderij",
+      "duration": 169.0,
+      "title": "Bruder 2033 - Krone Big Pack balenpers"
+    }
+  ]
+}

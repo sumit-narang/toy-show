@@ -1,0 +1,54 @@
+{
+  "id": "2022-bluey-talking-bingo-plush",
+  "year": 2022,
+  "name": "Bluey Talking Bingo Plush",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Cx4ti5P9GOE",
+      "channel": "Ashly Menard",
+      "duration": 121.0,
+      "title": "Bluey: Talking Bingo Plush Review"
+    },
+    {
+      "id": "Q_e3odCTv2k",
+      "channel": "Addison Gould",
+      "duration": 29.0,
+      "title": "Bluey - Talking Bingo Plush Review"
+    },
+    {
+      "id": "VjK1D4E_qfA",
+      "channel": "Dehlers Deals",
+      "duration": 13.0,
+      "title": "Bluey 12\" Talking Bingo Plush Interactive 9 Different Phrases Press Tummy Sings"
+    },
+    {
+      "id": "NpD5LRImqlA",
+      "channel": "WTI",
+      "duration": 63.0,
+      "title": "Bluey 12\" Talking Bingo Plush Toys | Our Point Of View"
+    },
+    {
+      "id": "z-yS91U84Go",
+      "channel": "[dfroggy20]",
+      "duration": 27.0,
+      "title": "Talking Bluey and Bingo Plush Toys"
+    }
+  ]
+}

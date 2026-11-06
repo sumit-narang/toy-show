@@ -1,0 +1,57 @@
+{
+  "id": "2022-mo-chuid-amhr-in-nollag",
+  "year": 2022,
+  "name": "Mo Chuid Amhráin Nollag",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "An Siopa Gaeilge",
+      "url": "http://siopagaeilge.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.siopagaeilge.ie/",
+      "title": "An Siopa Gaeilge | Oideas Gael",
+      "description": "Books, music & gifts from the Donegal Gaeltacht. We cater for language learners, teachers, schools and all those interested in Irish literature and culture.",
+      "image": "https://cdn.shopify.com/s/files/1/0502/6260/6004/files/siopa-gaeilge-logo2_c971dd95-1935-461e-a030-4e4f5371295e.jpg?v=1611144350"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Xliw1ihpNR0",
+      "channel": "My Irish Books",
+      "duration": 45.0,
+      "title": "4. An Drumadóirín"
+    },
+    {
+      "id": "iPzEU8Nz6W8",
+      "channel": "My Irish Books",
+      "duration": 36.0,
+      "title": "5. Don oíche úd i mBeithil (Mo Chuid Amhráin Nollag)"
+    },
+    {
+      "id": "l_yY3OjC3pw",
+      "channel": "My Irish Books",
+      "duration": 30.0,
+      "title": "2. Trí rí ag leanúint (Mo Chuid Amhráin Nollag)"
+    },
+    {
+      "id": "xgyNgE4Gk-o",
+      "channel": "My Irish Books",
+      "duration": 18.0,
+      "title": "1. Daidí na Nollag (Mo Chuid Amhráin Nollag)"
+    },
+    {
+      "id": "ggCqZ8emyLw",
+      "channel": "My Irish Books",
+      "duration": 31.0,
+      "title": "3. I leataobh i máinséar (Mo Chuid Amhráin Nollag)"
+    }
+  ]
+}

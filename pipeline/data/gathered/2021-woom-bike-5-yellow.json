@@ -1,0 +1,54 @@
+{
+  "id": "2021-woom-bike-5-yellow",
+  "year": 2021,
+  "name": "Woom Bike 5 Yellow",
+  "price_eur": 489.95,
+  "price_text": "€489.95",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "https://www.donnybrookbikes.ie/shop/woom-5/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://donnybrookbikes.ie/shop/woom-5/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4tJSSmTkI8Y",
+      "channel": "Bike Magazine",
+      "duration": 306.0,
+      "title": "Woom Explore Review: The Best Ultralight Kids Bike on the Market"
+    },
+    {
+      "id": "AMSVhHfcj0c",
+      "channel": "woom",
+      "duration": 239.0,
+      "title": "How to assemble 🧰 your woom 4, 5 and 6 | woom bikes"
+    },
+    {
+      "id": "53qZWVN5H6w",
+      "channel": "woom",
+      "duration": 127.0,
+      "title": "The woom 2 & woom 3 Kids' Bikes | Top Features & Benefits"
+    },
+    {
+      "id": "XaM93kYkjfY",
+      "channel": "Stip-kinderfietsen",
+      "duration": 129.0,
+      "title": "Unboxing Woom bike 4, Woom bike 5 en Woom bike 6"
+    },
+    {
+      "id": "GIYz_zYULiQ",
+      "channel": "woom",
+      "duration": 30.0,
+      "title": "Only 3 steps to get your woom 4/5/6 going!"
+    }
+  ]
+}

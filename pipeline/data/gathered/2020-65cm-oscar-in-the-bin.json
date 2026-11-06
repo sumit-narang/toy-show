@@ -1,0 +1,54 @@
+{
+  "id": "2020-65cm-oscar-in-the-bin",
+  "year": 2020,
+  "name": "65cm Oscar in the Bin",
+  "price_eur": 90.0,
+  "price_text": "€90.00",
+  "retailers": [
+    {
+      "name": "Duffy's Toy World",
+      "url": "https://www.duffystoyworld.ie/product-page/65cm-oscar-in-the-bin"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://duffystoyworld.ie/product-page/65cm-oscar-in-the-bin"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rxgWHzMvXOY",
+      "channel": "Sesame Street",
+      "duration": 150.0,
+      "title": "Sesame Street: I Love Trash"
+    },
+    {
+      "id": "FiZvEXqWGI0",
+      "channel": "Sesame Street",
+      "duration": 1815.0,
+      "title": "Sesame Street: Best of Oscar the Grouch Compilation | Happy Birthday Oscar!"
+    },
+    {
+      "id": "zJekxVILnhw",
+      "channel": "Sesame Street",
+      "duration": 168.0,
+      "title": "Sesame Street: I Love Trash | Animated Lyric Video"
+    },
+    {
+      "id": "k886OFlxyJA",
+      "channel": "Sesame Street Classics ",
+      "duration": 179.0,
+      "title": "Trash Outta Heaven Song with Oscar the Grouch | Sesame Street Classic"
+    },
+    {
+      "id": "STH9ZpeFH2o",
+      "channel": "Sesame Street",
+      "duration": 91.0,
+      "title": "Sesame Street: Oscar ft. Macklemore in Grouch Thrift Shop"
+    }
+  ]
+}

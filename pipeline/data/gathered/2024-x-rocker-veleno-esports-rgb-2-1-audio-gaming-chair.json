@@ -1,0 +1,57 @@
+{
+  "id": "2024-x-rocker-veleno-esports-rgb-2-1-audio-gaming-chair",
+  "year": 2024,
+  "name": "X Rocker Veleno eSports RGB 2.1 Audio Gaming Chair",
+  "price_eur": 189.99,
+  "price_text": "€189.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/gaming-chairs/x-rocker-veleno-esports-rgb-2-1-audio-gaming-chair/p/224172"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/gaming-chairs/x-rocker-veleno-esports-rgb-2-1-audio-gaming-chair/p/224172",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "0N-TSkTZFe4",
+      "channel": "X Rocker Gaming",
+      "duration": 60.0,
+      "title": "How To Connect Your X Rocker - Bluetooth Connection (2023)"
+    },
+    {
+      "id": "nrXNOo2q-4o",
+      "channel": "X Rocker Gaming",
+      "duration": 114.0,
+      "title": "X Rocker 2.1 Veleno - Assembly & Product Unboxing"
+    },
+    {
+      "id": "_oTA9ndjAD8",
+      "channel": "The elite older gamer",
+      "duration": 450.0,
+      "title": "X Rocker gaming chair review | how to fix the height problem"
+    },
+    {
+      "id": "G1WT_9KkIIM",
+      "channel": "X Rocker Gaming",
+      "duration": 55.0,
+      "title": "X-Rocker Pro - Product Overview - X-Rocker UK"
+    },
+    {
+      "id": "qnuGDTffOsA",
+      "channel": "X Rocker Gaming",
+      "duration": 30.0,
+      "title": "Nemesis RGB 2.1 Bluetooth Pedestal Gaming Chair; Walmart US Exclusive"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2023-bluey-beach-cabin",
+  "year": 2023,
+  "name": "Bluey Beach Cabin",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Totally Toys",
+      "url": "https://totallytoys.ie/collections/bluey/products/bluey-blueys-beach-cabin-playset"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://totallytoys.ie/collections/bluey/products/bluey-blueys-beach-cabin-playset"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LtlBtBlhrhw",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 500.0,
+      "title": "Learn Common Words with Bluey Beach House for Kids!"
+    },
+    {
+      "id": "Is0SK8hMtEE",
+      "channel": "Andrew's Reviews",
+      "duration": 104.0,
+      "title": "Bluey Beach Cabin Playset Review – Exclusive Figure & 10+ Accessories for Ages 3+"
+    },
+    {
+      "id": "uzd7x4B8TGw",
+      "channel": "The Entertainer",
+      "duration": 41.0,
+      "title": "Bluey Beach Cabin Playset"
+    },
+    {
+      "id": "hIN1jSLw8m4",
+      "channel": "Candy Pop Bluey toys",
+      "duration": 639.0,
+      "title": "🏖️ Bluey Beach Cabin Adventure!"
+    },
+    {
+      "id": "Ov-Yy2yGeW4",
+      "channel": "License 2 Play Toys | Wholesale Distributor",
+      "duration": 16.0,
+      "title": "Bluey's Beach Cabin Adventure Playset: Dive into Fun with Bluey at the Seaside!"
+    }
+  ]
+}

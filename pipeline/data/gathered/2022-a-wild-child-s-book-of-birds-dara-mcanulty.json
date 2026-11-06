@@ -1,0 +1,44 @@
+{
+  "id": "2022-a-wild-child-s-book-of-birds-dara-mcanulty",
+  "year": 2022,
+  "name": "A Wild Child's Book of Birds - Dara McAnulty",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "5SEZTzFhwPU",
+      "channel": "Halton Libraries",
+      "duration": 61.0,
+      "title": "Wild Child eAudio by Dara McAnulty"
+    },
+    {
+      "id": "gI_lFiDdFGE",
+      "channel": "Google Play Books",
+      "duration": 383.0,
+      "title": "Wild Child: A Journey Through Nature by Dara McAnulty · Audiobook preview"
+    },
+    {
+      "id": "HjDfm6HiwG8",
+      "channel": "Full Audiobook",
+      "duration": 185.0,
+      "title": "Wild Child: A journey through nature - Dara Mcanulty"
+    },
+    {
+      "id": "YgWI278geWY",
+      "channel": "Creative Ireland",
+      "duration": 287.0,
+      "title": "A Note for Nature – RTÉ One | Dara McAnulty"
+    },
+    {
+      "id": "JZPk5OlKD28",
+      "channel": "Point Reyes Books",
+      "duration": 3282.0,
+      "title": "Dara McAnulty and Helen Macdonald - US launch for Diary of a Young Naturalist"
+    }
+  ]
+}

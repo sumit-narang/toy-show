@@ -1,0 +1,54 @@
+{
+  "id": "2022-cry-babies-dressy-dotty-doll",
+  "year": 2022,
+  "name": "Cry Babies Dressy Dotty Doll",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toymaster",
+      "url": "http://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 429,
+      "final_url": "https://banbatoys.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "B7p0zFHjSbE",
+      "channel": "Crystal's Babies",
+      "duration": 655.0,
+      "title": "Cry Babies 👶🏼 First Emotions ❤️ Dreamy Doll!!! UNBOXING and PLAYING 😁"
+    },
+    {
+      "id": "8lviwj95VzI",
+      "channel": "Multikids Toys",
+      "duration": 108.0,
+      "title": "CRY BABIES DRESSY - CONHECENDO O PRODUTO"
+    },
+    {
+      "id": "XHdIozI0jUw",
+      "channel": "TTPM Toy Reviews",
+      "duration": 99.0,
+      "title": "Cry Babies Coney, Lala, and Lea from IMC Toys"
+    },
+    {
+      "id": "783c-zF1ZfU",
+      "channel": "IMC TOYS Official",
+      "duration": 31.0,
+      "title": "CRY BABIES 💧 MAGIC TEARS 💕  NEW CHARACTERS  💫 30''"
+    },
+    {
+      "id": "MNzdQtpu-ds",
+      "channel": "Memoryquest",
+      "duration": 98.0,
+      "title": "IMC Toys Cry Babies Dotty Dalmatian"
+    }
+  ]
+}

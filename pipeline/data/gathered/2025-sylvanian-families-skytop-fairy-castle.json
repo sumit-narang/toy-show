@@ -1,0 +1,57 @@
+{
+  "id": "2025-sylvanian-families-skytop-fairy-castle",
+  "year": 2025,
+  "name": "Sylvanian Families Skytop Fairy Castle",
+  "price_eur": 69.99,
+  "price_text": "€69.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-playsets/sylvanian-families-skytop-fairy-castle/p/248173"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-playsets/sylvanian-families-skytop-fairy-castle/p/248173",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "rYpWlTPWkTc",
+      "channel": "orny",
+      "duration": 346.0,
+      "title": "sylvanian families yumero fairy castle in the sky, unboxin‘ ep.3"
+    },
+    {
+      "id": "JmxHph_crTA",
+      "channel": "Amy's Animals",
+      "duration": 1158.0,
+      "title": "Unboxing the Sylvanian Families Fairy Castle in the Sky with tiny fairy baby! 🧚🏼‍♀️☁️"
+    },
+    {
+      "id": "EJlLF_u7RN4",
+      "channel": "シルバニア⭐︎探検隊",
+      "duration": 899.0,
+      "title": "[New Release on September 13th] Fairy Forest and Magic Castle Unboxing [Sylvanian Families]"
+    },
+    {
+      "id": "vmLdmCzu6tQ",
+      "channel": "Sylvanian Families Indonesia Official",
+      "duration": 31.0,
+      "title": "Sylvanian Families Skytop Fairy Castle and Secret Forest Falls"
+    },
+    {
+      "id": "spRDvkJSfHE",
+      "channel": "Sylvanian Friends Collection ",
+      "duration": 940.0,
+      "title": "Unboxing New Japanese Release - Castle In The Sky🥰 Sylvanian Families/ Calico Critters"
+    }
+  ]
+}

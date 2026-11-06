@@ -1,0 +1,54 @@
+{
+  "id": "2022-ryan-s-green-cape-eyemask",
+  "year": 2022,
+  "name": "Ryan's Green Cape & Eyemask",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "thecostumeshop.ie",
+      "url": "https://www.thecostumeshop.ie/costume/cape-and-eyemask.html"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.thecostumeshop.ie/costume/cape-and-eyemask.html"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "pIpENmdWG1M",
+      "channel": "OnlineFabricStore",
+      "duration": 319.0,
+      "title": "How to Make a Cape & Mask Set"
+    },
+    {
+      "id": "lP8EYYjPEmc",
+      "channel": "Movieclips",
+      "duration": 115.0,
+      "title": "Green Lantern - What the Hell is With That Mask? Scene (7/10) | Movieclips"
+    },
+    {
+      "id": "aMIt1TLKHfM",
+      "channel": "Dr Ryan",
+      "duration": 481.0,
+      "title": "School Supplies Vs Face Mask"
+    },
+    {
+      "id": "DF-N8UjM-bs",
+      "channel": "Dr Ryan",
+      "duration": 547.0,
+      "title": "I Made A Face Mask From Every Country"
+    },
+    {
+      "id": "18iLQXklJuU",
+      "channel": "Sambucha",
+      "duration": 2608.0,
+      "title": "I Tested Clickbait Products (Finale)"
+    }
+  ]
+}

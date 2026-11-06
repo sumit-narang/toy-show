@@ -1,0 +1,53 @@
+{
+  "id": "2017-star-wars-darth-vader-bluetooth-speaker",
+  "year": 2017,
+  "name": "Star Wars Darth Vader Bluetooth Speaker",
+  "price_eur": 40.0,
+  "price_text": "€40.00",
+  "retailers": [
+    {
+      "name": "bCool Gadgt Shop",
+      "url": null
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "JUdBt1PRAkQ",
+      "channel": "CAMINO AUDIO",
+      "duration": 55.0,
+      "title": "CAMINO Darth Vader bust 1:1 figurative bluetooth Hi Fi system speaker"
+    },
+    {
+      "id": "lPt7WDmapX4",
+      "channel": "CAMINO AUDIO",
+      "duration": 26.0,
+      "title": "StarWars  1:1 Darth Vader Bluetooth Speaker"
+    },
+    {
+      "id": "DIfxp2fH5p8",
+      "channel": "CAMINO AUDIO",
+      "duration": 329.0,
+      "title": "CAMINO Darth Vader 1:1 Bluetooth Speakers Open Box Demo 720"
+    },
+    {
+      "id": "Px0OXHBWHa8",
+      "channel": "CAMINO AUDIO",
+      "duration": 195.0,
+      "title": "CAMINO  1:1 Darth Vader Bluetooth speaker open box video"
+    },
+    {
+      "id": "A_6UMn14Uc4",
+      "channel": "CAMINO AUDIO",
+      "duration": 64.0,
+      "title": "Darth Vader head  1:1 BLUETOOTH SPEAKER"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2020-kidkraft-princess-vanity-stool",
+  "year": 2020,
+  "name": "Kidkraft Princess Vanity & Stool",
+  "price_eur": 199.95,
+  "price_text": "€199.95",
+  "retailers": [
+    {
+      "name": "Little Dreamers, Galway",
+      "url": "https://littledreamers.ie/kidkraft-princess-vanity-stool/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 410,
+      "final_url": "https://littledreamers.ie/kidkraft-princess-vanity-stool/"
+    }
+  ],
+  "video_candidates": []
+}

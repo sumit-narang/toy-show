@@ -1,0 +1,65 @@
+{
+  "id": "2021-dinosaur-mask-head",
+  "year": 2021,
+  "name": "Dinosaur Mask Head",
+  "price_eur": 9.95,
+  "price_text": "€9.95",
+  "retailers": [
+    {
+      "name": "Project 29 Stoneybatter",
+      "url": "https://www.facebook.com/project29.ie/"
+    },
+    {
+      "name": "Pinocchios Cork",
+      "url": "https://www.pinocchios.ie/?store-page=Fiesta-3D-Make-a-Mask-T-Rex-Head-p255718906"
+    }
+  ],
+  "kind": "craft",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 400,
+      "final_url": "https://www.facebook.com/project29.ie/"
+    },
+    {
+      "status": 200,
+      "final_url": "https://www.pinocchios.ie/?store-page=Fiesta-3D-Make-a-Mask-T-Rex-Head-p255718906",
+      "title": "Pinocchio's Toys and Gifts | Toys and Gifts | Cork",
+      "description": "Discover the magic of traditional wooden toys at Pinocchio's Toys & Gifts in Cork. Quality, classic toys that inspire imagination for all ages.",
+      "image": "https://www.pinocchios.ie"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "hcA9gHUwc6Q",
+      "channel": "TTPM Toy Reviews",
+      "duration": 92.0,
+      "title": "Turn Yourself Into a Rage 'N Roar Tyrannosaurus Rex!"
+    },
+    {
+      "id": "jARMOXBPF84",
+      "channel": "Jamie ",
+      "duration": 39.0,
+      "title": "Mattel Jurassic World Rebirth Dinosaur Mask, Role-Play Head wear REVIEW #ad #amazoninfluencer"
+    },
+    {
+      "id": "ChsqdScJxDw",
+      "channel": "Crazy Dino Toys",
+      "duration": 393.0,
+      "title": "3 New Jurassic World Rebirth Dinosaur Masks Unboxed Rage N Roar Tyrannosaurus Mattel Dino Toys"
+    },
+    {
+      "id": "a4cDRW-Nwt0",
+      "channel": "Zygote Brown Designs",
+      "duration": 190.0,
+      "title": "How to make a Cardboard Dinosaur Head Costume"
+    },
+    {
+      "id": "nGxv2O3KnRM",
+      "channel": "Amazing Dinosaurs",
+      "duration": 4579.0,
+      "title": "8 Jurassic World Rebirth Dinosaur Masks Unboxed  2025 Mattel Toys T-Rex Rage N Roar Mask 67"
+    }
+  ]
+}

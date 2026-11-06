@@ -1,0 +1,54 @@
+{
+  "id": "2022-bedtime-stories-incredible-irish-tales-from-the-past-by-rachel-pierce",
+  "year": 2022,
+  "name": "Bedtime Stories: Incredible Irish Tales From The Past by Rachel Pierce",
+  "price_eur": 15.99,
+  "price_text": "€15.99",
+  "retailers": [
+    {
+      "name": "Bookstation",
+      "url": "https://www.bookstation.ie/product/bedtime-stories-incredible-irish-tales-from-the-past/"
+    }
+  ],
+  "kind": "book",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://bookstation.ie/product/bedtime-stories-incredible-irish-tales-from-the-past"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "DK68NcGcaNU",
+      "channel": "fleeex",
+      "duration": 40.0,
+      "title": "family guy - Little House on the Prairie"
+    },
+    {
+      "id": "kAx155zAPZc",
+      "channel": "Silent Audiobooks",
+      "duration": 35923.0,
+      "title": "The House in the Woods [Atticus Priest #1] By Mark Dawson | Audiobook Thriller, Mystery & Suspense"
+    },
+    {
+      "id": "h7sBLY6vXLU",
+      "channel": "Bluey - Official Channel",
+      "duration": 481.0,
+      "title": "Pass The Parcel | Full Episode - Series 3 | Bluey"
+    },
+    {
+      "id": "ZCQjWJuO2YM",
+      "channel": "Peppa Pig - Official Channel",
+      "duration": 1804.0,
+      "title": "Peppa Pig Tales 2026⏳Peppa Sees BABY Mummy & Daddy Pig! Secret Video❓ | BRAND NEW Peppa Official"
+    },
+    {
+      "id": "5ZTaHF2ufuU",
+      "channel": "Genevieve's Playhouse - Learning Videos for Kids",
+      "duration": 660.0,
+      "title": "Best Toy Learning Video for Kids - Paw Patrol Snuggle Pup Picnic!"
+    }
+  ]
+}

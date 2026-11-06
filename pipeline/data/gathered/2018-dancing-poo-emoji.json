@@ -1,0 +1,57 @@
+{
+  "id": "2018-dancing-poo-emoji",
+  "year": 2018,
+  "name": "Dancing Poo Emoji",
+  "price_eur": 9.99,
+  "price_text": "€9.99",
+  "retailers": [
+    {
+      "name": "Claire's Accessories",
+      "url": "https://www.claires.com/?lang=en&redirect=1&lang=en_GB"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.claires.com/?lang=en&redirect=1&lang=en_GB",
+      "title": "Claire's: Ear Piercing, Jewelry & Accessories for Girls & Teens",
+      "description": "Every girl's first piercing starts at Claire's. Safe, hypoallergenic starter earrings. Over 130M ears pierced. Book your appointment today.",
+      "image": "https://www.claires.com/cdn/shop/files/updatedfavicon.png?v=1784566041&width=1200"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "VClqvchCl5A",
+      "channel": "DASA Productions",
+      "duration": 28.0,
+      "title": "Singing Poop! Emoji"
+    },
+    {
+      "id": "VXucF1ftNgw",
+      "channel": "ClimaticChief",
+      "duration": 30.0,
+      "title": "The poop emoji song"
+    },
+    {
+      "id": "yiJmS_ZSVVA",
+      "channel": "Kathryn Barrett",
+      "duration": 35.0,
+      "title": "Dancing Poop Emoji"
+    },
+    {
+      "id": "VyTCEB9lLfo",
+      "channel": "OH NO NO NO!!!!",
+      "duration": 34.0,
+      "title": "Singing and dancing poop emoji"
+    },
+    {
+      "id": "_BuCGgHIlsw",
+      "channel": "All Things Cool and Common",
+      "duration": 59.0,
+      "title": "Singing Dancing Christmas Plush POOP EMOJI White Elephant Secret Santa Lot of 2"
+    }
+  ]
+}

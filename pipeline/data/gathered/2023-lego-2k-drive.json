@@ -1,0 +1,57 @@
+{
+  "id": "2023-lego-2k-drive",
+  "year": 2023,
+  "name": "LEGO 2K Drive",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/games/lego-2k-drive/lego-2k-drive-nintendo-switch-code-in-box/p/224127"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/gaming-and-tech/games/lego-2k-drive/lego-2k-drive-nintendo-switch-code-in-box/p/224127",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "cC9ihNmLoWA",
+      "channel": "gameranx",
+      "duration": 701.0,
+      "title": "LEGO 2K Drive - Before You Buy"
+    },
+    {
+      "id": "YVSkx5LHCmU",
+      "channel": "The Escapist",
+      "duration": 195.0,
+      "title": "LEGO 2K Drive | Review in 3 Minutes"
+    },
+    {
+      "id": "1YhIrHH3p-k",
+      "channel": "Nintendo of America",
+      "duration": 71.0,
+      "title": "LEGO 2K Drive - Awesome Reveal Trailer - Nintendo Switch"
+    },
+    {
+      "id": "njnEO0S03ww",
+      "channel": "packattack04082",
+      "duration": 16332.0,
+      "title": "LEGO 2K Drive - Full Game Walkthrough"
+    },
+    {
+      "id": "SnyTASzl8Q8",
+      "channel": "Blitzwinger",
+      "duration": 724.0,
+      "title": "LEGO 2K Drive Explained | Everything You NEED to Know"
+    }
+  ]
+}

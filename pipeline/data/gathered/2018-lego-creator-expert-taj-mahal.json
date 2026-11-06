@@ -1,0 +1,69 @@
+{
+  "id": "2018-lego-creator-expert-taj-mahal",
+  "year": 2018,
+  "name": "LEGO Creator Expert Taj Mahal",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "9YEspG1Ta5Q",
+      "channel": "BUILDIN' BRICKS",
+      "duration": 524.0,
+      "title": "LEGO Creator Expert \"Taj Mahal” Speed Build 🏛️ LEGO Set 10256"
+    },
+    {
+      "id": "eKsFWJFhzH4",
+      "channel": "AustrianBrickFan",
+      "duration": 1167.0,
+      "title": "Lego Creator 10256 Taj Mahal Speed Build"
+    },
+    {
+      "id": "zIwqyE3daiI",
+      "channel": "Brick Finder",
+      "duration": 68.0,
+      "title": "LEGO Creator Taj Mahal (10256) Designer Video"
+    },
+    {
+      "id": "iKNlm_3ikrA",
+      "channel": "All New Bricks",
+      "duration": 787.0,
+      "title": "Lego Creator 10256 Taj Mahal Speed Build"
+    },
+    {
+      "id": "_pl325H3HWc",
+      "channel": "LEGO Media",
+      "duration": 67.0,
+      "title": "LEGO Creator Expert - 10256 - Taj Mahal"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2020-red-micro-mini-deluxe-scooter",
+  "year": 2020,
+  "name": "Red Micro Mini Deluxe Scooter",
+  "price_eur": 109.0,
+  "price_text": "€109",
+  "retailers": [
+    {
+      "name": "Donnybrook Bikes",
+      "url": "http://www.donnybrookbikes.ie/micro-mini-deluxe-scooter-age-2/"
+    }
+  ],
+  "kind": "outdoor",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://donnybrookbikes.ie/micro-mini-deluxe-scooter-age-2/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "C8UmEyh1MEo",
+      "channel": "Micro Mobility Official",
+      "duration": 41.0,
+      "title": "Mini Micro & Maxi Micro Deluxe LED - Shine bright like a star!"
+    },
+    {
+      "id": "oxqGHAR26DQ",
+      "channel": "Micro Mobility Official",
+      "duration": 379.0,
+      "title": "Micro Mini2Grow Deluxe Magic LED Unboxing"
+    },
+    {
+      "id": "eQs-w-CAdjg",
+      "channel": "Micro Kickboard",
+      "duration": 121.0,
+      "title": "Micro Mini Deluxe Scooter Unboxing | by Micro Kickboard"
+    },
+    {
+      "id": "YMq7H5SINjQ",
+      "channel": "Micro Mobility Official",
+      "duration": 439.0,
+      "title": "Mini Micro Deluxe Rock & Go LED – 6-in-1 Scooter for Kids | UNBOXING & FEATURES"
+    },
+    {
+      "id": "tRTXBkw8dMs",
+      "channel": "Micro Mobility Official",
+      "duration": 60.0,
+      "title": "Maxi Micro Deluxe Foldable LED - Fold and go!"
+    }
+  ]
+}

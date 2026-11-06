@@ -1,0 +1,57 @@
+{
+  "id": "2022-playmais-classic-fun-to-play-dinos",
+  "year": 2022,
+  "name": "PlayMais Classic Fun to Play Dinos",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "jiminy eco-toys",
+      "url": "https://jiminy.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://jiminy.ie/",
+      "title": "Jiminy Eco-Friendly Toys, Ireland",
+      "description": "Ireland's eco-friendly toy store for kids. Wooden toys, jigsaws, balance boards, arts, crafts, bubbles, face paints, parties. Non-toxic, plastic-free, sustainable.",
+      "image": "https://cdn.shopify.com/s/files/1/0035/2432/9572/files/Eco-Toys-Logo_Colour_RGB_1080_wide_2029fab8-ce0c-4930-991b-e776e0a9f4f6.png?v=1753455834"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "a3drvBiaLrg",
+      "channel": "Kreativní hračky",
+      "duration": 133.0,
+      "title": "PlayMais - sada Fun to Play Dinosauři"
+    },
+    {
+      "id": "fTn6bfCX24o",
+      "channel": "Playmais",
+      "duration": 85.0,
+      "title": "Create & Play – Playmais Dino"
+    },
+    {
+      "id": "-HwNvuUOQk0",
+      "channel": "Playmais",
+      "duration": 91.0,
+      "title": "PlayMais MOSAIC DREAM UNICORN"
+    },
+    {
+      "id": "sQ6vJrliDnU",
+      "channel": "Crafty Crafters Ltd",
+      "duration": 371.0,
+      "title": "PlayMais my new fun find at Creativation2018"
+    },
+    {
+      "id": "AorXBvUdvI8",
+      "channel": "Welt der Wunder",
+      "duration": 526.0,
+      "title": "Children's Toys: Colorful Crafting Fun Made From Corn - Kids | Welt der Wunder"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2017-x-box-one-x",
+  "year": 2017,
+  "name": "X Box One X",
+  "price_eur": 499.99,
+  "price_text": "€499.99",
+  "retailers": [
+    {
+      "name": "Smyths",
+      "url": null
+    },
+    {
+      "name": "Ken Black",
+      "url": null
+    },
+    {
+      "name": "Toys.ie",
+      "url": null
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": null
+    },
+    {
+      "status": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "4SCsSzDrPuw",
+      "channel": "Tech Gossip",
+      "duration": 513.0,
+      "title": "Don’t Buy Xbox One X In 2025 Before Watching This Video | AAA 4k 60FPS Gaming Under 15K?"
+    },
+    {
+      "id": "Ij5kKGD7pUA",
+      "channel": "Aorus Playz",
+      "duration": 606.0,
+      "title": "₹15,000 Me True 4K AAA Gaming 😳 | Xbox One X Still a Beast in 2026 🔥"
+    },
+    {
+      "id": "K2AYXJDaxXA",
+      "channel": "MaDz Gaming",
+      "duration": 297.0,
+      "title": "AMD FSR Upscaling 4.1.2 Comes to XBOX Today !!!"
+    },
+    {
+      "id": "4AVra_cGnxI",
+      "channel": "IGN",
+      "duration": 410.0,
+      "title": "Xbox One X Review"
+    },
+    {
+      "id": "BdbbBzhCxDI",
+      "channel": "Nad Noddy",
+      "duration": 12225.0,
+      "title": "XBOX ONE X 100 Games Tested in 2026"
+    }
+  ]
+}

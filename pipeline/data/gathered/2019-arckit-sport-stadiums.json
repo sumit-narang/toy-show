@@ -1,0 +1,54 @@
+{
+  "id": "2019-arckit-sport-stadiums",
+  "year": 2019,
+  "name": "Arckit Sport Stadiums",
+  "price_eur": 299.99,
+  "price_text": "€299.99",
+  "retailers": [
+    {
+      "name": "Arckit",
+      "url": "https://arckit.com/collections/arckit-sports-collection/products/arckit-sports-twin-pack-bundle"
+    }
+  ],
+  "kind": "toy",
+  "irish": true,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.arckit.com/collections/arckit-sports-collection/products/arckit-sports-twin-pack-bundle"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "Xy_83HVAlyU",
+      "channel": "Arckit",
+      "duration": 270.0,
+      "title": "How to Build | Arckit Sports Vol.1 - Interactive Stadium for mobile device"
+    },
+    {
+      "id": "BfWf66LH8dk",
+      "channel": "Arckit",
+      "duration": 86.0,
+      "title": "Arckit Sports Series | Multi-Stadium model building kit with the interactive field."
+    },
+    {
+      "id": "Dg-rJLErBoM",
+      "channel": "Arckit",
+      "duration": 178.0,
+      "title": "Arckit Sports Interactive American Football field"
+    },
+    {
+      "id": "n6OxztLvNNU",
+      "channel": "Arckit",
+      "duration": 178.0,
+      "title": "Arckit Sports Interactive Soccer Field"
+    },
+    {
+      "id": "8mGx8j0Jmks",
+      "channel": "Arckit",
+      "duration": 31.0,
+      "title": "Arckit Sports Collection - New!"
+    }
+  ]
+}

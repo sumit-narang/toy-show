@@ -1,0 +1,57 @@
+{
+  "id": "2022-gilda-pink-flamingo-boo",
+  "year": 2022,
+  "name": "Gilda Pink Flamingo - BOO",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Banba Toy Master",
+      "url": "https://banbatoys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://banbatoys.ie/",
+      "title": "Banba Toys Dublin - Toys, Games, Jigsaws & more!",
+      "description": "Browse our huge selection of toys, games, jigsaws & more! From children to adults, we have something for everyone! HOME Delivery available now!",
+      "image": "https://cdn.shopify.com/s/files/1/0533/0062/5582/files/Untitled-5_4.png?v=1769450010"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "LqytTWjI9RY",
+      "channel": "K H-C",
+      "duration": 26.0,
+      "title": "Gilda the pink flamingo (a new friend)"
+    },
+    {
+      "id": "FENZOcf6cRg",
+      "channel": "WTI",
+      "duration": 66.0,
+      "title": "Ty Beanie Boos Gilda Stuffed Animal | Our Point Of View"
+    },
+    {
+      "id": "ryXEhd2rPw8",
+      "channel": "Babytappy",
+      "duration": 91.0,
+      "title": "Ty Beanie Boos Gilda clip"
+    },
+    {
+      "id": "VvZ9Tt8yi3g",
+      "channel": "Ty",
+      "duration": 41.0,
+      "title": "Meet Gilda's Twin Brother - Ty Beanie Blast"
+    },
+    {
+      "id": "SlBJRuhn4J0",
+      "channel": "Adam's Toyland",
+      "duration": 127.0,
+      "title": "Ty teeny beanie boos Gilda the flamingo 🦩 toy review"
+    }
+  ]
+}

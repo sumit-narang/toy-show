@@ -1,0 +1,54 @@
+{
+  "id": "2022-dad-jokes-the-priceless-edition",
+  "year": 2022,
+  "name": "Dad Jokes, The Priceless Edition",
+  "price_eur": 13.99,
+  "price_text": "€13.99",
+  "retailers": [
+    {
+      "name": "Dubray Books",
+      "url": "https://www.dubraybooks.ie/product/dad-jokes-the-priceless-edition-hb-9781788402583"
+    }
+  ],
+  "kind": "book",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 404,
+      "final_url": "https://www.dubraybooks.ie/product/dad-jokes-the-priceless-edition-hb-9781788402583"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "3XfCwJz2m8A",
+      "channel": "Dane Cobain",
+      "duration": 275.0,
+      "title": "Kit Chilvers and Andrew Chilvers - Dad Jokes: The Priceless Edition [REVIEW/DISCUSSION]"
+    },
+    {
+      "id": "Z0MDkevdrbw",
+      "channel": "Dad Jokes FTW",
+      "duration": 9.0,
+      "title": "Calculating the cost of this joke: priceless."
+    },
+    {
+      "id": "NKAm1OmdFfU",
+      "channel": "Dropout",
+      "duration": 144.0,
+      "title": "The iPad is a comedy Gold Mine"
+    },
+    {
+      "id": "mQ7DyX7Q6C8",
+      "channel": "City of Sioux Falls",
+      "duration": 435.0,
+      "title": "Sioux Falls Police vs. Fire - \"Dad Jokes\""
+    },
+    {
+      "id": "Hkuqn3q3Cuo",
+      "channel": "Dad Jokes FTW",
+      "duration": 9.0,
+      "title": "Silence is golden, but dinner without a fire alarm is priceless."
+    }
+  ]
+}

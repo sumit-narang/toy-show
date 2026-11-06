@@ -1,0 +1,57 @@
+{
+  "id": "2022-safety-food-peeler-kiddie-s-food-kutter-set",
+  "year": 2022,
+  "name": "Safety Food Peeler & Kiddie's Food Kutter Set",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "The Cool Food School",
+      "url": "https://www.thecoolfoodschool.ie/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.thecoolfoodschool.ie/",
+      "title": "The Cool Food School",
+      "description": "The Cool Food School was created for fussy eaters, promoting healthy eating in a fun and interactive environment for kids of all ages. We teach cooking and food education in schools and sell cool products like a safe knife and peeler, kids cookbook, Pick Plate, reusable sandwich bags and more.",
+      "image": "http://static1.squarespace.com/static/5cee582906a8060001305436/t/677833288b2aaa32408dc9f6/1735930664629/cool-food-school---horizontal-logo-full-color.png?format=1500w"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "r_bHcrCJcho",
+      "channel": "Jacklyn James",
+      "duration": 94.0,
+      "title": "Kiddies Food Kutter Demonstration"
+    },
+    {
+      "id": "WgVjsavor7Q",
+      "channel": "Jacklyn James",
+      "duration": 103.0,
+      "title": "Introducing Kiddies Food Kutter (Web Version)"
+    },
+    {
+      "id": "qk8QqooRSgo",
+      "channel": "Eat Teeth Sleep Channel",
+      "duration": 81.0,
+      "title": "Kiddies Food Kutter"
+    },
+    {
+      "id": "YhUYNCaldH4",
+      "channel": "Get Kids Cooking",
+      "duration": 43.0,
+      "title": "How to Use Kiddies Food Kutter"
+    },
+    {
+      "id": "rG8H_-UMHoY",
+      "channel": "kiddiesfoodkutter",
+      "duration": 39.0,
+      "title": "Safety Food Peeler for Kids - Australian Made & Owned"
+    }
+  ]
+}

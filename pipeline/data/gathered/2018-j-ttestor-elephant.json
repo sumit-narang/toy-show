@@ -1,0 +1,57 @@
+{
+  "id": "2018-j-ttestor-elephant",
+  "year": 2018,
+  "name": "Jättestor Elephant",
+  "price_eur": 8.0,
+  "price_text": "from €8.00",
+  "retailers": [
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com/ie/en/"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.ikea.com/ie/en/",
+      "title": "Affordable Furniture And Home Inspiration - IKEA Ireland",
+      "description": "Discover affordable furniture and stylish home inspiration at IKEA. Designed for all budgets, styles, and spaces. Shop online or visit a local store.",
+      "image": "https://www.ikea.com/ext/ingkadam/m/3f05ba72f4451afb/original/PH200939.jpg?f=xl"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "ymVWNdGxdHQ",
+      "channel": "Fairy Tales and Stories for Kids",
+      "duration": 446.0,
+      "title": "The Stubborn Baby Elephant Bedtime Stories for Kids"
+    },
+    {
+      "id": "maNfe-MQUQk",
+      "channel": "Usborne",
+      "duration": 134.0,
+      "title": "Storytime: How the Elephant Got his Trunk 🐘 | Animated Children's Story | Read Aloud"
+    },
+    {
+      "id": "Fevn2ZlGqBw",
+      "channel": "StoryTime PlayTime - Children's Books Read Aloud",
+      "duration": 332.0,
+      "title": "💫 Children's Books Read Aloud | 🐘🍕🐶🧞‍♂️ Hilarious & Silly Story About An Elephant Covered In Cheese"
+    },
+    {
+      "id": "DmD02WayhbA",
+      "channel": "Abbey Home Media",
+      "duration": 505.0,
+      "title": "Elmer the Patchwork Elephant | Full Story | Kids Animation Classic 🐘"
+    },
+    {
+      "id": "O8GWyFZtvUQ",
+      "channel": "Fairy Tales and Stories for Kids",
+      "duration": 816.0,
+      "title": "The Stubborn Baby Elephant 🐘 | 3D 4K | English Fairy Tale and Stories"
+    }
+  ]
+}

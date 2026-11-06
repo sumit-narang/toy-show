@@ -1,0 +1,57 @@
+{
+  "id": "2019-forza-horizon-4",
+  "year": 2019,
+  "name": "Forza Horizon 4",
+  "price_eur": 49.99,
+  "price_text": "€49.99",
+  "retailers": [
+    {
+      "name": "Smyths/Ken Black",
+      "url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/forza-horizon-4-video-game/forza-horizon-4-xbox-one/p/168554"
+    }
+  ],
+  "kind": "tech",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/video-games-and-tablets/forza-horizon-4-video-game/forza-horizon-4-xbox-one/p/168554",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "30GMvJoCEN8",
+      "channel": "Goosiest",
+      "duration": 1295.0,
+      "title": "Pretending to be NPC in Forza..."
+    },
+    {
+      "id": "e_yk4cd9Rmg",
+      "channel": "The Racing Monkey",
+      "duration": 503.0,
+      "title": "FORZA HORIZON 4 | EPIC STUNTS, WINS/FAILS & FUNNY MOMENTS #1"
+    },
+    {
+      "id": "hGn1mOgQF-s",
+      "channel": "G E N E R A IL",
+      "duration": 37755.0,
+      "title": "Forza Horizon 4 Full Playthrough 2018 Longplay"
+    },
+    {
+      "id": "1mRmuYNkdXU",
+      "channel": "The Racing Monkey",
+      "duration": 608.0,
+      "title": "Forza Horizon 4 | EPIC STUNTS, WINS & FUNNY MOMENTS #3"
+    },
+    {
+      "id": "m5MiVvlLi34",
+      "channel": "Nitret",
+      "duration": 1098.0,
+      "title": "Hiding as NPCs in Forza..."
+    }
+  ]
+}

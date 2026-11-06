@@ -1,0 +1,57 @@
+{
+  "id": "2025-sylvanian-families-family-hedgehog",
+  "year": 2025,
+  "name": "Sylvanian Families Family Hedgehog",
+  "price_eur": 24.99,
+  "price_text": "€24.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-sets/sylvanian-families-family-hedgehog/p/100236"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/sylvanian-families/sylvanian-families-family-sets/sylvanian-families-family-hedgehog/p/100236",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "yReZwKhSvnc",
+      "channel": "ellieV ",
+      "duration": 491.0,
+      "title": "Sylvanian Families Calico Critters Hedgehog Family Review and Play in Shoe Store - Kids Toys"
+    },
+    {
+      "id": "3IJDU5-ym7M",
+      "channel": "Mimi Mevira Miniature 🎀🫧",
+      "duration": 201.0,
+      "title": "Unboxing the sylvanian families baby hedgehog hideout #sylvanianfamilies #vlog #ASMR #satisfying"
+    },
+    {
+      "id": "LjMYCsyqYQg",
+      "channel": "Ereen Studio",
+      "duration": 217.0,
+      "title": "Must Have Basic Set Hedgehog Family & Squirrel Family | Sylvanian Families Calico Critters"
+    },
+    {
+      "id": "ON5JhJuxfZQ",
+      "channel": "t e e b o o",
+      "duration": 192.0,
+      "title": "Hedgehog Family 🐿 [Sylvanian Families] [Calico Critters] [실바니안패밀리]"
+    },
+    {
+      "id": "Uf9Rdq9AhVY",
+      "channel": "NadiaNovArt",
+      "duration": 372.0,
+      "title": "Sylvanian Families Hedgehog Family Unboxing Review/ Cute Toys / Распаковка Сильваниан Фэмилиз"
+    }
+  ]
+}

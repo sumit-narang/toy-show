@@ -1,0 +1,44 @@
+{
+  "id": "2022-silly-jokes-for-funny-kids",
+  "year": 2022,
+  "name": "Silly Jokes for Funny Kids",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "YND4swViSwA",
+      "channel": "Funny Soup",
+      "duration": 397.0,
+      "title": "15 Funny Jokes For Kids | Try Not To Laugh | Children Jokes"
+    },
+    {
+      "id": "w6i9_F64BSc",
+      "channel": "Twinkl Teaching Resources - United States",
+      "duration": 289.0,
+      "title": "Funny Animal Jokes for Kids | Classroom Brain Break Activities | Twinkl USA"
+    },
+    {
+      "id": "QC2vUpJ168M",
+      "channel": "SandZ Academy",
+      "duration": 139.0,
+      "title": "12 Silly Jokes for Kids 2025 | Funny Jokes for Kids in English"
+    },
+    {
+      "id": "cpEpmRevbys",
+      "channel": "Tate Naugle",
+      "duration": 388.0,
+      "title": "DAD JOKES - TRY NOT TO LAUGH | Crossroads Church"
+    },
+    {
+      "id": "-89O7IxDqJ0",
+      "channel": "Chilli Jokes",
+      "duration": 176.0,
+      "title": "TOP 10 School Jokes | Funny Classroom Jokes 2019"
+    }
+  ]
+}

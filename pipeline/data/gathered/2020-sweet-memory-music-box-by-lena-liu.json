@@ -1,0 +1,57 @@
+{
+  "id": "2020-sweet-memory-music-box-by-lena-liu",
+  "year": 2020,
+  "name": "Sweet Memory Music Box by Lena Liu",
+  "price_eur": 115.0,
+  "price_text": "€115.00",
+  "retailers": [
+    {
+      "name": "Weir and Sons",
+      "url": "https://weirandsons.ie/sweet-memory-music-box-by-lena-liu.html"
+    }
+  ],
+  "kind": "other",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://weirandsons.ie/",
+      "title": "Fine Jewellers & Watch Shop | Weir & Sons Ireland",
+      "description": "Explore luxury jewellery and fine watches at Weir & Sons. Discover a curated collection of timepieces and jewellery for every special occasion.",
+      "image": "https://weirandsons.ie/media/og_image/default/logo-1-1.png"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "7McGEwiHw7k",
+      "channel": "Comfort Worship Station",
+      "duration": 3413.0,
+      "title": "Christian Lullaby for Baby | 1 Hour Music Box | Classic Worship Songs"
+    },
+    {
+      "id": "_RKKQpXC27I",
+      "channel": "Beautiful Lullaby",
+      "duration": 86401.0,
+      "title": "Christmas Lullaby 🎄 Music Box 🎄 Soft Instrumental Christmas Music🎄 Lullaby for Babies To Go To Sleep"
+    },
+    {
+      "id": "0LvL82bfDyQ",
+      "channel": "羊が一匹、",
+      "duration": 3601.0,
+      "title": "Minecraft \"C418 - Sweden\" Music Box - 1hour"
+    },
+    {
+      "id": "GW8OpMkEd8o",
+      "channel": "The Bradford Exchange",
+      "duration": 84.0,
+      "title": "Music Box \"KISSES For My Daughter\""
+    },
+    {
+      "id": "L8ARy8CruyU",
+      "channel": "Meluna",
+      "duration": 86.0,
+      "title": "Old Doll - Soft Version"
+    }
+  ]
+}

@@ -1,0 +1,6397 @@
+[
+  {
+    "name": "Xootz Bumper Car",
+    "price_eur": null,
+    "price_text": "£179.99",
+    "retailers": [
+      {
+        "name": "Xootz",
+        "url": "https://www.xootz.co.uk/catalogsearch/result/?q=Xootz+Bumper+Car"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Xootz Bubble Scooter",
+    "price_eur": null,
+    "price_text": "£49.99",
+    "retailers": [
+      {
+        "name": "Xootz",
+        "url": "https://www.xootz.co.uk/bubble-go-foldable-tri-scooter-blue.html"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jurassic World Dominion: Real FX Baby Blue Dinosaur",
+    "price_eur": 119.99,
+    "price_text": "€119.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/jurassic-world/jurassic-world-dominion-real-fx-baby-blue-dinosaur/p/207056"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bouncy Rubber Eggs Bouncy Egg",
+    "price_eur": 2.0,
+    "price_text": "€2",
+    "retailers": [
+      {
+        "name": "Toys and Games",
+        "url": "https://www.toysandgames.ie/product/bouncy-eggs/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "DJ Beat Boxer",
+    "price_eur": 47.7,
+    "price_text": "€47.70",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/vtech/dj-beat-boxer/162398331.html?cgid=root#q=vtech%2Bdj%2Bbeat%2Bboxer&lang=en_IE&start=1"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price DJ Bouncin' Beats",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/mthjp92"
+      },
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Puppet Crow",
+    "price_eur": 25.0,
+    "price_text": "€25",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/pc03102?_pos=1&_sid=d61530849&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Puppets Lischa Hand Puppet",
+    "price_eur": 74.95,
+    "price_text": "€74.95",
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/product/puppets-and-theatres/classroom-puppets/living-puppets-lischa-hand-puppet-45cm/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cocomelon Musical Bedtime JJ Doll",
+    "price_eur": 34.0,
+    "price_text": "€34",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/bawt80114?_pos=18&_sid=24a9baf86&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bluey Sound Effects Plushy",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/pre-school-and-electronic-learning/bluey/bluey-s-talking-bluey-plush/p/199290"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wall Climbing Super Car in Red - RED5",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Source Wholesale",
+        "url": "https://thesourcewholesale.co.uk/product/wall-climbing-super-car-red/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Casdon Ironing Set",
+    "price_eur": 32.5,
+    "price_text": "€32.50",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/cb51750?_pos=1&_sid=1eb15e84a&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Pixar Lightyear Laser Blade Buzz Lightyear",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/mthhj76?_pos=11&_sid=75bdbd704&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stretch Star Wars, Jabba the Hut",
+    "price_eur": 42.0,
+    "price_text": "€42",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/stretch-stretch-star-wars-jabba-the-hutt/1600804706.prd?sku=sku25647264&msclkid=a9b7b4a405b816910cf8d7da13f8df81"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price Disney Winnie the Pooh, My Friend Pooh",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/mthgr58?_pos=1&_sid=fe84ba128&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Rainbow",
+    "price_eur": 59.0,
+    "price_text": "€59",
+    "retailers": [
+      {
+        "name": "DluluKaloo",
+        "url": "https://www.dlulukaloo.ie/store"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Bainisteoir",
+    "price_eur": 35.0,
+    "price_text": "€35",
+    "retailers": [
+      {
+        "name": "Bainisteoir",
+        "url": "https://bainisteoirboardgame.ie/pages/home"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Coffee Machine Set",
+    "price_eur": 34.0,
+    "price_text": "€34",
+    "retailers": [
+      {
+        "name": "BeoVERDE Ireland",
+        "url": "https://beoverde.ie/products/wooden-toys-new-classic-toys-pretend-play-coffee-maker-set?_pos=1&_sid=c2c422d15&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Toy Camera",
+    "price_eur": 17.0,
+    "price_text": "€17",
+    "retailers": [
+      {
+        "name": "BeoVERDE Ireland",
+        "url": "https://beoverde.ie/products/wooden-toys-small-foot-pretend-play-wooden-play-camera?_pos=1&_sid=0b94caf74&_ss=r"
+      }
+    ],
+    "kind": "tech",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Croke Park 3D Puzzle",
+    "price_eur": 30.0,
+    "price_text": "€30",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Long Skipping Rope for 2-3 People, 100% Plastic-Free",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Jiminy",
+        "url": "https://jiminy.ie/products/playground-jump-rope-fsc-wood-and-100-cotton-4-5-metres"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Harvey Rattan Doll's Wheelchair",
+    "price_eur": 124.9,
+    "price_text": "€124.90",
+    "retailers": [
+      {
+        "name": "Little Angel Rose",
+        "url": "https://www.littleangelrose.com/products/rattan-toy-doll-wheelchair"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Doll with Down Syndrome and Glasses",
+    "price_eur": 39.9,
+    "price_text": "€39.90",
+    "retailers": [
+      {
+        "name": "Little Angel Rose",
+        "url": "https://www.littleangelrose.com/products/miniland-girl-doll-down-syndrome-glasses"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Personalised Rag Doll, Mischievous Maeve",
+    "price_eur": 30.0,
+    "price_text": "€30",
+    "retailers": [
+      {
+        "name": "Wowwee",
+        "url": "https://wowwee.ie/products/personalised-rag-doll-mischievous-maeve-our-newest-addition"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Irish Fairy Door Rainbow Door",
+    "price_eur": 9.6,
+    "price_text": "€9.60",
+    "retailers": [
+      {
+        "name": "Tipperary Crystal",
+        "url": "https://www.tipperarycrystal.ie/disabled/the-irish-fairy-door-rainbow-door/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Gabby's Purrfect Dollhouse",
+    "price_eur": 89.99,
+    "price_text": "€89.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/new-toys/gabby-s-dollhouse/gabby%e2%80%99s-purrfect-61cm-dollhouse-with-toy-figures-furniture-pieces-and-accessories/p/207874"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Play-Doh Ice-Cream Truck",
+    "price_eur": 105.0,
+    "price_text": "€105",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/play-doh-playdoh-ultimate-ice-cream-truck-playset/1600773726.prd?sku=sku25247793&msclkid=a1d56904f9e91b0228520a7a737ecfca"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of Animal Plushies",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA Ireland",
+        "url": "https://www.ikea.com/ie/en/"
+      },
+      {
+        "name": "Red Rufus",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Little Live Pets Mama Surprise Guinea Pig Little Live Pets",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/little-live-pets/little-live-pets-mama-surprise/p/210504"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Melissa & Doug Vet Set Game Examine & Treat",
+    "price_eur": 34.95,
+    "price_text": "€34.95",
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/product/pet-vet-play-set/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Soggy Moggy Kids Action Game",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/games-puzzles-and-books/board-games/children-s-board-games/soggy-moggy-kids-action-game/p/210352"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hape Mighty Echo Microphone",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Hape",
+        "url": "https://de.hape.com/en/mighty-echo-microphone-e0337"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Despicable Me Mini Fart Blaster",
+    "price_eur": 17.0,
+    "price_text": "€17",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/mtgmf84?_pos=2&_sid=962bb7f20&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Maxi Micro Deluxe Pro Scooter",
+    "price_eur": 139.95,
+    "price_text": "€139.95",
+    "retailers": [
+      {
+        "name": "Micro-Scooters",
+        "url": "https://www.micro-scooters.ie/maxi-micro-deluxe-pro-scooter-rose-6942#selection.color=5744&selection.size=5454"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Micro Eco Scooter Head: Unicorn",
+    "price_eur": 19.95,
+    "price_text": "€19.95",
+    "retailers": [
+      {
+        "name": "Micro-Scooters",
+        "url": "https://www.micro-scooters.ie/micro-eco-scooter-head-unicorn-7490#selection.size=5454&selection.color=5741"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Baba Bear Doll Rattan High Chair",
+    "price_eur": 95.95,
+    "price_text": "€95.95",
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/products/rattan-toy-high-chair-bear"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of Cow figurines",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "https://www.thefield.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dyson Supersonic Styling Set",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/dyson-supersonic-and-corrale-toy-hairdryer-and-straighteners-set/p/209078"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wooden beauty case",
+    "price_eur": 41.99,
+    "price_text": "€41.99",
+    "retailers": [
+      {
+        "name": "Jiminy",
+        "url": "https://jiminy.ie/products/beauty-case-25-x-18cm"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of wigs",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Costume Shop",
+        "url": "https://www.thecostumeshop.ie/wigs"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Slice & Stack Sandwich Counter - Melissa & Doug",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Cogs the Brain Shop",
+        "url": "https://cogsthebrainshop.ie/product/melissa-doug-slice-stack-sandwich-counter-6/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Air Fryer - ColorBaby PlayGo",
+    "price_eur": null,
+    "price_text": "£17.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/infunbebe-Light-Sound-Fryer-Kitchen/dp/B07ZCBXY4C/ref=pd_lpo_1?pd_rd_w=gc9n8&content-id=amzn1.sym.2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_p=2d229339-2f42-4596-a90d-b81a4f52d6d3&pf_rd_r=4S7N0AQMG60JWFPSYBTX&pd_rd_wg=EuHOs&pd_rd_r=7d143045-07da-48cb-9cb6-c368e9745bbf&pd_rd_i=B07ZCBXY4C&th=1"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Morphy Richards Kitchen Set",
+    "price_eur": 22.99,
+    "price_text": "€22.99",
+    "retailers": [
+      {
+        "name": "World of Wonder Toys",
+        "url": "https://worldofwondertoys.ie/product/morphy-richards-kitchen-set/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Prepare & Serve Pasta Set - Melissa & Doug",
+    "price_eur": 38.49,
+    "price_text": "€38.49",
+    "retailers": [
+      {
+        "name": "The Learning Lab",
+        "url": "https://learninglab.ie/product/prepare-serve-pasta-set/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My First Smart Fridge Playset",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/kitchens-and-household/kitchens-and-home-role-play/kitchen-corner-my-first-smart-fridge-playset/p/205381"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Electronic Washing Machine",
+    "price_eur": 35.0,
+    "price_text": "€35",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/cb476?_pos=2&_psq=casdon%20electronic&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djeco Cook and Scratch Food Set",
+    "price_eur": 17.5,
+    "price_text": "€17.50",
+    "retailers": [
+      {
+        "name": "Educational Toys",
+        "url": "https://www.educationaltoys.ie/products/djeco-cook-scratch-5502"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Garda Electric Ride-on Car - Esmark Finch",
+    "price_eur": 329.0,
+    "price_text": "€329.00",
+    "retailers": [],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Little Uniform Children's Garda Síochána costume",
+    "price_eur": 59.95,
+    "price_text": "€59.95",
+    "retailers": [
+      {
+        "name": "My Little Uniform",
+        "url": "https://mylittleuniform.com/shop/garda-siochana-uniform/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Optimus Prime Transformer Model",
+    "price_eur": 144.0,
+    "price_text": "€144",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/optimus-prime-10302"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sonic the Hedgehog Set",
+    "price_eur": 80.0,
+    "price_text": "€80",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/sonic-the-hedgehog-green-hill-zone-21331"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Monster Jam Megalodon car",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/monster-jam-megalodon-42134"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Peach's Castle Expansion Set",
+    "price_eur": 130.0,
+    "price_text": "€130",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/peach-s-castle-expansion-set-71408"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Peach Adventures Starter Course",
+    "price_eur": 60.0,
+    "price_text": "€60",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/adventures-with-peach-starter-course-71403"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Star Wars BD-1 Droid",
+    "price_eur": 100.0,
+    "price_text": "€100",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/bd-1-75335"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Holiday Camper Van",
+    "price_eur": 20.0,
+    "price_text": "€20",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/holiday-camper-van-60283"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "School Day",
+    "price_eur": 60.0,
+    "price_text": "€60",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/school-day-60329"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Football Rebounder",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Rebounder",
+        "url": "http://rebounder.ie/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Smart Ball Skills Training Football",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/world-cup-2022/football/smart-ball-skills-training-football-exclusive/p/207931"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Match Attax",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Book Centre",
+        "url": "https://www.thebookcentre.ie/match-attax?_ga=2.89240155.1715105340.1669401088-1174765892.1669401088"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Official Liverpool FC Annual: 2023",
+    "price_eur": 5.99,
+    "price_text": "€5.99",
+    "retailers": [
+      {
+        "name": "Bookstation",
+        "url": "https://www.bookstation.ie/product/the-official-liverpool-fc-annual-2023/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "50 Times Football Changed the World",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Bookstation",
+        "url": "https://www.bookstation.ie/product/50-times-football-changed-the-world/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Play Like Your Football Heroes: Pro tips for becoming a top player",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Bookstation",
+        "url": "https://www.bookstation.ie/?s=Play+like+your+football+heroes&post_type=product&type_aws=true"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Children’s Pilot costume",
+    "price_eur": 52.95,
+    "price_text": "€52.95",
+    "retailers": [
+      {
+        "name": "My Little Uniform",
+        "url": "https://mylittleuniform.com/shop/childrens-pilot-costume/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bespoke Cockpit Model",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "CardboardMagic",
+        "url": "https://cardboardmagic.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Princess Style Collection World Traveller Play Suitcase",
+    "price_eur": 54.99,
+    "price_text": "€54.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/magical-disney-gifts/disney-princess/disney-princess-style-collection-world-traveller-play-suitcase/p/208087"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Super Fun Voice Changer",
+    "price_eur": 14.39,
+    "price_text": "€14.39",
+    "retailers": [
+      {
+        "name": "O'Mahonys",
+        "url": "https://www.omahonys.ie/my-superfun-voice-changer-p-10530179.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Long yellow phone",
+    "price_eur": 24.0,
+    "price_text": "€24",
+    "retailers": [
+      {
+        "name": "Talking Tubes",
+        "url": "https://thinkingtoys.ie/products/talking-tubes"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Leap Frog Magic Adventures",
+    "price_eur": 99.0,
+    "price_text": "€99",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/lf605403?_pos=2&_sid=4eece20d0&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Playmobile City Action Airport with Control Tower",
+    "price_eur": null,
+    "price_text": "£33.99",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Playmobil-5338-Action-Airport-Control/dp/B01EKFF2C6"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Playmobile City Action Family at Check-In",
+    "price_eur": null,
+    "price_text": "£12.63",
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.co.uk/Playmobil-5399-Action-Family-Check/dp/B01EKBCWLO"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Aer Lingus A320 Airport Set",
+    "price_eur": 22.0,
+    "price_text": "€22",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/al75630?_pos=2&_sid=4a55fd4ca&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bajo Wooden Toy Plane with Pilot",
+    "price_eur": 18.95,
+    "price_text": "€18.95",
+    "retailers": [
+      {
+        "name": "BeoVERDE",
+        "url": "https://beoverde.ie/products/wooden-toys-bajo-push-and-pull-toy-plane-with-pilot?_pos=1&_sid=b86b04d22&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of Squishmallows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/squishmallows/c/SM06010424"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallow Ski Chalet",
+    "price_eur": 64.99,
+    "price_text": "€64.99",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/squishville-squishville-by-original-squishmallows-squishville-ski-chalet-playset/1600773708.prd?sku=sku25346020&msclkid=8d5c8bb610b018d73a2fe8c1f33b7163"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Unicorn Poppers",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "artnhobby.ie",
+        "url": "https://www.artnhobby.ie/products/squeeze-popper-unicorn-pink"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lego Friends Andrea's Theatre School",
+    "price_eur": 100.0,
+    "price_text": "€100",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/andrea-s-theatre-school-41714"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lego Dot Big Message Board",
+    "price_eur": 40.0,
+    "price_text": "€40",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/big-message-board-41952"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Don't Be a Scaredy Bear Game",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Totally Toys Ireland",
+        "url": "https://totallytoys.ie/products/dont-be-a-scaredy-bear-board-game"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Purse Pets",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Purse Pets",
+        "url": "https://www.pursepets.com/en_us/toys/778988437209"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rainbow Musical Tea Set",
+    "price_eur": 34.0,
+    "price_text": "€34",
+    "retailers": [
+      {
+        "name": "BeoVERDE Ireland",
+        "url": "https://beoverde.ie/products/vilac-pretend-play-toy-musical-tea-set-rainbow?_pos=3&_sid=20cabf5ea&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djeco My Picnic Set",
+    "price_eur": 39.95,
+    "price_text": "€39.95",
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/product/birthday-toys/preschool-top-toys/djeco-my-picnic/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "DC Batman Interactive Gauntlet",
+    "price_eur": 25.0,
+    "price_text": "€25",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/sr6055411?_pos=1&_psq=gauntlet&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Across the Spider-Verse Miles Morales Tri-Shot Blaster",
+    "price_eur": 32.99,
+    "price_text": "€32.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/construction-and-cars/nerf/nerf-elite/marvel-spider-man-across-the-spider-verse-miles-morales-tri-shot-blaster/p/211227"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ryan's Green Cape & Eyemask",
+    "price_eur": 9.99,
+    "price_text": "€9.99",
+    "retailers": [
+      {
+        "name": "thecostumeshop.ie",
+        "url": "https://www.thecostumeshop.ie/costume/cape-and-eyemask.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Spider-Man Walkie Talkies",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/spider-man-walkie-talkie/p/171612"
+      }
+    ],
+    "kind": "tech",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Batman All-Terrain Batmobile",
+    "price_eur": 44.99,
+    "price_text": "€44.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/batman-all-terrain-batmobile-remote-control-1-15-water-resistant-vehicle/p/198427"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Terra Remote Control Spider Tarantula",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "NuORDER",
+        "url": "https://thesourcewholesale.co.uk/product/rc-tarantula/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Venom Titan Action Figure",
+    "price_eur": 22.99,
+    "price_text": "€22.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/venom-marvel-spider-man-maximum-venom-titan-hero-action-figure/p/187643"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Batman Beyond Batbot",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/action-figures-and-playsets/batman/imaginext-dc-super-friends-bat-tech-batbot-and-batman-figure/p/200448"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Thor Love Thunder Hammer Marvel",
+    "price_eur": 36.99,
+    "price_text": "€36.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-thor-love-and-thunder-mighty-fx-mjolnir-electronic-hammer/p/204724"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lego Marvel Spider-Man Webquarters Hangout Set",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/spider-man-webquarters-hangout-10784"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvel Titan Hero Series 7 Figure Pack",
+    "price_eur": 59.99,
+    "price_text": "€59.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/avengers/marvel-titan-hero-series-7-figure-pack/p/209199"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lego Marvel I am Groot set",
+    "price_eur": 50.0,
+    "price_text": "€50",
+    "retailers": [
+      {
+        "name": "LEGO®",
+        "url": "https://www.lego.com/en-ie/product/i-am-groot-76217"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Spider-man car",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miles Morales Action figure",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/marvel/spider-man/marvel-spidey-and-his-amazing-friends-supersized-miles-morales-spider-man-action-figure/p/206921"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Master Detective Toolkit Forensic kit",
+    "price_eur": 39.95,
+    "price_text": "€39.95",
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/product/master-detective-toolkit-forensic-kit/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Encanto Mirabel's Magic Accordion",
+    "price_eur": 27.9,
+    "price_text": "€27.90",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/electronics/encanto/mirabels-magical-accordion/2000343608.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Encanto Sing-Along Microphone",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/disney-encanto-sing-along-microphone/p/209250"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "iHome Disney Encanto Bluetooth Karaoke Machine",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/disney-encanto/ihome-disney-encanto-bluetooth-karaoke-machine-with-ez-link-technology/p/209374"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wizard kit in cabin, Wizards & Wonders",
+    "price_eur": null,
+    "price_text": "£15",
+    "retailers": [
+      {
+        "name": "International Elf Service",
+        "url": "https://internationalelfservice.com/shop/product/roots-fantastical-matters-twig-6-personalised-stream-stem-subscription-learning/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Harry & Ron's Flying Adventure Car with dolls",
+    "price_eur": 79.99,
+    "price_text": "€79.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/harry-potter-harry-and-ron-s-flying-adventure-car-with-harry-and-ron-dolls/p/210171"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Harry Potter Wands",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter-wands-and-toys/harry-potter-hermione-light-up-painting-wand/p/168426"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fur fluffs",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "World Of Wonder Toys",
+        "url": "https://worldofwondertoys.ie/product/fur-fluffs/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sensory toys like cupcake squishes and putty",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Sensory House",
+        "url": "https://sensoryhouse.ie/home"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Calming Caterpillar",
+    "price_eur": 32.0,
+    "price_text": "€32",
+    "retailers": [
+      {
+        "name": "Tipperarycrystal.ie",
+        "url": "https://www.tipperarycrystal.ie/gifts/irish-heritage/irish-fairy-door-company/soft-toys/the-irish-fairy-door-calming-caterpillar/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sponge Bob Square Pants teddy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Primark",
+        "url": "https://www.primark.com/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Little Pony Medium Eco Plush",
+    "price_eur": 17.0,
+    "price_text": "€17",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/co07663?_pos=16&_sid=edfbe3215&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Little Pony Retro Sweet Stuff Classic Pony",
+    "price_eur": 15.0,
+    "price_text": "€15",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/kx35297?_pos=5&_psq=my%20little%20pony&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fairy Doors Magic Dust Mixing Set",
+    "price_eur": 8.0,
+    "price_text": "€8",
+    "retailers": [
+      {
+        "name": "Tipperarycrystal.ie",
+        "url": "https://www.tipperarycrystal.ie/disabled/irish-fairy-door-dust-mixing-set/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Enchanting Hedwig Interactive Harry Potter Owl",
+    "price_eur": 34.99,
+    "price_text": "€34.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/brand/harry-potter-brand/harry-potter/wizarding-world-enchanting-hedwig-interactive-harry-potter-owl/p/197875"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Harry Potter Blanket",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Primark",
+        "url": "https://www.primark.com/en-ie/search?text=harry+potter&productPagePosition=0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Head Plan Kids Journal",
+    "price_eur": 22.0,
+    "price_text": "€22",
+    "retailers": [
+      {
+        "name": "The Head Plan",
+        "url": "https://theheadplan.com/products/kids-journal"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Empower Flower",
+    "price_eur": null,
+    "price_text": "£19.99",
+    "retailers": [
+      {
+        "name": "Very",
+        "url": "https://www.very.co.uk/empower-flower/1600773650.prd"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cube Fun",
+    "price_eur": null,
+    "price_text": "£14.95",
+    "retailers": [
+      {
+        "name": "Cube Fun",
+        "url": "https://cubefun.co.uk/shop"
+      },
+      {
+        "name": "CubeFun",
+        "url": "https://cubefun.co.uk/shop"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Extra Large Sensory Ooze Tube",
+    "price_eur": 17.95,
+    "price_text": "€17.95",
+    "retailers": [
+      {
+        "name": "sensoryhouse.ie",
+        "url": "https://sensoryhouse.ie/oozetube"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ugears Cardboard Model",
+    "price_eur": 15.12,
+    "price_text": "€15.12",
+    "retailers": [
+      {
+        "name": "Ugears",
+        "url": "https://ugears.ie/devices-for-tabletop-games/83-ugears-games-dice-keeper-4820184120938"
+      },
+      {
+        "name": "ugears.ie",
+        "url": "https://ugears.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ukrainian books",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Walker Books",
+        "url": "https://www.walker.co.uk/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sky Dancers Fuschia Fantasy",
+    "price_eur": 25.99,
+    "price_text": "€25.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/dolls/sky-dancers-fuschia-fantasy/p/211340"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rock N Rollerskate Rainbow Riley Doll",
+    "price_eur": 39.99,
+    "price_text": "€39.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/fashion-and-dolls/other-fashion-and-dolls/rock-n-rollerskate-rainbow-riley-doll/p/200107"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Loom bands",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Owl Quillows in pink",
+    "price_eur": 34.95,
+    "price_text": "€34.95",
+    "retailers": [
+      {
+        "name": "Hana Lee Studios",
+        "url": "https://hanaleestudios.ie/collections/baby-children/products/owl-quillows-pink"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fox Quillows in blue",
+    "price_eur": 34.95,
+    "price_text": "€34.95",
+    "retailers": [
+      {
+        "name": "Hana Lee Studios",
+        "url": "https://hanaleestudios.ie/products/quillows"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Melissa & Doug Sushi Slicing Wooden Play Food Set",
+    "price_eur": 33.95,
+    "price_text": "€33.95",
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/product/melissa-doug-sushi-slicing-wooden-play-food-set/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sushi Go!",
+    "price_eur": 15.95,
+    "price_text": "€15.95",
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/product/sushi-go/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hungry Hippos Grab & Go",
+    "price_eur": 8.0,
+    "price_text": "€8",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/mbb1001?_pos=1&_sid=eadd7095d&_ss=r"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Connect 4 Grid Game",
+    "price_eur": 14.0,
+    "price_text": "€14",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/hba5640?_pos=2&_sid=0e894cf09&_ss=r"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gigi Blocks & Cardboard Bricks for Kids",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "GIGI Bloks",
+        "url": "https://gigibloks.com/collections/all"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Build Your Own Hybrid Engine Kit",
+    "price_eur": 76.99,
+    "price_text": "€76.99",
+    "retailers": [
+      {
+        "name": "MicksGarage",
+        "url": "https://www.micksgarage.com/d/gifts/products/3653864/haynes-build-your-own-hybrid-engine-kit?loc=ie&msclkid=eae167f961ff10cf4fba0479a605f73a&utm_source=bing&utm_medium=cpc&utm_campaign=PMax:%20Micks%20Garage_Smart%20Shopping_IE_Catch%20All_Other&utm_term=4581871127890043&utm_content=Catch%20All_Other"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Croke Park Arckit 3D Puzzle",
+    "price_eur": 30.0,
+    "price_text": "€30",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/nd0104?_pos=1&_psq=croke%20park&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Oxford Deluxe Titanic Construction Set",
+    "price_eur": 49.99,
+    "price_text": "€49.99",
+    "retailers": [
+      {
+        "name": "Smyths Toys",
+        "url": "https://www.smythstoys.com/ie/en-ie/toys/lego-and-bricks/construction-bricks-sets/oxford-deluxe-titanic-construction-set/p/144392"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Titanic Memorabilia",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Titanic Belfast",
+        "url": "https://www.titanicbelfast.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dobble",
+    "price_eur": 15.0,
+    "price_text": "€15",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/emasmdobb01en?_pos=1&_psq=dobble&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Grabolo",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "finneganscorner.com",
+        "url": "https://finneganscorner.com/toys/grabolo/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Balancing Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/eh7367?_pos=1&_psq=MARIO%20BALA&_ss=e&_v=1.0"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Penney's Dinosaur Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Primark",
+        "url": "https://www.primark.com/en-ie/search?text=plush&productPagePosition=0"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Aaron's Putty",
+    "price_eur": 13.0,
+    "price_text": "€13",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/collections/crazy-aarons-putty"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Eugy Dragon",
+    "price_eur": 11.41,
+    "price_text": "€11.41",
+    "retailers": [
+      {
+        "name": "Eugy",
+        "url": "https://www.eugy.com/shop/024-Dragon-p135485030"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Smart Cube Dublin",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "nimblefingers.ie",
+        "url": "https://nimblefingers.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hot Pink 24V Truck Tractor & Trailer",
+    "price_eur": null,
+    "price_text": "£400",
+    "retailers": [
+      {
+        "name": "EMK Toys",
+        "url": "https://www.emktoys.com/products/truck-pink-tractor"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Red Forklift 12V",
+    "price_eur": null,
+    "price_text": "£300",
+    "retailers": [
+      {
+        "name": "EMK Toys",
+        "url": "https://www.emktoys.com/products/forklift-red"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Maxi Micro Deluxe LED Scooter",
+    "price_eur": 169.95,
+    "price_text": "€169.95",
+    "retailers": [
+      {
+        "name": "Micro Scooters",
+        "url": "https://www.micro-scooters.ie/maxi-micro-deluxe-led-scooter-blue-6380#selection.size=5454&selection.color=5729"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "New Holland Blue Tractor Kids Ride On",
+    "price_eur": 635.0,
+    "price_text": "€635",
+    "retailers": [
+      {
+        "name": "Hennessy Outdoors",
+        "url": "https://hennessyoutdoors.ie/product/kids-ride-on-licenced-new-holland-t7-24v-tractor/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Licensed Vespa 12V Electric Ride On Motorcycle",
+    "price_eur": 189.95,
+    "price_text": "€189.95",
+    "retailers": [
+      {
+        "name": "funstuff.ie",
+        "url": "https://funstuff.ie/licensed-vespa-12v-electric-ride-on-motorbike-blue/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Raleigh Pioneer Grand Tour Ladies Hybrid Bike",
+    "price_eur": 715.0,
+    "price_text": "€715",
+    "retailers": [
+      {
+        "name": "Eurocycles",
+        "url": "https://eurocycles.com/raleigh-pioneer-grand-tour-ladies-hybrid-bike-burgundy-silver-2021/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Impala Roller Skates Wavycheck",
+    "price_eur": 119.95,
+    "price_text": "€119.95",
+    "retailers": [
+      {
+        "name": "Hennessy Outdoors",
+        "url": "https://hennessyoutdoors.ie/product/impala-roller-skates-wavycheck/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kaltik K Skates Pink Ninja Model",
+    "price_eur": 149.99,
+    "price_text": "€149.99",
+    "retailers": [
+      {
+        "name": "KALTIK",
+        "url": "https://www.kaltik.eu/product-page/k-skate-pink-ninja-model"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Blazer Outrun Pro Stunt Scooter Blazer",
+    "price_eur": 139.95,
+    "price_text": "€139.95",
+    "retailers": [
+      {
+        "name": "Gosk8",
+        "url": "https://gosk8.ie/blazer-outrun-pro-stunt-scooter-black-8581"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Bike with Spinning Lights",
+    "price_eur": 169.99,
+    "price_text": "€169.99",
+    "retailers": [
+      {
+        "name": "Lifty",
+        "url": "https://lifty.co/products/kids-bike-with-spinning-lights"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Huffy Pro Thunder Kids Bike 20\"",
+    "price_eur": 189.0,
+    "price_text": "€189",
+    "retailers": [
+      {
+        "name": "Eurocycles",
+        "url": "https://eurocycles.com/huffy-pro-thunder-kids-bike-20-5-to-8-years-old/"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Woom Now 4",
+    "price_eur": 799.0,
+    "price_text": "€799",
+    "retailers": [
+      {
+        "name": "Donnybrook Bikes",
+        "url": "https://www.donnybrookbikes.ie/shop/woom-now-4/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of Barbies dolls",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/brands/fao-schwarz/shop-all/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Barbie dream house",
+    "price_eur": 323.1,
+    "price_text": "€323.10",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/barbie-dreamhouse/154455796.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Barbie Campervan Dream Camper",
+    "price_eur": 126.9,
+    "price_text": "€126.90",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/toys/dolls-doll-houses/barbie/dream-camper-vehicle/161910742.html"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stitch and Style Fashion studio",
+    "price_eur": 40.97,
+    "price_text": "€40.97",
+    "retailers": [
+      {
+        "name": "World Of Wonder Toys",
+        "url": "https://worldofwondertoys.ie/product/coolmaker-stitch-n-style-fashion-studio/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wax Seals, Embossers & Rubber Stamps for Weddings & Luxury Packaging",
+    "price_eur": 37.0,
+    "price_text": "€37",
+    "retailers": [
+      {
+        "name": "Heirloom Seals",
+        "url": "https://heirloomseals.com/products/kids-character-book-stamp"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dad Jokes, The Priceless Edition",
+    "price_eur": 13.99,
+    "price_text": "€13.99",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/product/dad-jokes-the-priceless-edition-hb-9781788402583"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fox & Sons - Paddy Donnelly",
+    "price_eur": 14.99,
+    "price_text": "€14.99",
+    "retailers": [
+      {
+        "name": "The O'Brien Press",
+        "url": "https://obrien.ie/schools/fox-son-tailers"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Eoin Colfer: Cloud Babies, illustrated by Chris Judge",
+    "price_eur": 17.0,
+    "price_text": "€17.00",
+    "retailers": [
+      {
+        "name": "Tales for Tadpoles",
+        "url": "https://talesfortadpoles.ie/products/eoin-colfer-cloud-babies-illustrated-by-chris-judge"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "I Believe in You by Deborah Somorin",
+    "price_eur": 11.99,
+    "price_text": "€11.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/i-believe-in-you-deborah-somorin-9780717190621"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Big Day by Bob Johnston",
+    "price_eur": 12.99,
+    "price_text": "€12.99",
+    "retailers": [
+      {
+        "name": "The O'Brien Press",
+        "url": "https://obrien.ie/our-big-day"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "An Slipear Gloine - Fearghas Mac Lochlainn & Paddy Donnelly",
+    "price_eur": 12.95,
+    "price_text": "€12.95",
+    "retailers": [
+      {
+        "name": "An Siopa Leabhar",
+        "url": "https://www.siopaleabhar.com/en/product/an-slipear-gloine/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The A-Z of Minding Me by Tracey Flynn & Niamh Gogan",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Gill Books",
+        "url": "https://www.gillbooks.ie/childrens/childrens/the-a-z-of-minding-me"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bedtime Stories: Incredible Irish Tales From The Past by Rachel Pierce",
+    "price_eur": 15.99,
+    "price_text": "€15.99",
+    "retailers": [
+      {
+        "name": "Bookstation",
+        "url": "https://www.bookstation.ie/product/bedtime-stories-incredible-irish-tales-from-the-past/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Great Irish History Book by Myles Dungan",
+    "price_eur": 24.99,
+    "price_text": "€24.99",
+    "retailers": [
+      {
+        "name": "Nimble Fingers",
+        "url": "https://nimblefingers.ie/products/myles-dungan-the-great-irish-history-book"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Rita agus an Fathach by Máire Zepf Rita agus an Fathach",
+    "price_eur": 16.0,
+    "price_text": "€16",
+    "retailers": [
+      {
+        "name": "cic.ie",
+        "url": "https://cic.ie/shop/leabhair/rita-agus-an-fathach/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Peigin Leitir Mór by Tadhg Mac Dhonnagain Peigín Leitir Móir",
+    "price_eur": 16.95,
+    "price_text": "€16.95",
+    "retailers": [
+      {
+        "name": "An Siopa Leabhar",
+        "url": "https://www.siopaleabhar.com/en/product/peigin-leitir-moir/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dance with Oti, The Lion Samba by Oti Mabuse",
+    "price_eur": 18.2,
+    "price_text": "€18.20",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/product/the-lion-samba-9781529500783"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Silly Jokes for Funny Kids by Andrew Pinder",
+    "price_eur": 6.99,
+    "price_text": "€6.99",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/product/silly-jokes-for-funny-kids-9781780559087"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Players’ Advice: Tips & Tactics from GAA stars by Sean O’ Sullivan",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/product/players-advice-tips-and-tactics-from-gaa-stars-pb-9781788492683"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Batpig: When Pigs Fly by Rob Harrell",
+    "price_eur": 12.6,
+    "price_text": "€12.60",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/when-pigs-fly-rob-harrell-9781529510270"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Girls Who Slay Monsters by Ellen Ryan",
+    "price_eur": 18.99,
+    "price_text": "€18.99",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/girls-who-slay-monsters-ellen-ryan-9780008538972"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Glorious Goddesses of Ancient Ireland by Karen Ward",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "Veritas",
+        "url": "https://www.veritasbooksonline.com/glorious-goddesses-9781800970038-46742/"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Be Inspired, Young Irish People Changing the World by Sarah Webb",
+    "price_eur": 16.99,
+    "price_text": "€16.99",
+    "retailers": [
+      {
+        "name": "The O'Brien Press",
+        "url": "https://obrien.ie/be-inspired"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Creeping Beauty: Fairy tales gone bad by Joseph Coelho",
+    "price_eur": 8.79,
+    "price_text": "€8.79",
+    "retailers": [
+      {
+        "name": "Easons",
+        "url": "https://www.easons.com/creeping-beauty-joseph-coelho-9781406389685"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Sleep Scan by Niall Breslin",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Dubray Books",
+        "url": "https://www.dubraybooks.ie/product/sleep-scan-9780717195657"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Football SPARKA green football",
+    "price_eur": null,
+    "price_text": "£4.50",
+    "retailers": [
+      {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/gb/en/p/sparka-soft-toy-football-green-70302645/"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fab Lab Wellness Kit",
+    "price_eur": 17.99,
+    "price_text": "€17.99",
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/fab-lab-wellness-kit/1600773660.prd?sku=sku25263352&msclkid=01672ecc2c971f94ae6d4dbbf9048cf2"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Orbeez Soothing Foot Spa",
+    "price_eur": 35.0,
+    "price_text": "€35",
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "https://banbatoys.ie/products/sr6061137?_pos=4&_sid=bb34d814a&_ss=r"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Polaroid Print Camera",
+    "price_eur": null,
+    "price_text": "£55",
+    "retailers": [
+      {
+        "name": "EMK Toys",
+        "url": "https://www.emktoys.com/products/print-camera-blue"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Design Your Own Purse Kit",
+    "price_eur": 32.0,
+    "price_text": "€32.00",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/fao-schwarz/design-your-own-purse-kit/148744735.html?cgid=root#q=FAO%2BPURSE&lang=en_IE&start=1"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jewellery Making Set",
+    "price_eur": 27.0,
+    "price_text": "€27",
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "https://www.arnotts.ie/fao-schwarz/jewellery-designer-set/148740697.html?cgid=root#q=jewellery&lang=en_IE&start=1"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The X Factor Bluetooth Karaoke Microphone Speaker",
+    "price_eur": 29.99,
+    "price_text": "€29.99",
+    "retailers": [
+      {
+        "name": "kenblack.ie",
+        "url": "https://www.kenblack.ie/the-x-factor-bluetooth-karaoke-microphone-speaker-166408"
+      }
+    ],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tumbles the Giraffe Stuffed Toy by The Wonky Woolins",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Wonky Woolins",
+        "url": "https://www.thewonkywoolins.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Cow by The Wonky Woolins",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Wonky Woolins",
+        "url": "https://www.thewonkywoolins.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Twinky the Bunny by The Wonky Woolins",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Wonky Woolins",
+        "url": "https://www.thewonkywoolins.com"
+      }
+    ],
+    "kind": "book",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Lucy Armchair (pink)",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Sam Armchair (grey)",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Wooden Shoe lace Board",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Ball pit (pink)",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Balls for ballpit",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Fairy House Night Light",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Hot Air Balloon Lampshade",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Lauren Dinosaur",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Kai Dinosaur",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Lucy Dinosaur",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Zachary Dinosaur",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lucy and Me",
+        "url": "https://lucyandme.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 50cm Purple",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 50cm Blue W",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 50cm Rainbow",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 50cm Cazlan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 40cm Assort",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squisnmallows 50cm Purple",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 40cm Exotic",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 40cm Assortment",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant snowman 83CM",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Snowy Owl M",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Brown Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Border Coll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Polar Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Golden Retriever",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Puffin Large",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Nature Dachshund",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Pokemon Holiday Plush (various)",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 20cm Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 30cm Green",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Care Bears Kindness Bears",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gilda Pink Flamingo - BOO",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "TY Cora Pink Mermaid Sequin",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows 30cm Rhiann",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Winnie the Pooh Flopsies Winnie the Pooh",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies Winnie the Pooh Flopsies",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvel 8\" Basic Plush Assortment",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sonic 9-inch Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvel 8\" Basic Plush Ass",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Disney Eco Plush 45cm Ass",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marvel Web Swinging Spide",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jack Skellington Savings",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Spider-Man Savings Bank",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Iron Man Savings Bank",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Mandalorian Savings B",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Groot Savings Bank",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Child with Cup Saving Minecraft 8\" Basic Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Darth Vadar Savings Bank",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Posh Paws Disney Mandalor",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Harry Potter 8\" Plush Ass",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FROZEN II ANNA 50CM",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Spot Soft Toy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mood Bears sad Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "BARNEY 10in SITTING",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PUPPET LGE PRIMATE ORANGU",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mood Bears Happy Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PUPPET LION - LONG SLEEVE",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "SASSIMALS FLOSSI THE FLAMINGO",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Bros Yoshi",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "SASSIMALS ALI THE ALPACA SASSIMALS",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "ALI THE ALPACA PUPPET UNICORN - LONG SLEEVE",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Imoji Plush winking Eye 1",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Bros Mario",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mood Bears Hope Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Puppet Border Collie",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PUPPET LABRADOR",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "BRUNO LARGE",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tiki & Toko Gorillas",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "SIT ON LIGHT & SOUND UNICORN SITTING 60CM",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "M&D WINGED DRAGON",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Care Bears Cheer Bear Large",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Giant Chocolate Labrador",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Polar Bear XL",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PEEK A BOO PUPPY-BLUE",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher Price Winnie The Pooh",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Standing Polar Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Standing Panda Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toy Master",
+        "url": "https://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kids Toy Wooden Laptop with chalkboard",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Stork & Co",
+        "url": "https://stork-co.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Alexander Toys 3D Origami - Turtles ORIGAMI 3D – Turtles",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Alexander Toys",
+        "url": "http://alexandertoys.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "3D Origami - Cobra ORIGAMI 3D - Cobra",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Alexander Toys",
+        "url": "http://alexandertoys.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "3D Origami - Rabbit ORIGAMI 3D – Bunny",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Alexander Toys",
+        "url": "http://alexandertoys.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "3D Origami - Flower Pot ORIGAMI 3D",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Alexander Toys",
+        "url": "http://alexandertoys.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Angel Rose Baby",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My First Steiff Hoppie Rabbit",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Steiff Teddy Bea Elmar",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fynn Teddy Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Herkules Yorkshire Terrier",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Teddy Bear - Anniversary Soldier Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "FAO Schwarz Teddy Bear - Soldier Bobbie Teddy Bear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "DC League of SuperPets - Talking Krypto Super-Pets",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "VTech DJ Beat Boxer",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "VTech Kidi SuperStar DJ Kidi DJ Mix",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Arnotts",
+        "url": "http://arnotts.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Arty Fox Let's Draw Let's Draw Box",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Arty Fox",
+        "url": "https://www.theartyfox.com/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Crafty Pal",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Arty Fox",
+        "url": "https://www.theartyfox.com/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "My Christmas Wreath",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Arty Fox",
+        "url": "https://www.theartyfox.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher-Price Toys Retro Chatter Telephone",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fisher-Price Toys Retro Little Snoopy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jiggly Pets - Disco Gigi Giraffe Musical Jack in the Box",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Original Mr. Frosty Ice Crunchy Maker",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Leap Globe Touch LeapFrog Junior Globe",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cry Babies Dressy Dotty Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Polly Pocket Pet Adventure Treehouse Playset and Accessories",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Schleich Majugasuarus",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Octonauts Octoray Headquarters Octonauts",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Super Mario Mario Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Scribble Me Friends - Scribble Me Soft Toy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Talking Peter Rabbit Soft Toy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Waffle the Wonder Dog Musical Jack in the Box",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cocomelon Duluxe Interactive JJ Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bluey Talking Bingo Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Teletubbies (1 Tinky Winky, 1 La La) Eco Plush",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Banba Toymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Brainstorm Eugy Craft Animals",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Brainstorm Ltd",
+        "url": "https://www.brainstormltd.co.uk/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Ultraflyers UltraFlyers",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Brainstorm Ltd",
+        "url": "https://www.brainstormltd.co.uk/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cliona's Foundation",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Dunnes Stores",
+        "url": "https://www.dunnesstores.com/c/kids"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": false
+  },
+  {
+    "name": "Rory Plush Toy In Aid Of Cliona's Foundation",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Dunnes Stores",
+        "url": "https://www.dunnesstores.com/c/kids"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Multi Rory plush Toy in aid of Cliona’s Foundation",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Safety Food Peeler & Kiddie's Food Kutter Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Cool Food School",
+        "url": "https://www.thecoolfoodschool.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chop, Cook Yum! Kid's Cookbook Fun kids cookbook",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Cool Food School",
+        "url": "https://www.thecoolfoodschool.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Big Feelings Pineapple",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chicken vs. Hotdog: The Ultimate Challenge Party Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Clack Game - Kids Magnetic Stacking Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Cogs The Brain Shop",
+        "url": "https://cogsthebrainshop.ie/"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Discovery Playtime Bigjigs Table Top Theatre",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tuff Tray Stand",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hand Puppet Sockettes",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Snowman Hand Puppet",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Didicar Green Didicar®",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Schylling Dinosaur Hand Puppet",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Erzi Giant Frizbee",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Happy Hopperz Turquoise Unicorn",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Discovery Playtime",
+        "url": "https://discoveryplaytime.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Djeco 12cm Baby Bloki",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Evolution PR Stretch Armstrong",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "True and the Rainbow Kingdom: Marinette Miraculous Ladybug",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Thrash Stretch N Strike Mobile Heroes of Goo Jit Zu Stretch & Strike",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mindful Lil Minds - Breathing Meditation Buddy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Fairy Door Company Worry Plaque Fairy Doors",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Tipperary Crystal",
+        "url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Irish Fairy Door Co",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Tipperary Crystal",
+        "url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Calming Caterpillar Fairy Doors",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Tipperary Crystal",
+        "url": "https://www.tipperarycrystal.ie/?gclid=Cj0KCQiA4aacBhCUARIsAI55maFmEFS9Jv6Hj_llUVXCDBTNF3rfxJd-g7U3S2UYqArIDaOxGR3xOSQaAkkFEALw_wcB"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Remote Control RC T Rex Dinosaur Discovery Kids Remote Control RC T Rex Dinosaur",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Fagans Toys",
+        "url": "http://fagantoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Trampoline Tennis Mini Trampoline Tennis Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Fagans Toys",
+        "url": "http://fagantoys.ie"
+      }
+    ],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Model Cows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "https://www.thefield.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Grass Field",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Field",
+        "url": "https://www.thefield.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Golden Bear Curlimals - Bibi Bunny Curlimals Bibi Bunny",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Higgle Hedgehog Curlimals",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Blue Badger Curlimals",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Hey Duggee Explore and Snore",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mr. Tumble Weighted Blanket Companion",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gosling Games Wild Ireland 1000 Piece Puzzle",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Gosling Gifts",
+        "url": "http://goslinggames.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Fionn mac Cumhaill 100 Piece Puzzle",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Gosling Gifts",
+        "url": "http://goslinggames.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Discovering Ireland Board Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Gosling Gifts",
+        "url": "http://goslinggames.ie"
+      }
+    ],
+    "kind": "game",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Hanalee Studios Quillows Quillows - Personalised Children's Pillows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Hana Lee Studios",
+        "url": "https://hanaleestudios.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cuddle Cushions",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Hana Lee Studios",
+        "url": "https://hanaleestudios.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Plushes Soft Toys - Cuddly Toys - Stuffed Animals",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA Ireland",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Abacus UNDERHÅLLA Abacus",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA Ireland",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Turtle & Whale Bag BLÅVINGAD Storage bag",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA Ireland",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Green Woven Basket UPPSTÅ Storage bag",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "IKEA Ireland",
+        "url": "https://www.ikea.com/ie/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jakks Pacific Encanto Mirabel Madrigal Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Encanto Bruno Madrigal Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jazwares Selection of Squishmallows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bioblo Eco Rainbow Stacking Blocks",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "PlayMais Classic Fun to Play Dinos",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Long Skipping Rope for 2-3 People",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stabilo Woody All-Surface Solid Paint Pencils",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "craft",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Alice in Wonderland/El Dorado Paper Theatres",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Jumping Bands (Elastics)",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "jiminy eco-toys",
+        "url": "https://jiminy.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Personalised Children's Rocking Chair",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Kerry Signature Furniture",
+        "url": "https://www.kerrysignaturefurniture.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lidl Giant Head Elf Meet The Christmas Elves",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Lidl Ireland",
+        "url": "https://www.lidl.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nick the Elf",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Holly the Elf",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little Angel Rose Harvey Doll Rattan Wheelchair",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miniland Caucasian Blonde Girl Doll with Down Syndrome",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Glasses Miniland Caucasian Brunette Girl Doll with Down Syndrome and Glasses",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miniland Asian Girl Doll with Down Syndrome",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miniland African Boy Doll with Down Syndrome",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miniland Caucasian Curly Black Hair Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Miniland Hispanic Boy Doll with Cochlear Implant",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rattan High Chair Baba Bear Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Turquoise Miniland Doll Glasses",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Little AngelRose",
+        "url": "https://www.littleangelrose.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Littlewoods Disney Princess Moana Styling Head",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Very Ireland",
+        "url": "https://www.very.ie/?utm_source=google&utm_medium=cpc&utm_campaign=WG-Brand-Very-Exact&&cm_mmc=Google-_-Brand+Terms-_-WG-Brand-Exact-_-Brand+Terms&gclid=Cj0KCQiA4aacBhCUARIsAI55maEFThvawtjFcyhaSpRZLjQ2MK9HStQ6aEXDWUihSAABrDWR7EFx-EkaAopQEALw_wcB"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mattel Jurassic World Extreme Chompin' Spinosaurus",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Air Hogs Gravitator",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Kinetic Sand Swirl N' Surprise",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Monster Jam Megalodon Storm Thrasher",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "MCC Stock Solutions Barbie Summer Villa with Doll",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Life Skills - Learning How to Face Fear Life Skills",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Life Skills - Learning Not to Throw Tantrums Life Skills",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mimi Toys Giraffe Mouth Moving Hand Puppet Living Puppets Giraffe Mouth Moving",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dressed Animal Hand Puppet - Hedgehog Dressed Animal Puppet Hedgehog",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dressed Animal Hand Puppet - Owl Folkmanis Puppets Snowy Owl",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dressed Animal Hand Puppet - Mouse Dressed Animal Puppet Mouse",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Living Puppets Living Puppets 65 cm",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Mimitoys",
+        "url": "https://mimitoys.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Moulin Roty la Grande Familie: Duck La Grande Famille",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Moulin Roty",
+        "url": "https://www.moulinroty.com/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "la Grande Familie: Dog La Grande Famille",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Moulin Roty",
+        "url": "https://www.moulinroty.com/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "les Schmouks: BouBou Les Schmouks",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Moulin Roty",
+        "url": "https://www.moulinroty.com/en/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Nikko Radio Control Rock CrushR RC",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Norton PR YCOO Programme a Bot",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Crazy Aaron's Thinking Putty",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Penneys Selection of Plushes",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Penneys",
+        "url": "http://primark.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Playtime PR Ted Lasso the Board Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mario Kart Delux Racing Set",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Partners in Crime Partners in Crime – Lucky Egg",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Step Right Up Step Right Up – Lucky Egg",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Red Rufus Gracie Sockbear",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Red Rufus",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Mabel SockDog",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Red Rufus",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "SockCat Blanche",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Red Rufus",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Pooky Sock Dog",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Red Rufus",
+        "url": "https://www.redrufus.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Rubens Baby Baby Esmé",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rubens Baby Ali",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rubens Emotions Dice",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Facial Expression Sets",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rubens Nappy Sets",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Rubens First Aid Kits",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Micki Of Sweden",
+        "url": "http://mickiofsweden.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mo Chuid Amhráin Ghaeilge - Tatyana Feeney & Risteard MacLiam",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "An Siopa Gaeilge",
+        "url": "http://siopagaeilge.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mo Chuid Amhráin Ghaeilge",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "An Siopa Gaeilge",
+        "url": "http://siopagaeilge.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mo Chéad Rainn Ghaeilge - Risteárd Mac Liam, Tatyana Feeney",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "An Siopa Gaeilge",
+        "url": "http://siopagaeilge.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mo Chuid Amhráin Nollag",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "An Siopa Gaeilge",
+        "url": "http://siopagaeilge.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Source RC Tarantula",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "StemWizz Gears & Motors Gift Boxes",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Stem Wizz",
+        "url": "https://stemwizz.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stemwizz Electrical Circuits Gift Boxes",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Stem Wizz",
+        "url": "https://stemwizz.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Stemwizz Green & Alternative Energy Gift Boxes",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Stem Wizz",
+        "url": "https://stemwizz.com/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Tonies Toniebox Carrier Case Green",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Selection of Tonies",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Tonies",
+        "url": "https://us.tonies.com/pages/bundle?gclid=Cj0KCQiA4aacBhCUARIsAI55maFy3_vUsg8SjueTNWFsh9GkWo_g2PTPNCZDlmjfyCUveQejyvCyP9gaApAAEALw_wcB"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Original Hand Puppets Yellow Duckling",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Toynamics",
+        "url": "https://toynamics.com/?lang=en"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Korko Block Set 60 Pieces Korko",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Toynamics",
+        "url": "https://toynamics.com/?lang=en"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Seven Swans A-Swimming Puzzle",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Wentworth Puzzles",
+        "url": "http://wentworthpuzzles.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Snow Puzzle Countryside Snow Animals & Nature Jigsaw Puzzles",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Wentworth Puzzles",
+        "url": "http://wentworthpuzzles.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Personalised Ryan Jigsaw Personalised Jigsaw Puzzles",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Wentworth Puzzles",
+        "url": "http://wentworthpuzzles.com"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Wire PR Spidey & His Amazing Friends Web",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Got 2 Glow Fairy Finder Glow in the Dark Jar",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Squishmallows",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "BanbaToymaster",
+        "url": "http://banbatoys.ie"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "5 Second Rule Electronic Board Game",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "Smyths Toys Ireland",
+        "url": "https://www.smythstoys.com/ie/en-ie"
+      }
+    ],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Chop, Cook Yum! Kid's Cookbook",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [
+      {
+        "name": "The Cool Food School",
+        "url": "https://www.thecoolfoodschool.ie/"
+      }
+    ],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little People, Big Dreams: David Attenborough - Maria Isabel Sánchez Vegara",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "A Wild Child's Book of Birds - Dara McAnulty",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Truth About Riley - Sinéad Moriarty",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Isadora Moon: Under the Sea - Harriet Muncaster",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Adam Wins the Internet - Adam B",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Lily Takes a Chance: A Lissadell Story - Judi Curtain",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Ministry of Unladylike Activity - Robin Stevens",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Happy to Help - Tom Gates",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Maya and Her Friends - Larysa Denysenko & Masha Foya",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bunny vs Monkey: Machine Mayhem - Jamie Smarts",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Marcus Rashford: You Can Do It - Marcus Rashford & Carl Anka",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "What Makes Us Human - Luke O'Neill",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Vetman and his Bionic Animal Clan - Noel Fitzpatrick",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cat Kid: Comic Club on Purpose - Dav Pilkey",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Spaceboy - David Walliams",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Monster Island - Freddie Alexander",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Fox & Son Tailers - Paddy Donnelly",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Our Big Day - Bob Johnston",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Official FIFA World Cup Qatar 2022 - Kid's Handbook",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Guinness World Records 2023",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Official Advent Calendar: Harry Potter",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Magic of the Ballet - Vivien French, ill. by Lauren O' Hara",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Diary of a Wimpy Kid: Diper Overlode - Jeff Kinney",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Day I Got Trapped in my Brain - Amy Huberman",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Light Thieves - Helena Duggan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Isadora Moon: Mirabelle and the Magical Mayhem - Harriet Muncaster",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Arctic Railway Assassin - M.G. Leonard & Sam Sedgeman",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "English / Ukrainian Bilingual Dictionary",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Lost Girl - Catherine Doyle",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Friendship Fairies Go To Sea",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dog Man: Mothering Heights - Dav Pilkey",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Sleep Scan - Niall Breslin",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "National Geographic Kids: Weird But True 2023",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Great Irish History Book - Myles Dungan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix - J.K. Rowling",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Cloud Babies - Eoin Colfer & Chris Judge",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "And Everything Will Be Glad to See You: Poems by Women & Girls - Ella Risberger",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "book",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Girls Who Slay Monsters - Ellen Ryan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Sir Adam the Brave and the Moody Monsters - David King & Rhiannin Archid",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Gruffalo and Friends Advent Calendar Book Collection - Julia Donaldson & Axel Scheffler",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Bedtime Stories: Incredible Irish Tales from the Past - Rachel Pierce",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Stories of the Revolution: Small Stories - Big History - Terri Kearney & Margaret Murphy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Declan Kirby GAA Star - Michael Egan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Players' Advice: Tips and Tactivs from GAA Stars",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Pocket Book of the GAA - Mark Reynolds, Nimah McCoy, Julianne McKeigue & Joanne Clarke",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "A Ukrainian Christmas",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mary Robinson: A Voice for Fairness - John & Fstti Burke",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Little People, Big Dreams: Frida Kahlo - Maria Isabel Sánchez Vegara",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Asparagus Bunch - Jessica Scott-Whyte",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Danny Seaimpín an Domhain - Roald Dahl",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Mo Chéad Rainn Ghaeilge - Tatyana Feeney & Risteard Mac Liam",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Peigín Leitir Móir - Tadhg Mac Dhonnagáin & Joh Ryan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Míp - Máire Zepf & Paddy Donnelly",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "An Garbhán Óg - Julia Donaldon & Axel Scheffler",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Amuigh Faoin Spéir - Sadhbh Devlin & Brian Fitzgerald",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "You Don't Know What War Is: The Diary of a Young Girl from Ukraine - Yeva Skalietska",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Silly Jokes for Funny Kids",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Friendship Fairies Go To Sea - Lucy Kennedy",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Be Inspired: Young Irish People Changing the World",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "The Last Bear - Hannah Gold",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "The Sackville Street Caper - Alan Nolan",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Gordon's Game: Lions Roar - Gordon D'Arcy & Paul Howard",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "50 Times Football Changed the World - Gary Linekar & Ivor Baddiel",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "outdoor",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "You Need to Chill - Juno Dawson",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "game",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Dad Jokes: The Punny Edition",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": false,
+    "is_product": true
+  },
+  {
+    "name": "Declan Kirby GAA Star",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Declan Kirby GAA Star: Away Days",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Declan Kirby GAA Star: European Dreams",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  },
+  {
+    "name": "Declan Kirby GAA Star: Over the Bar",
+    "price_eur": null,
+    "price_text": null,
+    "retailers": [],
+    "kind": "toy",
+    "irish": true,
+    "is_product": true
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "2022-dc-league-of-superpets-talking-krypto-super-pets",
+  "year": 2022,
+  "name": "DC League of SuperPets - Talking Krypto Super-Pets",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [
+    {
+      "name": "Arnotts",
+      "url": "http://arnotts.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 403,
+      "final_url": "http://arnotts.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "sKkeXR97SgQ",
+      "channel": "Movieclips",
+      "duration": 126.0,
+      "title": "DC League of Super-Pets (2022) - The Justice League's Super-Pets Scene | Movieclips"
+    },
+    {
+      "id": "eftvfjCrC4s",
+      "channel": "Warner Bros. India",
+      "duration": 78.0,
+      "title": "DC League of Super-Pets | End Credit Scene"
+    },
+    {
+      "id": "-xrp1Hy2qOM",
+      "channel": "HeroHub",
+      "duration": 92.0,
+      "title": "DC League of Super-Pets: Dog El  \"The Father Of Krypto\" Scenes."
+    },
+    {
+      "id": "oQ4LdF92jGk",
+      "channel": "JoBlo Animation 4K",
+      "duration": 227.0,
+      "title": "DC LEAGUE OF SUPER-PETS Clip - \"Black Adam And Anubis\" (2022)"
+    },
+    {
+      "id": "1jkw2JPCl18",
+      "channel": "Warner Bros.",
+      "duration": 164.0,
+      "title": "DC LEAGUE OF SUPER-PETS – Official Trailer"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2022-the-friendship-fairies-go-to-sea-lucy-kennedy",
+  "year": 2022,
+  "name": "The Friendship Fairies Go To Sea - Lucy Kennedy",
+  "price_eur": null,
+  "price_text": null,
+  "retailers": [],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [],
+  "video_candidates": [
+    {
+      "id": "rdTWhk7evWQ",
+      "channel": "Google Play Books",
+      "duration": 798.0,
+      "title": "The Friendship Fairies Volume 2 Book 2 by Lucy Kennedy · Audiobook preview"
+    },
+    {
+      "id": "z8SKf93klqc",
+      "channel": "FAITH&GRACE",
+      "duration": 241.0,
+      "title": "The Lily of the Valley 🌸 | Classic Gospel Hymn with Lyrics | Powerful Christian Worship Song"
+    },
+    {
+      "id": "RN0WJaLA11M",
+      "channel": "Cartooniacs",
+      "duration": 480.0,
+      "title": "7 More Hidden PEPPA & BEN AND HOLLY Crossovers - Explained"
+    }
+  ]
+}

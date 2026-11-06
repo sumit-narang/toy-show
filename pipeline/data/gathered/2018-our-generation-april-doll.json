@@ -1,0 +1,69 @@
+{
+  "id": "2018-our-generation-april-doll",
+  "year": 2018,
+  "name": "Our Generation April Doll",
+  "price_eur": 34.99,
+  "price_text": "€34.99",
+  "retailers": [
+    {
+      "name": "Smyths Toys",
+      "url": "https://www.smythstoys.com/ie/en-ie/"
+    },
+    {
+      "name": "Ken Black",
+      "url": "http://kenblack.ie/"
+    },
+    {
+      "name": "toys.ie",
+      "url": "http://www.toys.ie"
+    }
+  ],
+  "kind": "toy",
+  "irish": false,
+  "is_product": true,
+  "pages": [
+    {
+      "status": 200,
+      "final_url": "https://www.smythstoys.com/ie/en-ie/",
+      "title": "Pardon Our Interruption",
+      "description": null,
+      "image": null
+    },
+    {
+      "status": 429,
+      "final_url": "https://kenblack.ie/"
+    }
+  ],
+  "video_candidates": [
+    {
+      "id": "_dkF_oe5MfE",
+      "channel": "Kiwi Kollector",
+      "duration": 1044.0,
+      "title": "Our Generation Doll April and Our Generation Cinema Accessory Pack Doll Opening and Doll Review"
+    },
+    {
+      "id": "R096IZh7CkM",
+      "channel": "Sunny and Lola",
+      "duration": 820.0,
+      "title": "Our Generation Girl Dolls April and Clementine"
+    },
+    {
+      "id": "r4I8FkBDWAU",
+      "channel": "NC Media",
+      "duration": 174.0,
+      "title": "Our Generation Doll April is Here! 🎀 Unboxing & First Look!💝🎁"
+    },
+    {
+      "id": "LZLMT6LyJPc",
+      "channel": "sew4dolls",
+      "duration": 696.0,
+      "title": "American Girl and Our Generation Haul April 2022"
+    },
+    {
+      "id": "hqq5sRDzIDg",
+      "channel": "sew4dolls",
+      "duration": 301.0,
+      "title": "Our Generation Retro Doll Kaye"
+    }
+  ]
+}
