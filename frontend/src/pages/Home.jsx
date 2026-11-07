@@ -19,20 +19,19 @@ const SORTS = {
 function Hero() {
   const days = daysUntil(NEXT_SHOW)
   return (
-    <header className="hero-pattern bg-berry text-white">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-10 pb-12 sm:pt-14 sm:pb-16">
-        <h1 className="font-display text-4xl sm:text-6xl font-extrabold leading-[1.02] max-w-3xl">
-          Every toy from the Late Late Toy Show
-        </h1>
-        <p className="mt-4 text-white/85 max-w-2xl text-base sm:text-lg">
-          {toys.length.toLocaleString()} toys, games and books from {YEARS.length} shows ({YEARS.at(-1)}–{YEARS[0]}), with prices, where they were sold, and clips where we have them.
+    <header className="relative bg-ink">
+      <h1 className="sr-only">Every toy from the Late Late Toy Show</h1>
+      <img
+        src={`${import.meta.env.BASE_URL}banner.webp`}
+        alt=""
+        fetchPriority="high"
+        className="block w-full aspect-[1800/1241] sm:aspect-[16/7] max-h-[70vh] object-cover object-[50%_45%]"
+      />
+      {days > 0 && days < 60 && (
+        <p className="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 whitespace-nowrap inline-flex items-center gap-2 rounded-full bg-black/55 backdrop-blur-sm ring-1 ring-white/25 text-white px-4 py-2 text-xs sm:text-sm font-semibold">
+          🎄 {days} {days === 1 ? 'day' : 'days'} until the {NEXT_SHOW.getFullYear()} Toy Show
         </p>
-        {days > 0 && days < 60 && (
-          <p className="mt-6 inline-flex items-center gap-2 rounded-full bg-white/15 ring-1 ring-white/25 px-4 py-2 text-sm font-semibold">
-            🎄 {days} {days === 1 ? 'day' : 'days'} until the {NEXT_SHOW.getFullYear()} Toy Show
-          </p>
-        )}
-      </div>
+      )}
     </header>
   )
 }
@@ -159,7 +158,7 @@ export default function Home() {
             <p>No toys match that. Try clearing a filter.</p>
           </div>
         ) : (
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-3 gap-y-6 sm:gap-x-4">
             {filtered.slice(0, limit).map((t, i) => <ToyCard key={t.id} toy={t} index={i % PAGE} />)}
           </div>
         )}
