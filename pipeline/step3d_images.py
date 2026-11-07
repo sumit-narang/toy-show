@@ -8,7 +8,8 @@ Output: ../frontend/public/toys/{toy_id}.webp, data/image_sources/{toy_id}.json
 data/image_queries.json holds better searches for toys whose photo was wrong when
 checked by eye. A redo adds the old image to that toy's rejected list.
 
-Usage:  python step3d_images.py [--limit N] [--redo id ...] [--redo-queries]
+Usage:  python step3d_images.py [--limit N] [--redo id ...] [--redo-queries] [--trim-existing]
+White margins are trimmed so the product fills its tile.
 """
 import html
 import io
@@ -22,7 +23,7 @@ from pathlib import Path
 from urllib.parse import quote_plus, urlparse
 
 import requests
-from PIL import Image, ImageStat
+from PIL import Image, ImageChops, ImageStat
 
 from step3_gather import ROOT, UA, toy_id
 from step5_build import load, pick_image
@@ -67,6 +68,18 @@ def search(query: str, session: requests.Session) -> list[dict]:
     return []
 
 
+def trim_white(img: Image.Image) -> Image.Image:
+    """Crop away plain white (or near-white) margins so the product fills its tile."""
+    # Pixels more than 24 levels from white in any channel count as content
+    mask = ImageChops.difference(img, Image.new("RGB", img.size, "white")).convert("L").point(lambda v: 255 if v > 24 else 0)
+    box = mask.getbbox()
+    if not box:
+        return img
+    pad = round(max(box[2] - box[0], box[3] - box[1]) * 0.03)  # keep a thin breathing margin
+    box = (max(box[0] - pad, 0), max(box[1] - pad, 0), min(box[2] + pad, img.width), min(box[3] + pad, img.height))
+    return img.crop(box) if box != (0, 0, img.width, img.height) else img
+
+
 def save_image(url: str, path: Path, session: requests.Session) -> bool:
     if not url or not url.startswith("http"):
         return False
@@ -92,6 +105,7 @@ def save_image(url: str, path: Path, session: requests.Session) -> bool:
         img = img.convert("RGB")
     if max(ImageStat.Stat(img.convert("L")).stddev) < 8:  # blank or single-colour
         return False
+    img = trim_white(img)
     img.thumbnail((MAX_SIDE, MAX_SIDE))
     img.save(path, "WEBP", quality=78, method=4)
     return True
@@ -129,8 +143,22 @@ def fetch(job: tuple[str, dict, str | None], session: requests.Session) -> str:
     return "none"
 
 
+def trim_existing():
+    """Trim white margins from photos saved before trimming was added."""
+    changed = 0
+    for path in sorted(IMAGES.glob("*.webp")):
+        img = Image.open(path).convert("RGB")
+        trimmed = trim_white(img)
+        if trimmed.size != img.size:
+            trimmed.save(path, "WEBP", quality=82, method=4)
+            changed += 1
+    print(f"trimmed {changed} of {len(list(IMAGES.glob('*.webp')))} photos")
+
+
 def main():
     args = sys.argv[1:]
+    if "--trim-existing" in args:
+        return trim_existing()
     limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
     redo = set(args[args.index("--redo") + 1:]) if "--redo" in args else set()
     if "--redo-queries" in args:

@@ -9,17 +9,18 @@ export default function ToyCard({ toy, index }) {
     <Link
       to={`/toy/${toy.id}`}
       title={toy.name}
-      className="animate-card group flex flex-col gap-2 rounded-2xl focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-berry"
+      className="animate-card group flex flex-col gap-2 rounded-[20px] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-berry"
       style={{ animationDelay: `${Math.min(index, 20) * 20}ms` }}
     >
-      <div className="relative rounded-2xl overflow-hidden ring-1 ring-black/5">
-        <ToyImage toy={toy} className="aspect-square w-full transition-transform duration-300 group-hover:scale-[1.03]" />
-        <span className="absolute top-2 left-2 rounded-full bg-ink/85 text-white text-[11px] font-semibold px-2 py-0.5">
-          {toy.year}
-        </span>
-        {(toy.productVideo || toy.showClips.length > 0) && (
-          <span title="Has video" className="absolute top-2 right-2 rounded-full bg-berry text-white text-[11px] font-semibold px-1.5 py-0.5">▶</span>
-        )}
+      <div className="relative rounded-[20px] overflow-hidden bg-white shadow-[0_2px_8px_#0000000f]">
+        <ToyImage
+          toy={toy}
+          framed
+          className="aspect-square w-full"
+          frameClassName="p-[10%]"
+          imgClassName="rounded-[6px] transition group-hover:scale-105"
+        />
+        <div aria-hidden className="pointer-events-none absolute inset-0 rounded-[inherit] border-[0.5px] border-[rgba(5,41,77,0.1)]" />
       </div>
       <div className="flex flex-col px-1">
         <p className="text-xs text-black/55 truncate">{toy.category}</p>
