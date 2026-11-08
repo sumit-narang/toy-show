@@ -14,7 +14,9 @@
 @layer base {
   html { background: var(--color-paper); color: var(--color-ink); }
   /* text-underline-offset is inherited, so this sets the gap for every underline on the site */
-  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; text-underline-offset: 3px; }
+  /* letter-spacing and text-underline-offset are inherited, so these apply to all text on the site
+     (Tailwind's reset makes buttons, inputs and selects inherit them too) */
+  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; text-underline-offset: 3px; letter-spacing: -0.3px; }
   /* Tailwind 4 resets buttons to the default arrow; show the hand on everything clickable (the search box keeps its text cursor) */
   a[href], button:not(:disabled), select, summary, label[for], [role="button"] { cursor: pointer; }
 }

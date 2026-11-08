@@ -1,21 +1,12 @@
 import { useEffect, useState } from 'react'
-import ToyImage from './ToyImage.jsx'
 import ToyCard from './ToyCard.jsx'
-import { formatPrice, host, ytEmbed, ytThumb, ytWatch } from '../lib.js'
+import { categoryEmoji, formatPrice, host, ytEmbed, ytThumb } from '../lib.js'
 
-// "Keepie-uppies with Aoife and Tara | The Late Late Toy Show 2025" -> "Keepie-uppies with Aoife and Tara"
-const cleanTitle = t => t.replace(/\s*[|·–—-]\s*(the\s+)?late late (toy )?show.*$/i, '').trim() || t
-
-// Same card surface as the toy cards: video on top, caption inside
-function Video({ video, label }) {
+// Just the video, no caption: the thumbnail plays the clip in place when clicked
+function Video({ video }) {
   const [playing, setPlaying] = useState(false)
   return (
-    // Clicking anywhere on the card plays the clip in place; the play button keeps it keyboard-accessible
-    <figure
-      onClick={() => setPlaying(true)}
-      className={`card-surface flex flex-col ${playing ? '' : 'card-hover group cursor-pointer'}`}
-    >
-      <div className="relative aspect-video bg-black">
+    <div className="relative aspect-video bg-black rounded-[12px] overflow-hidden">
         {playing ? (
           <iframe
             src={`${ytEmbed(video.id)}&autoplay=1`}
@@ -32,17 +23,61 @@ function Video({ video, label }) {
             </span>
           </button>
         )}
-      </div>
-      <figcaption className="flex items-start justify-between gap-4 px-4 py-3">
-        <div className="flex flex-col min-w-0">
-          <span className="text-xs text-black/55">{label}</span>
-          <span className="text-sm font-semibold leading-snug line-clamp-2 group-hover:text-berry transition-colors">{cleanTitle(video.title)}</span>
+    </div>
+  )
+}
+
+const Arrow = () => <span aria-hidden className="inline-block transition-transform group-hover:translate-x-[2px]">↗</span>
+
+// "Where it was sold": rounded pills that wrap. Shops without a link show the name only, with no arrow.
+function ShopList({ shops }) {
+  return (
+    <ul className="flex flex-wrap gap-2">
+      {shops.map(r => {
+        const className = 'group inline-flex items-center gap-1.5 rounded-full bg-white ring-1 ring-black/10 px-3.5 py-1.5 text-sm font-medium'
+        return (
+          <li key={r.name + r.url}>
+            {r.url ? (
+              <a href={r.url} target="_blank" rel="noreferrer nofollow" className={`${className} hover:ring-berry/50 transition`}>
+                <span className="group-hover:text-berry transition-colors">{r.name}</span>
+                <span className="text-black/45 group-hover:text-berry transition-colors"><Arrow /></span>
+              </a>
+            ) : (
+              <span className={className}>{r.name}</span>
+            )}
+          </li>
+        )
+      })}
+    </ul>
+  )
+}
+
+// Photo header: a blurred, enlarged copy of the photo fills the background and the real photo sits sharp on top
+function Hero({ toy }) {
+  const sources = [toy.image && `${import.meta.env.BASE_URL}${toy.image}`, toy.productVideo && ytThumb(toy.productVideo.id)].filter(Boolean)
+  const [idx, setIdx] = useState(0)
+  const src = sources[idx]
+  return (
+    <div className="relative aspect-[4/3] w-full overflow-hidden bg-ink">
+      {src ? (
+        <>
+          <img src={src} alt="" aria-hidden className="absolute inset-0 w-full h-full object-cover scale-125 blur-2xl opacity-80" />
+          <div className="absolute inset-0 flex items-center justify-center p-10">
+            <img
+              src={src}
+              alt={toy.name}
+              referrerPolicy="no-referrer"
+              onError={() => setIdx(i => i + 1)}
+              className="max-w-full max-h-full object-contain rounded-[6px] shadow-[0_8px_30px_rgba(0,0,0,0.25)]"
+            />
+          </div>
+        </>
+      ) : (
+        <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-amber-50 to-rose-100">
+          <span className="text-7xl" aria-hidden>{categoryEmoji(toy.category)}</span>
         </div>
-        <a href={ytWatch(video.id)} target="_blank" rel="noreferrer" onClick={e => e.stopPropagation()} className="shrink-0 text-xs text-black/55 hover:text-berry">
-          YouTube <span aria-hidden className="inline-block transition-transform group-hover:translate-x-[2px]">↗</span>
-        </a>
-      </figcaption>
-    </figure>
+      )}
+    </div>
   )
 }
 
@@ -58,6 +93,10 @@ export default function ToyDrawer({ toy, related, onClose }) {
   }, [onClose])
 
   const price = formatPrice(toy)
+  // Based on shop.com's product page: 18px section headings, each section closed by a 1px hairline,
+  // with 20px of space either side of every hairline
+  const headingClass = 'pt-5 pb-4 text-base leading-5 font-semibold'
+  const sectionClass = 'pb-5 border-b border-[rgba(24,59,78,0.06)] last:border-b-0'
 
   return (
     <div className="fixed inset-0 z-50">
@@ -72,23 +111,21 @@ export default function ToyDrawer({ toy, related, onClose }) {
           <button onClick={onClose} className="mt-3 mr-3 w-9 h-9 shrink-0 rounded-full bg-white/90 ring-1 ring-black/10 hover:bg-white text-lg" aria-label="Close">✕</button>
         </div>
 
-        <ToyImage toy={toy} className="aspect-[4/3] w-full" />
+        {/* Type scale: title 24 > section headings and price 16 > body 14 > labels 12; -0.3px letter spacing everywhere */}
+        <Hero toy={toy} />
 
-        {/* Type scale: title 24 > price 18 > section headings 15 > body 14 > labels 12 */}
-        <div className="px-5 sm:px-7 pt-6 pb-10 flex flex-col gap-8">
+        <div className="px-5 sm:px-7 pt-6 pb-10 flex flex-col">
 
-          <header className="flex flex-col">
+          <header className={`flex flex-col ${sectionClass}`}>
             <p className="text-xs text-black/55">
               {[`Toy Show ${toy.year}`, toy.category, toy.irish && 'Irish', toy.ageRange && `Ages ${toy.ageRange}`, toy.brand].filter(Boolean).join(' · ')}
             </p>
-            <h2 className="mt-1 text-2xl font-semibold leading-tight tracking-tight">{toy.name}</h2>
-            {price && (
-              <p className="mt-1 text-lg font-semibold text-ink">{price}</p>
-            )}
+            <h2 className="mt-1 text-2xl leading-7 font-semibold">{toy.name}</h2>
+            {price && <p className="mt-1 text-base font-semibold text-ink">{price}</p>}
           </header>
 
           {(toy.description || toy.highlights.length > 0) && (
-            <section className="flex flex-col gap-3">
+            <section className={`flex flex-col gap-3 pt-5 ${sectionClass}`}>
               {toy.description && <p className="text-[15px] leading-relaxed text-black/80">{toy.description}</p>}
               {toy.highlights.length > 0 && (
                 <ul className="flex flex-wrap gap-2">
@@ -101,47 +138,32 @@ export default function ToyDrawer({ toy, related, onClose }) {
           )}
 
           {(toy.showClips.length > 0 || toy.productVideo) && (
-            <section className="flex flex-col gap-2">
-              <h3 className="text-[15px] font-semibold">Clips</h3>
+            <section className={sectionClass}>
+              <h3 className={headingClass}>Clips</h3>
               <div className="flex flex-col gap-3">
-                {toy.showClips.map(c => <Video key={c.id} video={c} label="From the Toy Show" />)}
-                {toy.productVideo && <Video video={toy.productVideo} label="See it in action" />}
+                {toy.showClips.map(c => <Video key={c.id} video={c} />)}
+                {toy.productVideo && <Video video={toy.productVideo} />}
               </div>
             </section>
           )}
 
           {toy.retailers.length > 0 && (
-            <section className="flex flex-col gap-2">
-              <h3 className="text-[15px] font-semibold">Where it was sold in {toy.year}</h3>
-              <ul className="flex flex-col gap-2">
-                {toy.retailers.map(r => (
-                  <li key={r.name + r.url}>
-                    {r.url ? (
-                      <a href={r.url} target="_blank" rel="noreferrer nofollow" className="card-surface group flex items-center justify-between px-4 py-3">
-                        <span className="font-medium text-sm group-hover:text-berry transition-colors">{r.name}</span>
-                        <span className="text-xs text-black/45">
-                          {host(r.url)} <span aria-hidden className="inline-block transition-transform group-hover:translate-x-[2px]">↗</span>
-                        </span>
-                      </a>
-                    ) : (
-                      <span className="card-surface block px-4 py-3 text-sm font-medium">{r.name}</span>
-                    )}
-                  </li>
-                ))}
-              </ul>
+            <section className={sectionClass}>
+              <h3 className={headingClass}>Where it was sold in {toy.year}</h3>
+              <ShopList shops={toy.retailers} />
             </section>
           )}
 
           {related.length > 0 && (
-            <section className="flex flex-col gap-3">
-              <h3 className="text-[15px] font-semibold">Also on the {toy.year} show</h3>
+            <section className={sectionClass}>
+              <h3 className={headingClass}>Also on the {toy.year} show</h3>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                 {related.map((r, i) => <ToyCard key={r.id} toy={r} index={i} />)}
               </div>
             </section>
           )}
 
-          <footer className="text-xs text-black/45 border-t border-black/10 pt-4">
+          <footer className="pt-5 text-xs text-black/45">
             Source:{' '}
             <a href={toy.source} target="_blank" rel="noreferrer" className="underline hover:text-berry">
               RTÉ — The Late Late Toy Show {toy.year}
