@@ -65,6 +65,25 @@ a.card-surface:hover::after, .card-surface.card-hover:hover::after {
   border-color: rgba(5, 41, 77, 0.25);
 }
 
+/* Tiny snowflakes drifting down inside the countdown pill */
+.snowflake {
+  position: absolute;
+  top: -4px;
+  border-radius: 9999px;
+  background: #fff;
+  animation-name: snowfall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes snowfall {
+  from { transform: translate(0, 0); }
+  50%  { transform: translate(var(--drift), 22px); }
+  to   { transform: translate(0, 48px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .snowflake { animation: none; top: auto; bottom: 30%; }
+}
+
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { scrollbar-width: none; }
 

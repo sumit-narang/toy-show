@@ -16,8 +16,43 @@ const SORTS = {
   priceLow: (a, b) => (a.priceEur ?? Infinity) - (b.priceEur ?? Infinity),
 }
 
+// Fixed (not random per render) so the flakes don't jump around when the page re-renders.
+// Negative delays start each flake part-way through its fall, so the pill is snowy from the first frame.
+const SNOW = [
+  { x: 4, size: 2, opacity: 0.7, dur: 3.2, delay: -0.4, drift: 4 },
+  { x: 11, size: 3, opacity: 0.9, dur: 4.1, delay: -2.1, drift: -3 },
+  { x: 19, size: 2, opacity: 0.6, dur: 3.6, delay: -1.2, drift: 5 },
+  { x: 27, size: 2, opacity: 0.8, dur: 4.6, delay: -3.3, drift: -4 },
+  { x: 35, size: 3, opacity: 0.7, dur: 3.9, delay: -0.9, drift: 3 },
+  { x: 43, size: 2, opacity: 0.9, dur: 3.3, delay: -2.6, drift: -5 },
+  { x: 51, size: 2, opacity: 0.6, dur: 4.4, delay: -1.7, drift: 4 },
+  { x: 59, size: 3, opacity: 0.8, dur: 3.7, delay: -3.8, drift: -3 },
+  { x: 67, size: 2, opacity: 0.7, dur: 4.2, delay: -0.2, drift: 5 },
+  { x: 75, size: 2, opacity: 0.9, dur: 3.4, delay: -2.9, drift: -4 },
+  { x: 83, size: 3, opacity: 0.6, dur: 4.8, delay: -1.5, drift: 3 },
+  { x: 91, size: 2, opacity: 0.8, dur: 3.8, delay: -3.1, drift: -5 },
+  { x: 97, size: 2, opacity: 0.7, dur: 4.3, delay: -0.7, drift: 4 },
+]
+
+function Snow() {
+  return (
+    <span aria-hidden className="pointer-events-none absolute inset-0">
+      {SNOW.map((f, i) => (
+        <span
+          key={i}
+          className="snowflake"
+          style={{ left: `${f.x}%`, width: f.size, height: f.size, opacity: f.opacity, animationDuration: `${f.dur}s`, animationDelay: `${f.delay}s`, '--drift': `${f.drift}px` }}
+        />
+      ))}
+    </span>
+  )
+}
+
 function Hero() {
   const days = daysUntil(NEXT_SHOW)
+  const showCountdown = days >= 0 && days < 60
+  const year = NEXT_SHOW.getUTCFullYear()
+  const countdown = days === 0 ? `The ${year} Toy Show is on tonight` : `${days} ${days === 1 ? 'day' : 'days'} until the ${year} Toy Show`
   return (
     <header className="relative bg-ink">
       <h1 className="sr-only">Every toy from the Late Late Toy Show</h1>
@@ -25,12 +60,17 @@ function Hero() {
         src={`${import.meta.env.BASE_URL}banner.webp`}
         alt=""
         fetchPriority="high"
-        className="block w-full aspect-[1800/1241] sm:aspect-[16/7] max-h-[70vh] object-cover object-[50%_45%]"
+        className="block w-full aspect-[1800/1241] sm:aspect-[16/7] max-h-[70vh] object-cover object-[50%_20%]"
       />
-      {days > 0 && days < 60 && (
-        <p className="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 whitespace-nowrap inline-flex items-center gap-2 rounded-full bg-black/55 backdrop-blur-sm ring-1 ring-white/25 text-white px-4 py-2 text-xs sm:text-sm font-semibold">
-          🎄 {days} {days === 1 ? 'day' : 'days'} until the {NEXT_SHOW.getFullYear()} Toy Show
-        </p>
+      {showCountdown && (
+        <>
+          {/* a soft dark gradient over the bottom of the photo so the pill doesn't get lost in it */}
+          <div aria-hidden className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/60 to-transparent" />
+          <p className="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 whitespace-nowrap inline-flex items-center gap-2 overflow-hidden rounded-full bg-black/55 backdrop-blur-sm ring-1 ring-white/25 text-white px-4 py-2 text-xs sm:text-sm font-semibold">
+            <Snow />
+            <span className="relative">🎄 {countdown}</span>
+          </p>
+        </>
       )}
     </header>
   )
