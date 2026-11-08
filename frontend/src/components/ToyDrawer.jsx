@@ -1,13 +1,17 @@
 import { useEffect, useState } from 'react'
 import ToyImage from './ToyImage.jsx'
 import ToyCard from './ToyCard.jsx'
-import { formatPrice, host, ytEmbed, ytSearch, ytThumb, ytWatch } from '../lib.js'
+import { formatPrice, host, ytEmbed, ytThumb, ytWatch } from '../lib.js'
 
+// "Keepie-uppies with Aoife and Tara | The Late Late Toy Show 2025" -> "Keepie-uppies with Aoife and Tara"
+const cleanTitle = t => t.replace(/\s*[|·–—-]\s*(the\s+)?late late (toy )?show.*$/i, '').trim() || t
+
+// Same card surface as the toy cards: video on top, caption inside
 function Video({ video, label }) {
   const [playing, setPlaying] = useState(false)
   return (
-    <figure className="flex flex-col gap-1.5">
-      <div className="relative aspect-video rounded-xl overflow-hidden bg-black">
+    <figure className="card-surface flex flex-col">
+      <div className="relative aspect-video bg-black">
         {playing ? (
           <iframe
             src={`${ytEmbed(video.id)}&autoplay=1`}
@@ -25,12 +29,12 @@ function Video({ video, label }) {
           </button>
         )}
       </div>
-      <figcaption className="text-xs text-black/55 flex items-start justify-between gap-2">
-        <span>
-          <span className="font-semibold text-ink">{label}</span> · {video.title}
-          {video.channel && <span> — {video.channel}</span>}
-        </span>
-        <a href={ytWatch(video.id)} target="_blank" rel="noreferrer" className="shrink-0 underline hover:text-berry">YouTube ↗</a>
+      <figcaption className="flex items-start justify-between gap-4 px-4 py-3">
+        <div className="flex flex-col min-w-0">
+          <span className="text-xs text-black/55">{label}</span>
+          <span className="text-sm font-semibold leading-snug line-clamp-2">{cleanTitle(video.title)}</span>
+        </div>
+        <a href={ytWatch(video.id)} target="_blank" rel="noreferrer" className="shrink-0 text-xs text-black/55 hover:text-berry">YouTube ↗</a>
       </figcaption>
     </figure>
   )
@@ -64,21 +68,16 @@ export default function ToyDrawer({ toy, related, onClose }) {
 
         <ToyImage toy={toy} className="aspect-[4/3] w-full" />
 
-        <div className="px-5 sm:px-7 pt-6 pb-10 flex flex-col gap-6">
+        {/* Type scale: title 24 > price 18 > section headings 15 > body 14 > labels 12 */}
+        <div className="px-5 sm:px-7 pt-6 pb-10 flex flex-col gap-8">
 
-          <header className="flex flex-col gap-2">
-            <div className="flex flex-wrap gap-1.5 text-xs font-semibold">
-              <span className="rounded-full bg-ink text-white px-2.5 py-1">Toy Show {toy.year}</span>
-              <span className="rounded-full bg-white ring-1 ring-black/10 px-2.5 py-1">{toy.category}</span>
-              {toy.irish && <span className="rounded-full bg-pine text-white px-2.5 py-1">☘ Irish</span>}
-              {toy.ageRange && <span className="rounded-full bg-white ring-1 ring-black/10 px-2.5 py-1">Ages {toy.ageRange}</span>}
-            </div>
-            {toy.brand && <p className="text-xs uppercase tracking-wider font-semibold text-black/45 mt-1">{toy.brand}</p>}
-            <h2 className="font-display text-3xl font-extrabold leading-tight">{toy.name}</h2>
+          <header className="flex flex-col">
+            <p className="text-xs text-black/55">
+              {[`Toy Show ${toy.year}`, toy.category, toy.irish && 'Irish', toy.ageRange && `Ages ${toy.ageRange}`, toy.brand].filter(Boolean).join(' · ')}
+            </p>
+            <h2 className="mt-1 text-2xl font-semibold leading-tight tracking-tight">{toy.name}</h2>
             {price && (
-              <p className="text-sm text-black/60">
-                <span className="text-lg font-bold text-ink">{price}</span> at the time of the {toy.year} show
-              </p>
+              <p className="mt-1 text-lg font-semibold text-ink">{price}</p>
             )}
           </header>
 
@@ -96,25 +95,19 @@ export default function ToyDrawer({ toy, related, onClose }) {
           )}
 
           {(toy.showClips.length > 0 || toy.productVideo) && (
-            <section className="flex flex-col gap-4">
-              <h3 className="font-display text-lg font-bold">Clips</h3>
-              {toy.showClips.map(c => <Video key={c.id} video={c} label="From the Toy Show segment" />)}
-              {toy.productVideo && <Video video={toy.productVideo} label="See it in action" />}
-              <a
-                href={ytSearch(`${toy.name} Late Late Toy Show ${toy.year}`)}
-                target="_blank"
-                rel="noreferrer"
-                className="text-sm font-semibold text-berry hover:underline self-start"
-              >
-                Search YouTube for more clips ↗
-              </a>
+            <section className="flex flex-col gap-2">
+              <h3 className="text-[15px] font-semibold">Clips</h3>
+              <div className="flex flex-col gap-3">
+                {toy.showClips.map(c => <Video key={c.id} video={c} label="From the Toy Show" />)}
+                {toy.productVideo && <Video video={toy.productVideo} label="See it in action" />}
+              </div>
             </section>
           )}
 
           {toy.retailers.length > 0 && (
             <section className="flex flex-col gap-2">
               <div className="flex flex-col gap-0.5">
-                <h3 className="font-display text-lg font-bold">Where it was sold in {toy.year}</h3>
+                <h3 className="text-[15px] font-semibold">Where it was sold in {toy.year}</h3>
                 <p className="text-xs text-black/45">Links are from RTÉ's original list. Older ones may no longer work.</p>
               </div>
               <ul className="flex flex-col gap-2">
@@ -136,7 +129,7 @@ export default function ToyDrawer({ toy, related, onClose }) {
 
           {related.length > 0 && (
             <section className="flex flex-col gap-3">
-              <h3 className="font-display text-lg font-bold">Also on the {toy.year} show</h3>
+              <h3 className="text-[15px] font-semibold">Also on the {toy.year} show</h3>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                 {related.map((r, i) => <ToyCard key={r.id} toy={r} index={i} />)}
               </div>
@@ -146,10 +139,9 @@ export default function ToyDrawer({ toy, related, onClose }) {
           <footer className="text-xs text-black/45 border-t border-black/10 pt-4">
             Source:{' '}
             <a href={toy.source} target="_blank" rel="noreferrer" className="underline hover:text-berry">
-              RTÉ — Every toy from The Late Late Toy Show {toy.year}
+              RTÉ — The Late Late Toy Show {toy.year}
             </a>
-            .{toy.imageMatched && <> The photo was found by searching for the toy's name, so it may show a different version.</>}
-            {toy.description && <> The description was written with AI from retailer info{toy.confidence === 'low' ? ' and is a best guess' : ''}.</>}
+            {toy.description && <>. The description was written with AI from retailer info{toy.confidence === 'low' ? ' and is a best guess' : ''}.</>}
           </footer>
         </div>
       </aside>

@@ -13,7 +13,8 @@
 
 @layer base {
   html { background: var(--color-paper); color: var(--color-ink); }
-  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+  /* text-underline-offset is inherited, so this sets the gap for every underline on the site */
+  body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; text-underline-offset: 3px; }
 }
 
 @keyframes drawerIn {

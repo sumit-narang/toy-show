@@ -123,19 +123,25 @@ export default function Home() {
               placeholder="Search toys, brands, shops…"
               className="flex-1 min-w-0 rounded-full bg-white ring-1 ring-black/10 focus:ring-2 focus:ring-berry outline-none px-4 py-2 text-sm"
             />
-            <select
-              value={sort}
-              onChange={e => setParam('sort', e.target.value === 'year' ? null : e.target.value)}
-              className="rounded-full bg-white ring-1 ring-black/10 px-3 py-2 text-sm font-medium"
-              aria-label="Sort"
-            >
-              <option value="year">Newest</option>
-              <option value="name">A–Z</option>
-              <option value="priceHigh">Price ↓</option>
-              <option value="priceLow">Price ↑</option>
-            </select>
+            <div className="relative shrink-0">
+              <select
+                value={sort}
+                onChange={e => setParam('sort', e.target.value === 'year' ? null : e.target.value)}
+                className="appearance-none cursor-pointer rounded-full bg-white ring-1 ring-black/10 hover:ring-black/25 focus:ring-2 focus:ring-berry outline-none pl-4 pr-9 py-2 text-sm font-medium"
+                aria-label="Sort"
+              >
+                <option value="year">Newest</option>
+                <option value="name">A–Z</option>
+                <option value="priceHigh">Price high</option>
+                <option value="priceLow">Price low</option>
+              </select>
+              <svg aria-hidden viewBox="0 0 16 16" className="pointer-events-none absolute right-3.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-black/55">
+                <path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </div>
           </div>
-          <div className="flex gap-2 overflow-x-auto no-scrollbar -mx-4 px-4 sm:mx-0 sm:px-0">
+          {/* the extra 4px of padding (cancelled by negative margin) keeps the pills' outlines inside the scroll area */}
+          <div className="flex gap-2 overflow-x-auto no-scrollbar -mx-4 px-4 sm:-mx-1 sm:px-1 -my-1 py-1">
             <Chip active={!year} onClick={() => setParam('year', null)}>All years</Chip>
             {YEARS.map(y => (
               <Chip key={y} active={year === y} onClick={() => setParam('year', year === y ? null : String(y))}>{y}</Chip>
