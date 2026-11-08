@@ -34,7 +34,13 @@ export default function ToyImage({ toy, className = '', imgClassName = '', padde
         <div className={`w-full h-full flex items-center justify-center ${frameClassName}`}>
           <img
             {...common}
-            onLoad={e => setWide(e.currentTarget.naturalWidth >= e.currentTarget.naturalHeight)}
+            onLoad={e => {
+              // Compare the photo's shape with the frame's inner box (its padding may not be even)
+              const img = e.currentTarget, frame = img.parentElement, s = getComputedStyle(frame)
+              const fw = frame.clientWidth - parseFloat(s.paddingLeft) - parseFloat(s.paddingRight)
+              const fh = frame.clientHeight - parseFloat(s.paddingTop) - parseFloat(s.paddingBottom)
+              setWide(img.naturalWidth / img.naturalHeight >= fw / fh)
+            }}
             className={`block ${size} ${imgClassName}`}
           />
         </div>
