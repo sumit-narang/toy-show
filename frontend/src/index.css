@@ -5,8 +5,8 @@
   --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
   --color-paper: #fcfcfc;
   --color-ink: #1f1a17;
-  --color-berry: #c8102e;
-  --color-berry-dark: #9c0c24;
+  --color-berry: #de2616;
+  --color-berry-dark: #b51d10;
   --color-pine: #14532d;
   --color-gold: #e9b949;
 }
@@ -15,6 +15,8 @@
   html { background: var(--color-paper); color: var(--color-ink); }
   /* text-underline-offset is inherited, so this sets the gap for every underline on the site */
   body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; text-underline-offset: 3px; }
+  /* Tailwind 4 resets buttons to the default arrow; show the hand on everything clickable (the search box keeps its text cursor) */
+  a[href], button:not(:disabled), select, summary, label[for], [role="button"] { cursor: pointer; }
 }
 
 @keyframes drawerIn {
@@ -40,8 +42,9 @@
   position: relative;
   overflow: hidden;
   background: #fff;
-  border-radius: 16px;
+  border-radius: 12px;
   box-shadow: 0 2px 8px #0000000f;
+  transition: box-shadow 200ms ease;
 }
 .card-surface::after {
   content: "";
@@ -50,6 +53,14 @@
   border-radius: inherit;
   border: 0.5px solid rgba(5, 41, 77, 0.15);
   pointer-events: none;
+  transition: border-color 200ms ease;
+}
+/* Clickable cards (toy cards, shop rows, clip cards): a slightly deeper shadow and darker border on hover */
+a.card-surface:hover, .card-surface.card-hover:hover {
+  box-shadow: 0 4px 14px #00000014;
+}
+a.card-surface:hover::after, .card-surface.card-hover:hover::after {
+  border-color: rgba(5, 41, 77, 0.25);
 }
 
 .no-scrollbar::-webkit-scrollbar { display: none; }

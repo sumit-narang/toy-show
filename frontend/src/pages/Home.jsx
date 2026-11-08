@@ -41,7 +41,7 @@ function Chip({ active, onClick, children }) {
     <button
       onClick={onClick}
       className={`shrink-0 inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-sm font-semibold transition ${
-        active ? 'bg-ink text-white' : 'bg-white ring-1 ring-black/10 hover:ring-black/25'
+        active ? 'bg-berry text-white' : 'bg-white ring-1 ring-black/10 hover:ring-berry/50 hover:text-berry'
       }`}
     >
       {children}
@@ -127,7 +127,9 @@ export default function Home() {
               <select
                 value={sort}
                 onChange={e => setParam('sort', e.target.value === 'year' ? null : e.target.value)}
-                className="appearance-none cursor-pointer rounded-full bg-white ring-1 ring-black/10 hover:ring-black/25 focus:ring-2 focus:ring-berry outline-none pl-4 pr-9 py-2 text-sm font-medium"
+                className={`appearance-none cursor-pointer rounded-full bg-white ring-1 hover:ring-berry/50 focus:ring-2 focus:ring-berry outline-none pl-4 pr-9 py-2 text-sm font-medium ${
+                  sort === 'year' ? 'ring-black/10' : 'ring-berry text-berry'
+                }`}
                 aria-label="Sort"
               >
                 <option value="year">Newest</option>
@@ -135,7 +137,7 @@ export default function Home() {
                 <option value="priceHigh">Price high</option>
                 <option value="priceLow">Price low</option>
               </select>
-              <svg aria-hidden viewBox="0 0 16 16" className="pointer-events-none absolute right-3.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-black/55">
+              <svg aria-hidden viewBox="0 0 16 16" className={`pointer-events-none absolute right-3.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 ${sort === 'year' ? 'text-black/55' : 'text-berry'}`}>
                 <path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
@@ -171,7 +173,7 @@ export default function Home() {
 
         {limit < filtered.length && (
           <div className="flex justify-center mt-8">
-            <button onClick={showMore} className="rounded-full bg-ink text-white px-6 py-2.5 text-sm font-semibold hover:bg-black">
+            <button onClick={showMore} className="rounded-full bg-berry text-white px-6 py-2.5 text-sm font-semibold hover:bg-berry-dark transition-colors">
               Show more ({(filtered.length - limit).toLocaleString()} left)
             </button>
           </div>
@@ -179,12 +181,8 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-black/10 mt-8">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 text-xs text-black/50 flex flex-col gap-2">
-          <p>
-            An unofficial fan project, not affiliated with RTÉ. Toy lists come from RTÉ's yearly “Every toy from The Late Late Toy Show” articles.
-            Descriptions were written with AI from retailer information, and product videos are matched automatically, so the odd one may be off.
-          </p>
-          <p>Prices are as listed at the time of each show.</p>
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4 text-xs text-black/50 text-center">
+          <p>Not affiliated with RTÉ or The Late Late Toy Show. Prices are as listed at the time of each show.</p>
         </div>
       </footer>
 

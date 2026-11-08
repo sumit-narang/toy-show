@@ -23,7 +23,7 @@ export default function ToyCard({ toy, index }) {
       <div className="flex flex-col px-[10%] pb-[9%]">
         <p className="text-xs text-black/55 truncate">{toy.category}</p>
         <h3 className="text-sm font-semibold leading-snug truncate group-hover:text-berry transition-colors">{toy.name}</h3>
-        {price && <p className="text-xs font-semibold text-ink">{price}</p>}
+        {price && <p className="mt-0.5 text-xs font-semibold text-ink">{price}</p>}
       </div>
     </Link>
   )

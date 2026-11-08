@@ -10,7 +10,11 @@ const cleanTitle = t => t.replace(/\s*[|·–—-]\s*(the\s+)?late late (toy )?s
 function Video({ video, label }) {
   const [playing, setPlaying] = useState(false)
   return (
-    <figure className="card-surface flex flex-col">
+    // Clicking anywhere on the card plays the clip in place; the play button keeps it keyboard-accessible
+    <figure
+      onClick={() => setPlaying(true)}
+      className={`card-surface flex flex-col ${playing ? '' : 'card-hover group cursor-pointer'}`}
+    >
       <div className="relative aspect-video bg-black">
         {playing ? (
           <iframe
@@ -32,9 +36,11 @@ function Video({ video, label }) {
       <figcaption className="flex items-start justify-between gap-4 px-4 py-3">
         <div className="flex flex-col min-w-0">
           <span className="text-xs text-black/55">{label}</span>
-          <span className="text-sm font-semibold leading-snug line-clamp-2">{cleanTitle(video.title)}</span>
+          <span className="text-sm font-semibold leading-snug line-clamp-2 group-hover:text-berry transition-colors">{cleanTitle(video.title)}</span>
         </div>
-        <a href={ytWatch(video.id)} target="_blank" rel="noreferrer" className="shrink-0 text-xs text-black/55 hover:text-berry">YouTube ↗</a>
+        <a href={ytWatch(video.id)} target="_blank" rel="noreferrer" onClick={e => e.stopPropagation()} className="shrink-0 text-xs text-black/55 hover:text-berry">
+          YouTube <span aria-hidden className="inline-block transition-transform group-hover:translate-x-[2px]">↗</span>
+        </a>
       </figcaption>
     </figure>
   )
@@ -106,17 +112,16 @@ export default function ToyDrawer({ toy, related, onClose }) {
 
           {toy.retailers.length > 0 && (
             <section className="flex flex-col gap-2">
-              <div className="flex flex-col gap-0.5">
-                <h3 className="text-[15px] font-semibold">Where it was sold in {toy.year}</h3>
-                <p className="text-xs text-black/45">Links are from RTÉ's original list. Older ones may no longer work.</p>
-              </div>
+              <h3 className="text-[15px] font-semibold">Where it was sold in {toy.year}</h3>
               <ul className="flex flex-col gap-2">
                 {toy.retailers.map(r => (
                   <li key={r.name + r.url}>
                     {r.url ? (
                       <a href={r.url} target="_blank" rel="noreferrer nofollow" className="card-surface group flex items-center justify-between px-4 py-3">
                         <span className="font-medium text-sm group-hover:text-berry transition-colors">{r.name}</span>
-                        <span className="text-xs text-black/45">{host(r.url)} ↗</span>
+                        <span className="text-xs text-black/45">
+                          {host(r.url)} <span aria-hidden className="inline-block transition-transform group-hover:translate-x-[2px]">↗</span>
+                        </span>
                       </a>
                     ) : (
                       <span className="card-surface block px-4 py-3 text-sm font-medium">{r.name}</span>
