@@ -3,7 +3,7 @@
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --color-paper: #ffffff;
+  --color-paper: #fcfcfc;
   --color-ink: #1f1a17;
   --color-berry: #c8102e;
   --color-berry-dark: #9c0c24;
@@ -32,6 +32,24 @@
 .animate-drawer { animation: drawerIn 280ms cubic-bezier(0.22, 1, 0.36, 1); }
 .animate-backdrop { animation: backdropIn 200ms ease-out; }
 .animate-card { animation: cardIn 300ms ease-out both; }
+
+/* Shared card surface: toy cards and the "where it was sold" rows.
+   The border is drawn on top of the content so photos never cover it. */
+.card-surface {
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px #0000000f;
+}
+.card-surface::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  border: 0.5px solid rgba(5, 41, 77, 0.15);
+  pointer-events: none;
+}
 
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { scrollbar-width: none; }

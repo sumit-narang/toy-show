@@ -9,7 +9,7 @@ export default function ToyCard({ toy, index }) {
     <Link
       to={`/toy/${toy.id}`}
       title={toy.name}
-      className="animate-card group relative flex flex-col rounded-[20px] overflow-hidden bg-white shadow-[0_2px_8px_#0000000f] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-berry"
+      className="animate-card card-surface group flex flex-col focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-berry"
       style={{ animationDelay: `${Math.min(index, 20) * 20}ms` }}
     >
       <ToyImage
@@ -25,7 +25,6 @@ export default function ToyCard({ toy, index }) {
         <h3 className="text-sm font-semibold leading-snug truncate group-hover:text-berry transition-colors">{toy.name}</h3>
         {price && <p className="text-xs font-semibold text-ink">{price}</p>}
       </div>
-      <div aria-hidden className="pointer-events-none absolute inset-0 rounded-[inherit] border-[0.5px] border-[rgba(5,41,77,0.1)]" />
     </Link>
   )
 }
