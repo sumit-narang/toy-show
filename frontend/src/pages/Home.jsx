@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useMemo, useState, useSyncExternalStore } from 'react'
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
 import data from '../data/toys.json'
 import ToyCard from '../components/ToyCard.jsx'
@@ -76,6 +76,11 @@ function Hero() {
   )
 }
 
+// Screens narrower than 374px: the full search placeholder gets cut off there
+const NARROW = typeof window !== 'undefined' ? window.matchMedia('(max-width: 373.98px)') : null
+const subscribeNarrow = cb => { NARROW?.addEventListener('change', cb); return () => NARROW?.removeEventListener('change', cb) }
+const useNarrow = () => useSyncExternalStore(subscribeNarrow, () => !!NARROW?.matches, () => false)
+
 function Chip({ active, onClick, children }) {
   return (
     <button
@@ -114,6 +119,7 @@ export default function Home() {
   const { id } = useParams()
   const navigate = useNavigate()
   const [params, setParams] = useSearchParams()
+  const narrow = useNarrow()
 
   const year = params.get('year') ? Number(params.get('year')) : null
   const sort = params.get('sort') || 'year'
@@ -157,7 +163,8 @@ export default function Home() {
             <input
               value={q}
               onChange={e => setParam('q', e.target.value)}
-              placeholder="Search toys, brands, shops…"
+              placeholder={narrow ? 'Search…' : 'Search toys, brands, shops…'}
+              aria-label="Search toys, brands, shops"
               className="flex-1 min-w-0 rounded-full bg-white ring-1 ring-black/10 focus:ring-2 focus:ring-berry outline-none px-4 py-2 text-sm"
             />
             <div className="relative shrink-0">
