@@ -94,10 +94,7 @@ function YearClips({ year }) {
   if (!info.clips.length) return null
   return (
     <section className="mb-8">
-      <div className="flex items-baseline justify-between mb-3">
-        <h2 className="font-display text-xl font-bold">Clips from the {year} show</h2>
-        <span className="text-xs text-black/45">Official uploads from The Late Late Show on YouTube</span>
-      </div>
+      <h2 className="text-base font-semibold mb-3">Clips from the {year} show</h2>
       <div className="flex gap-3 overflow-x-auto no-scrollbar -mx-4 px-4 sm:mx-0 sm:px-0 pb-1">
         {info.clips.map(c => (
           <a key={c.id} href={ytWatch(c.id)} target="_blank" rel="noreferrer" className="group shrink-0 w-60">
@@ -195,9 +192,8 @@ export default function Home() {
       <main className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
         {year && <YearClips year={year} />}
 
-        <p className="text-sm text-black/55 mb-4">
+        <p className="text-base font-semibold mb-4">
           {filtered.length.toLocaleString()} {filtered.length === 1 ? 'toy' : 'toys'}
-          {year && years[year].host && <> · presented by {years[year].host}</>}
         </p>
 
         {filtered.length === 0 ? (
