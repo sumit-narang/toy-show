@@ -66,9 +66,9 @@ function Hero() {
         <>
           {/* a soft dark gradient over the bottom of the photo so the pill doesn't get lost in it */}
           <div aria-hidden className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/60 to-transparent" />
-          <p className="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 whitespace-nowrap inline-flex items-center gap-2 overflow-hidden rounded-full bg-black/55 backdrop-blur-sm ring-1 ring-white/25 text-white px-4 py-2 text-xs sm:text-sm font-semibold">
+          <p className="absolute bottom-3 left-1/2 -translate-x-1/2 sm:bottom-5 whitespace-nowrap inline-flex items-center gap-2 overflow-hidden rounded-full liquid-glass text-white px-4 py-2 text-xs sm:text-sm font-semibold">
             <Snow />
-            <span className="relative">🎄 {countdown}</span>
+            <span className="relative z-[1]">🎄 {countdown}</span>
           </p>
         </>
       )}

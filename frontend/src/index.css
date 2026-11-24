@@ -92,3 +92,67 @@ a.card-surface:hover::after, .card-surface.card-hover:hover::after {
   background-image: radial-gradient(rgba(255, 255, 255, 0.14) 1.5px, transparent 1.5px);
   background-size: 22px 22px;
 }
+
+/* Apple-style "liquid glass" pill (hero countdown).
+   Light translucent fill with a strong blur + saturation boost, a soft inner glow, and
+   a 1px gradient rim that is brightest top-left and bottom-right, like light catching
+   the edge of a glass lens.
+   No `position` here: unlayered CSS beats Tailwind utilities, so it would override the
+   element's own `absolute` class. Put the class on an absolute/relative element instead.
+
+   Browser support: the base rules are a plain dark pill with a flat 1px border, which
+   is what browsers without backdrop-filter or CSS masks get. The @supports blocks
+   upgrade to glass (Chrome 76+, Safari 9+, Firefox 103+) and the gradient rim (masks:
+   Chrome 120+ unprefixed / older Chrome and Safari via -webkit-, Firefox 53+). */
+.liquid-glass {
+  isolation: isolate;
+  background: rgba(20, 20, 24, 0.6);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.25),
+    0 8px 24px rgba(0, 0, 0, 0.28),
+    0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+@supports (backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px)) {
+  .liquid-glass {
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.22) 0%, rgba(255, 255, 255, 0.06) 55%, rgba(255, 255, 255, 0.12) 100%),
+      rgba(20, 20, 24, 0.18);
+    -webkit-backdrop-filter: blur(14px) saturate(180%) brightness(1.05);
+    backdrop-filter: blur(14px) saturate(180%) brightness(1.05);
+  }
+}
+
+/* Gradient rim, only where masks work: without a mask the gradient would cover the
+   whole pill instead of just its edge. */
+@supports (mask-composite: exclude) or (-webkit-mask-composite: xor) {
+  .liquid-glass {
+    box-shadow:
+      inset 0 0 12px rgba(255, 255, 255, 0.12),
+      0 8px 24px rgba(0, 0, 0, 0.28),
+      0 1px 3px rgba(0, 0, 0, 0.2);
+  }
+  .liquid-glass::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    border-radius: inherit;
+    padding: 1px;
+    /* 1px rim: white at the top-left and bottom-right, fading to transparent between */
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, transparent 40%, transparent 60%, rgba(255, 255, 255, 0.5) 100%);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+    pointer-events: none;
+  }
+}
+
+/* People who turned on "Reduce transparency" (macOS/iOS, Windows) get a solid pill */
+@media (prefers-reduced-transparency: reduce) {
+  .liquid-glass {
+    background: rgb(32, 30, 30);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+}
