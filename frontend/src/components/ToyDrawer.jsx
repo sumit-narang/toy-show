@@ -104,7 +104,7 @@ export default function ToyDrawer({ toy, related, onClose }) {
       <aside
         role="dialog"
         aria-label={toy.name}
-        className="animate-drawer absolute right-0 top-0 h-full w-full sm:w-[560px] sm:right-3 sm:top-3 sm:h-[calc(100%-24px)] bg-paper sm:rounded-[16px] shadow-2xl overflow-y-auto"
+        className="animate-drawer absolute right-0 top-0 h-full w-full md:w-[560px] bg-paper shadow-2xl overflow-y-auto"
       >
         {/* zero-height sticky row: the close button floats over the photo without pushing it down */}
         <div className="sticky top-0 z-10 h-0 flex justify-end">

@@ -21,9 +21,16 @@
   a[href], button:not(:disabled), select, summary, label[for], [role="button"] { cursor: pointer; }
 }
 
+/* Phones and tablets: the drawer slides up from the bottom; wider screens: in from the right */
 @keyframes drawerIn {
-  from { transform: translateX(calc(100% + 20px)); }
-  to   { transform: translateX(0); }
+  from { transform: translateY(100%); }
+  to   { transform: translateY(0); }
+}
+@media (min-width: 48rem) {
+  @keyframes drawerIn {
+    from { transform: translateX(100%); }
+    to   { transform: translateX(0); }
+  }
 }
 @keyframes backdropIn {
   from { opacity: 0; }
