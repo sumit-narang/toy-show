@@ -111,7 +111,7 @@ export default function ToyDrawer({ toy, related, onClose }) {
           <button onClick={onClose} className="mt-3 mr-3 w-9 h-9 shrink-0 rounded-full bg-white/90 ring-1 ring-black/10 hover:bg-white text-lg" aria-label="Close">✕</button>
         </div>
 
-        {/* Type scale: title 24 > section headings and price 16 > body 14 > labels 12; -0.3px letter spacing everywhere */}
+        {/* Type scale: title 20 > section headings and price 16 > body 14 > labels 12; -0.3px letter spacing everywhere */}
         <Hero toy={toy} />
 
         <div className="px-5 sm:px-7 pt-6 pb-10 flex flex-col">
@@ -120,7 +120,7 @@ export default function ToyDrawer({ toy, related, onClose }) {
             <p className="text-xs text-black/55">
               {[`Toy Show ${toy.year}`, toy.category, toy.irish && 'Irish', toy.ageRange && `Ages ${toy.ageRange}`, toy.brand].filter(Boolean).join(' · ')}
             </p>
-            <h2 className="mt-1 text-2xl leading-7 font-semibold">{toy.name}</h2>
+            <h2 className="mt-1 text-xl leading-[26px] font-semibold">{toy.name}</h2>
             {price && <p className="mt-1 text-base font-semibold text-ink">{price}</p>}
           </header>
 
